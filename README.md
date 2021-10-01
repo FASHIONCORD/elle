@@ -9,3 +9,7 @@ https://fashioncord.github.io/elle/all.xml
    - 아트&디자인: https://fashioncord.github.io/elle/elle_culture_artanddesign.xml
 - 러브&라이프: https://fashioncord.github.io/elle/elle_loveandlife.xml
 - 소사이어티: https://fashioncord.github.io/elle/elle_society.xml
+
+---
+
+[▶️ 패션 매거진 이동하기](https://github.com/FASHIONCORD/magazine)
