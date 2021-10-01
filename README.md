@@ -1,5 +1,5 @@
 # 엘르 코리아 ELLE KOREA
-
+https://fashioncord.github.io/elle/all.xml
 - 패션: https://fashioncord.github.io/elle/elle_fashion.xml
 - 뷰티: https://fashioncord.github.io/elle/elle_beauty.xml
 - 스타: https://fashioncord.github.io/elle/elle_star.xml
