@@ -1,4 +1,4 @@
-[elle_fashion]
+[fashion]
 title = "엘르 코리아 ─ 패션"
 url = "https://www.elle.co.kr/fashion"
 entrySelector = "div.articlebox"
@@ -8,7 +8,7 @@ contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitUntil = "networkidle"
 
-[elle_beauty]
+[beauty]
 title = "엘르 코리아 ─ 뷰티"
 url = "https://www.elle.co.kr/beauty"
 entrySelector = "div.articlebox"
@@ -18,7 +18,7 @@ contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitUntil = "networkidle"
 
-[elle_star]
+[star]
 title = "엘르 코리아 ─ 스타"
 url = "https://www.elle.co.kr/star"
 entrySelector = "div.articlebox"
@@ -28,7 +28,7 @@ contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitUntil = "networkidle"
 
-[elle_culture]
+[culture]
 title = "엘르 코리아 ─ 컬쳐"
 url = "https://www.elle.co.kr/culture"
 entrySelector = "div.articlebox"
@@ -38,7 +38,7 @@ contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitUntil = "networkidle"
 
-[elle_culture_music]
+[culture_music]
 title = "엘르 코리아 ─ 컬쳐 ─ 뮤직"
 url = "https://www.elle.co.kr/culture/music"
 entrySelector = "div.articlebox"
@@ -48,7 +48,7 @@ contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitUntil = "networkidle"
 
-[elle_culture_moviesandtv]
+[culture_moviesandtv]
 title = "엘르 코리아 ─ 컬쳐 ─ 무비&TV"
 url = "https://www.elle.co.kr/culture/moviesandtv"
 entrySelector = "div.articlebox"
@@ -58,7 +58,7 @@ contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitUntil = "networkidle"
 
-[elle_culture_artanddesign]
+[culture_artanddesign]
 title = "엘르 코리아 ─ 컬쳐 ─ 아트&디자인"
 url = "https://www.elle.co.kr/culture/artanddesign"
 entrySelector = "div.articlebox"
@@ -68,7 +68,7 @@ contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitUntil = "networkidle"
 
-[elle_loveandlife]
+[loveandlife]
 title = "엘르 코리아 ─ 컬쳐 ─ 러브&라이프"
 url = "https://www.elle.co.kr/loveandlife"
 entrySelector = "div.articlebox"
@@ -78,7 +78,7 @@ contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitUntil = "networkidle"
 
-[elle_society]
+[society]
 title = "엘르 코리아 ─ 소사이어티"
 url = "https://www.elle.co.kr/society"
 entrySelector = "div.articlebox"
