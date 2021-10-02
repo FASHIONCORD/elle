@@ -11,13 +11,13 @@ https://fashioncord.github.io/elle/all.xml
 - 소사이어티: https://fashioncord.github.io/elle/society.xml
 
 ## 네이버 포스트
-- https://FASHIONCORD.github.io/elle/naverpost_elle_loveandlife.xml
-- https://FASHIONCORD.github.io/elle/naverpost_elle_shop.xml
-- https://FASHIONCORD.github.io/elle/naverpost_elle_beauty.xml
-- https://FASHIONCORD.github.io/elle/naverpost_elle_fashion.xml
-- https://FASHIONCORD.github.io/elle/naverpost_elle_star.xml
-- https://FASHIONCORD.github.io/elle/naverpost_elle_notice.xml
+- https://fashioncord.github.io/elle/naverpost_elle_loveandlife.xml
+- https://fashioncord.github.io/elle/naverpost_elle_shop.xml
+- https://fashioncord.github.io/elle/naverpost_elle_beauty.xml
+- https://fashioncord.github.io/elle/naverpost_elle_fashion.xml
+- https://fashioncord.github.io/elle/naverpost_elle_star.xml
+- https://fashioncord.github.io/elle/naverpost_elle_notice.xml
 
 ---
 
-[▶️ 패션 매거진 이동하기](https://github.com/FASHIONCORD/magazine)
+[▶️ 패션 매거진 이동하기](https://github.com/fashioncord/magazine)
