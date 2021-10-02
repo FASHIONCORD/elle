@@ -61,7 +61,6 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
-timeout = 120
 
 [beauty]
 title = "엘르 코리아 ─ 뷰티"
@@ -72,7 +71,6 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
-timeout = 120
 
 [star]
 title = "엘르 코리아 ─ 스타"
@@ -103,7 +101,6 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
-timeout = 120
 
 [culture_moviesandtv]
 title = "엘르 코리아 ─ 컬쳐 ─ 무비&TV"
@@ -114,7 +111,6 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
-timeout = 120
 
 [culture_artanddesign]
 title = "엘르 코리아 ─ 컬쳐 ─ 아트&디자인"
@@ -125,7 +121,6 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
-timeout = 120
 
 [loveandlife]
 title = "엘르 코리아 ─ 컬쳐 ─ 러브&라이프"
@@ -136,7 +131,6 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
-timeout = 120
 
 [society]
 title = "엘르 코리아 ─ 소사이어티"
@@ -147,4 +141,3 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
-timeout = 120
