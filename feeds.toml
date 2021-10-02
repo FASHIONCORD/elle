@@ -60,7 +60,8 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
+timeout = 120
 
 [beauty]
 title = "엘르 코리아 ─ 뷰티"
@@ -70,7 +71,8 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
+timeout = 120
 
 [star]
 title = "엘르 코리아 ─ 스타"
@@ -80,7 +82,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
 
 [culture]
 title = "엘르 코리아 ─ 컬쳐"
@@ -90,7 +92,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
 
 [culture_music]
 title = "엘르 코리아 ─ 컬쳐 ─ 뮤직"
@@ -100,7 +102,8 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
+timeout = 120
 
 [culture_moviesandtv]
 title = "엘르 코리아 ─ 컬쳐 ─ 무비&TV"
@@ -110,7 +113,8 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
+timeout = 120
 
 [culture_artanddesign]
 title = "엘르 코리아 ─ 컬쳐 ─ 아트&디자인"
@@ -120,7 +124,8 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
+timeout = 120
 
 [loveandlife]
 title = "엘르 코리아 ─ 컬쳐 ─ 러브&라이프"
@@ -130,7 +135,8 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
+timeout = 120
 
 [society]
 title = "엘르 코리아 ─ 소사이어티"
@@ -140,4 +146,5 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
+timeout = 120
