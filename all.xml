@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 06:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 07:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -979,6 +979,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/63dfe46c-1012-4313-97b7-1ab8e09441e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신세경의 시크릿 뷰티 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/58888</link>
+            <guid>https://www.elle.co.kr/article/58888</guid>
+            <pubDate>Mon, 04 Oct 2021 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[신세경이 간직한 신비로움의 비결. 아베다 인바티 어드밴스드™로 달라진 그녀의 뷰티 모멘츠를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/83e3d2e4-0e48-4cf9-98ef-c5493ebdfdcb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[문숙이 알려주는 침대 위 15분 아침 요가 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/58981</link>
             <guid>https://www.elle.co.kr/article/58981</guid>
@@ -1033,14 +1041,6 @@
             <pubDate>Fri, 01 Oct 2021 09:04:24 GMT</pubDate>
             <content:encoded><![CDATA[플라스틱 없는 욕실을 위한 샴푸 바.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/0c7519a6-4381-44dd-b795-de860f485cd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향수보다 핫하다는 퍼퓸 손 세정제 4 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/58688</link>
-            <guid>https://www.elle.co.kr/article/58688</guid>
-            <pubDate>Fri, 01 Oct 2021 09:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[파우치 필수템으로 완벽!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/21/d98a6399-bb27-4b87-a82d-833ecfbae42e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백지영이 다이어트 카운슬러에게 전수 받은 탄수화물 제한 식단 (엘르 코리아 ─ 스타)]]></title>
