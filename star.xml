@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 10:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 11:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 S/S 밀란 패션위크 하이라이트 5]]></title>
+            <link>https://www.elle.co.kr/article/59012</link>
+            <guid>https://www.elle.co.kr/article/59012</guid>
+            <pubDate>Mon, 04 Oct 2021 11:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[역대급 콜라보로 화제가 된 '펜다체'부터 듀얼 런웨이를 선보인 프라다, 5개국에서 디지털 라...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/458faa7d-a59d-40be-a196-a75f6561ce86.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원더풀 이하늬_요주의 여성 #31]]></title>
             <link>https://www.elle.co.kr/article/58991</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 09:28:04 GMT</pubDate>
             <content:encoded><![CDATA[코트 안에서도 밖에서도 유쾌한 김연경.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/52446188-69f2-40f8-a4ac-14601173ac37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을맞이 새 신발 쇼핑 (feat. 로퍼)]]></title>
-            <link>https://www.elle.co.kr/article/58939</link>
-            <guid>https://www.elle.co.kr/article/58939</guid>
-            <pubDate>Fri, 01 Oct 2021 09:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[‘요즘 뭐 신지?’ 고민이라면 주목! 단정하고 귀여운 매력의 로퍼 쇼핑 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/0b3fb62b-ca69-4f93-9db0-2286ab024201.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
