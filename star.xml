@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 06:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 07:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비즈니스 파트너이자 동갑내기 찐친, 허니제이X박재범]]></title>
+            <link>https://www.elle.co.kr/article/59023</link>
+            <guid>https://www.elle.co.kr/article/59023</guid>
+            <pubDate>Tue, 05 Oct 2021 07:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[허니제이의 '홀리뱅'이란 크루명도 박재범과 의논했다고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/77f7df2d-7f22-43be-9eb2-ac2584efcfb9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[계절이 바뀌며 윤박도 바뀐다]]></title>
             <link>https://www.elle.co.kr/article/59020</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 22:19:14 GMT</pubDate>
             <content:encoded><![CDATA[자신만의 방식대로 지금을 그려나가는 비비.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/0a8df816-957f-4507-9a89-95a2067cbccf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채림이 아들 민우를 방송 최초로 공개하며 눈물을 흘린 이유]]></title>
-            <link>https://www.elle.co.kr/article/58955</link>
-            <guid>https://www.elle.co.kr/article/58955</guid>
-            <pubDate>Fri, 01 Oct 2021 09:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC '내가 키운다'에서 아들과의 일상을 전했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/e891078e-7460-45a2-9d0e-218a1d6cc16f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
