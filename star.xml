@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 11:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 12:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달릴 준비가 되어 있는 배우, 강민아 #엘르런]]></title>
+            <link>https://www.elle.co.kr/article/59029</link>
+            <guid>https://www.elle.co.kr/article/59029</guid>
+            <pubDate>Tue, 05 Oct 2021 12:30:16 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 마음과 환한 미소로 도약할 준비가 되어 있는 97년생 배우 강민아]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/b7b2afc0-9f70-4a23-8743-d698744ec8c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비즈니스 파트너이자 동갑내기 찐친, 허니제이X박재범]]></title>
             <link>https://www.elle.co.kr/article/59023</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 15:19:51 GMT</pubDate>
             <content:encoded><![CDATA[건강한 삶을 지향하는 문숙과 함께 간단하고 쉬운 요가로 아침을 시작해보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/33c65c4c-4c74-443b-a5f8-d2d1de287282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비비는 오늘도 자유롭게 비행중]]></title>
-            <link>https://www.elle.co.kr/article/58980</link>
-            <guid>https://www.elle.co.kr/article/58980</guid>
-            <pubDate>Fri, 01 Oct 2021 22:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[자신만의 방식대로 지금을 그려나가는 비비.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/0a8df816-957f-4507-9a89-95a2067cbccf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

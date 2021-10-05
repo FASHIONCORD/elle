@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 11:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 12:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은빛 억새밭에 시대극 촬영지까지 다 있다! 합천 가면 들러야 할 명소 셋 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/59013</link>
+            <guid>https://www.elle.co.kr/article/59013</guid>
+            <pubDate>Tue, 05 Oct 2021 12:32:09 GMT</pubDate>
+            <content:encoded><![CDATA[볼거리 많은 합천의 대표 명소들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/26669000-cbea-4825-a574-cddd737902a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금, 여기의 미술들이 있는 곳! 10월 미디어 비엔날레 2 #인싸 전시_36]]></title>
             <link>https://www.elle.co.kr/article/58986</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 09:30:04 GMT</pubDate>
             <content:encoded><![CDATA[조명 교체 열풍이다. 팬데믹 속 소중한 둥지, 내 집을 위한 선물.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/784206f3-c431-42fd-934e-de56500c3443.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 곽지영 다이어트! 맛과 건강 둘 다 잡은 다이어트 식단 3]]></title>
-            <link>https://www.elle.co.kr/article/58809</link>
-            <guid>https://www.elle.co.kr/article/58809</guid>
-            <pubDate>Fri, 01 Oct 2021 09:30:04 GMT</pubDate>
-            <content:encoded><![CDATA[굶는 다이어트는 그만! 13년차 모델 곽지영이 소개하는 건강에 중점을 둔 다이어트 식단과 다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/ecb94146-5f7a-4cb2-87b5-eca624283820.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
