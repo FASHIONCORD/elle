@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 13:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 15:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1043,6 +1043,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/328801cb-5abd-4fbc-a12d-44d101641bca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가을엔 트렌치코트! 따라하고 싶은 가을 데일리 룩 #옷잘입는언니 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/59033</link>
+            <guid>https://www.elle.co.kr/article/59033</guid>
+            <pubDate>Tue, 05 Oct 2021 15:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[트렌치코트가 빛을 발하는 계절, 가을! 어떻게 입어야 좋을지 고민이라면? 옷 잘 입기로 유명...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/fc5ce8f7-b43f-4e8c-bb58-06e689697924.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[달릴 준비가 되어 있는 배우, 강민아 #엘르런 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/59029</link>
             <guid>https://www.elle.co.kr/article/59029</guid>
@@ -1099,12 +1107,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/28d9fabd-81cb-479f-831c-f58d4faeb166.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문숙이 알려주는 침대 위 15분 아침 요가 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/58981</link>
-            <guid>https://www.elle.co.kr/article/58981</guid>
-            <pubDate>Sat, 02 Oct 2021 15:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 삶을 지향하는 문숙과 함께 간단하고 쉬운 요가로 아침을 시작해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/33c65c4c-4c74-443b-a5f8-d2d1de287282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK ! (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/58988</link>
+            <guid>https://www.elle.co.kr/article/58988</guid>
+            <pubDate>Fri, 01 Oct 2021 12:30:38 GMT</pubDate>
+            <content:encoded><![CDATA[정통에 트렌드를 과감하게 믹스하는 7명의 훅]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/de498aaa-57fb-47e9-845f-819e4a3dc3d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드디어 막 내린 '환승연애', 과몰입 유발 영상 TOP 3 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1161,14 +1169,6 @@
             <pubDate>Fri, 01 Oct 2021 09:04:55 GMT</pubDate>
             <content:encoded><![CDATA[JTBC '내가 키운다'에서 아들과의 일상을 전했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/e891078e-7460-45a2-9d0e-218a1d6cc16f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기하다 말고 갑자기 팝핀? 김연경이 직접 밝힌 '팝핀 연경' 짤의 전말 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/58945</link>
-            <guid>https://www.elle.co.kr/article/58945</guid>
-            <pubDate>Fri, 01 Oct 2021 09:04:55 GMT</pubDate>
-            <content:encoded><![CDATA[코트 안에서도 밖에서도 유쾌한 김연경.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/52446188-69f2-40f8-a4ac-14601173ac37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK ! (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1379,6 +1379,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/c3de877a-7661-40ad-8f4d-c1d03e0b3847.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[모델하우스 맞아? 멋지게 변신한 이곳 #원에디션아트스페이스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/59068</link>
+            <guid>https://www.elle.co.kr/article/59068</guid>
+            <pubDate>Tue, 05 Oct 2021 15:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[견본 주택이 대중과 소통하는 아트 공간으로 멋지게 탈바꿈했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/1f02ed77-762b-472c-8619-2afbf2b1bd26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서촌에서 즐기는 향긋한 차의 풍경, 전시 '다함께 차차차' (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/59045</link>
             <guid>https://www.elle.co.kr/article/59045</guid>
@@ -1473,14 +1481,6 @@
             <pubDate>Fri, 01 Oct 2021 09:06:47 GMT</pubDate>
             <content:encoded><![CDATA[요즘 아트 신을 사로잡은 '뉴 아트 제너레이션'은 어떤 신인류일까? 미술을 가지고 노는 영 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/09/3470ce01-311a-4fe3-9102-32a8d040924d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 공개된 김나영의 뉴 오피스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/58293</link>
-            <guid>https://www.elle.co.kr/article/58293</guid>
-            <pubDate>Fri, 01 Oct 2021 09:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[김나영의 새로운 ‘노필터 티비’ 사무실이 드디어 공개되었습니다! 그녀의 취향과 감각이 가득 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/05/37eaad47-83e5-4268-8872-c9ce380b5f7a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은빛 억새밭에 시대극 촬영지까지 다 있다! 합천 가면 들러야 할 명소 셋 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
