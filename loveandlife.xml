@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 23:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 01:03:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돼지국밥X한우X산채한정식, 우리가 몰랐던 전통의 식도락 명소 합천 맛집 셋 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/58880</link>
+            <guid>https://www.elle.co.kr/article/58880</guid>
+            <pubDate>Tue, 05 Oct 2021 01:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[합천에 이렇게 먹을 게 많았다고!?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/465cd94b-a9b9-4781-8935-f949d1595aa3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단조로운 공간이 지겨울 때, 변화를 줄 공예품 3]]></title>
             <link>https://www.elle.co.kr/article/58866</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 09:30:04 GMT</pubDate>
             <content:encoded><![CDATA[그녀에게 특별한 선물이 찾아왔다. LG 코드제로 A9S &amp; R9 오브제컬렉션과 함께한 오윤아...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/21c58184-a24c-46e3-bc2f-d3c1d87ea77b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 브랜드의 DNA를 간직한 리빙 아이템(2)]]></title>
-            <link>https://www.elle.co.kr/article/58753</link>
-            <guid>https://www.elle.co.kr/article/58753</guid>
-            <pubDate>Fri, 01 Oct 2021 09:30:04 GMT</pubDate>
-            <content:encoded><![CDATA[삶은 예술! 일상에 끼얹는 유니크한 마법 한 스푼.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/66918657-3a16-48f9-aab5-96fd957ce905.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
