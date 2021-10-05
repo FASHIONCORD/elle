@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 09:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 10:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1107,6 +1107,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/0a8df816-957f-4507-9a89-95a2067cbccf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드디어 막 내린 '환승연애', 과몰입 유발 영상 TOP 3 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/58997</link>
+            <guid>https://www.elle.co.kr/article/58997</guid>
+            <pubDate>Fri, 01 Oct 2021 09:06:17 GMT</pubDate>
+            <content:encoded><![CDATA[눈물도 웃음도 분노도 유발했던 '환승연애' 15주.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/4e19d934-a1f8-4a3b-b811-e5ee9eaa2800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지금, 여기의 미술들이 있는 곳! 10월 미디어 비엔날레 2 #인싸 전시_36 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/58986</link>
             <guid>https://www.elle.co.kr/article/58986</guid>
@@ -1161,14 +1169,6 @@
             <pubDate>Fri, 01 Oct 2021 09:04:55 GMT</pubDate>
             <content:encoded><![CDATA[코트 안에서도 밖에서도 유쾌한 김연경.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/52446188-69f2-40f8-a4ac-14601173ac37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남다른 영화 안목을 갖춘 당신이 만족해할 최신 영화 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/58933</link>
-            <guid>https://www.elle.co.kr/article/58933</guid>
-            <pubDate>Fri, 01 Oct 2021 09:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[재미와 작품성, 영상미까지 뭐 하나 빠지지 않는 신작 영화 두 편.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/8d87b37b-f9a1-4e0e-920b-d1c4c2af32a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK ! (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
