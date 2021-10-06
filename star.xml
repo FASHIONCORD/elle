@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 14:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 15:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙합 아티스트가 다녀간 맛집 따라가기 4]]></title>
+            <link>https://www.elle.co.kr/article/59067</link>
+            <guid>https://www.elle.co.kr/article/59067</guid>
+            <pubDate>Wed, 06 Oct 2021 15:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[‘힙’한 곳만 갈 것 같은 힙합 아티스트들이 방문한 맛집을 소개합니다. 최자/ pH-1/ 스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7dc61d38-8c57-491d-958b-8d77699761e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오징어게임' 최대 수혜자 정호연, '도수코' 도전자에서 '넷플수저' 되기까지]]></title>
             <link>https://www.elle.co.kr/article/59054</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Oct 2021 15:20:28 GMT</pubDate>
             <content:encoded><![CDATA[묘하게 바뀐 공기. 데뷔 10년 차에 인생의 전환기를 맞이한 윤박과 나눈 진짜 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/c2eab64c-a907-45d2-9e51-b2f65bba9161.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 S/S 밀란 패션위크 하이라이트 5]]></title>
-            <link>https://www.elle.co.kr/article/59012</link>
-            <guid>https://www.elle.co.kr/article/59012</guid>
-            <pubDate>Mon, 04 Oct 2021 11:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[역대급 콜라보로 화제가 된 '펜다체'부터 듀얼 런웨이를 선보인 프라다, 5개국에서 디지털 라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/458faa7d-a59d-40be-a196-a75f6561ce86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
