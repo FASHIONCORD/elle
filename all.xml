@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 02:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 03:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다함께 차차차! 서촌에서 차와 함께 즐기는 특별한 전시 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32498919&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32498919&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 06 Oct 2021 03:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDZfMTEz/MDAxNjMzNDg3NDU5ODEx.qJGX32Ex7YbvPo8OxS2TRA9EN36FizWg9dzk-RAuc20g.s9gbwHMlwNlVlIc6vB3CmKY1wAY2Jrhs7X4fa2l4WtMg.JPEG/In-0FqroupjXPUuOmetUWfiry_PA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버지도 저장각! 가을 제주 신상맛집 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32489429&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Oct 2021 01:21:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDlfMzEg/MDAxNjMxMTY2ODk1MDUz.kqxiQmfKeW-o_5a12HbJ71ZR2-yTJoC_KOzJIYMUJAog.ec0rD8XMEWyWsmn6FHUu_iYJQR1CPE1R1lDL49AmwP8g.JPEG/I2PCFQgj2Zah0NAgNP4fZfAsQPDo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버지도 저장각! 무드와 편안함을 선사할, 담양 감성 숙소 4 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32333060&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32333060&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 01:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDlfMTg3/MDAxNjMxMTIwMDk0NzEy.pFAVtBm6IM75ocJeS-NL66eOn8fHyZswPmAAeSEpWtAg.Q0lwBQJ9lNUOqxxghxIyYXssU9IyslyVyIDYkO78sBcg.PNG/IQOCX62Ul4YQsUPi29tC6tLHN0mw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[볼드한 애니멀프린트 가이드! (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
@@ -1110,7 +1110,7 @@
             <title><![CDATA[내마음에 골인! 100% 화보재질 #손흥민 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/59034</link>
             <guid>https://www.elle.co.kr/article/59034</guid>
-            <pubDate>Wed, 06 Oct 2021 02:31:07 GMT</pubDate>
+            <pubDate>Wed, 06 Oct 2021 02:30:55 GMT</pubDate>
             <content:encoded><![CDATA[언제 어디든 멋지게 질주하는 남자, 손흥민의 패션필름]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
         </item>
