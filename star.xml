@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 14:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 15:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건강지수 100%의 밈피디 #오마이걸 미미 #엘르런]]></title>
+            <link>https://www.elle.co.kr/article/59099</link>
+            <guid>https://www.elle.co.kr/article/59099</guid>
+            <pubDate>Thu, 07 Oct 2021 15:19:00 GMT</pubDate>
+            <content:encoded><![CDATA["운동은 신체에만 좋은 게 아니라 정신에도 좋더라고요" 뭘 좀 아는 미미의 처음 보는 매력 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/8b6b0a34-1fd6-4d2d-aaad-0bfdcbc8d360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머리부터 발끝까지 힙 & 핫 '스.우.파' 댄서 8인의 OOTD]]></title>
             <link>https://www.elle.co.kr/article/59089</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 14:20:23 GMT</pubDate>
             <content:encoded><![CDATA[뛰고, 땀을 흘리는 것을 두려워하지 않는 세상 발랄한 두 소녀]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/ee024445-8c4c-4377-ba7f-6d1c54ae8e58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내마음에 골인! 100% 화보재질 #손흥민]]></title>
-            <link>https://www.elle.co.kr/article/59034</link>
-            <guid>https://www.elle.co.kr/article/59034</guid>
-            <pubDate>Thu, 07 Oct 2021 14:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[언제 어디든 멋지게 질주하는 남자, 손흥민의 패션필름]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

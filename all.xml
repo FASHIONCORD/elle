@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 14:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 15:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -979,6 +979,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/0b3fb62b-ca69-4f93-9db0-2286ab024201.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[먹방만 보고 살찔 수 있다? YES! (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/58995</link>
+            <guid>https://www.elle.co.kr/article/58995</guid>
+            <pubDate>Thu, 07 Oct 2021 15:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[먹방 영상이 ‘길티플레저’가 아닌 ‘길티’가 될 수 있다는 이야기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/3f43cbe8-36fe-4159-bf0d-93118aafa0da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[백지영이 다이어트 카운슬러에게 전수 받은 탄수화물 제한 식단 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/58990</link>
             <guid>https://www.elle.co.kr/article/58990</guid>
@@ -1035,12 +1043,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/45ef8059-a1c3-415c-b272-4f7726bdb30a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이비의 냉장고 털기 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/58761</link>
-            <guid>https://www.elle.co.kr/article/58761</guid>
-            <pubDate>Fri, 01 Oct 2021 09:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[집에서 한 발자국도 나가고 싶지 않을 때! 아이비가 냉장고를 털어 만든 요리를 참고해 간단한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/328801cb-5abd-4fbc-a12d-44d101641bca.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[건강지수 100%의 밈피디 #오마이걸 미미 #엘르런 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/59099</link>
+            <guid>https://www.elle.co.kr/article/59099</guid>
+            <pubDate>Thu, 07 Oct 2021 15:19:00 GMT</pubDate>
+            <content:encoded><![CDATA["운동은 신체에만 좋은 게 아니라 정신에도 좋더라고요" 뭘 좀 아는 미미의 처음 보는 매력 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/8b6b0a34-1fd6-4d2d-aaad-0bfdcbc8d360.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머리부터 발끝까지 힙 & 핫 '스.우.파' 댄서 8인의 OOTD (엘르 코리아 ─ 스타)]]></title>
@@ -1097,14 +1105,6 @@
             <pubDate>Wed, 06 Oct 2021 04:27:07 GMT</pubDate>
             <content:encoded><![CDATA[뛰고, 땀을 흘리는 것을 두려워하지 않는 세상 발랄한 두 소녀]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/ee024445-8c4c-4377-ba7f-6d1c54ae8e58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내마음에 골인! 100% 화보재질 #손흥민 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/59034</link>
-            <guid>https://www.elle.co.kr/article/59034</guid>
-            <pubDate>Wed, 06 Oct 2021 02:30:55 GMT</pubDate>
-            <content:encoded><![CDATA[언제 어디든 멋지게 질주하는 남자, 손흥민의 패션필름]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[졌지만 잘 싸웠다! '스트릿 우먼 파이터' 두 번째 탈락 크루 '원트' 활약 모음 (엘르 코리아 ─ 컬쳐)]]></title>
