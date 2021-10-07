@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 07:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 08:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머리부터 발끝까지 힙 & 핫 '스.우.파' 댄서 8인의 OOTD]]></title>
+            <link>https://www.elle.co.kr/article/59089</link>
+            <guid>https://www.elle.co.kr/article/59089</guid>
+            <pubDate>Thu, 07 Oct 2021 08:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[지금 가장 주목받고 있는 &lt;스트릿 우먼 파이터&gt;의 주인공인 댄서들. SNS 피드에서 포착한 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/800e952c-5f39-4528-ac78-0e2f02d3ce0b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스우파' 세미 파이널 투표 시작! 제시 신곡 미션 나선 여섯 크루 영상.zip]]></title>
             <link>https://www.elle.co.kr/article/59080</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 06 Oct 2021 02:30:55 GMT</pubDate>
             <content:encoded><![CDATA[언제 어디든 멋지게 질주하는 남자, 손흥민의 패션필름]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을엔 트렌치코트! 따라하고 싶은 가을 데일리 룩 #옷잘입는언니]]></title>
-            <link>https://www.elle.co.kr/article/59033</link>
-            <guid>https://www.elle.co.kr/article/59033</guid>
-            <pubDate>Tue, 05 Oct 2021 15:04:28 GMT</pubDate>
-            <content:encoded><![CDATA[트렌치코트가 빛을 발하는 계절, 가을! 어떻게 입어야 좋을지 고민이라면? 옷 잘 입기로 유명...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/fc5ce8f7-b43f-4e8c-bb58-06e689697924.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
