@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 17:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 18:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1107,6 +1107,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/59234dbd-7b3e-4fb7-9177-849144b91af4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ① (feat. 박재범X로꼬, 한지민, 이준기) (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/59107</link>
+            <guid>https://www.elle.co.kr/article/59107</guid>
+            <pubDate>Thu, 07 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/3ff49d99-1ab6-4fdd-9264-a823bf9b676b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이태원의 오래된 빌라가 취향 좋은 주인을 만났다 #인테리어 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/59103</link>
             <guid>https://www.elle.co.kr/article/59103</guid>
@@ -1161,14 +1169,6 @@
             <pubDate>Tue, 05 Oct 2021 02:10:43 GMT</pubDate>
             <content:encoded><![CDATA[다구 구경하고, 특별한 차 맛도 보고!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/8ad569d9-dcd2-4767-911b-73ec03bd2b33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내마음에 골인! 100% 화보재질 #손흥민 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/59034</link>
-            <guid>https://www.elle.co.kr/article/59034</guid>
-            <pubDate>Wed, 06 Oct 2021 02:30:55 GMT</pubDate>
-            <content:encoded><![CDATA[언제 어디든 멋지게 질주하는 남자, 손흥민의 패션필름]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK ! (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
