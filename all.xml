@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 04:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 05:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -979,6 +979,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/0b3fb62b-ca69-4f93-9db0-2286ab024201.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[눈가에 내려앉은 가을 컬러 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/59158</link>
+            <guid>https://www.elle.co.kr/article/59158</guid>
+            <pubDate>Mon, 11 Oct 2021 05:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[드라마틱한 음영 메이크업을 위한 아이 팔레트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/5bbb4ca1-3932-4375-90a7-41dba57b01fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지금 이 시기에 꼭 챙겨먹어야 할 영양제 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/59133</link>
             <guid>https://www.elle.co.kr/article/59133</guid>
@@ -1035,12 +1043,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/3c513cdc-673b-4588-94de-1e843140b2b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신세경의 시크릿 뷰티 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/58888</link>
-            <guid>https://www.elle.co.kr/article/58888</guid>
-            <pubDate>Mon, 04 Oct 2021 07:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[신세경이 간직한 신비로움의 비결. 아베다 인바티 어드밴스드™로 달라진 그녀의 뷰티 모멘츠를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/83e3d2e4-0e48-4cf9-98ef-c5493ebdfdcb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤승아의 냉장고엔 무엇이? 내돈내산 식료품 7 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/59155</link>
+            <guid>https://www.elle.co.kr/article/59155</guid>
+            <pubDate>Mon, 11 Oct 2021 05:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[직접 골랐어요! 윤승아가 소개하는 ‘내돈내산’ 식료품 일곱 개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ddfaeb10-8fb7-495e-8695-91ca811b043c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['기적' 박정민부터 '오겜' 위하준까지? 스우파 '헤이 마마' 커버한 스타 4 (엘르 코리아 ─ 스타)]]></title>
@@ -1097,14 +1105,6 @@
             <pubDate>Thu, 07 Oct 2021 15:19:00 GMT</pubDate>
             <content:encoded><![CDATA["운동은 신체에만 좋은 게 아니라 정신에도 좋더라고요" 뭘 좀 아는 미미의 처음 보는 매력 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/8b6b0a34-1fd6-4d2d-aaad-0bfdcbc8d360.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리부터 발끝까지 힙 & 핫 '스.우.파' 댄서 8인의 OOTD (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/59089</link>
-            <guid>https://www.elle.co.kr/article/59089</guid>
-            <pubDate>Thu, 07 Oct 2021 08:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 주목받고 있는 &lt;스트릿 우먼 파이터&gt;의 주인공인 댄서들. SNS 피드에서 포착한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/800e952c-5f39-4528-ac78-0e2f02d3ce0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ② (feat. 나영석PD, 김연경, 김희애) (엘르 코리아 ─ 컬쳐)]]></title>
