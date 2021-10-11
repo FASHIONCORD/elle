@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 22:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 23:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<백스피릿> 백종원 단골 술집 리스트!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32530644&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32530644&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 11 Oct 2021 23:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMTAg/MDAxNjMzOTY1ODUwOTU1.74M-fnRAAf3IXPidafobmEdA4LyAKhYceYreK1K_ACcg.Ql1DO0tb9yMnwvQNA9Eq2EVu3HiRyUqPj8Ybik1aU8Qg.PNG/IId_P76HtFMPJpYnckDz7Z0M3puM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-크림빵의 위엄! 어마무시한 필링의 크림 디저트.zip]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32526503&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 15:17:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTRfMjQz/MDAxNjMxNTUzMTIyMzUz.uMKuaweoSGUGq2-o4OiWkJpNahkhHz-Zzcn_BHqHpL8g.cs-tMuvM00RfHprbhURpM_QWsH8aQinLBEgyMsBqExcg.PNG/I2JWoTvu9e0ixRqRDW41auj9dlb4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛있는(X) 마시는(O)녀석들의 '찐' 안주 맛집 5]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32356635&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32356635&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 15:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTNfMTg4/MDAxNjMxNDkzNTAxNjg4.RjinwuD0JtxsK7MuR4UpewHBRcvhOVOfBAi-_7j-Ymkg.YCfxmSKXULQquQYnT2nbU-gT3f5QswQbndQak-ikeKcg.JPEG/IOsCnODY5LYTrZdpam-Sfw2DbXNw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
