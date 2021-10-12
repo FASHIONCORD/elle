@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 14:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 15:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타들이 트위드 재킷을 입는 법]]></title>
+            <link>https://www.elle.co.kr/article/59210</link>
+            <guid>https://www.elle.co.kr/article/59210</guid>
+            <pubDate>Tue, 12 Oct 2021 15:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[차정원, 기은세, 한선화 등 스타들의 데일리 룩에서 포착된 트위드 재킷 스타일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/47e3c0af-e472-42e3-95a7-0dfa8be58436.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['하이클래스' 조여정 VS 김지수 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/59200</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Oct 2021 05:18:22 GMT</pubDate>
             <content:encoded><![CDATA[직접 골랐어요! 윤승아가 소개하는 ‘내돈내산’ 식료품 일곱 개.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ddfaeb10-8fb7-495e-8695-91ca811b043c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기적' 박정민부터 '오겜' 위하준까지? 스우파 '헤이 마마' 커버한 스타 4]]></title>
-            <link>https://www.elle.co.kr/article/59139</link>
-            <guid>https://www.elle.co.kr/article/59139</guid>
-            <pubDate>Sun, 10 Oct 2021 22:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[출퇴근길에도 샤워할 때도 '헤이 마마' 맴도는 사람은 고개를 들어 주세요...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/efbc4b7b-1870-4fa8-9c7f-c16d20bb224c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
