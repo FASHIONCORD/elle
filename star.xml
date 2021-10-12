@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 21:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 22:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박재범에 '하이힐 맛집' 조권도 등장! 기습 공개된 스우파 '맨 오브 우먼' 미션 모아보기.zip]]></title>
+            <link>https://www.elle.co.kr/article/59221</link>
+            <guid>https://www.elle.co.kr/article/59221</guid>
+            <pubDate>Tue, 12 Oct 2021 22:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[투표는 15일 자정까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/b0329ebc-edcd-41fd-af24-b802fc9c883a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타들이 트위드 재킷을 입는 법]]></title>
             <link>https://www.elle.co.kr/article/59210</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Oct 2021 07:19:10 GMT</pubDate>
             <content:encoded><![CDATA["이제는 오늘만이 전부예요." 새로운 작품으로, 결혼으로 새로운 시간을 걷기 시작한 윤계상....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/41f0d99b-c0f2-4bf6-8ac4-e4df4ea9e3a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아의 냉장고엔 무엇이? 내돈내산 식료품 7]]></title>
-            <link>https://www.elle.co.kr/article/59155</link>
-            <guid>https://www.elle.co.kr/article/59155</guid>
-            <pubDate>Mon, 11 Oct 2021 05:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[직접 골랐어요! 윤승아가 소개하는 ‘내돈내산’ 식료품 일곱 개.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ddfaeb10-8fb7-495e-8695-91ca811b043c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
