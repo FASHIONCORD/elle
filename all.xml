@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 23:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 01:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1483,6 +1483,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/13/432a4eaa-b38d-4060-88d0-a1fa1130b040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크림이야 빵이야? 크림 디저트로 유명한 맛집 플레이스 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/59142</link>
+            <guid>https://www.elle.co.kr/article/59142</guid>
+            <pubDate>Tue, 12 Oct 2021 01:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[한 눈에 봐도 어마어마한 크림양!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/b9fce982-c1a1-4b72-a60b-5c5ef265218d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ② (feat. 나영석PD, 김연경, 김희애) (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/59108</link>
             <guid>https://www.elle.co.kr/article/59108</guid>
@@ -1537,14 +1545,6 @@
             <pubDate>Tue, 05 Oct 2021 02:10:43 GMT</pubDate>
             <content:encoded><![CDATA[다구 구경하고, 특별한 차 맛도 보고!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/8ad569d9-dcd2-4767-911b-73ec03bd2b33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 핫한 애월읍부터 금능 해수욕장까지, 새로 생긴 제주 맛집 3 #신상맛집 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/59042</link>
-            <guid>https://www.elle.co.kr/article/59042</guid>
-            <pubDate>Wed, 06 Oct 2021 02:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[제주 여행을 만끽하려면 반드시 체크할 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5d8cf5bd-ed0a-4d70-819f-2cbccf3ff0f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존재 자체가 ‘심쿵해’ 크리스틴 스튜어트_요주의 여성 #31 (엘르 코리아 ─ 소사이어티)]]></title>
