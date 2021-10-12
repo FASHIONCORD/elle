@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 02:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 03:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명동, 연남동, 서울숲에서 즐기는 브런치와 디저트 신상카페 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32532684&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32532684&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 12 Oct 2021 03:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMzgg/MDAxNjM0MDA1OTcxNDE0.OYAHeBfgQMP3kYn11igybgMW4pAYJTOA_7SY9kklcu4g.IAGCEvVFtqOBGQjHipro-VxKKzzBEputq9fmQCwQjqwg.JPEG/I46hZikYb9lgJgQiZ2E7M6lAd_Y8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<백스피릿> 백종원 단골 술집 리스트! (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32530644&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Oct 2021 01:21:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTVfMTcy/MDAxNjMxNjQ3NTkyNTI2.Ky_4VnipdJLPgBodP6wNyHuegxZucVOBlcabeTIzHBQg.uSakcUbsheQrIazOI8pW9iPskbX1Oos79WyxUm-n3vEg.PNG/IClcT2ewutC0SD2AD-n0FveZt5hw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찻잎 셀프 바에 다식까지! 새로 문 연 티룸 2곳 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32363028&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32363028&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 01:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTRfMjQz/MDAxNjMxNTUzMTIyMzUz.uMKuaweoSGUGq2-o4OiWkJpNahkhHz-Zzcn_BHqHpL8g.cs-tMuvM00RfHprbhURpM_QWsH8aQinLBEgyMsBqExcg.PNG/I2JWoTvu9e0ixRqRDW41auj9dlb4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마랑 맨투맨, 조금 더 특별하게 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
@@ -1043,6 +1043,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/3c513cdc-673b-4588-94de-1e843140b2b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러블리한 나연의 변신 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/59194</link>
+            <guid>https://www.elle.co.kr/article/59194</guid>
+            <pubDate>Tue, 12 Oct 2021 03:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[사랑스러운 나연의 패셔너블한 순간]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/dbd3ceb7-1055-4383-94ae-5e4e1c1e8809.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[잘 봐, 이게 여자들 우정이다. 스우파 '혜인즈' 아이키X리헤이 (feat. 연신내즈) (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/59185</link>
             <guid>https://www.elle.co.kr/article/59185</guid>
@@ -1097,14 +1105,6 @@
             <pubDate>Thu, 07 Oct 2021 03:21:39 GMT</pubDate>
             <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/97f51ff2-26fa-44ac-a576-d55b6fd44cf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ① (feat. 박재범X로꼬, 한지민, 이준기) (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/59107</link>
-            <guid>https://www.elle.co.kr/article/59107</guid>
-            <pubDate>Thu, 07 Oct 2021 03:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/3ff49d99-1ab6-4fdd-9264-a823bf9b676b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ② (feat. 나영석PD, 김연경, 김희애) (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1275,6 +1275,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/31/b0a66cde-88d8-4b4d-a963-b1507098e54b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박재범에, 힐 신은 조권도? 기습 공개된 스우파 '맨 오브 우먼' 미션 모아보기.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/59221</link>
+            <guid>https://www.elle.co.kr/article/59221</guid>
+            <pubDate>Tue, 12 Oct 2021 03:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[투표는 15일 자정까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/b0329ebc-edcd-41fd-af24-b802fc9c883a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[잘 봐, 이게 여자들 우정이다. 스우파 '혜인즈' 아이키X리헤이 (feat. 연신내즈) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/59185</link>
             <guid>https://www.elle.co.kr/article/59185</guid>
@@ -1369,14 +1377,6 @@
             <pubDate>Fri, 01 Oct 2021 09:05:17 GMT</pubDate>
             <content:encoded><![CDATA[우리에게는 너무나도 익숙한 것들]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/a40fcfd1-a6dc-4e24-a123-e3c7480e1335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채림이 아들 민우를 방송 최초로 공개하며 눈물을 흘린 이유 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/58955</link>
-            <guid>https://www.elle.co.kr/article/58955</guid>
-            <pubDate>Fri, 01 Oct 2021 09:04:55 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC '내가 키운다'에서 아들과의 일상을 전했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/e891078e-7460-45a2-9d0e-218a1d6cc16f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이태원의 오래된 빌라가 취향 좋은 주인을 만났다 #인테리어 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1483,6 +1483,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/13/432a4eaa-b38d-4060-88d0-a1fa1130b040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방금 오픈! 서촌 신상 카페 리스트 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/59152</link>
+            <guid>https://www.elle.co.kr/article/59152</guid>
+            <pubDate>Tue, 12 Oct 2021 03:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[인왕산의 푸르름 함께 커피 한 잔]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/65224c99-b61f-4446-85a0-7b27b086e0c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크림이야 빵이야? 크림 디저트로 유명한 맛집 플레이스 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/59142</link>
             <guid>https://www.elle.co.kr/article/59142</guid>
@@ -1537,14 +1545,6 @@
             <pubDate>Thu, 07 Oct 2021 04:28:21 GMT</pubDate>
             <content:encoded><![CDATA[편안하면서도 완벽한 디자인을 자랑하는 의자들을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/d3102c1d-99a2-4ec1-a909-995d1f9fe25e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서촌에서 즐기는 향긋한 차의 풍경, 전시 '다함께 차차차' (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/59045</link>
-            <guid>https://www.elle.co.kr/article/59045</guid>
-            <pubDate>Tue, 05 Oct 2021 02:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[다구 구경하고, 특별한 차 맛도 보고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/8ad569d9-dcd2-4767-911b-73ec03bd2b33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존재 자체가 ‘심쿵해’ 크리스틴 스튜어트_요주의 여성 #31 (엘르 코리아 ─ 소사이어티)]]></title>
