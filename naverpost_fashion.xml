@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 22:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 23:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출근 룩 참고! <하이클래스> 조여정&김지수 코디]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32536694&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32536694&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Oct 2021 23:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMTM2/MDAxNjM0MDM0NDg3Njc4.qYbwCiAbVaGsqmcyu5evLSOAiBg-ZBgDTUqTYOVBQuMg.S0Hm4dd0etZ0lS1QozRKmSuGK4Cd5dwgEX5s7WIP2_Ig.PNG/ImtFXgp3aZ5RBRJaOfv8N19ECY-Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옷장 필수템! 셀럽들의 트위드 자켓 코디법 6]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32536601&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -160,14 +168,6 @@
             <pubDate>Sat, 02 Oct 2021 09:30:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfMjUx/MDAxNjI5MTg4OTQ2MjM2.fmf_aq45Golq3LI7fAjLUkLMwz_QvtMxOrPTA6PV-Lgg.v5fut9vtZnGCnl3oF8VyInTzjqmWppNcgHO3sRVo6Ugg.PNG/I_d0s-ugW2l0Zt8JguX1vN3z4fcY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레트로 패션 장인! 벨라 하디드의 고급스러운 사복 패션]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32185083&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32185083&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfMjk5/MDAxNjI5MTg4NDg5MTMw.u6ghD6KVE-5SruUkNcHRg45VOyKom07SNCBc-E5owCYg.BsREE35DVsO4wxRLIXjh4qpKfXxs1nqpLz4xTYlnN6Ig.PNG/I8OgynuVGpSNRMBhyCbUA2dDIBWw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
