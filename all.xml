@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 06:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,30 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTVfMTk2/MDAxNjMxNjcyNTA0MDMy.aIQvp5S5km8i9k046hdDeg0wrd4-D72IoqYYWeCgwSgg.3w5bXfQDIYbI8tIOijwWHCXUorzFDpvwyyRCdYP9EpAg.JPEG/IJ36ofJbICBv1H3BJ645dLSDzjx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오늘은 맨투맨을 입겠어요 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541331&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541331&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Oct 2021 06:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfMjMw/MDAxNjM0MDk5NTA4MjQz.D64jrt5CrBtoonlA8WQS4pxbAqNNLtZQlzeEc8QLk50g.Oez_Vx1lafl3oUrZYQ4b5uJjy-csZXl4fZxI4JDytd8g.JPEG/ILbQkNFPS8JESRxp1mbsxPHJP5rg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누구에게나 있는 스트라이프 티셔츠 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541311&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541311&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Oct 2021 06:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfMTY4/MDAxNjM0MDk5NDk0NzA1.N_fW5ar45Gonjr9d3em4t589lrIAaLJAM-AvgX9euLMg.gk7FmMarZ6gam5iBF5VNQnZylI0TyZ3nhGW9KFo4zi8g.JPEG/ILoRN9WGXyYEe4DQCsWdY1sp07DE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 조거팬츠를 입어볼까? (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541263&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541263&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Oct 2021 06:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfMjAx/MDAxNjM0MDk5NDExMzIw.UyCzXw61esVxLxADikfg0yaCEh41OVSmZ6LaaYaZLX0g.7a6mg7jSh-wwm6pvhgKiXTwjRyBNWv-hUet3ZfRrTXMg.JPEG/IwT3yiQQwqmuVVXF46vNXjFLh4tk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마랑 맨투맨, 조금 더 특별하게 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32528399&amp;memberNo=12504201&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32528399&amp;memberNo=12504201&amp;navigationType=push</guid>
@@ -302,30 +326,6 @@
             <pubDate>Sat, 02 Oct 2021 01:21:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMTA3/MDAxNjMyOTIyNzczMTc3.jTsthhoPGmQpwMQK4lposqqVA-UwwVciyaXOOjGxyQYg.Gi_n-e4yHeZ2VXHIJ53mXcx4KoEN3NqvkHx_D_kgZ2kg.JPEG/IKjdRUKBUmjugGLniFyVvdjdRhmA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구나 사랑하는 플라워패턴 가디건 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32445025&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32445025&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 01:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjhfMTQ3/MDAxNjMyNzU5MzExOTcx.BQxobRM-BSRCIWkHSXYAKgGtZqlA7Ym-g4WexLnn0FQg.PgaX0whTxOOKbdDgUSOn0_LcxmwOi5YfUINnPfTdCAgg.JPEG/IC1Ef7s6t-HD3-WxM6SzI7FmVy4E.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부담 없는 만능 아이템, 맨투맨 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32445022&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32445022&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 01:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjdfMTgw/MDAxNjMyNzUyMDg4Mjk5.xh2Tbr_g_kOa6HHxgdahplHUUjHWM2Ghx_qKT9JoWyog.Fi8Yu5rqW-9e6wNCBLhgbXpZflwfH0vEnwA0Ldrr8XEg.JPEG/Ig0qsZsha_ssKx7LKTL-ZP4VETzk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포티한 디테일의 자켓으로 시크하게! (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32444567&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32444567&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 01:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjdfMTEx/MDAxNjMyNzUyMDQxNjAy.14-lR9W89m4bR77oFeorhZfkLGAF4uTAIohgjwvqD-4g.t1PGjyGeUejKl2Q1PCbTGRlvA8woQWIcjxH_nfCY184g.JPEG/IfGhU2hj16E6H71Kp_HpITG0bGPc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이것은 안주인가, 식단인가! 문근영 다이어트 식단 5 (네이버 포스트 ─ 엘르 코리아 ─ BEAUTY)]]></title>
@@ -979,6 +979,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/458faa7d-a59d-40be-a196-a75f6561ce86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스타일 지수를 높여줄 러닝 아이템 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/59176</link>
+            <guid>https://www.elle.co.kr/article/59176</guid>
+            <pubDate>Wed, 13 Oct 2021 06:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[로드 러닝부터 트레킹 러닝까지 코스에 따른 쇼핑 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/ddafacc5-2eba-42bd-8eed-6256cc8534fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여자가 남자보다 술에 약하다고?_몸에 좋은 잔소리 #29 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/59165</link>
             <guid>https://www.elle.co.kr/article/59165</guid>
@@ -1033,14 +1041,6 @@
             <pubDate>Fri, 08 Oct 2021 15:19:55 GMT</pubDate>
             <content:encoded><![CDATA[피니시 라인까지 든든한 페이스 메이커가 되어줄 여덟 명의 엘르런 앰배서더들의 인터뷰.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/c67dbad7-f5fb-4657-a3e9-4ab0dc3322ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹방만 보고 살찔 수 있다? YES! (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/58995</link>
-            <guid>https://www.elle.co.kr/article/58995</guid>
-            <pubDate>Thu, 07 Oct 2021 15:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[먹방 영상이 ‘길티플레저’가 아닌 ‘길티’가 될 수 있다는 이야기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/3f43cbe8-36fe-4159-bf0d-93118aafa0da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코미디 아티스트 웻보이부터 리헤이 남친까지? 스우파의 남자들 6 (엘르 코리아 ─ 스타)]]></title>
@@ -1320,7 +1320,7 @@
             <guid>https://www.elle.co.kr/article/59139</guid>
             <pubDate>Fri, 08 Oct 2021 03:22:02 GMT</pubDate>
             <content:encoded><![CDATA[출퇴근길에도 샤워할 때도 '헤이 마마' 맴도는 사람은 고개를 들어 주세요...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/efbc4b7b-1870-4fa8-9c7f-c16d20bb224c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/efbc4b7b-1870-4fa8-9c7f-c16d20bb224c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['스트리트 우먼 파이터' 황금 리더 효진초이 리더십 탐구 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1336,7 +1336,7 @@
             <guid>https://www.elle.co.kr/article/59108</guid>
             <pubDate>Thu, 07 Oct 2021 03:21:39 GMT</pubDate>
             <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/97f51ff2-26fa-44ac-a576-d55b6fd44cf6.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/97f51ff2-26fa-44ac-a576-d55b6fd44cf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ① (feat. 박재범X로꼬, 한지민, 이준기) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1376,7 +1376,7 @@
             <guid>https://www.elle.co.kr/article/58997</guid>
             <pubDate>Fri, 01 Oct 2021 09:06:17 GMT</pubDate>
             <content:encoded><![CDATA[눈물도 웃음도 분노도 유발했던 '환승연애' 15주.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/4e19d934-a1f8-4a3b-b811-e5ee9eaa2800.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/4e19d934-a1f8-4a3b-b811-e5ee9eaa2800.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이태원의 오래된 빌라가 취향 좋은 주인을 만났다 #인테리어 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1520,7 +1520,7 @@
             <guid>https://www.elle.co.kr/article/59108</guid>
             <pubDate>Thu, 07 Oct 2021 03:21:39 GMT</pubDate>
             <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/97f51ff2-26fa-44ac-a576-d55b6fd44cf6.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/97f51ff2-26fa-44ac-a576-d55b6fd44cf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ① (feat. 박재범X로꼬, 한지민, 이준기) (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>

@@ -4,9 +4,33 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ 엘르숍</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 06:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘은 맨투맨을 입겠어요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541331&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541331&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Oct 2021 06:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfMjMw/MDAxNjM0MDk5NTA4MjQz.D64jrt5CrBtoonlA8WQS4pxbAqNNLtZQlzeEc8QLk50g.Oez_Vx1lafl3oUrZYQ4b5uJjy-csZXl4fZxI4JDytd8g.JPEG/ILbQkNFPS8JESRxp1mbsxPHJP5rg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누구에게나 있는 스트라이프 티셔츠]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541311&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541311&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Oct 2021 06:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfMTY4/MDAxNjM0MDk5NDk0NzA1.N_fW5ar45Gonjr9d3em4t589lrIAaLJAM-AvgX9euLMg.gk7FmMarZ6gam5iBF5VNQnZylI0TyZ3nhGW9KFo4zi8g.JPEG/ILoRN9WGXyYEe4DQCsWdY1sp07DE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 조거팬츠를 입어볼까?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541263&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32541263&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Oct 2021 06:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfMjAx/MDAxNjM0MDk5NDExMzIw.UyCzXw61esVxLxADikfg0yaCEh41OVSmZ6LaaYaZLX0g.7a6mg7jSh-wwm6pvhgKiXTwjRyBNWv-hUet3ZfRrTXMg.JPEG/IwT3yiQQwqmuVVXF46vNXjFLh4tk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마랑 맨투맨, 조금 더 특별하게]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32528399&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -142,30 +166,6 @@
             <pubDate>Sat, 02 Oct 2021 09:30:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMTA3/MDAxNjMyOTIyNzczMTc3.jTsthhoPGmQpwMQK4lposqqVA-UwwVciyaXOOjGxyQYg.Gi_n-e4yHeZ2VXHIJ53mXcx4KoEN3NqvkHx_D_kgZ2kg.JPEG/IKjdRUKBUmjugGLniFyVvdjdRhmA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구나 사랑하는 플라워패턴 가디건]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32445025&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32445025&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjhfMTQ3/MDAxNjMyNzU5MzExOTcx.BQxobRM-BSRCIWkHSXYAKgGtZqlA7Ym-g4WexLnn0FQg.PgaX0whTxOOKbdDgUSOn0_LcxmwOi5YfUINnPfTdCAgg.JPEG/IC1Ef7s6t-HD3-WxM6SzI7FmVy4E.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부담 없는 만능 아이템, 맨투맨]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32445022&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32445022&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjdfMTgw/MDAxNjMyNzUyMDg4Mjk5.xh2Tbr_g_kOa6HHxgdahplHUUjHWM2Ghx_qKT9JoWyog.Fi8Yu5rqW-9e6wNCBLhgbXpZflwfH0vEnwA0Ldrr8XEg.JPEG/Ig0qsZsha_ssKx7LKTL-ZP4VETzk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포티한 디테일의 자켓으로 시크하게!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32444567&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32444567&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjdfMTEx/MDAxNjMyNzUyMDQxNjAy.14-lR9W89m4bR77oFeorhZfkLGAF4uTAIohgjwvqD-4g.t1PGjyGeUejKl2Q1PCbTGRlvA8woQWIcjxH_nfCY184g.JPEG/IfGhU2hj16E6H71Kp_HpITG0bGPc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
