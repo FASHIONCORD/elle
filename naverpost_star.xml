@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ STAR</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 01:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 02:35:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웻보이부터 리헤이 남친까지! 스우파 속 남자들 6]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32540106&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32540106&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Oct 2021 02:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfMTUx/MDAxNjM0MDkwMjEzODA5.iV5OaMnlc6Wvr-QducWXAy1ZOWv9R7VPAc8bDvNV3q0g.4LaUj9ERghcQftHZXFHUYmW6e_OIrzDmVkEqcuLWz7cg.JPEG/IgGvwGBBoriUJC7i96whJfFP7WQw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주살이 로망 완벽 실현! 진재영의 제주 힐링 라이프]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32388609&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Oct 2021 09:30:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTRfMTQ2/MDAxNjEwNjE2MTEzMDcx.ODaclujPFXJzGUtzIC0a1sNdMBvX3Fvlv5crT559Uqog.e9zq1GNdWLkdf1T7SKZ8O0qRiBs9dhaMF42XqaXbxFAg.PNG/Ip4--Wx2QNGBz6o8-DLEXn2aIzZQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[광고] 눈 부시게 반짝이는 지수의 오늘]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30331328&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30331328&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMjhfMTMz/MDAxNjA5MTMwMzQ4ODkx.68hC08QzxWOMMKTqGFWpkDGOkOWqwipBOe7XnLug5cwg.mv_ftZARZi5yjiqeJlf5-mp32YVRk86u3KuDIy6JupAg.JPEG/IxmtRll-hlzRN-B1LVbyjdTHNgS0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
