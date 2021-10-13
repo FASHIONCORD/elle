@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 23:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 01:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이것은 안주인가, 식단인가! 문근영 다이어트 식단 5]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32539142&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32539142&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Oct 2021 01:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfNDMg/MDAxNjM0MDg0MjA1OTIz.9qwyR5uugsjifdsy6d9qabXyTVfwi3PpWlY4xlZKTR0g.ihw0ELwx95BeEU8aoL_7vjEjvA9aqFMVcJpOyIBoG2og.PNG/ImuGwonNX41dQFBFLArNr--98TTU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[광고] 뾰루지 응급템 애크논크림, 메이크업 아티스트pick]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32457340&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Sat, 02 Oct 2021 09:30:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjRfMTIy/MDAxNjI0NTAwMTkzNDUz.3itDfzTOt0F1XLemqyckuUt5wYP0aIcSCTbhy37EuOUg.QqEMnv8_B1AIscEk7oYRlm-zQWfK3DRGpNQMYoBcAxcg.PNG/IA1Inydnv7scNZGQY5eEMWUcXO2g.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두피 지성인들 주목! 여름철 보송한 머리를 위한 샴푸 추천]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31826563&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31826563&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjNfMjg5/MDAxNjI0NDUyNjQ5MTk4.bt46f_x_tXUMzFw-XV2Y9YC8gug0BqFr-mIxv4Dti04g.3kTB3QPvZMqL__ihOncvFs_WZahiJBb4jKz4-8pbKG4g.PNG/ILidntJ9KPHxFvCuzApZJkm32qlI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
