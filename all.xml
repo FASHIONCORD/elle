@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 06:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 07:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -979,6 +979,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엄지원이 알려주는 ‘살 안찌는 생활습관’ (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/59196</link>
+            <guid>https://www.elle.co.kr/article/59196</guid>
+            <pubDate>Thu, 14 Oct 2021 07:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 20년을 맞이한 엄지원이 몸매를 유지하는 비결은? 알아서 관리되는 생활 속 작은 습관들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/cd03f883-0d1b-458e-a3b1-3f64a9225153.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피부 되살리기 일주일 챌린지! 에이핑크 윤보미처럼! (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/59183</link>
             <guid>https://www.elle.co.kr/article/59183</guid>
@@ -1033,14 +1041,6 @@
             <pubDate>Sat, 09 Oct 2021 16:28:13 GMT</pubDate>
             <content:encoded><![CDATA[거울 속 피부가 충격적인 가을, 마스크로 위기 탈출하기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/b6c6c860-b6f7-4113-915f-ba6797ce6443.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강한 몸에 건강한 정신이 깃드는 법 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/59016</link>
-            <guid>https://www.elle.co.kr/article/59016</guid>
-            <pubDate>Fri, 08 Oct 2021 15:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[기록보다 자신만의 온전한 시간과 도전을 응원하며 &lt;엘르&gt;가 선택한 러닝 준비템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/fdc55425-b004-48bb-9311-dbec20c8c8a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['스우파' 10대 버전 스핀오프 '스걸파', 심사위원과 방송 시기는? (엘르 코리아 ─ 스타)]]></title>
