@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 20:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 21:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1043,6 +1043,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/4e83077c-a8bf-4134-aa36-e9e22ec4a92b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조윤희에게 도전이란? #로아 #내가키운다 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/59283</link>
+            <guid>https://www.elle.co.kr/article/59283</guid>
+            <pubDate>Thu, 14 Oct 2021 21:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;내가 키운다&gt;의 채림, 김현숙, 김나영, 조윤희가 JTBC의 헬프 스티커 캠페인을 위해 모...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/638f0467-3744-4d4e-b4d9-c9d34d33bcbb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신민아와 김우빈이 드디어 한 작품에서 만난다 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/59271</link>
             <guid>https://www.elle.co.kr/article/59271</guid>
@@ -1097,14 +1105,6 @@
             <pubDate>Tue, 12 Oct 2021 07:21:00 GMT</pubDate>
             <content:encoded><![CDATA['맨 오브 스우파'.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/9f2307d3-28bf-450e-b574-c9486c94622e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박재범에 '하이힐 맛집' 조권도 등장! 기습 공개된 스우파 '맨 오브 우먼' 미션 모아보기.zip (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/59221</link>
-            <guid>https://www.elle.co.kr/article/59221</guid>
-            <pubDate>Tue, 12 Oct 2021 03:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[투표는 15일 자정까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/b0329ebc-edcd-41fd-af24-b802fc9c883a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박재범에 '하이힐 맛집' 조권도 등장! 기습 공개된 스우파 '맨 오브 우먼' 미션 모아보기.zip (엘르 코리아 ─ 컬쳐)]]></title>
