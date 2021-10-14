@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 01:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 02:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1043,6 +1043,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/c67dbad7-f5fb-4657-a3e9-4ab0dc3322ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[셀러브리티들의 셔츠 스타일링 공식 6 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/59246</link>
+            <guid>https://www.elle.co.kr/article/59246</guid>
+            <pubDate>Thu, 14 Oct 2021 02:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[따라 하고 싶은 스타들의 셔츠 스타일링 팁 여섯 가지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1e9b256c-7a06-4aa0-a8ae-ac32e9ff1b3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#내가키운다 김나영이 말하는 지금이 최고 전성기인 이유 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/59243</link>
             <guid>https://www.elle.co.kr/article/59243</guid>
@@ -1097,14 +1105,6 @@
             <pubDate>Tue, 12 Oct 2021 09:19:37 GMT</pubDate>
             <content:encoded><![CDATA[믿고 보는 연기력에 보는 재미가 쏠쏠한 스타일까지! 우아한 카리스마가 폭발하는, 드라마 '하...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/c82c2913-5634-4df4-93c9-b02d89ee3e4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대세 중에 대세, 젠데이아_요주의 여성 #33 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/59199</link>
-            <guid>https://www.elle.co.kr/article/59199</guid>
-            <pubDate>Tue, 12 Oct 2021 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램 팔로워 1억명을 지닌 초특급 ‘인싸’ 젠데이아가 특별한 진짜 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/b7902be6-1126-4366-89b1-f1a54d5a470f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[복싱 챔피언 람라 알리의 드라마틱한 인생사 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1208,7 +1208,7 @@
             <guid>https://www.elle.co.kr/article/58842</guid>
             <pubDate>Fri, 01 Oct 2021 09:06:02 GMT</pubDate>
             <content:encoded><![CDATA[싱크로율 무엇? &lt;스트릿 우먼 파이터&gt;의 인기에 힘입어 등장한 ‘스트릿 개그우먼 파이터’. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/0a3cfc54-e83a-4ebb-b408-27b78617f9b0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/0a3cfc54-e83a-4ebb-b408-27b78617f9b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국힙 챙겨! 국힙 세계관 1인자가 된 딩고프리스타일 PD 3인방 #KPOP #케이팝 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1456,7 +1456,7 @@
             <guid>https://www.elle.co.kr/article/58673</guid>
             <pubDate>Fri, 01 Oct 2021 09:06:47 GMT</pubDate>
             <content:encoded><![CDATA[버추얼 인플루언서 슈듀, 마야, 이마와의 나눈 &lt;엘르&gt; 단독 인터뷰.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/19/b2348c94-37ed-4379-ab07-9bab92aa3e18.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/b2348c94-37ed-4379-ab07-9bab92aa3e18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버추얼 인플루언서 #로지 #아포키와 나눈 신박한 인터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1480,7 +1480,7 @@
             <guid>https://www.elle.co.kr/article/58461</guid>
             <pubDate>Fri, 01 Oct 2021 09:06:47 GMT</pubDate>
             <content:encoded><![CDATA[아틀리에 에르메스에 펼쳐진 뒤얽힌 색채의 조각. 조각가 현남이 감각한 오늘의 세계다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/13/432a4eaa-b38d-4060-88d0-a1fa1130b040.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/432a4eaa-b38d-4060-88d0-a1fa1130b040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[완벽한 탈출을 원하면 이곳! 숲뷰·밭뷰·핑크뮬리뷰가 있는 김제 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1592,7 +1592,7 @@
             <guid>https://www.elle.co.kr/article/58673</guid>
             <pubDate>Fri, 01 Oct 2021 09:06:47 GMT</pubDate>
             <content:encoded><![CDATA[버추얼 인플루언서 슈듀, 마야, 이마와의 나눈 &lt;엘르&gt; 단독 인터뷰.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/19/b2348c94-37ed-4379-ab07-9bab92aa3e18.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/b2348c94-37ed-4379-ab07-9bab92aa3e18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버추얼 인플루언서 #로지 #아포키와 나눈 신박한 인터뷰 (엘르 코리아 ─ 소사이어티)]]></title>
