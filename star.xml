@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 02:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 03:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스우파' 10대 버전 스핀오프 '스걸파', 심사위원과 방송 시기는?]]></title>
+            <link>https://www.elle.co.kr/article/59256</link>
+            <guid>https://www.elle.co.kr/article/59256</guid>
+            <pubDate>Thu, 14 Oct 2021 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[여자 고등학생 중 재능 있는 댄서를 발굴하겠다는 취지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1fdaad31-0d85-45f3-bb07-66881f2cb867.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀러브리티들의 셔츠 스타일링 공식 6]]></title>
             <link>https://www.elle.co.kr/article/59246</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 15:21:34 GMT</pubDate>
             <content:encoded><![CDATA[차정원, 기은세, 한선화 등 스타들의 데일리 룩에서 포착된 트위드 재킷 스타일.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/47e3c0af-e472-42e3-95a7-0dfa8be58436.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하이클래스' 조여정 VS 김지수 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/59200</link>
-            <guid>https://www.elle.co.kr/article/59200</guid>
-            <pubDate>Tue, 12 Oct 2021 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 보는 연기력에 보는 재미가 쏠쏠한 스타일까지! 우아한 카리스마가 폭발하는, 드라마 '하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/c82c2913-5634-4df4-93c9-b02d89ee3e4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
