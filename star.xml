@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 05:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 06:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최정상의 만남, #아이유 #카이 엘르로 조우하다]]></title>
+            <link>https://www.elle.co.kr/article/59293</link>
+            <guid>https://www.elle.co.kr/article/59293</guid>
+            <pubDate>Fri, 15 Oct 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[바라만 봐도 기분이 '구찌'해지는 엘르 11월호 커버스타,  아이유와 카이]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/11cc2399-5c6e-4f5d-b49d-c7a8f9d6bf5c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소희 추천! 내돈내산 주얼리 리스트]]></title>
             <link>https://www.elle.co.kr/article/59292</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 15:21:16 GMT</pubDate>
             <content:encoded><![CDATA[조수빈 아나운서와 그녀의 딸, 행복이의 상상력으로 완성한 레고 유토피아! 더 나은 세상을 꿈...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/696ad97d-6639-41be-bcad-c5655251544e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술 당기는 게 함정인 문근영의 다이어트 식단 5]]></title>
-            <link>https://www.elle.co.kr/article/59232</link>
-            <guid>https://www.elle.co.kr/article/59232</guid>
-            <pubDate>Wed, 13 Oct 2021 08:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[안주 같기도 하고... 다이어트 식단 같기도 하고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/c9216058-2e92-4d65-bfa3-19aa2c8f566d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
