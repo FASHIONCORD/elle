@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 07:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 08:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1107,6 +1107,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/696ad97d-6639-41be-bcad-c5655251544e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신민아와 김우빈이 드디어 한 작품에서 만난다 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/59271</link>
+            <guid>https://www.elle.co.kr/article/59271</guid>
+            <pubDate>Wed, 13 Oct 2021 08:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[공개 연애 7년 만.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/f00b9e20-2d50-4135-8679-1fec50fbaeef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['스우파' 10대 버전 스핀오프 '스걸파', 심사위원과 방송 시기는? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/59256</link>
             <guid>https://www.elle.co.kr/article/59256</guid>
@@ -1161,14 +1169,6 @@
             <pubDate>Fri, 08 Oct 2021 03:22:02 GMT</pubDate>
             <content:encoded><![CDATA[출퇴근길에도 샤워할 때도 '헤이 마마' 맴도는 사람은 고개를 들어 주세요...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/efbc4b7b-1870-4fa8-9c7f-c16d20bb224c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스트리트 우먼 파이터' 황금 리더 효진초이 리더십 탐구 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/59122</link>
-            <guid>https://www.elle.co.kr/article/59122</guid>
-            <pubDate>Thu, 07 Oct 2021 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[때론 부드럽게 또 강하게. '원트'의 리더 효진초이의 리더십.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/a4dfd090-c965-4b2a-b812-11054ba6a878.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK ! (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1275,6 +1275,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/31/b0a66cde-88d8-4b4d-a963-b1507098e54b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[업력 50년은 기본! 박나래X박찬일 셰프가 선택한 면(面)식 노포 베스트 3 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/59349</link>
+            <guid>https://www.elle.co.kr/article/59349</guid>
+            <pubDate>Fri, 15 Oct 2021 08:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[평양냉면부터 해물칼국수까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/f84b1290-00fd-4da1-941b-49778320b3f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스우파 라치카X조권, 프라우드먼X캼의 선택! 드랙(Drag)이란? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/59341</link>
             <guid>https://www.elle.co.kr/article/59341</guid>
@@ -1369,14 +1377,6 @@
             <pubDate>Thu, 07 Oct 2021 03:21:39 GMT</pubDate>
             <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/97f51ff2-26fa-44ac-a576-d55b6fd44cf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ① (feat. 박재범X로꼬, 한지민, 이준기) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/59107</link>
-            <guid>https://www.elle.co.kr/article/59107</guid>
-            <pubDate>Thu, 07 Oct 2021 03:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/3ff49d99-1ab6-4fdd-9264-a823bf9b676b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 뷔도 다녀간 키아프 서울, 놓치지 말아야 할 부스 7 #인싸 전시_37 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1483,6 +1483,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/752508ba-4442-471b-b401-d79e17650299.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해외여행 온 줄? 서울에 방금 생긴 독특한 감성의 카페 셋 #신상맛집 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/59211</link>
+            <guid>https://www.elle.co.kr/article/59211</guid>
+            <pubDate>Fri, 15 Oct 2021 08:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[명동, 연남동, 서울숲에서 즐기는 브런치와 디저트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/47c31256-0cdf-4b73-922f-bad3d1f4d3b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#PerpetualPlanet (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/59148</link>
             <guid>https://www.elle.co.kr/article/59148</guid>
@@ -1537,14 +1545,6 @@
             <pubDate>Thu, 07 Oct 2021 03:21:39 GMT</pubDate>
             <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/3ff49d99-1ab6-4fdd-9264-a823bf9b676b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠만 자는 숙소 NO! 캠핑부터 이색 체험까지 한 번에 해결되는 김제 숙소 셋 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/59077</link>
-            <guid>https://www.elle.co.kr/article/59077</guid>
-            <pubDate>Fri, 08 Oct 2021 13:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[반려견 동반 가능한 숙소도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/a30b48fa-3628-4722-bc83-2553ed57f029.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴댄스하는 페미니스트 가능? 새로운 운동법을 찾았다 #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
