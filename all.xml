@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 14:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 15:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1275,6 +1275,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/31/b0a66cde-88d8-4b4d-a963-b1507098e54b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[할머니들의 셰어하우스 체험기를 기록한 이유 #60세미만출입금지 #이승주PD (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/59424</link>
+            <guid>https://www.elle.co.kr/article/59424</guid>
+            <pubDate>Mon, 18 Oct 2021 15:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[“다큐멘터리를 찍으면서 개인의 삶도 성장하죠” 이승주 PD가 노인의 이야기에 주목한 이유]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/9483c2c1-4d36-4cca-baa4-1395f328987a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['스트릿 우먼 파이터' 크루들이 콘서트를 한다고? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/59409</link>
             <guid>https://www.elle.co.kr/article/59409</guid>
@@ -1369,14 +1377,6 @@
             <pubDate>Wed, 13 Oct 2021 03:24:32 GMT</pubDate>
             <content:encoded><![CDATA[여자 고등학생 중 재능 있는 댄서를 발굴하겠다는 취지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1fdaad31-0d85-45f3-bb07-66881f2cb867.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코미디 아티스트 웻보이부터 리헤이 남친까지? 스우파의 남자들 6 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/59229</link>
-            <guid>https://www.elle.co.kr/article/59229</guid>
-            <pubDate>Tue, 12 Oct 2021 07:21:00 GMT</pubDate>
-            <content:encoded><![CDATA['맨 오브 스우파'.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/9f2307d3-28bf-450e-b574-c9486c94622e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 뷔도 다녀간 키아프 서울, 놓치지 말아야 할 부스 7 #인싸 전시_37 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
