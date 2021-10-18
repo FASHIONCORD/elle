@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 15:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 16:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1107,6 +1107,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/99177239-b231-43cf-b0fe-ef1de7125387.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내가 다큐를 만드는 이유 #국가대표 #이은규PD (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/59378</link>
+            <guid>https://www.elle.co.kr/article/59378</guid>
+            <pubDate>Sat, 16 Oct 2021 15:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[세상 곳곳에 빛을 밝히려 오늘도 고군분투하는 이은규PD가 얘기하는 지금의 여성, 여성 다큐멘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/8e5b856d-cb58-4ad3-ac23-212829ceb85e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘오징어 게임’ 속 이 배우를 주목할 것! #240번 #이유미 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/59370</link>
             <guid>https://www.elle.co.kr/article/59370</guid>
@@ -1161,14 +1169,6 @@
             <pubDate>Wed, 13 Oct 2021 08:25:29 GMT</pubDate>
             <content:encoded><![CDATA[공개 연애 7년 만.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/f00b9e20-2d50-4135-8679-1fec50fbaeef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 10대 버전 스핀오프 '스걸파', 심사위원과 방송 시기는? (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/59256</link>
-            <guid>https://www.elle.co.kr/article/59256</guid>
-            <pubDate>Wed, 13 Oct 2021 03:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[여자 고등학생 중 재능 있는 댄서를 발굴하겠다는 취지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1fdaad31-0d85-45f3-bb07-66881f2cb867.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK ! (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1483,6 +1483,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/752508ba-4442-471b-b401-d79e17650299.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[업력 50년은 기본! 박나래X박찬일 셰프가 선택한 면(面)식 노포 베스트 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/59349</link>
+            <guid>https://www.elle.co.kr/article/59349</guid>
+            <pubDate>Fri, 15 Oct 2021 08:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[평양냉면부터 해물칼국수까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/f84b1290-00fd-4da1-941b-49778320b3f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 뷔도 다녀간 키아프 서울, 놓치지 말아야 할 부스 7 #인싸 전시_37 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/59336</link>
             <guid>https://www.elle.co.kr/article/59336</guid>
@@ -1537,14 +1545,6 @@
             <pubDate>Wed, 13 Oct 2021 02:35:42 GMT</pubDate>
             <content:encoded><![CDATA[진정한 밭뷰가 눈 앞에 펼쳐지는 곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/ea8d7fde-fffc-4571-97d1-bf8de6e0e57e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아의 냉장고엔 무엇이? 내돈내산 식료품 7 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/59155</link>
-            <guid>https://www.elle.co.kr/article/59155</guid>
-            <pubDate>Wed, 13 Oct 2021 01:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[직접 골랐어요! 윤승아가 소개하는 ‘내돈내산’ 식료품 일곱 개.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ddfaeb10-8fb7-495e-8695-91ca811b043c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파격선언! 고칠 수 없는 물건은 내 게 아니다? #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
