@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 01:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 02:39:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -979,6 +979,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/fde08f50-dadc-48af-a3ed-e59e8d3e8a11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디올 뷰티(Dior Beauty) 2022 S/S 메이크업 트렌드 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/59261</link>
+            <guid>https://www.elle.co.kr/article/59261</guid>
+            <pubDate>Mon, 18 Oct 2021 02:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[1960년대의 생동감 넘치는 바이브가 담긴 메이크업을 매개로 ‘변화’라는 새로운 언어를 제시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/f715929b-12e6-4512-a2cf-7195330d6a0d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[술 당기는 게 함정인 문근영의 다이어트 식단 5 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/59232</link>
             <guid>https://www.elle.co.kr/article/59232</guid>
@@ -1033,14 +1041,6 @@
             <pubDate>Mon, 11 Oct 2021 05:17:55 GMT</pubDate>
             <content:encoded><![CDATA[드라마틱한 음영 메이크업을 위한 아이 팔레트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/5bbb4ca1-3932-4375-90a7-41dba57b01fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 이 시기에 꼭 챙겨먹어야 할 영양제 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/59133</link>
-            <guid>https://www.elle.co.kr/article/59133</guid>
-            <pubDate>Mon, 11 Oct 2021 01:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[하루하루 체력이 딸리고 피로감이 쉽게 해소되지 않는다고? 좀 '먹어 본' 뷰티 인사이더들이 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/9ad10c38-1bb4-47d8-b538-4247714d9d0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 엄마가 된 영애씨, 김현숙 #내가키운다 (엘르 코리아 ─ 스타)]]></title>
