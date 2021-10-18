@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 04:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 05:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업력 50년은 기본! 박나래X박찬일 셰프가 선택한 면(面)식 노포 베스트 3]]></title>
+            <link>https://www.elle.co.kr/article/59349</link>
+            <guid>https://www.elle.co.kr/article/59349</guid>
+            <pubDate>Mon, 18 Oct 2021 05:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[평양냉면부터 해물칼국수까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/f84b1290-00fd-4da1-941b-49778320b3f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스우파 라치카X조권, 프라우드먼X캼의 선택! 드랙(Drag)이란?]]></title>
             <link>https://www.elle.co.kr/article/59341</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 02:33:38 GMT</pubDate>
             <content:encoded><![CDATA['맨 오브 스우파'.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/9f2307d3-28bf-450e-b574-c9486c94622e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박재범에 '하이힐 맛집' 조권도 등장! 기습 공개된 스우파 '맨 오브 우먼' 미션 모아보기.zip]]></title>
-            <link>https://www.elle.co.kr/article/59221</link>
-            <guid>https://www.elle.co.kr/article/59221</guid>
-            <pubDate>Thu, 14 Oct 2021 08:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[투표는 15일 자정까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/b0329ebc-edcd-41fd-af24-b802fc9c883a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
