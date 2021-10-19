@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 03:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 04:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이게 얼마만의 투샷? '스우파'에서 만난 조권X박재범]]></title>
+            <link>https://www.elle.co.kr/article/59392</link>
+            <guid>https://www.elle.co.kr/article/59392</guid>
+            <pubDate>Tue, 19 Oct 2021 04:25:10 GMT</pubDate>
+            <content:encoded><![CDATA["내가 원했던 게 이거잖아, 보고 싶었던 거 이거"]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/99f3dfa4-014f-47da-b170-5d1c843b83f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 소녀 귀여움 천재 츄 X 현진 | ELLE 케미공작소]]></title>
             <link>https://www.elle.co.kr/article/59391</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 16 Oct 2021 22:19:12 GMT</pubDate>
             <content:encoded><![CDATA[셀러브리티들의 사복 패션에서 찾을 수 있는 ‘힙’한 패션 스타일링! 포멀한 재킷에 스포티한 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c682477f-0ba9-4e4e-bb5b-e86b0af6d15e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 열정지수 '만렙'인 #내가키운다 채림]]></title>
-            <link>https://www.elle.co.kr/article/59326</link>
-            <guid>https://www.elle.co.kr/article/59326</guid>
-            <pubDate>Fri, 15 Oct 2021 23:21:10 GMT</pubDate>
-            <content:encoded><![CDATA['이든이 엄마' 채림이 JTBC 헬프 스티커 캠페인을 위해 #엘르 카메라 앞에 섰다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/99177239-b231-43cf-b0fe-ef1de7125387.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

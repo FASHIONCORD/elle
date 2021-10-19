@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 03:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 04:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이게 얼마만의 투샷? '스우파'에서 만난 조권X박재범]]></title>
+            <link>https://www.elle.co.kr/article/59392</link>
+            <guid>https://www.elle.co.kr/article/59392</guid>
+            <pubDate>Tue, 19 Oct 2021 04:25:36 GMT</pubDate>
+            <content:encoded><![CDATA["내가 원했던 게 이거잖아, 보고 싶었던 거 이거"]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/99f3dfa4-014f-47da-b170-5d1c843b83f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 다큐를 만드는 이유 #국가대표 #이은규PD]]></title>
             <link>https://www.elle.co.kr/article/59378</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 23:21:52 GMT</pubDate>
             <content:encoded><![CDATA[반가운 여성 배우 러시.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/b0f1c594-05f5-49cb-83ce-7b731d55670c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신민아와 김우빈이 드디어 한 작품에서 만난다]]></title>
-            <link>https://www.elle.co.kr/article/59271</link>
-            <guid>https://www.elle.co.kr/article/59271</guid>
-            <pubDate>Fri, 15 Oct 2021 08:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[공개 연애 7년 만.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/f00b9e20-2d50-4135-8679-1fec50fbaeef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
