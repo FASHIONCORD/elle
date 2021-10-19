@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 07:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 08:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['갯마을 차차차'의 식혜 커플, 신민아와 김선호가 결혼했다]]></title>
+            <link>https://www.elle.co.kr/article/59402</link>
+            <guid>https://www.elle.co.kr/article/59402</guid>
+            <pubDate>Tue, 19 Oct 2021 08:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[힐링 드라마 답게 최종회도 해피엔딩.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/ead313bc-32cd-4f3e-973d-daad0d117025.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화려한 조명이 이도현을 감싸네 (feat. 나스 홀리데이 2021 컬렉션)]]></title>
             <link>https://www.elle.co.kr/article/59342</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 17 Oct 2021 10:21:26 GMT</pubDate>
             <content:encoded><![CDATA[전혀 다른 무대였지만 메시지는 하나.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/3365e54b-a957-4247-b75c-ab832651d6e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 댄서들 총집합! <엘르>와 스우파의 만남]]></title>
-            <link>https://www.elle.co.kr/article/59324</link>
-            <guid>https://www.elle.co.kr/article/59324</guid>
-            <pubDate>Sun, 17 Oct 2021 10:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[라치카, 프라우드먼, 훅, YGX 댄서 26인과 엘르가 조우했다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c6021be1-7312-4594-b61b-272dc7ce0c5b.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

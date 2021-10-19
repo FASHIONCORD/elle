@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 07:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 08:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예정화가 마동석 출연 <이터널스> 월드 프리미어 행사에 나타났다]]></title>
+            <link>https://www.elle.co.kr/article/59444</link>
+            <guid>https://www.elle.co.kr/article/59444</guid>
+            <pubDate>Tue, 19 Oct 2021 08:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[벌써 5년째 공개 열애 중.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/e0b6f3aa-680a-4b49-9f42-91edf7955a3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1억1100만 계정이 참가한 '오징어게임', 외신 반응 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/59440</link>
@@ -53,7 +61,7 @@
             <guid>https://www.elle.co.kr/article/59395</guid>
             <pubDate>Sun, 17 Oct 2021 15:21:18 GMT</pubDate>
             <content:encoded><![CDATA[영 제너레이션 다큐멘터리 PD 오예진이 얘기하는 지금의 다큐멘터리 신]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/27d67472-6f64-410d-8373-a3e094d0c472.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/27d67472-6f64-410d-8373-a3e094d0c472.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이게 얼마만의 투샷? '스우파'에서 만난 조권X박재범]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 14 Oct 2021 08:24:19 GMT</pubDate>
             <content:encoded><![CDATA[11월12일 드디어 한국 상륙!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/b11848fc-441e-4184-8cca-9a97b2dde897.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고현정 VS 전지현 VS 이영애 VS 송혜교?! 2021 가을 드라마에서 볼 여자들]]></title>
-            <link>https://www.elle.co.kr/article/59294</link>
-            <guid>https://www.elle.co.kr/article/59294</guid>
-            <pubDate>Thu, 14 Oct 2021 03:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[반가운 여성 배우 러시.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/b0f1c594-05f5-49cb-83ce-7b731d55670c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
