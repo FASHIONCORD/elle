@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 06:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 07:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6,25 여군 학도병을 조명하다 #연순기숙 #오예진PD]]></title>
+            <link>https://www.elle.co.kr/article/59395</link>
+            <guid>https://www.elle.co.kr/article/59395</guid>
+            <pubDate>Tue, 19 Oct 2021 07:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[영 제너레이션 다큐멘터리 PD 오예진이 얘기하는 지금의 다큐멘터리 신]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/27d67472-6f64-410d-8373-a3e094d0c472.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이게 얼마만의 투샷? '스우파'에서 만난 조권X박재범]]></title>
             <link>https://www.elle.co.kr/article/59392</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 16 Oct 2021 15:20:33 GMT</pubDate>
             <content:encoded><![CDATA[11월12일 드디어 한국 상륙!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/b11848fc-441e-4184-8cca-9a97b2dde897.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고현정 VS 전지현 VS 이영애 VS 송혜교?! 2021 가을 드라마에서 볼 여자들]]></title>
-            <link>https://www.elle.co.kr/article/59294</link>
-            <guid>https://www.elle.co.kr/article/59294</guid>
-            <pubDate>Fri, 15 Oct 2021 23:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[반가운 여성 배우 러시.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/b0f1c594-05f5-49cb-83ce-7b731d55670c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
