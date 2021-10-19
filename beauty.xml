@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 10:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 11:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단발병을 부르는 전지현의 단발 헤어 UPDATE! (feat. 김고은, 한소희)]]></title>
+            <link>https://www.elle.co.kr/article/59300</link>
+            <guid>https://www.elle.co.kr/article/59300</guid>
+            <pubDate>Tue, 19 Oct 2021 11:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[3인 3색 단발 헤어스타일 파헤치기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/02b76701-d2f5-4608-b384-c2fa48c5b995.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디올 뷰티(Dior Beauty) 2022 S/S 메이크업 트렌드]]></title>
             <link>https://www.elle.co.kr/article/59261</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 08:23:18 GMT</pubDate>
             <content:encoded><![CDATA[알코올이 여자에게 더 치명적인 이유에 대해.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/5caa007d-2503-4ce1-b225-94432297d056.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈가에 내려앉은 가을 컬러]]></title>
-            <link>https://www.elle.co.kr/article/59158</link>
-            <guid>https://www.elle.co.kr/article/59158</guid>
-            <pubDate>Mon, 11 Oct 2021 05:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[드라마틱한 음영 메이크업을 위한 아이 팔레트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/5bbb4ca1-3932-4375-90a7-41dba57b01fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
