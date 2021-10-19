@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 23:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 01:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연남동, 연희동 신상맛집 3 feat.청란오믈렛 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32578722&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32578722&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 19 Oct 2021 01:05:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTlfMTU5/MDAxNjM0NjA1MzI3NzE4.0kQvSGO9nk0OpZRHCXsKrgLbuknWjGYHAbZ98r9hypQg.g_CrTtRJsXPB8Pjgr6eRv0GrZzZOh-bhJFkqKd-caBMg.JPEG/IpwXVfHPBoPQEVVaVWgtm0paRipQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단풍놀이 명소 찾는다면! 김제 여행코스 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32577318&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Oct 2021 01:21:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTdfMjg3/MDAxNjMxODU3OTk5Nzg3.c_-mLS7YVgGKssFHZZeHIXoJfi6DF6NCPr_HEVQ9U5wg.OUKl-RSh_2e3M4TaYpBb9EIFZFzXxwwJVDzP8eC74CIg.JPEG/IVcT6GrA0Ao6rUAqVJMlh29DXNPA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(광고) 오! 해피 기프트 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32376899&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32376899&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 01:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjJfODIg/MDAxNjMyMjk0NjM2Mzg5.7h49LtnQicfKQZmkHeNsSeSwQc__VJJWsYWw0YD8kGYg.ZNrKUGLkFh6XXCRyct7RApz1ytSxpRvGw1mCVZOZHUsg.JPEG/I2x1cwvcXPr-ZbVP5AIzd9kFmnhQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맨투맨 입기 딱 좋은 날씨! (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
@@ -1483,6 +1483,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/752508ba-4442-471b-b401-d79e17650299.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가을 단풍과 역사와 문학이 숨쉬는 김제 명소 셋 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/59371</link>
+            <guid>https://www.elle.co.kr/article/59371</guid>
+            <pubDate>Tue, 19 Oct 2021 01:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[마음을 살찌울 수 있는 김제의 명소들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/77e6ae84-b724-4e93-8de5-ba73d8df5f81.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팥맛 첵스를 뒤이어 할매 입맛을 사로잡은 디저트 카페 4 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/59361</link>
+            <guid>https://www.elle.co.kr/article/59361</guid>
+            <pubDate>Tue, 19 Oct 2021 01:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[쑥, 인절미 할매니얼 입맛 저격!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/fe0973e9-ad5b-4cfe-ac46-7635feaa19f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[업력 50년은 기본! 박나래X박찬일 셰프가 선택한 면(面)식 노포 베스트 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/59349</link>
             <guid>https://www.elle.co.kr/article/59349</guid>
@@ -1529,22 +1545,6 @@
             <pubDate>Fri, 15 Oct 2021 08:25:18 GMT</pubDate>
             <content:encoded><![CDATA[명동, 연남동, 서울숲에서 즐기는 브런치와 디저트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/47c31256-0cdf-4b73-922f-bad3d1f4d3b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#PerpetualPlanet (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/59148</link>
-            <guid>https://www.elle.co.kr/article/59148</guid>
-            <pubDate>Fri, 15 Oct 2021 01:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[변함없는 지구, 환경, 바다, 우리 모두의 지속 가능한 삶을 지키기 위한 참여. 롤렉스 퍼페...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/5fb76233-f493-4241-bc16-0a5bc95517d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완벽한 탈출을 원하면 이곳! 숲뷰·밭뷰·핑크뮬리뷰가 있는 김제 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/59169</link>
-            <guid>https://www.elle.co.kr/article/59169</guid>
-            <pubDate>Wed, 13 Oct 2021 02:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[진정한 밭뷰가 눈 앞에 펼쳐지는 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/ea8d7fde-fffc-4571-97d1-bf8de6e0e57e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파격선언! 고칠 수 없는 물건은 내 게 아니다? #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
