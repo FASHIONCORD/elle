@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 01:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 02:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 '스우파' 파이널 미션! 최종 점수 30% 반영되는 글로벌 응원 투표 영상 모음]]></title>
+            <link>https://www.elle.co.kr/article/59460</link>
+            <guid>https://www.elle.co.kr/article/59460</guid>
+            <pubDate>Wed, 20 Oct 2021 02:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[단 네 크루만이 남았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/5c42cdf3-16e5-45e5-a0e7-1006864fdc39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예정화가 마동석 출연 <이터널스> 월드 프리미어 행사에 나타났다]]></title>
             <link>https://www.elle.co.kr/article/59444</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 15 Oct 2021 06:24:36 GMT</pubDate>
             <content:encoded><![CDATA[전혀 다른 무대였지만 메시지는 하나.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/3365e54b-a957-4247-b75c-ab832651d6e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 한국 상륙하는 디즈니 플러스 오리지널 드라마 라인업.list]]></title>
-            <link>https://www.elle.co.kr/article/59311</link>
-            <guid>https://www.elle.co.kr/article/59311</guid>
-            <pubDate>Thu, 14 Oct 2021 08:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[11월12일 드디어 한국 상륙!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/b11848fc-441e-4184-8cca-9a97b2dde897.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

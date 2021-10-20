@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 01:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 02:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한지혜부터 이시영까지! 엄마가 된 스타들의 육아템]]></title>
+            <link>https://www.elle.co.kr/article/59403</link>
+            <guid>https://www.elle.co.kr/article/59403</guid>
+            <pubDate>Wed, 20 Oct 2021 02:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[육아는 장비빨! 엄마가 된 스타들이 선택한 육아템은 바로 '이것'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/e7812f20-24ff-417b-aecf-e7aaeec07c0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['갯마을 차차차'의 식혜 커플, 신민아와 김선호가 결혼했다]]></title>
             <link>https://www.elle.co.kr/article/59402</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Oct 2021 01:05:58 GMT</pubDate>
             <content:encoded><![CDATA[&lt;내가 키운다&gt;의 채림, 김현숙, 김나영, 조윤희가 JTBC의 헬프 스티커 캠페인을 위해 모...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/a0381d55-cf18-4a58-a837-6bfb904589fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스우파 라치카X조권, 프라우드먼X캼의 선택! 드랙(Drag)이란?]]></title>
-            <link>https://www.elle.co.kr/article/59341</link>
-            <guid>https://www.elle.co.kr/article/59341</guid>
-            <pubDate>Sun, 17 Oct 2021 10:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[전혀 다른 무대였지만 메시지는 하나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/3365e54b-a957-4247-b75c-ab832651d6e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
