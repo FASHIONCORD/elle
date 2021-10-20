@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 05:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 06:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소희 추천! 내돈내산 주얼리 리스트]]></title>
+            <link>https://www.elle.co.kr/article/59292</link>
+            <guid>https://www.elle.co.kr/article/59292</guid>
+            <pubDate>Wed, 20 Oct 2021 06:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[주얼리 쇼핑 전 참고하세요. 옷 잘 입는 그, 소희가 추천하는 주얼리 리스트를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/6b5110cf-4b5f-4a6e-8856-7026aa374c8f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보테가 베네타의 새로운 아트 인스톨레이션, ‘THE MAZE’]]></title>
             <link>https://www.elle.co.kr/article/59259</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 08:22:30 GMT</pubDate>
             <content:encoded><![CDATA[코르셋 패션이 헐리우드 셀러브리티부터 패피들의 리얼웨이까지 점령한 순간을 포착했습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/1f1bb842-611a-4445-9d62-80832ca311c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셔츠는 이렇게! 가을 날씨 만끽할 여리여리한 셔츠 스타일링]]></title>
-            <link>https://www.elle.co.kr/article/59125</link>
-            <guid>https://www.elle.co.kr/article/59125</guid>
-            <pubDate>Tue, 12 Oct 2021 22:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[가을은 셔츠의 계절! 스타들의 룩에서 스타일링 힌트를 얻어보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/fde08f50-dadc-48af-a3ed-e59e8d3e8a11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
