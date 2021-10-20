@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 14:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 15:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 최애템, 재킷과 볼 캡]]></title>
+            <link>https://www.elle.co.kr/article/59333</link>
+            <guid>https://www.elle.co.kr/article/59333</guid>
+            <pubDate>Wed, 20 Oct 2021 15:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[셀러브리티들의 사복 패션에서 찾을 수 있는 ‘힙’한 패션 스타일링! 포멀한 재킷에 스포티한 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c682477f-0ba9-4e4e-bb5b-e86b0af6d15e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올가을에는 #레오퍼드 아이템 도전!]]></title>
             <link>https://www.elle.co.kr/article/59329</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 23:19:32 GMT</pubDate>
             <content:encoded><![CDATA[벨라 하디드, 올리비아 로드리고, 제니까지! 셀럽들이 사랑하는 세기말 감성의 귀환]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/5576652a-5651-47eb-a2e0-a9fc3d56d367.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하이클래스' 조여정 VS 김지수 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/59200</link>
-            <guid>https://www.elle.co.kr/article/59200</guid>
-            <pubDate>Wed, 13 Oct 2021 09:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 보는 연기력에 보는 재미가 쏠쏠한 스타일까지! 우아한 카리스마가 폭발하는, 드라마 '하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/c82c2913-5634-4df4-93c9-b02d89ee3e4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
