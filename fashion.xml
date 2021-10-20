@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 12:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 13:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올가을에는 #레오퍼드 아이템 도전!]]></title>
+            <link>https://www.elle.co.kr/article/59329</link>
+            <guid>https://www.elle.co.kr/article/59329</guid>
+            <pubDate>Wed, 20 Oct 2021 13:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[야성적인 힘을 내뿜는 레오퍼드의 강렬한 유혹.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/440025aa-3bc6-44dc-a930-5be940861f56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소희 추천! 내돈내산 주얼리 리스트]]></title>
             <link>https://www.elle.co.kr/article/59292</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 09:18:48 GMT</pubDate>
             <content:encoded><![CDATA[믿고 보는 연기력에 보는 재미가 쏠쏠한 스타일까지! 우아한 카리스마가 폭발하는, 드라마 '하...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/c82c2913-5634-4df4-93c9-b02d89ee3e4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들이 빠진 이것! #코르셋]]></title>
-            <link>https://www.elle.co.kr/article/59126</link>
-            <guid>https://www.elle.co.kr/article/59126</guid>
-            <pubDate>Wed, 13 Oct 2021 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[코르셋 패션이 헐리우드 셀러브리티부터 패피들의 리얼웨이까지 점령한 순간을 포착했습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/1f1bb842-611a-4445-9d62-80832ca311c7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
