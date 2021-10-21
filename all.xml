@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 06:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 07:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1483,6 +1483,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/752508ba-4442-471b-b401-d79e17650299.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세 가지 맛 치킨버거와 귀한 청란 오믈렛이 있는 연남동·연희동 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/59427</link>
+            <guid>https://www.elle.co.kr/article/59427</guid>
+            <pubDate>Thu, 21 Oct 2021 07:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[맛과 분위기 모두 잡은 신상맛집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/1b6581f1-fd82-4b17-9712-aca275d37de3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[닭이 낳지 않은 달걀이 있다고? #식물성달걀 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/59425</link>
             <guid>https://www.elle.co.kr/article/59425</guid>
@@ -1539,12 +1547,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/6e82e140-78fa-49e4-8b48-50e5fd3c7bac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가을에 꼭 맛봐야 할 밤! 눈과 입을 사로잡는 밤 디저트 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/59253</link>
-            <guid>https://www.elle.co.kr/article/59253</guid>
-            <pubDate>Sat, 16 Oct 2021 15:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[무르익은 가을의 풍성한 맛을 느낄 수 있는 제철 식재료 밤. 조림부터 아이스크림까지 더욱더 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/5525c390-1bea-4008-b610-1ad91ae097e6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[달리기와 수영을 통한 내 몸의 재발견 #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/59240</link>
+            <guid>https://www.elle.co.kr/article/59240</guid>
+            <pubDate>Thu, 21 Oct 2021 07:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[흠뻑 땀을 흘린 뒤 샤워하며 시원함을 느끼는 내 기특한 몸에 관심을 갖게 됐다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/a7f38c8e-d46e-44d5-8852-ba97c7c9b25e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파격선언! 고칠 수 없는 물건은 내 게 아니다? #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1601,14 +1609,6 @@
             <pubDate>Mon, 11 Oct 2021 01:05:47 GMT</pubDate>
             <content:encoded><![CDATA[UN총회에서 '퍼미션 투 댄스' 무대도 펼쳤다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/5f41640b-4b97-408c-b4d3-179610738fc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친구야 우리 함께 건물주나 돼볼까?_돈쓸신잡 #12 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/58737</link>
-            <guid>https://www.elle.co.kr/article/58737</guid>
-            <pubDate>Sun, 10 Oct 2021 15:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[당장 내일도 수백억짜리 건물 지분을 보유할 수 있다. 리츠에 주목해보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/3db11ade-f515-4fa4-ba04-d82a954aa2e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

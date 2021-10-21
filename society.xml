@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 06:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 07:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달리기와 수영을 통한 내 몸의 재발견 #엘르보이스]]></title>
+            <link>https://www.elle.co.kr/article/59240</link>
+            <guid>https://www.elle.co.kr/article/59240</guid>
+            <pubDate>Thu, 21 Oct 2021 07:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[흠뻑 땀을 흘린 뒤 샤워하며 시원함을 느끼는 내 기특한 몸에 관심을 갖게 됐다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/a7f38c8e-d46e-44d5-8852-ba97c7c9b25e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파격선언! 고칠 수 없는 물건은 내 게 아니다? #엘르보이스]]></title>
             <link>https://www.elle.co.kr/article/59202</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Oct 2021 01:05:47 GMT</pubDate>
             <content:encoded><![CDATA[UN총회에서 '퍼미션 투 댄스' 무대도 펼쳤다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/5f41640b-4b97-408c-b4d3-179610738fc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친구야 우리 함께 건물주나 돼볼까?_돈쓸신잡 #12]]></title>
-            <link>https://www.elle.co.kr/article/58737</link>
-            <guid>https://www.elle.co.kr/article/58737</guid>
-            <pubDate>Sun, 10 Oct 2021 15:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[당장 내일도 수백억짜리 건물 지분을 보유할 수 있다. 리츠에 주목해보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/3db11ade-f515-4fa4-ba04-d82a954aa2e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
