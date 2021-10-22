@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 12:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 13:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스우파' 탈락한 프라우드먼 모니카의 마지막 인사에 울림이 있는 이유]]></title>
+            <link>https://www.elle.co.kr/article/59461</link>
+            <guid>https://www.elle.co.kr/article/59461</guid>
+            <pubDate>Fri, 22 Oct 2021 13:26:01 GMT</pubDate>
+            <content:encoded><![CDATA["프라우드먼은 집에 가는 게 아니다"]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/3de85c48-1ca4-4f3e-9a80-9db5bf23fcec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 '스우파' 파이널 미션! 최종 점수 30% 반영되는 글로벌 응원 투표 영상 모음]]></title>
             <link>https://www.elle.co.kr/article/59460</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 08:23:47 GMT</pubDate>
             <content:encoded><![CDATA[힐링 드라마 답게 최종회도 해피엔딩.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/ead313bc-32cd-4f3e-973d-daad0d117025.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6,25 여군 학도병을 조명하다 #연순기숙 #오예진PD]]></title>
-            <link>https://www.elle.co.kr/article/59395</link>
-            <guid>https://www.elle.co.kr/article/59395</guid>
-            <pubDate>Tue, 19 Oct 2021 07:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[영 제너레이션 다큐멘터리 PD 오예진이 얘기하는 지금의 다큐멘터리 신]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/27d67472-6f64-410d-8373-a3e094d0c472.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
