@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 21:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 22:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1483,6 +1483,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/18/c153e727-17a8-4899-b169-10a82e293a7f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송경아의 시크릿 아침 식단 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/59448</link>
+            <guid>https://www.elle.co.kr/article/59448</guid>
+            <pubDate>Fri, 22 Oct 2021 22:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[모델의 아침 식탁은 무엇으로 채워질까요? 모델 송경아가 소개하는 건강하고 간단한 아침 식단 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/315d8226-89cc-4739-b47f-c648778c6325.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대청호수뷰 보고, 산 속에서 방방 타고! 평화로운 촌캉스 가능한 옥천 숙소 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/59428</link>
             <guid>https://www.elle.co.kr/article/59428</guid>
@@ -1537,14 +1545,6 @@
             <pubDate>Tue, 19 Oct 2021 01:09:20 GMT</pubDate>
             <content:encoded><![CDATA[쑥, 인절미 할매니얼 입맛 저격!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/fe0973e9-ad5b-4cfe-ac46-7635feaa19f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업력 50년은 기본! 박나래X박찬일 셰프가 선택한 면(面)식 노포 베스트 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/59349</link>
-            <guid>https://www.elle.co.kr/article/59349</guid>
-            <pubDate>Fri, 15 Oct 2021 08:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[평양냉면부터 해물칼국수까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/f84b1290-00fd-4da1-941b-49778320b3f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<오징어게임> 닮은 자본주의에서 생존하는 방법_#돈쓸신잡_15 (엘르 코리아 ─ 소사이어티)]]></title>
