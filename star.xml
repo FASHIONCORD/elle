@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 23:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 01:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6년차 커플 정호연과 이동휘, ‘유 퀴즈’ 출연을 두고 경쟁했다고?]]></title>
+            <link>https://www.elle.co.kr/article/59516</link>
+            <guid>https://www.elle.co.kr/article/59516</guid>
+            <pubDate>Sat, 23 Oct 2021 01:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021년은 이 커플의 해.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/98563680-155d-442c-85aa-4277139db150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이쯤 되면 무대 해석 1타 강사? '스우파' 저지 보아의 날카로운 심사평.zip]]></title>
             <link>https://www.elle.co.kr/article/59500</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 10:22:05 GMT</pubDate>
             <content:encoded><![CDATA[벌써 5년째 공개 열애 중.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/e0b6f3aa-680a-4b49-9f42-91edf7955a3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1억1100만 계정이 참가한 '오징어게임', 외신 반응 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/59440</link>
-            <guid>https://www.elle.co.kr/article/59440</guid>
-            <pubDate>Wed, 20 Oct 2021 07:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계가 대서특필 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/ee01e289-5535-481b-9d54-9ae7de2b893b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

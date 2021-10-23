@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 23:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 01:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성게알부터 고수까지, 입맛 돋우는 신상 스프레드 5]]></title>
+            <link>https://www.elle.co.kr/article/59450</link>
+            <guid>https://www.elle.co.kr/article/59450</guid>
+            <pubDate>Sat, 23 Oct 2021 01:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[독특한 재료들로 탄생한 스프레드가 입맛 도는 계절을 맞아 저마다 빛깔을 뽐내기 시작했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/7a887b67-bba1-4e60-8a86-72068704eac2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송경아의 시크릿 아침 식단]]></title>
             <link>https://www.elle.co.kr/article/59448</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 01:09:20 GMT</pubDate>
             <content:encoded><![CDATA[마음을 살찌울 수 있는 김제의 명소들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/77e6ae84-b724-4e93-8de5-ba73d8df5f81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팥맛 첵스를 뒤이어 할매 입맛을 사로잡은 디저트 카페 4]]></title>
-            <link>https://www.elle.co.kr/article/59361</link>
-            <guid>https://www.elle.co.kr/article/59361</guid>
-            <pubDate>Tue, 19 Oct 2021 01:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[쑥, 인절미 할매니얼 입맛 저격!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/fe0973e9-ad5b-4cfe-ac46-7635feaa19f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
