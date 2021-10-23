@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 14:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 15:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보테가 베네타 ‘살롱 03(Salon 03)’ 패션쇼]]></title>
+            <link>https://www.elle.co.kr/article/59509</link>
+            <guid>https://www.elle.co.kr/article/59509</guid>
+            <pubDate>Sat, 23 Oct 2021 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[미국 디트로이트에서 선보이는 보테가 베네타의 '살롱 03' 컬렉션을 라이브로 만나보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/c4bf2a70-22f0-4a65-9a95-4c0b1fc413c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선뜻 시도하기 어려웠나요? 레더 팬츠의 매력 5.]]></title>
+            <link>https://www.elle.co.kr/article/59493</link>
+            <guid>https://www.elle.co.kr/article/59493</guid>
+            <pubDate>Sat, 23 Oct 2021 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[선뜻 시도하기 어려웠던 레더 팬츠가 쉬워지는 매직! 셀러브리티의 데일리 룩에서 확인하세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/78bd0908-3ec8-4afd-bfa4-db04fe9db46f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 아이콘으로 등극한 디자이너들의 뮤즈 3]]></title>
             <link>https://www.elle.co.kr/article/59491</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 15:20:12 GMT</pubDate>
             <content:encoded><![CDATA[셀러브리티들의 사복 패션에서 찾을 수 있는 ‘힙’한 패션 스타일링! 포멀한 재킷에 스포티한 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c682477f-0ba9-4e4e-bb5b-e86b0af6d15e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올가을에는 #레오퍼드 아이템 도전!]]></title>
-            <link>https://www.elle.co.kr/article/59329</link>
-            <guid>https://www.elle.co.kr/article/59329</guid>
-            <pubDate>Wed, 20 Oct 2021 13:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[야성적인 힘을 내뿜는 레오퍼드의 강렬한 유혹.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/440025aa-3bc6-44dc-a930-5be940861f56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소희 추천! 내돈내산 주얼리 리스트]]></title>
-            <link>https://www.elle.co.kr/article/59292</link>
-            <guid>https://www.elle.co.kr/article/59292</guid>
-            <pubDate>Wed, 20 Oct 2021 06:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[주얼리 쇼핑 전 참고하세요. 옷 잘 입는 그, 소희가 추천하는 주얼리 리스트를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/6b5110cf-4b5f-4a6e-8856-7026aa374c8f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
