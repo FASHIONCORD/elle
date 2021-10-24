@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 23:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 01:06:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1107,6 +1107,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/5c42cdf3-16e5-45e5-a0e7-1006864fdc39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[6년차 커플 정호연과 이동휘, ‘유 퀴즈’ 출연을 두고 경쟁했다고? (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/59516</link>
+            <guid>https://www.elle.co.kr/article/59516</guid>
+            <pubDate>Thu, 21 Oct 2021 06:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021년은 이 커플의 해.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/98563680-155d-442c-85aa-4277139db150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이쯤 되면 무대 해석 1타 강사? '스우파' 저지 보아의 날카로운 심사평.zip (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/59500</link>
             <guid>https://www.elle.co.kr/article/59500</guid>
@@ -1161,14 +1169,6 @@
             <pubDate>Mon, 18 Oct 2021 15:23:26 GMT</pubDate>
             <content:encoded><![CDATA[“다큐멘터리를 찍으면서 개인의 삶도 성장하죠” 이승주 PD가 노인의 이야기에 주목한 이유]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/9483c2c1-4d36-4cca-baa4-1395f328987a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스트릿 우먼 파이터' 크루들이 콘서트를 한다고? (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/59409</link>
-            <guid>https://www.elle.co.kr/article/59409</guid>
-            <pubDate>Mon, 18 Oct 2021 08:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[소리도 소문도 없이 열린 예매 페이지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/a12651c7-894f-4e17-8233-cf44c681627e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK ! (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
