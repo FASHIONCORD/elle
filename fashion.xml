@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 14:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 15:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클래식 중의 클래식, 세일러 룩 쇼핑 리스트]]></title>
+            <link>https://www.elle.co.kr/article/59544</link>
+            <guid>https://www.elle.co.kr/article/59544</guid>
+            <pubDate>Sun, 24 Oct 2021 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[강인한 해군의 DNA를 담았다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/161f5340-7327-4e17-8105-af647e1a1f05.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니와 샤넬 코코 네쥬의 만남]]></title>
             <link>https://www.elle.co.kr/article/59519</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 09:21:53 GMT</pubDate>
             <content:encoded><![CDATA[Y2K 패션의 끝판왕! 그 시절 패리스 힐튼이 즐겨 입던 벨벳 트레이닝 룩이 돌아왔다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/d0cc5daa-d4e5-4b01-8bc5-d4e9a6228634.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손맛이 가득! 할머니의 손뜨개를 닮은 니트]]></title>
-            <link>https://www.elle.co.kr/article/59369</link>
-            <guid>https://www.elle.co.kr/article/59369</guid>
-            <pubDate>Wed, 20 Oct 2021 20:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[머리부터 발끝까지 할머니 니트로 멋내기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/ad2151a1-6bb6-4e1a-9ad8-5a1201c2109c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

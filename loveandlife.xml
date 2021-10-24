@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 14:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 15:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 하면 모다? 이맘때 꼭 먹어야 하는 가을 간식거리]]></title>
+            <link>https://www.elle.co.kr/article/59490</link>
+            <guid>https://www.elle.co.kr/article/59490</guid>
+            <pubDate>Sun, 24 Oct 2021 15:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[밤, 단호박, 고구마.... '가을'하면 떠오르는 간식거리로 소확행 누리기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/c27ad47a-0586-4954-b27a-6a425fcee7b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성게알부터 고수까지, 입맛 돋우는 신상 스프레드 5]]></title>
             <link>https://www.elle.co.kr/article/59450</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 11:19:46 GMT</pubDate>
             <content:encoded><![CDATA[유난히 술이 당기는 날, #홈바 계의 숨은 강자를 찾아갔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/00c23212-716b-44a0-96ea-fc9e7f4cabd5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 단풍과 역사와 문학이 숨쉬는 김제 명소 셋 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/59371</link>
-            <guid>https://www.elle.co.kr/article/59371</guid>
-            <pubDate>Tue, 19 Oct 2021 01:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[마음을 살찌울 수 있는 김제의 명소들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/77e6ae84-b724-4e93-8de5-ba73d8df5f81.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
