@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 02:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 03:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -915,6 +915,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjJfMTEz/MDAxNjE2Mzk0ODIwNzc1.RA_g9jvc-qmWTqdgSiDalBQ7qxaa04uWrnfRvxE158Mg._wuyXvnkgg6U0Vvj22Vejg5emhLVJ7QBa4iQLlxECbwg.JPEG/Im6QWZuvR7Lndr83CsASlzgFE84o.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제니와 샤넬 코코 네쥬의 만남 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/59519</link>
+            <guid>https://www.elle.co.kr/article/59519</guid>
+            <pubDate>Sat, 23 Oct 2021 23:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼 아이콘 제니가 샤넬의 윈터 캡슐 컬렉션 ‘코코 네쥬’의 모델로 발탁됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/5206d393-2a1d-492b-8b7a-2501e8cd9ca1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보테가 베네타 ‘살롱 03(Salon 03)’ 패션쇼 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/59509</link>
             <guid>https://www.elle.co.kr/article/59509</guid>
@@ -969,14 +977,6 @@
             <pubDate>Wed, 20 Oct 2021 20:20:16 GMT</pubDate>
             <content:encoded><![CDATA[머리부터 발끝까지 할머니 니트로 멋내기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/ad2151a1-6bb6-4e1a-9ad8-5a1201c2109c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 최애템, 재킷과 볼 캡 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/59333</link>
-            <guid>https://www.elle.co.kr/article/59333</guid>
-            <pubDate>Wed, 20 Oct 2021 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[셀러브리티들의 사복 패션에서 찾을 수 있는 ‘힙’한 패션 스타일링! 포멀한 재킷에 스포티한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c682477f-0ba9-4e4e-bb5b-e86b0af6d15e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진통제도 골라 먹어야 해!_몸에 좋은 잔소리 #30 (엘르 코리아 ─ 뷰티)]]></title>
