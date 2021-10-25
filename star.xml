@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 21:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 22:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑스러운 매력에 퐁당! 신민아 스타일 탐구 #옷잘입는언니]]></title>
+            <link>https://www.elle.co.kr/article/59615</link>
+            <guid>https://www.elle.co.kr/article/59615</guid>
+            <pubDate>Mon, 25 Oct 2021 22:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[믿고 보는 배우이자 로코 장인으로 등극한 신민아! 사랑스럽고 해사한 미소만큼이나 어여쁜 신민...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/ca248e93-9f32-4907-aa39-d5f2b6db114d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[점점 넓고 선명해지는 코드 쿤스트의 유니버스]]></title>
             <link>https://www.elle.co.kr/article/59609</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 23 Oct 2021 23:20:49 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼 아이콘 제니가 샤넬의 윈터 캡슐 컬렉션 ‘코코 네쥬’의 모델로 발탁됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/5206d393-2a1d-492b-8b7a-2501e8cd9ca1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6년차 커플 정호연과 이동휘, ‘유 퀴즈’ 출연을 두고 경쟁했다고?]]></title>
-            <link>https://www.elle.co.kr/article/59516</link>
-            <guid>https://www.elle.co.kr/article/59516</guid>
-            <pubDate>Sat, 23 Oct 2021 01:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021년은 이 커플의 해.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/98563680-155d-442c-85aa-4277139db150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

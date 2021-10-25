@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 21:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 22:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이틴 영화 속 주인공처럼!]]></title>
+            <link>https://www.elle.co.kr/article/59592</link>
+            <guid>https://www.elle.co.kr/article/59592</guid>
+            <pubDate>Mon, 25 Oct 2021 22:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[선미와 소미, 벨라 하디드와 엠마 체임벌린도 빠진 하이틴 무드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/f2d9b6fa-2977-44da-b640-65d4ed4a075e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힐 신는 남자들]]></title>
             <link>https://www.elle.co.kr/article/59593</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 23 Oct 2021 03:20:22 GMT</pubDate>
             <content:encoded><![CDATA[브랜드의 러브콜을 받은 지금 이 시대의 뮤즈는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/f77d1b39-116e-4421-a62c-c259fc90f4d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬 바람 불 땐 스웨터, 이렇게 입어봐요]]></title>
-            <link>https://www.elle.co.kr/article/59488</link>
-            <guid>https://www.elle.co.kr/article/59488</guid>
-            <pubDate>Thu, 21 Oct 2021 15:43:53 GMT</pubDate>
-            <content:encoded><![CDATA[스웨터의 매력을 오롯이 느낄 수 있는 지금. 장희령, 김나영, 예리처럼 특별한 스웨터로 가을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/407b22c8-406f-452e-a058-4614b6ecbf42.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
