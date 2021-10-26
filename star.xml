@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 14:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 15:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노제 사복 패션 ‘손민수’하고 싶다면 비니는 필수]]></title>
+            <link>https://www.elle.co.kr/article/59640</link>
+            <guid>https://www.elle.co.kr/article/59640</guid>
+            <pubDate>Tue, 26 Oct 2021 15:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[힙한 스타일링을 위한 비니 연출법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/71425c36-3ffd-4941-a116-fe0f012b971b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설현이 화이자 2차 후기와 함께 전한 화보 촬영 전 다이어트 식단]]></title>
+            <link>https://www.elle.co.kr/article/59633</link>
+            <guid>https://www.elle.co.kr/article/59633</guid>
+            <pubDate>Tue, 26 Oct 2021 15:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[치팅 식단까지 '먹잘알'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/b8468a54-bdcc-425a-a059-b9e5b2d59063.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 데일리 룩을 완성시켜줄 모자 스타일링 3]]></title>
             <link>https://www.elle.co.kr/article/59628</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 07:20:12 GMT</pubDate>
             <content:encoded><![CDATA[이하늬 헤이마마 볼 수 있나요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/66c51c95-f07c-40b5-a861-8f8e00539954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타의 SNS에서 발견한 성수동 ‘핫플’ 찾기 3.]]></title>
-            <link>https://www.elle.co.kr/article/59588</link>
-            <guid>https://www.elle.co.kr/article/59588</guid>
-            <pubDate>Mon, 25 Oct 2021 07:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[셀러브리티가 다녀간 성수동 핫 플레이스! 그들은 성수동에서 어떤 시간을 보냈을까요? 프롤라/...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/edcce188-22db-4824-8a77-4a39f7094bb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘바퀴 달린 집 3’에 등장한 막내 재질? '공명'에게 주목 할 이유]]></title>
-            <link>https://www.elle.co.kr/article/59582</link>
-            <guid>https://www.elle.co.kr/article/59582</guid>
-            <pubDate>Mon, 25 Oct 2021 07:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[전국 방방곡곡 아름다운 자연을 찾아 떠나는 ‘바달집’ 시즌 3의 막내 공명의 활약, 기대해도...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/074d9a9d-f8a5-4ac7-95b8-e4c444237100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
