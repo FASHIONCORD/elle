@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 22:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 23:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YGX는 멈추지 않는다. 리정이 그린 최강 조합5인]]></title>
+            <link>https://www.elle.co.kr/article/59645</link>
+            <guid>https://www.elle.co.kr/article/59645</guid>
+            <pubDate>Tue, 26 Oct 2021 23:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[리정, 여진, 지효, 이삭, 예리... YGX 5인의 이야기는 끝나지 않는다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/6da5ff21-7bc0-44f6-93ad-21f9721a4669.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노제 사복 패션 ‘손민수’하고 싶다면 비니는 필수]]></title>
             <link>https://www.elle.co.kr/article/59640</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 10:23:14 GMT</pubDate>
             <content:encoded><![CDATA[코드 쿤스트가 작년에 이어 &lt;엘르&gt; 뮤직프로젝트 ‘Reconnect’의 중심에 섰다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/4f292d8e-9730-4420-93fc-166c441af458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허니제이X이하늬, '하늬즈' 결성? 스우파 크루들과 이하늬 의외의 인연]]></title>
-            <link>https://www.elle.co.kr/article/59596</link>
-            <guid>https://www.elle.co.kr/article/59596</guid>
-            <pubDate>Mon, 25 Oct 2021 07:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[이하늬 헤이마마 볼 수 있나요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/66c51c95-f07c-40b5-a861-8f8e00539954.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

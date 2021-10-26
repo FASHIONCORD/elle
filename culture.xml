@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 22:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 23:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5억원에 팔린 가상의 집? #마스하우스]]></title>
+            <link>https://www.elle.co.kr/article/59583</link>
+            <guid>https://www.elle.co.kr/article/59583</guid>
+            <pubDate>Tue, 26 Oct 2021 23:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[돈으로 살 수 있지만 들어가 '살 수' 없는 집이 있다? NFT 거래 역사상 최초로 판매된 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/96bb9439-526e-4576-aa68-698c9e53dc61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘바퀴 달린 집 3’에 등장한 막내 재질? '공명'에게 주목 할 이유]]></title>
             <link>https://www.elle.co.kr/article/59582</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 06:24:01 GMT</pubDate>
             <content:encoded><![CDATA[단 네 크루만이 남았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/5c42cdf3-16e5-45e5-a0e7-1006864fdc39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예정화가 마동석 출연 <이터널스> 월드 프리미어 행사에 나타났다]]></title>
-            <link>https://www.elle.co.kr/article/59444</link>
-            <guid>https://www.elle.co.kr/article/59444</guid>
-            <pubDate>Thu, 21 Oct 2021 08:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[벌써 5년째 공개 열애 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/e0b6f3aa-680a-4b49-9f42-91edf7955a3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
