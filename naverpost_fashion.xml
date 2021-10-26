@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 06:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 07:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 21 Oct 2021 02:35:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjFfMTAx/MDAxNjM0NzgyMzAwMDM5.kPRPGdarJd29ZKsWWQNwnLySM2X-Hnb6EIZGW_GJerAg.W4ZcPuCkfpJbU-N6AF5QPPBb2GzEB5v-ZCJLePCcIScg.JPEG/I4C3WyKPM47HyY97T3fMAKyng79A.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<슈퍼밴드2> 걸 크러쉬 뮤지션]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32581998&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32581998&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 26 Oct 2021 07:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTlfMzQg/MDAxNjM0NjI2MjA4NzUx._4fBwgvyEPF3CxWMazLiyX8kZFw5atMENLHsW7DK9DAg.Lo3bDY2-zTRhjNZ5GKZ-QhajKakQmbU0HBVNvI6v0Vkg.JPEG/ITYS9VG6wRJX7Sv1ogOoSX_YRE3c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신발장 앞 고민 끝! ‘만능 템’ 첼시부츠 리스트 9]]></title>
@@ -160,14 +168,6 @@
             <pubDate>Sat, 02 Oct 2021 09:30:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDFfMjc1/MDAxNjMwNDg0NzI3NzIy.4M3djHjRlTeoOWolchpfaOpgl2OSRT03wHYvRDjAbAog.H7euIghtJdZqcTBGLFVCGkm8DLrA6nJr4lfxpQY82gMg.JPEG/I5llAw-Cf_Yh79D0IxGRPvU1QXdk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제작비지원] 클래식한 트위드 수트를 입고 조금은 삐딱하게.]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32271533&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32271533&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzFfMTM3/MDAxNjMwMzY5MDczOTM1.hksyHcrRnHajBcJ_mLwY1K-JuK2w7cbHCAYoupwgeVQg.HMCpGvJdkr6ftfVJFdh5ieaZMYa_H5x8ZZ4guKZegLsg.JPEG/I-DFyuiZQXqqbD8HRhYH1RP2sPs4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

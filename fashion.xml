@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 06:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 07:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멋있는 여자는 카무플라주를 입는다! BEST 스타일링 6.]]></title>
+            <link>https://www.elle.co.kr/article/59597</link>
+            <guid>https://www.elle.co.kr/article/59597</guid>
+            <pubDate>Tue, 26 Oct 2021 07:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[걸크러시 패션의 종결자, 카무플라주 패턴을 입은 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/b7315a7d-8203-43e4-9f9f-f671afcdb48a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이틴 영화 속 주인공처럼!]]></title>
             <link>https://www.elle.co.kr/article/59592</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 23 Oct 2021 15:19:53 GMT</pubDate>
             <content:encoded><![CDATA[선뜻 시도하기 어려웠던 레더 팬츠가 쉬워지는 매직! 셀러브리티의 데일리 룩에서 확인하세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/78bd0908-3ec8-4afd-bfa4-db04fe9db46f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 아이콘으로 등극한 디자이너들의 뮤즈 3]]></title>
-            <link>https://www.elle.co.kr/article/59491</link>
-            <guid>https://www.elle.co.kr/article/59491</guid>
-            <pubDate>Sat, 23 Oct 2021 03:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드의 러브콜을 받은 지금 이 시대의 뮤즈는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/f77d1b39-116e-4421-a62c-c259fc90f4d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
