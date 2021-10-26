@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 08:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 09:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 데일리 룩을 완성시켜줄 모자 스타일링 3]]></title>
+            <link>https://www.elle.co.kr/article/59628</link>
+            <guid>https://www.elle.co.kr/article/59628</guid>
+            <pubDate>Tue, 26 Oct 2021 09:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[비니부터 볼 캡까지. 스타들의 다양한 모자 스타일링과 구매 욕구를 불러일으키는 모자 쇼핑리스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/1840dd35-38d7-40fb-963a-32ef2826f7ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 사랑한 스파이, 한소희_요주의여성 #35]]></title>
             <link>https://www.elle.co.kr/article/59624</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 07:20:12 GMT</pubDate>
             <content:encoded><![CDATA[전국 방방곡곡 아름다운 자연을 찾아 떠나는 ‘바달집’ 시즌 3의 막내 공명의 활약, 기대해도...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/074d9a9d-f8a5-4ac7-95b8-e4c444237100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오겜', 'D.P.', '마이네임' 다음은? 아직 남은 2021 넷플릭스 한국 오리지널 3]]></title>
-            <link>https://www.elle.co.kr/article/59567</link>
-            <guid>https://www.elle.co.kr/article/59567</guid>
-            <pubDate>Mon, 25 Oct 2021 03:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[정체기 극복한 넷플릭스의 한국 사랑.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/44d197ab-0a94-4911-8b7a-6af7695f869b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
