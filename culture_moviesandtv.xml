@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 02:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 03:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘서트부터 예능까지, '스우파' 크루들을 볼 수 있는 향후 스케줄.zip]]></title>
+            <link>https://www.elle.co.kr/article/60672</link>
+            <guid>https://www.elle.co.kr/article/60672</guid>
+            <pubDate>Wed, 27 Oct 2021 03:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[끝났지만 끝난 게 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/693635e8-2710-4df9-af19-ff505ef58dd2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스우파' 최종 우승! 언더독의 반란 그 자체인 홀리뱅 서사 모음]]></title>
             <link>https://www.elle.co.kr/article/60670</link>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 19 Oct 2021 08:24:44 GMT</pubDate>
             <content:encoded><![CDATA[벌써 5년째 공개 열애 중.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/e0b6f3aa-680a-4b49-9f42-91edf7955a3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1억1100만 계정이 참가한 '오징어게임', 외신 반응 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/59440</link>
-            <guid>https://www.elle.co.kr/article/59440</guid>
-            <pubDate>Tue, 19 Oct 2021 07:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계가 대서특필 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/ee01e289-5535-481b-9d54-9ae7de2b893b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
