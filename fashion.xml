@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 13:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 14:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑스러운 매력에 퐁당! 신민아 스타일 탐구 #옷잘입는언니]]></title>
+            <link>https://www.elle.co.kr/article/59615</link>
+            <guid>https://www.elle.co.kr/article/59615</guid>
+            <pubDate>Wed, 27 Oct 2021 14:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[믿고 보는 배우이자 로코 장인으로 등극한 신민아! 사랑스럽고 해사한 미소만큼이나 어여쁜 신민...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/ca248e93-9f32-4907-aa39-d5f2b6db114d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미니마니모 #나노백 #미니백]]></title>
             <link>https://www.elle.co.kr/article/59600</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 24 Oct 2021 03:20:33 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼 아이콘 제니가 샤넬의 윈터 캡슐 컬렉션 ‘코코 네쥬’의 모델로 발탁됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/5206d393-2a1d-492b-8b7a-2501e8cd9ca1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보테가 베네타 ‘살롱 03(Salon 03)’ 패션쇼]]></title>
-            <link>https://www.elle.co.kr/article/59509</link>
-            <guid>https://www.elle.co.kr/article/59509</guid>
-            <pubDate>Sat, 23 Oct 2021 15:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[미국 디트로이트에서 선보이는 보테가 베네타의 '살롱 03' 컬렉션을 라이브로 만나보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/c4bf2a70-22f0-4a65-9a95-4c0b1fc413c7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
