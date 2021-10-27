@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 22:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 23:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타의 SNS에서 발견한 성수동 ‘핫플’ 찾기 3.]]></title>
+            <link>https://www.elle.co.kr/article/59588</link>
+            <guid>https://www.elle.co.kr/article/59588</guid>
+            <pubDate>Wed, 27 Oct 2021 23:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[셀러브리티가 다녀간 성수동 핫 플레이스! 그들은 성수동에서 어떤 시간을 보냈을까요? 프롤라/...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/edcce188-22db-4824-8a77-4a39f7094bb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거위가 뛰어 노는 찐시골 카페에서 가을 하늘 감상하기! 옥천 카페 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/59587</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 08:26:15 GMT</pubDate>
             <content:encoded><![CDATA[인스타그램에서 가장 핫한 옥천 숙소들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/15d62909-1fe8-4deb-ab10-11b22e6a33ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세 가지 맛 치킨버거와 귀한 청란 오믈렛이 있는 연남동·연희동 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/59427</link>
-            <guid>https://www.elle.co.kr/article/59427</guid>
-            <pubDate>Thu, 21 Oct 2021 07:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[맛과 분위기 모두 잡은 신상맛집들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/1b6581f1-fd82-4b17-9712-aca275d37de3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
