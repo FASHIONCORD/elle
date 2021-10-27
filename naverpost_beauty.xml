@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 05:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 06:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[치팅 식단까지 '먹잘알'? 설현의 화보 전 다이어트 식단]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32634413&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32634413&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 27 Oct 2021 06:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfNzAg/MDAxNjM1MzEyODczMTQ3.fqGwyxyEkp6g6XSvn4V3zLDylTP0x3RU_0DqWxSOVSYg.bfDSu9G-9LVExXLpP_Ti9AjZ88GycjQrVn4ozAPhfy4g.JPEG/ICHn1gaMMrdRk7N4Z62BadUM8XfI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출산 다이어트 끝판왕! 6개월 만에 컴백한 강소라 다이어트 운동&식단]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32605015&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Sat, 02 Oct 2021 09:30:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDhfNjYg/MDAxNjI1NzA2NjE3NTcy.X9ojiguZjrtOVOx-qOQ_UBCrw-YVLr2l5tFXPCFFqvYg.jszcX6KVxFuwVodZ1Unu_mAHNePqa7QTx2sLX9IzOCYg.PNG/I4rKmomZkm4ZBAPkTSOOqcqzdeeg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1개월 다이어트! 장영란의 다이어트 꿀Tip]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31872408&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31872408&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MzBfNjIg/MDAxNjI1MDMxNTk0MTUw.q-IN7IEeihK3ywqEKQU-IkNQE_r2IiKT37d8CdqjzjMg.b6f5NBNdZdhNYrAneKDNCHpKpu8dEya0NQQRZLG0OwMg.JPEG/IgKOIW2woGiqeyyRJ8LoIQi5jq8I.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
