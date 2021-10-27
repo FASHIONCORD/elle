@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 01:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 02:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프라우드, 프라우드, 프라우드! 프라우드먼 완전체 9인]]></title>
+            <link>https://www.elle.co.kr/article/59646</link>
+            <guid>https://www.elle.co.kr/article/59646</guid>
+            <pubDate>Wed, 27 Oct 2021 02:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[춤에 미친 사람들, 9인의 완전한 프라우드먼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/9158af40-c272-4e2a-918e-e5c364b13e01.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[YGX는 멈추지 않는다. 리정이 그린 최강 조합5인]]></title>
             <link>https://www.elle.co.kr/article/59645</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 22:21:15 GMT</pubDate>
             <content:encoded><![CDATA[믿고 보는 배우이자 로코 장인으로 등극한 신민아! 사랑스럽고 해사한 미소만큼이나 어여쁜 신민...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/ca248e93-9f32-4907-aa39-d5f2b6db114d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점점 넓고 선명해지는 코드 쿤스트의 유니버스]]></title>
-            <link>https://www.elle.co.kr/article/59609</link>
-            <guid>https://www.elle.co.kr/article/59609</guid>
-            <pubDate>Mon, 25 Oct 2021 10:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[코드 쿤스트가 작년에 이어 &lt;엘르&gt; 뮤직프로젝트 ‘Reconnect’의 중심에 섰다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/4f292d8e-9730-4420-93fc-166c441af458.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
