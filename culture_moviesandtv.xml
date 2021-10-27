@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 06:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["60초 후에" 멘트에 눈으로 욕한 천우희X선미? '스우파' 막방 제대로 몰입한 스타들]]></title>
+            <link>https://www.elle.co.kr/article/60688</link>
+            <guid>https://www.elle.co.kr/article/60688</guid>
+            <pubDate>Wed, 27 Oct 2021 07:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[우승 크루 발표를 지켜보던 모두의 똑같은 마음...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/56206ad2-9547-4a86-8035-8370acc917d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콘서트부터 예능까지, '스우파' 크루들을 볼 수 있는 향후 스케줄.zip]]></title>
             <link>https://www.elle.co.kr/article/60672</link>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 20 Oct 2021 02:35:58 GMT</pubDate>
             <content:encoded><![CDATA[단 네 크루만이 남았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/5c42cdf3-16e5-45e5-a0e7-1006864fdc39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예정화가 마동석 출연 <이터널스> 월드 프리미어 행사에 나타났다]]></title>
-            <link>https://www.elle.co.kr/article/59444</link>
-            <guid>https://www.elle.co.kr/article/59444</guid>
-            <pubDate>Tue, 19 Oct 2021 08:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[벌써 5년째 공개 열애 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/e0b6f3aa-680a-4b49-9f42-91edf7955a3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

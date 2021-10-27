@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 06:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 사랑한 스파이, 한소희_요주의여성 #35]]></title>
+            <link>https://www.elle.co.kr/article/59624</link>
+            <guid>https://www.elle.co.kr/article/59624</guid>
+            <pubDate>Wed, 27 Oct 2021 07:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘예쁜 배우’ 한소희의 반전 혹은 본색, &lt;마이 네임&gt;.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/5bc4bced-a00b-4a59-bcec-b0ed87069d1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tvN 토일드라마 역대 첫방 시청률 갈아 치운 '지리산', 대체 무슨 내용?]]></title>
             <link>https://www.elle.co.kr/article/59622</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 24 Oct 2021 01:03:51 GMT</pubDate>
             <content:encoded><![CDATA[2021년은 이 커플의 해.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/98563680-155d-442c-85aa-4277139db150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이쯤 되면 무대 해석 1타 강사? '스우파' 저지 보아의 날카로운 심사평.zip]]></title>
-            <link>https://www.elle.co.kr/article/59500</link>
-            <guid>https://www.elle.co.kr/article/59500</guid>
-            <pubDate>Fri, 22 Oct 2021 15:23:13 GMT</pubDate>
-            <content:encoded><![CDATA['맨 오브 우먼' 미션에서 정점을 찍은 보아의 심사평 퀄리티.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/2d00df20-b24e-4252-8c95-20497cc33751.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

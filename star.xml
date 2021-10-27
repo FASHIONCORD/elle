@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 06:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강력한 사랑스러움! 라치카가 최고인 이유]]></title>
+            <link>https://www.elle.co.kr/article/60663</link>
+            <guid>https://www.elle.co.kr/article/60663</guid>
+            <pubDate>Wed, 27 Oct 2021 07:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[독보적인 페미닌 파워, 라치카가 전하는 밝고 건강한 메시지 그리고 움직임]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/6aad5310-7c2f-494e-95f8-734fd99f1725.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘코시국’ 2년차, 아사 직전 극장가 먹여 살린 영화 TOP 3]]></title>
             <link>https://www.elle.co.kr/article/60651</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 02:04:28 GMT</pubDate>
             <content:encoded><![CDATA[‘예쁜 배우’ 한소희의 반전 혹은 본색, &lt;마이 네임&gt;.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/5bc4bced-a00b-4a59-bcec-b0ed87069d1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN 토일드라마 역대 첫방 시청률 갈아 치운 '지리산', 대체 무슨 내용?]]></title>
-            <link>https://www.elle.co.kr/article/59622</link>
-            <guid>https://www.elle.co.kr/article/59622</guid>
-            <pubDate>Tue, 26 Oct 2021 02:04:28 GMT</pubDate>
-            <content:encoded><![CDATA[방송 첫 주부터 10%를 훌쩍 넘은 시청률.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/8b61bc8e-a494-4a36-8bd6-f3b9ee011971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
