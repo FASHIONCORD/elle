@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 14:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 15:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#아이유 역대급 미모를 담았다! 29살 아이유의 패션필름]]></title>
+            <link>https://www.elle.co.kr/article/60717</link>
+            <guid>https://www.elle.co.kr/article/60717</guid>
+            <pubDate>Thu, 28 Oct 2021 15:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[유애나 아니라도 보고 또 봐야하는 아이유 역대급 패션필름]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/ee498c85-ddcf-405f-8946-afdb12d967f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["60초 후에" 멘트에 눈으로 욕한 천우희X선미? '스우파' 막방 제대로 몰입한 스타들]]></title>
             <link>https://www.elle.co.kr/article/60688</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 03:22:10 GMT</pubDate>
             <content:encoded><![CDATA[여러 대작 속에서도 선방한 한국 영화들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/2d62010b-3e58-404d-96f0-10538999764e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프라우드, 프라우드, 프라우드! 프라우드먼 완전체 9인]]></title>
-            <link>https://www.elle.co.kr/article/59646</link>
-            <guid>https://www.elle.co.kr/article/59646</guid>
-            <pubDate>Wed, 27 Oct 2021 02:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[춤에 미친 사람들, 9인의 완전한 프라우드먼.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/9158af40-c272-4e2a-918e-e5c364b13e01.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
