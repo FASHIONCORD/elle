@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 23:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 01:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1107,6 +1107,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/b8468a54-bdcc-425a-a059-b9e5b2d59063.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤은혜가 알려주는 ‘행복지수 올리는 법’ (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/60664</link>
+            <guid>https://www.elle.co.kr/article/60664</guid>
+            <pubDate>Tue, 26 Oct 2021 23:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[윤은혜가 소개하는 방법들로 건강하고, 긍정적인 삶을 위한 작은 습관들을 만들어볼까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/240da27c-1a78-4ef4-af8e-17fb7a2eedda.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘코시국’ 2년차, 아사 직전 극장가 먹여 살린 영화 TOP 3 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/60651</link>
             <guid>https://www.elle.co.kr/article/60651</guid>
@@ -1161,14 +1169,6 @@
             <pubDate>Fri, 22 Oct 2021 06:24:41 GMT</pubDate>
             <content:encoded><![CDATA[정체기 극복한 넷플릭스의 한국 사랑.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/44d197ab-0a94-4911-8b7a-6af7695f869b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성의 이야기가 고전이 될 때까지_주간책방 #1 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/59530</link>
-            <guid>https://www.elle.co.kr/article/59530</guid>
-            <pubDate>Mon, 25 Oct 2021 06:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[지금, 여성들의 이야기, '클래식책방']]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/faafe263-616b-4cd8-9dbb-2be9933f148b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤은혜가 알려주는 ‘행복지수 올리는 법’ (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
