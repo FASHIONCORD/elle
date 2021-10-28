@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 07:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 08:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘서트부터 예능까지, '스우파' 크루들을 볼 수 있는 향후 스케줄.zip]]></title>
+            <link>https://www.elle.co.kr/article/60672</link>
+            <guid>https://www.elle.co.kr/article/60672</guid>
+            <pubDate>Thu, 28 Oct 2021 08:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[끝났지만 끝난 게 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/693635e8-2710-4df9-af19-ff505ef58dd2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스우파' 최종 우승! 언더독의 반란 그 자체인 홀리뱅 서사 모음]]></title>
             <link>https://www.elle.co.kr/article/60670</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 23:22:32 GMT</pubDate>
             <content:encoded><![CDATA[돈으로 살 수 있지만 들어가 '살 수' 없는 집이 있다? NFT 거래 역사상 최초로 판매된 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/96bb9439-526e-4576-aa68-698c9e53dc61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘바퀴 달린 집 3’에 등장한 막내 재질? '공명'에게 주목 할 이유]]></title>
-            <link>https://www.elle.co.kr/article/59582</link>
-            <guid>https://www.elle.co.kr/article/59582</guid>
-            <pubDate>Tue, 26 Oct 2021 07:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[전국 방방곡곡 아름다운 자연을 찾아 떠나는 ‘바달집’ 시즌 3의 막내 공명의 활약, 기대해도...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/074d9a9d-f8a5-4ac7-95b8-e4c444237100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
