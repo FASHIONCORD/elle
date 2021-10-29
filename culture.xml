@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 03:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 04:31:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 암살자에서 프랑스 귀족으로 변신? #라스트듀얼 #조디코머 와의 대화]]></title>
+            <link>https://www.elle.co.kr/article/60719</link>
+            <guid>https://www.elle.co.kr/article/60719</guid>
+            <pubDate>Fri, 29 Oct 2021 04:27:18 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;킬링 이브&gt;의 히로인 조디 코머, 14세기 프랑스 실화를 바탕으로 한 &lt;라스트 듀얼: 최후...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b6b9d07d-efa0-45ad-be41-fdae6a28f299.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["60초 후에" 멘트에 눈으로 욕한 천우희X선미? '스우파' 막방 제대로 몰입한 스타들]]></title>
             <link>https://www.elle.co.kr/article/60688</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 03:22:51 GMT</pubDate>
             <content:encoded><![CDATA[방송 첫 주부터 10%를 훌쩍 넘은 시청률.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/8b61bc8e-a494-4a36-8bd6-f3b9ee011971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허니제이X이하늬, '하늬즈' 결성? 스우파 크루들과 이하늬 의외의 인연]]></title>
-            <link>https://www.elle.co.kr/article/59596</link>
-            <guid>https://www.elle.co.kr/article/59596</guid>
-            <pubDate>Wed, 27 Oct 2021 02:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[이하늬 헤이마마 볼 수 있나요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/66c51c95-f07c-40b5-a861-8f8e00539954.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
