@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 23:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 01:04:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤은혜가 알려주는 ‘행복지수 올리는 법’]]></title>
+            <link>https://www.elle.co.kr/article/60664</link>
+            <guid>https://www.elle.co.kr/article/60664</guid>
+            <pubDate>Fri, 29 Oct 2021 01:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[윤은혜가 소개하는 방법들로 건강하고, 긍정적인 삶을 위한 작은 습관들을 만들어볼까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/240da27c-1a78-4ef4-af8e-17fb7a2eedda.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한정식 집에 파스타가? 다양한 조합과 재해석이 있는 성수 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/59642</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 24 Oct 2021 15:23:17 GMT</pubDate>
             <content:encoded><![CDATA[밤, 단호박, 고구마.... '가을'하면 떠오르는 간식거리로 소확행 누리기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/c27ad47a-0586-4954-b27a-6a425fcee7b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성게알부터 고수까지, 입맛 돋우는 신상 스프레드 5]]></title>
-            <link>https://www.elle.co.kr/article/59450</link>
-            <guid>https://www.elle.co.kr/article/59450</guid>
-            <pubDate>Sat, 23 Oct 2021 01:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[독특한 재료들로 탄생한 스프레드가 입맛 도는 계절을 맞아 저마다 빛깔을 뽐내기 시작했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/7a887b67-bba1-4e60-8a86-72068704eac2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
