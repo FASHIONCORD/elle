@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 04:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 05:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독서의 계절에는 #북카페 3]]></title>
+            <link>https://www.elle.co.kr/article/60727</link>
+            <guid>https://www.elle.co.kr/article/60727</guid>
+            <pubDate>Fri, 29 Oct 2021 05:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[특별한 큐레이션을 만날 수 있는 독립 서점부터 한강뷰가 내다보이는 뷰 맛집 북카페까지 책과 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/216f3c33-2735-4fe5-a2d3-2864126b4275.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 암살자에서 프랑스 귀족으로 변신? #라스트듀얼 #조디코머 와의 대화]]></title>
             <link>https://www.elle.co.kr/article/60719</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 07:21:23 GMT</pubDate>
             <content:encoded><![CDATA[‘예쁜 배우’ 한소희의 반전 혹은 본색, &lt;마이 네임&gt;.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/5bc4bced-a00b-4a59-bcec-b0ed87069d1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN 토일드라마 역대 첫방 시청률 갈아 치운 '지리산', 대체 무슨 내용?]]></title>
-            <link>https://www.elle.co.kr/article/59622</link>
-            <guid>https://www.elle.co.kr/article/59622</guid>
-            <pubDate>Wed, 27 Oct 2021 03:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[방송 첫 주부터 10%를 훌쩍 넘은 시청률.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/8b61bc8e-a494-4a36-8bd6-f3b9ee011971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
