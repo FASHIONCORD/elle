@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 05:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 06:30:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바시티 재킷 쇼핑 리스트 (a.k.a 야구 점퍼)]]></title>
+            <link>https://www.elle.co.kr/article/60762</link>
+            <guid>https://www.elle.co.kr/article/60762</guid>
+            <pubDate>Sun, 31 Oct 2021 06:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[가을 아우터 찾고 있다면 주목! 일명 야구 점퍼라고도 불리는 바시티 재킷 구매 좌표.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/604854a7-abad-46ae-8d72-4b9913e00086.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지구에게 덜 미안하게 사는 방법 #LoveTheEarth]]></title>
             <link>https://www.elle.co.kr/article/60763</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 15:22:01 GMT</pubDate>
             <content:encoded><![CDATA[유애나 아니라도 보고 또 봐야하는 아이유 역대급 패션필름]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/ee498c85-ddcf-405f-8946-afdb12d967f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["60초 후에" 멘트에 눈으로 욕한 천우희X선미? '스우파' 막방 제대로 몰입한 스타들]]></title>
-            <link>https://www.elle.co.kr/article/60688</link>
-            <guid>https://www.elle.co.kr/article/60688</guid>
-            <pubDate>Thu, 28 Oct 2021 08:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[우승 크루 발표를 지켜보던 모두의 똑같은 마음...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/56206ad2-9547-4a86-8035-8370acc917d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
