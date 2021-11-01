@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 06:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 07:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제18회 쇼팽 콩쿨 유일한 한국인 결선 진출자! 'K-클래식' 인기 이을 이혁]]></title>
+            <link>https://www.elle.co.kr/article/60776</link>
+            <guid>https://www.elle.co.kr/article/60776</guid>
+            <pubDate>Mon, 01 Nov 2021 07:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[체스와 컴퓨터 프로그래밍이 취미인 2000년생.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/40f4e737-9ebb-4398-9b9d-f725cf7283e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바시티 재킷 쇼핑 리스트 (a.k.a 야구 점퍼)]]></title>
             <link>https://www.elle.co.kr/article/60762</link>
@@ -29,7 +37,7 @@
             <guid>https://www.elle.co.kr/article/60733</guid>
             <pubDate>Sat, 30 Oct 2021 04:27:28 GMT</pubDate>
             <content:encoded><![CDATA[반짝이는 재능과 타고난 아름다움을 비집고 나온, 두 사람의 따뜻한 시선과 꽃갈피 같은 마음에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/6662adf1-fdcf-47ef-a043-26ed9e9ffe41.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/01/6662adf1-fdcf-47ef-a043-26ed9e9ffe41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옥상달빛 김윤주가 남편인 10cm 권정열의 첫인상을 '극혐'이었다고 한 이유]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 23:21:40 GMT</pubDate>
             <content:encoded><![CDATA[카이가 또 카이했다! 한국 사람이라면 꼭 봐야하는 패션필름]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/892d3522-0534-4ffd-b372-fac4717ecdb9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#아이유 역대급 미모를 담았다! 29살 아이유의 패션필름]]></title>
-            <link>https://www.elle.co.kr/article/60717</link>
-            <guid>https://www.elle.co.kr/article/60717</guid>
-            <pubDate>Thu, 28 Oct 2021 15:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[유애나 아니라도 보고 또 봐야하는 아이유 역대급 패션필름]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/ee498c85-ddcf-405f-8946-afdb12d967f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
