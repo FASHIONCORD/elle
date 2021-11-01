@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 22:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 23:28:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1483,6 +1483,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/5de38c11-6431-4c84-95dd-b3d5fdbe52f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한정식 집에 파스타가? 다양한 조합과 재해석이 있는 성수 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/59642</link>
+            <guid>https://www.elle.co.kr/article/59642</guid>
+            <pubDate>Mon, 01 Nov 2021 23:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[성수에 새로 생긴 평범하지 않은 식당들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/180ac850-477e-4cb2-a6ef-911ef66743c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스타의 SNS에서 발견한 성수동 ‘핫플’ 찾기 3. (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/59588</link>
             <guid>https://www.elle.co.kr/article/59588</guid>
@@ -1537,14 +1545,6 @@
             <pubDate>Fri, 29 Oct 2021 11:22:39 GMT</pubDate>
             <content:encoded><![CDATA[인스타그램에서 가장 핫한 옥천 숙소들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/15d62909-1fe8-4deb-ab10-11b22e6a33ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세 가지 맛 치킨버거와 귀한 청란 오믈렛이 있는 연남동·연희동 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/59427</link>
-            <guid>https://www.elle.co.kr/article/59427</guid>
-            <pubDate>Fri, 29 Oct 2021 11:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[맛과 분위기 모두 잡은 신상맛집들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/1b6581f1-fd82-4b17-9712-aca275d37de3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멋지게 나이 드는 노하우 (엘르 코리아 ─ 소사이어티)]]></title>
