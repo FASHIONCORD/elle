@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 17:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 18:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1043,6 +1043,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/a983b2a2-1049-434c-8d87-5d211a46ca33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장윤주의 리얼 다이어트 레서피 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/60823</link>
+            <guid>https://www.elle.co.kr/article/60823</guid>
+            <pubDate>Tue, 02 Nov 2021 18:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[워너비 몸매의 소유자 장윤주가 몸매 관리를 위해 평소에 먹는 식단은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/01e1a5d3-76b6-4568-8c6c-44bf6fe5e670.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우정엔 나이가 없지! '선생님 콜렉터' 아이유가 고두심·정동환과 나눈 우정 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/60822</link>
             <guid>https://www.elle.co.kr/article/60822</guid>
@@ -1097,14 +1105,6 @@
             <pubDate>Sat, 30 Oct 2021 04:27:28 GMT</pubDate>
             <content:encoded><![CDATA[반짝이는 재능과 타고난 아름다움을 비집고 나온, 두 사람의 따뜻한 시선과 꽃갈피 같은 마음에...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/01/6662adf1-fdcf-47ef-a043-26ed9e9ffe41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옥상달빛 김윤주가 남편인 10cm 권정열의 첫인상을 '극혐'이었다고 한 이유 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/60741</link>
-            <guid>https://www.elle.co.kr/article/60741</guid>
-            <pubDate>Thu, 28 Oct 2021 08:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[역시 '홍대 김구라' 다운 입담.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/99936ab1-d2fa-4136-a3b1-652141e6f706.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른에게도 그림책이 필요해_주간책방 #2 (엘르 코리아 ─ 컬쳐)]]></title>
