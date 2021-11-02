@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 06:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 07:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반짝반짝 홀리데이 뷰티 2021 컬렉션 총정리.zip]]></title>
+            <link>https://www.elle.co.kr/article/60746</link>
+            <guid>https://www.elle.co.kr/article/60746</guid>
+            <pubDate>Tue, 02 Nov 2021 07:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[8개 브랜드의 홀리데이 컬렉션을 모두 정리!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/26014f2c-0b85-40fa-bc3a-72e560e27107.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설현이 화이자 2차 후기와 함께 전한 화보 촬영 전 다이어트 식단]]></title>
             <link>https://www.elle.co.kr/article/59633</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 04:25:11 GMT</pubDate>
             <content:encoded><![CDATA[비누로 손을 씻지 않는 사람이 80%? ‘세계 손 씻기의 날’을 맞아 다시 배우는 손 씻기....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/a983b2a2-1049-434c-8d87-5d211a46ca33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진통제도 골라 먹어야 해!_몸에 좋은 잔소리 #30]]></title>
-            <link>https://www.elle.co.kr/article/59340</link>
-            <guid>https://www.elle.co.kr/article/59340</guid>
-            <pubDate>Fri, 22 Oct 2021 15:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[#해열진통제 #소염진통제 #타이레놀 #부루펜]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/e1e49d73-64e6-45f6-a93f-e7255c134fb2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
