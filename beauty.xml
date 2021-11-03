@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 02:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 03:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지갑이 열리네요. 나스&이도현이 들어오죠.]]></title>
+            <link>https://www.elle.co.kr/article/60807</link>
+            <guid>https://www.elle.co.kr/article/60807</guid>
+            <pubDate>Wed, 03 Nov 2021 03:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[나스 홀리데이 2021 컬렉션 &lt;스타일 언랩트&gt;와 함께한 배우 이도현! 그의 대.존.잘. 모...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/728a056f-cd25-4b78-a707-5d7bd21cb861.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반짝반짝 홀리데이 뷰티 2021 컬렉션 총정리.zip]]></title>
             <link>https://www.elle.co.kr/article/60746</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 08:23:26 GMT</pubDate>
             <content:encoded><![CDATA[모델의 아침 식탁은 무엇으로 채워질까요? 모델 송경아가 소개하는 건강하고 간단한 아침 식단 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/315d8226-89cc-4739-b47f-c648778c6325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손 씻기가 세상을 구한다, 비누 & 핸드 워시의 힘_선배's 어드바이스 #87]]></title>
-            <link>https://www.elle.co.kr/article/59400</link>
-            <guid>https://www.elle.co.kr/article/59400</guid>
-            <pubDate>Mon, 25 Oct 2021 04:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[비누로 손을 씻지 않는 사람이 80%? ‘세계 손 씻기의 날’을 맞아 다시 배우는 손 씻기....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/a983b2a2-1049-434c-8d87-5d211a46ca33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
