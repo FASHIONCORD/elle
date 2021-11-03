@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 14:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 15:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽들이 사랑한 로고 패션.zip]]></title>
+            <link>https://www.elle.co.kr/article/60809</link>
+            <guid>https://www.elle.co.kr/article/60809</guid>
+            <pubDate>Wed, 03 Nov 2021 15:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[제니부터 선미, 노제까지. 로고가 패션이 되는 로고 플레이 룩 모음]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/9aa4b23f-98dd-4655-878c-12c3766d3a01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바시티 재킷 쇼핑 리스트 (a.k.a 야구 점퍼)]]></title>
             <link>https://www.elle.co.kr/article/60762</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 03:20:24 GMT</pubDate>
             <content:encoded><![CDATA[&lt;슈퍼밴드2&gt; 슈퍼 뮤지션, 모조에스핀을 입다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/8b7c06ce-bedc-44b6-9fbb-8b6c14bad285.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노제 사복 패션 ‘손민수’하고 싶다면 비니는 필수]]></title>
-            <link>https://www.elle.co.kr/article/59640</link>
-            <guid>https://www.elle.co.kr/article/59640</guid>
-            <pubDate>Wed, 27 Oct 2021 15:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[힙한 스타일링을 위한 비니 연출법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/71425c36-3ffd-4941-a116-fe0f012b971b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
