@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 07:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 08:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -979,6 +979,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/1840dd35-38d7-40fb-963a-32ef2826f7ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[초겨울 피부 건조증을 막는 6가지 습관_선배's 어드바이스 #89 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/60835</link>
+            <guid>https://www.elle.co.kr/article/60835</guid>
+            <pubDate>Wed, 03 Nov 2021 08:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[바싹바싹, 쩍쩍… 계속 건조해지는 피부가 스킨케어 습관 탓?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/01/f06c33ee-370b-4ae1-8d56-c833ad79ea6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장윤주의 리얼 다이어트 레서피 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/60823</link>
             <guid>https://www.elle.co.kr/article/60823</guid>
@@ -1033,14 +1041,6 @@
             <pubDate>Fri, 29 Oct 2021 17:22:51 GMT</pubDate>
             <content:encoded><![CDATA[선명한 11자 복근.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/df7f292d-58ef-430e-9a3d-88c6e9f17b03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부에 식재료를 양보해야 하는 이유? (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/59452</link>
-            <guid>https://www.elle.co.kr/article/59452</guid>
-            <pubDate>Thu, 28 Oct 2021 10:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[먹음직스러운 식재료가 피부에 전하는 신선한 위로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/09baaeea-db48-4d58-9f2c-dfa31dd3f73c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장윤주의 리얼 다이어트 레서피 (엘르 코리아 ─ 스타)]]></title>
