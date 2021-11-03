@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 08:31:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 09:27:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 로제부터 레드벨벳 슬기까지! 스타가 픽한 인테리어 잇템]]></title>
+            <link>https://www.elle.co.kr/article/60848</link>
+            <guid>https://www.elle.co.kr/article/60848</guid>
+            <pubDate>Wed, 03 Nov 2021 09:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[감각 좋기로 소문난 스타들의 SNS에서 포착했어요. 근사하고 뚜렷한 존재감을 가진 인테리어 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/692da72d-f223-4fa8-8ffb-8670d4d78436.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본업천재 폴킴이 움직이기 시작했다]]></title>
+            <link>https://www.elle.co.kr/article/60842</link>
+            <guid>https://www.elle.co.kr/article/60842</guid>
+            <pubDate>Wed, 03 Nov 2021 09:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[여름날의 슬럼프를 완벽히 극복하고 새 앨범 &lt;찬란한 계절&gt;으로 돌아온 폴킴을 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/23648757-487a-4efe-bff1-cf255bea6a97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코드 쿤스트가 생각하는 재미난 일]]></title>
+            <link>https://www.elle.co.kr/article/60833</link>
+            <guid>https://www.elle.co.kr/article/60833</guid>
+            <pubDate>Wed, 03 Nov 2021 09:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;쇼미더머니 10&gt;의 프로듀서로, AOMG의 아티스트로, 네 개의 정규 앨범을 낸 뮤지션으로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/75ccd2d5-b32b-46f8-bdf7-6397e11067ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장윤주의 리얼 다이어트 레서피]]></title>
             <link>https://www.elle.co.kr/article/60823</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 01 Nov 2021 07:21:39 GMT</pubDate>
             <content:encoded><![CDATA[체스와 컴퓨터 프로그래밍이 취미인 2000년생.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/40f4e737-9ebb-4398-9b9d-f725cf7283e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바시티 재킷 쇼핑 리스트 (a.k.a 야구 점퍼)]]></title>
-            <link>https://www.elle.co.kr/article/60762</link>
-            <guid>https://www.elle.co.kr/article/60762</guid>
-            <pubDate>Sun, 31 Oct 2021 06:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[가을 아우터 찾고 있다면 주목! 일명 야구 점퍼라고도 불리는 바시티 재킷 구매 좌표.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/604854a7-abad-46ae-8d72-4b9913e00086.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구에게 덜 미안하게 사는 방법 #LoveTheEarth]]></title>
-            <link>https://www.elle.co.kr/article/60763</link>
-            <guid>https://www.elle.co.kr/article/60763</guid>
-            <pubDate>Sat, 30 Oct 2021 22:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[생활 속 작은 실천이 더 건강한 지구를 만듭니다. 엄지원이 알려주는 저탄소 라이프 스타일에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/7854bf90-f08f-494d-bf4e-13d9c305f20b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream of Dream 꿈속의 꿈, 아이유&카이 만나다!]]></title>
-            <link>https://www.elle.co.kr/article/60733</link>
-            <guid>https://www.elle.co.kr/article/60733</guid>
-            <pubDate>Sat, 30 Oct 2021 04:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[반짝이는 재능과 타고난 아름다움을 비집고 나온, 두 사람의 따뜻한 시선과 꽃갈피 같은 마음에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/01/6662adf1-fdcf-47ef-a043-26ed9e9ffe41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
