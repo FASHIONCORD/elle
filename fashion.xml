@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 09:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 10:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바시티 재킷 쇼핑 리스트 (a.k.a 야구 점퍼)]]></title>
+            <link>https://www.elle.co.kr/article/60762</link>
+            <guid>https://www.elle.co.kr/article/60762</guid>
+            <pubDate>Wed, 03 Nov 2021 10:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[가을 아우터 찾고 있다면 주목! 일명 야구 점퍼라고도 불리는 바시티 재킷 구매 좌표.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/604854a7-abad-46ae-8d72-4b9913e00086.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숨겨진 사복 패션 장인! 소녀시대 최수영의 가을 데일리 룩 #옷잘입는언니]]></title>
             <link>https://www.elle.co.kr/article/60730</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 15:20:51 GMT</pubDate>
             <content:encoded><![CDATA[힙한 스타일링을 위한 비니 연출법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/71425c36-3ffd-4941-a116-fe0f012b971b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 데일리 룩을 완성시켜줄 모자 스타일링 3]]></title>
-            <link>https://www.elle.co.kr/article/59628</link>
-            <guid>https://www.elle.co.kr/article/59628</guid>
-            <pubDate>Wed, 27 Oct 2021 15:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[비니부터 볼 캡까지. 스타들의 다양한 모자 스타일링과 구매 욕구를 불러일으키는 모자 쇼핑리스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/1840dd35-38d7-40fb-963a-32ef2826f7ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
