@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 10:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 11:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1107,6 +1107,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/9aa4b23f-98dd-4655-878c-12c3766d3a01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새로운 노래들과 함께 출발하는 김사월의 기분 좋은 주행 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/60773</link>
+            <guid>https://www.elle.co.kr/article/60773</guid>
+            <pubDate>Fri, 29 Oct 2021 04:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[새 EP &lt;드라이브&gt;로 산뜻한 주행을 알린 김사월. 엑셀을 밟는 김사월의 마음과 호흡은 이전...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/e8a0a767-3cbf-4c6b-b668-c20c6a2d9686.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무채색의 조각 사이 피어난 핑크빛 입체 회화들, 이불 신작 개인전 #인싸 전시_38 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/60765</link>
             <guid>https://www.elle.co.kr/article/60765</guid>
@@ -1161,14 +1169,6 @@
             <pubDate>Wed, 27 Oct 2021 03:23:47 GMT</pubDate>
             <content:encoded><![CDATA[끝났지만 끝난 게 아니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/693635e8-2710-4df9-af19-ff505ef58dd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 최종 우승! 언더독의 반란 그 자체인 홀리뱅 서사 모음 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/60670</link>
-            <guid>https://www.elle.co.kr/article/60670</guid>
-            <pubDate>Wed, 27 Oct 2021 02:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[하위권에서 우승 크루에 등극하기까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/0f375829-71a0-4936-a24b-eba284140609.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코드 쿤스트가 생각하는 재미난 일 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
