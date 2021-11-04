@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 01:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 02:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴백, 쇼 타임]]></title>
+            <link>https://www.elle.co.kr/article/60839</link>
+            <guid>https://www.elle.co.kr/article/60839</guid>
+            <pubDate>Thu, 04 Nov 2021 02:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕 패션 위크에서 생긴 일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/30e0b447-e131-4a74-98b5-9f245706ea77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀럽들이 사랑한 로고 패션.zip]]></title>
             <link>https://www.elle.co.kr/article/60809</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 23:20:16 GMT</pubDate>
             <content:encoded><![CDATA[유애나 아니라도 보고 또 봐야하는 아이유 역대급 패션필름]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/ee498c85-ddcf-405f-8946-afdb12d967f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼밴드2> 걸 크러쉬 언니들의 스타일]]></title>
-            <link>https://www.elle.co.kr/article/59497</link>
-            <guid>https://www.elle.co.kr/article/59497</guid>
-            <pubDate>Thu, 28 Oct 2021 03:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;슈퍼밴드2&gt; 슈퍼 뮤지션, 모조에스핀을 입다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/8b7c06ce-bedc-44b6-9fbb-8b6c14bad285.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
