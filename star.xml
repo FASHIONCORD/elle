@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 07:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 08:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀러브리티의 잇백! 아미(AMI) #르데자뷰백]]></title>
+            <link>https://www.elle.co.kr/article/60866</link>
+            <guid>https://www.elle.co.kr/article/60866</guid>
+            <pubDate>Thu, 04 Nov 2021 08:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳 예리부터 지지 하디드까지. 클래식한 무드로 어디에나 활용 가능한 아미(AMI)의 ‘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/45bab6a9-343d-4c33-8899-f1fa621296a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[100일 동안 10kg 빼기! 살 빠질 수 밖에 없는 김원희의 '다이어트 오징어게임'은?]]></title>
             <link>https://www.elle.co.kr/article/60853</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 02:35:55 GMT</pubDate>
             <content:encoded><![CDATA[제니부터 선미, 노제까지. 로고가 패션이 되는 로고 플레이 룩 모음]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/9aa4b23f-98dd-4655-878c-12c3766d3a01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지갑이 열리네요. 나스&이도현이 들어오죠.]]></title>
-            <link>https://www.elle.co.kr/article/60807</link>
-            <guid>https://www.elle.co.kr/article/60807</guid>
-            <pubDate>Mon, 01 Nov 2021 16:28:55 GMT</pubDate>
-            <content:encoded><![CDATA[나스 홀리데이 2021 컬렉션 &lt;스타일 언랩트&gt;와 함께한 배우 이도현! 그의 대.존.잘. 모...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/728a056f-cd25-4b78-a707-5d7bd21cb861.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
