@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 22:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 23:29:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돈 주고 사고 싶은 취향! 감성 복층 인테리어]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32690611&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32690611&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Thu, 04 Nov 2021 23:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDVfMjAx/MDAxNjM2MDQyNDgzNzI3.MQ1KOGY3V0IVWT1evcGHfOWJhsUkEgShYLynq6s5684g.v9udAHBC9m6srOZ9H4tFtAbvsD4r9XAiTafZ4uCXZlog.PNG/ISQrVFeNwVj9sHxDyHKtiQMt74DI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[걸음마다 힐링! 한 번 가면 잊을 수 없는 옥천 명소 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32683093&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 23:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfMjM0/MDAxNjMzNjI0NzYyMzQ5.FmiYljbDXpTt7MiTlxRVWg_gE4Kq9HJR0pzPsS07_Q4g.uzy6Vx6OouTb0sjr6lO8RL8OgsDdBPA6oHIgOWZbzusg.PNG/IZlfFQbzXD_TMMqPqXz16wQM3Z20.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘힙’한 입맛까지 만족! 래퍼들의 맛집 탐방 4]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32504792&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32504792&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 15:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfNDAg/MDAxNjMzNTUxMDcxMDYy.x49IqQXs4GvvcXILdfOtwXaOKQtjRUlOfVryRmN0tmwg.IpTerLhu93VpcwLz8ihgc7fHMVpy1ixzR_gEjen5-ekg.PNG/IPo9pdOErLOiKbKWhLziXg5-zhOs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
