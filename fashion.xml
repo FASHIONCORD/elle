@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 14:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 15:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 스카프 이렇게 활용해보세요]]></title>
+            <link>https://www.elle.co.kr/article/60904</link>
+            <guid>https://www.elle.co.kr/article/60904</guid>
+            <pubDate>Thu, 04 Nov 2021 15:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[올가을 스카프 하나만 추가해도 여러분의 OOTD가 달라집니다. 스타들의 데일리 룩에서 찾은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/4a55168c-2d83-48b1-937d-eb89f213336c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매일매일 들고 싶은 뉴 #데일리백]]></title>
             <link>https://www.elle.co.kr/article/60875</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 10:21:30 GMT</pubDate>
             <content:encoded><![CDATA[톱 모델에서 대세 배우로, 성공적인 첫걸음을 내디딘 정호연. 이제는 볼 수 없는 런웨이 위 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/a9a51f3c-9395-4d89-803a-9a30fd5dd2f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부러워서 이미 졌다. 카이아 거버와의 뷰티 숏터뷰]]></title>
-            <link>https://www.elle.co.kr/article/60721</link>
-            <guid>https://www.elle.co.kr/article/60721</guid>
-            <pubDate>Mon, 01 Nov 2021 16:28:03 GMT</pubDate>
-            <content:encoded><![CDATA[그녀가 입으면, 그녀가 먹으면, 그녀가 바르면, 모든 것이 하나의 트렌드가 된다. 카이아 거...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/c29f029d-b285-4da9-80e0-6a99210d1c27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
