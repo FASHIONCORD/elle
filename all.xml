@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 04:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 05:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -978,6 +978,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/a9a51f3c-9395-4d89-803a-9a30fd5dd2f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드디어 '위드 코로나' 시대! 단계적 일상회복 첫 단계, 해외여행은 언제부터? (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/60861</link>
+            <guid>https://www.elle.co.kr/article/60861</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[단계적 일상회복 3단계 #가보자고]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/cf5d22dd-be11-4b17-b6ad-335c549d60fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[100일 동안 10kg 빼기! 살 빠질 수 밖에 없는 김원희의 '다이어트 오징어게임'은? (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/60853</link>
             <guid>https://www.elle.co.kr/article/60853</guid>
@@ -1032,14 +1040,6 @@
             <pubDate>Mon, 01 Nov 2021 07:21:29 GMT</pubDate>
             <content:encoded><![CDATA[실제 피부 개선 효과 강력한 식물 스킨케어 제품들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/3dbee9b2-4e85-422e-be79-8b976cd69dfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솟아라 피부 탄력! #안티에이징 #신상 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/59585</link>
-            <guid>https://www.elle.co.kr/article/59585</guid>
-            <pubDate>Sat, 30 Oct 2021 23:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[팽팽하게 당겨진 긋, 촘촘하게 채워진 듯. 우리의 희망사항을 충족시켜 줄 안티에이징 신상. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/073930fb-06b4-43d9-bd0c-fa668dfaf0ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[셀러브리티의 잇백! 아미(AMI) #르데자뷰백 (엘르 코리아 ─ 스타)]]></title>
