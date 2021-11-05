@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 08:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 09:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제18회 쇼팽 콩쿨 유일한 한국인 결선 진출자! 'K-클래식' 인기 이을 이혁]]></title>
+            <link>https://www.elle.co.kr/article/60776</link>
+            <guid>https://www.elle.co.kr/article/60776</guid>
+            <pubDate>Fri, 05 Nov 2021 09:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[체스와 컴퓨터 프로그래밍이 취미인 2000년생.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/40f4e737-9ebb-4398-9b9d-f725cf7283e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 노래들과 함께 출발하는 김사월의 기분 좋은 주행]]></title>
             <link>https://www.elle.co.kr/article/60773</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 00:59:51 GMT</pubDate>
             <content:encoded><![CDATA[우승 크루 발표를 지켜보던 모두의 똑같은 마음...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/56206ad2-9547-4a86-8035-8370acc917d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘서트부터 예능까지, '스우파' 크루들을 볼 수 있는 향후 스케줄.zip]]></title>
-            <link>https://www.elle.co.kr/article/60672</link>
-            <guid>https://www.elle.co.kr/article/60672</guid>
-            <pubDate>Thu, 28 Oct 2021 08:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[끝났지만 끝난 게 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/693635e8-2710-4df9-af19-ff505ef58dd2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
