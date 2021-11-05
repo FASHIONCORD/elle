@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 07:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 08:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도베르만은 원래 이렇게 생겼다! 미용 수술 안 한 BTS 정국의 반려견]]></title>
+            <link>https://www.elle.co.kr/article/60731</link>
+            <guid>https://www.elle.co.kr/article/60731</guid>
+            <pubDate>Fri, 05 Nov 2021 08:31:31 GMT</pubDate>
+            <content:encoded><![CDATA[귀와 꼬리 모두 자연 그대로의 모습.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ef59fc39-aa9f-4ef8-93fc-4abb3913fd8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 사랑한 스파이, 한소희_요주의 여성 #35]]></title>
             <link>https://www.elle.co.kr/article/59624</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 05:22:35 GMT</pubDate>
             <content:encoded><![CDATA[자본주의 게임에서 살아남는 법칙에 대해 공부할 때다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/882a4ef9-6e70-4cff-bc32-8c7b27c548a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임현주 아나운서가 한강 러닝을 다시 시작한 멋진 이유 #엘르보이스]]></title>
-            <link>https://www.elle.co.kr/article/59285</link>
-            <guid>https://www.elle.co.kr/article/59285</guid>
-            <pubDate>Thu, 21 Oct 2021 15:47:16 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 한강 풍경이 파리 센느강 풍경과 비슷하다는 거 진짜? 운동이 일상이 된 요즘 삶]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/58980da5-f0a4-4556-9566-a4fa405ebf2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
