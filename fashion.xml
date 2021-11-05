@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 05:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 06:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리 패션 위크에서 생긴 일! #22SS #패션쇼]]></title>
+            <link>https://www.elle.co.kr/article/60914</link>
+            <guid>https://www.elle.co.kr/article/60914</guid>
+            <pubDate>Fri, 05 Nov 2021 06:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[명불허전 패션쇼의 메카, 파리 프레타포르테 소식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/13bba412-39e0-434a-814b-11b1c471fc4d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 스카프 이렇게 활용해보세요]]></title>
             <link>https://www.elle.co.kr/article/60904</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 20:20:11 GMT</pubDate>
             <content:encoded><![CDATA[가을의 한가운데! 내일 어떤 옷을 입어야 좋을지 고민이라면? 감각적인 사복 패션을 선보이는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/bfe33b50-3fd1-44f3-98ec-ea8bf4a34070.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오징어게임 속 새벽! 정호연의 화려한 과거]]></title>
-            <link>https://www.elle.co.kr/article/60720</link>
-            <guid>https://www.elle.co.kr/article/60720</guid>
-            <pubDate>Tue, 02 Nov 2021 10:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[톱 모델에서 대세 배우로, 성공적인 첫걸음을 내디딘 정호연. 이제는 볼 수 없는 런웨이 위 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/a9a51f3c-9395-4d89-803a-9a30fd5dd2f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

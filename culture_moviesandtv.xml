@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 05:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 06:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국판 ‘킬링 이브’? 드라마 ‘구경이’의 평행이론 #이영애 #산드라오]]></title>
+            <link>https://www.elle.co.kr/article/60959</link>
+            <guid>https://www.elle.co.kr/article/60959</guid>
+            <pubDate>Fri, 05 Nov 2021 06:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[놀랍도록 닮은 두 작품의 각양각색 매력 탐구.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/8c76400e-7afa-4a61-9cb8-6a7746882231.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[30대에도 위화감 없는 교복! 한효주 5년 만의 드라마 복귀작 '해피니스' 내용은?]]></title>
             <link>https://www.elle.co.kr/article/60936</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 22 Oct 2021 13:26:38 GMT</pubDate>
             <content:encoded><![CDATA[전국 방방곡곡 아름다운 자연을 찾아 떠나는 ‘바달집’ 시즌 3의 막내 공명의 활약, 기대해도...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/074d9a9d-f8a5-4ac7-95b8-e4c444237100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오겜', 'D.P.', '마이네임' 다음은? 아직 남은 2021 넷플릭스 한국 오리지널 3]]></title>
-            <link>https://www.elle.co.kr/article/59567</link>
-            <guid>https://www.elle.co.kr/article/59567</guid>
-            <pubDate>Fri, 22 Oct 2021 06:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[정체기 극복한 넷플릭스의 한국 사랑.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/44d197ab-0a94-4911-8b7a-6af7695f869b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
