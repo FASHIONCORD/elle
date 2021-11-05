@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 13:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 14:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[향수를 넘어 메이크업 룩으로 탄생한 넘버5]]></title>
+            <link>https://www.elle.co.kr/article/60884</link>
+            <guid>https://www.elle.co.kr/article/60884</guid>
+            <pubDate>Fri, 05 Nov 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[향수계의 전설! 샤넬 넘버5 론칭 100주년에 헌정하는 샤넬의 금빛 찬란한 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/5261907b-0e9a-4165-98c3-e734542a3fef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 '위드 코로나' 시대! 단계적 일상회복 첫 단계, 해외여행은 언제부터?]]></title>
             <link>https://www.elle.co.kr/article/60861</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 05:19:27 GMT</pubDate>
             <content:encoded><![CDATA[치팅 식단까지 '먹잘알'.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/b8468a54-bdcc-425a-a059-b9e5b2d59063.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘열일’하는 식물 성분 화장품 7_선배's 어드바이스 #88]]></title>
-            <link>https://www.elle.co.kr/article/59617</link>
-            <guid>https://www.elle.co.kr/article/59617</guid>
-            <pubDate>Mon, 01 Nov 2021 07:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[실제 피부 개선 효과 강력한 식물 스킨케어 제품들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/3dbee9b2-4e85-422e-be79-8b976cd69dfd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
