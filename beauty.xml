@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 23:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 01:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['사내맞선' 촬영 전 다이어트 성공한 김세정의 추천 식단과 지켜야 할 것들]]></title>
+            <link>https://www.elle.co.kr/article/60896</link>
+            <guid>https://www.elle.co.kr/article/60896</guid>
+            <pubDate>Sat, 06 Nov 2021 00:58:49 GMT</pubDate>
+            <content:encoded><![CDATA["통통한 모습으론 주인공을 할 수 없다는 판단에..."]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/e002d453-e297-4d80-92d5-0adefeca4639.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[향수를 넘어 메이크업 룩으로 탄생한 넘버5]]></title>
             <link>https://www.elle.co.kr/article/60884</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 07:19:43 GMT</pubDate>
             <content:encoded><![CDATA[8개 브랜드의 홀리데이 컬렉션을 모두 정리!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/26014f2c-0b85-40fa-bc3a-72e560e27107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설현이 화이자 2차 후기와 함께 전한 화보 촬영 전 다이어트 식단]]></title>
-            <link>https://www.elle.co.kr/article/59633</link>
-            <guid>https://www.elle.co.kr/article/59633</guid>
-            <pubDate>Tue, 02 Nov 2021 05:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[치팅 식단까지 '먹잘알'.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/b8468a54-bdcc-425a-a059-b9e5b2d59063.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
