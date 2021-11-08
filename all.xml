@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 22:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 23:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[등산 핫플 No.1! 이시영이 추천하는 용궐산 코스 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32713457&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32713457&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 08 Nov 2021 23:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfMTYw/MDAxNjM2NDA5NjIyMjgx.4j9DhKJoef45lt93NL-t-hv_Lf5CuC-26Tz7iaU0MWsg.UNdv9-GP_K711AqV_y2PAz2Extv2KSpN9Il4fDGIWLgg.PNG/IkhWmtzF9ffO_c3cT5dW9U5S5oAk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버지도 저장각! 새로운 감성여행지 고성 카페 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32708563&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Oct 2021 23:18:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMTAg/MDAxNjMzOTY1ODUwOTU1.74M-fnRAAf3IXPidafobmEdA4LyAKhYceYreK1K_ACcg.Ql1DO0tb9yMnwvQNA9Eq2EVu3HiRyUqPj8Ybik1aU8Qg.PNG/IId_P76HtFMPJpYnckDz7Z0M3puM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-크림빵의 위엄! 어마무시한 필링의 크림 디저트.zip (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32526503&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32526503&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sun, 10 Oct 2021 23:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTFfMjU5/MDAxNjMzODg2NTM3MDUx.3n8uyO8SUdkbzyBCe8-AuJbs3ygNUYDdtgMVMhP80I0g.JnTzy2jtq1PBRkr46UuG7c-i7EKBNIJxGiCg_slBPjYg.PNG/IP8GnTj3wx492PdBJ8Oux57QrSKM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아찔한 순백의 패딩을 입어보자 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
@@ -1482,6 +1482,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/5de38c11-6431-4c84-95dd-b3d5fdbe52f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크 로제부터 레드벨벳 슬기까지! 스타가 픽한 인테리어 잇템 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/60848</link>
+            <guid>https://www.elle.co.kr/article/60848</guid>
+            <pubDate>Mon, 08 Nov 2021 23:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[감각 좋기로 소문난 스타들의 SNS에서 포착했어요. 근사하고 뚜렷한 존재감을 가진 인테리어 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/692da72d-f223-4fa8-8ffb-8670d4d78436.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[바쁜 현대인들에게 여유를 선사할 역 근처 브런치 #신상맛집 3 (feat. 강남,신대방,서울역) (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/60845</link>
             <guid>https://www.elle.co.kr/article/60845</guid>
@@ -1536,14 +1544,6 @@
             <pubDate>Sat, 30 Oct 2021 23:26:32 GMT</pubDate>
             <content:encoded><![CDATA[셀러브리티가 다녀간 성수동 핫 플레이스! 그들은 성수동에서 어떤 시간을 보냈을까요? 프롤라/...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/edcce188-22db-4824-8a77-4a39f7094bb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거위가 뛰어 노는 찐시골 카페에서 가을 하늘 감상하기! 옥천 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/59587</link>
-            <guid>https://www.elle.co.kr/article/59587</guid>
-            <pubDate>Sat, 30 Oct 2021 02:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[더 추워지기 전에 들러 볼 옥천 카페들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/316a24e0-918e-4dba-89ce-66293cda7009.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도베르만은 원래 이렇게 생겼다! 미용 수술 안 한 BTS 정국의 반려견 (엘르 코리아 ─ 소사이어티)]]></title>

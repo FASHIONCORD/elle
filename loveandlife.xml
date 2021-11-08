@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 22:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 23:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 로제부터 레드벨벳 슬기까지! 스타가 픽한 인테리어 잇템]]></title>
+            <link>https://www.elle.co.kr/article/60848</link>
+            <guid>https://www.elle.co.kr/article/60848</guid>
+            <pubDate>Mon, 08 Nov 2021 23:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[감각 좋기로 소문난 스타들의 SNS에서 포착했어요. 근사하고 뚜렷한 존재감을 가진 인테리어 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/692da72d-f223-4fa8-8ffb-8670d4d78436.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바쁜 현대인들에게 여유를 선사할 역 근처 브런치 #신상맛집 3 (feat. 강남,신대방,서울역)]]></title>
             <link>https://www.elle.co.kr/article/60845</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 30 Oct 2021 23:26:32 GMT</pubDate>
             <content:encoded><![CDATA[셀러브리티가 다녀간 성수동 핫 플레이스! 그들은 성수동에서 어떤 시간을 보냈을까요? 프롤라/...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/edcce188-22db-4824-8a77-4a39f7094bb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거위가 뛰어 노는 찐시골 카페에서 가을 하늘 감상하기! 옥천 카페 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/59587</link>
-            <guid>https://www.elle.co.kr/article/59587</guid>
-            <pubDate>Sat, 30 Oct 2021 02:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[더 추워지기 전에 들러 볼 옥천 카페들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/316a24e0-918e-4dba-89ce-66293cda7009.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
