@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 21:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 22:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과감할수록 멋있는 시스루 패션 6.]]></title>
+            <link>https://www.elle.co.kr/article/60983</link>
+            <guid>https://www.elle.co.kr/article/60983</guid>
+            <pubDate>Mon, 08 Nov 2021 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[제니, 두아 리파, 벨라 하디드 등 MZ 세대의 패션 아이콘들이 사랑하는 바로 그것! 시스루...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/f769eaf6-e697-4c8c-adbd-cf044b641dd1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주얼리 스타일링 끝판왕, 샤넬 화인 주얼리]]></title>
             <link>https://www.elle.co.kr/article/60895</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 15:21:07 GMT</pubDate>
             <content:encoded><![CDATA[올가을 스카프 하나만 추가해도 여러분의 OOTD가 달라집니다. 스타들의 데일리 룩에서 찾은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/4a55168c-2d83-48b1-937d-eb89f213336c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일매일 들고 싶은 뉴 #데일리백]]></title>
-            <link>https://www.elle.co.kr/article/60875</link>
-            <guid>https://www.elle.co.kr/article/60875</guid>
-            <pubDate>Thu, 04 Nov 2021 08:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[매일을 함께하는 여자의 새로운 '단짝친구'가 등장했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/a6ad287b-b312-4b3b-a8cf-590a28c7f25d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
