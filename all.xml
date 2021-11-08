@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 08:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 09:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -978,6 +978,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/45bab6a9-343d-4c33-8899-f1fa621296a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자기 혈관 숫자, 알고 있니?_몸에 좋은 잔소리 #31 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/60982</link>
+            <guid>https://www.elle.co.kr/article/60982</guid>
+            <pubDate>Mon, 08 Nov 2021 09:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[뇌혈관 질환이 급증하는 11월, 혈관 건강 체크하기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/21da5105-19b8-46ce-8d21-7bb8a39fae0d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[건강한 두피를 위한 루틴 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/60917</link>
             <guid>https://www.elle.co.kr/article/60917</guid>
@@ -1032,14 +1040,6 @@
             <pubDate>Thu, 04 Nov 2021 05:18:42 GMT</pubDate>
             <content:encoded><![CDATA[식단 관리, 운동 관리 아닌 정신 관리!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/b22e84a2-1e90-40f3-b667-6b587be96796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초겨울 피부 건조증을 막는 6가지 습관_선배's 어드바이스 #89 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/60835</link>
-            <guid>https://www.elle.co.kr/article/60835</guid>
-            <pubDate>Wed, 03 Nov 2021 08:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[바싹바싹, 쩍쩍… 계속 건조해지는 피부가 스킨케어 습관 탓?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/01/f06c33ee-370b-4ae1-8d56-c833ad79ea6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이시영도 갔다! 지금 가장 핫한 #용궐산 (엘르 코리아 ─ 스타)]]></title>
