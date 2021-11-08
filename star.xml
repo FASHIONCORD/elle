@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 09:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 10:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송혜교와 함께 로마로 가는 길]]></title>
+            <link>https://www.elle.co.kr/article/61000</link>
+            <guid>https://www.elle.co.kr/article/61000</guid>
+            <pubDate>Mon, 08 Nov 2021 10:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[한국 최초로 펜디 앰버서더가 된 배우 송혜교, 펜디의 아이코닉 백 '피카부 아이씨유'가 함께...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/98db4512-03fc-4c0b-854c-3481c6c6bb37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이시영도 갔다! 지금 가장 핫한 #용궐산]]></title>
             <link>https://www.elle.co.kr/article/60992</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 11:17:45 GMT</pubDate>
             <content:encoded><![CDATA[천천히, 건강히 빼고 싶은 사람들에게도 추천하는 건강식.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/09777e1a-a297-4e7e-954f-cd6c0cc51a05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사내맞선' 촬영 전 다이어트 성공한 김세정의 추천 식단과 지켜야 할 것들]]></title>
-            <link>https://www.elle.co.kr/article/60896</link>
-            <guid>https://www.elle.co.kr/article/60896</guid>
-            <pubDate>Fri, 05 Nov 2021 11:17:45 GMT</pubDate>
-            <content:encoded><![CDATA["통통한 모습으론 주인공을 할 수 없다는 판단에..."]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/e002d453-e297-4d80-92d5-0adefeca4639.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
