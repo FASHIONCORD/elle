@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 22:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 23:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울에서 떠나는 해외여행! 낯선 감각 가득한 핫플레이스 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32721338&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32721338&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Nov 2021 23:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfMjkg/MDAxNjM2NDc5NTMyNTE2.0yGHVA7uxaAwygtdmjMhU8BwvGKINDZ9K1cucGh_qzEg.5_2PD5MSOzpRhDJBMwAuUTqsf4KaB_cOMvKYnXlbH9og.PNG/I4QSAofEozFRctL1AZXLSuzG1ZNI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜨아 + 디저트 조합이면 겨울준비 끝! 신상 디저트 카페 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32714003&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 13 Oct 2021 01:02:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfNDcg/MDAxNjM0MDg1NDM2MzU1.BQxjnn7_57Tzvn9B5EWskIT0pZ6NoaA39YO0UNYA6kkg.xLd6-Mb9OJZxKqTSfSsN6mDX3DChnqTgmNAPqBIlouUg.JPEG/Ij3k2NSPGmFPPNqf7Pr3jZEYTeSQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명동, 연남동, 서울숲에서 즐기는 브런치와 디저트 신상카페 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32532684&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32532684&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 12 Oct 2021 03:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMzgg/MDAxNjM0MDA1OTcxNDE0.OYAHeBfgQMP3kYn11igybgMW4pAYJTOA_7SY9kklcu4g.IAGCEvVFtqOBGQjHipro-VxKKzzBEputq9fmQCwQjqwg.JPEG/I46hZikYb9lgJgQiZ2E7M6lAd_Y8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보테가베네타의 그린백 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
@@ -978,6 +978,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/4a55168c-2d83-48b1-937d-eb89f213336c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쉐킷쉐킷 섞어 사용하는 믹스 화장품 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/60998</link>
+            <guid>https://www.elle.co.kr/article/60998</guid>
+            <pubDate>Tue, 09 Nov 2021 23:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[실보다는 득이 되는 경험을 선사해 줄 뷰티 엑스퍼트들의 신선한 화장품 믹스 레시피]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/2870dbce-544e-4d02-b532-fb3786bd8dbe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이시영도 갔다! 지금 가장 핫한 #용궐산 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/60992</link>
             <guid>https://www.elle.co.kr/article/60992</guid>
@@ -1032,14 +1040,6 @@
             <pubDate>Fri, 05 Nov 2021 14:19:57 GMT</pubDate>
             <content:encoded><![CDATA[향수계의 전설! 샤넬 넘버5 론칭 100주년에 헌정하는 샤넬의 금빛 찬란한 순간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/5261907b-0e9a-4165-98c3-e734542a3fef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 '위드 코로나' 시대! 단계적 일상회복 첫 단계, 해외여행은 언제부터? (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/60861</link>
-            <guid>https://www.elle.co.kr/article/60861</guid>
-            <pubDate>Fri, 05 Nov 2021 05:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[단계적 일상회복 3단계 #가보자고]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/cf5d22dd-be11-4b17-b6ad-335c549d60fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이시언, 4년 열애 끝에 드디어 결혼! 예비신부 서지승은 누구? (엘르 코리아 ─ 스타)]]></title>
@@ -1482,6 +1482,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/5de38c11-6431-4c84-95dd-b3d5fdbe52f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뷰 맛집 총집합! 시골인데 시골 같지 않은 고성 감성 숙소 셋 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/60883</link>
+            <guid>https://www.elle.co.kr/article/60883</guid>
+            <pubDate>Tue, 09 Nov 2021 23:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[위드 코로나 시대, 당장 달려가야 할 국내 여행지 고성.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/49d6de4b-29c5-4962-8a46-14cdd2efaef3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙핑크 로제부터 레드벨벳 슬기까지! 스타가 픽한 인테리어 잇템 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/60848</link>
             <guid>https://www.elle.co.kr/article/60848</guid>
@@ -1536,14 +1544,6 @@
             <pubDate>Mon, 01 Nov 2021 23:28:11 GMT</pubDate>
             <content:encoded><![CDATA[성수에 새로 생긴 평범하지 않은 식당들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/180ac850-477e-4cb2-a6ef-911ef66743c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타의 SNS에서 발견한 성수동 ‘핫플’ 찾기 3. (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/59588</link>
-            <guid>https://www.elle.co.kr/article/59588</guid>
-            <pubDate>Sat, 30 Oct 2021 23:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[셀러브리티가 다녀간 성수동 핫 플레이스! 그들은 성수동에서 어떤 시간을 보냈을까요? 프롤라/...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/edcce188-22db-4824-8a77-4a39f7094bb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지구에게 덜 미안하게 사는 방법 #LoveTheEarth (엘르 코리아 ─ 소사이어티)]]></title>

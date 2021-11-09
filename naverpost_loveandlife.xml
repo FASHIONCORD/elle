@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 22:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 23:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울에서 떠나는 해외여행! 낯선 감각 가득한 핫플레이스 3]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32721338&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32721338&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Nov 2021 23:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfMjkg/MDAxNjM2NDc5NTMyNTE2.0yGHVA7uxaAwygtdmjMhU8BwvGKINDZ9K1cucGh_qzEg.5_2PD5MSOzpRhDJBMwAuUTqsf4KaB_cOMvKYnXlbH9og.PNG/I4QSAofEozFRctL1AZXLSuzG1ZNI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜨아 + 디저트 조합이면 겨울준비 끝! 신상 디저트 카페 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32714003&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 13 Oct 2021 01:02:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfNDcg/MDAxNjM0MDg1NDM2MzU1.BQxjnn7_57Tzvn9B5EWskIT0pZ6NoaA39YO0UNYA6kkg.xLd6-Mb9OJZxKqTSfSsN6mDX3DChnqTgmNAPqBIlouUg.JPEG/Ij3k2NSPGmFPPNqf7Pr3jZEYTeSQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명동, 연남동, 서울숲에서 즐기는 브런치와 디저트 신상카페 3]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32532684&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32532684&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 12 Oct 2021 03:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMzgg/MDAxNjM0MDA1OTcxNDE0.OYAHeBfgQMP3kYn11igybgMW4pAYJTOA_7SY9kklcu4g.IAGCEvVFtqOBGQjHipro-VxKKzzBEputq9fmQCwQjqwg.JPEG/I46hZikYb9lgJgQiZ2E7M6lAd_Y8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
