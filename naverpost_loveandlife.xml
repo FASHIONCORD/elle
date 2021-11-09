@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 23:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 01:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뜨아 + 디저트 조합이면 겨울준비 끝! 신상 디저트 카페 3]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32714003&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32714003&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Nov 2021 01:00:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfMjI2/MDAxNjM2NDE3OTI3MTY4.rsWDklu23wvlYxTfriG__jaLY1RPC3QcrA3YpRQEuXAg.b9YJhDVVdcnfde7T-eFBCQ4f_KAic969p1QL4JlNXYIg.JPEG/IX6fDud5mxH9I473mu7NaRLYQD4s.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[등산 핫플 No.1! 이시영이 추천하는 용궐산 코스]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32713457&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Oct 2021 03:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMzgg/MDAxNjM0MDA1OTcxNDE0.OYAHeBfgQMP3kYn11igybgMW4pAYJTOA_7SY9kklcu4g.IAGCEvVFtqOBGQjHipro-VxKKzzBEputq9fmQCwQjqwg.JPEG/I46hZikYb9lgJgQiZ2E7M6lAd_Y8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<백스피릿> 백종원 단골 술집 리스트!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32530644&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32530644&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 11 Oct 2021 23:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMTAg/MDAxNjMzOTY1ODUwOTU1.74M-fnRAAf3IXPidafobmEdA4LyAKhYceYreK1K_ACcg.Ql1DO0tb9yMnwvQNA9Eq2EVu3HiRyUqPj8Ybik1aU8Qg.PNG/IId_P76HtFMPJpYnckDz7Z0M3puM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
