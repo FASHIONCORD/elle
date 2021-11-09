@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 21:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 22:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이시언, 4년 열애 끝에 드디어 결혼! 예비신부 서지승은 누구?]]></title>
+            <link>https://www.elle.co.kr/article/61020</link>
+            <guid>https://www.elle.co.kr/article/61020</guid>
+            <pubDate>Tue, 09 Nov 2021 22:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[로맨틱한 성탄절 웨딩!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/6b5928b1-62dc-427f-a66c-84ae1b0cdff7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['유미의 세포들' 김고은 VS 박지현 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/61017</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 Nov 2021 01:02:46 GMT</pubDate>
             <content:encoded><![CDATA[열애 사실을 쉬쉬하지 않는 게 추세.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/9bcfc920-65fe-4ec5-b3c1-99f789a644f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[30대에도 위화감 없는 교복! 한효주 5년 만의 드라마 복귀작 '해피니스' 내용은?]]></title>
-            <link>https://www.elle.co.kr/article/60936</link>
-            <guid>https://www.elle.co.kr/article/60936</guid>
-            <pubDate>Sun, 07 Nov 2021 01:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[상큼해 보이는 제목과 그렇지 못한 내용...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/2dc2f3f6-cca9-4aab-8c2f-1d044df0fce5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
