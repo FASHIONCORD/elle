@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 17:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 18:30:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1106,6 +1106,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/2dc2f3f6-cca9-4aab-8c2f-1d044df0fce5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코드 쿤스트가 생각하는 재미난 일 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/60833</link>
+            <guid>https://www.elle.co.kr/article/60833</guid>
+            <pubDate>Mon, 01 Nov 2021 05:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;쇼미더머니 10&gt;의 프로듀서로, AOMG의 아티스트로, 네 개의 정규 앨범을 낸 뮤지션으로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/75ccd2d5-b32b-46f8-bdf7-6397e11067ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제18회 쇼팽 콩쿨 유일한 한국인 결선 진출자! 'K-클래식' 인기 이을 이혁 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/60776</link>
             <guid>https://www.elle.co.kr/article/60776</guid>
@@ -1160,14 +1168,6 @@
             <pubDate>Wed, 27 Oct 2021 15:24:19 GMT</pubDate>
             <content:encoded><![CDATA[&lt;킬링 이브&gt;의 히로인 조디 코머, 14세기 프랑스 실화를 바탕으로 한 &lt;라스트 듀얼: 최후...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b6b9d07d-efa0-45ad-be41-fdae6a28f299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["60초 후에" 멘트에 눈으로 욕한 천우희X선미? '스우파' 막방 제대로 몰입한 스타들 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/60688</link>
-            <guid>https://www.elle.co.kr/article/60688</guid>
-            <pubDate>Wed, 27 Oct 2021 07:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[우승 크루 발표를 지켜보던 모두의 똑같은 마음...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/56206ad2-9547-4a86-8035-8370acc917d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코드 쿤스트가 생각하는 재미난 일 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
