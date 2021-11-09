@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 06:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,30 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMzgg/MDAxNjM0MDA1OTcxNDE0.OYAHeBfgQMP3kYn11igybgMW4pAYJTOA_7SY9kklcu4g.IAGCEvVFtqOBGQjHipro-VxKKzzBEputq9fmQCwQjqwg.JPEG/I46hZikYb9lgJgQiZ2E7M6lAd_Y8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보테가베네타의 그린백 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32709495&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32709495&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Nov 2021 06:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDhfMzgg/MDAxNjM2MzU0NTU1NzUz.teZxggQz6y7ooytDwrkMLHNdjRTcCP7Da8fwmSBZ3-Mg.P7j1wbC5YBZoZ6ecZUUBb8JKGGXp-_njzN6b_YprRMwg.JPEG/IugFIPeOoVpPt9khDfFmnidujudA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 필수템, 하프 패딩 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32709473&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32709473&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Nov 2021 06:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDhfMTc2/MDAxNjM2MzU0NDg4Njg0.Ovk_O4hT5WnZZQopzKbsnz6X-A19he8eLgi9-h2B1e0g.DyufUKsJ4w_0EFk9TCbvo1byMhCU2me3qEJ625m3fWEg.JPEG/IngEdXhlJtbjdlR_j6mRYBE91zqc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팔색조 이올로 베스트 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32709444&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32709444&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Nov 2021 06:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDhfMzAg/MDAxNjM2MzU0NDQxMDg2.WXcxIqatj7540h3ec-pbByz8q7SMVepmrASye0Uv7K8g.pJ8KyGrbFbU2A2_bTm9x8xnqLlo_1waRNTG7JhhMjv8g.JPEG/IdSP44cBJFhPPWRH6_QJEIz-VkPU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아찔한 순백의 패딩을 입어보자 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32709069&amp;memberNo=12504201&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32709069&amp;memberNo=12504201&amp;navigationType=push</guid>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 27 Oct 2021 06:22:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMjk0/MDAxNjM1Mjc0MTA4NDM5.1yRjWOsczCTLCeh3UWSau8dZ9QJhwxpj2nPk0G2kNfEg.qia7KEQPIQVNCwUd0_fT05KLa-rtE_RfzrEeVJpneVEg.JPEG/IUzncNYQo6LoduKHlaELZBbZaQyI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[툭 걸치는 무심한 매력 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32631062&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32631062&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Wed, 27 Oct 2021 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMjYz/MDAxNjM1MjczOTM4MjU0.p5X_H_HNr8oTnOksAp3bVuY9BNIoRoRedumjQWcmFjkg.z2XAsGHrfdd7dqp4kdsl6chE0B5fQRdCbYtSQG9EQ-og.JPEG/IjfbKg4FvBgSEfHbPOlvXS8LUB5s.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을과 닮은 브라운 컬러의 코듀로이 코트 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32628581&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32628581&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 26 Oct 2021 09:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjZfMTIz/MDAxNjM1MjM3Nzc3NTM4.Cock_RxXmalqML9y9icq3ZD2kH4wSYgcgJ-pA1avALYg.k-NLJbvdFHCIFhuBPvyHcJ6q_RKKPlqeW8UheApQxrAg.JPEG/ISGs3PgGpQtvP5AeTC2BR9SfT1Vs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푹 눌러써야 더 이쁜 블랙 버킷햇 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32628546&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32628546&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 26 Oct 2021 09:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjZfMTkz/MDAxNjM1MjM3MzU2NzM2.pGXXRYbDqHap2jp9FHVPu_CUyD3w-sAOSV-ruA9UG9Yg.1ZbVSoqYg1nhWLVjuqVbJqtpqP-AtgggUs4uECl7x7wg.JPEG/IgMBoOmpfgMbs6lGNYfZ2bmkyshQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[광고] 서강준의 특별한 뷰티 리추얼, THREE (네이버 포스트 ─ 엘르 코리아 ─ BEAUTY)]]></title>
