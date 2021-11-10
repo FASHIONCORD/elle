@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 07:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 08:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[책과 커피 냄새 가득! 북카페 BEST 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32726197&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32726197&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 10 Nov 2021 08:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfMTM3/MDAxNjM2NTMwMTUxNjIx.hVcq3R55NscijgqFQv4jw4qGUxbfNFrjWC-A3FwGQ60g.dvVJrNEbmi9W_ygT4A4cGVkTfBCaXCLSuK4uP2_1g9sg.JPEG/IR3iKhob3BhRO01HDk-3BjM-FxdE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에서 떠나는 해외여행! 낯선 감각 가득한 핫플레이스 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32721338&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 18 Oct 2021 23:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTlfMjY3/MDAxNjM0NTcwNDczODU2.S0QsEteJk3Ki_RxONNisg0TNnlW8_J3oPJRpFbyqVrMg.sI8F1vJ3eRF8ZrXuRUwSiLpNQJFwSWspYTaW8xkGFb0g.PNG/IWZT5H1BHarzwDMZTnGBepSbgZsg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감성 홈카페족들을 위한 장바구니 아이템 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32539311&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32539311&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Wed, 13 Oct 2021 01:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfNDcg/MDAxNjM0MDg1NDM2MzU1.BQxjnn7_57Tzvn9B5EWskIT0pZ6NoaA39YO0UNYA6kkg.xLd6-Mb9OJZxKqTSfSsN6mDX3DChnqTgmNAPqBIlouUg.JPEG/Ij3k2NSPGmFPPNqf7Pr3jZEYTeSQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러블리한 감성이 돋보이는 니트 트리밍 부클 가디건 (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
@@ -983,7 +983,7 @@
             <guid>https://www.elle.co.kr/article/60998</guid>
             <pubDate>Tue, 09 Nov 2021 23:20:49 GMT</pubDate>
             <content:encoded><![CDATA[실보다는 득이 되는 경험을 선사해 줄 뷰티 엑스퍼트들의 신선한 화장품 믹스 레시피]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/2870dbce-544e-4d02-b532-fb3786bd8dbe.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/2870dbce-544e-4d02-b532-fb3786bd8dbe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이시영도 갔다! 지금 가장 핫한 #용궐산 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1039,7 +1039,7 @@
             <guid>https://www.elle.co.kr/article/60884</guid>
             <pubDate>Fri, 05 Nov 2021 14:19:57 GMT</pubDate>
             <content:encoded><![CDATA[향수계의 전설! 샤넬 넘버5 론칭 100주년에 헌정하는 샤넬의 금빛 찬란한 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/5261907b-0e9a-4165-98c3-e734542a3fef.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/5261907b-0e9a-4165-98c3-e734542a3fef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이시언, 4년 열애 끝에 드디어 결혼! 예비신부 서지승은 누구? (엘르 코리아 ─ 스타)]]></title>
