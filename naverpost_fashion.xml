@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 22:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 23:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작아서 더 시선 강탈! 셀럽 미니백 코디 5]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32736173&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32736173&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Thu, 11 Nov 2021 23:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMTQ1/MDAxNjM2NjM4MDM4MTA1.R9EMLR7Eb9V7gW_nmvZ-0BRFw6eHod5R9tZmMBW24Ugg.HdZS01ECdXp7jayHguKQuLITUTnKMwieqcIVriN0u8gg.PNG/IdJoKBvLAb_8VI2J8TJ_5dzeaQps.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션세포 승자는? <유미의 세포들> 김고은 VS 박지현 드라마패션]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32722608&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,15 +166,6 @@
             <pubDate>Sat, 02 Oct 2021 09:30:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMjgg/MDAxNjMyOTA0MTU2NzI0.OSfLjKSgSocH3ZrajXMcPaxft4VqJDWojfMe4McY3swg.kGqfMBjmm9PH7LSSjqslkmhCpbXRs9hVWZ4b4ojK31Mg.JPEG/IHXve4_cLkY3ykeAG6Mgbza-v9Xc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유행 돌아왔다! 벨라 하디드가
-카고 팬츠 입는 법]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32442370&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32442370&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjdfMjcw/MDAxNjMyNzI5NjUxNDA4.3grUPn7wLmC4d4xhGN3IsINbX-lyzKwRqC-IWPJjwAEg.QBm-n4xSR0e-DfuC0omhH1Kd5EDu0HhTYHePLclYSzEg.PNG/Ie3MviQeaZNqTdHpFX6CH_23vJH4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
