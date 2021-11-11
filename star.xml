@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 06:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 07:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['똥배' 악플에 다이어트 결심한 배슬기, 40일 만에 8kg 빼 준 식단은?]]></title>
+            <link>https://www.elle.co.kr/article/61046</link>
+            <guid>https://www.elle.co.kr/article/61046</guid>
+            <pubDate>Thu, 11 Nov 2021 07:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[결혼하고 12kg이 쪘다는 배슬기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/c49025b2-ac60-43a5-a55e-c3ad3b0e91f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어머님이 누구냐고? 전소미부터 제니까지, 딸만큼 예쁜 스타의 어머니들 4]]></title>
+            <link>https://www.elle.co.kr/article/61045</link>
+            <guid>https://www.elle.co.kr/article/61045</guid>
+            <pubDate>Thu, 11 Nov 2021 07:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[물론 모든 어머니들은 아름답다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/e4389685-f5fd-4778-8f32-14d807358503.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손바닥만한 ‘미니 백’의 매력]]></title>
             <link>https://www.elle.co.kr/article/61037</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 08 Nov 2021 22:21:55 GMT</pubDate>
             <content:encoded><![CDATA[이정재도 인증한 두 사람의 친분.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/7116186c-82a5-4845-9848-08d41a95d7ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송혜교와 함께 로마로 가는 길]]></title>
-            <link>https://www.elle.co.kr/article/61000</link>
-            <guid>https://www.elle.co.kr/article/61000</guid>
-            <pubDate>Mon, 08 Nov 2021 10:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[한국 최초로 펜디 앰버서더가 된 배우 송혜교, 펜디의 아이코닉 백 '피카부 아이씨유'가 함께...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/98db4512-03fc-4c0b-854c-3481c6c6bb37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이시영도 갔다! 지금 가장 핫한 #용궐산]]></title>
-            <link>https://www.elle.co.kr/article/60992</link>
-            <guid>https://www.elle.co.kr/article/60992</guid>
-            <pubDate>Mon, 08 Nov 2021 07:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[등산의 계절, 얼마 남지 않은 가을을 만끽하고 싶다면? 이시영이 추천하는 용궐산으로 떠나보세...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/ef212941-67e6-4347-b4d7-ee2efe106833.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
