@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 11:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 12:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발 딛는 곳이 전부 포토존! 눈이 즐거운 풍경 맛집 고성 카페 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/60991</link>
+            <guid>https://www.elle.co.kr/article/60991</guid>
+            <pubDate>Fri, 12 Nov 2021 12:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[오션뷰? 그거 기본 아닌가요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/4083ec19-3882-4e30-9f25-8e83ec5d3f20.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘발리댁’ 가희의 건강한 점심 메뉴]]></title>
             <link>https://www.elle.co.kr/article/60902</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 03:27:39 GMT</pubDate>
             <content:encoded><![CDATA[초록의 싱그러움으로 가득한 이곳. '식물 초보'도 손쉽게 가드닝 문화를 즐길 수 있는 식물 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/69dc5de3-eaea-4cc2-a8e5-f0921e4d4f9a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40년 전통 물쫄면과 얼큰한 생선국수를 맛 볼 수 있는 옥천 맛집 셋 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/60665</link>
-            <guid>https://www.elle.co.kr/article/60665</guid>
-            <pubDate>Tue, 02 Nov 2021 01:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[생선국수 거리도 있는 옥천.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/7b8d538a-e428-45ff-9491-fff1f824ca8d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
