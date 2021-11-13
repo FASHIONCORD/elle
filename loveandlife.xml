@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 23:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 01:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어트 중에도 즐길 수 있는 ‘글루텐프리 베이킹’]]></title>
+            <link>https://www.elle.co.kr/article/61010</link>
+            <guid>https://www.elle.co.kr/article/61010</guid>
+            <pubDate>Sat, 13 Nov 2021 01:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[빵순이들 주목! 모델 김진경이 밀가루 없이 즐기는 시나몬롤 레서피를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/90260e1f-b1cd-4a43-9ff1-f61bd36d0713.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발 딛는 곳이 전부 포토존! 눈이 즐거운 풍경 맛집 고성 카페 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/60991</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 09:26:40 GMT</pubDate>
             <content:encoded><![CDATA[한 번 가면 잊을 수 없을 옥천의 명소들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/f5c8a4d9-f903-4251-b647-1b55d1f6bba0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도심 속 식물 정원 #엘르핫플 #신상맛집]]></title>
-            <link>https://www.elle.co.kr/article/60806</link>
-            <guid>https://www.elle.co.kr/article/60806</guid>
-            <pubDate>Wed, 03 Nov 2021 03:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[초록의 싱그러움으로 가득한 이곳. '식물 초보'도 손쉽게 가드닝 문화를 즐길 수 있는 식물 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/69dc5de3-eaea-4cc2-a8e5-f0921e4d4f9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
