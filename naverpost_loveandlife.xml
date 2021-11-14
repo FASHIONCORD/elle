@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 22:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 23:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[끝나기 전에 체크! 요즘 가장 인스타그래머블한 성수동 전시 2]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32746878&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32746878&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Sun, 14 Nov 2021 23:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTNfMTQ1/MDAxNjM2NzkwNzE2Nzgw.zPpZvfw3BxnBW3S3HmudtAkh7Q17WBub_ZmMK7tj3WUg.HYQ175zopsd2JQ-U306k_KEbGreEIMtNU9PJNaFlwWMg.PNG/IGs6KYjP5L7bEcT1wh_3JzAtOvhM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현지인 피셜 별미 총집합! 고성 로컬 맛집 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32729008&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 19 Oct 2021 23:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTlfMTgg/MDAxNjM0NjQ5NzA3ODQx.gDx66CoPPK_OBgTQ-vd8qcQdEardbBmPTPhuwnG9UfUg.dGzLemKgwAhJNjPN2bjd_Baa-8Ub9MgY2y5FHTrrzE0g.PNG/IDzwJEj-jErdn4TUu78l-jVUiwCw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연남동, 연희동 신상맛집 3 feat.청란오믈렛]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32578722&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32578722&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 19 Oct 2021 01:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTlfMTU5/MDAxNjM0NjA1MzI3NzE4.0kQvSGO9nk0OpZRHCXsKrgLbuknWjGYHAbZ98r9hypQg.g_CrTtRJsXPB8Pjgr6eRv0GrZzZOh-bhJFkqKd-caBMg.JPEG/IpwXVfHPBoPQEVVaVWgtm0paRipQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
