@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 15:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 16:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변함없는 바다를 위한 한걸음, '제주바다 플로깅' 캠페인 성료]]></title>
+            <link>https://www.elle.co.kr/article/61093</link>
+            <guid>https://www.elle.co.kr/article/61093</guid>
+            <pubDate>Mon, 15 Nov 2021 16:38:13 GMT</pubDate>
+            <content:encoded><![CDATA[제주바다 정화활동 단체 (사단법인 세이브제주바다)에 수익금 전액 기부하며 마무리]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/0054a23a-e43b-48f4-9396-edcbd406d89c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아프간 소녀도 K드라마의 주인공이 될 수 있을까? #엘르보이스]]></title>
             <link>https://www.elle.co.kr/article/61051</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 08:31:31 GMT</pubDate>
             <content:encoded><![CDATA[귀와 꼬리 모두 자연 그대로의 모습.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ef59fc39-aa9f-4ef8-93fc-4abb3913fd8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 사랑한 스파이, 한소희_요주의 여성 #35]]></title>
-            <link>https://www.elle.co.kr/article/59624</link>
-            <guid>https://www.elle.co.kr/article/59624</guid>
-            <pubDate>Thu, 04 Nov 2021 08:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[‘예쁜 배우’ 한소희의 반전 혹은 본색, &lt;마이 네임&gt;.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/5bc4bced-a00b-4a59-bcec-b0ed87069d1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
