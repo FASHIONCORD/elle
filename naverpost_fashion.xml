@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 02:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 03:29:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올 겨울 유행이라는 일명 '깔깔이'? 퀼팅 자켓 스타일링 5]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32753816&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32753816&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 15 Nov 2021 03:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTVfMjA5/MDAxNjM2OTQyNzI4MjQy.V7q2alpb0G_qAuFpiETF5Gik0AuPiCnxOEOjCwREjBcg.kiOeC_mRcXjvznKrjOS0r2GhCdpMzi6VJNmUUf0xJS0g.JPEG/IwOiHkJjuXy5udeb6l2lmRYu_iCk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작아서 더 시선 강탈! 셀럽 미니백 코디 5]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32736173&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 04 Oct 2021 23:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDRfMTAy/MDAxNjMzMzI5NDU2MjM5.oxe6o-shCNbcTyf3M1udhwCzYhMsNoe53_jZCeQFUVgg.kEJOd6ofojKRVLVwnJpgO-usDNpuMs2qp8jRPjMGHT4g.PNG/IwIPscFjG6KQSf1mQDvGcpJeDxrg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티셔츠 위 가벼운 아우터! 사복센스 스타들의 가을자켓 5]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32458293&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32458293&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMjgg/MDAxNjMyOTA0MTU2NzI0.OSfLjKSgSocH3ZrajXMcPaxft4VqJDWojfMe4McY3swg.kGqfMBjmm9PH7LSSjqslkmhCpbXRs9hVWZ4b4ojK31Mg.JPEG/IHXve4_cLkY3ykeAG6Mgbza-v9Xc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
