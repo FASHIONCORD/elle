@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 08:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 09:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사전예약과 오픈런, 웨이팅과 프리오더의 시대. 내가 느끼는 소소한 패배감을 지우는 법 #엘르보이스]]></title>
+            <link>https://www.elle.co.kr/article/61120</link>
+            <guid>https://www.elle.co.kr/article/61120</guid>
+            <pubDate>Wed, 17 Nov 2021 09:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 안타깝고 속상할 때를 위해 내 좌절감과 패배감을 아껴두기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/0a01b23f-c2a0-4943-9a1d-f8abb450d671.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파이어족이 되고 싶다고? 부업은 필수입니다_돈쓸신잡 #19]]></title>
             <link>https://www.elle.co.kr/article/61115</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Nov 2021 14:22:46 GMT</pubDate>
             <content:encoded><![CDATA[KT의 유선, 무선 네트워크가 일제히 먹통이 되는 초유의 사건이 터졌다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/630ea8b3-ee7b-4ed1-901b-9c83ff4be0f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구에게 덜 미안하게 사는 방법 #LoveTheEarth]]></title>
-            <link>https://www.elle.co.kr/article/60763</link>
-            <guid>https://www.elle.co.kr/article/60763</guid>
-            <pubDate>Tue, 09 Nov 2021 15:29:34 GMT</pubDate>
-            <content:encoded><![CDATA[생활 속 작은 실천이 더 건강한 지구를 만듭니다. 엄지원이 알려주는 저탄소 라이프 스타일에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/7854bf90-f08f-494d-bf4e-13d9c305f20b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
