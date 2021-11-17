@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 07:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 08:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1049,6 +1049,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/19de0b7e-5aea-4932-94de-442b11b0dfdf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[반가운 크리스마스 요정! <엘르> 12월호 커버 스타 김태리 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/61195</link>
+            <guid>https://www.elle.co.kr/article/61195</guid>
+            <pubDate>Wed, 17 Nov 2021 08:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;스물다섯 스물하나&gt;로 바쁜 나날을 보내는 김태리가 엘르에 안부를 전해왔다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/cb269bb7-2585-4db9-8ea8-71cae54e108d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[많이 놀랐죠? 젝스키스 장수원 결혼식에 참석한 의외의 하객들 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/61197</link>
             <guid>https://www.elle.co.kr/article/61197</guid>
@@ -1103,14 +1111,6 @@
             <pubDate>Mon, 15 Nov 2021 02:04:45 GMT</pubDate>
             <content:encoded><![CDATA[날씨가 추워지면서 SNS에서 부쩍 자주 눈에 띄는 그것! 일명 '깔깔이'라 불리는 퀼팅 재킷...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/be22cc02-4211-4edb-a475-9040ae5c1f38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[15년 MAMA 역사상 첫 여성 호스트는 이 사람이다 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/61110</link>
-            <guid>https://www.elle.co.kr/article/61110</guid>
-            <pubDate>Thu, 11 Nov 2021 07:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[고개가 절로 끄덕여지는 선택.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/cae03492-74e8-4be7-aece-7f65002d7092.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모니카X립제이, 허니제이가 TV에서 일상을 공개한다고? (엘르 코리아 ─ 컬쳐)]]></title>
