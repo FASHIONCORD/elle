@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 07:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 08:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1113,6 +1113,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/be22cc02-4211-4edb-a475-9040ae5c1f38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사상에 불을 지피는 서점, ‘풀무질’_주간책방 #4 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/61117</link>
+            <guid>https://www.elle.co.kr/article/61117</guid>
+            <pubDate>Thu, 18 Nov 2021 08:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[청년들의 사랑방이 인문사회과학서점이 되기까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/b4f148b0-b27d-4bdb-aea3-9b17cb772dd8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[15년 MAMA 역사상 첫 여성 호스트는 이 사람이다 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/61110</link>
             <guid>https://www.elle.co.kr/article/61110</guid>
@@ -1167,14 +1175,6 @@
             <pubDate>Mon, 01 Nov 2021 05:22:26 GMT</pubDate>
             <content:encoded><![CDATA[&lt;쇼미더머니 10&gt;의 프로듀서로, AOMG의 아티스트로, 네 개의 정규 앨범을 낸 뮤지션으로...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/75ccd2d5-b32b-46f8-bdf7-6397e11067ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제18회 쇼팽 콩쿨 유일한 한국인 결선 진출자! 'K-클래식' 인기 이을 이혁 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/60776</link>
-            <guid>https://www.elle.co.kr/article/60776</guid>
-            <pubDate>Fri, 29 Oct 2021 05:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[체스와 컴퓨터 프로그래밍이 취미인 2000년생.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/40f4e737-9ebb-4398-9b9d-f725cf7283e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코드 쿤스트가 생각하는 재미난 일 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
