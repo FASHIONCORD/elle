@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 02:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 03:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1553,6 +1553,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/49d6de4b-29c5-4962-8a46-14cdd2efaef3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[소설가는 어디에서 글을 쓸까? 호텔이 베이스캠프가 된 사연 #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/61171</link>
+            <guid>https://www.elle.co.kr/article/61171</guid>
+            <pubDate>Thu, 18 Nov 2021 03:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[소설가 김초엽이 적극적인 호텔방랑자가 된 이유 #호캉스 아님]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/14/42c02e0c-b542-434a-b76d-fbc5bc44ec16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사전예약과 오픈런, 웨이팅과 프리오더의 시대. 내가 느끼는 소소한 패배감을 지우는 법 #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/61120</link>
             <guid>https://www.elle.co.kr/article/61120</guid>
@@ -1607,14 +1615,6 @@
             <pubDate>Thu, 11 Nov 2021 14:22:46 GMT</pubDate>
             <content:encoded><![CDATA[단계적 일상회복 3단계 #가보자고]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/cf5d22dd-be11-4b17-b6ad-335c549d60fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단 한순간의 실수로 30년된 회사가 날아간 이유_돈쓸신잡 #17 #KT정전 #재테크 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/60772</link>
-            <guid>https://www.elle.co.kr/article/60772</guid>
-            <pubDate>Thu, 11 Nov 2021 14:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[KT의 유선, 무선 네트워크가 일제히 먹통이 되는 초유의 사건이 터졌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/630ea8b3-ee7b-4ed1-901b-9c83ff4be0f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
