@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 09:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 10:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1281,6 +1281,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/15/0e7f089c-29bf-44e2-8086-fab34f30459c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이토록 강렬한 완다_요주의 여성 #38 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/61329</link>
+            <guid>https://www.elle.co.kr/article/61329</guid>
+            <pubDate>Fri, 19 Nov 2021 10:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니 플러스를 구독해야 할 첫 번째 이유, &lt;완다비전&gt;.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/25bd0329-6b9f-430f-a378-54451c45b2d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재탕 백만 번 해도 슬픈 정조 이산과 의빈 성씨의 러브 스토리 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/61293</link>
             <guid>https://www.elle.co.kr/article/61293</guid>
@@ -1375,14 +1383,6 @@
             <pubDate>Wed, 27 Oct 2021 02:05:05 GMT</pubDate>
             <content:encoded><![CDATA[하위권에서 우승 크루에 등극하기까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/0f375829-71a0-4936-a24b-eba284140609.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘코시국’ 2년차, 아사 직전 극장가 먹여 살린 영화 TOP 3 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/60651</link>
-            <guid>https://www.elle.co.kr/article/60651</guid>
-            <pubDate>Tue, 26 Oct 2021 07:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[여러 대작 속에서도 선방한 한국 영화들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/2d62010b-3e58-404d-96f0-10538999764e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시, 베를린에서 The faces of SILENCE (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
