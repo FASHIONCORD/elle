@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 11:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 12:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다'뚫'익선! 피어싱 열풍이 다시 돌아왔다]]></title>
+            <link>https://www.elle.co.kr/article/61173</link>
+            <guid>https://www.elle.co.kr/article/61173</guid>
+            <pubDate>Fri, 19 Nov 2021 12:30:38 GMT</pubDate>
+            <content:encoded><![CDATA[어디에 뚫어볼까? 반항적인 피어싱의 매력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/14/3b43eae5-acff-4ae9-9b8d-1932d0c6f8ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['너를 닮은 사람' 고현정 VS 신현빈 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/61159</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 Nov 2021 11:16:16 GMT</pubDate>
             <content:encoded><![CDATA[동전지갑이야? 가방이야? 마이크로 미니 백에 빠진 셀러브리티들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/c408cf04-adf8-4d94-b396-825db7ba81e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바야바 패션]]></title>
-            <link>https://www.elle.co.kr/article/61032</link>
-            <guid>https://www.elle.co.kr/article/61032</guid>
-            <pubDate>Sat, 13 Nov 2021 11:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[리얼 퍼는 비켜! 동물과 환경까지 생각하는 에코 퍼 시대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/b62036e4-9c8a-4236-acb5-eac47040462b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

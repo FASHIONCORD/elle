@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 11:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 12:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시, 베를린에서 The faces of SILENCE]]></title>
+            <link>https://www.elle.co.kr/article/61268</link>
+            <guid>https://www.elle.co.kr/article/61268</guid>
+            <pubDate>Fri, 19 Nov 2021 12:31:41 GMT</pubDate>
+            <content:encoded><![CDATA[2년 전 ‘2020 대구사진비엔날레’를 통해 만난 베를린의 독립 큐레이터 키아라 발치 마차라...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/00dd310e-efb6-4e2f-93ee-737ad4cd517d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장현성 아들 준우가 벌써 고3이라고?! '슈돌' 아기들의 근황 모음]]></title>
             <link>https://www.elle.co.kr/article/61224</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Nov 2021 23:24:01 GMT</pubDate>
             <content:encoded><![CDATA[작가이자 싱어송라이터인 책방지기의 취향이 잔뜩 담긴 곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/01e9c709-607e-4d1e-a339-c7736ea7f815.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[30대에도 위화감 없는 교복! 한효주 5년 만의 드라마 복귀작 '해피니스' 내용은?]]></title>
-            <link>https://www.elle.co.kr/article/60936</link>
-            <guid>https://www.elle.co.kr/article/60936</guid>
-            <pubDate>Thu, 11 Nov 2021 14:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[상큼해 보이는 제목과 그렇지 못한 내용...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/2dc2f3f6-cca9-4aab-8c2f-1d044df0fce5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
