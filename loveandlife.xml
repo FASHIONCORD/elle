@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[용산구 핫플 예상! 겨울 모임하기 딱 좋은 아늑함이 있는 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/61211</link>
+            <guid>https://www.elle.co.kr/article/61211</guid>
+            <pubDate>Fri, 19 Nov 2021 06:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[일찍 방문하는 힙스터가 맛집 줄을 안 선다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/6c4e3890-e13a-4ce3-8954-63ffa6d1fc91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이글 맛집 찾고 있다면 여기! #베이글핫플 3]]></title>
             <link>https://www.elle.co.kr/article/61175</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 Nov 2021 01:07:10 GMT</pubDate>
             <content:encoded><![CDATA[빵순이들 주목! 모델 김진경이 밀가루 없이 즐기는 시나몬롤 레서피를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/90260e1f-b1cd-4a43-9ff1-f61bd36d0713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발 딛는 곳이 전부 포토존! 눈이 즐거운 풍경 맛집 고성 카페 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/60991</link>
-            <guid>https://www.elle.co.kr/article/60991</guid>
-            <pubDate>Fri, 12 Nov 2021 12:36:01 GMT</pubDate>
-            <content:encoded><![CDATA[오션뷰? 그거 기본 아닌가요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/4083ec19-3882-4e30-9f25-8e83ec5d3f20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
