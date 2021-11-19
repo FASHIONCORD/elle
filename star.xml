@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 04:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 05:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 달 만에 5kg 감량! 의외의 프로 다이어터 김희철이 전한 중요한 다이어트 조언]]></title>
+            <link>https://www.elle.co.kr/article/61228</link>
+            <guid>https://www.elle.co.kr/article/61228</guid>
+            <pubDate>Fri, 19 Nov 2021 05:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[이전에도 두부 다이어트로 2주 만에 8kg을 뺐던 그.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/e20eb903-c734-46a7-b372-1d545fd4c574.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장현성 아들 준우가 벌써 고3이라고?! '슈돌' 아기들의 근황 모음]]></title>
             <link>https://www.elle.co.kr/article/61224</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 08:25:41 GMT</pubDate>
             <content:encoded><![CDATA[연예계에서 제일 유명한 절친 두 사람.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/14/a57684a4-332c-454f-9882-521151551748.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['너를 닮은 사람' 고현정 VS 신현빈 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/61159</link>
-            <guid>https://www.elle.co.kr/article/61159</guid>
-            <pubDate>Mon, 15 Nov 2021 06:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 보는 배우 고현정과 뚜렷한 존재감을 지닌 배우 신현빈이 열연 중인 JTBC 드라마 '너...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/32899532-00f2-471d-aa75-01a0999fceb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
