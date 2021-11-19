@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 15:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 16:37:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀라노 할머니 장명숙의 패션 상담소! 진짜 명품은 뭐가 달라? (feat.이탈리아)]]></title>
+            <link>https://www.elle.co.kr/article/61257</link>
+            <guid>https://www.elle.co.kr/article/61257</guid>
+            <pubDate>Fri, 19 Nov 2021 16:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[유튜버 밀라논나로 활동하는 장명숙이 정의하는 진정한 명품이란 이런 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/f5536181-9847-420a-a5e0-28f66eacd06c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알렉산더 맥퀸 2022 Pre S/S 여성복 컬렉션 공개]]></title>
+            <link>https://www.elle.co.kr/article/61194</link>
+            <guid>https://www.elle.co.kr/article/61194</guid>
+            <pubDate>Fri, 19 Nov 2021 16:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[아트, 상상력, 폭발하는 실루엣. 알렉산더 맥퀸의 이번 시즌 이야기다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/83d08982-9777-41e9-a19a-f000fdd7a956.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스칸디나비아 패션을 아시나요?]]></title>
             <link>https://www.elle.co.kr/article/61203</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 09:20:11 GMT</pubDate>
             <content:encoded><![CDATA[날씨가 추워지면서 SNS에서 부쩍 자주 눈에 띄는 그것! 일명 '깔깔이'라 불리는 퀼팅 재킷...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/be22cc02-4211-4edb-a475-9040ae5c1f38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저장각! 참고하기 좋은 스타들의 블랙 팬츠 룩 7 #옷잘입는언니]]></title>
-            <link>https://www.elle.co.kr/article/61098</link>
-            <guid>https://www.elle.co.kr/article/61098</guid>
-            <pubDate>Sat, 13 Nov 2021 16:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[옷장 속 기본 중의 기본 아이템인 블랙 팬츠. 옷 잘 입기로 소문난 스타들은 이를 어떻게 입...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/6ac6088b-37f9-4c0b-ba23-47ea7a20623f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼭꼭 숨어라, 마스크로 완전 무장!]]></title>
-            <link>https://www.elle.co.kr/article/61088</link>
-            <guid>https://www.elle.co.kr/article/61088</guid>
-            <pubDate>Sat, 13 Nov 2021 11:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[온몸을 꽁꽁 감싼 마스크 룩으로 미스테리어스한 스타일을 완성한 셀럽들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/2e43b4d6-9468-4ef0-bfef-48c06ba7211f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
