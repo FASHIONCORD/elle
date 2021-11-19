@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 08:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 09:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 달 만에 5kg 감량! 의외의 프로 다이어터 김희철이 전한 중요한 다이어트 조언]]></title>
+            <link>https://www.elle.co.kr/article/61228</link>
+            <guid>https://www.elle.co.kr/article/61228</guid>
+            <pubDate>Fri, 19 Nov 2021 09:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[이전에도 두부 다이어트로 2주 만에 8kg을 뺐던 그.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/e20eb903-c734-46a7-b372-1d545fd4c574.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[90s 뷰티 트렌드 재해석]]></title>
             <link>https://www.elle.co.kr/article/61208</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 02:04:35 GMT</pubDate>
             <content:encoded><![CDATA[올리브영이 선정한 N월의 올리브! 11월의 인물 메이크업 아티스트 서옥과 함께한 인터뷰.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/d38b3d63-ab4f-4125-abde-0050a528e4c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손담비의 욕실 속 내돈내산 배스 용품 리스트 14]]></title>
-            <link>https://www.elle.co.kr/article/61056</link>
-            <guid>https://www.elle.co.kr/article/61056</guid>
-            <pubDate>Sun, 14 Nov 2021 16:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[핸드 워시부터 배스 타월까지! 손담비가 ‘찐’으로 애용하는 ‘내돈내산’ 배스 용품을 공개합니...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/6f5f8416-365b-42b8-97db-1c2ede917a47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
