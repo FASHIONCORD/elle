@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 13:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 14:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -921,6 +921,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjJfMTEz/MDAxNjE2Mzk0ODIwNzc1.RA_g9jvc-qmWTqdgSiDalBQ7qxaa04uWrnfRvxE158Mg._wuyXvnkgg6U0Vvj22Vejg5emhLVJ7QBa4iQLlxECbwg.JPEG/Im6QWZuvR7Lndr83CsASlzgFE84o.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스칸디나비아 패션을 아시나요? (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/61203</link>
+            <guid>https://www.elle.co.kr/article/61203</guid>
+            <pubDate>Fri, 19 Nov 2021 14:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[페미니즘과 친환경에 대한 올바른 가치관을 가진 북유럽 패션 브랜드 로데비어. 지난달 서울에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/a75e7c1e-a913-4026-b408-a0e0a252821a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다'뚫'익선! 피어싱 열풍이 다시 돌아왔다 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/61173</link>
             <guid>https://www.elle.co.kr/article/61173</guid>
@@ -975,14 +983,6 @@
             <pubDate>Sat, 13 Nov 2021 11:16:16 GMT</pubDate>
             <content:encoded><![CDATA[온몸을 꽁꽁 감싼 마스크 룩으로 미스테리어스한 스타일을 완성한 셀럽들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/2e43b4d6-9468-4ef0-bfef-48c06ba7211f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손바닥만한 ‘미니 백’의 매력 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/61037</link>
-            <guid>https://www.elle.co.kr/article/61037</guid>
-            <pubDate>Wed, 10 Nov 2021 09:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[동전지갑이야? 가방이야? 마이크로 미니 백에 빠진 셀러브리티들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/c408cf04-adf8-4d94-b396-825db7ba81e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 빠질까?? 다이어트 보조제 직접 먹어본 후기 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1281,6 +1281,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/15/0e7f089c-29bf-44e2-8086-fab34f30459c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[현실 찐친? ‘술꾼도시여자들’의 3인 3색 스타일 탐구 (feat. 정은지, 이선빈, 한선화) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/61335</link>
+            <guid>https://www.elle.co.kr/article/61335</guid>
+            <pubDate>Fri, 19 Nov 2021 14:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[리얼한 연기로 화제 만발! 본격 ‘기승전술’ 드라마 &lt;술꾼도시여자들&gt;의 정은지, 이선빈, 한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/d16007f7-2400-4078-bcd1-16eaa8e6d267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이토록 강렬한 완다_요주의 여성 #38 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/61329</link>
             <guid>https://www.elle.co.kr/article/61329</guid>
@@ -1375,14 +1383,6 @@
             <pubDate>Wed, 27 Oct 2021 03:23:47 GMT</pubDate>
             <content:encoded><![CDATA[끝났지만 끝난 게 아니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/693635e8-2710-4df9-af19-ff505ef58dd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 최종 우승! 언더독의 반란 그 자체인 홀리뱅 서사 모음 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/60670</link>
-            <guid>https://www.elle.co.kr/article/60670</guid>
-            <pubDate>Wed, 27 Oct 2021 02:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[하위권에서 우승 크루에 등극하기까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/0f375829-71a0-4936-a24b-eba284140609.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시, 베를린에서 The faces of SILENCE (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
