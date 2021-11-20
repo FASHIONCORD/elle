@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 23:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 01:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물에 몸 담그고 노을 감상 가능! 따뜻한 노천탕이 있는 남해 숙소 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/61238</link>
+            <guid>https://www.elle.co.kr/article/61238</guid>
+            <pubDate>Sat, 20 Nov 2021 01:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[노천탕은 밖이 추울수록 제맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/5c77e224-a216-4a3d-abb0-72c406f9f52c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용산구 핫플 예상! 겨울 모임하기 딱 좋은 아늑함이 있는 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/61211</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 Nov 2021 22:26:13 GMT</pubDate>
             <content:encoded><![CDATA[새로 생겼는데 이미 검증된 맛집들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/7ca3b0c1-7ed1-4c52-bed8-223344f87fb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 중에도 즐길 수 있는 ‘글루텐프리 베이킹’]]></title>
-            <link>https://www.elle.co.kr/article/61010</link>
-            <guid>https://www.elle.co.kr/article/61010</guid>
-            <pubDate>Sat, 13 Nov 2021 01:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[빵순이들 주목! 모델 김진경이 밀가루 없이 즐기는 시나몬롤 레서피를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/90260e1f-b1cd-4a43-9ff1-f61bd36d0713.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
