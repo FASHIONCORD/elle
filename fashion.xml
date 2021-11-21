@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 23:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 01:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이 페이보릿 블랭킷]]></title>
+            <link>https://www.elle.co.kr/article/61343</link>
+            <guid>https://www.elle.co.kr/article/61343</guid>
+            <pubDate>Sun, 21 Nov 2021 01:03:40 GMT</pubDate>
+            <content:encoded><![CDATA[어깨에 무심하게 둘러도, 소파에 '툭' 걸쳐놔도 좋은 블랭킷 위시리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/63a9a8f9-b490-41c1-b53f-3c4335b719e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전시회 갈 때 뭐 입지? 스타들의 룩 best 5.]]></title>
             <link>https://www.elle.co.kr/article/61340</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 12:30:38 GMT</pubDate>
             <content:encoded><![CDATA[어디에 뚫어볼까? 반항적인 피어싱의 매력.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/14/3b43eae5-acff-4ae9-9b8d-1932d0c6f8ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['너를 닮은 사람' 고현정 VS 신현빈 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/61159</link>
-            <guid>https://www.elle.co.kr/article/61159</guid>
-            <pubDate>Thu, 18 Nov 2021 18:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 보는 배우 고현정과 뚜렷한 존재감을 지닌 배우 신현빈이 열연 중인 JTBC 드라마 '너...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/32899532-00f2-471d-aa75-01a0999fceb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
