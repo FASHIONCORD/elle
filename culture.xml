@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 05:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 06:30:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[책만 있는 건 아니야, '하우스서울'_주간책방 #5]]></title>
+            <link>https://www.elle.co.kr/article/61289</link>
+            <guid>https://www.elle.co.kr/article/61289</guid>
+            <pubDate>Mon, 22 Nov 2021 06:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[커피와 책, 전시를 한자리에서 만날 수 있는 복합문화공간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/2078a366-f603-4aea-9406-ac634d2ea08d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시, 베를린에서 The faces of SILENCE]]></title>
             <link>https://www.elle.co.kr/article/61268</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 Nov 2021 06:24:55 GMT</pubDate>
             <content:encoded><![CDATA[각각 '전지적 참견 시점'과 '나 혼자 산다'에 출연한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/d5b94c5e-70fe-458a-bde3-668dfa091ba5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상하고 귀여운 것들이 가득한, ‘북극서점’_주간책방 #3]]></title>
-            <link>https://www.elle.co.kr/article/60942</link>
-            <guid>https://www.elle.co.kr/article/60942</guid>
-            <pubDate>Thu, 11 Nov 2021 23:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[작가이자 싱어송라이터인 책방지기의 취향이 잔뜩 담긴 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/01e9c709-607e-4d1e-a339-c7736ea7f815.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
