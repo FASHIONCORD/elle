@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 15:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 16:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -985,6 +985,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/83d08982-9777-41e9-a19a-f000fdd7a956.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘너를 닮은 사람’ 신현빈 헤어스타일에 숨은 의도가 있다? (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/61330</link>
+            <guid>https://www.elle.co.kr/article/61330</guid>
+            <pubDate>Mon, 22 Nov 2021 16:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 속 배우 신현빈의 과거 VS 현재 스타일링]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/d25d74ba-8338-4a8a-b711-45afb68be973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘너를 닮은 사람’ 고현정의 헤어스타일은 고데기일까? 펌일까? (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/61316</link>
             <guid>https://www.elle.co.kr/article/61316</guid>
@@ -1039,14 +1047,6 @@
             <pubDate>Thu, 18 Nov 2021 15:22:23 GMT</pubDate>
             <content:encoded><![CDATA[건강하게 나이 들기, 지금 시작하자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/fdcd1d79-6887-4ee3-b727-57271a1d9a7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메마른 팔과 다리 피부를 위한 모이스처라이저 추천! (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/61179</link>
-            <guid>https://www.elle.co.kr/article/61179</guid>
-            <pubDate>Thu, 18 Nov 2021 06:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[이 계절의 필수품!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/84ec4a20-49f5-494a-a1b8-08dfd8ecbc58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현실 찐친? ‘술꾼도시여자들’의 3인 3색 스타일 탐구 (feat. 정은지, 이선빈, 한선화) (엘르 코리아 ─ 스타)]]></title>
