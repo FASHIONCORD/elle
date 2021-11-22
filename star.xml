@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 14:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 15:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현실 찐친? ‘술꾼도시여자들’의 3인 3색 스타일 탐구 (feat. 정은지, 이선빈, 한선화)]]></title>
+            <link>https://www.elle.co.kr/article/61335</link>
+            <guid>https://www.elle.co.kr/article/61335</guid>
+            <pubDate>Mon, 22 Nov 2021 15:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[리얼한 연기로 화제 만발! 본격 ‘기승전술’ 드라마 &lt;술꾼도시여자들&gt;의 정은지, 이선빈, 한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/d16007f7-2400-4078-bcd1-16eaa8e6d267.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[말 그대로 전신 운동! 스타 클라이밍 영상.zip]]></title>
             <link>https://www.elle.co.kr/article/61333</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
             <content:encoded><![CDATA[결혼 후 처음으로 인스타그램에 올린 남편 사진.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/8221b012-3453-4cd7-ad4b-63ec57274e81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 달 만에 5kg 감량! 의외의 프로 다이어터 김희철이 전한 중요한 다이어트 조언]]></title>
-            <link>https://www.elle.co.kr/article/61228</link>
-            <guid>https://www.elle.co.kr/article/61228</guid>
-            <pubDate>Fri, 19 Nov 2021 05:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[이전에도 두부 다이어트로 2주 만에 8kg을 뺐던 그.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/e20eb903-c734-46a7-b372-1d545fd4c574.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
