@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 07:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 08:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1049,6 +1049,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/91842c06-c11a-4b30-9dd6-8f00c8b6b57d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아버지 대신 친누나 결혼식 신부 입장 도운 이특의 '찐동생' 모먼트 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/61394</link>
+            <guid>https://www.elle.co.kr/article/61394</guid>
+            <pubDate>Tue, 23 Nov 2021 08:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[신부보다 더 긴장한 모습.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/b2a3f870-6aaf-4fe3-ace0-3e677c41f3bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[월요일부터 아미들 주모 찾게 만든 방탄소년단, 아시아 가수 최초 AMA 대상! (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/61387</link>
             <guid>https://www.elle.co.kr/article/61387</guid>
@@ -1103,14 +1111,6 @@
             <pubDate>Mon, 22 Nov 2021 02:33:51 GMT</pubDate>
             <content:encoded><![CDATA[&lt;쇼미더머니10&gt;로 음원킹의 위상을 뽐낸 자이언티와 슬롬. 두 사람이 직접 밝힌 '티슬라' ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/8bd5ce03-f651-49bc-ad93-d135250887bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옛날 뮤직비디오 다들 그리웠지? 리마스터링이 뜬다! #H.O.T #S.E.S #신화 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/61302</link>
-            <guid>https://www.elle.co.kr/article/61302</guid>
-            <pubDate>Thu, 18 Nov 2021 09:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[이소라, H.O.T, S.E.S, 신화의 뮤직비디오를 4K로?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/30f1ae86-5710-4f13-84e4-1031a621087f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[책만 있는 건 아니야, '하우스서울'_주간책방 #5 (엘르 코리아 ─ 컬쳐)]]></title>
