@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 02:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 03:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 기기 1도 없는 안드로이드 유저의 애플TV 4K 솔직 후기]]></title>
+            <link>https://www.elle.co.kr/article/61327</link>
+            <guid>https://www.elle.co.kr/article/61327</guid>
+            <pubDate>Tue, 23 Nov 2021 03:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[사용자를 애플 생태계로 유혹하는 애플TV 4K.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/f445e55f-ce91-4ed8-a94e-b7c0db1aa7c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미쉐린 가이드 픽, 2022년 서울 맛집 BEST 61 #가성비 #빕구루망]]></title>
+            <link>https://www.elle.co.kr/article/61301</link>
+            <guid>https://www.elle.co.kr/article/61301</guid>
+            <pubDate>Tue, 23 Nov 2021 03:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 가장 가성비 좋고 맛있는 요리를 먹고 싶다면? 여기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/0f11ac9b-2562-4d17-9ca2-f577878a7e42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 6년 만의 구독료 인상, '망 사용료' 논란 탓? 그게 대체 뭔데?]]></title>
             <link>https://www.elle.co.kr/article/61284</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 06:27:36 GMT</pubDate>
             <content:encoded><![CDATA[바닷가 산책부터 역사 탐방까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/d33a656b-8f4e-4a50-a6af-10c59d22205d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전세계 2만1896명의 <엘르> 독자들이 팬데믹 시기에 겪은 가장 드라마틱한 변화? (2)]]></title>
-            <link>https://www.elle.co.kr/article/61145</link>
-            <guid>https://www.elle.co.kr/article/61145</guid>
-            <pubDate>Wed, 17 Nov 2021 15:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹이 불어닥친 2020년부터 1년에 걸쳐 진행한 &lt;엘르&gt; 글로벌 서베이. 23개국 &lt;엘르...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/4d7d55d6-bb7b-47f0-ab48-f2ad651a55b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전세계 2만1896명의 '엘르' 독자들이 팬데믹 시기에 겪은 가장 드라마틱한 변화? (1)]]></title>
-            <link>https://www.elle.co.kr/article/61094</link>
-            <guid>https://www.elle.co.kr/article/61094</guid>
-            <pubDate>Wed, 17 Nov 2021 01:06:38 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹이 불어닥친 2020년부터 1년에 걸쳐 진행한 &lt;엘르&gt; 글로벌 서베이. 23개국 &lt;엘르...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/69d178f5-ccd3-46ea-bf38-d0c1176e3bfb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

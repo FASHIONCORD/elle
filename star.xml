@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 02:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 03:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월요일부터 아미들 주모 찾게 만든 방탄소년단, 아시아 가수 최초 AMA 대상!]]></title>
+            <link>https://www.elle.co.kr/article/61387</link>
+            <guid>https://www.elle.co.kr/article/61387</guid>
+            <pubDate>Tue, 23 Nov 2021 03:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[이제 다음은 그래미?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/7752c3fa-df21-49f2-9bd3-985905d4fcf1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림이 돌아왔다! 위대한 역사 자우림, <엘르> 화보 촬영]]></title>
+            <link>https://www.elle.co.kr/article/61362</link>
+            <guid>https://www.elle.co.kr/article/61362</guid>
+            <pubDate>Tue, 23 Nov 2021 03:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[누구나 가슴속에 자우림 노래 하나쯤은 품고 살잖아요? 자우림과 엘르의 멋진 조우]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/29bacf12-1cf7-4373-bd02-5b17e4b6027d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남녀 사이에 친구 없다고? SM 공식 김남매 태연X키라면 가능!]]></title>
             <link>https://www.elle.co.kr/article/61352</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 21 Nov 2021 03:21:07 GMT</pubDate>
             <content:encoded><![CDATA[이소라, H.O.T, S.E.S, 신화의 뮤직비디오를 4K로?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/30f1ae86-5710-4f13-84e4-1031a621087f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재탕 백만 번 해도 슬픈 정조 이산과 의빈 성씨의 러브 스토리]]></title>
-            <link>https://www.elle.co.kr/article/61293</link>
-            <guid>https://www.elle.co.kr/article/61293</guid>
-            <pubDate>Fri, 19 Nov 2021 12:31:30 GMT</pubDate>
-            <content:encoded><![CDATA[15년 짝사랑한 임금... 15년 고백 거절한 생각시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/1ede4ab8-a812-4d8a-9fb9-d4acced5e165.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유재석 픽' 이미주가 러블리즈 해체 후 선택한 새 소속사는 예상대로다]]></title>
-            <link>https://www.elle.co.kr/article/61248</link>
-            <guid>https://www.elle.co.kr/article/61248</guid>
-            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 TV 틀면 나온다는 이미주의 다음 행보는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/a6fb42fb-1ac2-4b85-a558-880f671f7f46.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
