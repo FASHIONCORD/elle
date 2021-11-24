@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 07:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 08:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1281,6 +1281,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/1760d0fb-cc8e-4b4a-be5d-78829bd9fafb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뺏긴 지 하루 만에 넷플릭스 세계 1위 탈환한 K-드라마가 있다? 벌써 열린 '지옥' 흥행문 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/61477</link>
+            <guid>https://www.elle.co.kr/article/61477</guid>
+            <pubDate>Wed, 24 Nov 2021 08:27:48 GMT</pubDate>
+            <content:encoded><![CDATA['오징어게임' 급 장기 흥행 조짐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b19c16f9-626d-4b20-92ce-c76c7d7e5805.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현실 찐친? ‘술꾼도시여자들’의 3인 3색 스타일 탐구 (feat. 정은지, 이선빈, 한선화) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/61335</link>
             <guid>https://www.elle.co.kr/article/61335</guid>
@@ -1375,14 +1383,6 @@
             <pubDate>Wed, 27 Oct 2021 07:22:59 GMT</pubDate>
             <content:encoded><![CDATA[우승 크루 발표를 지켜보던 모두의 똑같은 마음...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/56206ad2-9547-4a86-8035-8370acc917d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘서트부터 예능까지, '스우파' 크루들을 볼 수 있는 향후 스케줄.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/60672</link>
-            <guid>https://www.elle.co.kr/article/60672</guid>
-            <pubDate>Wed, 27 Oct 2021 03:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[끝났지만 끝난 게 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/693635e8-2710-4df9-af19-ff505ef58dd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시, 베를린에서 The faces of SILENCE (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
