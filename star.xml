@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 22:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 23:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연예계 대표 사랑꾼 김재우가 아내를 위해 만든 다이어트 식단은? (feat. 뜻밖의 반응)]]></title>
+            <link>https://www.elle.co.kr/article/61467</link>
+            <guid>https://www.elle.co.kr/article/61467</guid>
+            <pubDate>Thu, 25 Nov 2021 23:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[탄수화물 부족은 못 참지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/fb945d24-4570-4ce6-8f7e-f7ce382393b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마 #키마이라 로 컴백! 수현 흑과 백의 비주얼]]></title>
             <link>https://www.elle.co.kr/article/61428</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 02:04:40 GMT</pubDate>
             <content:encoded><![CDATA[가면이야? 모자야? 패션 아이템으로 자리잡은 바라클라바 구매 좌표.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/97e3e4c1-fed7-4cf7-ac76-7c3f00d8a891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아버지 대신 친누나 결혼식 신부 입장 도운 이특의 '찐동생' 모먼트]]></title>
-            <link>https://www.elle.co.kr/article/61394</link>
-            <guid>https://www.elle.co.kr/article/61394</guid>
-            <pubDate>Tue, 23 Nov 2021 08:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[신부보다 더 긴장한 모습.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/b2a3f870-6aaf-4fe3-ace0-3e677c41f3bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
