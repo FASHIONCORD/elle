@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 01:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 02:40:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 강렬한 완다_요주의 여성 #38]]></title>
+            <link>https://www.elle.co.kr/article/61329</link>
+            <guid>https://www.elle.co.kr/article/61329</guid>
+            <pubDate>Thu, 25 Nov 2021 02:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니 플러스를 구독해야 할 첫 번째 이유, &lt;완다비전&gt;.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/25bd0329-6b9f-430f-a378-54451c45b2d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옛날 뮤직비디오 다들 그리웠지? 리마스터링이 뜬다! #H.O.T #S.E.S #신화]]></title>
             <link>https://www.elle.co.kr/article/61302</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 08:27:12 GMT</pubDate>
             <content:encoded><![CDATA[청년들의 사랑방이 인문사회과학서점이 되기까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b4f148b0-b27d-4bdb-aea3-9b17cb772dd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[15년 MAMA 역사상 첫 여성 호스트는 이 사람이다]]></title>
-            <link>https://www.elle.co.kr/article/61110</link>
-            <guid>https://www.elle.co.kr/article/61110</guid>
-            <pubDate>Thu, 18 Nov 2021 06:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[고개가 절로 끄덕여지는 선택.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/cae03492-74e8-4be7-aece-7f65002d7092.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

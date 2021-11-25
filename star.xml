@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 01:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 02:40:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저장각! 맛잘알 스타의 입맛을 사로잡은 핫플 푸드 3]]></title>
+            <link>https://www.elle.co.kr/article/61420</link>
+            <guid>https://www.elle.co.kr/article/61420</guid>
+            <pubDate>Thu, 25 Nov 2021 02:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[샌드위치부터 초코 무스까지! 보는 것만으로도 먹음직스러운, 스타들의 SNS에서 포착한 핫플레...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/0f35c2bd-d949-4c42-aa20-e93db9ea47bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김태리의 유쾌한 솔직함, 당당함 그리고? 45초 동안 표정부자 김태리와 아이컨택하기]]></title>
             <link>https://www.elle.co.kr/article/61419</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 02:05:54 GMT</pubDate>
             <content:encoded><![CDATA[같은 소속사 선후배이자 찐친 중의 찐친.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/42f09b8b-7657-46f8-8e59-61fb1f0966da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실 찐친? ‘술꾼도시여자들’의 3인 3색 스타일 탐구 (feat. 정은지, 이선빈, 한선화)]]></title>
-            <link>https://www.elle.co.kr/article/61335</link>
-            <guid>https://www.elle.co.kr/article/61335</guid>
-            <pubDate>Mon, 22 Nov 2021 15:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[리얼한 연기로 화제 만발! 본격 ‘기승전술’ 드라마 &lt;술꾼도시여자들&gt;의 정은지, 이선빈, 한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/d16007f7-2400-4078-bcd1-16eaa8e6d267.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
