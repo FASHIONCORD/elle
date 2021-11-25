@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:27:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HOLIDAY DREAM]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32818840&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32818840&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Thu, 25 Nov 2021 03:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMzcg/MDAxNjM3ODA0MTcxOTc1.6KdE5sCtPQuV65N3MKGysxDhsShKLL91bI9IiYB8_HIg.jiJ33UY52eSvYJlnNofSE_UpKKJet4owGiSeo80j93og.JPEG/IlTSeNk8h__nORZ319e_hCNrg-S4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의외의 프로 다이어터? 김희철의 성수기 다이어트 비법]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32768960&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Sat, 02 Oct 2021 09:30:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTNfMjk2/MDAxNjI4ODE4NjUyNDgw.R1Qt2EN4hCk8JNyEqzEha_R8mp7TSZojD30cqOrGTuAg.55AeLwrJj3d8TcwKFh1r2HHhx_UT4P4jtCekoxslBSQg.JPEG/IESBdDS7iKNI-iUTo-zeONeIKfQA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[172cm에 46kg! 전소미가 다이어트 한 이유&비법]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32140671&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32140671&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTBfMTMy/MDAxNjI4NTYwMzYyMjE3.Etv1SYQ7CUZDGGH88fcyn-Fqqq4f_YE_VbyqBAEjke8g.slZNVuSW8I83nG1NT47Vt2M7kwG1IgZmUNK4VKvpNYUg.PNG/I-UXBU1dPnpuVt9gOIbWT09oVg-g.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
