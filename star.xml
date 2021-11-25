@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 10:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 11:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오마이걸 효정이 추천하는 반려 식물 5]]></title>
+            <link>https://www.elle.co.kr/article/61447</link>
+            <guid>https://www.elle.co.kr/article/61447</guid>
+            <pubDate>Thu, 25 Nov 2021 11:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[식린이들을 위한 가이드! 효정과 함께 반려 식물의 매력에 빠져보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/e246902d-1a12-4e92-8742-40d639ae309d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연상연하 커플 박신혜♥최태준 연애부터 결혼까지 총정리!]]></title>
             <link>https://www.elle.co.kr/article/61434</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 03:23:14 GMT</pubDate>
             <content:encoded><![CDATA[이제 다음은 그래미?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/7752c3fa-df21-49f2-9bd3-985905d4fcf1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림이 돌아왔다! 위대한 역사 자우림, <엘르> 화보 촬영]]></title>
-            <link>https://www.elle.co.kr/article/61362</link>
-            <guid>https://www.elle.co.kr/article/61362</guid>
-            <pubDate>Tue, 23 Nov 2021 03:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[누구나 가슴속에 자우림 노래 하나쯤은 품고 살잖아요? 자우림과 엘르의 멋진 조우]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/29bacf12-1cf7-4373-bd02-5b17e4b6027d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
