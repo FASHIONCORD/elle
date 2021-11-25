@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 08:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 09:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연상연하 커플 박신혜♥최태준 연애부터 결혼까지 총정리!]]></title>
+            <link>https://www.elle.co.kr/article/61434</link>
+            <guid>https://www.elle.co.kr/article/61434</guid>
+            <pubDate>Thu, 25 Nov 2021 09:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[박신혜, 최태준이 4년 연애를 끝으로 결혼 소식을 알렸습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/631cfcb5-ae0a-47cc-8617-22faeeeb54e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저장각! 맛잘알 스타의 입맛을 사로잡은 핫플 푸드 3]]></title>
             <link>https://www.elle.co.kr/article/61420</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 03:23:14 GMT</pubDate>
             <content:encoded><![CDATA[누구나 가슴속에 자우림 노래 하나쯤은 품고 살잖아요? 자우림과 엘르의 멋진 조우]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/29bacf12-1cf7-4373-bd02-5b17e4b6027d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남녀 사이에 친구 없다고? SM 공식 김남매 태연X키라면 가능!]]></title>
-            <link>https://www.elle.co.kr/article/61352</link>
-            <guid>https://www.elle.co.kr/article/61352</guid>
-            <pubDate>Tue, 23 Nov 2021 02:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[같은 소속사 선후배이자 찐친 중의 찐친.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/42f09b8b-7657-46f8-8e59-61fb1f0966da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
