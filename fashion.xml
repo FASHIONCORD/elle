@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 04:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 05:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱크로율 100% ! 크리스틴 스튜어트 VS 다이애나 비]]></title>
+            <link>https://www.elle.co.kr/article/61405</link>
+            <guid>https://www.elle.co.kr/article/61405</guid>
+            <pubDate>Thu, 25 Nov 2021 05:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[외모와 스타일은 물론 말투까지 다이애나 전 왕세자비의 도플갱어로 변신한 크리스틴 스튜어트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/0a326579-2776-4b60-ac46-55e7a7d1b33c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올겨울 유행 아이템 ‘바라클라바’ 쇼핑리스트 7]]></title>
             <link>https://www.elle.co.kr/article/61402</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 21 Nov 2021 15:20:11 GMT</pubDate>
             <content:encoded><![CDATA[갑자기 찾아온 겨울을 스타일리시하게 맞이하고 싶다면 롱코트가 제격.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/8259d4a4-a432-41c2-95f1-a5016ea0cf09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠튀리에가 전하는 낭만, 미스 소희]]></title>
-            <link>https://www.elle.co.kr/article/61342</link>
-            <guid>https://www.elle.co.kr/article/61342</guid>
-            <pubDate>Sun, 21 Nov 2021 15:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[꽃처럼 활짝 만개한 미스 소희가 패션계를 사로 잡았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/ba2b92c6-3916-4c1b-8822-cd52514d00bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
