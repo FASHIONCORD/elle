@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라마 #키마이라 로 컴백! 수현 흑과 백의 비주얼]]></title>
+            <link>https://www.elle.co.kr/article/61428</link>
+            <guid>https://www.elle.co.kr/article/61428</guid>
+            <pubDate>Thu, 25 Nov 2021 15:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[수현, 엘르 카메라 앞에 서다. 패셔너블함의 끝]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/9cb02865-f7df-4e80-9a10-98ffebb4a30f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오마이걸 효정이 추천하는 반려 식물 5]]></title>
             <link>https://www.elle.co.kr/article/61447</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 08:24:49 GMT</pubDate>
             <content:encoded><![CDATA[신부보다 더 긴장한 모습.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/b2a3f870-6aaf-4fe3-ace0-3e677c41f3bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월요일부터 아미들 주모 찾게 만든 방탄소년단, 아시아 가수 최초 AMA 대상!]]></title>
-            <link>https://www.elle.co.kr/article/61387</link>
-            <guid>https://www.elle.co.kr/article/61387</guid>
-            <pubDate>Tue, 23 Nov 2021 03:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[이제 다음은 그래미?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/7752c3fa-df21-49f2-9bd3-985905d4fcf1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
