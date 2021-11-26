@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 05:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 06:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 부는 사극 열풍, ‘연모’·‘어사와 조이’·‘옷소매 붉은 끝동’의 공통점은?]]></title>
+            <link>https://www.elle.co.kr/article/61512</link>
+            <guid>https://www.elle.co.kr/article/61512</guid>
+            <pubDate>Fri, 26 Nov 2021 06:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[포인트는 '로맨스 사극'이라는 점.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/5a912d34-85fb-43d0-b796-462e8f9e45aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스트릿 우먼 파이터' 서울 콘서트 보러 가족 총출동한 뮤지컬 배우 (feat. 오뚜기)]]></title>
             <link>https://www.elle.co.kr/article/61498</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 06:25:59 GMT</pubDate>
             <content:encoded><![CDATA[45초가 순삭되는 방법. 엘르와 김태리, 그리고 프라다의 멋진 조우]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/99b2d1e5-db3a-4c7a-96d8-c238a1a0f70e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 채정안의 환절기 보디 케어 필수템 4]]></title>
-            <link>https://www.elle.co.kr/article/61409</link>
-            <guid>https://www.elle.co.kr/article/61409</guid>
-            <pubDate>Wed, 24 Nov 2021 02:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[피부 케어라면 아낌없이 투자하는 채정안의 환절기 보디 케어 필수템은 무엇?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/98c84907-e907-477e-9a07-72e8b78ca97d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
