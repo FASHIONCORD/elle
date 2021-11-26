@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 16:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 17:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로 나온 빅 백 5]]></title>
+            <link>https://www.elle.co.kr/article/61494</link>
+            <guid>https://www.elle.co.kr/article/61494</guid>
+            <pubDate>Fri, 26 Nov 2021 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[다이어리부터 텀블러, 파우치까지 보따리장수를 위한 빅 백 쇼핑 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/915a8e11-7f8a-414d-ab23-42e67b3923d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특별한 홀리데이의 세계로]]></title>
             <link>https://www.elle.co.kr/article/61453</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 15:20:55 GMT</pubDate>
             <content:encoded><![CDATA[지금은 90년대 무드의 롱부츠를 신고 큰 보폭으로 걸어야 할 때.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/84fed59d-7a0e-4c59-98da-57d3e2fda8fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 룩 '꾸안꾸' 찰떡! 헤어밴드를 한 스타 OOTD]]></title>
-            <link>https://www.elle.co.kr/article/61353</link>
-            <guid>https://www.elle.co.kr/article/61353</guid>
-            <pubDate>Tue, 23 Nov 2021 15:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 스타들의 데일리 룩에서 자주 포착되는 헤어밴드 스타일을 모아봤어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/4cf9eca7-ff5b-4eba-81bf-ca8f9c124b33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
