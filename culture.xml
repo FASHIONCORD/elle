@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 06:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 07:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뺏긴 지 하루 만에 넷플릭스 세계 1위 탈환한 K-드라마가 있다? 벌써 열린 '지옥' 흥행문]]></title>
+            <link>https://www.elle.co.kr/article/61477</link>
+            <guid>https://www.elle.co.kr/article/61477</guid>
+            <pubDate>Fri, 26 Nov 2021 07:21:41 GMT</pubDate>
+            <content:encoded><![CDATA['오징어게임' 급 장기 흥행 조짐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b19c16f9-626d-4b20-92ce-c76c7d7e5805.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월요일부터 아미들 주모 찾게 만든 방탄소년단, 아시아 가수 최초 AMA 대상!]]></title>
             <link>https://www.elle.co.kr/article/61387</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 12:31:41 GMT</pubDate>
             <content:encoded><![CDATA[2년 전 ‘2020 대구사진비엔날레’를 통해 만난 베를린의 독립 큐레이터 키아라 발치 마차라...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/00dd310e-efb6-4e2f-93ee-737ad4cd517d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장현성 아들 준우가 벌써 고3이라고?! '슈돌' 아기들의 근황 모음]]></title>
-            <link>https://www.elle.co.kr/article/61224</link>
-            <guid>https://www.elle.co.kr/article/61224</guid>
-            <pubDate>Fri, 19 Nov 2021 09:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[세월아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/cc8a2fc4-a966-48b2-83df-4805b4eb6d47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
