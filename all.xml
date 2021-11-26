@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 15:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 16:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1049,6 +1049,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/d25d74ba-8338-4a8a-b711-45afb68be973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[곡선보다 직선이 어울리는 #김태리 가 단단한 눈빛 안에 담은 것들. (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/61524</link>
+            <guid>https://www.elle.co.kr/article/61524</guid>
+            <pubDate>Fri, 26 Nov 2021 16:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[김태리는 옆에 놓인 의자를 내어줄 용의가 있는 사람이다. 느낌표와 물음표를 잔뜩 던지고 와르...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/6c7f10cb-0b5d-4a84-9163-afe91369ec75.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[독보적인 존재감을 각인시킨 NCT 태용의 파워풀한 에너지 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/61504</link>
             <guid>https://www.elle.co.kr/article/61504</guid>
@@ -1103,14 +1111,6 @@
             <pubDate>Thu, 25 Nov 2021 09:22:14 GMT</pubDate>
             <content:encoded><![CDATA[박신혜, 최태준이 4년 연애를 끝으로 결혼 소식을 알렸습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/631cfcb5-ae0a-47cc-8617-22faeeeb54e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저장각! 맛잘알 스타의 입맛을 사로잡은 핫플 푸드 3 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/61420</link>
-            <guid>https://www.elle.co.kr/article/61420</guid>
-            <pubDate>Thu, 25 Nov 2021 02:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[샌드위치부터 초코 무스까지! 보는 것만으로도 먹음직스러운, 스타들의 SNS에서 포착한 핫플레...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/0f35c2bd-d949-4c42-aa20-e93db9ea47bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피지컬+디지털=피지털 시대 ! (엘르 코리아 ─ 컬쳐)]]></title>
