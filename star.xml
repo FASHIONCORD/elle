@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 07:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 08:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독보적인 존재감을 각인시킨 NCT 태용의 파워풀한 에너지]]></title>
+            <link>https://www.elle.co.kr/article/61504</link>
+            <guid>https://www.elle.co.kr/article/61504</guid>
+            <pubDate>Fri, 26 Nov 2021 08:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[무한대의 매력을 지닌 NCT 태용.강인한 에너지와 자신감이 스파크를 일으켰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/ed4e9744-bf72-44a5-9591-262e2ec1a35b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 부는 사극 열풍, ‘연모’·‘어사와 조이’·‘옷소매 붉은 끝동’의 공통점은?]]></title>
             <link>https://www.elle.co.kr/article/61512</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 Nov 2021 02:35:40 GMT</pubDate>
             <content:encoded><![CDATA[샌드위치부터 초코 무스까지! 보는 것만으로도 먹음직스러운, 스타들의 SNS에서 포착한 핫플레...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/0f35c2bd-d949-4c42-aa20-e93db9ea47bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김태리의 유쾌한 솔직함, 당당함 그리고? 45초 동안 표정부자 김태리와 아이컨택하기]]></title>
-            <link>https://www.elle.co.kr/article/61419</link>
-            <guid>https://www.elle.co.kr/article/61419</guid>
-            <pubDate>Wed, 24 Nov 2021 06:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[45초가 순삭되는 방법. 엘르와 김태리, 그리고 프라다의 멋진 조우]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/99b2d1e5-db3a-4c7a-96d8-c238a1a0f70e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
