@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 01:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 02:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 23 Nov 2021 23:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfMTky/MDAxNjM3Njg4ODg2MTYz.EuQTT7UYKQCOzxhyxjdleiR08LRhTg9aKSKUksBj3hIg.MdLdpybHIZgVuYbbubJJhqMbsXFtcMXiqL4ND-f0xOIg.PNG/I95xGpvBMMwuf-tU8BqAN3gdGrk4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 디지털 세상 속으로]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32811488&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32811488&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 26 Nov 2021 02:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfOTQg/MDAxNjM3NjYwNzgxMzIx.Df789eEOPfr6juAU6qJIjErbmS1KjpNuKtVKl7YdRzwg.G7S-hblMF2-64dQgvDa7WqYQKn9XoGNx8ldSTR72YI4g.JPEG/ISNR2li1G2r5v0qDnFHJCETOy7V4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고민되는 다이어트 보조제! 에디터의 장단점 찐리뷰.txt]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 03 Nov 2021 06:22:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDNfMjY5/MDAxNjM1OTE2ODIzNjEw.xakD9LIzvh5mBLV6-9NTomlpTIKemHpOZevDv_YbbaAg.AQbSikdL2ZWuwCej_gGdKWgye18f7W4lHjNZJD8VHYwg.PNG/ID7d3lRasi7xu5fktSICl62msCA8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버지도 저장각! 따끈따끈 갓 오픈한 역 근처 브런치집 3]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32672523&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32672523&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 02 Nov 2021 08:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDJfNTMg/MDAxNjM1ODI5OTI1NzYy.FIX54yHXoxIEb6AdYYIzLlR99atmm_TyZh_13wpumLog.bF2Kjb-9IPJQeX-3pK6dJ4RDa-ca16pwEgLT71pFBmog.PNG/IhgXrnYjIQ9C34mQ8d0mU8RRsJY4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
