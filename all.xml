@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 04:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 05:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -985,6 +985,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/704b91b7-061c-4896-87f7-a0c003ea1ce3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지금은 '보디 포지티브' 시대 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/61404</link>
+            <guid>https://www.elle.co.kr/article/61404</guid>
+            <pubDate>Fri, 26 Nov 2021 05:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[누군가에게 살을 빼고 싶다는 속마음을 드러낸다면, 내가 비정상인걸까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/7857cea4-6179-465b-8a7f-327db66eba0d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘미쓰 홍당무’세요? 겨울이면 더 불타오르는 안면 홍조 극복 프로젝트_선배's 어드바이스 #92 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/61365</link>
             <guid>https://www.elle.co.kr/article/61365</guid>
@@ -1039,14 +1047,6 @@
             <pubDate>Sun, 21 Nov 2021 01:04:21 GMT</pubDate>
             <content:encoded><![CDATA[나날이 깊어지는 밤, 더 아늑하고 평온한 숙면생활을 위하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/1a1808ea-9232-4f52-b90d-32b5d54413db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 빠질까?? 다이어트 보조제 직접 먹어본 후기 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/61282</link>
-            <guid>https://www.elle.co.kr/article/61282</guid>
-            <pubDate>Fri, 19 Nov 2021 12:31:19 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트 보조제, 식단 키트 등 다이어트를 돕는 제품들을 직접 먹어봤습니다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/b599f473-344a-458a-b392-3b67b9be412c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['스트릿 우먼 파이터' 서울 콘서트 보러 가족 총출동한 뮤지컬 배우 (feat. 오뚜기) (엘르 코리아 ─ 스타)]]></title>
