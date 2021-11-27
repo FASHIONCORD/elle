@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 17:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 18:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1049,6 +1049,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/d25d74ba-8338-4a8a-b711-45afb68be973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[#해피니스 새봄X이현의 로맨틱한 조우 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/61506</link>
+            <guid>https://www.elle.co.kr/article/61506</guid>
+            <pubDate>Sat, 27 Nov 2021 18:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[극강의 팀워크를 자랑하는 #해피니스 의 #한효주 #박형식, 커플 화보 단독 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/835688e8-9f14-4336-a829-f68486919d7b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쇼트 패딩의 계절 5 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/61526</link>
             <guid>https://www.elle.co.kr/article/61526</guid>
@@ -1103,14 +1111,6 @@
             <pubDate>Thu, 25 Nov 2021 15:24:25 GMT</pubDate>
             <content:encoded><![CDATA[수현, 엘르 카메라 앞에 서다. 패셔너블함의 끝]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/9cb02865-f7df-4e80-9a10-98ffebb4a30f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸 효정이 추천하는 반려 식물 5 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/61447</link>
-            <guid>https://www.elle.co.kr/article/61447</guid>
-            <pubDate>Thu, 25 Nov 2021 11:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[식린이들을 위한 가이드! 효정과 함께 반려 식물의 매력에 빠져보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/e246902d-1a12-4e92-8742-40d639ae309d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피지컬+디지털=피지털 시대 ! (엘르 코리아 ─ 컬쳐)]]></title>
