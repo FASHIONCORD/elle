@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 15:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 16:36:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1385,6 +1385,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/2dc2f3f6-cca9-4aab-8c2f-1d044df0fce5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[살바도르 달리의 전시가 한국에 상륙했다! (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/61584</link>
+            <guid>https://www.elle.co.kr/article/61584</guid>
+            <pubDate>Sun, 28 Nov 2021 16:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[독보적인 예술가, 살바도르 달리. 그의 원화를 만날 수 있는 대규모 전시가 한국에 상륙했다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/03fdf3bb-3c15-4ffd-a28b-2ce984d0fdeb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피지컬+디지털=피지털 시대 ! (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/61492</link>
             <guid>https://www.elle.co.kr/article/61492</guid>
@@ -1479,14 +1487,6 @@
             <pubDate>Fri, 01 Oct 2021 09:06:47 GMT</pubDate>
             <content:encoded><![CDATA[미술 애호가들이라면 가을 나들이 코스에 반드시 넣어야 할 전시들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/59e29d89-86f7-4b40-95c9-12d2c0729e87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션월드도 사로잡은 NFT! 그게 대체 뭐길래? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/58873</link>
-            <guid>https://www.elle.co.kr/article/58873</guid>
-            <pubDate>Fri, 01 Oct 2021 09:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[손에 잡히지 않아 더 감질나는 '오리지널'의 매력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/0e849f18-17a4-4f9d-8df6-7fa8937e7ad8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말 모임에 딱! 오감을 모두 만족 시킬 와인 바 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
