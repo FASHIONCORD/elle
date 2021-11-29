@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 04:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 05:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HOLIDAY DREAM]]></title>
+            <link>https://www.elle.co.kr/article/61364</link>
+            <guid>https://www.elle.co.kr/article/61364</guid>
+            <pubDate>Mon, 29 Nov 2021 05:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[꿈속의 한 장면처럼 기억될 우리의 홀리데이 드림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/87191eb1-ab86-43c9-8352-d716e250452e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연예계 대표 사랑꾼 김재우가 아내를 위해 만든 다이어트 식단은? (feat. 뜻밖의 반응)]]></title>
             <link>https://www.elle.co.kr/article/61467</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 01:02:57 GMT</pubDate>
             <content:encoded><![CDATA[설현, 현아 등 스타들도 푹 빠진 클라이밍. 클라이밍 그 매력 탐구! 운동을 시작해볼까요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/e4e0bda0-fdb3-4156-81b4-885ff694cbc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홈트 고민이라면? 여배우의 ‘홈 트레이닝 루틴’ 상세가이드!]]></title>
-            <link>https://www.elle.co.kr/article/61332</link>
-            <guid>https://www.elle.co.kr/article/61332</guid>
-            <pubDate>Tue, 23 Nov 2021 01:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 오윤아가 44사이즈를 유지하는 비결은? 여배우가 직접 공개하는 시크릿 홈트 루틴을 공개...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/3d2f30e7-25d4-4608-aa46-37ac7f1b429b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
