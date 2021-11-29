@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 01:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 02:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -921,14 +921,6 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjJfMTEz/MDAxNjE2Mzk0ODIwNzc1.RA_g9jvc-qmWTqdgSiDalBQ7qxaa04uWrnfRvxE158Mg._wuyXvnkgg6U0Vvj22Vejg5emhLVJ7QBa4iQLlxECbwg.JPEG/Im6QWZuvR7Lndr83CsASlzgFE84o.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쇼트 패딩의 계절 5 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/61526</link>
-            <guid>https://www.elle.co.kr/article/61526</guid>
-            <pubDate>Sat, 27 Nov 2021 01:00:21 GMT</pubDate>
-            <content:encoded><![CDATA[셀러브리티가 옷장에서 꺼내든 ‘잇’ 아이템! 스타들의 쇼트 패딩 룩을 참고해 보온성도 지키고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/09b5ace1-262d-48c5-8643-670943bab7b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[몽클레르의 지니어스 게임 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/61521</link>
             <guid>https://www.elle.co.kr/article/61521</guid>
@@ -983,6 +975,14 @@
             <pubDate>Thu, 25 Nov 2021 05:18:26 GMT</pubDate>
             <content:encoded><![CDATA[외모와 스타일은 물론 말투까지 다이애나 전 왕세자비의 도플갱어로 변신한 크리스틴 스튜어트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/0a326579-2776-4b60-ac46-55e7a7d1b33c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올겨울 유행 아이템 ‘바라클라바’ 쇼핑리스트 7 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/61402</link>
+            <guid>https://www.elle.co.kr/article/61402</guid>
+            <pubDate>Mon, 29 Nov 2021 02:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[가면이야? 모자야? 패션 아이템으로 자리잡은 바라클라바 구매 좌표.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/97e3e4c1-fed7-4cf7-ac76-7c3f00d8a891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특별한 홀리데이의 세계로 (엘르 코리아 ─ 뷰티)]]></title>
