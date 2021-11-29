@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 09:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 10:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷 잘 입는 스타들의 부츠 신는 법 6]]></title>
+            <link>https://www.elle.co.kr/article/61574</link>
+            <guid>https://www.elle.co.kr/article/61574</guid>
+            <pubDate>Mon, 29 Nov 2021 10:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[선미부터 제니까지 개성으로 똘똘 뭉친 스타들의 부츠 스타일링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/fcd3df38-d8be-4218-af0c-53c76a7b715a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀로 맛보는 사탕? 후디의 목소리!]]></title>
             <link>https://www.elle.co.kr/article/61571</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 08:25:14 GMT</pubDate>
             <content:encoded><![CDATA[무한대의 매력을 지닌 NCT 태용.강인한 에너지와 자신감이 스파크를 일으켰다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/ed4e9744-bf72-44a5-9591-262e2ec1a35b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 부는 사극 열풍, ‘연모’·‘어사와 조이’·‘옷소매 붉은 끝동’의 공통점은?]]></title>
-            <link>https://www.elle.co.kr/article/61512</link>
-            <guid>https://www.elle.co.kr/article/61512</guid>
-            <pubDate>Fri, 26 Nov 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[포인트는 '로맨스 사극'이라는 점.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/5a912d34-85fb-43d0-b796-462e8f9e45aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
