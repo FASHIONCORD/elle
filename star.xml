@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 15:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 16:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서로의 불씨를 당겨 강력한 빛을 내뿜는 자이언티와 슬롬 #쇼미더머니10]]></title>
+            <link>https://www.elle.co.kr/article/61582</link>
+            <guid>https://www.elle.co.kr/article/61582</guid>
+            <pubDate>Mon, 29 Nov 2021 16:33:09 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;쇼미더머니10&gt;에서 두 남자가 수높은 위대한 밤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/28/ca62dc48-e24d-4776-90dd-20d2d3a4797d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옷 잘 입는 스타들의 부츠 신는 법 6]]></title>
             <link>https://www.elle.co.kr/article/61574</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 16:31:54 GMT</pubDate>
             <content:encoded><![CDATA[김태리는 옆에 놓인 의자를 내어줄 용의가 있는 사람이다. 느낌표와 물음표를 잔뜩 던지고 와르...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/6c7f10cb-0b5d-4a84-9163-afe91369ec75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독보적인 존재감을 각인시킨 NCT 태용의 파워풀한 에너지]]></title>
-            <link>https://www.elle.co.kr/article/61504</link>
-            <guid>https://www.elle.co.kr/article/61504</guid>
-            <pubDate>Fri, 26 Nov 2021 08:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[무한대의 매력을 지닌 NCT 태용.강인한 에너지와 자신감이 스파크를 일으켰다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/ed4e9744-bf72-44a5-9591-262e2ec1a35b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
