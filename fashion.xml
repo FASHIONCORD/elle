@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 10:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 11:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 디지털 세상 속으로]]></title>
+            <link>https://www.elle.co.kr/article/61381</link>
+            <guid>https://www.elle.co.kr/article/61381</guid>
+            <pubDate>Mon, 29 Nov 2021 11:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[모델 아이린이 표현한 디지털 세상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쇼트 패딩의 계절 5]]></title>
             <link>https://www.elle.co.kr/article/61526</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 Nov 2021 17:24:54 GMT</pubDate>
             <content:encoded><![CDATA[런던, 파리, 밀란, 런던에서 열린 2022 봄/여름 컬렉션에서 포착한 패션 피플.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/c133757c-c776-4455-b309-06efa9812605.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱크로율 100% ! 크리스틴 스튜어트 VS 다이애나 비]]></title>
-            <link>https://www.elle.co.kr/article/61405</link>
-            <guid>https://www.elle.co.kr/article/61405</guid>
-            <pubDate>Thu, 25 Nov 2021 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[외모와 스타일은 물론 말투까지 다이애나 전 왕세자비의 도플갱어로 변신한 크리스틴 스튜어트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/0a326579-2776-4b60-ac46-55e7a7d1b33c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
