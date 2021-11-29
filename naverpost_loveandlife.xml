@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 02:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 03:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 28 Nov 2021 23:19:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjhfMTEx/MDAxNjM4MTA5NDMxMDQw.zlFYCVx2pNhLlv9ZH3PCW8JepSKONaerRZj8fpXnJHYg.Dsmnyl-6MmtgCkHRUlWeNPohv-MQrHke6ztTpa_me5Qg.PNG/Ih-eUgvE8jjlSIMJLu_bO9gu8ktQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우주적 영감으로 가득 찬 아이템]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32842013&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32842013&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 29 Nov 2021 03:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjhfMzkg/MDAxNjM4MTA1OTMyMTU1.LAPykVFOK39VygH-Bg8UC8QJb8WJQbZJiAEOHm9y3NAg.ZSZXk4xLG7hTz352g7j22wv73qg5iCHKBNAi5qE4fswg.JPEG/Ipjgi32UqAJy7YOyo6FC5u0pCVuE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벌써 입소문 자자! 네이버지도 저장각 가로수길 신상 맛집 3]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 04 Nov 2021 23:19:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDVfMjAx/MDAxNjM2MDQyNDgzNzI3.MQ1KOGY3V0IVWT1evcGHfOWJhsUkEgShYLynq6s5684g.v9udAHBC9m6srOZ9H4tFtAbvsD4r9XAiTafZ4uCXZlog.PNG/ISQrVFeNwVj9sHxDyHKtiQMt74DI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸음마다 힐링! 한 번 가면 잊을 수 없는 옥천 명소 3]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32683093&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32683093&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Wed, 03 Nov 2021 23:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDRfMTQz/MDAxNjM1OTU0OTc4MjMx.ORz-EgNQMR1cGzBDyrRp3TzrehRXD-bWgWKkCv27Sx0g.t7Z2T29AzbbeuMz9r0wsvAavHH5oBGZ0EQB0SuOFiycg.PNG/IGlPYKdMdpRND5-CW8AKiyNBtTWo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
