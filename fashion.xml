@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 02:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 03:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷 잘 입는 스타들의 부츠 신는 법 6]]></title>
+            <link>https://www.elle.co.kr/article/61574</link>
+            <guid>https://www.elle.co.kr/article/61574</guid>
+            <pubDate>Tue, 30 Nov 2021 03:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[선미부터 제니까지 개성으로 똘똘 뭉친 스타들의 부츠 스타일링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/fcd3df38-d8be-4218-af0c-53c76a7b715a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알레산드로 미켈레의 할리우드 상륙 작전]]></title>
             <link>https://www.elle.co.kr/article/61569</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 09:20:06 GMT</pubDate>
             <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 제일 잘 나가! 릴 나스 엑스의 패션 센스]]></title>
-            <link>https://www.elle.co.kr/article/61444</link>
-            <guid>https://www.elle.co.kr/article/61444</guid>
-            <pubDate>Thu, 25 Nov 2021 23:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[실험적이고 파격적이다. 릴 나스 엑스의 남다른 패션 감각.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/989fb3a3-33bd-4646-911a-f8d1593a74c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
