@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 16:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 17:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1409,6 +1409,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/d5b94c5e-70fe-458a-bde3-668dfa091ba5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여자들의 여정 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/61682</link>
+            <guid>https://www.elle.co.kr/article/61682</guid>
+            <pubDate>Tue, 30 Nov 2021 17:31:09 GMT</pubDate>
+            <content:encoded><![CDATA[별처럼 쏟아지는 여자들의 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/a58c6b1b-c424-409b-85ca-79beef52d555.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[근대 조각가의 영원한 정신성을 현대 사진으로 포착한 '불멸의 초상' #인싸 전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/61613</link>
             <guid>https://www.elle.co.kr/article/61613</guid>
@@ -1503,14 +1511,6 @@
             <pubDate>Wed, 06 Oct 2021 15:23:46 GMT</pubDate>
             <content:encoded><![CDATA[20여 년에 걸친 세월의 흔적을 켜켜이 입은 낡은 빌라가 상상력과 즉흥적인 DNA를 지닌 새...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/b1b71253-1065-4c7b-bf33-f9b3b6637693.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델하우스 맞아? 멋지게 변신한 이곳 #원에디션아트스페이스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/59068</link>
-            <guid>https://www.elle.co.kr/article/59068</guid>
-            <pubDate>Tue, 05 Oct 2021 15:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[견본 주택이 대중과 소통하는 아트 공간으로 멋지게 탈바꿈했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1f02ed77-762b-472c-8619-2afbf2b1bd26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[거실 속 작고 아름다운 정원 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
