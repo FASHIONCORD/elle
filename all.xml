@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 14:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 15:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1009,6 +1009,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아는 사람만 안다?! 뷰티 브랜드의 숨은 꿀템.list (feat. 프레쉬, 헉슬리, 록시땅) (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/61545</link>
+            <guid>https://www.elle.co.kr/article/61545</guid>
+            <pubDate>Tue, 30 Nov 2021 15:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드 담당자가 직접 전한 히든 꿀템은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/ef87d187-f68a-4b4e-bf44-5ed6f6076648.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레이저 시술, 친구 따라 강남 간다?_몸에 좋은 잔소리 #33 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/61534</link>
             <guid>https://www.elle.co.kr/article/61534</guid>
@@ -1063,14 +1071,6 @@
             <pubDate>Thu, 25 Nov 2021 03:22:35 GMT</pubDate>
             <content:encoded><![CDATA[안면 홍조에서 벗어나기 방법은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/088485fd-a2e6-402a-ab88-b40a5470b0a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 룩 '꾸안꾸' 찰떡! 헤어밴드를 한 스타 OOTD (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/61353</link>
-            <guid>https://www.elle.co.kr/article/61353</guid>
-            <pubDate>Tue, 23 Nov 2021 15:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 스타들의 데일리 룩에서 자주 포착되는 헤어밴드 스타일을 모아봤어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/4cf9eca7-ff5b-4eba-81bf-ca8f9c124b33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림이 부르는 영원한 노래, #자우림 완전체 패션 화보! (엘르 코리아 ─ 스타)]]></title>
