@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 15:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 16:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1137,6 +1137,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/12a83cf1-1b21-4b64-a8ac-bfd0a198c181.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[살바도르 달리의 전시가 한국에 상륙했다! (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/61584</link>
+            <guid>https://www.elle.co.kr/article/61584</guid>
+            <pubDate>Sun, 28 Nov 2021 16:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[독보적인 예술가, 살바도르 달리. 그의 원화를 만날 수 있는 대규모 전시가 한국에 상륙했다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/03fdf3bb-3c15-4ffd-a28b-2ce984d0fdeb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연말을 위한 완벽한 선물. 이토록 품격있는 책 한 권. (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/61579</link>
             <guid>https://www.elle.co.kr/article/61579</guid>
@@ -1191,14 +1199,6 @@
             <pubDate>Wed, 24 Nov 2021 17:30:14 GMT</pubDate>
             <content:encoded><![CDATA[가상과 현실의 경계를 무너뜨리는 피지털 패션의 시대가 도래했다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/f5a970d5-7ceb-4d8d-af61-7786d06291da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뺏긴 지 하루 만에 넷플릭스 세계 1위 탈환한 K-드라마가 있다? 벌써 열린 '지옥' 흥행문 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/61477</link>
-            <guid>https://www.elle.co.kr/article/61477</guid>
-            <pubDate>Wed, 24 Nov 2021 08:27:48 GMT</pubDate>
-            <content:encoded><![CDATA['오징어게임' 급 장기 흥행 조짐.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b19c16f9-626d-4b20-92ce-c76c7d7e5805.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단이 디자이너 버질 아블로 사망에 각별한 애도를 전한 까닭 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
