@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 07:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 08:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙 & 시크! 블랙핑크 로제의 스타일 탐구 #옷잘입는언니]]></title>
+            <link>https://www.elle.co.kr/article/61625</link>
+            <guid>https://www.elle.co.kr/article/61625</guid>
+            <pubDate>Tue, 30 Nov 2021 08:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계적인 사랑을 받는 아티스트이자 글로벌 패션 &amp; 뷰티 브랜드의 뮤즈인 블랙핑크 로제. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/e390df2c-9bcb-47c6-8ff1-1a3694f77394.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단이 디자이너 버질 아블로 사망에 각별한 애도를 전한 까닭]]></title>
             <link>https://www.elle.co.kr/article/61623</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 01:03:46 GMT</pubDate>
             <content:encoded><![CDATA[자취방 콘셉트는 '일탈'.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/d11c6aea-c878-4f06-8f88-6af890c5d575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라인업 무슨 일? 산다라박 동생부터 원조 사이버가수 아담까지 나오는 '싱어게인2' 출연자.list]]></title>
-            <link>https://www.elle.co.kr/article/61537</link>
-            <guid>https://www.elle.co.kr/article/61537</guid>
-            <pubDate>Sat, 27 Nov 2021 23:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[12월6일 방송 시작.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/efd549fe-e1e9-4f6c-a3ad-3bed913c875d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
