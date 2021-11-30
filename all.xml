@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 10:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 11:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1073,6 +1073,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/4cf9eca7-ff5b-4eba-81bf-ca8f9c124b33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자우림이 부르는 영원한 노래, #자우림 완전체 패션 화보! (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/61637</link>
+            <guid>https://www.elle.co.kr/article/61637</guid>
+            <pubDate>Tue, 30 Nov 2021 11:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[영원을 믿지 않는다고 말하지만 자우림의 노래는 영원할 것 같다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/8324e0db-15a4-49d5-8ed6-f177d034aa6f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[힙 & 시크! 블랙핑크 로제의 스타일 탐구 #옷잘입는언니 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/61625</link>
             <guid>https://www.elle.co.kr/article/61625</guid>
@@ -1127,14 +1135,6 @@
             <pubDate>Mon, 29 Nov 2021 09:22:20 GMT</pubDate>
             <content:encoded><![CDATA[바쁜 발걸음, 불필요한 언어와 소음으로 어지러운 세상 속을 유유히 가로지는 후디의 멜로디.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/12a83cf1-1b21-4b64-a8ac-bfd0a198c181.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[38년 만에 자취 시작한 산다라박이 최초 공개한 자택과 첫 집들이 현장 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/61544</link>
-            <guid>https://www.elle.co.kr/article/61544</guid>
-            <pubDate>Fri, 26 Nov 2021 08:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[자취방 콘셉트는 '일탈'.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/d11c6aea-c878-4f06-8f88-6af890c5d575.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말을 위한 완벽한 선물. 이토록 품격있는 책 한 권. (엘르 코리아 ─ 컬쳐)]]></title>
