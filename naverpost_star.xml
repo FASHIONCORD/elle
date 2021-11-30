@@ -4,17 +4,9 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ STAR</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 09:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 10:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[코드 쿤스트, 이찬혁, 콜드, 소금, 배우 윤계상과 문가영 <엘르> 'RECONNECT']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32845697&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32845697&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 29 Nov 2021 05:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfODkg/MDAxNjM4MTYyMzY0NjA4.85vXNUjyT6OZLjAldwFwrwPhIgfxZaMO1G5AlLggLWgg.nkPTgwiljYW5E8ZU3knDE7QoMdni9GmcjGqKoq69_CQg.JPEG/Ibd9TJAHpYTXsP_o6NB4XYjUz78k.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[20년 깐부 정우성X이정재 서사]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32764627&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 02 Oct 2021 09:30:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMjBfNTAg/MDAxNjEzNzYwMjAyMDAy.ICjyqbeJ5KCrRIg7xAFNMSRp5x6BJvWhfHWlinJS-XEg.pjp-tIrkoWpxsx29dtPL0ydw7D4AOf8rBVCXKkG6-Ckg.PNG/I9Xs-Vq9vGnXDPp2OVesMnKw5zxA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스 화제작 <승리호>를 꼭 봐야하는 이유]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30675304&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30675304&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 30 Nov 2021 10:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMDlfMjE4/MDAxNjEyNzk4NTk4NTQ4.FGoMIMIdSiro8qrrExEu2EDVBWoPPjvGjRAKlBW1-VYg._xUkDxnT9lM5VHR7YkRHYRbQhJQv6bxO6MUXVWq0jTQg.PNG/I-NEMRxYosA4CbpV1brl_bz3D5nQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
