@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 21:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 22:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주적 영감으로 가득 찬 아이템]]></title>
+            <link>https://www.elle.co.kr/article/61423</link>
+            <guid>https://www.elle.co.kr/article/61423</guid>
+            <pubDate>Tue, 30 Nov 2021 22:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[우주적 영감으로 가득 찬 2021년의 패션&amp;뷰티 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/7a2ea904-31f4-4c41-b201-752ff617595d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동양의 반짝임]]></title>
             <link>https://www.elle.co.kr/article/61508</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 27 Nov 2021 00:59:26 GMT</pubDate>
             <content:encoded><![CDATA[꿈속의 한 장면처럼 기억될 우리의 홀리데이 드림.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/87191eb1-ab86-43c9-8352-d716e250452e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로 나온 빅 백 5]]></title>
-            <link>https://www.elle.co.kr/article/61494</link>
-            <guid>https://www.elle.co.kr/article/61494</guid>
-            <pubDate>Fri, 26 Nov 2021 17:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[다이어리부터 텀블러, 파우치까지 보따리장수를 위한 빅 백 쇼핑 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/915a8e11-7f8a-414d-ab23-42e67b3923d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

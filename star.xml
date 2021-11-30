@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 21:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 22:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[군백기 잊게 하는 얼굴. #서강준 엘르 화보 촬영]]></title>
+            <link>https://www.elle.co.kr/article/61564</link>
+            <guid>https://www.elle.co.kr/article/61564</guid>
+            <pubDate>Tue, 30 Nov 2021 22:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[원조 얼굴천재, 서강준이 입대 전 엘르와 만났다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/cb47de09-b748-4017-8522-bc43b8e8be49.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자우림이 부르는 영원한 노래, #자우림 완전체 패션 화보!]]></title>
             <link>https://www.elle.co.kr/article/61637</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 10:23:49 GMT</pubDate>
             <content:encoded><![CDATA[선미부터 제니까지 개성으로 똘똘 뭉친 스타들의 부츠 스타일링.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/fcd3df38-d8be-4218-af0c-53c76a7b715a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀로 맛보는 사탕? 후디의 목소리!]]></title>
-            <link>https://www.elle.co.kr/article/61571</link>
-            <guid>https://www.elle.co.kr/article/61571</guid>
-            <pubDate>Mon, 29 Nov 2021 09:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[바쁜 발걸음, 불필요한 언어와 소음으로 어지러운 세상 속을 유유히 가로지는 후디의 멜로디.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/12a83cf1-1b21-4b64-a8ac-bfd0a198c181.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
