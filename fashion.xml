@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 19:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 20:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동양의 반짝임]]></title>
+            <link>https://www.elle.co.kr/article/61508</link>
+            <guid>https://www.elle.co.kr/article/61508</guid>
+            <pubDate>Tue, 30 Nov 2021 20:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[정제된 매너로 담아낸 여덟 장의 화인 주얼리 포트레이트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/7c8004b9-cbea-45f8-a4f5-6155f7756f3d.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[옷 잘 입는 스타들의 부츠 신는 법 6]]></title>
             <link>https://www.elle.co.kr/article/61574</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 17:24:35 GMT</pubDate>
             <content:encoded><![CDATA[다이어리부터 텀블러, 파우치까지 보따리장수를 위한 빅 백 쇼핑 리스트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/915a8e11-7f8a-414d-ab23-42e67b3923d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 홀리데이의 세계로]]></title>
-            <link>https://www.elle.co.kr/article/61453</link>
-            <guid>https://www.elle.co.kr/article/61453</guid>
-            <pubDate>Fri, 26 Nov 2021 09:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
