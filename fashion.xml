@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 15:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 16:37:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Printers in the eco-friendly era]]></title>
+            <link>https://www.elle.co.kr/article/61661</link>
+            <guid>https://www.elle.co.kr/article/61661</guid>
+            <pubDate>Wed, 01 Dec 2021 16:30:44 GMT</pubDate>
+            <content:encoded><![CDATA[엡손과 VLEEDA의 콜라보레이션이 새로운 친환경 패션의 서막을 연다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/c9b021bc-5d62-48f8-9a0c-db364533a6bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EVERYDAY HOLIDAY]]></title>
             <link>https://www.elle.co.kr/article/61369</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 16:31:19 GMT</pubDate>
             <content:encoded><![CDATA[낭만으로 가득한 알레산드로 미켈레의 할리우드 상륙 작전.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/bebd86cf-d332-4425-a28a-bfd43cedee12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 디지털 세상 속으로]]></title>
-            <link>https://www.elle.co.kr/article/61381</link>
-            <guid>https://www.elle.co.kr/article/61381</guid>
-            <pubDate>Mon, 29 Nov 2021 11:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[모델 아이린이 표현한 디지털 세상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
