@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 23:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 01:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데뷔 20년 만에 숏컷하고 '런닝맨'에서 제일 잘생겨진 송지효.jpg]]></title>
+            <link>https://www.elle.co.kr/article/61657</link>
+            <guid>https://www.elle.co.kr/article/61657</guid>
+            <pubDate>Wed, 01 Dec 2021 01:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[모두를 충격에 빠뜨린 깜짝 변신.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/ad127987-d5d6-44ca-8403-edd71070b3e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[군백기 잊게 하는 얼굴. #서강준 엘르 화보 촬영]]></title>
             <link>https://www.elle.co.kr/article/61564</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 16:33:09 GMT</pubDate>
             <content:encoded><![CDATA[&lt;쇼미더머니10&gt;에서 두 남자가 수높은 위대한 밤.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/28/ca62dc48-e24d-4776-90dd-20d2d3a4797d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷 잘 입는 스타들의 부츠 신는 법 6]]></title>
-            <link>https://www.elle.co.kr/article/61574</link>
-            <guid>https://www.elle.co.kr/article/61574</guid>
-            <pubDate>Mon, 29 Nov 2021 10:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[선미부터 제니까지 개성으로 똘똘 뭉친 스타들의 부츠 스타일링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/fcd3df38-d8be-4218-af0c-53c76a7b715a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
