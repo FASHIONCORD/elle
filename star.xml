@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 16:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 17:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스우파' 리더즈가 '스걸파' 선생님이 된다면? 캐릭터 확실히 보이는 급훈 모음 (feat. 서예가 딸)]]></title>
+            <link>https://www.elle.co.kr/article/61670</link>
+            <guid>https://www.elle.co.kr/article/61670</guid>
+            <pubDate>Wed, 01 Dec 2021 17:28:37 GMT</pubDate>
+            <content:encoded><![CDATA["뽐" - 가비]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/d16b8600-4baa-4ac0-bc74-9618a9a85993.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TV 속 개성 만점 여성들이 뜬다]]></title>
             <link>https://www.elle.co.kr/article/61663</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 05:15:58 GMT</pubDate>
             <content:encoded><![CDATA[코드 쿤스트, 이찬혁, 콜드, 소금 그리고 배우 윤계상과 문가영. 가장 뜨거운 6인의 이름이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/b98cfd77-8b63-4b55-b228-a758095a0e9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이 55살 차이 나는 술친구 조합이 있다? 신구X박소담의 각별한 우정]]></title>
-            <link>https://www.elle.co.kr/article/61583</link>
-            <guid>https://www.elle.co.kr/article/61583</guid>
-            <pubDate>Tue, 30 Nov 2021 02:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[찐 할아버지-손녀 바이브.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/28/21a4156e-54ac-40b8-acb3-22a002ff536d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
