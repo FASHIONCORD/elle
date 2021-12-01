@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 06:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 07:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TV 속 개성 만점 여성들이 뜬다]]></title>
+            <link>https://www.elle.co.kr/article/61663</link>
+            <guid>https://www.elle.co.kr/article/61663</guid>
+            <pubDate>Wed, 01 Dec 2021 07:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[쎄도 돼! 악마 같아도 돼! 술 잘 마셔도 돼! 이전에는 쉽게 본 적 없었던 개성 만점 여성...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e35f832c-a8e4-4174-b0ca-817db9e3094e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데뷔 20년 만에 숏컷하고 '런닝맨'에서 제일 잘생겨진 송지효.jpg]]></title>
             <link>https://www.elle.co.kr/article/61657</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 02:23:36 GMT</pubDate>
             <content:encoded><![CDATA[찐 할아버지-손녀 바이브.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/28/21a4156e-54ac-40b8-acb3-22a002ff536d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서로의 불씨를 당겨 강력한 빛을 내뿜는 자이언티와 슬롬 #쇼미더머니10]]></title>
-            <link>https://www.elle.co.kr/article/61582</link>
-            <guid>https://www.elle.co.kr/article/61582</guid>
-            <pubDate>Mon, 29 Nov 2021 16:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;쇼미더머니10&gt;에서 두 남자가 수높은 위대한 밤.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/28/ca62dc48-e24d-4776-90dd-20d2d3a4797d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
