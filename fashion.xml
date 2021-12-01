@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 10:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 11:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EVERYDAY HOLIDAY]]></title>
+            <link>https://www.elle.co.kr/article/61369</link>
+            <guid>https://www.elle.co.kr/article/61369</guid>
+            <pubDate>Wed, 01 Dec 2021 11:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너를 기다려, #샤넬]]></title>
             <link>https://www.elle.co.kr/article/61636</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 11:16:37 GMT</pubDate>
             <content:encoded><![CDATA[모델 아이린이 표현한 디지털 세상.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼트 패딩의 계절 5]]></title>
-            <link>https://www.elle.co.kr/article/61526</link>
-            <guid>https://www.elle.co.kr/article/61526</guid>
-            <pubDate>Mon, 29 Nov 2021 03:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[셀러브리티가 옷장에서 꺼내든 ‘잇’ 아이템! 스타들의 쇼트 패딩 룩을 참고해 보온성도 지키고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/09b5ace1-262d-48c5-8643-670943bab7b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
