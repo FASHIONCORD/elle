@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 22:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 23:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽이 다녀간 제주 HOT플레이스 세 곳]]></title>
+            <link>https://www.elle.co.kr/article/66530</link>
+            <guid>https://www.elle.co.kr/article/66530</guid>
+            <pubDate>Mon, 30 May 2022 23:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[먹잘알 비가 다녀온 맛집부터 블랙핑크 지수가 들른 산책로까지! 스타들이 방문한 제주도 핫 플...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/d08000a4-ca07-46bc-af4b-93810b6482ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램 속 외국 식탁 바이브, 이젠 동네 그로서리 스토어로 느껴봐]]></title>
             <link>https://www.elle.co.kr/article/66518</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/66321</guid>
             <pubDate>Tue, 24 May 2022 02:36:42 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/c2a0b131-9b5d-4fb2-bf06-b7dd5cf4e4d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[날 잡고 따라가고 싶은 김나영 픽 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/66320</link>
-            <guid>https://www.elle.co.kr/article/66320</guid>
-            <pubDate>Tue, 24 May 2022 02:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[핫한 에스프레소 바부터 냉면 맛집까지! 김나영이 방문한 핫 플레이스를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/c2fa5ae2-b391-491d-b777-dbf37fd6a747.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
