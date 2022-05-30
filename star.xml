@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 14:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 15:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유일무이 남매 스페셜! No.1 선미네 삼남매의 멋진 가족사진]]></title>
+            <link>https://www.elle.co.kr/article/66686</link>
+            <guid>https://www.elle.co.kr/article/66686</guid>
+            <pubDate>Mon, 30 May 2022 15:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[소중한 사람을 소중하게 대할 것! 무던한 듯 애틋한 이선미, 이동, 이승동 삼남매의 어린 시절...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/6e811d5b-14a9-4f53-8d3f-4674dc2263d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 제일 바쁜 남자, 강승윤과 보낸 하루]]></title>
             <link>https://www.elle.co.kr/article/66685</link>
@@ -61,14 +69,6 @@
             <pubDate>Sat, 28 May 2022 05:16:02 GMT</pubDate>
             <content:encoded><![CDATA[건강한 활력과&nbsp;에너지를 전파 중인 K남매. 조나단과 파트리샤는 결코 지치는 법이 없다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/9c0ebae1-7228-4904-9ed4-2614652078c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전소미·모모의 11자 복근, 하루 10분만 투자하면 된다고? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/66681</link>
-            <guid>https://www.elle.co.kr/article/66681</guid>
-            <pubDate>Sat, 28 May 2022 05:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[다만 그 10분 동안은 자신과의 싸움...★]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/c5c5c23b-83b3-4c0c-b9ee-51ac985af241.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
