@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 06:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 07:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 제일 바쁜 남자, 강승윤과 보낸 하루]]></title>
+            <link>https://www.elle.co.kr/article/66685</link>
+            <guid>https://www.elle.co.kr/article/66685</guid>
+            <pubDate>Mon, 30 May 2022 07:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[태연하고 여유롭게 스물아홉을 산책 중인 강승윤의 초여름]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/2161b754-7a37-4168-85fc-3527fe5b9887.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청춘 재발견! 하성운과 권은비가 그리는 투명하고 청량한 '태양의 노래']]></title>
+            <link>https://www.elle.co.kr/article/66784</link>
+            <guid>https://www.elle.co.kr/article/66784</guid>
+            <pubDate>Mon, 30 May 2022 07:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬 &lt;태양의 노래&gt; 속  '하람'과 '해나'로 만난 두 사람.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/c88f27ca-a8bb-4f04-a2e8-3df309e4e866.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첫 상업영화로 칸 레드카펫 밟은 아이유! 눈물의 시사부터 어깨 밀침 사건까지?]]></title>
             <link>https://www.elle.co.kr/article/66771</link>
@@ -53,22 +69,6 @@
             <pubDate>Sat, 28 May 2022 05:16:02 GMT</pubDate>
             <content:encoded><![CDATA[다만 그 10분 동안은 자신과의 싸움...★]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/c5c5c23b-83b3-4c0c-b9ee-51ac985af241.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤 불순물도 희석해 버리는 힘, 순도 100%의 로제]]></title>
-            <link>https://www.elle.co.kr/article/66677</link>
-            <guid>https://www.elle.co.kr/article/66677</guid>
-            <pubDate>Sat, 28 May 2022 05:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[그 어떤 불순물도 로제의 본질을 침범하지 못한다. 로제는 자기만의 방식으로 모든 것을 희석해...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/a100b559-0ee6-4c87-95d2-f03b3f5c6a0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3인 3색 스타일 대결! '그린마더스클럽' 이요원 vs 추자현 vs 김규리 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/66664</link>
-            <guid>https://www.elle.co.kr/article/66664</guid>
-            <pubDate>Sat, 28 May 2022 05:16:02 GMT</pubDate>
-            <content:encoded><![CDATA['대한민국 엄마라면 피할 수 없다'. JTBC 드라마 '그린마더스클럽'으로 돌아온 세 배우의 드라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/294eadd8-c498-4c03-83d7-b0dea6ff5c9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
