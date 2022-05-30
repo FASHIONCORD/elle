@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 09:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 10:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1317,6 +1317,13 @@
             <content:encoded><![CDATA[전 세대를 아우르는 K-POP 스타들의 모임.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['나의 해방일지' 삼남매와 구씨가 보여 준 추앙과 환대, 그리고 진짜 해방 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/66823</link>
+            <guid>https://www.elle.co.kr/article/66823</guid>
+            <pubDate>Mon, 30 May 2022 10:21:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/fba233f5-1e17-48b1-8541-0edc86030854.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이게 가능해? 송강호·박찬욱 칸 영화제 수상으로 바뀌어 버린 한국 영화사 목록.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/66820</link>
             <guid>https://www.elle.co.kr/article/66820</guid>
@@ -1345,7 +1352,6 @@
             <guid>https://www.elle.co.kr/article/66731</guid>
             <pubDate>Sat, 28 May 2022 03:13:23 GMT</pubDate>
             <content:encoded><![CDATA[벌써부터 기대중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/7d473533-9659-4376-b489-faf1f7250b28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[난 슬플 때 드라마를 봐! 울고 싶을 때 보기 좋은 감성 드라마 추천 3 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1400,13 +1406,6 @@
             <guid>https://www.elle.co.kr/article/66025</guid>
             <pubDate>Sat, 28 May 2022 03:13:23 GMT</pubDate>
             <content:encoded><![CDATA[진한 여운 속 시즌1 종영.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[K 콘텐츠가 뜬다? 넷플릭스가 추적한 N번방 사건 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/65955</link>
-            <guid>https://www.elle.co.kr/article/65955</guid>
-            <pubDate>Sat, 28 May 2022 03:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국을 분노하게 한 N번방 사건을 주목한 다큐멘터리가 등장했습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3년만에 돌아왔다! 웰컴백 베니스비엔날레 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
