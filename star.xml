@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 01:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 03:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두들 <태어나길 잘했어>!]]></title>
+            <link>https://www.elle.co.kr/article/66796</link>
+            <guid>https://www.elle.co.kr/article/66796</guid>
+            <pubDate>Tue, 31 May 2022 03:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[최진영 감독과의 따뜻한 인터뷰]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/2ebd70d3-7869-4ec9-b46e-ac7416be8ff7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K콘텐츠의 파동 위에 선 두 여성의 조우, 스튜디오N 권미경 대표&<시맨틱 에러> 김수정 감독]]></title>
+            <link>https://www.elle.co.kr/article/66793</link>
+            <guid>https://www.elle.co.kr/article/66793</guid>
+            <pubDate>Tue, 31 May 2022 03:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[K콘텐츠'라는 이름이 어느 때보다 당당하게 불리는 지금. 콘텐츠의 장르와 형식이 뒤섞이며 놀라...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/d65a83f6-ba6d-4831-a718-fe3523c76531.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유일무이 남매 스페셜! No.1 선미네 삼남매의 멋진 가족사진]]></title>
             <link>https://www.elle.co.kr/article/66686</link>
@@ -53,22 +69,6 @@
             <pubDate>Sat, 28 May 2022 15:16:50 GMT</pubDate>
             <content:encoded><![CDATA[선과 악, 낭만과 이성, 사랑과 증오, 그 어떤 얼굴로 불쑥 나타날지 예측 불가능한 김성철.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a607b925-7a2f-42b4-9c64-445727e5f9e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대세 배우들이 형사와 살인자로! 손석구X최우식이 검토 중이라는 넷플릭스 시리즈 내용]]></title>
-            <link>https://www.elle.co.kr/article/66731</link>
-            <guid>https://www.elle.co.kr/article/66731</guid>
-            <pubDate>Sat, 28 May 2022 05:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[벌써부터 기대중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/7d473533-9659-4376-b489-faf1f7250b28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조나단과 파트리샤의 행복한 티키타카]]></title>
-            <link>https://www.elle.co.kr/article/66666</link>
-            <guid>https://www.elle.co.kr/article/66666</guid>
-            <pubDate>Sat, 28 May 2022 05:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 활력과&nbsp;에너지를 전파 중인 K남매. 조나단과 파트리샤는 결코 지치는 법이 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/9c0ebae1-7228-4904-9ed4-2614652078c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
