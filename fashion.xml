@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 15:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 16:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명품 패션하우스가 인정한 국가대표 아티스트는 바로 이 사람]]></title>
+            <link>https://www.elle.co.kr/article/66724</link>
+            <guid>https://www.elle.co.kr/article/66724</guid>
+            <pubDate>Tue, 31 May 2022 16:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[디올이 고르고, 구찌가 모시고, 루이 비통이 선택한 국내 작가들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/10f87baa-cb7e-41f3-b039-2160e60de487.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3인 3색 스타일 대결! '그린마더스클럽' 이요원 vs 추자현 vs 김규리 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/66664</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 28 May 2022 04:19:43 GMT</pubDate>
             <content:encoded><![CDATA[가벼워지는 옷차림에 포인트로 제격! 주얼리 활용법을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/dc45c6fc-19cd-4ac7-a8ac-3db51b1f7e86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인 앤 아웃' 100점짜리 필수템, 화사한 셔츠 쇼핑 리스트 6.]]></title>
-            <link>https://www.elle.co.kr/article/66584</link>
-            <guid>https://www.elle.co.kr/article/66584</guid>
-            <pubDate>Sat, 28 May 2022 04:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[‘패잘알’ 셀럽들도 사랑에 빠진 사계절 활용 만점 셔츠, 지금 당장 구매하세요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/1610ca19-1631-4a87-89b1-6089b9eade44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
