@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 18:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 19:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 샤넬 크리스틴 스튜어트의 칸 국제영화제 스타일링]]></title>
+            <link>https://www.elle.co.kr/article/66766</link>
+            <guid>https://www.elle.co.kr/article/66766</guid>
+            <pubDate>Wed, 01 Jun 2022 19:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[크리스틴 스튜어트가 칸 국제영화제에서 처음 선보인 1932 하이 주얼리 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/51919aa5-a51f-4861-9148-6bf7508760a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펜다체의 판타지아]]></title>
             <link>https://www.elle.co.kr/article/66798</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 28 May 2022 04:19:43 GMT</pubDate>
             <content:encoded><![CDATA[노을빛이 깊게 물든 서울의 오래된 거리에서 만난 샤넬의 공방 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/da239602-97b9-423d-ba54-62525c49b049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1938년에 움튼 모더니즘, 간송미술관 다시 살피기.]]></title>
-            <link>https://www.elle.co.kr/article/66637</link>
-            <guid>https://www.elle.co.kr/article/66637</guid>
-            <pubDate>Sat, 28 May 2022 04:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[낡은 것은 고치고 덜 갖춘 곳은 기워낼 것이다. 6월 5일까지 열리는 &lt;보화수보&gt; 전을 끝으로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/3a557cf6-fdbe-4b31-9d4b-a1113b0318f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
