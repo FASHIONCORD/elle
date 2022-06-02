@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 14:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 15:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/66924</link>
+            <guid>https://www.elle.co.kr/article/66924</guid>
+            <pubDate>Thu, 02 Jun 2022 15:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 콕 박히는 장들레의 일상적인 가사]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/09c1e3f7-8e07-44c0-ae77-d4c813131020.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 내한 공연 최신 업데이트.zip]]></title>
             <link>https://www.elle.co.kr/article/66709</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/66415</guid>
             <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[이게 진짜 플렉스지! 독일 프랑크푸르트에 카이와 아이브가 간 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/17dfc666-53f4-4138-bfe8-d3dcba12df88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“어떤 노래 들어요?” 선예의 플레이리스트]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/63680</guid>
             <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[밤을 가로질러 점점 더 또렷하게. AOMG라는 새로운 챕터 앞에 선 지금의 쿠기.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM에서 신인 걸그룹이?! 광야 콘서트로 데뷔하는 걸스온탑의 어마어마한 라인업]]></title>
-            <link>https://www.elle.co.kr/article/62523</link>
-            <guid>https://www.elle.co.kr/article/62523</guid>
-            <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[전 세대를 아우르는 K-POP 스타들의 모임.]]></content:encoded>
         </item>
     </channel>
 </rss>
