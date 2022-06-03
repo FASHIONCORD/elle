@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 01:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 03:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 그 자체인 '깐느박' 박찬욱과 '봉테일' 봉준호의 차기작 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/66854</link>
+            <guid>https://www.elle.co.kr/article/66854</guid>
+            <pubDate>Fri, 03 Jun 2022 03:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[하고 싶은 것 다 해...!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/25a0fc4b-44e8-4b96-b113-4568c4675ce6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['나의 해방일지' 삼남매와 구씨가 보여 준 추앙과 환대, 그리고 진짜 해방 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/66823</link>
+            <guid>https://www.elle.co.kr/article/66823</guid>
+            <pubDate>Fri, 03 Jun 2022 03:13:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/fba233f5-1e17-48b1-8541-0edc86030854.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이게 가능해? 송강호·박찬욱 칸 영화제 수상으로 바뀌어 버린 한국 영화사 목록.list]]></title>
             <link>https://www.elle.co.kr/article/66820</link>
@@ -53,22 +68,6 @@
             <pubDate>Mon, 30 May 2022 07:18:36 GMT</pubDate>
             <content:encoded><![CDATA[디올이 고르고, 구찌가 모시고, 루이 비통이 선택한 국내 작가들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/10f87baa-cb7e-41f3-b039-2160e60de487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 내한 공연 최신 업데이트.zip]]></title>
-            <link>https://www.elle.co.kr/article/66709</link>
-            <guid>https://www.elle.co.kr/article/66709</guid>
-            <pubDate>Mon, 30 May 2022 05:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[올해를 뜨겁게 달굴 내한 공연과 페스티벌.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/26814a9f-055f-4d14-a12a-b64d0cb318cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울국제도서전 미리 보기]]></title>
-            <link>https://www.elle.co.kr/article/66704</link>
-            <guid>https://www.elle.co.kr/article/66704</guid>
-            <pubDate>Sat, 28 May 2022 04:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[책을 사랑하는 이들에게 특별한 영감을 불어넣어 줄 국내 최대 책 축제 ‘서울국제도서전’이 열...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/1b8db767-d4db-4201-8be6-d7af03013317.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
