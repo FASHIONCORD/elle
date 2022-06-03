@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 18:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 19:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름이 기다려지는 선 드레스 리스트]]></title>
+            <link>https://www.elle.co.kr/article/66695</link>
+            <guid>https://www.elle.co.kr/article/66695</guid>
+            <pubDate>Fri, 03 Jun 2022 19:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 태양을 즐길 수 있는 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/e2af0630-3f43-4d79-adf6-121cf575d9b3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럭셔리 카와 시계의 만남]]></title>
+            <link>https://www.elle.co.kr/article/66907</link>
+            <guid>https://www.elle.co.kr/article/66907</guid>
+            <pubDate>Fri, 03 Jun 2022 19:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[서로 다른 듯 닮은 시계와 자동차의 세계. 두 세계가 함께한 기념비적인 워치에 주목할 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/424df498-116b-4444-bd1f-49a2329471a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[등을 보여 주세요! 올 여름을 기대하는 '백리스 룩']]></title>
             <link>https://www.elle.co.kr/article/66901</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 01 Jun 2022 13:46:04 GMT</pubDate>
             <content:encoded><![CDATA[여성에게 투자할 때 스포츠가 개선된다고 이야기하는 브랜드, 나이키가 50주년을 맞았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/d55b6684-ef06-48b4-a88f-a20edf7c9322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명품 패션하우스가 인정한 국가대표 아티스트는 바로 이 사람]]></title>
-            <link>https://www.elle.co.kr/article/66724</link>
-            <guid>https://www.elle.co.kr/article/66724</guid>
-            <pubDate>Tue, 31 May 2022 16:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[디올이 고르고, 구찌가 모시고, 루이 비통이 선택한 국내 작가들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/10f87baa-cb7e-41f3-b039-2160e60de487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3인 3색 스타일 대결! '그린마더스클럽' 이요원 vs 추자현 vs 김규리 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/66664</link>
-            <guid>https://www.elle.co.kr/article/66664</guid>
-            <pubDate>Mon, 30 May 2022 11:14:15 GMT</pubDate>
-            <content:encoded><![CDATA['대한민국 엄마라면 피할 수 없다'. JTBC 드라마 '그린마더스클럽'으로 돌아온 세 배우의 드라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/294eadd8-c498-4c03-83d7-b0dea6ff5c9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
