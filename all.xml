@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 13:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 14:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/c8b3b99b-363d-4f7b-96ca-ee80f6dc2bfc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유일무이 남매 스페셜 No.2  파트리샤가 말하는 조나단의 인기 비결 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/66694</link>
+            <guid>https://www.elle.co.kr/article/66694</guid>
+            <pubDate>Fri, 03 Jun 2022 14:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 제일 웃긴 남매 조나단과 파트리샤의 생애 첫 커플 화보.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/938899b6-10ea-4c42-9c76-a357ae2e8363.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[진짜 시즌2 예고된 넷플릭스 'D.P.', 손석구만 다시 나오는 게 아니라고? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/66863</link>
             <guid>https://www.elle.co.kr/article/66863</guid>
@@ -1149,14 +1157,6 @@
             <pubDate>Tue, 31 May 2022 03:22:41 GMT</pubDate>
             <content:encoded><![CDATA[최진영 감독과의 따뜻한 인터뷰]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/2ebd70d3-7869-4ec9-b46e-ac7416be8ff7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K콘텐츠의 파동 위에 선 두 여성의 조우, 스튜디오N 권미경 대표&<시맨틱 에러> 김수정 감독 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/66793</link>
-            <guid>https://www.elle.co.kr/article/66793</guid>
-            <pubDate>Tue, 31 May 2022 03:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[K콘텐츠'라는 이름이 어느 때보다 당당하게 불리는 지금. 콘텐츠의 장르와 형식이 뒤섞이며 놀라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/d65a83f6-ba6d-4831-a718-fe3523c76531.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 시즌2 예고된 넷플릭스 'D.P.', 손석구만 다시 나오는 게 아니라고? (엘르 코리아 ─ 컬쳐)]]></title>
