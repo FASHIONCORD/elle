@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 16:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 17:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[듣는 패션 이야기]]></title>
+            <link>https://www.elle.co.kr/article/66957</link>
+            <guid>https://www.elle.co.kr/article/66957</guid>
+            <pubDate>Sun, 05 Jun 2022 17:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[화려한 이미지 너머의 패션 스토리를 담은 팟캐스트 리스트]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/466f7c98-b607-44ef-92f6-b7348e50bab7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[향수 덕후라면 주목! 새로 문 연 퍼품숍 2]]></title>
             <link>https://www.elle.co.kr/article/66720</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Jun 2022 03:45:12 GMT</pubDate>
             <content:encoded><![CDATA[근사한 트랙리스트를 일상으로 소환하는 라이프스타일 매거진 <bgm>의 즐거운 도전                                    </bgm>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/003ce639-7539-4046-a1b8-7ffc771c48bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인간 샤넬 크리스틴 스튜어트의 칸 국제영화제 스타일링]]></title>
-            <link>https://www.elle.co.kr/article/66766</link>
-            <guid>https://www.elle.co.kr/article/66766</guid>
-            <pubDate>Wed, 01 Jun 2022 19:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[크리스틴 스튜어트가 칸 국제영화제에서 처음 선보인 1932 하이 주얼리 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/51919aa5-a51f-4861-9148-6bf7508760a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
