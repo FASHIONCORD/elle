@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 14:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 15:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[간단하지만 효과 만점! 스타들의 헤어 악세서리 활용법]]></title>
+            <link>https://www.elle.co.kr/article/66916</link>
+            <guid>https://www.elle.co.kr/article/66916</guid>
+            <pubDate>Mon, 06 Jun 2022 15:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[블랙핑크 리사, 트와이스, 있지 등 스타들의 헤어 악세서리]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/4b5816e1-a72f-4ebb-b1b1-60f7f009edca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건강한 여름을 위한 풋 케어 아이템]]></title>
             <link>https://www.elle.co.kr/article/66845</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 30 May 2022 06:23:36 GMT</pubDate>
             <content:encoded><![CDATA[자연스러운 커버와 톤 보정을 책임질 톤업 크림.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/607e7228-d91c-486d-9910-3e03f9720d92.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[땀냄새도, 스트레스도 날려 버리는 쿨 서머 향기 제품 11_선배's 어드바이스 #118]]></title>
-            <link>https://www.elle.co.kr/article/66576</link>
-            <guid>https://www.elle.co.kr/article/66576</guid>
-            <pubDate>Mon, 30 May 2022 06:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[막 샤워한 듯, 여름 향기 취향별로 고르기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/9e70fe31-78cc-4c8b-bf91-c35c5071259f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
