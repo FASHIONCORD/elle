@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 05:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 06:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/003ce639-7539-4046-a1b8-7ffc771c48bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[건강한 여름을 위한 풋 케어 아이템 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/66845</link>
+            <guid>https://www.elle.co.kr/article/66845</guid>
+            <pubDate>Mon, 06 Jun 2022 06:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[건강의 바로미터이자 신체의 축소판으로 여겨지는 발. 어디서든 당당하게 발을 드러내기 위한 셀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/3213d1af-0a0a-4a07-9c34-ce5894d24529.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샤넬 뷰티로 완성한 이성경의 시크릿 뷰티템 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/66801</link>
             <guid>https://www.elle.co.kr/article/66801</guid>
@@ -1086,14 +1094,6 @@
             <pubDate>Mon, 30 May 2022 06:23:36 GMT</pubDate>
             <content:encoded><![CDATA[막 샤워한 듯, 여름 향기 취향별로 고르기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/9e70fe31-78cc-4c8b-bf91-c35c5071259f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양에 맞서다 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/66088</link>
-            <guid>https://www.elle.co.kr/article/66088</guid>
-            <pubDate>Sat, 28 May 2022 03:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[필드 위 환한 피부를 위한 나이스샷.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/4728acab-d774-452e-a158-6aa93de850bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박신혜♥최태준, 결혼 4개월 만의 출산과 함께 또 다른 가족 경사 맞았다? (엘르 코리아 ─ 스타)]]></title>
