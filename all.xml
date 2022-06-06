@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 09:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 10:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1159,6 +1159,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/6ffd247a-a429-4978-87c8-a7d62dee3f8f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/66924</link>
+            <guid>https://www.elle.co.kr/article/66924</guid>
+            <pubDate>Thu, 02 Jun 2022 15:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 콕 박히는 장들레의 일상적인 가사]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/09c1e3f7-8e07-44c0-ae77-d4c813131020.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[진짜 시즌2 예고된 넷플릭스 'D.P.', 손석구만 다시 나오는 게 아니라고? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/66863</link>
             <guid>https://www.elle.co.kr/article/66863</guid>
@@ -1211,14 +1219,6 @@
             <pubDate>Sat, 28 May 2022 05:18:23 GMT</pubDate>
             <content:encoded><![CDATA[여성 아티스트들의 독주, 그리고 우크라이나를 향한 연대까지. 역대급으로 돌아온 베니스 비엔날레]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/cac6efa9-6bcc-4aca-8562-5cd767560de7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대세 배우들이 형사와 살인자로! 손석구X최우식이 검토 중이라는 넷플릭스 시리즈 내용 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/66731</link>
-            <guid>https://www.elle.co.kr/article/66731</guid>
-            <pubDate>Sat, 28 May 2022 03:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[벌써부터 기대중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/7d473533-9659-4376-b489-faf1f7250b28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
