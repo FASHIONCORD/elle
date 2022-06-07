@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 17:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 18:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1503,6 +1503,14 @@
             <content:encoded><![CDATA[호기심 어린 눈과 마음으로 세상을 바라보는 공예가 윤여동의 취향.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[데이트부터 소개팅까지 다 어울리는 석촌역-가로수길-만리동 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/66849</link>
+            <guid>https://www.elle.co.kr/article/66849</guid>
+            <pubDate>Tue, 07 Jun 2022 18:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[너무 무겁지 않으면서도 깔끔한 분위기의 맛집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/481edc57-e53b-4da2-8aab-bb31c995980e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[백종원 추천! 줄 서서 먹는 디저트계의 요물, 터키의 #카이막 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/66743</link>
             <guid>https://www.elle.co.kr/article/66743</guid>
@@ -1556,14 +1564,6 @@
             <guid>https://www.elle.co.kr/article/66467</guid>
             <pubDate>Sat, 28 May 2022 03:14:44 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/acecd7dd-3428-40ac-b468-c52d401e8b49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 만들어 즐기는 수제 맥주, LG 홈브루 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/66104</link>
-            <guid>https://www.elle.co.kr/article/66104</guid>
-            <pubDate>Sat, 28 May 2022 03:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[신혼 부부를 위한 홈술 로망템 LG 홈브루]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/8f4bb25e-a794-404e-bca5-4288c8506e2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손흥민, 축구만 열심히 하는 게 아니었네_돈쓸신잡 #48 (엘르 코리아 ─ 소사이어티)]]></title>
