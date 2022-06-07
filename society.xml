@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 05:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 06:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멈추지 않는 ‘여정’_요주의여성 #60]]></title>
+            <link>https://www.elle.co.kr/article/66817</link>
+            <guid>https://www.elle.co.kr/article/66817</guid>
+            <pubDate>Tue, 07 Jun 2022 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[열심히 일하고 나답게 삽시다. &lt;뜻밖의 여정&gt;의 윤여정처럼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/7399e4f3-48dd-4993-974b-1f7840af7168.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성의, 여성을 위한, 여성에 의한 나이키의 50년]]></title>
             <link>https://www.elle.co.kr/article/66777</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 28 May 2022 03:14:55 GMT</pubDate>
             <content:encoded><![CDATA[&lt;그린 마더스 클럽&gt;을 통해 알게 된 추자현의 저력.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/340239db-c983-4f80-970c-fb7cd482ed74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 삶에는 루틴이 있나요?_돈쓸신잡 #45]]></title>
-            <link>https://www.elle.co.kr/article/66358</link>
-            <guid>https://www.elle.co.kr/article/66358</guid>
-            <pubDate>Sat, 28 May 2022 03:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[부자들의 루틴엔 힘이 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/8f3ba50c-bb5f-4d17-a13b-6a58f00371c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

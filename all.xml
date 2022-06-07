@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 05:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 06:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1159,6 +1159,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/b14f2005-bb12-403d-9db6-daea47de775a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전세계를 사로잡은  K-그림책 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/66930</link>
+            <guid>https://www.elle.co.kr/article/66930</guid>
+            <pubDate>Tue, 07 Jun 2022 06:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[세계적인 아동문학상 수상작가 이수지와 백희나의 작은 미술관]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/8ff0eefb-5bb5-47a0-8ab8-fa89bd7e405c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/66924</link>
             <guid>https://www.elle.co.kr/article/66924</guid>
@@ -1211,14 +1219,6 @@
             <guid>https://www.elle.co.kr/article/66771</guid>
             <pubDate>Sat, 28 May 2022 03:13:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/c39879ba-c930-4288-8bed-13b7c9577f0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3년만에 돌아왔다! 웰컴백 베니스비엔날레 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/66740</link>
-            <guid>https://www.elle.co.kr/article/66740</guid>
-            <pubDate>Sat, 28 May 2022 05:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[여성 아티스트들의 독주, 그리고 우크라이나를 향한 연대까지. 역대급으로 돌아온 베니스 비엔날레]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/cac6efa9-6bcc-4aca-8562-5cd767560de7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1565,6 +1565,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/8f4bb25e-a794-404e-bca5-4288c8506e2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[멈추지 않는 ‘여정’_요주의여성 #60 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/66817</link>
+            <guid>https://www.elle.co.kr/article/66817</guid>
+            <pubDate>Mon, 30 May 2022 06:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[열심히 일하고 나답게 삽시다. &lt;뜻밖의 여정&gt;의 윤여정처럼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/7399e4f3-48dd-4993-974b-1f7840af7168.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성의, 여성을 위한, 여성에 의한 나이키의 50년 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/66777</link>
             <guid>https://www.elle.co.kr/article/66777</guid>
@@ -1619,14 +1627,6 @@
             <pubDate>Sat, 28 May 2022 03:14:55 GMT</pubDate>
             <content:encoded><![CDATA[&lt;그린 마더스 클럽&gt;을 통해 알게 된 추자현의 저력.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/340239db-c983-4f80-970c-fb7cd482ed74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 삶에는 루틴이 있나요?_돈쓸신잡 #45 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/66358</link>
-            <guid>https://www.elle.co.kr/article/66358</guid>
-            <pubDate>Sat, 28 May 2022 03:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[부자들의 루틴엔 힘이 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/8f3ba50c-bb5f-4d17-a13b-6a58f00371c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
