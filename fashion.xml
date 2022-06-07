@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 14:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 15:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 여름의 키 컬러는? 신비로운 다홍빛!]]></title>
+            <link>https://www.elle.co.kr/article/66699</link>
+            <guid>https://www.elle.co.kr/article/66699</guid>
+            <pubDate>Tue, 07 Jun 2022 15:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[이국적인 석양과 붉은빛의 대지를 닮은 여름날의 컬러.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/4606ead4-0dc8-4659-8abf-7081ba2612dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 시작된 페스티벌! 제대로 즐길 메이크업]]></title>
             <link>https://www.elle.co.kr/article/66961</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 03 Jun 2022 19:11:57 GMT</pubDate>
             <content:encoded><![CDATA[뜨거운 태양을 즐길 수 있는 방법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/e2af0630-3f43-4d79-adf6-121cf575d9b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럭셔리 카와 시계의 만남]]></title>
-            <link>https://www.elle.co.kr/article/66907</link>
-            <guid>https://www.elle.co.kr/article/66907</guid>
-            <pubDate>Fri, 03 Jun 2022 19:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[서로 다른 듯 닮은 시계와 자동차의 세계. 두 세계가 함께한 기념비적인 워치에 주목할 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/424df498-116b-4444-bd1f-49a2329471a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

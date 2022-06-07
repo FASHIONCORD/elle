@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 14:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 15:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손흥민, 축구만 열심히 하는 게 아니었네_돈쓸신잡 #48]]></title>
+            <link>https://www.elle.co.kr/article/66938</link>
+            <guid>https://www.elle.co.kr/article/66938</guid>
+            <pubDate>Tue, 07 Jun 2022 15:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[누가 봐도 월드클래스인 손흥민. 잘 되는 사람들은 '이렇게' 산다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/7dfad1c9-834b-4ef9-9dc2-f7024d724522.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멈추지 않는 ‘여정’_요주의여성 #60]]></title>
             <link>https://www.elle.co.kr/article/66817</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 28 May 2022 03:14:55 GMT</pubDate>
             <content:encoded><![CDATA[인플레이션? 아껴둔 총알을 사용해야 할 때.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/fe2caecd-2219-47c7-bb18-6b41b3f39048.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마, 그 이상의 추자현_요주의여성 #58]]></title>
-            <link>https://www.elle.co.kr/article/66365</link>
-            <guid>https://www.elle.co.kr/article/66365</guid>
-            <pubDate>Sat, 28 May 2022 03:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;그린 마더스 클럽&gt;을 통해 알게 된 추자현의 저력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/340239db-c983-4f80-970c-fb7cd482ed74.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
