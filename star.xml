@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 05:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 06:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이것이 친오빠 바이브? 장성원이 장나라 남자친구 신상 유포 자제를 요청하는 방법]]></title>
+            <link>https://www.elle.co.kr/article/67005</link>
+            <guid>https://www.elle.co.kr/article/67005</guid>
+            <pubDate>Wed, 08 Jun 2022 06:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[동생 결혼 발표 때부터 남달랐던 장성원의 반응.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/8263710a-798b-4ddf-b8e4-f3c4f4f12da3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손석구에게 막 입덕해서 어쩔 줄 몰라 하는 당신이 꼭 봐야 할 손석구 주요 출연작 6]]></title>
             <link>https://www.elle.co.kr/article/66991</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/66934</guid>
             <pubDate>Sun, 05 Jun 2022 17:14:01 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/c46ff973-83b4-4407-950d-b6c5016c3863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주지훈이 차로 데리러 왔다고? 배우들의 마음의 방이 열렸다!]]></title>
-            <link>https://www.elle.co.kr/article/66932</link>
-            <guid>https://www.elle.co.kr/article/66932</guid>
-            <pubDate>Sun, 05 Jun 2022 01:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[영화기자 정시우가 배우의 방문을 두드렸다. 10명의 배우가 기꺼이 회답했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/32ad94ea-e60f-4695-a9ea-8b24d34cbf25.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
