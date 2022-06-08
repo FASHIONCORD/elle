@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 16:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 17:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복서 쇼츠의 뜨거운 한 방]]></title>
+            <link>https://www.elle.co.kr/article/66703</link>
+            <guid>https://www.elle.co.kr/article/66703</guid>
+            <pubDate>Wed, 08 Jun 2022 17:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[링 위에 오른 복서처럼 비장하게 여름을 맞이하는 자세.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/9013c5a6-cf54-4fef-92cf-73c563295d77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금빛으로 물든 새로운 샤넬 부티크]]></title>
             <link>https://www.elle.co.kr/article/66939</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Jun 2022 18:17:20 GMT</pubDate>
             <content:encoded><![CDATA[&lt;나 혼자 산다&gt; 파비앙이 사랑한 동네 서촌! 복잡한 도심을 벗어나 인왕산의 정취와 함께 커피...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/1a814b34-0c8e-4a98-ab24-af6e16562b06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듣는 패션 이야기]]></title>
-            <link>https://www.elle.co.kr/article/66957</link>
-            <guid>https://www.elle.co.kr/article/66957</guid>
-            <pubDate>Sun, 05 Jun 2022 17:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[화려한 이미지 너머의 패션 스토리를 담은 팟캐스트 리스트]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/466f7c98-b607-44ef-92f6-b7348e50bab7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
