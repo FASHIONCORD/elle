@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 06:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 07:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1159,6 +1159,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/c46ff973-83b4-4407-950d-b6c5016c3863.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[주지훈이 차로 데리러 왔다고? 배우들의 마음의 방이 열렸다! (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/66932</link>
+            <guid>https://www.elle.co.kr/article/66932</guid>
+            <pubDate>Wed, 08 Jun 2022 07:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[영화기자 정시우가 배우의 방문을 두드렸다. 10명의 배우가 기꺼이 회답했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/32ad94ea-e60f-4695-a9ea-8b24d34cbf25.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전세계를 사로잡은  K-그림책 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/66930</link>
             <guid>https://www.elle.co.kr/article/66930</guid>
@@ -1212,13 +1220,6 @@
             <pubDate>Mon, 30 May 2022 06:26:36 GMT</pubDate>
             <content:encoded><![CDATA[열심히 일하고 나답게 삽시다. &lt;뜻밖의 여정&gt;의 윤여정처럼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/7399e4f3-48dd-4993-974b-1f7840af7168.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 상업영화로 칸 레드카펫 밟은 아이유! 눈물의 시사부터 어깨 밀침 사건까지? (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/66771</link>
-            <guid>https://www.elle.co.kr/article/66771</guid>
-            <pubDate>Sat, 28 May 2022 03:13:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/c39879ba-c930-4288-8bed-13b7c9577f0c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
