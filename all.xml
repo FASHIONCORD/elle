@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 06:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 07:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/2e5a44dc-25a0-4033-90b6-2664e04ce72d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이제는 엔데믹! 해외로 떠난 스타들의 홀리데이 룩 #옷잘입는언니 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67049</link>
+            <guid>https://www.elle.co.kr/article/67049</guid>
+            <pubDate>Thu, 09 Jun 2022 07:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[점차 일상을 회복해가는 엔데믹 시대! 해외 여행이 슬슬 시작되는 요즘, 하와이부터 LA, 파리 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/88258bc8-6ec2-4ee6-bf94-405185683d73.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그 시절 인싸 바이브! 스타의 싸이월드 속에는 어떤 추억이? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67042</link>
             <guid>https://www.elle.co.kr/article/67042</guid>
@@ -1151,12 +1159,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/81989ec4-e31e-4ec4-8836-ac0b99737070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[푸르른 뷰 맛집! 서촌의 마운틴뷰 카페 리스트 (feat.나혼산, 파비앙) (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/66960</link>
-            <guid>https://www.elle.co.kr/article/66960</guid>
-            <pubDate>Mon, 06 Jun 2022 18:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;나 혼자 산다&gt; 파비앙이 사랑한 동네 서촌! 복잡한 도심을 벗어나 인왕산의 정취와 함께 커피...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/1a814b34-0c8e-4a98-ab24-af6e16562b06.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[레고 보태니컬 컬렉션으로 완성하는 플랜테리어 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/66912</link>
+            <guid>https://www.elle.co.kr/article/66912</guid>
+            <pubDate>Fri, 03 Jun 2022 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[취미와 인테리어를 동시에 즐길 수 있는 ‘레고 보태니컬 컬렉션’]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/e90459e9-7cee-4841-87ae-a45f506b557d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주지훈이 차로 데리러 왔다고? 배우들의 마음의 방이 열렸다! (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1212,14 +1220,6 @@
             <pubDate>Mon, 30 May 2022 06:26:36 GMT</pubDate>
             <content:encoded><![CDATA[주모~~~~~!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/dbb81899-ecc3-4283-90d6-b2ce47c0b93d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멈추지 않는 ‘여정’_요주의여성 #60 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/66817</link>
-            <guid>https://www.elle.co.kr/article/66817</guid>
-            <pubDate>Mon, 30 May 2022 06:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[열심히 일하고 나답게 삽시다. &lt;뜻밖의 여정&gt;의 윤여정처럼.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/7399e4f3-48dd-4993-974b-1f7840af7168.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
