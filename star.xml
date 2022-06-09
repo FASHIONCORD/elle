@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 06:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 시절 인싸 바이브! 스타의 싸이월드 속에는 어떤 추억이?]]></title>
+            <link>https://www.elle.co.kr/article/67042</link>
+            <guid>https://www.elle.co.kr/article/67042</guid>
+            <pubDate>Thu, 09 Jun 2022 06:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[싸이월드가 돌아왔다! 복구된 계정 속 풋풋함 가득한 스타들의 추억 사진을 살펴보아요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/9cf13bf0-48ad-4716-81d6-fbdcb4874aeb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[95세까지 현역으로 '전국노래자랑'을 지키던 MC 송해가 별세했다]]></title>
             <link>https://www.elle.co.kr/article/67039</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 07 Jun 2022 05:13:46 GMT</pubDate>
             <content:encoded><![CDATA[&lt;나 혼자 산다&gt; 파비앙이 사랑한 동네 서촌! 복잡한 도심을 벗어나 인왕산의 정취와 함께 커피...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/1a814b34-0c8e-4a98-ab24-af6e16562b06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴가 전 랜선 여행으로 워밍업!]]></title>
-            <link>https://www.elle.co.kr/article/66952</link>
-            <guid>https://www.elle.co.kr/article/66952</guid>
-            <pubDate>Mon, 06 Jun 2022 15:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타가 떠난 여행지는 어디? 하와이 to 두바이! 당장이라도 떠나고 싶게 만드는 셀러브리티들의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/60de246a-13c6-4192-8bfb-0c10bbbb3da6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

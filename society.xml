@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 06:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세이디 싱크의 도약_요주의여성 #61]]></title>
+            <link>https://www.elle.co.kr/article/66948</link>
+            <guid>https://www.elle.co.kr/article/66948</guid>
+            <pubDate>Thu, 09 Jun 2022 06:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[달려라 달려, 맥스! &lt;기묘한 이야기&gt; 시즌4의 명장면을 만든 세이디 싱크.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/42f54be7-57bf-4183-8915-00c422f824ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손흥민, 축구만 열심히 하는 게 아니었네_돈쓸신잡 #48]]></title>
             <link>https://www.elle.co.kr/article/66938</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 30 May 2022 06:28:59 GMT</pubDate>
             <content:encoded><![CDATA[70년째 왕좌를 지켜온 영국 엘리자베스 2세 여왕의 중요한 순간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/9b27749e-bc83-4880-a789-a2f23145f641.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정말 은행에 저금만 열심히 하면 될까?_돈쓸신잡 #46]]></title>
-            <link>https://www.elle.co.kr/article/66513</link>
-            <guid>https://www.elle.co.kr/article/66513</guid>
-            <pubDate>Sat, 28 May 2022 03:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[인플레이션? 아껴둔 총알을 사용해야 할 때.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/fe2caecd-2219-47c7-bb18-6b41b3f39048.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

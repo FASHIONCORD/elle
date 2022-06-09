@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 06:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/2e5a44dc-25a0-4033-90b6-2664e04ce72d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그 시절 인싸 바이브! 스타의 싸이월드 속에는 어떤 추억이? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67042</link>
+            <guid>https://www.elle.co.kr/article/67042</guid>
+            <pubDate>Thu, 09 Jun 2022 06:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[싸이월드가 돌아왔다! 복구된 계정 속 풋풋함 가득한 스타들의 추억 사진을 살펴보아요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/9cf13bf0-48ad-4716-81d6-fbdcb4874aeb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[95세까지 현역으로 '전국노래자랑'을 지키던 MC 송해가 별세했다 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67039</link>
             <guid>https://www.elle.co.kr/article/67039</guid>
@@ -1149,14 +1157,6 @@
             <pubDate>Mon, 06 Jun 2022 18:17:20 GMT</pubDate>
             <content:encoded><![CDATA[&lt;나 혼자 산다&gt; 파비앙이 사랑한 동네 서촌! 복잡한 도심을 벗어나 인왕산의 정취와 함께 커피...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/1a814b34-0c8e-4a98-ab24-af6e16562b06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴가 전 랜선 여행으로 워밍업! (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/66952</link>
-            <guid>https://www.elle.co.kr/article/66952</guid>
-            <pubDate>Mon, 06 Jun 2022 15:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타가 떠난 여행지는 어디? 하와이 to 두바이! 당장이라도 떠나고 싶게 만드는 셀러브리티들의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/60de246a-13c6-4192-8bfb-0c10bbbb3da6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주지훈이 차로 데리러 왔다고? 배우들의 마음의 방이 열렸다! (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1317,6 +1317,13 @@
             <content:encoded><![CDATA[밤을 가로질러 점점 더 또렷하게. AOMG라는 새로운 챕터 앞에 선 지금의 쿠기.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[살바도르 달리 가면 대신 하회탈!? 넷플릭스 '종이의 집' 한국판에서 원작과 달라진 설정.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/67082</link>
+            <guid>https://www.elle.co.kr/article/67082</guid>
+            <pubDate>Thu, 09 Jun 2022 06:23:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/cfdb8ae7-a397-4d70-ad7a-088b533b542d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/67054</link>
             <guid>https://www.elle.co.kr/article/67054</guid>
@@ -1346,7 +1353,6 @@
             <guid>https://www.elle.co.kr/article/66942</guid>
             <pubDate>Fri, 03 Jun 2022 07:17:16 GMT</pubDate>
             <content:encoded><![CDATA[나의 곰돌이 푸는 이렇지 않아...!!!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/cb7abbcf-f92a-406f-abc7-c55635c83ebd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 시즌2 예고된 넷플릭스 'D.P.', 손석구만 다시 나오는 게 아니라고? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1401,12 +1407,6 @@
             <guid>https://www.elle.co.kr/article/66586</guid>
             <pubDate>Sat, 28 May 2022 03:13:23 GMT</pubDate>
             <content:encoded><![CDATA[가슴을 울리는 명장면과 명대사도 함께 살펴보자.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시사회 매진에 7분 기립 박수! 칸에서 빛난 이정재X정우성, 여전히 간절함 없는 셀카 실력 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/66550</link>
-            <guid>https://www.elle.co.kr/article/66550</guid>
-            <pubDate>Tue, 24 May 2022 02:33:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[레고 보태니컬 컬렉션으로 완성하는 플랜테리어 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1568,6 +1568,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/c1abb20d-d573-4905-965c-86a844ace3be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세이디 싱크의 도약_요주의여성 #61 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/66948</link>
+            <guid>https://www.elle.co.kr/article/66948</guid>
+            <pubDate>Thu, 09 Jun 2022 06:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[달려라 달려, 맥스! &lt;기묘한 이야기&gt; 시즌4의 명장면을 만든 세이디 싱크.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/42f54be7-57bf-4183-8915-00c422f824ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[손흥민, 축구만 열심히 하는 게 아니었네_돈쓸신잡 #48 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/66938</link>
             <guid>https://www.elle.co.kr/article/66938</guid>
@@ -1622,14 +1630,6 @@
             <pubDate>Mon, 30 May 2022 06:28:59 GMT</pubDate>
             <content:encoded><![CDATA[70년째 왕좌를 지켜온 영국 엘리자베스 2세 여왕의 중요한 순간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/9b27749e-bc83-4880-a789-a2f23145f641.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정말 은행에 저금만 열심히 하면 될까?_돈쓸신잡 #46 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/66513</link>
-            <guid>https://www.elle.co.kr/article/66513</guid>
-            <pubDate>Sat, 28 May 2022 03:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[인플레이션? 아껴둔 총알을 사용해야 할 때.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/fe2caecd-2219-47c7-bb18-6b41b3f39048.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
