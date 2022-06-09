@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 18:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 19:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구?]]></title>
+            <link>https://www.elle.co.kr/article/67054</link>
+            <guid>https://www.elle.co.kr/article/67054</guid>
+            <pubDate>Thu, 09 Jun 2022 19:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 이후 첫 '천만 영화' 등극 유력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/207c8067-d8ce-44db-a325-0fa390544cb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지수, 김다미, 지코의 공통점은?]]></title>
             <link>https://www.elle.co.kr/article/67051</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 08 Jun 2022 05:15:52 GMT</pubDate>
             <content:encoded><![CDATA[그윽한 음영 메이크업부터 통통한 오버 립까지! 마마무 휘인의 찐 애장템과 힙한 데일리 메이크...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/54675d64-1e08-469a-8cd1-b62b9ce0a597.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친구가 아닌 게 이상했던 이효리X김종민, 만난 지 20년 만에 '찐친' 된 사연]]></title>
-            <link>https://www.elle.co.kr/article/66971</link>
-            <guid>https://www.elle.co.kr/article/66971</guid>
-            <pubDate>Wed, 08 Jun 2022 05:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[20년 지기 아니고 만난 지 20년 만에 막 친구가 된 두 사람.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/24803c9a-2c7d-4ede-9d98-c0d6df810b72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

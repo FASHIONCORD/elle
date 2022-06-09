@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 18:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 19:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지수, 김다미, 지코의 공통점은?]]></title>
+            <link>https://www.elle.co.kr/article/67051</link>
+            <guid>https://www.elle.co.kr/article/67051</guid>
+            <pubDate>Thu, 09 Jun 2022 19:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌한 패션하우스를 점령한 K-스타 파워.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/13ba1eb0-1469-4ecd-9601-28a462a54bf4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제는 엔데믹! 해외로 떠난 스타들의 홀리데이 룩 #옷잘입는언니]]></title>
             <link>https://www.elle.co.kr/article/67049</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Jun 2022 03:20:06 GMT</pubDate>
             <content:encoded><![CDATA[힙한 스타가 사랑한 러블리 아이템! 초미니 사이즈 베이비 티셔츠의 활용법부터 쇼핑리스트까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/dd073b51-448f-4e0c-a2dd-f1e8596453ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 여름의 키 컬러는? 신비로운 다홍빛!]]></title>
-            <link>https://www.elle.co.kr/article/66699</link>
-            <guid>https://www.elle.co.kr/article/66699</guid>
-            <pubDate>Tue, 07 Jun 2022 15:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[이국적인 석양과 붉은빛의 대지를 닮은 여름날의 컬러.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/4606ead4-0dc8-4659-8abf-7081ba2612dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
