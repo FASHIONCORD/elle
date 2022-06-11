@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 17:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 18:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울에 상륙한 새로운 감각의 보코서울강남]]></title>
+            <link>https://www.elle.co.kr/article/67104</link>
+            <guid>https://www.elle.co.kr/article/67104</guid>
+            <pubDate>Sat, 11 Jun 2022 18:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 감각으로 중무장한 호텔의 야심찬 등장.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/4eb0c8c3-094f-48db-9c96-e540ccf2e45c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[좀 더 쿨하게! 사복 천재들의 여름 가방 스타일링]]></title>
             <link>https://www.elle.co.kr/article/67096</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Jun 2022 17:16:35 GMT</pubDate>
             <content:encoded><![CDATA[링 위에 오른 복서처럼 비장하게 여름을 맞이하는 자세.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/9013c5a6-cf54-4fef-92cf-73c563295d77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금빛으로 물든 새로운 샤넬 부티크]]></title>
-            <link>https://www.elle.co.kr/article/66939</link>
-            <guid>https://www.elle.co.kr/article/66939</guid>
-            <pubDate>Wed, 08 Jun 2022 09:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[가브리엘 샤넬의 숭고한 정신을 이어받은 18번지 샤넬 부티크가 1년간의 단장 끝에 새롭게 문을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/b9647d0e-6564-4c6e-92ff-2769bbafe5ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
