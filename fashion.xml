@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 09:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 10:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜빵 바지 입어봤나요? 상큼 발랄 오버롤 팬츠 룩 5]]></title>
+            <link>https://www.elle.co.kr/article/67108</link>
+            <guid>https://www.elle.co.kr/article/67108</guid>
+            <pubDate>Sun, 12 Jun 2022 10:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[일당백, 오버롤 팬츠를 스타일리시하게 소화한 셀러브리티의 데일리 룩을 구경해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/9d92c1d8-9e88-4396-85e1-11b74fddbd01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에 상륙한 새로운 감각의 보코서울강남]]></title>
             <link>https://www.elle.co.kr/article/67104</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 09 Jun 2022 12:28:27 GMT</pubDate>
             <content:encoded><![CDATA[싸이월드가 돌아왔다! 복구된 계정 속 풋풋함 가득한 스타들의 추억 사진을 살펴보아요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/9cf13bf0-48ad-4716-81d6-fbdcb4874aeb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복서 쇼츠의 뜨거운 한 방]]></title>
-            <link>https://www.elle.co.kr/article/66703</link>
-            <guid>https://www.elle.co.kr/article/66703</guid>
-            <pubDate>Wed, 08 Jun 2022 17:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[링 위에 오른 복서처럼 비장하게 여름을 맞이하는 자세.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/9013c5a6-cf54-4fef-92cf-73c563295d77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

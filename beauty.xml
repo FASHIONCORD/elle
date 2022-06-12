@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 09:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 10:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로시 파 vs 매트 파]]></title>
+            <link>https://www.elle.co.kr/article/66702</link>
+            <guid>https://www.elle.co.kr/article/66702</guid>
+            <pubDate>Sun, 12 Jun 2022 10:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[당신의 선택은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/d6615b7d-579c-4958-af65-efbf9e261c50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지수, 아이유처럼! 돌아온 립 메이크업 트렌드_선배's 어드바이스 #120]]></title>
             <link>https://www.elle.co.kr/article/66988</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 05 Jun 2022 19:13:25 GMT</pubDate>
             <content:encoded><![CDATA[드라마 &lt;별똥별&gt; 속 배우 이성경의 광채 피부, 샤넬 레드 까멜리아 세럼]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/092669ee-77a7-4e2a-a387-64ac84099f49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가 전 깐 달걀 피부 만들기_선배's 어드바이스 #119]]></title>
-            <link>https://www.elle.co.kr/article/66806</link>
-            <guid>https://www.elle.co.kr/article/66806</guid>
-            <pubDate>Fri, 03 Jun 2022 20:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[각질 제거, 얼마나 어떻게 해야 될까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/909e9765-44c7-4055-a1ed-3fa460b7257d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
