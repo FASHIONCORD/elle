@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 10:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 11:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/092669ee-77a7-4e2a-a387-64ac84099f49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤계상-한예리, 이미 법적 배우자가 있었다고요? 두 배우가 같은 날 '각각' 전한 기쁜 소식 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67091</link>
+            <guid>https://www.elle.co.kr/article/67091</guid>
+            <pubDate>Sun, 12 Jun 2022 11:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[두 사람 모두 행복하시길!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/84000473-b47c-463b-8c80-f7b6dd5c61a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[살바도르 달리 가면 대신 하회탈!? 넷플릭스 '종이의 집' 한국판에서 원작과 달라진 설정.zip (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67082</link>
             <guid>https://www.elle.co.kr/article/67082</guid>
@@ -1148,14 +1156,6 @@
             <guid>https://www.elle.co.kr/article/67039</guid>
             <pubDate>Wed, 08 Jun 2022 23:16:12 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/bba87f88-7521-4aae-b31d-97072c2136ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이것이 친오빠 바이브? 장성원이 장나라 남자친구 신상 유포 자제를 요청하는 방법 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67005</link>
-            <guid>https://www.elle.co.kr/article/67005</guid>
-            <pubDate>Wed, 08 Jun 2022 06:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[동생 결혼 발표 때부터 남달랐던 장성원의 반응.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/8263710a-798b-4ddf-b8e4-f3c4f4f12da3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재기발랄한 패러디 VS 동심 파괴 멈춰! '곰돌이 푸' 호러 버전 '피와 꿀' 엇갈린 반응 (엘르 코리아 ─ 컬쳐)]]></title>
