@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 17:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 18:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjJfMjI3/MDAxNjE5MDcyMTk1ODMz.IWOc1-Cy4zAtcIryj7M6b6pcsHpDHrQjvGCHw036kGUg.FngG4BcThFMIdttTow0S9dpau3Nqn_HUhlKkowTQPrEg.PNG/IX0W0OYeKwn4pZNw7Hauy0cOxgLQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이번 시즌 더욱 과감하게 돌아온 스트라이프 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/66710</link>
+            <guid>https://www.elle.co.kr/article/66710</guid>
+            <pubDate>Mon, 13 Jun 2022 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[직선이 가진 단단하고 명료한 힘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/873addee-77b2-416b-a6d2-d206ae143f77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빛나는 파인 주얼리와 여름 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/67146</link>
             <guid>https://www.elle.co.kr/article/67146</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Fri, 10 Jun 2022 12:29:38 GMT</pubDate>
             <content:encoded><![CDATA[새로운 캠페인 ‘Roll with Time’ 공개!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/396345e8-9bfe-4bc1-8f47-d61d282d5a45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지수, 김다미, 지코의 공통점은? (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67051</link>
-            <guid>https://www.elle.co.kr/article/67051</guid>
-            <pubDate>Thu, 09 Jun 2022 11:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌한 패션하우스를 점령한 K-스타 파워.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/13ba1eb0-1469-4ecd-9601-28a462a54bf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정수리 탈모, 여름철 물미역 머리 타파! 두피 스크럽 3 (엘르 코리아 ─ 뷰티)]]></title>
