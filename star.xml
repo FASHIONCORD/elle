@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 03:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 04:40:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좀 더 쿨하게! 사복 천재들의 여름 가방 스타일링]]></title>
+            <link>https://www.elle.co.kr/article/67096</link>
+            <guid>https://www.elle.co.kr/article/67096</guid>
+            <pubDate>Mon, 13 Jun 2022 04:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[차정원, 안소희, 기은세 등 ‘손민수’하고 싶은 사복 패션 장인들에게 배우는 여름 가방 힌트!...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/67dcf3a5-9cc0-45e1-a7e3-06a3f057579c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤계상-한예리, 이미 법적 배우자가 있었다고요? 두 배우가 같은 날 '각각' 전한 기쁜 소식]]></title>
             <link>https://www.elle.co.kr/article/67091</link>
@@ -61,13 +69,6 @@
             <pubDate>Thu, 09 Jun 2022 06:20:26 GMT</pubDate>
             <content:encoded><![CDATA[싸이월드가 돌아왔다! 복구된 계정 속 풋풋함 가득한 스타들의 추억 사진을 살펴보아요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/9cf13bf0-48ad-4716-81d6-fbdcb4874aeb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[95세까지 현역으로 '전국노래자랑'을 지키던 MC 송해가 별세했다]]></title>
-            <link>https://www.elle.co.kr/article/67039</link>
-            <guid>https://www.elle.co.kr/article/67039</guid>
-            <pubDate>Wed, 08 Jun 2022 23:16:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/bba87f88-7521-4aae-b31d-97072c2136ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
