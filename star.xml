@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 06:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 07:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 지연이라면 대환영! 알고 보니 동향 절친, 거창 명물 강동원X뷔]]></title>
+            <link>https://www.elle.co.kr/article/67151</link>
+            <guid>https://www.elle.co.kr/article/67151</guid>
+            <pubDate>Tue, 14 Jun 2022 07:16:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/5b537c85-59ff-4b42-9e5b-37ae5ec788ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[god에 마동석-예정화 커플까지 총출동한 윤계상 결혼식 사진 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/67125</link>
@@ -60,14 +67,6 @@
             <pubDate>Thu, 09 Jun 2022 19:13:59 GMT</pubDate>
             <content:encoded><![CDATA[팬데믹 이후 첫 '천만 영화' 등극 유력.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/207c8067-d8ce-44db-a325-0fa390544cb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지수, 김다미, 지코의 공통점은?]]></title>
-            <link>https://www.elle.co.kr/article/67051</link>
-            <guid>https://www.elle.co.kr/article/67051</guid>
-            <pubDate>Thu, 09 Jun 2022 11:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌한 패션하우스를 점령한 K-스타 파워.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/13ba1eb0-1469-4ecd-9601-28a462a54bf4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
