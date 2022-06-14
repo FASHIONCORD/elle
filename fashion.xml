@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 17:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 18:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름휴가를 떠난 스타들! 어떤 스윔웨어를 입었을까?]]></title>
+            <link>https://www.elle.co.kr/article/67153</link>
+            <guid>https://www.elle.co.kr/article/67153</guid>
+            <pubDate>Tue, 14 Jun 2022 18:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[수영복 입으려고 여름 기다린 사람 손! 쇼핑 전 스타의 스윔웨어부터 스타일링까지 참고해보세요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/f5828239-2fb5-49db-b511-4e7992fa997d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[떠나기 위한 만반의 준비! 캐리어 쇼핑리스트 6]]></title>
             <link>https://www.elle.co.kr/article/67152</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 11 Jun 2022 15:13:54 GMT</pubDate>
             <content:encoded><![CDATA[차정원, 안소희, 기은세 등 ‘손민수’하고 싶은 사복 패션 장인들에게 배우는 여름 가방 힌트!...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/67dcf3a5-9cc0-45e1-a7e3-06a3f057579c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름의 창가에 두고 싶은 찬란한 화병들]]></title>
-            <link>https://www.elle.co.kr/article/66706</link>
-            <guid>https://www.elle.co.kr/article/66706</guid>
-            <pubDate>Sat, 11 Jun 2022 15:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[화병이 자아내는 여름의 푸른 정취를 찾아서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/579ebddd-2d47-4dea-a4ac-aa5deb145cac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
