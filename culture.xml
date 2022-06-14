@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 07:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 08:28:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구?]]></title>
+            <link>https://www.elle.co.kr/article/67054</link>
+            <guid>https://www.elle.co.kr/article/67054</guid>
+            <pubDate>Tue, 14 Jun 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 이후 첫 '천만 영화' 등극 유력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/207c8067-d8ce-44db-a325-0fa390544cb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 영화가 뜬다? 2022년 칸 영화제에서 상 받은 작품 요약 정리.zip]]></title>
             <link>https://www.elle.co.kr/article/67013</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Jun 2022 10:19:58 GMT</pubDate>
             <content:encoded><![CDATA[마음에 콕 박히는 장들레의 일상적인 가사]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/09c1e3f7-8e07-44c0-ae77-d4c813131020.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 시즌2 예고된 넷플릭스 'D.P.', 손석구만 다시 나오는 게 아니라고?]]></title>
-            <link>https://www.elle.co.kr/article/66863</link>
-            <guid>https://www.elle.co.kr/article/66863</guid>
-            <pubDate>Fri, 03 Jun 2022 09:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[준호열 영원히 전역하지마...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/b14f2005-bb12-403d-9db6-daea47de775a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
