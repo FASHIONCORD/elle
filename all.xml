@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 10:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 11:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/0208a332-c06c-4ab0-8884-6db38500c922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름휴가를 떠난 스타들! 어떤 스윔웨어를 입었을까? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67153</link>
+            <guid>https://www.elle.co.kr/article/67153</guid>
+            <pubDate>Tue, 14 Jun 2022 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[수영복 입으려고 여름 기다린 사람 손! 쇼핑 전 스타의 스윔웨어부터 스타일링까지 참고해보세요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/f5828239-2fb5-49db-b511-4e7992fa997d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이런 지연이라면 대환영! 알고 보니 동향 절친, 거창 명물 강동원X뷔 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67151</link>
             <guid>https://www.elle.co.kr/article/67151</guid>
@@ -1147,14 +1155,6 @@
             <pubDate>Fri, 10 Jun 2022 06:18:49 GMT</pubDate>
             <content:encoded><![CDATA[많은 스타들이 사랑하는 건강 관리 운동, 폴댄스]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/05f28fdf-4a88-459e-9504-cdde03b287ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67054</link>
-            <guid>https://www.elle.co.kr/article/67054</guid>
-            <pubDate>Wed, 08 Jun 2022 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹 이후 첫 '천만 영화' 등극 유력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/207c8067-d8ce-44db-a325-0fa390544cb8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구? (엘르 코리아 ─ 컬쳐)]]></title>
