@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 03:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 04:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영희 남친 철수가 누구야? 감독이 직접 푼 '오징어게임' 시즌2 떡밥.official]]></title>
+            <link>https://www.elle.co.kr/article/67171</link>
+            <guid>https://www.elle.co.kr/article/67171</guid>
+            <pubDate>Wed, 15 Jun 2022 04:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[황동혁 감독이 직접 보낸 '오겜2' 초대장.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/37a96284-eb8f-42a3-9545-60b278e3e38e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신혜성이 불참했을 리가? 유쾌한 파티 같던 앤디-이은주 결혼식 사진 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/67167</link>
@@ -60,13 +68,6 @@
             <pubDate>Sun, 12 Jun 2022 11:13:46 GMT</pubDate>
             <content:encoded><![CDATA[두 사람 모두 행복하시길!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/84000473-b47c-463b-8c80-f7b6dd5c61a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살바도르 달리 가면 대신 하회탈!? 넷플릭스 '종이의 집' 한국판에서 원작과 달라진 설정.zip]]></title>
-            <link>https://www.elle.co.kr/article/67082</link>
-            <guid>https://www.elle.co.kr/article/67082</guid>
-            <pubDate>Sat, 11 Jun 2022 16:19:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/cfdb8ae7-a397-4d70-ad7a-088b533b542d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
