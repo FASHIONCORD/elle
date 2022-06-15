@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 04:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 05:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1221,6 +1221,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/8ff0eefb-5bb5-47a0-8ab8-fa89bd7e405c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS가 눈물과 함께 그룹 활동 잠정 중단을 선언한 이유와 향후 행보 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
+            <link>https://www.elle.co.kr/article/67220</link>
+            <guid>https://www.elle.co.kr/article/67220</guid>
+            <pubDate>Wed, 15 Jun 2022 05:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[매너리즘에 빠진 모두가 공감할 수밖에 없는 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/88747898-fdcb-44c7-833b-646996513002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/66924</link>
             <guid>https://www.elle.co.kr/article/66924</guid>
@@ -1250,7 +1258,6 @@
             <guid>https://www.elle.co.kr/article/66526</guid>
             <pubDate>Tue, 24 May 2022 02:33:05 GMT</pubDate>
             <content:encoded><![CDATA[행성에서 돌아와 주변으로 눈을 돌린 [Object] 시리즈]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/6a9bf2eb-c0ed-4e8e-85e3-d780246bf610.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유럽 최대규모 케이팝 행사, 그 플렉스의 현장으로! (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1307,13 +1314,6 @@
             <guid>https://www.elle.co.kr/article/64243</guid>
             <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[요즘 아이돌 예능의 결정체! ‘고잉 세븐틴’의 레전드 에피소드.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가장 쿠기답게 #AOMG #GOODNIGHT (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
-            <link>https://www.elle.co.kr/article/63680</link>
-            <guid>https://www.elle.co.kr/article/63680</guid>
-            <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[밤을 가로질러 점점 더 또렷하게. AOMG라는 새로운 챕터 앞에 선 지금의 쿠기.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소시 단독 예능 '소시탐탐'에 박서준X뷔X최우식 '인더숲'?! 7월 방송 JTBC 새 우정 예능 2 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
