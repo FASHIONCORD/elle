@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 07:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 가장 탁월한 디자인 총집합, EDIDA 2022]]></title>
+            <link>https://www.elle.co.kr/article/67107</link>
+            <guid>https://www.elle.co.kr/article/67107</guid>
+            <pubDate>Wed, 15 Jun 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[엘르 데코가 주목한 디자인.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/4f741a9f-840d-4d5a-b572-ce90ceed09fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살바도르 달리 가면 대신 하회탈!? 넷플릭스 '종이의 집' 한국판에서 원작과 달라진 설정.zip]]></title>
             <link>https://www.elle.co.kr/article/67082</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 08 Jun 2022 07:16:28 GMT</pubDate>
             <content:encoded><![CDATA[영화기자 정시우가 배우의 방문을 두드렸다. 10명의 배우가 기꺼이 회답했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/32ad94ea-e60f-4695-a9ea-8b24d34cbf25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전세계를 사로잡은  K-그림책]]></title>
-            <link>https://www.elle.co.kr/article/66930</link>
-            <guid>https://www.elle.co.kr/article/66930</guid>
-            <pubDate>Tue, 07 Jun 2022 06:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 아동문학상 수상작가 이수지와 백희나의 작은 미술관]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/8ff0eefb-5bb5-47a0-8ab8-fa89bd7e405c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
