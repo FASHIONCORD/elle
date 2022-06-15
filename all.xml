@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 08:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 09:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1316,6 +1316,14 @@
             <content:encoded><![CDATA[요즘 아이돌 예능의 결정체! ‘고잉 세븐틴’의 레전드 에피소드.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[넷플릭스가 만든다는 '오징어게임' 현실판 예능, 상금과 참가 자격은? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/67233</link>
+            <guid>https://www.elle.co.kr/article/67233</guid>
+            <pubDate>Wed, 15 Jun 2022 09:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스의 뇌절임을 부정할 수 없지만 궁금하긴 한 예능.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/a703d1cd-c189-45da-bb05-11259a5383db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소시 단독 예능 '소시탐탐'에 박서준X뷔X최우식 '인더숲'?! 7월 방송 JTBC 새 우정 예능 2 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/67204</link>
             <guid>https://www.elle.co.kr/article/67204</guid>
@@ -1344,7 +1352,6 @@
             <link>https://www.elle.co.kr/article/67082</link>
             <guid>https://www.elle.co.kr/article/67082</guid>
             <pubDate>Thu, 09 Jun 2022 06:23:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/cfdb8ae7-a397-4d70-ad7a-088b533b542d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1400,13 +1407,6 @@
             <guid>https://www.elle.co.kr/article/66820</guid>
             <pubDate>Mon, 30 May 2022 06:26:36 GMT</pubDate>
             <content:encoded><![CDATA[주모~~~~~!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[멈추지 않는 ‘여정’_요주의여성 #60 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/66817</link>
-            <guid>https://www.elle.co.kr/article/66817</guid>
-            <pubDate>Mon, 30 May 2022 06:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[열심히 일하고 나답게 삽시다. &lt;뜻밖의 여정&gt;의 윤여정처럼.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지금 가장 탁월한 디자인 총집합, EDIDA 2022 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
