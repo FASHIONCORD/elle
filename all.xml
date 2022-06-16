@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 09:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 10:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1317,6 +1317,14 @@
             <content:encoded><![CDATA[요즘 아이돌 예능의 결정체! ‘고잉 세븐틴’의 레전드 에피소드.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[톰 크루즈부터 탕웨이까지, '범죄도시2' 이후의 '천만 영화' 후보 3 ① (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/67262</link>
+            <guid>https://www.elle.co.kr/article/67262</guid>
+            <pubDate>Thu, 16 Jun 2022 10:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[남은 6월 개봉하는 기대작들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/3f8daff7-d1a6-4d88-8631-3381d7ff2974.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스가 만든다는 '오징어게임' 현실판 예능, 상금과 참가 자격은? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/67233</link>
             <guid>https://www.elle.co.kr/article/67233</guid>
@@ -1346,7 +1354,6 @@
             <guid>https://www.elle.co.kr/article/67171</guid>
             <pubDate>Mon, 13 Jun 2022 06:21:34 GMT</pubDate>
             <content:encoded><![CDATA[황동혁 감독이 직접 보낸 '오겜2' 초대장.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/37a96284-eb8f-42a3-9545-60b278e3e38e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[살바도르 달리 가면 대신 하회탈!? 넷플릭스 '종이의 집' 한국판에서 원작과 달라진 설정.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1401,13 +1408,6 @@
             <link>https://www.elle.co.kr/article/66823</link>
             <guid>https://www.elle.co.kr/article/66823</guid>
             <pubDate>Mon, 30 May 2022 10:21:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[이게 가능해? 송강호·박찬욱 칸 영화제 수상으로 바뀌어 버린 한국 영화사 목록.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/66820</link>
-            <guid>https://www.elle.co.kr/article/66820</guid>
-            <pubDate>Mon, 30 May 2022 06:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[주모~~~~~!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지금 가장 탁월한 디자인 총집합, EDIDA 2022 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
