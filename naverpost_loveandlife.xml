@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 22:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 23:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집에만 있기 아까운 여름밤 맥주 한 잔! 서울 신상맛집 3]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33975538&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33975538&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Thu, 16 Jun 2022 23:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTZfMjE1/MDAxNjU1Mzg0NjI4NjI2.Amjiu_SQBoO6RDTguN0AqNH2xpznxPd30EGGHTMsSr4g.rY5syh_fSbnD6aJzHV5PlvP5Unc9fa1wUm03lrHoOFMg.JPEG/Ilci0oQTH4W_6WBeWAloKQaqQYG8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[햇빛 가득한 카페 타임을 즐기고 싶은 당신에게! 테라스 카페 2]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33972978&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 28 May 2022 03:07:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjZfMjE0/MDAxNjUzNTMyMDYwMzUx.hVuY7GCxOmR0VkpujYKedAh4HjZMH0YpAE8NNT2_9HYg.B8iP95TyOFK8BwKTizMPuQMBAhdY8eyNh2w7k-JFjf8g.JPEG/IFkqRQQh_ZQyyeVRqOVX3W5hTchM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지수와 비의 제주 여행 코스는? #한정메뉴 #아기자기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33854455&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33854455&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 28 May 2022 03:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjVfMjk0/MDAxNjUzNDQwNzU1NjA3.PrY7e3zNUUbbTnRVufdNhFddhthcRXdt4ewebb-dxI8g.RszjXe7aOuMJicGGUId7jYAtYdT3ETkBNOrRjnJknaYg.JPEG/I43X_vijlJ8YKYlqVQVfdwipAmEc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
