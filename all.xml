@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 15:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 16:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/d5a3aacf-5c61-4f57-b845-f9a574e44d16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[특종] 잔망루피 최초 바캉스 화보.jpg (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/67128</link>
+            <guid>https://www.elle.co.kr/article/67128</guid>
+            <pubDate>Thu, 16 Jun 2022 16:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[잔망루피와 슈퍼콜라겐 에센스 비오틴 한 잔 할래요? 잔망루피, 바이탈뷰티 뷰티 화보 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/f0ce2186-1c4c-4b24-bfa3-cf7376154cdd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여름휴가를 떠난 스타들! 어떤 스윔웨어를 입었을까? (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/67153</link>
             <guid>https://www.elle.co.kr/article/67153</guid>
@@ -1086,14 +1094,6 @@
             <pubDate>Fri, 10 Jun 2022 18:19:28 GMT</pubDate>
             <content:encoded><![CDATA[마스크 없는 야외 생활이 돌아오며 화려하게 부활한 립 메이크업. 이번 여름 트렌드는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/a33d54e4-7f76-4a83-a2dc-de8bf6d21c98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마마무 휘인의 찐 애장템과 힙한 데일리 메이크업 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/66980</link>
-            <guid>https://www.elle.co.kr/article/66980</guid>
-            <pubDate>Wed, 08 Jun 2022 05:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[그윽한 음영 메이크업부터 통통한 오버 립까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/54675d64-1e08-469a-8cd1-b62b9ce0a597.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS가 눈물과 함께 그룹 활동 잠정 중단을 선언한 이유와 향후 행보 (엘르 코리아 ─ 스타)]]></title>
