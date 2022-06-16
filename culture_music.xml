@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 14:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 15:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬릭의 뜨겁고 가뿐한 마음 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/67266</link>
+            <guid>https://www.elle.co.kr/article/67266</guid>
+            <pubDate>Thu, 16 Jun 2022 15:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[매일이 지겹다면 ‘푸른 바다 위에서 칵테일 한 잔 줘’]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/0ff3a353-942f-4b53-a812-b4117a85eb6a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS가 눈물과 함께 그룹 활동 잠정 중단을 선언한 이유와 향후 행보]]></title>
             <link>https://www.elle.co.kr/article/67220</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/66561</guid>
             <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[엘르 6월호 커버 스타 로제의 순도 100% 사랑스러운 모먼트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/76ad6840-6091-47c9-9cd6-83a8569ed578.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고막 구원자, 구원찬 #2주의뮤지션]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/64363</guid>
             <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[쿠기 피셜 산책 &amp; 운동할 때 듣기 좋은 음악 리스트.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뭔데 이렇게 재미있어? 조회수 빵 터지는 아이돌 예능 #고잉세븐틴]]></title>
-            <link>https://www.elle.co.kr/article/64243</link>
-            <guid>https://www.elle.co.kr/article/64243</guid>
-            <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 아이돌 예능의 결정체! ‘고잉 세븐틴’의 레전드 에피소드.]]></content:encoded>
         </item>
     </channel>
 </rss>

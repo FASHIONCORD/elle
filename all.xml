@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 14:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 15:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/54675d64-1e08-469a-8cd1-b62b9ce0a597.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS가 눈물과 함께 그룹 활동 잠정 중단을 선언한 이유와 향후 행보 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67220</link>
+            <guid>https://www.elle.co.kr/article/67220</guid>
+            <pubDate>Wed, 15 Jun 2022 05:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[매너리즘에 빠진 모두가 공감할 수밖에 없는 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/88747898-fdcb-44c7-833b-646996513002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[분위기, 미모, 존재감 모두 합격! 엘르7월호 커버스타 전도연 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67211</link>
             <guid>https://www.elle.co.kr/article/67211</guid>
@@ -1152,11 +1160,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/f5828239-2fb5-49db-b511-4e7992fa997d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이런 지연이라면 대환영! 알고 보니 동향 절친, 거창 명물 강동원X뷔 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67151</link>
-            <guid>https://www.elle.co.kr/article/67151</guid>
-            <pubDate>Tue, 14 Jun 2022 07:16:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/5b537c85-59ff-4b42-9e5b-37ae5ec788ad.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[“살아있는 우리, 모두 행복하자” 미친 열연에 눈물 절로 나는 ‘우블’ 명장면 셋 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/67177</link>
+            <guid>https://www.elle.co.kr/article/67177</guid>
+            <pubDate>Mon, 13 Jun 2022 06:21:34 GMT</pubDate>
+            <content:encoded><![CDATA['우리들의 블루스' 마지막회 시청률 무려 14.6%.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/cb2c5c97-d099-42b3-b2b5-9b446c663781.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영희 남친 철수가 누구야? 감독이 직접 푼 '오징어게임' 시즌2 떡밥.official (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1214,12 +1223,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/cb7abbcf-f92a-406f-abc7-c55635c83ebd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레고 보태니컬 컬렉션으로 완성하는 플랜테리어 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/66912</link>
-            <guid>https://www.elle.co.kr/article/66912</guid>
-            <pubDate>Fri, 03 Jun 2022 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[취미와 인테리어를 동시에 즐길 수 있는 ‘레고 보태니컬 컬렉션’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/e90459e9-7cee-4841-87ae-a45f506b557d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[슬릭의 뜨겁고 가뿐한 마음 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
+            <link>https://www.elle.co.kr/article/67266</link>
+            <guid>https://www.elle.co.kr/article/67266</guid>
+            <pubDate>Thu, 16 Jun 2022 15:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[매일이 지겹다면 ‘푸른 바다 위에서 칵테일 한 잔 줘’]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/0ff3a353-942f-4b53-a812-b4117a85eb6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS가 눈물과 함께 그룹 활동 잠정 중단을 선언한 이유와 향후 행보 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1251,7 +1260,6 @@
             <guid>https://www.elle.co.kr/article/66561</guid>
             <pubDate>Tue, 24 May 2022 02:33:05 GMT</pubDate>
             <content:encoded><![CDATA[엘르 6월호 커버 스타 로제의 순도 100% 사랑스러운 모먼트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/76ad6840-6091-47c9-9cd6-83a8569ed578.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고막 구원자, 구원찬 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1308,13 +1316,6 @@
             <guid>https://www.elle.co.kr/article/64363</guid>
             <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[쿠기 피셜 산책 &amp; 운동할 때 듣기 좋은 음악 리스트.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뭔데 이렇게 재미있어? 조회수 빵 터지는 아이돌 예능 #고잉세븐틴 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
-            <link>https://www.elle.co.kr/article/64243</link>
-            <guid>https://www.elle.co.kr/article/64243</guid>
-            <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 아이돌 예능의 결정체! ‘고잉 세븐틴’의 레전드 에피소드.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[톰 크루즈부터 탕웨이까지, '범죄도시2' 이후의 '천만 영화' 후보 3 ① (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 14:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 15:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“살아있는 우리, 모두 행복하자” 미친 열연에 눈물 절로 나는 ‘우블’ 명장면 셋 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/67177</link>
+            <guid>https://www.elle.co.kr/article/67177</guid>
+            <pubDate>Thu, 16 Jun 2022 15:16:33 GMT</pubDate>
+            <content:encoded><![CDATA['우리들의 블루스' 마지막회 시청률 무려 14.6%.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/cb2c5c97-d099-42b3-b2b5-9b446c663781.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영희 남친 철수가 누구야? 감독이 직접 푼 '오징어게임' 시즌2 떡밥.official]]></title>
             <link>https://www.elle.co.kr/article/67171</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 09 Jun 2022 16:21:10 GMT</pubDate>
             <content:encoded><![CDATA[나의 곰돌이 푸는 이렇지 않아...!!!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/cb7abbcf-f92a-406f-abc7-c55635c83ebd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고 보태니컬 컬렉션으로 완성하는 플랜테리어]]></title>
-            <link>https://www.elle.co.kr/article/66912</link>
-            <guid>https://www.elle.co.kr/article/66912</guid>
-            <pubDate>Thu, 09 Jun 2022 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[취미와 인테리어를 동시에 즐길 수 있는 ‘레고 보태니컬 컬렉션’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/e90459e9-7cee-4841-87ae-a45f506b557d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
