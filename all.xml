@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 07:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 08:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/a33d54e4-7f76-4a83-a2dc-de8bf6d21c98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스가 만든다는 '오징어게임' 현실판 예능, 상금과 참가 자격은? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67233</link>
+            <guid>https://www.elle.co.kr/article/67233</guid>
+            <pubDate>Wed, 15 Jun 2022 09:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스의 뇌절임을 부정할 수 없지만 궁금하긴 한 예능.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/a703d1cd-c189-45da-bb05-11259a5383db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[셀럽이 다녀온 청량함 가득한 카페 3 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67227</link>
             <guid>https://www.elle.co.kr/article/67227</guid>
@@ -1152,12 +1160,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/37a96284-eb8f-42a3-9545-60b278e3e38e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신혜성이 불참했을 리가? 유쾌한 파티 같던 앤디-이은주 결혼식 사진 모음.zip (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67167</link>
-            <guid>https://www.elle.co.kr/article/67167</guid>
-            <pubDate>Wed, 15 Jun 2022 01:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[20년 전 노래인 '퍼펙트맨' 칼군무 대성공!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fe43d770-df2d-465a-8967-9ff1afc6f71e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[소시 단독 예능 '소시탐탐'에 박서준X뷔X최우식 '인더숲'?! 7월 방송 JTBC 새 우정 예능 2 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/67204</link>
+            <guid>https://www.elle.co.kr/article/67204</guid>
+            <pubDate>Tue, 14 Jun 2022 10:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[라인업 무슨 일...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/5e983daf-9fda-46e6-b2ca-a2298f0c6c2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“살아있는 우리, 모두 행복하자” 미친 열연에 눈물 절로 나는 ‘우블’ 명장면 셋 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1213,14 +1221,6 @@
             <pubDate>Mon, 06 Jun 2022 11:15:42 GMT</pubDate>
             <content:encoded><![CDATA[#요즘드라마]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/092f3e1f-8b54-424c-a007-9e29c3b0c9a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재기발랄한 패러디 VS 동심 파괴 멈춰! '곰돌이 푸' 호러 버전 '피와 꿀' 엇갈린 반응 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/66942</link>
-            <guid>https://www.elle.co.kr/article/66942</guid>
-            <pubDate>Fri, 03 Jun 2022 07:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[나의 곰돌이 푸는 이렇지 않아...!!!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/cb7abbcf-f92a-406f-abc7-c55635c83ebd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슬릭의 뜨겁고 가뿐한 마음 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1318,6 +1318,13 @@
             <content:encoded><![CDATA[쿠기 피셜 산책 &amp; 운동할 때 듣기 좋은 음악 리스트.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[히어로 나탈리 포트만에 칸 제패한 송강호X전도연, '범죄도시2' 이후의 '천만 영화' 후보 3 ② (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/67284</link>
+            <guid>https://www.elle.co.kr/article/67284</guid>
+            <pubDate>Fri, 17 Jun 2022 08:22:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/c96bad78-fcbb-4cd2-a1db-44c3657cea83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[톰 크루즈부터 탕웨이까지, '범죄도시2' 이후의 '천만 영화' 후보 3 ① (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/67262</link>
             <guid>https://www.elle.co.kr/article/67262</guid>
@@ -1347,7 +1354,6 @@
             <guid>https://www.elle.co.kr/article/67177</guid>
             <pubDate>Mon, 13 Jun 2022 06:21:34 GMT</pubDate>
             <content:encoded><![CDATA['우리들의 블루스' 마지막회 시청률 무려 14.6%.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/cb2c5c97-d099-42b3-b2b5-9b446c663781.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영희 남친 철수가 누구야? 감독이 직접 푼 '오징어게임' 시즌2 떡밥.official (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1403,12 +1409,6 @@
             <guid>https://www.elle.co.kr/article/66854</guid>
             <pubDate>Tue, 31 May 2022 05:24:28 GMT</pubDate>
             <content:encoded><![CDATA[하고 싶은 것 다 해...!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['나의 해방일지' 삼남매와 구씨가 보여 준 추앙과 환대, 그리고 진짜 해방 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/66823</link>
-            <guid>https://www.elle.co.kr/article/66823</guid>
-            <pubDate>Mon, 30 May 2022 10:21:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[지금 가장 탁월한 디자인 총집합, EDIDA 2022 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
