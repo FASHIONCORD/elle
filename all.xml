@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 09:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 10:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1223,6 +1223,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/c73e29c1-ae03-4879-90ed-c34a646a7362.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[화양연화 LP 아직 못 구한 사람 손! 가벼움의 시대에 만난 무거운 낭만, 레코드 수집 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
+            <link>https://www.elle.co.kr/article/67302</link>
+            <guid>https://www.elle.co.kr/article/67302</guid>
+            <pubDate>Sat, 18 Jun 2022 10:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[수집가라면 눈 돌아갈 한정판 레코드 오프라인 행사도 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/8397ec55-fb4d-4cce-93a2-45f09d3f1f2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슬릭의 뜨겁고 가뿐한 마음 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/67266</link>
             <guid>https://www.elle.co.kr/article/67266</guid>
@@ -1252,7 +1260,6 @@
             <guid>https://www.elle.co.kr/article/66709</guid>
             <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[올해를 뜨겁게 달굴 내한 공연과 페스티벌.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/26814a9f-055f-4d14-a12a-b64d0cb318cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로제 거울 셀카 찍는 법 최초 공개?! 로제는 스마트 폰에 블랙핑크 멤버들을 뭐라고 저장했을까 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1309,13 +1316,6 @@
             <guid>https://www.elle.co.kr/article/64944</guid>
             <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[4인조로 하는 사실상 첫 활동.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“어떤 노래 들어요?” AOMG 쿠기의 플레이리스트 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
-            <link>https://www.elle.co.kr/article/64363</link>
-            <guid>https://www.elle.co.kr/article/64363</guid>
-            <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[쿠기 피셜 산책 &amp; 운동할 때 듣기 좋은 음악 리스트.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[히어로 나탈리 포트만에 칸 제패한 송강호X전도연, '범죄도시2' 이후의 '천만 영화' 후보 3 ② (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
