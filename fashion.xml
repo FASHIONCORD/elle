@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 16:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 17:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지드래곤이 ‘샤넬 커넥츠’ 시즌 2에서 이야기 하는 것]]></title>
+            <link>https://www.elle.co.kr/article/67244</link>
+            <guid>https://www.elle.co.kr/article/67244</guid>
+            <pubDate>Sun, 19 Jun 2022 17:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬의 예술 문화 팟캐스트 ‘샤넬 커넥츠’ 시즌 2가 돌아온다. 지드래곤은 일곱 번째 에피소드...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/47212bcf-31b5-4e28-802a-14489134b4dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지도앱에 여기 추가! 지금 가봐야할 한남동의 플래그십 스토어 3곳]]></title>
             <link>https://www.elle.co.kr/article/67255</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Jun 2022 08:20:17 GMT</pubDate>
             <content:encoded><![CDATA[스트레스 받지 않고 아름다운 보디라인을 갖기 위한 방법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/75fe2be7-ae60-4d35-98a7-a6ffd17291e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름휴가를 떠난 스타들! 어떤 스윔웨어를 입었을까?]]></title>
-            <link>https://www.elle.co.kr/article/67153</link>
-            <guid>https://www.elle.co.kr/article/67153</guid>
-            <pubDate>Tue, 14 Jun 2022 18:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[수영복 입으려고 여름 기다린 사람 손! 쇼핑 전 스타의 스윔웨어부터 스타일링까지 참고해보세요...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/f5828239-2fb5-49db-b511-4e7992fa997d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
