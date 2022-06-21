@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 03:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 04:39:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톰 크루즈부터 탕웨이까지, '범죄도시2' 이후의 '천만 영화' 후보 3 ①]]></title>
+            <link>https://www.elle.co.kr/article/67262</link>
+            <guid>https://www.elle.co.kr/article/67262</guid>
+            <pubDate>Tue, 21 Jun 2022 04:36:54 GMT</pubDate>
+            <content:encoded><![CDATA[남은 6월 개봉하는 기대작들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/3f8daff7-d1a6-4d88-8631-3381d7ff2974.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스가 만든다는 '오징어게임' 현실판 예능, 상금과 참가 자격은?]]></title>
             <link>https://www.elle.co.kr/article/67233</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/67082</guid>
             <pubDate>Wed, 15 Jun 2022 04:33:50 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/cfdb8ae7-a397-4d70-ad7a-088b533b542d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구?]]></title>
-            <link>https://www.elle.co.kr/article/67054</link>
-            <guid>https://www.elle.co.kr/article/67054</guid>
-            <pubDate>Tue, 14 Jun 2022 08:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹 이후 첫 '천만 영화' 등극 유력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/207c8067-d8ce-44db-a325-0fa390544cb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

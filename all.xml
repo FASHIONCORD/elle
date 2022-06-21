@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 03:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 04:39:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/bb1fe9ad-5814-426b-9e9c-5a83222c01f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[톰 크루즈부터 탕웨이까지, '범죄도시2' 이후의 '천만 영화' 후보 3 ① (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/67262</link>
+            <guid>https://www.elle.co.kr/article/67262</guid>
+            <pubDate>Thu, 16 Jun 2022 10:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[남은 6월 개봉하는 기대작들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/3f8daff7-d1a6-4d88-8631-3381d7ff2974.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스가 만든다는 '오징어게임' 현실판 예능, 상금과 참가 자격은? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/67233</link>
             <guid>https://www.elle.co.kr/article/67233</guid>
@@ -1215,12 +1223,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/cfdb8ae7-a397-4d70-ad7a-088b533b542d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구? (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/67054</link>
-            <guid>https://www.elle.co.kr/article/67054</guid>
-            <pubDate>Wed, 08 Jun 2022 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹 이후 첫 '천만 영화' 등극 유력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/207c8067-d8ce-44db-a325-0fa390544cb8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[또 나온 K-천재, 반 클라이번 콩쿨 역대 최연소 우승자 임윤찬은 욕심이 없다 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
+            <link>https://www.elle.co.kr/article/67360</link>
+            <guid>https://www.elle.co.kr/article/67360</guid>
+            <pubDate>Tue, 21 Jun 2022 04:37:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/19ff5543-f33a-463c-974c-d5e85b8527fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화양연화 LP 아직 못 구한 사람? 가벼움의 시대에 만난 무거운 낭만, 레코드 수집 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1252,7 +1259,6 @@
             <guid>https://www.elle.co.kr/article/66924</guid>
             <pubDate>Thu, 02 Jun 2022 15:20:09 GMT</pubDate>
             <content:encoded><![CDATA[마음에 콕 박히는 장들레의 일상적인 가사]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/09c1e3f7-8e07-44c0-ae77-d4c813131020.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 내한 공연 최신 업데이트.zip (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1309,13 +1315,6 @@
             <guid>https://www.elle.co.kr/article/65682</guid>
             <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[러시아의 자존심과도 같던 차이콥스키 콩쿠르가 보이콧을 당하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4인조 빅뱅, 컴백 날짜 확정! YG 그만 둔다는 탑의 행보는? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
-            <link>https://www.elle.co.kr/article/64944</link>
-            <guid>https://www.elle.co.kr/article/64944</guid>
-            <pubDate>Sat, 28 May 2022 04:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[4인조로 하는 사실상 첫 활동.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서현진 VS 서예지 VS 염정아, 잘 되는 이유가 있는 ‘여성 원톱’ 드라마 3 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
