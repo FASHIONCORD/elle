@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 01:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 03:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/bb1fe9ad-5814-426b-9e9c-5a83222c01f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스가 만든다는 '오징어게임' 현실판 예능, 상금과 참가 자격은? (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/67233</link>
+            <guid>https://www.elle.co.kr/article/67233</guid>
+            <pubDate>Wed, 15 Jun 2022 09:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스의 뇌절임을 부정할 수 없지만 궁금하긴 한 예능.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/a703d1cd-c189-45da-bb05-11259a5383db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS가 눈물과 함께 그룹 활동 잠정 중단을 선언한 이유와 향후 행보 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/67220</link>
             <guid>https://www.elle.co.kr/article/67220</guid>
@@ -1213,14 +1221,6 @@
             <pubDate>Wed, 08 Jun 2022 06:21:15 GMT</pubDate>
             <content:encoded><![CDATA[팬데믹 이후 첫 '천만 영화' 등극 유력.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/207c8067-d8ce-44db-a325-0fa390544cb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 영화가 뜬다? 2022년 칸 영화제에서 상 받은 작품 요약 정리.zip (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/67013</link>
-            <guid>https://www.elle.co.kr/article/67013</guid>
-            <pubDate>Tue, 07 Jun 2022 07:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[제 75회 칸 영화제에서 수상한 작품 7.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/c73e29c1-ae03-4879-90ed-c34a646a7362.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화양연화 LP 아직 못 구한 사람? 가벼움의 시대에 만난 무거운 낭만, 레코드 수집 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
