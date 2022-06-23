@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 03:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 04:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[걸리시 혹은 톰보이! '별똥별' 이성경 VS 김윤혜 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/67387</link>
+            <guid>https://www.elle.co.kr/article/67387</guid>
+            <pubDate>Thu, 23 Jun 2022 04:34:10 GMT</pubDate>
+            <content:encoded><![CDATA[스타들을 빛나게 하기 위해 고군분투 하는 이들의 리얼한 현장 이야기를 담은 로맨틱 코미디 드...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/5d7a30bc-2bc3-4f13-8516-ba0df7b12b14.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌아온 페스티벌, HOT! 스타의 페스티벌 패션 엿보기]]></title>
             <link>https://www.elle.co.kr/article/67385</link>
@@ -60,13 +68,6 @@
             <guid>https://www.elle.co.kr/article/67354</guid>
             <pubDate>Wed, 22 Jun 2022 03:29:20 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/44dd887e-c59f-44f4-a0ed-c45d4b7da790.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무조건 빠진다! 두 달 동안 28kg 감량한 진서연의 다이어트 식단에 포함된 건 무엇?]]></title>
-            <link>https://www.elle.co.kr/article/67318</link>
-            <guid>https://www.elle.co.kr/article/67318</guid>
-            <pubDate>Tue, 21 Jun 2022 11:24:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/de4ec81c-0e17-428d-b554-240f6361c740.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
