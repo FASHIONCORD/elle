@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 01:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 03:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌아온 페스티벌, HOT! 스타의 페스티벌 패션 엿보기]]></title>
+            <link>https://www.elle.co.kr/article/67385</link>
+            <guid>https://www.elle.co.kr/article/67385</guid>
+            <pubDate>Thu, 23 Jun 2022 03:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[본격적으로 시작된 페스티벌 시즌, 멋쟁이가 되고 싶다면 주목할 것! 페스티벌에 간 스타들의 패...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/4ef83b46-7230-4245-ba9b-4931c784c942.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들 우기의 슈퍼파워]]></title>
             <link>https://www.elle.co.kr/article/67358</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/67318</guid>
             <pubDate>Tue, 21 Jun 2022 11:24:45 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/de4ec81c-0e17-428d-b554-240f6361c740.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭐야 둘이...? 중학교 때 2주 사귀고 '우결'까지 찍은 딘딘X조현영]]></title>
-            <link>https://www.elle.co.kr/article/67304</link>
-            <guid>https://www.elle.co.kr/article/67304</guid>
-            <pubDate>Tue, 21 Jun 2022 08:25:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/19/65912be3-3a20-44fa-aa72-45cf86cb81dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
