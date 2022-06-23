@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 23:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 01:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들 우기의 슈퍼파워]]></title>
+            <link>https://www.elle.co.kr/article/67358</link>
+            <guid>https://www.elle.co.kr/article/67358</guid>
+            <pubDate>Thu, 23 Jun 2022 01:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[뭐든 다 잘하는 우기가&nbsp;(여자)아이들 첫 번째 월드투어로 세계 정복에 나섰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/aec8f6e6-c74d-453c-98fc-d7e9c682b548.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿨한 여름 룩의 정석은 흰 티셔츠에 청바지!]]></title>
+            <link>https://www.elle.co.kr/article/67376</link>
+            <guid>https://www.elle.co.kr/article/67376</guid>
+            <pubDate>Thu, 23 Jun 2022 01:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[로제부터 차정원까지 활용 만점 화이트 티셔츠에 청바지 조합으로 여름 데일리 룩을 완성한 스타...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/0baeac98-05f8-465f-b938-67b1dcda61bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[30~40번 더 올 거라고?! 부산 명예시민 톰 크루즈의 의리 있는 10번째 내한]]></title>
             <link>https://www.elle.co.kr/article/67368</link>
@@ -50,21 +66,6 @@
             <guid>https://www.elle.co.kr/article/67304</guid>
             <pubDate>Tue, 21 Jun 2022 08:25:11 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/19/65912be3-3a20-44fa-aa72-45cf86cb81dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히어로 나탈리 포트만에 칸 제패한 송강호X전도연, '범죄도시2' 이후의 '천만 영화' 후보 3 ②]]></title>
-            <link>https://www.elle.co.kr/article/67284</link>
-            <guid>https://www.elle.co.kr/article/67284</guid>
-            <pubDate>Tue, 21 Jun 2022 06:19:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/c96bad78-fcbb-4cd2-a1db-44c3657cea83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유미와 바비가 '찐'으로 만났다? 김고은과 박진영의 러블리한 순간]]></title>
-            <link>https://www.elle.co.kr/article/67256</link>
-            <guid>https://www.elle.co.kr/article/67256</guid>
-            <pubDate>Tue, 21 Jun 2022 01:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[바비를 만나 다시 바빠진 유미의 세포들. 김고은 &amp; 박진영의 현실 케미]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/b9e1c528-506f-4ce3-806a-68636c73e990.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
