@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 18:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 19:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjJfMjI3/MDAxNjE5MDcyMTk1ODMz.IWOc1-Cy4zAtcIryj7M6b6pcsHpDHrQjvGCHw036kGUg.FngG4BcThFMIdttTow0S9dpau3Nqn_HUhlKkowTQPrEg.PNG/IX0W0OYeKwn4pZNw7Hauy0cOxgLQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[포니는 못 참지 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/67411</link>
+            <guid>https://www.elle.co.kr/article/67411</guid>
+            <pubDate>Sat, 25 Jun 2022 19:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[폴로 셔츠 50년 역사를 한 권에 담은 책. 무려 544페이지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/e34ec920-13da-44ed-8ba1-c35fe481f6b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여름을 위하여! 최신 버전 헤어핀 스타일 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/67388</link>
             <guid>https://www.elle.co.kr/article/67388</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 22 Jun 2022 03:28:54 GMT</pubDate>
             <content:encoded><![CDATA[가브리엘 샤넬이 가장 사랑한 숫자 5에서 영감받은 샤넬 이터널 N°5 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/2c187b21-1cee-4e6c-912e-af6207b6a33b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수샤샤의 집을 설계한 사람? (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/66718</link>
-            <guid>https://www.elle.co.kr/article/66718</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:54 GMT</pubDate>
-            <content:encoded><![CDATA[평화와 안식을 위한 세계를 일궈내는 건축가 겸 디자이너 이혜인의 사적인 취향.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/4f502208-7527-407a-b9a8-a7984b2538a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무조건 빠진다! 두 달 동안 28kg 감량한 진서연의 다이어트 식단에 포함된 건 무엇? (엘르 코리아 ─ 뷰티)]]></title>
