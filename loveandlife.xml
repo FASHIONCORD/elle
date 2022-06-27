@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 22:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 23:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실패 확률 0%! 냉소바 맛집 리스트 3]]></title>
+            <link>https://www.elle.co.kr/article/67252</link>
+            <guid>https://www.elle.co.kr/article/67252</guid>
+            <pubDate>Mon, 27 Jun 2022 23:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[정통 스타일 소바부터 해장용 냉모밀까지. 시원한 냉모밀 맛집 리스트를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/1182788a-1ac4-4e1e-8fcf-d0ab51517c7b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀럽이 다녀온 청량함 가득한 카페 3]]></title>
             <link>https://www.elle.co.kr/article/67227</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 13 Jun 2022 20:21:11 GMT</pubDate>
             <content:encoded><![CDATA[미래의 나에게 엽서를 쓸 수 있는 수플레 맛집도 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/5c69a0b0-8f4b-4f52-a355-164cc7590811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸르른 뷰 맛집! 서촌의 마운틴뷰 카페 리스트 (feat.나혼산, 파비앙)]]></title>
-            <link>https://www.elle.co.kr/article/66960</link>
-            <guid>https://www.elle.co.kr/article/66960</guid>
-            <pubDate>Mon, 13 Jun 2022 04:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;나 혼자 산다&gt; 파비앙이 사랑한 동네 서촌! 복잡한 도심을 벗어나 인왕산의 정취와 함께 커피...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/1a814b34-0c8e-4a98-ab24-af6e16562b06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
