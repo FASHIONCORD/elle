@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 15:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 16:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[센스 있는 여름 패션의 치트키, 펜던트 네크리스 쇼핑 리스트 6]]></title>
+            <link>https://www.elle.co.kr/article/67468</link>
+            <guid>https://www.elle.co.kr/article/67468</guid>
+            <pubDate>Mon, 27 Jun 2022 16:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[옷은 가볍게, 주얼리는 무겁게! 평범한 티셔츠 위에 포인트를 더해 줄 펜던트 네크리스 쇼핑 리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/0493ee99-f776-450f-8211-0e8d40bad346.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[떠나요~혼자서! ‘솔캠’ 확실하게 즐기는 법]]></title>
             <link>https://www.elle.co.kr/article/67460</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Jun 2022 04:36:56 GMT</pubDate>
             <content:encoded><![CDATA[코어 발달과 유연성, 정신 건강까지 한번에!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/e5fcb7ab-fd67-4e18-86c0-1694155951d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배구 황제 김연경이 다소 귀여운 연봉에도 흥국생명으로 복귀하는 배경]]></title>
-            <link>https://www.elle.co.kr/article/67391</link>
-            <guid>https://www.elle.co.kr/article/67391</guid>
-            <pubDate>Fri, 24 Jun 2022 01:10:47 GMT</pubDate>
-            <content:encoded><![CDATA['배구 황제'에게는 여전히 부족한 연봉.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/8cb876c0-1b86-4f8e-b5d8-3e19ba74567a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
