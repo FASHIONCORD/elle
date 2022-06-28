@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 11:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 12:34:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고?]]></title>
+            <link>https://www.elle.co.kr/article/67515</link>
+            <guid>https://www.elle.co.kr/article/67515</guid>
+            <pubDate>Tue, 28 Jun 2022 12:30:03 GMT</pubDate>
+            <content:encoded><![CDATA[그 동안 멤버들은 믹스 테잎 등 무료 공개 음원으로 솔로 활동을 해 왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/80b3f18c-af3d-4da2-a8b2-fd315bfd3fe6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장나라 드라마 남주 총 집합! 결혼식에 펼쳐진 장나라 유니버스 (feat. 사진 모음)]]></title>
             <link>https://www.elle.co.kr/article/67495</link>
@@ -60,14 +68,6 @@
             <pubDate>Sat, 25 Jun 2022 21:12:43 GMT</pubDate>
             <content:encoded><![CDATA[그의 뛰어난 관찰력과 표현력은 이미 모두가 알고 있는 바.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/4deda578-6567-4cba-802d-9bc7e6993161.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구준엽이 직접 밝힌 서희원과 처음 헤어지던 날, 그리고 결혼 관련 루머 셋 (feat. 투샷 모음)]]></title>
-            <link>https://www.elle.co.kr/article/67416</link>
-            <guid>https://www.elle.co.kr/article/67416</guid>
-            <pubDate>Sat, 25 Jun 2022 21:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[처음 공개하는 아내 서희원과의 사진들도.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/5ed3f6c5-ab82-4151-883b-1cca99d0f635.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
