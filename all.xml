@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 17:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 18:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1499,6 +1499,13 @@
             <content:encoded><![CDATA[픽셀 아트와 모노크롬 컴퓨터그래픽을 기반으로 다채로운 콘텐츠를 만들어내는 그룹 미지.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[여기 한 번 가 보슈! 보은 대추와 제철 과일 디저트가 있는  보은 감성 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/67296</link>
+            <guid>https://www.elle.co.kr/article/67296</guid>
+            <pubDate>Tue, 28 Jun 2022 18:29:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/a502745f-34a4-4375-9a87-12519707d515.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[실패 확률 0%! 냉소바 맛집 리스트 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/67252</link>
             <guid>https://www.elle.co.kr/article/67252</guid>
@@ -1552,14 +1559,6 @@
             <guid>https://www.elle.co.kr/article/67000</guid>
             <pubDate>Wed, 15 Jun 2022 06:23:12 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/e8a442d0-4e58-4d35-b23d-76127a1f6de0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반려동물과 어린이 환영! 각종 이색 체험으로 SNS 점령한 강화 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/66962</link>
-            <guid>https://www.elle.co.kr/article/66962</guid>
-            <pubDate>Mon, 13 Jun 2022 20:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[미래의 나에게 엽서를 쓸 수 있는 수플레 맛집도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/5c69a0b0-8f4b-4f52-a355-164cc7590811.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쓸 어 버 려_요주의여성 #62 (엘르 코리아 ─ 소사이어티)]]></title>
