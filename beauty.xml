@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 10:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 11:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나도 해 볼까? 아이브 장원영+에스파 카리나의 몸매 비결 플라잉요가! #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/67412</link>
+            <guid>https://www.elle.co.kr/article/67412</guid>
+            <pubDate>Tue, 28 Jun 2022 11:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[코어 발달과 유연성, 정신 건강까지 한번에!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/e5fcb7ab-fd67-4e18-86c0-1694155951d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름을 위하여! 최신 버전 헤어핀 스타일]]></title>
             <link>https://www.elle.co.kr/article/67388</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 20 Jun 2022 11:12:46 GMT</pubDate>
             <content:encoded><![CDATA[발레의 우아한 움직임에 역동적 현대 무용을 더한 전신 운동.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/1fbc867c-90b8-4a5c-a891-508afb412ac0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 두피에 안정을 되찾아줄 SOS 아이템]]></title>
-            <link>https://www.elle.co.kr/article/66715</link>
-            <guid>https://www.elle.co.kr/article/66715</guid>
-            <pubDate>Mon, 20 Jun 2022 09:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[두피를 지켜라!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/52610780-dc00-416a-90cd-147380dc8dde.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
