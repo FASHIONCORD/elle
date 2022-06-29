@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 01:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 03:52:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀짚모자를 더한 셀럽들의 세련되고 클래식한 휴양지 룩 6]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34042348&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34042348&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 29 Jun 2022 03:45:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjlfNjIg/MDAxNjU2NDc0MTUxMjk3.QmcuB4gJ1-9jMDRqT1q-gnAAMYszBCIgZeIoCKLiBgAg.RYMwDT2Zn0sILTPu1wtH88f3Y2mAiAbFetUY1WcIFfkg.JPEG/I_CklifdvYwerMYflzG70urTcYvs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 중 나의 취향은?셀럽들의 페스티벌 코디 모음 2022 ver.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34026579&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:30:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjRfMjM3/MDAxNjUzMzQ4MTk0MTcy.LW3XpH3HYEgAzN1NM-1q-h2XRr_gjHMa38D_Lh274_Ig.sLKTA98jcnQ73GwCyrQ9IFnKu3X3H4IqgnvgD-WFkHEg.JPEG/I7zdiz0AjV561D454HW_3eUf-aOI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이너의 반란! 화이트탱크톱 엣지있게 입는 법 8]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33830448&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33830448&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 02:30:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjBfMTE2/MDAxNjUzMDE2MTk4NjAw.ikIlZBGoY9VusIGNmHfuglEon9funDQqpaMjDFMyDCcg.mFHcHPcElXJajLfwzTEdoiSQoYwubpgy-fX8-UesoQ8g.JPEG/ImPPVtBqwvz3fVA-ojfyTCP4q3r0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
