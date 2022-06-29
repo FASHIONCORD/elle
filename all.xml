@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 17:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 18:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjJfMjI3/MDAxNjE5MDcyMTk1ODMz.IWOc1-Cy4zAtcIryj7M6b6pcsHpDHrQjvGCHw036kGUg.FngG4BcThFMIdttTow0S9dpau3Nqn_HUhlKkowTQPrEg.PNG/IX0W0OYeKwn4pZNw7Hauy0cOxgLQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[타투도 패션! 드러내면 더 멋진 스타의 타투 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/67571</link>
+            <guid>https://www.elle.co.kr/article/67571</guid>
+            <pubDate>Wed, 29 Jun 2022 18:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[반항적이고 신비로운 분위기 업! 타투 고민 중이라면 현아, 백예린, 태연 등 개성 넘치는 스타...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/47c15905-106e-4fa9-a49f-3cddda01cada.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태양을 피하고 싶어서 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/67533</link>
+            <guid>https://www.elle.co.kr/article/67533</guid>
+            <pubDate>Wed, 29 Jun 2022 18:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[물속으로 풍덩! 눈부신 태양을 피하는 현명한 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/57c5ed7a-a1de-4b9c-8c74-5ca9686f36d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[치약도 프리미엄 시대 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/67473</link>
             <guid>https://www.elle.co.kr/article/67473</guid>
@@ -1014,22 +1030,6 @@
             <pubDate>Sun, 26 Jun 2022 15:14:32 GMT</pubDate>
             <content:encoded><![CDATA[밀란 패션위크에 참석해 펜디와 프라다의 포토월에 선 송강과 재현, 지코의 패션을 분석합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/ab4d29d1-58ac-4c06-9cb2-04e4a14d45e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포니는 못 참지 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67411</link>
-            <guid>https://www.elle.co.kr/article/67411</guid>
-            <pubDate>Sat, 25 Jun 2022 19:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[폴로 셔츠 50년 역사를 한 권에 담은 책. 무려 544페이지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/e34ec920-13da-44ed-8ba1-c35fe481f6b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름을 위하여! 최신 버전 헤어핀 스타일 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67388</link>
-            <guid>https://www.elle.co.kr/article/67388</guid>
-            <pubDate>Sat, 25 Jun 2022 15:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[더운 여름 땀에 전 앞머리를 피하고 싶다면 가방 속에 두 개의 헤어핀을 준비하세요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/be43d2ca-e6fe-4a4b-ab36-214eae885d77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안 챙기면 손해! 여름 골프 라운딩 필수 뷰티 아이템 4 (엘르 코리아 ─ 뷰티)]]></title>
