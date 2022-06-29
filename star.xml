@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 07:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손예진 결혼 3개월 만에 임신 발표! 유쾌함 그 자체인 찐친들의 반응]]></title>
+            <link>https://www.elle.co.kr/article/67538</link>
+            <guid>https://www.elle.co.kr/article/67538</guid>
+            <pubDate>Wed, 29 Jun 2022 07:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[손예진이 엄마, 현빈이 아빠?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/7b072011-7470-4348-9294-8023c435e32a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리들의 윤서]]></title>
+            <link>https://www.elle.co.kr/article/67534</link>
+            <guid>https://www.elle.co.kr/article/67534</guid>
+            <pubDate>Wed, 29 Jun 2022 07:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[노윤서를 모르던 지난 봄 그리고 그녀를 알게 될 앞으로의 수많은 봄.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/09d08fc9-5ff2-44a2-a88a-cf0fd9c19581.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 여전히 아직 다 알지 못하는 얼굴, 전도연]]></title>
             <link>https://www.elle.co.kr/article/67518</link>
@@ -52,22 +68,6 @@
             <pubDate>Mon, 27 Jun 2022 08:21:04 GMT</pubDate>
             <content:encoded><![CDATA[반려견과 오붓한 캠핑부터 사색에 잠길 수 있는 카크닉까지! 스타가 전하는 다양한 솔로 캠핑의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/25/df9c0eb1-e664-45d8-8872-04b7e80d14dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 애틋한 사이였어...? 상병 김동준과 극적 상봉한 백종원이 눈물부터 흘린 까닭]]></title>
-            <link>https://www.elle.co.kr/article/67436</link>
-            <guid>https://www.elle.co.kr/article/67436</guid>
-            <pubDate>Mon, 27 Jun 2022 08:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[보기 좋은 인생 선후배 관계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/a845273e-7067-47ad-9041-3a9d5b9c9339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노윤서 <엘르> 7월호에서 싱그러운 매력 대공개]]></title>
-            <link>https://www.elle.co.kr/article/67415</link>
-            <guid>https://www.elle.co.kr/article/67415</guid>
-            <pubDate>Mon, 27 Jun 2022 08:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 ‘우리들의 블루스’로 데뷔한 배우 노윤서와 패션 매거진 &lt;엘르&gt;가 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/270cf68b-8567-4149-b14a-96a90019da66.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
