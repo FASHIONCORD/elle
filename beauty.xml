@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 05:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 06:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBTI보다 100배 정확해! 20만원으로 내 유전자의 비밀을 아는 법]]></title>
+            <link>https://www.elle.co.kr/article/67485</link>
+            <guid>https://www.elle.co.kr/article/67485</guid>
+            <pubDate>Thu, 30 Jun 2022 06:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[난 어떤 병에 걸리기 쉬울까? 내 조상 중에 아프리카 사람이 있다고? CircleDNA 체험기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/f12d0131-9543-4de7-955b-22fef19b59c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[치약도 프리미엄 시대]]></title>
             <link>https://www.elle.co.kr/article/67473</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/67318</guid>
             <pubDate>Fri, 24 Jun 2022 07:15:27 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/de4ec81c-0e17-428d-b554-240f6361c740.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름맞이 헤어 스타일? 셀럽처럼 시원하게 싹둑!]]></title>
-            <link>https://www.elle.co.kr/article/67299</link>
-            <guid>https://www.elle.co.kr/article/67299</guid>
-            <pubDate>Thu, 23 Jun 2022 01:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운 똑 단발부터 쿨한 레이어드 컷까지! 따라하고 싶은 스타들의 커트 헤어 스타일을 구경해...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/f71e7124-03b6-4c6c-9ec2-51423afb694d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
