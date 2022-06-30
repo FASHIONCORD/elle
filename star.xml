@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 23:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 01:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<종이의 집> 유지태, 박해수, 전종서가 만든 세상]]></title>
+            <link>https://www.elle.co.kr/article/67580</link>
+            <guid>https://www.elle.co.kr/article/67580</guid>
+            <pubDate>Thu, 30 Jun 2022 01:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[유지태, 박해수 그리고 전종서가 모인 &lt;종이의 집: 공동경제구역&gt;이라는 어떤 영역. 그곳에서 세...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/16c16328-7a44-44e4-86d2-65baba714811.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머리부터 발끝까지! 제니의 내돈내산 셀프 케어 아이템 7]]></title>
             <link>https://www.elle.co.kr/article/67570</link>
@@ -61,13 +69,6 @@
             <guid>https://www.elle.co.kr/article/67495</guid>
             <pubDate>Tue, 28 Jun 2022 07:15:45 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/cc3b30f7-1585-4942-bec6-2d48d778cee3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탤런트 시험 나란히 떨어진 사이? 모두가 못 믿은 유지태X김준호의 26년 우정]]></title>
-            <link>https://www.elle.co.kr/article/67469</link>
-            <guid>https://www.elle.co.kr/article/67469</guid>
-            <pubDate>Tue, 28 Jun 2022 05:24:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/61d9f870-6086-430d-b8d5-b3ce9f9866f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
