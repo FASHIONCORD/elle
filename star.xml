@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 15:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 16:27:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['편스토랑'으로 7kg 쪘다는 이유리, 한 달 만에 근육질 몸매 완성한 다이어트 운동은?]]></title>
+            <link>https://www.elle.co.kr/article/67603</link>
+            <guid>https://www.elle.co.kr/article/67603</guid>
+            <pubDate>Thu, 30 Jun 2022 16:22:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/626f6b64-b8fa-4ee7-8dbc-c1b18c518a05.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단아 혹은 화려! '우리는 오늘부터' 임수향 VS 홍지윤 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/67595</link>
@@ -61,14 +68,6 @@
             <pubDate>Wed, 29 Jun 2022 07:15:37 GMT</pubDate>
             <content:encoded><![CDATA[노윤서를 모르던 지난 봄 그리고 그녀를 알게 될 앞으로의 수많은 봄.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/09d08fc9-5ff2-44a2-a88a-cf0fd9c19581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 여전히 아직 다 알지 못하는 얼굴, 전도연]]></title>
-            <link>https://www.elle.co.kr/article/67518</link>
-            <guid>https://www.elle.co.kr/article/67518</guid>
-            <pubDate>Tue, 28 Jun 2022 16:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[누구보다 인간다운 한편 야생적 본능으로 번뜩이는 존재. 우리가 여전히 아직 다 알지 못하는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/d2d8a74b-d7d4-45f6-9cf7-049dfcfd403f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
