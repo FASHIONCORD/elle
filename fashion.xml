@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 09:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 10:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단아 혹은 화려! '우리는 오늘부터' 임수향 VS 홍지윤 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/67595</link>
+            <guid>https://www.elle.co.kr/article/67595</guid>
+            <pubDate>Fri, 01 Jul 2022 10:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[뜻밖의 사고에서 시작된 로맨틱 코미디 소동극 '우리는 오늘부터'! 이 드라마를 이끈 두 배우,...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/0e06c2f1-26a5-4bd5-928a-f255958bc32f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더운 여름 날, 필드를 누비는 스타의 라운딩 룩 6]]></title>
             <link>https://www.elle.co.kr/article/67581</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Jun 2022 20:15:51 GMT</pubDate>
             <content:encoded><![CDATA[이번 여름, 틴티드 선글라스로 세상을 물들여보자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/3d585881-ae65-490c-a322-a60c72cda29d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넓은 챙으로 쿨하게! 스타들이 고른 태양을 피하는 '보터햇']]></title>
-            <link>https://www.elle.co.kr/article/67461</link>
-            <guid>https://www.elle.co.kr/article/67461</guid>
-            <pubDate>Tue, 28 Jun 2022 09:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 햇빛을 막아주고 스타일 지수는 올려주는 밀짚모자, ‘스트로 햇’ 스타일링부터 쇼핑리스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/25/a001abc5-ad29-43fe-b06b-ee4a686abada.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
