@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 15:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 16:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발끝까지 스타일리시하게! 여름 슈즈 스타일]]></title>
+            <link>https://www.elle.co.kr/article/67627</link>
+            <guid>https://www.elle.co.kr/article/67627</guid>
+            <pubDate>Fri, 01 Jul 2022 16:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[쿨한 플립플랍부터 컬러풀한 뮬까지 셀럽의 다양한 여름 슈즈 스타일! 쇼핑 전 참고해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/64b56423-2ae7-4c6b-9b67-e7cb74fde356.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단아 혹은 화려! '우리는 오늘부터' 임수향 VS 홍지윤 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/67595</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Jun 2022 20:15:51 GMT</pubDate>
             <content:encoded><![CDATA[옷은 가볍게, 주얼리는 무겁게! 평범한 티셔츠 위에 포인트를 더해 줄 펜던트 네크리스 쇼핑 리...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/0493ee99-f776-450f-8211-0e8d40bad346.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물드는 계절]]></title>
-            <link>https://www.elle.co.kr/article/67466</link>
-            <guid>https://www.elle.co.kr/article/67466</guid>
-            <pubDate>Tue, 28 Jun 2022 20:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[이번 여름, 틴티드 선글라스로 세상을 물들여보자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/3d585881-ae65-490c-a322-a60c72cda29d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
