@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 10:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 11:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1313,6 +1313,14 @@
             <content:encoded><![CDATA[키워드는 한강 노을섬, 해질녘, 초여름 바람, 그리고 뮤지션 10CM, 죠지(george), 유라(youra), 미...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[차은우가 할리우드 합작 영화에? 'K팝: 로스트 인 아메리카' 정보 모음.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/67714</link>
+            <guid>https://www.elle.co.kr/article/67714</guid>
+            <pubDate>Fri, 01 Jul 2022 11:15:32 GMT</pubDate>
+            <content:encoded><![CDATA['최최차차'라면 기다려 봐도 좋을 듯.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/8135bf36-edfc-453a-bb20-ea2d29641db3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['안나' vs '종이의 집' vs '최종병기 앨리스', OTT 신작 첫방 승자는? #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/67498</link>
             <guid>https://www.elle.co.kr/article/67498</guid>
@@ -1342,7 +1350,6 @@
             <guid>https://www.elle.co.kr/article/67368</guid>
             <pubDate>Tue, 21 Jun 2022 08:27:33 GMT</pubDate>
             <content:encoded><![CDATA[이미 북미에서 개봉했지만 스케줄까지 조정하며 한국에 온 톰 크루즈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/40997f88-b29c-4d13-bb75-dbc491ecfda3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서현진 VS 서예지 VS 염정아, 잘 되는 이유가 있는 ‘여성 원톱’ 드라마 3 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1396,13 +1403,6 @@
             <link>https://www.elle.co.kr/article/67082</link>
             <guid>https://www.elle.co.kr/article/67082</guid>
             <pubDate>Thu, 09 Jun 2022 06:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/67054</link>
-            <guid>https://www.elle.co.kr/article/67054</guid>
-            <pubDate>Wed, 08 Jun 2022 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹 이후 첫 '천만 영화' 등극 유력.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이번 주 꼭 챙겨야 할, 지금 막 시작한 서울 전시 2 (feat. BTS가 설명하고 GD 다녀 감) (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
