@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 05:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 06:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑스러운 레트로 무드 뿜뿜!  유미의세포 시즌2 김고은과 박진영]]></title>
+            <link>https://www.elle.co.kr/article/67629</link>
+            <guid>https://www.elle.co.kr/article/67629</guid>
+            <pubDate>Sat, 02 Jul 2022 06:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[유미의 세포들이 다시 분주해졌다. 미처 추억이 되기 전에 미리 기념사진으로 남긴 유미와 바비...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/c53cb5f6-dd59-4f18-ac32-74783d47c38c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['넷플릭스 커플' 전종서-이충현 감독은 어떻게 연애할까?]]></title>
             <link>https://www.elle.co.kr/article/67672</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/67593</guid>
             <pubDate>Thu, 30 Jun 2022 08:22:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/dbe0b02c-7f5e-45c9-af9f-6537927efd12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<종이의 집> 유지태, 박해수, 전종서가 만든 세상]]></title>
-            <link>https://www.elle.co.kr/article/67580</link>
-            <guid>https://www.elle.co.kr/article/67580</guid>
-            <pubDate>Thu, 30 Jun 2022 01:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[유지태, 박해수 그리고 전종서가 모인 &lt;종이의 집: 공동경제구역&gt;이라는 어떤 영역. 그곳에서 세...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/16c16328-7a44-44e4-86d2-65baba714811.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
