@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 06:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 07:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김고은, <엘르>D에디션 커버 공개 #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/67697</link>
+            <guid>https://www.elle.co.kr/article/67697</guid>
+            <pubDate>Sat, 02 Jul 2022 07:14:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/dbe2b1f1-c540-47c0-a15b-dd3f687d801e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑스러운 레트로 무드 뿜뿜!  유미의세포 시즌2 김고은과 박진영]]></title>
             <link>https://www.elle.co.kr/article/67629</link>
@@ -60,13 +67,6 @@
             <pubDate>Thu, 30 Jun 2022 08:22:30 GMT</pubDate>
             <content:encoded><![CDATA[뜻밖의 사고에서 시작된 로맨틱 코미디 소동극 '우리는 오늘부터'! 이 드라마를 이끈 두 배우,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/0e06c2f1-26a5-4bd5-928a-f255958bc32f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상탈보수남도 공개했다! 방탄소년단 전 멤버가 몸에 새긴 우정 타투 사진 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/67593</link>
-            <guid>https://www.elle.co.kr/article/67593</guid>
-            <pubDate>Thu, 30 Jun 2022 08:22:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/dbe0b02c-7f5e-45c9-af9f-6537927efd12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
