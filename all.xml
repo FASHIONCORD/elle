@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 15:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 16:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,21 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjJfMjI3/MDAxNjE5MDcyMTk1ODMz.IWOc1-Cy4zAtcIryj7M6b6pcsHpDHrQjvGCHw036kGUg.FngG4BcThFMIdttTow0S9dpau3Nqn_HUhlKkowTQPrEg.PNG/IX0W0OYeKwn4pZNw7Hauy0cOxgLQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신민아의 완벽한 하루 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/67630</link>
+            <guid>https://www.elle.co.kr/article/67630</guid>
+            <pubDate>Sat, 02 Jul 2022 16:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;우리들의 블루스&gt; 민선아에서 지방시뷰티의 뮤즈로 돌아온 그녀. 지방시뷰티의 뷰티 루틴으로 건...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/e2b0c439-fea2-4c94-995d-c60abbb451b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김고은, <엘르>D에디션 커버 공개 #ELLE_D에디션 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/67697</link>
+            <guid>https://www.elle.co.kr/article/67697</guid>
+            <pubDate>Sat, 02 Jul 2022 07:14:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/dbe2b1f1-c540-47c0-a15b-dd3f687d801e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에이치픽스와 콘란샵, 두 리빙숍의 끝없는 도전. (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/67693</link>
             <guid>https://www.elle.co.kr/article/67693</guid>
@@ -1014,22 +1029,6 @@
             <pubDate>Thu, 30 Jun 2022 16:21:47 GMT</pubDate>
             <content:encoded><![CDATA[필드에서도 스타일을 놓칠 수 없다면 주목하세요! 사랑스러운 파스텔톤부터 시크한 모노톤까지 셀...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/3b070bfb-d9f4-455c-a687-0e042ac6ddac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시대 초월, 세대 초월! 샤넬의 아이웨어 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67577</link>
-            <guid>https://www.elle.co.kr/article/67577</guid>
-            <pubDate>Thu, 30 Jun 2022 03:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 코드로 시대를 초월하는 아이웨어 스토리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/177083f2-721d-4ccb-9a9b-d38f30513cab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타투도 패션! 드러내면 더 멋진 스타의 타투 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67571</link>
-            <guid>https://www.elle.co.kr/article/67571</guid>
-            <pubDate>Wed, 29 Jun 2022 18:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[반항적이고 신비로운 분위기 업! 타투 고민 중이라면 현아, 백예린, 태연 등 개성 넘치는 스타...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/47c15905-106e-4fa9-a49f-3cddda01cada.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머리부터 발끝까지! 제니의 내돈내산 셀프 케어 아이템 7 (엘르 코리아 ─ 뷰티)]]></title>
