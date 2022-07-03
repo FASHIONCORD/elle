@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 15:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 16:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기억의 향, 로라 제임스 하퍼의 국내 론칭]]></title>
+            <link>https://www.elle.co.kr/article/67721</link>
+            <guid>https://www.elle.co.kr/article/67721</guid>
+            <pubDate>Sun, 03 Jul 2022 16:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[세상을 여행하고 영감을 줬던 장소들을 기리는 향을 만드는 로라 제임스 하퍼와의 만남.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/7c573be0-c3ab-4c3a-a111-b996670c5c13.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에세이집으로 돌아온 사진가 정멜멜]]></title>
             <link>https://www.elle.co.kr/article/67722</link>
@@ -60,14 +68,6 @@
             <pubDate>Fri, 01 Jul 2022 09:16:33 GMT</pubDate>
             <content:encoded><![CDATA[이 분야 최강자 이시영도 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/d1c1eeb4-2b1c-42b8-bce3-93ced4d42326.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 나온 한국 독립영화 중 최고? 영화 경아의딸의 세 사람.]]></title>
-            <link>https://www.elle.co.kr/article/67623</link>
-            <guid>https://www.elle.co.kr/article/67623</guid>
-            <pubDate>Fri, 01 Jul 2022 09:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;경아의 딸&gt;은 세대에 걸쳐 강요돼 관념 속에서 엄마와 딸이, 여성과 여성이 어떻게 서로를 이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/e16e60bc-f4fd-481e-9276-cc3ad89a6a63.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
