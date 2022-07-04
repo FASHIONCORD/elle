@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 09:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 10:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현실감 완벽한 캐릭터, 김고은의 ASK ME ANYTHING! #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/67727</link>
+            <guid>https://www.elle.co.kr/article/67727</guid>
+            <pubDate>Mon, 04 Jul 2022 10:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[피부박사의 현실 조언? 단발 머리와 헤어 피스? 이렇게나 현실감 완벽한 캐릭터, '일머리'가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/beed6175-f4ca-490f-af53-d465eb66dfd8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션 아이콘 김고은, 그와 샤넬의 아홉 가지 패션 스토리 #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/67726</link>
+            <guid>https://www.elle.co.kr/article/67726</guid>
+            <pubDate>Mon, 04 Jul 2022 10:18:28 GMT</pubDate>
+            <content:encoded><![CDATA['ELLE D Edition'과 함께한 배우 김고은. 섬세한 연기와 존재감 넘치는 그녀의 새로운 패션...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/c0f2839c-3193-4252-9f86-3d963209935b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기억의 향, 로라 제임스 하퍼의 국내 론칭]]></title>
             <link>https://www.elle.co.kr/article/67721</link>
@@ -44,7 +60,7 @@
             <guid>https://www.elle.co.kr/article/67629</guid>
             <pubDate>Sat, 02 Jul 2022 06:19:43 GMT</pubDate>
             <content:encoded><![CDATA[유미의 세포들이 다시 분주해졌다. 미처 추억이 되기 전에 미리 기념사진으로 남긴 유미와 바비...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/c53cb5f6-dd59-4f18-ac32-74783d47c38c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/c53cb5f6-dd59-4f18-ac32-74783d47c38c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['넷플릭스 커플' 전종서-이충현 감독은 어떻게 연애할까?]]></title>
@@ -52,22 +68,6 @@
             <guid>https://www.elle.co.kr/article/67672</guid>
             <pubDate>Fri, 01 Jul 2022 15:18:34 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/a28c52b1-088b-4137-86c2-e3563da4ef4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하니, 정신의학과 의사 양재웅과 열애 인정! 럽스타는 이미 시작됐다?]]></title>
-            <link>https://www.elle.co.kr/article/67662</link>
-            <guid>https://www.elle.co.kr/article/67662</guid>
-            <pubDate>Fri, 01 Jul 2022 15:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[두 사람의 나이 차는 10살.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/839cd3b2-6f48-4919-846f-415e3d6864ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파워풀한 여성이 대세! 장나라-옴걸 미미의 남다른 피지컬은 복싱 덕분? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/67642</link>
-            <guid>https://www.elle.co.kr/article/67642</guid>
-            <pubDate>Fri, 01 Jul 2022 09:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[이 분야 최강자 이시영도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/d1c1eeb4-2b1c-42b8-bce3-93ced4d42326.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
