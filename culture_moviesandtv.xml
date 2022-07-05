@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 09:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 10:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['베테랑2'가 나온다. 유아인을 잇는 새 빌런으로 거론되는 건 이 사람이다]]></title>
+            <link>https://www.elle.co.kr/article/67785</link>
+            <guid>https://www.elle.co.kr/article/67785</guid>
+            <pubDate>Tue, 05 Jul 2022 10:19:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/5efad94c-a46a-4b79-8485-e88dcf0a4520.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재욱-정소민의 사제 로맨스, 그런데 이제 삼각관계를 곁들인?! ‘환혼’ 서사 정리 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/67758</link>
@@ -37,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/67419</guid>
             <pubDate>Thu, 23 Jun 2022 04:35:11 GMT</pubDate>
             <content:encoded><![CDATA[그의 뛰어난 관찰력과 표현력은 이미 모두가 알고 있는 바.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/4deda578-6567-4cba-802d-9bc7e6993161.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구준엽이 직접 밝힌 서희원과 처음 헤어지던 날, 그리고 결혼 관련 루머 셋 (feat. 투샷 모음)]]></title>
@@ -92,13 +98,6 @@
             <guid>https://www.elle.co.kr/article/67177</guid>
             <pubDate>Mon, 13 Jun 2022 06:21:34 GMT</pubDate>
             <content:encoded><![CDATA['우리들의 블루스' 마지막회 시청률 무려 14.6%.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영희 남친 철수가 누구야? 감독이 직접 푼 '오징어게임' 시즌2 떡밥.official]]></title>
-            <link>https://www.elle.co.kr/article/67171</link>
-            <guid>https://www.elle.co.kr/article/67171</guid>
-            <pubDate>Mon, 13 Jun 2022 06:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[황동혁 감독이 직접 보낸 '오겜2' 초대장.]]></content:encoded>
         </item>
     </channel>
 </rss>
