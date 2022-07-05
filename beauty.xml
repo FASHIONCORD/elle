@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 12:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 13:47:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬의 첫 번째 하이엔드 립스틱]]></title>
+            <link>https://www.elle.co.kr/article/67258</link>
+            <guid>https://www.elle.co.kr/article/67258</guid>
+            <pubDate>Tue, 05 Jul 2022 13:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 루쥬 알뤼르 렉스트레의 컬러를 입술에 입는 순간 완성되는 다채로운 표정과 눈짓.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/ecf6b839-efac-4b96-b40f-ec3faacad443.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파워풀한 여성이 대세! 장나라-옴걸 미미의 남다른 피지컬은 복싱 덕분? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/67642</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 29 Jun 2022 09:14:45 GMT</pubDate>
             <content:encoded><![CDATA[골프 라운딩 때 에디터가 실제로 챙겨간 아이템들]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/4815cdc9-15a4-4692-93f2-f1401705b9a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나도 해 볼까? 아이브 장원영+에스파 카리나의 몸매 비결 플라잉요가! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/67412</link>
-            <guid>https://www.elle.co.kr/article/67412</guid>
-            <pubDate>Tue, 28 Jun 2022 11:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[코어 발달과 유연성, 정신 건강까지 한번에!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/e5fcb7ab-fd67-4e18-86c0-1694155951d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

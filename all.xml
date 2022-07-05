@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 12:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 13:47:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1031,6 +1031,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/f47a3ada-8212-48a0-b956-1b2f9630aff4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[샤넬의 첫 번째 하이엔드 립스틱 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/67258</link>
+            <guid>https://www.elle.co.kr/article/67258</guid>
+            <pubDate>Sat, 02 Jul 2022 10:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 루쥬 알뤼르 렉스트레의 컬러를 입술에 입는 순간 완성되는 다채로운 표정과 눈짓.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/ecf6b839-efac-4b96-b40f-ec3faacad443.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파워풀한 여성이 대세! 장나라-옴걸 미미의 남다른 피지컬은 복싱 덕분? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/67642</link>
             <guid>https://www.elle.co.kr/article/67642</guid>
@@ -1086,12 +1094,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/4815cdc9-15a4-4692-93f2-f1401705b9a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나도 해 볼까? 아이브 장원영+에스파 카리나의 몸매 비결 플라잉요가! #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/67412</link>
-            <guid>https://www.elle.co.kr/article/67412</guid>
-            <pubDate>Tue, 28 Jun 2022 11:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[코어 발달과 유연성, 정신 건강까지 한번에!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/e5fcb7ab-fd67-4e18-86c0-1694155951d6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[지치는 법이 없는 (여자)아이들 우기 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67632</link>
+            <guid>https://www.elle.co.kr/article/67632</guid>
+            <pubDate>Tue, 05 Jul 2022 13:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[시간이 갈수록 점점 더 빛을 발하는 우기만의 에너지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/1bf2b271-9d0c-4a65-b2c0-2e4be00613fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의외의 티키타카! 대세 배우 손석구X이동휘 찐친 만든 작품은? (엘르 코리아 ─ 스타)]]></title>
@@ -1147,13 +1155,6 @@
             <pubDate>Fri, 01 Jul 2022 11:15:32 GMT</pubDate>
             <content:encoded><![CDATA['최최차차'라면 기다려 봐도 좋을 듯.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/8135bf36-edfc-453a-bb20-ea2d29641db3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김고은, <엘르>D에디션 커버 공개 #ELLE_D에디션 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67697</link>
-            <guid>https://www.elle.co.kr/article/67697</guid>
-            <pubDate>Sat, 02 Jul 2022 07:14:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/dbe2b1f1-c540-47c0-a15b-dd3f687d801e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['안나' vs '종이의 집' vs '최종병기 앨리스', OTT 신작 첫방 승자는? #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
