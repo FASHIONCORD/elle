@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 13:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 14:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjJfMjI3/MDAxNjE5MDcyMTk1ODMz.IWOc1-Cy4zAtcIryj7M6b6pcsHpDHrQjvGCHw036kGUg.FngG4BcThFMIdttTow0S9dpau3Nqn_HUhlKkowTQPrEg.PNG/IX0W0OYeKwn4pZNw7Hauy0cOxgLQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리들의 바캉스 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/67631</link>
+            <guid>https://www.elle.co.kr/article/67631</guid>
+            <pubDate>Tue, 05 Jul 2022 14:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[여름 휴가의 설렘이 가득한 바캉스 룩 미리보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/bee3cf34-5f44-44d2-be68-633b09f4f7dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[퓨어한 매력 갖고 싶다면? 내추럴 메이크업 꿀팁 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/67728</link>
             <guid>https://www.elle.co.kr/article/67728</guid>
@@ -1021,14 +1029,6 @@
             <pubDate>Sat, 02 Jul 2022 10:15:11 GMT</pubDate>
             <content:encoded><![CDATA[샤넬 루쥬 알뤼르 렉스트레의 컬러를 입술에 입는 순간 완성되는 다채로운 표정과 눈짓.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/ecf6b839-efac-4b96-b40f-ec3faacad443.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 손목 액세서리! 쿨한 스크런치의 매력 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67628</link>
-            <guid>https://www.elle.co.kr/article/67628</guid>
-            <pubDate>Sat, 02 Jul 2022 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[헤어 액세서리로만 쓰기엔 아까운 스크런치. 손목에 걸어 팔찌처럼 연출하면 느낌 있는 인싸 패...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/f47a3ada-8212-48a0-b956-1b2f9630aff4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤넬의 첫 번째 하이엔드 립스틱 (엘르 코리아 ─ 뷰티)]]></title>
