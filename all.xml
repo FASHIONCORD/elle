@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 11:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 12:45:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1095,6 +1095,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/f12d0131-9543-4de7-955b-22fef19b59c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[7월의 신부 된 이해리, 살짝 공개된 결혼식 하객 사진.jpg (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67759</link>
+            <guid>https://www.elle.co.kr/article/67759</guid>
+            <pubDate>Wed, 06 Jul 2022 12:41:08 GMT</pubDate>
+            <content:encoded><![CDATA[조세호 드디어 결혼식 참석하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/f1c1d081-c09e-4b6d-816b-850b4ef6c13b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이상순 제주도 카페, 개업 이틀 만에 문 닫고 저격까지 당했다? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67753</link>
             <guid>https://www.elle.co.kr/article/67753</guid>
@@ -1148,14 +1156,6 @@
             <pubDate>Sun, 03 Jul 2022 16:20:28 GMT</pubDate>
             <content:encoded><![CDATA[세상을 여행하고 영감을 줬던 장소들을 기리는 향을 만드는 로라 제임스 하퍼와의 만남.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/7c573be0-c3ab-4c3a-a111-b996670c5c13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에세이집으로 돌아온 사진가 정멜멜 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67722</link>
-            <guid>https://www.elle.co.kr/article/67722</guid>
-            <pubDate>Sun, 03 Jul 2022 12:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[삶을 '채집'하는 작가 정멜멜. 그가 사진집이 아닌 에세이 &lt;다만 빛과 그림자가 그곳에 있었고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/c877a1db-8e51-4779-99a2-3c749d8b53ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고? (엘르 코리아 ─ 컬쳐)]]></title>
