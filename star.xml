@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 17:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 18:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신혜성이 앤디 결혼식 '퍼펙트맨' 완전체 무대에 빠졌던 진짜 이유]]></title>
+            <link>https://www.elle.co.kr/article/67771</link>
+            <guid>https://www.elle.co.kr/article/67771</guid>
+            <pubDate>Wed, 06 Jul 2022 18:19:36 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/d8f4f398-77c1-4aa2-86e3-eaf6fafa5ae0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7월의 신부 된 이해리, 살짝 공개된 결혼식 하객 사진.jpg]]></title>
             <link>https://www.elle.co.kr/article/67759</link>
@@ -61,14 +68,6 @@
             <pubDate>Mon, 04 Jul 2022 10:18:28 GMT</pubDate>
             <content:encoded><![CDATA['ELLE D Edition'과 함께한 배우 김고은. 섬세한 연기와 존재감 넘치는 그녀의 새로운 패션...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/c0f2839c-3193-4252-9f86-3d963209935b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기억의 향, 로라 제임스 하퍼의 국내 론칭]]></title>
-            <link>https://www.elle.co.kr/article/67721</link>
-            <guid>https://www.elle.co.kr/article/67721</guid>
-            <pubDate>Sun, 03 Jul 2022 16:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[세상을 여행하고 영감을 줬던 장소들을 기리는 향을 만드는 로라 제임스 하퍼와의 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/7c573be0-c3ab-4c3a-a111-b996670c5c13.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
