@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 05:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 06:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1562,6 +1562,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/0e10f98f-285a-41b1-8e50-dcdbfd23a76a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나의 몸, 나의 선택! 미국 대법원이 여성의 임신 중단 권리를 박탈하다 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/67508</link>
+            <guid>https://www.elle.co.kr/article/67508</guid>
+            <pubDate>Wed, 06 Jul 2022 06:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[여성의 몸과 권리에 대하여, 19세기 때 내린 결정으로 돌아간 미국 대법원의 판결.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/fb483ff9-0c86-43e3-890e-1a5cb4767142.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지휘봉은 나의 것_요주의여성 #64 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/67449</link>
             <guid>https://www.elle.co.kr/article/67449</guid>
@@ -1616,14 +1624,6 @@
             <pubDate>Thu, 23 Jun 2022 11:17:03 GMT</pubDate>
             <content:encoded><![CDATA[다시 환락의 월드 비말투어(a.k.a 여름휴가)를 즐길 때가 왔다. 그런데 마음이 예전 같지 않다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/74dad655-b6ef-438e-9812-ed5f48cc966b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 것들엔 돈 아끼지 마세요_돈쓸신잡 #49 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/67085</link>
-            <guid>https://www.elle.co.kr/article/67085</guid>
-            <pubDate>Wed, 22 Jun 2022 03:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[세상에서 가장 안전한 자산은 '나 자신'이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/4c5896aa-11f2-46de-a6f5-6f10a268bd0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
