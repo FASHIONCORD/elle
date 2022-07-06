@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 10:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 11:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LIVE ON! 디올의 2022-23 가을-겨울 오트쿠튀르 컬렉션]]></title>
+            <link>https://www.elle.co.kr/article/67744</link>
+            <guid>https://www.elle.co.kr/article/67744</guid>
+            <pubDate>Wed, 06 Jul 2022 11:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[7월 4일 월요일 한국 시간 밤 10시, 파리에서 열리는 마리아 그라치아 치우리의 디올 오트쿠튀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/7e16022f-4dd0-4641-a9fd-c99a524b6f02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 맞이 홈 프래이그런스]]></title>
             <link>https://www.elle.co.kr/article/67740</link>
@@ -62,13 +70,6 @@
             <pubDate>Sat, 02 Jul 2022 16:18:06 GMT</pubDate>
             <content:encoded><![CDATA[&lt;우리들의 블루스&gt; 민선아에서 지방시뷰티의 뮤즈로 돌아온 그녀. 지방시뷰티의 뷰티 루틴으로 건...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/e2b0c439-fea2-4c94-995d-c60abbb451b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김고은, <엘르>D에디션 커버 공개 #ELLE_D에디션]]></title>
-            <link>https://www.elle.co.kr/article/67697</link>
-            <guid>https://www.elle.co.kr/article/67697</guid>
-            <pubDate>Sat, 02 Jul 2022 16:18:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/dbe2b1f1-c540-47c0-a15b-dd3f687d801e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
