@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 19:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 20:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니의 미모 비결은? 제니's 홈케어 루틴 엿보기]]></title>
+            <link>https://www.elle.co.kr/article/67794</link>
+            <guid>https://www.elle.co.kr/article/67794</guid>
+            <pubDate>Wed, 06 Jul 2022 20:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[마사지 제품부터 향 관련 아이템까지 제니의 홈케어 루틴에 빠지지 않는 취향 듬뿍 담긴 아이템...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/19f17c94-eba5-46a7-908b-9a4221991547.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해변의 여인]]></title>
             <link>https://www.elle.co.kr/article/67763</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Jul 2022 11:22:42 GMT</pubDate>
             <content:encoded><![CDATA[피부박사의 현실 조언? 단발 머리와 헤어 피스? 이렇게나 현실감 완벽한 캐릭터, '일머리'가 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/beed6175-f4ca-490f-af53-d465eb66dfd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 아이콘 김고은, 그와 샤넬의 아홉 가지 패션 스토리 #ELLE_D에디션]]></title>
-            <link>https://www.elle.co.kr/article/67726</link>
-            <guid>https://www.elle.co.kr/article/67726</guid>
-            <pubDate>Mon, 04 Jul 2022 01:23:02 GMT</pubDate>
-            <content:encoded><![CDATA['ELLE D Edition'과 함께한 배우 김고은. 섬세한 연기와 존재감 넘치는 그녀의 새로운 패션...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/c0f2839c-3193-4252-9f86-3d963209935b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
