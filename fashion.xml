@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 14:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 15:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해변의 여인]]></title>
+            <link>https://www.elle.co.kr/article/67763</link>
+            <guid>https://www.elle.co.kr/article/67763</guid>
+            <pubDate>Wed, 06 Jul 2022 15:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 빛을 한껏 만끽할 수 있는 비키니의 매력 속으로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/758e48cf-bb5a-4e16-97cd-19dc7be9af53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LIVE ON! 디올의 2022-23 가을-겨울 오트쿠튀르 컬렉션]]></title>
             <link>https://www.elle.co.kr/article/67744</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Jul 2022 01:23:02 GMT</pubDate>
             <content:encoded><![CDATA['ELLE D Edition'과 함께한 배우 김고은. 섬세한 연기와 존재감 넘치는 그녀의 새로운 패션...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/c0f2839c-3193-4252-9f86-3d963209935b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신민아의 완벽한 하루]]></title>
-            <link>https://www.elle.co.kr/article/67630</link>
-            <guid>https://www.elle.co.kr/article/67630</guid>
-            <pubDate>Sat, 02 Jul 2022 16:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;우리들의 블루스&gt; 민선아에서 지방시뷰티의 뮤즈로 돌아온 그녀. 지방시뷰티의 뷰티 루틴으로 건...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/e2b0c439-fea2-4c94-995d-c60abbb451b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
