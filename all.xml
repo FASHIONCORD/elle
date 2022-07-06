@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 07:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 08:35:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1094,6 +1094,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/bcfedf98-a208-4784-9cef-fe174adca4ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이상순 제주도 카페, 개업 이틀 만에 문 닫고 저격까지 당했다? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67753</link>
+            <guid>https://www.elle.co.kr/article/67753</guid>
+            <pubDate>Wed, 06 Jul 2022 08:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[너무도 괴로운 인기인의 삶...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/f4566ba0-ab9b-4d07-a5a8-2be974c66a91.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지치는 법이 없는 (여자)아이들 우기 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67632</link>
             <guid>https://www.elle.co.kr/article/67632</guid>
@@ -1147,14 +1155,6 @@
             <pubDate>Sun, 03 Jul 2022 12:25:53 GMT</pubDate>
             <content:encoded><![CDATA[삶을 '채집'하는 작가 정멜멜. 그가 사진집이 아닌 에세이 &lt;다만 빛과 그림자가 그곳에 있었고...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/c877a1db-8e51-4779-99a2-3c749d8b53ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차은우가 할리우드 합작 영화에? 'K팝: 로스트 인 아메리카' 정보 모음.zip (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67714</link>
-            <guid>https://www.elle.co.kr/article/67714</guid>
-            <pubDate>Fri, 01 Jul 2022 11:15:32 GMT</pubDate>
-            <content:encoded><![CDATA['최최차차'라면 기다려 봐도 좋을 듯.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/8135bf36-edfc-453a-bb20-ea2d29641db3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고? (엘르 코리아 ─ 컬쳐)]]></title>
