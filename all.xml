@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 15:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 16:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1095,6 +1095,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2d5d7b54-997e-4ca1-9570-3d31994fb554.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Off 모드마저 특별한 윤보미의 메이크업 팁 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67817</link>
+            <guid>https://www.elle.co.kr/article/67817</guid>
+            <pubDate>Thu, 07 Jul 2022 15:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[특별한 날 활용 가능! 에이핑크 윤보미의 일상 버전 아이돌 메이크업에 도전해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/ffb951d5-71e4-49ee-8ef4-f1c073b1018c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['10년째 열애 중' 황보라, 드디어 결혼! 예비 시부는 김용건, 예비 시숙은 하정우? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67810</link>
             <guid>https://www.elle.co.kr/article/67810</guid>
@@ -1146,13 +1154,6 @@
             <pubDate>Tue, 05 Jul 2022 13:43:32 GMT</pubDate>
             <content:encoded><![CDATA[시간이 갈수록 점점 더 빛을 발하는 우기만의 에너지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/1bf2b271-9d0c-4a65-b2c0-2e4be00613fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의외의 티키타카! 대세 배우 손석구X이동휘 찐친 만든 작품은? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67738</link>
-            <guid>https://www.elle.co.kr/article/67738</guid>
-            <pubDate>Tue, 05 Jul 2022 08:21:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/a2de839e-8a04-4e49-959c-12fbac18d438.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차은우가 할리우드 합작 영화에? 'K팝: 로스트 인 아메리카' 정보 모음.zip (엘르 코리아 ─ 컬쳐)]]></title>
