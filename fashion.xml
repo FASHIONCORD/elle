@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 06:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장마철 필수템! 스타들이 픽한 레인부츠 & 가격대별 쇼핑 리스트]]></title>
+            <link>https://www.elle.co.kr/article/67807</link>
+            <guid>https://www.elle.co.kr/article/67807</guid>
+            <pubDate>Thu, 07 Jul 2022 07:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[본격적인 장마철 대비! 옷 잘입는 스타들이 선택한 장화 스타일링과 레인부츠 쇼핑 리스트를 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/27ff3bfd-31c3-42a1-952a-9db0151fb265.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[90년생 동갑내기 부부가 한옥의 서정을 즐기며 사는 마음]]></title>
             <link>https://www.elle.co.kr/article/67634</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 14:14:19 GMT</pubDate>
             <content:encoded><![CDATA[여름 휴가의 설렘이 가득한 바캉스 룩 미리보기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/bee3cf34-5f44-44d2-be68-633b09f4f7dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨어한 매력 갖고 싶다면? 내추럴 메이크업 꿀팁]]></title>
-            <link>https://www.elle.co.kr/article/67728</link>
-            <guid>https://www.elle.co.kr/article/67728</guid>
-            <pubDate>Mon, 04 Jul 2022 16:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[소요 시간 단 10분! 자연스러운 매력이 넘치는 윤승아표 초간단 데일리 메이크업을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/30b51730-508b-4967-bdca-9817788dccf5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
