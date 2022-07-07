@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 14:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 15:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Off 모드마저 특별한 윤보미의 메이크업 팁]]></title>
+            <link>https://www.elle.co.kr/article/67817</link>
+            <guid>https://www.elle.co.kr/article/67817</guid>
+            <pubDate>Thu, 07 Jul 2022 15:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[특별한 날 활용 가능! 에이핑크 윤보미의 일상 버전 아이돌 메이크업에 도전해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/ffb951d5-71e4-49ee-8ef4-f1c073b1018c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장마철 필수템! 스타들이 픽한 레인부츠 & 가격대별 쇼핑 리스트]]></title>
             <link>https://www.elle.co.kr/article/67807</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 15:16:03 GMT</pubDate>
             <content:encoded><![CDATA[런던 사치 갤러리에서 열린 티파니의 &lt;비전&amp;버추오시티 Vision&amp;virtuosity&gt;  전시.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/9d5b3228-1644-4835-b0cc-a4d4e9fc642d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리들의 바캉스]]></title>
-            <link>https://www.elle.co.kr/article/67631</link>
-            <guid>https://www.elle.co.kr/article/67631</guid>
-            <pubDate>Tue, 05 Jul 2022 14:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[여름 휴가의 설렘이 가득한 바캉스 룩 미리보기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/bee3cf34-5f44-44d2-be68-633b09f4f7dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
