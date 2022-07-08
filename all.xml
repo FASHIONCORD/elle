@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 14:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 15:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/7e16022f-4dd0-4641-a9fd-c99a524b6f02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제니의 미모 비결은? 제니's 홈케어 루틴 엿보기 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/67794</link>
+            <guid>https://www.elle.co.kr/article/67794</guid>
+            <pubDate>Wed, 06 Jul 2022 20:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[마사지 제품부터 향 관련 아이템까지 제니의 홈케어 루틴에 빠지지 않는 취향 듬뿍 담긴 아이템...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/19f17c94-eba5-46a7-908b-9a4221991547.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샤넬 뷰티로 완성한 김아현의 얼굴 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/67259</link>
             <guid>https://www.elle.co.kr/article/67259</guid>
@@ -1085,14 +1093,6 @@
             <guid>https://www.elle.co.kr/article/67603</guid>
             <pubDate>Mon, 04 Jul 2022 07:17:42 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/626f6b64-b8fa-4ee7-8dbc-c1b18c518a05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리부터 발끝까지! 제니의 내돈내산 셀프 케어 아이템 7 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/67570</link>
-            <guid>https://www.elle.co.kr/article/67570</guid>
-            <pubDate>Sat, 02 Jul 2022 13:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌이 집에서도 건강하게 몸과 마음을 관리하는 방법? 블랙핑크 제니가 알려주는 홈 케어 아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/f3ded750-839c-4510-bd86-5ea92426aa08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['런닝맨'에서 헤어진 유재석X이광수, 디즈니+와 넷플릭스에서 재회? (feat. 김연경) (엘르 코리아 ─ 스타)]]></title>
