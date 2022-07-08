@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 03:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 04:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1563,6 +1563,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/0e10f98f-285a-41b1-8e50-dcdbfd23a76a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다이어트 한번 해본 사람이라면 모두 주목! 내 몸은 완벽하지 않아, 그런데 뭐 어쩌라고? (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/67633</link>
+            <guid>https://www.elle.co.kr/article/67633</guid>
+            <pubDate>Fri, 08 Jul 2022 04:42:44 GMT</pubDate>
+            <content:encoded><![CDATA[소설가 천선란이 평생 함께 살아가야하는 내 몸을 긍정하는 방법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/4020d51b-983e-4511-8f61-fb8598c5f279.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[점심 사 먹기도 무서워진 시대_돈쓸신잡 #52 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/67664</link>
             <guid>https://www.elle.co.kr/article/67664</guid>
@@ -1617,14 +1625,6 @@
             <pubDate>Thu, 30 Jun 2022 04:42:40 GMT</pubDate>
             <content:encoded><![CDATA[발사체부터 발사 기반시설까지 전부 국내 기술로.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/6faf4ec0-49b9-44e5-bc7b-7b6b47db2d4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓸 어 버 려_요주의여성 #63 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/67277</link>
-            <guid>https://www.elle.co.kr/article/67277</guid>
-            <pubDate>Tue, 28 Jun 2022 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[이런 아줌마가 있어서 놀랐나요? &lt;클리닝 업&gt;의 염정아.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/a7eaa895-8dc3-4aa3-95e3-6460cb9690c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
