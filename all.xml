@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 23:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 01:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1095,6 +1095,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2d5d7b54-997e-4ca1-9570-3d31994fb554.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67822</link>
+            <guid>https://www.elle.co.kr/article/67822</guid>
+            <pubDate>Thu, 07 Jul 2022 01:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[덥고 습한 장마철에는 실내 데이트가 제격! 지드래곤부터 RM, 샤이니 키까지 스타가 찾은 전시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/614d0d79-3f76-41d4-a328-e6d12d42ac2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여름에 니트를? 스타의 크로셰 활용법 6 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67821</link>
             <guid>https://www.elle.co.kr/article/67821</guid>
@@ -1146,14 +1154,6 @@
             <pubDate>Wed, 06 Jul 2022 12:41:08 GMT</pubDate>
             <content:encoded><![CDATA[조세호 드디어 결혼식 참석하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/f1c1d081-c09e-4b6d-816b-850b4ef6c13b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상순 제주도 카페, 개업 이틀 만에 문 닫고 저격까지 당했다? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67753</link>
-            <guid>https://www.elle.co.kr/article/67753</guid>
-            <pubDate>Wed, 06 Jul 2022 08:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[너무도 괴로운 인기인의 삶...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/f4566ba0-ab9b-4d07-a5a8-2be974c66a91.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차은우가 할리우드 합작 영화에? 'K팝: 로스트 인 아메리카' 정보 모음.zip (엘르 코리아 ─ 컬쳐)]]></title>
