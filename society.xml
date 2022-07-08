@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 07:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 08:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국계 첫 필즈상 받은 허준이 교수는 시인이 되고 싶어 고등학교를 자퇴했다]]></title>
+            <link>https://www.elle.co.kr/article/67808</link>
+            <guid>https://www.elle.co.kr/article/67808</guid>
+            <pubDate>Fri, 08 Jul 2022 08:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[소설 속 수학 천재만 받는 줄 알았던 필즈상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/fad3f380-75d0-4392-9a59-f58fbe337558.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트 한번 해본 사람이라면 모두 주목! 내 몸은 완벽하지 않아, 그런데 뭐 어쩌라고?]]></title>
             <link>https://www.elle.co.kr/article/67633</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Jun 2022 06:22:51 GMT</pubDate>
             <content:encoded><![CDATA[공격적인 투자자 vs. 안정적인 투자자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/0567e81a-d0b4-4c95-b71a-d54dde4c3279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 한국도 날렸다! 과.학.위.성. 누리호 발사 성공이 의미하는 것]]></title>
-            <link>https://www.elle.co.kr/article/67384</link>
-            <guid>https://www.elle.co.kr/article/67384</guid>
-            <pubDate>Thu, 30 Jun 2022 04:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[발사체부터 발사 기반시설까지 전부 국내 기술로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/6faf4ec0-49b9-44e5-bc7b-7b6b47db2d4b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
