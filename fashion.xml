@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 21:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 22:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장마철도 패셔너블하게 즐겨보자!]]></title>
+            <link>https://www.elle.co.kr/article/67855</link>
+            <guid>https://www.elle.co.kr/article/67855</guid>
+            <pubDate>Sat, 09 Jul 2022 22:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[계속되는 비 소식에 뭐 입을지 고민된다면? 스타의 센스만점 장마 패션을 참고해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/fee5161b-b105-4d82-aef4-558f4312d8e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부채, 대나무 도시락, 유리 찻사발... 공예품으로 느긋한 여름을 즐기는 법]]></title>
             <link>https://www.elle.co.kr/article/67849</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Jul 2022 07:13:58 GMT</pubDate>
             <content:encoded><![CDATA[본격적인 장마철 대비! 옷 잘입는 스타들이 선택한 장화 스타일링과 레인부츠 쇼핑 리스트를 소...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/27ff3bfd-31c3-42a1-952a-9db0151fb265.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[90년생 동갑내기 부부가 한옥의 서정을 즐기며 사는 마음]]></title>
-            <link>https://www.elle.co.kr/article/67634</link>
-            <guid>https://www.elle.co.kr/article/67634</guid>
-            <pubDate>Wed, 06 Jul 2022 22:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[아파트, 정고재.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/0d803bfc-aca5-4b79-b4a5-a31f65eb2001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
