@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 15:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 16:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjJfMjI3/MDAxNjE5MDcyMTk1ODMz.IWOc1-Cy4zAtcIryj7M6b6pcsHpDHrQjvGCHw036kGUg.FngG4BcThFMIdttTow0S9dpau3Nqn_HUhlKkowTQPrEg.PNG/IX0W0OYeKwn4pZNw7Hauy0cOxgLQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이거 하나면 끝 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/67891</link>
+            <guid>https://www.elle.co.kr/article/67891</guid>
+            <pubDate>Mon, 11 Jul 2022 16:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[기분 전환을 위한 반짝임. 이번 시즌을 강타한 강철 메탈에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/49082141-1eaa-4a53-bad2-0ce95ab9b7da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서머 무드 물씬! 여름을 위한 헤어 컬러 추천 5 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/67883</link>
+            <guid>https://www.elle.co.kr/article/67883</guid>
+            <pubDate>Mon, 11 Jul 2022 16:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[여름맞이 기분 전환는  헤어 컬러 체인지로! 선미부터 수영, 제니까지 스타의 염색 스타일을 참...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/41aacf93-fcab-42ba-86e4-a210618f48ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마리옹 꼬띠아르를 더 빛나게 하는 샤넬 하이주얼리 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/67845</link>
             <guid>https://www.elle.co.kr/article/67845</guid>
@@ -1014,22 +1030,6 @@
             <pubDate>Thu, 07 Jul 2022 17:33:33 GMT</pubDate>
             <content:encoded><![CDATA[상큼발랄한 서머 룩을 연출하고 싶다면? 알록달록 크로셰 아이템을 활용한 셀러브리티의 룩을 참...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d9f154f7-4c50-4b7d-8f49-da3019ce99f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거울 속 눈맞춤 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67635</link>
-            <guid>https://www.elle.co.kr/article/67635</guid>
-            <pubDate>Thu, 07 Jul 2022 17:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[미러 워크(Mirror Work)를 통한 코로나 블루 속 '얼굴 혐오' 극복기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/db528904-8d3a-4c28-9ab3-c6db0a5f6ef0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Off 모드마저 특별한 윤보미의 메이크업 팁 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67817</link>
-            <guid>https://www.elle.co.kr/article/67817</guid>
-            <pubDate>Thu, 07 Jul 2022 15:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 날 활용 가능! 에이핑크 윤보미의 일상 버전 아이돌 메이크업에 도전해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/ffb951d5-71e4-49ee-8ef4-f1c073b1018c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멋있는데 살까지 빠진다? 소유와 엄정화의 관리 비결, 서핑 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
