@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 06:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['베테랑2'가 나온다. 유아인을 잇는 새 빌런으로 거론되는 건 이 사람이다]]></title>
+            <link>https://www.elle.co.kr/article/67785</link>
+            <guid>https://www.elle.co.kr/article/67785</guid>
+            <pubDate>Mon, 11 Jul 2022 06:20:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/5efad94c-a46a-4b79-8485-e88dcf0a4520.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재욱-정소민의 사제 로맨스, 그런데 이제 삼각관계를 곁들인?! ‘환혼’ 서사 정리 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/67758</link>
@@ -62,14 +69,6 @@
             <pubDate>Fri, 01 Jul 2022 09:16:44 GMT</pubDate>
             <content:encoded><![CDATA[그의 뛰어난 관찰력과 표현력은 이미 모두가 알고 있는 바.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/4deda578-6567-4cba-802d-9bc7e6993161.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구준엽이 직접 밝힌 서희원과 처음 헤어지던 날, 그리고 결혼 관련 루머 셋 (feat. 투샷 모음)]]></title>
-            <link>https://www.elle.co.kr/article/67416</link>
-            <guid>https://www.elle.co.kr/article/67416</guid>
-            <pubDate>Tue, 28 Jun 2022 03:43:51 GMT</pubDate>
-            <content:encoded><![CDATA[처음 공개하는 아내 서희원과의 사진들도.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/5ed3f6c5-ab82-4151-883b-1cca99d0f635.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
