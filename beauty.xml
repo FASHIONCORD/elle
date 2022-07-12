@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 08:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 09:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챙겨가길 잘했다! 에디터들이 직접 간증한 트래블 뷰티템 BEST 5]]></title>
+            <link>https://www.elle.co.kr/article/67874</link>
+            <guid>https://www.elle.co.kr/article/67874</guid>
+            <pubDate>Tue, 12 Jul 2022 09:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[해외 여행갈 때 꼭!! 챙겨야 하는 것들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/fa1a66ed-1a6f-4f31-9892-82198733f616.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멋있는데 살까지 빠진다? 소유와 엄정화의 관리 비결, 서핑 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/67823</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 06 Jul 2022 11:14:08 GMT</pubDate>
             <content:encoded><![CDATA[소요 시간 단 10분! 자연스러운 매력이 넘치는 윤승아표 초간단 데일리 메이크업을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/30b51730-508b-4967-bdca-9817788dccf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New 미니멀 메이크업 트렌드! 투명 아이라이너]]></title>
-            <link>https://www.elle.co.kr/article/67716</link>
-            <guid>https://www.elle.co.kr/article/67716</guid>
-            <pubDate>Tue, 05 Jul 2022 15:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[틱톡과 인스타그램 릴스에서 번지고 있는 신박한 ‘투명 아이라인’ 메이크업 아이디어.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/b8a2c5e4-caef-4e73-8de2-641673037a94.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
