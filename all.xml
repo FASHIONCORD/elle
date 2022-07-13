@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 08:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 09:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1564,6 +1564,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/a502745f-34a4-4375-9a87-12519707d515.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[함께 가요, 우영우_요주의여성 #65 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/67863</link>
+            <guid>https://www.elle.co.kr/article/67863</guid>
+            <pubDate>Wed, 13 Jul 2022 09:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;이상한 변호사 우영우&gt;가 우리에게 필요한 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/5c6af453-5d59-4385-8cda-aa4d2b46a7c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[돈 버는 사람들이 가진 강철 멘탈_돈쓸신잡 #53 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/67835</link>
             <guid>https://www.elle.co.kr/article/67835</guid>
@@ -1618,14 +1626,6 @@
             <pubDate>Sun, 10 Jul 2022 18:21:04 GMT</pubDate>
             <content:encoded><![CDATA[환경에 대한 당신의 솔직한 생각을 들려주세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/904ce7c7-8663-4dd5-9fd8-4065749e7b5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대화의 맛, <우리는 SF를 좋아해> (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/67542</link>
-            <guid>https://www.elle.co.kr/article/67542</guid>
-            <pubDate>Wed, 06 Jul 2022 15:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[좋아하는 일을 꾸준히 지속할 수 있는 감각.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/63cf52b7-45c1-4df9-a887-974855e2c125.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
