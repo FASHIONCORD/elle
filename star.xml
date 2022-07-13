@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 17:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 18:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갓생은 템빨? 강민경이 정착한 영양제 5]]></title>
+            <link>https://www.elle.co.kr/article/67925</link>
+            <guid>https://www.elle.co.kr/article/67925</guid>
+            <pubDate>Wed, 13 Jul 2022 18:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[자기 관리 고수 강민경이 꾸준히 챙겨 먹는 영양제는 무엇일까요? 건강과 피부를 위해 그녀가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/02462ba5-dfc6-4883-be8e-cd1923bfaf97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강민경의 눈물 나는 축사와 두둑한 축의금 봉투! 드디어 공개된 이해리 결혼식 현장]]></title>
             <link>https://www.elle.co.kr/article/67914</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 11 Jul 2022 03:32:19 GMT</pubDate>
             <content:encoded><![CDATA[지난해 티파니에 합류하며 새로운 비전을 제시한 프로덕트&amp;커뮤니케이션스 총괄 부사장 알렉상드르...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/19ea2066-65df-4d04-879d-888a4e4f4eae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제는 장화도 멋! 장마철 패셔너블 TIP!]]></title>
-            <link>https://www.elle.co.kr/article/67855</link>
-            <guid>https://www.elle.co.kr/article/67855</guid>
-            <pubDate>Mon, 11 Jul 2022 03:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[계속되는 비 소식에 뭐 입을지 고민된다면? 스타의 센스만점 장마 패션을 참고해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/fee5161b-b105-4d82-aef4-558f4312d8e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
