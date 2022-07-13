@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 01:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 03:42:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10년에 한번 씩 연인 되는 사이!? 장나라X장혁의 20년 우정]]></title>
+            <link>https://www.elle.co.kr/article/67898</link>
+            <guid>https://www.elle.co.kr/article/67898</guid>
+            <pubDate>Wed, 13 Jul 2022 03:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[세 번째 드라마를 함께 할 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/e4efe468-2479-4076-a853-e32967d988a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서머 무드 물씬! 여름을 위한 헤어 컬러 추천 5]]></title>
             <link>https://www.elle.co.kr/article/67883</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 08 Jul 2022 10:26:41 GMT</pubDate>
             <content:encoded><![CDATA[예능계 대표 꿀조합을 다시 볼 수 있다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/c55f3c27-bf53-4765-a810-7555fec34679.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋있는데 살까지 빠진다? 소유와 엄정화의 관리 비결, 서핑 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/67823</link>
-            <guid>https://www.elle.co.kr/article/67823</guid>
-            <pubDate>Fri, 08 Jul 2022 05:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[삶의 태도까지 달라지게 만들어 준다는 서핑.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/396c18cd-99e1-4ee6-83aa-f9c59c5f4176.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
