@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 03:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 04:51:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/854e150f-b7e3-4979-8c9b-752f0a28be12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디올 뷰티, 나를 프랑스 리비에라로 데려가줘 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/67800</link>
+            <guid>https://www.elle.co.kr/article/67800</guid>
+            <pubDate>Thu, 14 Jul 2022 04:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[산과 바다가 만나 천혜의 아름다운 풍광을 자아내는 곳, 한겨울에도 따사로운 공기에 매일이 평...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/61fceb8b-62f0-49ec-b64d-4f9859bc51eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서머 무드 물씬! 여름을 위한 헤어 컬러 추천 5 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/67883</link>
             <guid>https://www.elle.co.kr/article/67883</guid>
@@ -1086,14 +1094,6 @@
             <pubDate>Wed, 06 Jul 2022 20:15:37 GMT</pubDate>
             <content:encoded><![CDATA[마사지 제품부터 향 관련 아이템까지 제니의 홈케어 루틴에 빠지지 않는 취향 듬뿍 담긴 아이템...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/19f17c94-eba5-46a7-908b-9a4221991547.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 뷰티로 완성한 김아현의 얼굴 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/67259</link>
-            <guid>https://www.elle.co.kr/article/67259</guid>
-            <pubDate>Fri, 08 Jul 2022 10:26:30 GMT</pubDate>
-            <content:encoded><![CDATA[단순히 입술에 컬러를 입히는 걸 넘어, 당당함과 자신감을 채워주는 샤넬 루쥬 알뤼르 렉스트레...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/8565816d-ec64-43b9-a48d-b43bb1ee8eb8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시즌 2가 돌아왔다! '유미의 세포들' 김고은 VS 김고은 #VS드라마패션 (엘르 코리아 ─ 스타)]]></title>
