@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 17:32:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 18:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갓생은 템빨? 강민경이 정착한 영양제 5]]></title>
+            <link>https://www.elle.co.kr/article/67925</link>
+            <guid>https://www.elle.co.kr/article/67925</guid>
+            <pubDate>Thu, 14 Jul 2022 18:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[자기 관리 고수 강민경이 꾸준히 챙겨 먹는 영양제는 무엇일까요? 건강과 피부를 위해 그녀가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/02462ba5-dfc6-4883-be8e-cd1923bfaf97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디올 뷰티, 나를 프랑스 리비에라로 데려가줘]]></title>
             <link>https://www.elle.co.kr/article/67800</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Jul 2022 18:19:25 GMT</pubDate>
             <content:encoded><![CDATA[여자들의 아드레날린이 뿜어져 나오는 그 해방감의 현장 ! 그리고 인터뷰]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/fbd53b84-4596-40de-a560-7cfce2c124a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니의 미모 비결은? 제니's 홈케어 루틴 엿보기]]></title>
-            <link>https://www.elle.co.kr/article/67794</link>
-            <guid>https://www.elle.co.kr/article/67794</guid>
-            <pubDate>Fri, 08 Jul 2022 15:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[마사지 제품부터 향 관련 아이템까지 제니의 홈케어 루틴에 빠지지 않는 취향 듬뿍 담긴 아이템...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/19f17c94-eba5-46a7-908b-9a4221991547.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
