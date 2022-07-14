@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 08:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 09:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/19f17c94-eba5-46a7-908b-9a4221991547.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내추럴 와인에 매료된 여자들 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67641</link>
+            <guid>https://www.elle.co.kr/article/67641</guid>
+            <pubDate>Thu, 14 Jul 2022 09:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[신간 &lt;와인에 쓸데없는 건 넣고 싶지 않아요&gt;의 저자 카밀라 예르데와 나눈 와인과 여자들에 대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/430757ca-4acb-4b67-9602-3d9241294c84.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시즌 2가 돌아왔다! '유미의 세포들' 김고은 VS 김고은 #VS드라마패션 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67954</link>
             <guid>https://www.elle.co.kr/article/67954</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 13 Jul 2022 03:39:48 GMT</pubDate>
             <content:encoded><![CDATA[세 번째 드라마를 함께 할 예정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/e4efe468-2479-4076-a853-e32967d988a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서머 무드 물씬! 여름을 위한 헤어 컬러 추천 5 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67883</link>
-            <guid>https://www.elle.co.kr/article/67883</guid>
-            <pubDate>Mon, 11 Jul 2022 16:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[여름맞이 기분 전환는  헤어 컬러 체인지로! 선미부터 수영, 제니까지 스타의 염색 스타일을 참...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/41aacf93-fcab-42ba-86e4-a210618f48ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['런닝맨'에서 헤어진 유재석X이광수, 디즈니+와 넷플릭스에서 재회? (feat. 김연경) (엘르 코리아 ─ 컬쳐)]]></title>
