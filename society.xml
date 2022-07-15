@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫째를 낳았다. 엄마로서 나도 태어났다. 그리고 둘째가 태어났다]]></title>
+            <link>https://www.elle.co.kr/article/67894</link>
+            <guid>https://www.elle.co.kr/article/67894</guid>
+            <pubDate>Fri, 15 Jul 2022 07:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[여성의 임신과 출산에 대해 세상이 말하지 않은 것들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/89c4d34a-7c1d-46ee-95b8-7abf533a88b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[친구들 좋아! 40대 여성의 우정 운용법]]></title>
             <link>https://www.elle.co.kr/article/67636</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 10 Jul 2022 18:21:04 GMT</pubDate>
             <content:encoded><![CDATA[소설 속 수학 천재만 받는 줄 알았던 필즈상.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/fad3f380-75d0-4392-9a59-f58fbe337558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 한번 해본 사람이라면 모두 주목! 내 몸은 완벽하지 않아, 그런데 뭐 어쩌라고?]]></title>
-            <link>https://www.elle.co.kr/article/67633</link>
-            <guid>https://www.elle.co.kr/article/67633</guid>
-            <pubDate>Sun, 10 Jul 2022 18:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[소설가 천선란이 평생 함께 살아가야하는 내 몸을 긍정하는 방법]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/4020d51b-983e-4511-8f61-fb8598c5f279.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
