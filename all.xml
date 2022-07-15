@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 15:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 16:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[펜디의 집으로 오세요 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/67986</link>
+            <guid>https://www.elle.co.kr/article/67986</guid>
+            <pubDate>Fri, 15 Jul 2022 16:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[밀란의 중심을 궤뚫은 펜디 카사의 놀라운 집 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/e7a36315-36e3-4198-b11a-95fbf0eea29c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시즌 2가 돌아왔다! '유미의 세포들' 김고은 VS 김고은 #VS드라마패션 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/67954</link>
             <guid>https://www.elle.co.kr/article/67954</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 13 Jul 2022 03:38:30 GMT</pubDate>
             <content:encoded><![CDATA[차정원부터 장혜령까지 사복 천재들이 쿨하게 여름을 보내는 방법!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/1328115c-a6a9-4966-aae0-f01bafb25801.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 수영복은 비키니 말고 이거! (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67637</link>
-            <guid>https://www.elle.co.kr/article/67637</guid>
-            <pubDate>Tue, 12 Jul 2022 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 자유분방한 에너지가 깃든 수영복 쇼핑 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/1aecc0af-ef5e-4fbd-ad46-d3fcf292dcd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자랑하고픈 데오도란트 (엘르 코리아 ─ 뷰티)]]></title>
