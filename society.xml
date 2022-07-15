@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 05:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:52:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친구들 좋아! 40대 여성의 우정 운용법]]></title>
+            <link>https://www.elle.co.kr/article/67636</link>
+            <guid>https://www.elle.co.kr/article/67636</guid>
+            <pubDate>Fri, 15 Jul 2022 05:51:59 GMT</pubDate>
+            <content:encoded><![CDATA[윤이나 작가는 말한다. 내 이야기의 주인공들은 다름 아닌 친구들이라고]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/67a73c93-3078-4624-a20e-e81cdbe5449f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우즈벡 유혈 시위-보리스 실각-아베 피격, 단 일주일 사이 세계에 벌어진 일]]></title>
             <link>https://www.elle.co.kr/article/67868</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 10 Jul 2022 18:21:04 GMT</pubDate>
             <content:encoded><![CDATA[소설가 천선란이 평생 함께 살아가야하는 내 몸을 긍정하는 방법]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/4020d51b-983e-4511-8f61-fb8598c5f279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점심 사 먹기도 무서워진 시대_돈쓸신잡 #52]]></title>
-            <link>https://www.elle.co.kr/article/67664</link>
-            <guid>https://www.elle.co.kr/article/67664</guid>
-            <pubDate>Sun, 10 Jul 2022 18:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 당면한 인플레이션은 '나쁜 물가 상승'이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/0492138f-c316-41ee-a5a4-2298c6305faf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
