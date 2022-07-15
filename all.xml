@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 14:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 15:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/1aecc0af-ef5e-4fbd-ad46-d3fcf292dcd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자랑하고픈 데오도란트 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/67947</link>
+            <guid>https://www.elle.co.kr/article/67947</guid>
+            <pubDate>Fri, 15 Jul 2022 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[데오도란트가 예쁘기까지 하다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/2c7c9ca6-9d6f-4d2c-951c-7aa28a9fca75.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스타필드와 함께하는 이색 나이트 러닝 ‘엘르런(ELLE RUN)’ 개최! (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/67941</link>
             <guid>https://www.elle.co.kr/article/67941</guid>
@@ -1086,14 +1094,6 @@
             <pubDate>Fri, 08 Jul 2022 05:23:27 GMT</pubDate>
             <content:encoded><![CDATA[삶의 태도까지 달라지게 만들어 준다는 서핑.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/396c18cd-99e1-4ee6-83aa-f9c59c5f4176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Off 모드마저 특별한 윤보미의 메이크업 팁 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/67817</link>
-            <guid>https://www.elle.co.kr/article/67817</guid>
-            <pubDate>Thu, 07 Jul 2022 15:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 날 활용 가능! 에이핑크 윤보미의 일상 버전 아이돌 메이크업에 도전해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/ffb951d5-71e4-49ee-8ef4-f1c073b1018c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내추럴 와인에 매료된 여자들 (엘르 코리아 ─ 스타)]]></title>
@@ -1565,6 +1565,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/d83725f7-8749-4399-81f6-1e09713e916b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[55조원에 트위터 산다며? 일론 머스크가 두 달 만에 말 뒤집은 이유 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/67938</link>
+            <guid>https://www.elle.co.kr/article/67938</guid>
+            <pubDate>Fri, 15 Jul 2022 15:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[일단 일론 머스크 VS 트위터 소송전 각.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/98ca47b0-21bd-4bc7-8017-8f446d6c9534.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[첫째를 낳았다. 엄마로서 나도 태어났다. 그리고 둘째가 태어났다 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/67894</link>
             <guid>https://www.elle.co.kr/article/67894</guid>
@@ -1619,14 +1627,6 @@
             <pubDate>Sun, 10 Jul 2022 18:21:04 GMT</pubDate>
             <content:encoded><![CDATA[백세희 작가가 입원 후 알게된 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/265b2ffe-e0e4-4b29-b1c6-39a7792c501f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국계 첫 필즈상 받은 허준이 교수는 시인이 되고 싶어 고등학교를 자퇴했다 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/67808</link>
-            <guid>https://www.elle.co.kr/article/67808</guid>
-            <pubDate>Sun, 10 Jul 2022 18:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[소설 속 수학 천재만 받는 줄 알았던 필즈상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/fad3f380-75d0-4392-9a59-f58fbe337558.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
