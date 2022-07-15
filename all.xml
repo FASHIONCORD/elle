@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 09:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 10:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/e4efe468-2479-4076-a853-e32967d988a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘이상한 변호사 우영우’의 문지원 작가, 알고 보니 휴먼법정물 '증인'도 썼다?! #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/67913</link>
+            <guid>https://www.elle.co.kr/article/67913</guid>
+            <pubDate>Mon, 11 Jul 2022 07:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[변호사를 꿈꾸던 ‘증인’의 지우가 ‘이상한 변호사 우영우’로 돌아왔다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/4bb0be30-1e4b-4c27-a8f1-defa58b0d5c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영국에서 전해진 낭보! 한국의 조세혁, 윔블던 U-14 단식 초대 챔피언 등극 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/67905</link>
             <guid>https://www.elle.co.kr/article/67905</guid>
@@ -1213,14 +1221,6 @@
             <pubDate>Fri, 01 Jul 2022 11:15:32 GMT</pubDate>
             <content:encoded><![CDATA['최최차차'라면 기다려 봐도 좋을 듯.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/8135bf36-edfc-453a-bb20-ea2d29641db3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대화의 맛, <우리는 SF를 좋아해> (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/67542</link>
-            <guid>https://www.elle.co.kr/article/67542</guid>
-            <pubDate>Wed, 06 Jul 2022 15:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[좋아하는 일을 꾸준히 지속할 수 있는 감각.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/63cf52b7-45c1-4df9-a887-974855e2c125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
