@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 14:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 15:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[D라인 신드롬 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68043</link>
+            <guid>https://www.elle.co.kr/article/68043</guid>
+            <pubDate>Sun, 17 Jul 2022 15:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[느슨한 머터니티 룩에 긴장감을 주는 오늘날의 D라인에 관하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/5f206053-d497-4452-b1c0-38792f4a3906.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키의 디지털 놀이터, '나이키 스타일 홍대' (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68017</link>
+            <guid>https://www.elle.co.kr/article/68017</guid>
+            <pubDate>Sun, 17 Jul 2022 15:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[디지털과 스포츠의 만남을 창의적으로 경험할 수 있는 새로운 공간!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/aa3e906d-2633-4ca7-a3ec-38bf0f847a4d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더위에 질 수 없지! 셀럽들의 아찔한 노출 퍼레이드 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68016</link>
             <guid>https://www.elle.co.kr/article/68016</guid>
@@ -1014,22 +1030,6 @@
             <pubDate>Fri, 15 Jul 2022 01:25:23 GMT</pubDate>
             <content:encoded><![CDATA[옷장 앞에서 옷을 고르기도 힘든 요즘 날씨! 고민없이 미니 드레스를 선택해 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/4afebd6f-798c-440d-8d1a-1b5a2886fb65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 치러 가요 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67640</link>
-            <guid>https://www.elle.co.kr/article/67640</guid>
-            <pubDate>Thu, 14 Jul 2022 15:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[그린 코트를 가로지르는 브랜드들의 협업이 일상에 신선한 자극을 불어넣고 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/670fde2e-e4b4-4d77-a03c-a90604fbc51d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성의 몸에 대한 여섯가지 새로운 이미지 그리고 단상 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67930</link>
-            <guid>https://www.elle.co.kr/article/67930</guid>
-            <pubDate>Wed, 13 Jul 2022 18:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[벗어날 수 없는 영원한 나의 집. 그래서 때때로 받아들이기 힘든 나의 몸에 대한 6인의 시선]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/d77b5cb4-9b0e-4c33-bec8-1ffce3faba44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자랑하고픈 데오도란트 (엘르 코리아 ─ 뷰티)]]></title>
