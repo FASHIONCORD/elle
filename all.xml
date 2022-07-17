@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 10:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 11:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/396c18cd-99e1-4ee6-83aa-f9c59c5f4176.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[느낌있게 '인생네컷’ 잘 찍는 힌트 모음.zip (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67988</link>
+            <guid>https://www.elle.co.kr/article/67988</guid>
+            <pubDate>Fri, 15 Jul 2022 18:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[인싸가 되고싶다면? 인생네컷 이렇게 찍어야죠! 스타의 개성만점 인생네컷 포즈를 참고해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/dbf1deba-9fa2-4058-9276-8542f57b9117.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내추럴 와인에 매료된 여자들 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67641</link>
             <guid>https://www.elle.co.kr/article/67641</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 13 Jul 2022 05:21:04 GMT</pubDate>
             <content:encoded><![CDATA[또 세계 무대에서 활약해버리는 한국인.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/d483f787-1738-418e-babf-f97690623fca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10년에 한번 씩 연인 되는 사이!? 장나라X장혁의 20년 우정 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67898</link>
-            <guid>https://www.elle.co.kr/article/67898</guid>
-            <pubDate>Wed, 13 Jul 2022 03:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[세 번째 드라마를 함께 할 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/e4efe468-2479-4076-a853-e32967d988a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘이상한 변호사 우영우’의 문지원 작가, 알고 보니 휴먼법정물 '증인'도 썼다?! #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
