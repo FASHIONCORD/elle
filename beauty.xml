@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 06:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 07:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글루텐 NO, 다이어트 YES! 키토 베이커리 추천 2]]></title>
+            <link>https://www.elle.co.kr/article/67953</link>
+            <guid>https://www.elle.co.kr/article/67953</guid>
+            <pubDate>Mon, 18 Jul 2022 07:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[빵은 좋지만 과다한 탄수화물과 당분 때문에 망설여진다면 주목하세요! 아나운서 이혜성이 찾은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/4018c648-eb26-444c-93c1-7f82f0e5593d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자랑하고픈 데오도란트]]></title>
             <link>https://www.elle.co.kr/article/67947</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Jul 2022 09:25:05 GMT</pubDate>
             <content:encoded><![CDATA[해외 여행갈 때 꼭!! 챙겨야 하는 것들]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/fa1a66ed-1a6f-4f31-9892-82198733f616.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋있는데 살까지 빠진다? 소유와 엄정화의 관리 비결, 서핑 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/67823</link>
-            <guid>https://www.elle.co.kr/article/67823</guid>
-            <pubDate>Mon, 11 Jul 2022 13:51:35 GMT</pubDate>
-            <content:encoded><![CDATA[삶의 태도까지 달라지게 만들어 준다는 서핑.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/396c18cd-99e1-4ee6-83aa-f9c59c5f4176.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
