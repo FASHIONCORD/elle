@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 07:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 08:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 특별한 로맨스와 봄날의 햇살 같은 우정! '이상한 변호사 우영우' 관계성 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/68082</link>
+            <guid>https://www.elle.co.kr/article/68082</guid>
+            <pubDate>Mon, 18 Jul 2022 08:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[우영우 주변에 가득한 따뜻함.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/a61110cb-4e9f-4396-8a2a-7d7cc85ab05f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 큰 대한민국으로?! '메리퀴어'·'남의 연애', 웨이브 성소수자 예능 2]]></title>
             <link>https://www.elle.co.kr/article/68027</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/67913</guid>
             <pubDate>Mon, 11 Jul 2022 07:18:39 GMT</pubDate>
             <content:encoded><![CDATA[변호사를 꿈꾸던 ‘증인’의 지우가 ‘이상한 변호사 우영우’로 돌아왔다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/4bb0be30-1e4b-4c27-a8f1-defa58b0d5c8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['런닝맨'에서 헤어진 유재석X이광수, 디즈니+와 넷플릭스에서 재회? (feat. 김연경)]]></title>
@@ -92,12 +99,6 @@
             <guid>https://www.elle.co.kr/article/67368</guid>
             <pubDate>Sun, 10 Jul 2022 16:24:51 GMT</pubDate>
             <content:encoded><![CDATA[이미 북미에서 개봉했지만 스케줄까지 조정하며 한국에 온 톰 크루즈.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서현진 VS 서예지 VS 염정아, 잘 되는 이유가 있는 ‘여성 원톱’ 드라마 3 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/67354</link>
-            <guid>https://www.elle.co.kr/article/67354</guid>
-            <pubDate>Sun, 10 Jul 2022 16:24:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
