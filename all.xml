@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 14:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 15:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엘리자베스 2세 여왕의 술과 함께한 밤 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68051</link>
+            <guid>https://www.elle.co.kr/article/68051</guid>
+            <pubDate>Mon, 18 Jul 2022 15:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[향으로 기억되는 어느 밤. 왕실의 헤리티지와 함께 70년이란 세월을 켜켜이 품은 로얄살루트 위...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/32a72dc8-9e4b-42a3-b1a0-a0e86dad8445.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[낭만 가득 바캉스 스타일링 2022 업데이트 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68044</link>
             <guid>https://www.elle.co.kr/article/68044</guid>
@@ -1024,12 +1032,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/e7a36315-36e3-4198-b11a-95fbf0eea29c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시즌 2가 돌아왔다! '유미의 세포들' 김고은 VS 김고은 #VS드라마패션 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67954</link>
-            <guid>https://www.elle.co.kr/article/67954</guid>
-            <pubDate>Thu, 14 Jul 2022 03:50:37 GMT</pubDate>
-            <content:encoded><![CDATA['인생캐'를 만난 믿고 보는 배우 김고은. 드라마 '유미의 세포들'로 다시 돌아온 김고은의 시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/0341b0f7-b69c-4965-b3ab-a495e4f7b3d7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뽀득뽀득 깨끗하게! 아이비의 내돈내산 욕실템 11 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/68014</link>
+            <guid>https://www.elle.co.kr/article/68014</guid>
+            <pubDate>Mon, 18 Jul 2022 15:21:54 GMT</pubDate>
+            <content:encoded><![CDATA['뷰잘알' 아이비가 욕실에 두고 사용하는 아이템을 소개합니다. 머리부터 발끝까지 찐으로 애용하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/ad989a55-7b1e-454e-b12d-cf81c1c3a359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나도 해 볼까? 연예계 대표 '소식좌' 박소현과 산다라박으로 보는 소식의 장점 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1086,14 +1094,6 @@
             <pubDate>Mon, 11 Jul 2022 16:32:12 GMT</pubDate>
             <content:encoded><![CDATA[여름맞이 기분 전환는  헤어 컬러 체인지로! 선미부터 수영, 제니까지 스타의 염색 스타일을 참...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/41aacf93-fcab-42ba-86e4-a210618f48ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7월의 뷰티 신상 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/67879</link>
-            <guid>https://www.elle.co.kr/article/67879</guid>
-            <pubDate>Tue, 12 Jul 2022 15:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[이번 달 뷰티 신제품이 궁금해?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/8403db63-a9e7-4c30-9e7e-282008776832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결국 에미상 가는 '오징어게임', 이정재X정호연X박해수까지 13개 부문 노미네이트?! (엘르 코리아 ─ 스타)]]></title>
@@ -1410,6 +1410,14 @@
             <content:encoded><![CDATA[이미 북미에서 개봉했지만 스케줄까지 조정하며 한국에 온 톰 크루즈.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[레고와 강혜원의 별이 빛나는 밤 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/68075</link>
+            <guid>https://www.elle.co.kr/article/68075</guid>
+            <pubDate>Mon, 18 Jul 2022 15:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[‘레고 아이디어 빈센트 반 고흐- 별이 빛나는 밤’과 가장 잘 어울리는 스물셋 청춘 스타 강...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/0e22ab62-a29c-4aea-a72c-993d6ae15bad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/67822</link>
             <guid>https://www.elle.co.kr/article/67822</guid>
@@ -1439,7 +1447,6 @@
             <guid>https://www.elle.co.kr/article/66912</guid>
             <pubDate>Fri, 03 Jun 2022 03:15:02 GMT</pubDate>
             <content:encoded><![CDATA[취미와 인테리어를 동시에 즐길 수 있는 ‘레고 보태니컬 컬렉션’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/e90459e9-7cee-4841-87ae-a45f506b557d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3년만에 돌아왔다! 웰컴백 베니스비엔날레 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1496,13 +1503,6 @@
             <guid>https://www.elle.co.kr/article/65334</guid>
             <pubDate>Tue, 24 May 2022 02:35:59 GMT</pubDate>
             <content:encoded><![CDATA[MZ세대를 중심으로 아트 신에 새로운 바람이 불었다. 그들을 낱낱이 파헤쳐보는 시간.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사랑하는 얼굴들에 대한 두 편의 전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/64991</link>
-            <guid>https://www.elle.co.kr/article/64991</guid>
-            <pubDate>Tue, 24 May 2022 02:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[캘리 비맨의 그림 속 오묘한 얼굴들. 그리고 23인의 글로벌 아티스트가 담은 사랑에 대하여]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[기분이 저기압일 땐 고기 앞으로! 한우에 화로구이 먹고 막국수로 입가심? 홍천 맛집 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
