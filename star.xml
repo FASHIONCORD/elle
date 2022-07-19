@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 10:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 11:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요리로 태교 중? 손예진, 이번엔 정갈함 그 자체인 신혼 밥상 대공개! (feat. 현빈 수저)]]></title>
+            <link>https://www.elle.co.kr/article/68077</link>
+            <guid>https://www.elle.co.kr/article/68077</guid>
+            <pubDate>Tue, 19 Jul 2022 11:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[한식부터 양식까지 다채로운 메뉴 선정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/610ceecc-58a2-443e-8ee6-1203eeef966a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 조합 칭찬해! 에이핑크 첫 번째 공식 유닛 '초봄']]></title>
             <link>https://www.elle.co.kr/article/68028</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 17 Jul 2022 11:13:25 GMT</pubDate>
             <content:encoded><![CDATA[인싸가 되고싶다면? 인생네컷 이렇게 찍어야죠! 스타의 개성만점 인생네컷 포즈를 참고해보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/dbf1deba-9fa2-4058-9276-8542f57b9117.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내추럴 와인에 매료된 여자들]]></title>
-            <link>https://www.elle.co.kr/article/67641</link>
-            <guid>https://www.elle.co.kr/article/67641</guid>
-            <pubDate>Thu, 14 Jul 2022 09:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[신간 &lt;와인에 쓸데없는 건 넣고 싶지 않아요&gt;의 저자 카밀라 예르데와 나눈 와인과 여자들에 대...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/430757ca-4acb-4b67-9602-3d9241294c84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
