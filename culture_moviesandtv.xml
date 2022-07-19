@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 01:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 04:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니, 첫 연기 도전을 HBO 드라마에서! 조니 뎁 딸도 나오는 <디 아이돌> 내용은?]]></title>
+            <link>https://www.elle.co.kr/article/68097</link>
+            <guid>https://www.elle.co.kr/article/68097</guid>
+            <pubDate>Tue, 19 Jul 2022 03:59:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/b4013dd5-3d35-4907-960b-96c579ef599e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 특별한 로맨스와 봄날의 햇살 같은 우정! '이상한 변호사 우영우' 관계성 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/68082</link>
@@ -36,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/67993</guid>
             <pubDate>Thu, 14 Jul 2022 03:51:44 GMT</pubDate>
             <content:encoded><![CDATA[ㄴㅇㄱ]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/f1e9821a-94e2-435e-afb8-3fb2225ee9be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘이상한 변호사 우영우’의 문지원 작가, 알고 보니 휴먼법정물 '증인'도 썼다?! #요즘드라마]]></title>
@@ -92,13 +98,6 @@
             <guid>https://www.elle.co.kr/article/67416</guid>
             <pubDate>Sun, 10 Jul 2022 16:24:51 GMT</pubDate>
             <content:encoded><![CDATA[처음 공개하는 아내 서희원과의 사진들도.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[30~40번 더 올 거라고?! 부산 명예시민 톰 크루즈의 의리 있는 10번째 내한]]></title>
-            <link>https://www.elle.co.kr/article/67368</link>
-            <guid>https://www.elle.co.kr/article/67368</guid>
-            <pubDate>Sun, 10 Jul 2022 16:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[이미 북미에서 개봉했지만 스케줄까지 조정하며 한국에 온 톰 크루즈.]]></content:encoded>
         </item>
     </channel>
 </rss>
