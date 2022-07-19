@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 07:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 08:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 조합 칭찬해! 에이핑크 첫 번째 공식 유닛 '초봄']]></title>
+            <link>https://www.elle.co.kr/article/68028</link>
+            <guid>https://www.elle.co.kr/article/68028</guid>
+            <pubDate>Tue, 19 Jul 2022 08:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[유기견에 대한 애정으로 &lt;엘르&gt; 펫 특집 화보에 등장한 에이핑크 초롱과 보미.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/482d0705-d1d3-4d52-bc54-433af51c8504.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우영우'의 다정 남주 강태오, 알고 보니 서강준과 이런 사이였다고?]]></title>
             <link>https://www.elle.co.kr/article/68052</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 14 Jul 2022 09:16:29 GMT</pubDate>
             <content:encoded><![CDATA[신간 &lt;와인에 쓸데없는 건 넣고 싶지 않아요&gt;의 저자 카밀라 예르데와 나눈 와인과 여자들에 대...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/430757ca-4acb-4b67-9602-3d9241294c84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시즌 2가 돌아왔다! '유미의 세포들' 김고은 VS 김고은 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/67954</link>
-            <guid>https://www.elle.co.kr/article/67954</guid>
-            <pubDate>Thu, 14 Jul 2022 03:50:37 GMT</pubDate>
-            <content:encoded><![CDATA['인생캐'를 만난 믿고 보는 배우 김고은. 드라마 '유미의 세포들'로 다시 돌아온 김고은의 시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/0341b0f7-b69c-4965-b3ab-a495e4f7b3d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
