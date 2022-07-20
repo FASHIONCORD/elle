@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 08:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예쁘고 우아한 거 다 해! 카즈하가 발레복을 입은 이유]]></title>
+            <link>https://www.elle.co.kr/article/68080</link>
+            <guid>https://www.elle.co.kr/article/68080</guid>
+            <pubDate>Wed, 20 Jul 2022 09:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[르세라핌의 비밀병기 카즈하와 엘르의 첫 만남.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/ac6c4cc6-7b58-444b-af61-0fb75ca98396.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름에 머리 묶는 법? 기장별 묶음 머리 TIP]]></title>
             <link>https://www.elle.co.kr/article/68085</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 18 Jul 2022 07:15:23 GMT</pubDate>
             <content:encoded><![CDATA[시공을 초월하는 존재감! 엘르 8월호 커버스타,&nbsp;김태리와 재현.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/be105b69-fd4d-4c84-b6b3-4b1feda201a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나도 해 볼까? 연예계 대표 '소식좌' 박소현과 산다라박으로 보는 소식의 장점 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/67989</link>
-            <guid>https://www.elle.co.kr/article/67989</guid>
-            <pubDate>Mon, 18 Jul 2022 01:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[체중감량에 노화예방 효과까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/366a20aa-ee3a-4a81-905f-2f571a4f5b9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
