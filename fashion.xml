@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 09:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베를리너로 거듭난 필름 메이커 유킴의 취향]]></title>
+            <link>https://www.elle.co.kr/article/68115</link>
+            <guid>https://www.elle.co.kr/article/68115</guid>
+            <pubDate>Thu, 21 Jul 2022 10:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[워너비 아이템으로 가득해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/d9a4a6fa-6d03-4143-96ea-049a962c9c40.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올 여름엔 '캡'이야!]]></title>
             <link>https://www.elle.co.kr/article/68093</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Jul 2022 08:19:58 GMT</pubDate>
             <content:encoded><![CDATA[호텔로, 휴양지로 바캉스를 떠난 스타들의 사진 속에서 찾은 바캉스 패션 힌트!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f8f54b4e-317b-41c9-b9b3-5703057ef248.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[D라인 신드롬]]></title>
-            <link>https://www.elle.co.kr/article/68043</link>
-            <guid>https://www.elle.co.kr/article/68043</guid>
-            <pubDate>Sun, 17 Jul 2022 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[느슨한 머터니티 룩에 긴장감을 주는 오늘날의 D라인에 관하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/5f206053-d497-4452-b1c0-38792f4a3906.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
