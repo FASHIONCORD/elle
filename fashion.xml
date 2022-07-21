@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 14:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 15:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올 여름 해외 여행 어디가지?]]></title>
+            <link>https://www.elle.co.kr/article/68148</link>
+            <guid>https://www.elle.co.kr/article/68148</guid>
+            <pubDate>Thu, 21 Jul 2022 15:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[인간 여름이들에게 물었다. 지금 바로 티케팅하고 싶은 해외여행지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/a2419918-7d2f-4e20-b561-698490ab55ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SHOW ME YOUR TEETH]]></title>
             <link>https://www.elle.co.kr/article/68146</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Jul 2022 05:21:53 GMT</pubDate>
             <content:encoded><![CDATA[모든 몸은 아름다워.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/d9bdeb36-9877-4dbf-84bb-e3f491fcc455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 건강한 술꾼이 될 수 있을까?]]></title>
-            <link>https://www.elle.co.kr/article/68049</link>
-            <guid>https://www.elle.co.kr/article/68049</guid>
-            <pubDate>Tue, 19 Jul 2022 15:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[음주와 건강, 환경보호는 결코 함께할 수 없는 운명인걸까? 지속 가능한 음주생활을 위한 작지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/9e138980-2e8a-4fa1-8a55-6bf24ea54aed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
