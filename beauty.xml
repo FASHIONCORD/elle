@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 11:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 12:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭염에 뒤집어진 피부의 진정 법칙_선배's 어드바이스 #126]]></title>
+            <link>https://www.elle.co.kr/article/68078</link>
+            <guid>https://www.elle.co.kr/article/68078</guid>
+            <pubDate>Thu, 21 Jul 2022 12:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[본격 휴가철, 잠시 방심한 사이 깜짝 놀란 피부 진정 A to Z]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/2e54a448-5cff-4d96-8b28-28855ada5d23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갱년기 준비하기]]></title>
             <link>https://www.elle.co.kr/article/68041</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Jul 2022 08:21:39 GMT</pubDate>
             <content:encoded><![CDATA[매거진 엘르(ELLE) X 스타필드 코엑스몰의 만남]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/75272b9c-7a84-41b5-be25-2305ce7ef63e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓생은 템빨? 강민경이 정착한 영양제 5]]></title>
-            <link>https://www.elle.co.kr/article/67925</link>
-            <guid>https://www.elle.co.kr/article/67925</guid>
-            <pubDate>Thu, 14 Jul 2022 18:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[자기 관리 고수 강민경이 꾸준히 챙겨 먹는 영양제는 무엇일까요? 건강과 피부를 위해 그녀가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/02462ba5-dfc6-4883-be8e-cd1923bfaf97.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

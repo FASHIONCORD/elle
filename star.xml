@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 11:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 12:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[입대 전 마지막 드라마가 '우영우'? 유니콘 남주 강태오 출연 드라마 3]]></title>
+            <link>https://www.elle.co.kr/article/68139</link>
+            <guid>https://www.elle.co.kr/article/68139</guid>
+            <pubDate>Thu, 21 Jul 2022 12:31:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/d48421e6-49aa-4259-a468-4aa30791480e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑스러운 임신부 홍현희! 출산 전부터 '슈돌' 출연 확정? (feat. 파격 만삭 화보)]]></title>
+            <link>https://www.elle.co.kr/article/68128</link>
+            <guid>https://www.elle.co.kr/article/68128</guid>
+            <pubDate>Thu, 21 Jul 2022 12:31:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/4aa720d9-e7c1-45f3-8246-c5b23f70bdcf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[절대 안 들키는 태리표 변장술..? 김태리의 운전 실력 & '외계+인' 비하인드 대공개]]></title>
             <link>https://www.elle.co.kr/article/68111</link>
@@ -53,21 +67,6 @@
             <pubDate>Tue, 19 Jul 2022 11:13:04 GMT</pubDate>
             <content:encoded><![CDATA[한식부터 양식까지 다채로운 메뉴 선정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/610ceecc-58a2-443e-8ee6-1203eeef966a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 조합 칭찬해! 에이핑크 첫 번째 공식 유닛 '초봄']]></title>
-            <link>https://www.elle.co.kr/article/68028</link>
-            <guid>https://www.elle.co.kr/article/68028</guid>
-            <pubDate>Tue, 19 Jul 2022 08:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[유기견에 대한 애정으로 &lt;엘르&gt; 펫 특집 화보에 등장한 에이핑크 초롱과 보미.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/482d0705-d1d3-4d52-bc54-433af51c8504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우영우'의 다정 남주 강태오, 알고 보니 서강준과 이런 사이였다고?]]></title>
-            <link>https://www.elle.co.kr/article/68052</link>
-            <guid>https://www.elle.co.kr/article/68052</guid>
-            <pubDate>Tue, 19 Jul 2022 03:57:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/a6bf413e-7a08-46c3-842a-8d5b68f92b2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

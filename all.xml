@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 11:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 12:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SHOW ME YOUR TEETH (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68146</link>
+            <guid>https://www.elle.co.kr/article/68146</guid>
+            <pubDate>Thu, 21 Jul 2022 12:30:23 GMT</pubDate>
+            <content:encoded><![CDATA[올 여름, '투스젬(Tooth Gem)' 한번 붙여보실래요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/5ac874b8-edb5-41bc-8727-52fc0279c9b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신세경의 눈부신 판타지 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68079</link>
+            <guid>https://www.elle.co.kr/article/68079</guid>
+            <pubDate>Thu, 21 Jul 2022 12:30:23 GMT</pubDate>
+            <content:encoded><![CDATA[어둠과 빛이 공존하는 순간. 신비로운 자연 속에서 펼쳐지는 신세경과 타사키의 꿈같은 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/a184bc58-27b7-492e-9238-cd7d63ab91d7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[베를리너로 거듭난 필름 메이커 유킴의 취향 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68115</link>
             <guid>https://www.elle.co.kr/article/68115</guid>
@@ -1016,20 +1032,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/9e138980-2e8a-4fa1-8a55-6bf24ea54aed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엘리자베스 2세 여왕의 술과 함께한 밤 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68051</link>
-            <guid>https://www.elle.co.kr/article/68051</guid>
-            <pubDate>Mon, 18 Jul 2022 15:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[향으로 기억되는 어느 밤. 왕실의 헤리티지와 함께 70년이란 세월을 켜켜이 품은 로얄살루트 위...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/32a72dc8-9e4b-42a3-b1a0-a0e86dad8445.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낭만 가득 바캉스 스타일링 2022 업데이트 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68044</link>
-            <guid>https://www.elle.co.kr/article/68044</guid>
-            <pubDate>Mon, 18 Jul 2022 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[호텔로, 휴양지로 바캉스를 떠난 스타들의 사진 속에서 찾은 바캉스 패션 힌트!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f8f54b4e-317b-41c9-b9b3-5703057ef248.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[폭염에 뒤집어진 피부의 진정 법칙_선배's 어드바이스 #126 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/68078</link>
+            <guid>https://www.elle.co.kr/article/68078</guid>
+            <pubDate>Thu, 21 Jul 2022 12:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[본격 휴가철, 잠시 방심한 사이 깜짝 놀란 피부 진정 A to Z]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/2e54a448-5cff-4d96-8b28-28855ada5d23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갱년기 준비하기 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1088,12 +1096,18 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/75272b9c-7a84-41b5-be25-2305ce7ef63e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[갓생은 템빨? 강민경이 정착한 영양제 5 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/67925</link>
-            <guid>https://www.elle.co.kr/article/67925</guid>
-            <pubDate>Wed, 13 Jul 2022 18:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[자기 관리 고수 강민경이 꾸준히 챙겨 먹는 영양제는 무엇일까요? 건강과 피부를 위해 그녀가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/02462ba5-dfc6-4883-be8e-cd1923bfaf97.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[입대 전 마지막 드라마가 '우영우'? 유니콘 남주 강태오 출연 드라마 3 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/68139</link>
+            <guid>https://www.elle.co.kr/article/68139</guid>
+            <pubDate>Wed, 20 Jul 2022 08:25:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/d48421e6-49aa-4259-a468-4aa30791480e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑스러운 임신부 홍현희! 출산 전부터 '슈돌' 출연 확정? (feat. 파격 만삭 화보) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/68128</link>
+            <guid>https://www.elle.co.kr/article/68128</guid>
+            <pubDate>Thu, 21 Jul 2022 12:31:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/4aa720d9-e7c1-45f3-8246-c5b23f70bdcf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[절대 안 들키는 태리표 변장술..? 김태리의 운전 실력 & '외계+인' 비하인드 대공개 (엘르 코리아 ─ 스타)]]></title>
@@ -1141,21 +1155,6 @@
             <pubDate>Tue, 19 Jul 2022 11:13:04 GMT</pubDate>
             <content:encoded><![CDATA[한식부터 양식까지 다채로운 메뉴 선정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/610ceecc-58a2-443e-8ee6-1203eeef966a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 조합 칭찬해! 에이핑크 첫 번째 공식 유닛 '초봄' (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/68028</link>
-            <guid>https://www.elle.co.kr/article/68028</guid>
-            <pubDate>Tue, 19 Jul 2022 08:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[유기견에 대한 애정으로 &lt;엘르&gt; 펫 특집 화보에 등장한 에이핑크 초롱과 보미.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/482d0705-d1d3-4d52-bc54-433af51c8504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우영우'의 다정 남주 강태오, 알고 보니 서강준과 이런 사이였다고? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/68052</link>
-            <guid>https://www.elle.co.kr/article/68052</guid>
-            <pubDate>Tue, 19 Jul 2022 03:57:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/a6bf413e-7a08-46c3-842a-8d5b68f92b2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가장 특별한 로맨스와 봄날의 햇살 같은 우정! '이상한 변호사 우영우' 관계성 모음.zip (엘르 코리아 ─ 컬쳐)]]></title>

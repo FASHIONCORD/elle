@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 11:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 12:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SHOW ME YOUR TEETH]]></title>
+            <link>https://www.elle.co.kr/article/68146</link>
+            <guid>https://www.elle.co.kr/article/68146</guid>
+            <pubDate>Thu, 21 Jul 2022 12:30:23 GMT</pubDate>
+            <content:encoded><![CDATA[올 여름, '투스젬(Tooth Gem)' 한번 붙여보실래요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/5ac874b8-edb5-41bc-8727-52fc0279c9b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신세경의 눈부신 판타지]]></title>
+            <link>https://www.elle.co.kr/article/68079</link>
+            <guid>https://www.elle.co.kr/article/68079</guid>
+            <pubDate>Thu, 21 Jul 2022 12:30:23 GMT</pubDate>
+            <content:encoded><![CDATA[어둠과 빛이 공존하는 순간. 신비로운 자연 속에서 펼쳐지는 신세경과 타사키의 꿈같은 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/a184bc58-27b7-492e-9238-cd7d63ab91d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베를리너로 거듭난 필름 메이커 유킴의 취향]]></title>
             <link>https://www.elle.co.kr/article/68115</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 19 Jul 2022 15:21:44 GMT</pubDate>
             <content:encoded><![CDATA[음주와 건강, 환경보호는 결코 함께할 수 없는 운명인걸까? 지속 가능한 음주생활을 위한 작지...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/9e138980-2e8a-4fa1-8a55-6bf24ea54aed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리자베스 2세 여왕의 술과 함께한 밤]]></title>
-            <link>https://www.elle.co.kr/article/68051</link>
-            <guid>https://www.elle.co.kr/article/68051</guid>
-            <pubDate>Mon, 18 Jul 2022 15:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[향으로 기억되는 어느 밤. 왕실의 헤리티지와 함께 70년이란 세월을 켜켜이 품은 로얄살루트 위...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/32a72dc8-9e4b-42a3-b1a0-a0e86dad8445.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낭만 가득 바캉스 스타일링 2022 업데이트]]></title>
-            <link>https://www.elle.co.kr/article/68044</link>
-            <guid>https://www.elle.co.kr/article/68044</guid>
-            <pubDate>Mon, 18 Jul 2022 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[호텔로, 휴양지로 바캉스를 떠난 스타들의 사진 속에서 찾은 바캉스 패션 힌트!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f8f54b4e-317b-41c9-b9b3-5703057ef248.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
