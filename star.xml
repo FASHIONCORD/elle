@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 07:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 08:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[절대 안 들키는 태리표 변장술..? 김태리의 운전 실력 & '외계+인' 비하인드 대공개]]></title>
+            <link>https://www.elle.co.kr/article/68111</link>
+            <guid>https://www.elle.co.kr/article/68111</guid>
+            <pubDate>Thu, 21 Jul 2022 08:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[김태리가 '외계+인 1부' 영화배우들을 이모지로 표현해 봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/327c2ba9-b1e7-4006-9264-494fffd966c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 육상 최초이자 최고! 세계선수권 은메달 따 낸 우상혁, 상금 총 얼마?]]></title>
             <link>https://www.elle.co.kr/article/68110</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/68052</guid>
             <pubDate>Tue, 19 Jul 2022 03:57:29 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/a6bf413e-7a08-46c3-842a-8d5b68f92b2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서브 남주요? 서브 아빠입니다. 갑자기 미남으로 보이는 '우영우' 정변호사 강기영]]></title>
-            <link>https://www.elle.co.kr/article/68002</link>
-            <guid>https://www.elle.co.kr/article/68002</guid>
-            <pubDate>Tue, 19 Jul 2022 01:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[사실은 원래 훈훈했다는 후문...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/69c4513c-2618-49b8-a042-5582a822e658.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
