@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 06:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 07:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1563,6 +1563,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/d5924a21-168d-4237-b18d-aa8f6596c868.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도대체 엔화가 왜 이러지?_돈쓸신잡 #54 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/68011</link>
+            <guid>https://www.elle.co.kr/article/68011</guid>
+            <pubDate>Thu, 21 Jul 2022 07:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[환율의 힘은 강하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/3b1b6a94-73e6-493a-a229-086b4dd4de2b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['육아스타그램'의 다른 이름 '셰어런팅', 그런데 아기들의 프라이버시는? (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/67962</link>
             <guid>https://www.elle.co.kr/article/67962</guid>
@@ -1617,14 +1625,6 @@
             <pubDate>Tue, 12 Jul 2022 05:43:42 GMT</pubDate>
             <content:encoded><![CDATA[돈 벌기 위해 갖춰야 할 아주 기본적인 태도.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/725b7f42-4141-402e-8a0c-a0aee4b79b12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 핫한 광고 속 NEW 가상인간.zip (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/67832</link>
-            <guid>https://www.elle.co.kr/article/67832</guid>
-            <pubDate>Sun, 10 Jul 2022 18:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[‘괴물 신인’이라는 별명을 가진 지금 가장 핫한 버추얼 인플루언서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ab5fc8ec-c264-4727-aeee-32820a734bf4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
