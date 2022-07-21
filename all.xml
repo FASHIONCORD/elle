@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 19:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 20:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자연을 엮어 만든 라피아 가방 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68152</link>
+            <guid>https://www.elle.co.kr/article/68152</guid>
+            <pubDate>Thu, 21 Jul 2022 20:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[여름을 위한 바구니!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/25f2d31d-3ccc-4146-be7e-7c9d0339629c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[올 여름 해외 여행 어디가지? (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68148</link>
             <guid>https://www.elle.co.kr/article/68148</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 20 Jul 2022 17:21:57 GMT</pubDate>
             <content:encoded><![CDATA[순환하는 패션의 긍정적인 면모.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/2dcad79c-15d2-4117-ad64-994029c58614.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EveryBody (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68054</link>
-            <guid>https://www.elle.co.kr/article/68054</guid>
-            <pubDate>Wed, 20 Jul 2022 05:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[모든 몸은 아름다워.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/d9bdeb36-9877-4dbf-84bb-e3f491fcc455.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭염에 뒤집어진 피부의 진정 법칙_선배's 어드바이스 #126 (엘르 코리아 ─ 뷰티)]]></title>
