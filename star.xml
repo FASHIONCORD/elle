@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 20:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 21:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권정열 유죄인간 인정!? 반전매력 발산한 엘르 화보]]></title>
+            <link>https://www.elle.co.kr/article/68140</link>
+            <guid>https://www.elle.co.kr/article/68140</guid>
+            <pubDate>Thu, 21 Jul 2022 21:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[10CM 권정열. 그라데이션 같이 다채로운 그의 매력을 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/c62608bf-99e6-4afe-88e3-8528f207d1ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[입대 전 마지막 드라마가 '우영우'? 유니콘 남주 강태오 출연 드라마 3]]></title>
             <link>https://www.elle.co.kr/article/68139</link>
@@ -59,14 +67,6 @@
             <pubDate>Wed, 20 Jul 2022 06:20:30 GMT</pubDate>
             <content:encoded><![CDATA[눈치 없이 달라붙는 머리카락으로부터 해방되는 방법! 스타들의 묶음 헤어 스타일링을 확인해 보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/a9beeaac-60f5-436f-91b3-884ec3d10dcc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요리로 태교 중? 손예진, 이번엔 정갈함 그 자체인 신혼 밥상 대공개! (feat. 현빈 수저)]]></title>
-            <link>https://www.elle.co.kr/article/68077</link>
-            <guid>https://www.elle.co.kr/article/68077</guid>
-            <pubDate>Tue, 19 Jul 2022 11:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[한식부터 양식까지 다채로운 메뉴 선정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/610ceecc-58a2-443e-8ee6-1203eeef966a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
