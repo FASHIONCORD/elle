@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 23:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 01:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다음 주라도 결혼 가능?! 현아와 던이 직접 밝힌 프러포즈 이후 이야기]]></title>
+            <link>https://www.elle.co.kr/article/68162</link>
+            <guid>https://www.elle.co.kr/article/68162</guid>
+            <pubDate>Fri, 22 Jul 2022 01:22:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/2cd1e75e-4f08-4012-94ca-ad22a02aaaa0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권정열 유죄인간 인정!? 반전매력 발산한 엘르 화보]]></title>
             <link>https://www.elle.co.kr/article/68140</link>
@@ -59,14 +66,6 @@
             <pubDate>Wed, 20 Jul 2022 09:16:09 GMT</pubDate>
             <content:encoded><![CDATA[르세라핌의 비밀병기 카즈하와 엘르의 첫 만남.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/ac6c4cc6-7b58-444b-af61-0fb75ca98396.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름에 머리 묶는 법? 기장별 묶음 머리 TIP]]></title>
-            <link>https://www.elle.co.kr/article/68085</link>
-            <guid>https://www.elle.co.kr/article/68085</guid>
-            <pubDate>Wed, 20 Jul 2022 06:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[눈치 없이 달라붙는 머리카락으로부터 해방되는 방법! 스타들의 묶음 헤어 스타일링을 확인해 보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/a9beeaac-60f5-436f-91b3-884ec3d10dcc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
