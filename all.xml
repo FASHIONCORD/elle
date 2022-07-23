@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 12:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 13:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1498,6 +1498,14 @@
             <content:encoded><![CDATA[MZ세대를 중심으로 아트 신에 새로운 바람이 불었다. 그들을 낱낱이 파헤쳐보는 시간.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[손에 꼽히는 서울 6대 평냉 맛집! 상황별 추천편 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/68006</link>
+            <guid>https://www.elle.co.kr/article/68006</guid>
+            <pubDate>Sat, 23 Jul 2022 13:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[평양냉면의 미묘한 차이를 아실는지. 해장에 제일인 곳? 이른 저녁 술 없이도 호사를 누리고 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/31cdfa4f-ef53-4945-a8a0-970fae74285e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[글루텐 NO, 다이어트 YES! 키토 베이커리 추천 2 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/67953</link>
             <guid>https://www.elle.co.kr/article/67953</guid>
@@ -1550,14 +1558,6 @@
             <pubDate>Tue, 12 Jul 2022 01:24:43 GMT</pubDate>
             <content:encoded><![CDATA[시각과 미각을 일깨울 추억 속 파르페]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/2945ead0-6baa-4dec-afb7-03a1d366df3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평범한 햄버거 NO! 비주얼부터 맛까지 힙한 성수동 버거 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/67582</link>
-            <guid>https://www.elle.co.kr/article/67582</guid>
-            <pubDate>Fri, 08 Jul 2022 10:29:33 GMT</pubDate>
-            <content:encoded><![CDATA[미국이야? 서울이야? 황승언이 들른 힙한 버거집부터 아메리칸 버거 챔피언 출신 셰프의 버거집...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/83872038-9000-4db8-a1be-9f895a0e1d52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 큰 대한민국으로?! '메리퀴어'·'남의 연애', 웨이브 성소수자 예능 2 (엘르 코리아 ─ 소사이어티)]]></title>
