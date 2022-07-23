@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 15:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 16:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나만 신고 싶은 것부터 애인이랑 같이 신고 싶은 운동화까지 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68173</link>
+            <guid>https://www.elle.co.kr/article/68173</guid>
+            <pubDate>Sat, 23 Jul 2022 16:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[새로 나온 운동화를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/c5d7559a-9263-4ca1-89c3-c6acafa1faa7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자연을 엮어 만든 라피아 가방 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68152</link>
             <guid>https://www.elle.co.kr/article/68152</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 20 Jul 2022 06:20:30 GMT</pubDate>
             <content:encoded><![CDATA[눈치 없이 달라붙는 머리카락으로부터 해방되는 방법! 스타들의 묶음 헤어 스타일링을 확인해 보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/a9beeaac-60f5-436f-91b3-884ec3d10dcc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필(必)환경시대의 패션 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68053</link>
-            <guid>https://www.elle.co.kr/article/68053</guid>
-            <pubDate>Wed, 20 Jul 2022 17:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[순환하는 패션의 긍정적인 면모.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/2dcad79c-15d2-4117-ad64-994029c58614.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭염에 뒤집어진 피부의 진정 법칙_선배's 어드바이스 #126 (엘르 코리아 ─ 뷰티)]]></title>
