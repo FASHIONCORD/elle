@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 20:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 21:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이래도 단발 안 해? 단발 뽐뿌를 부르는 스타들]]></title>
+            <link>https://www.elle.co.kr/article/68176</link>
+            <guid>https://www.elle.co.kr/article/68176</guid>
+            <pubDate>Sun, 24 Jul 2022 21:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 미모에 물오른 스타들의 공통점은 바로 단발머리!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/836a3fcc-e94a-4bab-b0c9-31f6b2b7825d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청순하고 귀엽고 싶어? 블라우스 스타일링 & 쇼핑 리스트]]></title>
             <link>https://www.elle.co.kr/article/68175</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Jul 2022 10:17:08 GMT</pubDate>
             <content:encoded><![CDATA[워너비 아이템으로 가득해!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/d9a4a6fa-6d03-4143-96ea-049a962c9c40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 여름엔 '캡'이야!]]></title>
-            <link>https://www.elle.co.kr/article/68093</link>
-            <guid>https://www.elle.co.kr/article/68093</guid>
-            <pubDate>Thu, 21 Jul 2022 03:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[쿨한 써머룩엔 볼 캡이 필수지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/84e9ad18-ca62-4146-b0f1-a2e37288102d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
