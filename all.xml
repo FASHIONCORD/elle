@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 01:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/d9a4a6fa-6d03-4143-96ea-049a962c9c40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름 파운데이션 하나 하셔야죠? (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/68092</link>
+            <guid>https://www.elle.co.kr/article/68092</guid>
+            <pubDate>Mon, 25 Jul 2022 03:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[모든 게 완벽한 여름 파운데이션 7.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/9125e3cc-9bce-420a-b238-533f7cc673ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여름에 머리 묶는 법? 기장별 묶음 머리 TIP (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/68085</link>
             <guid>https://www.elle.co.kr/article/68085</guid>
@@ -1086,14 +1094,6 @@
             <pubDate>Thu, 14 Jul 2022 01:22:00 GMT</pubDate>
             <content:encoded><![CDATA[빵은 좋지만 과다한 탄수화물과 당분 때문에 망설여진다면 주목하세요! 아나운서 이혜성이 찾은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/4018c648-eb26-444c-93c1-7f82f0e5593d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자랑하고픈 데오도란트 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/67947</link>
-            <guid>https://www.elle.co.kr/article/67947</guid>
-            <pubDate>Fri, 15 Jul 2022 15:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[데오도란트가 예쁘기까지 하다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/2c7c9ca6-9d6f-4d2c-951c-7aa28a9fca75.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이래도 단발 안 해? 단발 뽐뿌를 부르는 스타들 (엘르 코리아 ─ 스타)]]></title>
