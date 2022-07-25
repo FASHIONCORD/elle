@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 14:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 15:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수영복 위에 툭- 예쁘고 실용적인 커버업 스타일링 6]]></title>
+            <link>https://www.elle.co.kr/article/68180</link>
+            <guid>https://www.elle.co.kr/article/68180</guid>
+            <pubDate>Mon, 25 Jul 2022 15:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[유교걸이라면 참고하세요! 시크하면서도 러블리하게. 수영복 입은 당신을 더 돋보이게 할 커버업 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/38d7aa4f-ed3b-429c-877a-1f19ab66acce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<엘르> 뷰티 디렉터의 책상 위 뷰티템]]></title>
             <link>https://www.elle.co.kr/article/68179</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Jul 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[올 여름, '투스젬(Tooth Gem)' 한번 붙여보실래요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/5ac874b8-edb5-41bc-8727-52fc0279c9b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세경의 눈부신 판타지]]></title>
-            <link>https://www.elle.co.kr/article/68079</link>
-            <guid>https://www.elle.co.kr/article/68079</guid>
-            <pubDate>Thu, 21 Jul 2022 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[어둠과 빛이 공존하는 순간. 신비로운 자연 속에서 펼쳐지는 신세경과 타사키의 꿈같은 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/a184bc58-27b7-492e-9238-cd7d63ab91d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
