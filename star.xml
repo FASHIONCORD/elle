@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 07:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 08:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 맥(M.A.C), 민니의 완벽 유죄 화보]]></title>
+            <link>https://www.elle.co.kr/article/68170</link>
+            <guid>https://www.elle.co.kr/article/68170</guid>
+            <pubDate>Tue, 26 Jul 2022 08:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[부드럽지만 강렬한 벨벳 컬러. 슬림하지만 압도적인 존재감. 민니와 맥(M.A.C) 파우더 키스 벨벳...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/f0278a84-5508-428e-b438-a367fe411eb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름휴가 여기 어때?! 스타들이 선택한 국내 여행지]]></title>
             <link>https://www.elle.co.kr/article/68181</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/68139</guid>
             <pubDate>Thu, 21 Jul 2022 12:31:15 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/d48421e6-49aa-4259-a468-4aa30791480e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑스러운 임신부 홍현희! 출산 전부터 '슈돌' 출연 확정? (feat. 파격 만삭 화보)]]></title>
-            <link>https://www.elle.co.kr/article/68128</link>
-            <guid>https://www.elle.co.kr/article/68128</guid>
-            <pubDate>Thu, 21 Jul 2022 12:31:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/4aa720d9-e7c1-45f3-8246-c5b23f70bdcf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
