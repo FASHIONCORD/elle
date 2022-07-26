@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 04:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:43:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1498,6 +1498,13 @@
             <content:encoded><![CDATA[MZ세대를 중심으로 아트 신에 새로운 바람이 불었다. 그들을 낱낱이 파헤쳐보는 시간.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[갈 때 마다 바뀌는 성수동, 이번엔 일본식 꼬치구이와 과일 빙수 먹으러! #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/68094</link>
+            <guid>https://www.elle.co.kr/article/68094</guid>
+            <pubDate>Tue, 26 Jul 2022 05:42:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/653d5a7a-ccf0-4f96-8004-ce355c02bb21.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이영자처럼 패러글라이딩하고, 도담삼봉 빙수 흡입하기! 단양 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/68045</link>
             <guid>https://www.elle.co.kr/article/68045</guid>
@@ -1551,13 +1558,6 @@
             <guid>https://www.elle.co.kr/article/67765</guid>
             <pubDate>Thu, 14 Jul 2022 10:21:13 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/3a43ffa7-7a4f-4662-b594-b968c418edfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나와 가족 만의 사적 시간을 위해! 체험과 볼거리 가득한 홍천 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/67737</link>
-            <guid>https://www.elle.co.kr/article/67737</guid>
-            <pubDate>Wed, 13 Jul 2022 05:25:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/6c5b4607-8b29-4511-a4d5-10f7168df50a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 큰 대한민국으로?! '메리퀴어'·'남의 연애', 웨이브 성소수자 예능 2 (엘르 코리아 ─ 소사이어티)]]></title>
