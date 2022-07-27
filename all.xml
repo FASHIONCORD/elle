@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 01:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 03:54:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/a2419918-7d2f-4e20-b561-698490ab55ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내 일상에 녹아든, 나의 배럴핏 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/68069</link>
+            <guid>https://www.elle.co.kr/article/68069</guid>
+            <pubDate>Wed, 27 Jul 2022 03:49:16 GMT</pubDate>
+            <content:encoded><![CDATA[뮤즈 이미주가 전하는 스타일리시한 애슬레저 룩]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/4c159af8-7454-4c9d-96a5-090ee85759ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여름 파운데이션 하나 하셔야죠? (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/68092</link>
             <guid>https://www.elle.co.kr/article/68092</guid>
@@ -1086,14 +1094,6 @@
             <pubDate>Mon, 18 Jul 2022 01:16:46 GMT</pubDate>
             <content:encoded><![CDATA[체중감량에 노화예방 효과까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/366a20aa-ee3a-4a81-905f-2f571a4f5b9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글루텐 NO, 다이어트 YES! 키토 베이커리 추천 2 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/67953</link>
-            <guid>https://www.elle.co.kr/article/67953</guid>
-            <pubDate>Thu, 14 Jul 2022 01:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[빵은 좋지만 과다한 탄수화물과 당분 때문에 망설여진다면 주목하세요! 아나운서 이혜성이 찾은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/4018c648-eb26-444c-93c1-7f82f0e5593d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름을 현명하게 보내는 방법! 스타들의 물놀이 루틴 (엘르 코리아 ─ 스타)]]></title>
