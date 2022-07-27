@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 16:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 17:28:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프라발 구룽이 그린 타사키의 하늘]]></title>
+            <link>https://www.elle.co.kr/article/68252</link>
+            <guid>https://www.elle.co.kr/article/68252</guid>
+            <pubDate>Wed, 27 Jul 2022 17:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이티브 디렉터 프라발 구룽이 이끄는 타사키 아틀리에 컬렉션은 그의 옷과 맞닿아 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/b73f6112-a2ee-4088-9720-b895926fd0cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MZ 필수템? 쿨하디 쿨한 헤드셋 활용법]]></title>
             <link>https://www.elle.co.kr/article/68242</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 24 Jul 2022 15:14:49 GMT</pubDate>
             <content:encoded><![CDATA[러플, 아일렛, 퍼프 등 사랑스러운 디테일의 블라우스로 센스만점 청량미 넘치는 서머 데일리 룩...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/9489fdfd-312a-473d-b94b-53add8241f33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 신고 싶은 것부터 애인이랑 같이 신고 싶은 운동화까지]]></title>
-            <link>https://www.elle.co.kr/article/68173</link>
-            <guid>https://www.elle.co.kr/article/68173</guid>
-            <pubDate>Sat, 23 Jul 2022 16:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[새로 나온 운동화를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/c5d7559a-9263-4ca1-89c3-c6acafa1faa7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
