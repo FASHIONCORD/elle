@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 11:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 12:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ 필수템? 쿨하디 쿨한 헤드셋 활용법]]></title>
+            <link>https://www.elle.co.kr/article/68242</link>
+            <guid>https://www.elle.co.kr/article/68242</guid>
+            <pubDate>Wed, 27 Jul 2022 12:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[쿨한 패션 아이템이 되어버린 헤드셋! 셀럽의 연출법을 참고해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/3face8f2-481c-4c89-ba0f-e9d02eb5a374.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손목을 감싸는 코드 브레이슬렛의 존재감]]></title>
             <link>https://www.elle.co.kr/article/68240</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 23 Jul 2022 16:19:07 GMT</pubDate>
             <content:encoded><![CDATA[새로 나온 운동화를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/c5d7559a-9263-4ca1-89c3-c6acafa1faa7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자연을 엮어 만든 라피아 가방]]></title>
-            <link>https://www.elle.co.kr/article/68152</link>
-            <guid>https://www.elle.co.kr/article/68152</guid>
-            <pubDate>Thu, 21 Jul 2022 20:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[여름을 위한 바구니!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/25f2d31d-3ccc-4146-be7e-7c9d0339629c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
