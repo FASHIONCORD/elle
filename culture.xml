@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 06:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 07:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[입대 전 마지막 드라마가 '우영우'? 유니콘 남주 강태오 출연 드라마 3]]></title>
+            <link>https://www.elle.co.kr/article/68139</link>
+            <guid>https://www.elle.co.kr/article/68139</guid>
+            <pubDate>Wed, 27 Jul 2022 07:16:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/d48421e6-49aa-4259-a468-4aa30791480e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오직 여성을 위해서 쓰인 재테크 책 <리치 우먼>]]></title>
             <link>https://www.elle.co.kr/article/68138</link>
@@ -59,14 +66,6 @@
             <pubDate>Tue, 19 Jul 2022 08:21:19 GMT</pubDate>
             <content:encoded><![CDATA[디지털과 스포츠의 만남을 창의적으로 경험할 수 있는 새로운 공간!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/aa3e906d-2633-4ca7-a3ec-38bf0f847a4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서브 남주요? 서브 아빠입니다. 갑자기 미남으로 보이는 '우영우' 정변호사 강기영]]></title>
-            <link>https://www.elle.co.kr/article/68002</link>
-            <guid>https://www.elle.co.kr/article/68002</guid>
-            <pubDate>Tue, 19 Jul 2022 06:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[사실은 원래 훈훈했다는 후문...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/69c4513c-2618-49b8-a042-5582a822e658.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

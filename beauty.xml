@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 06:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 07:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[떡볶이, 피자 챙겨 먹어도 살 잘만 빠진다는 김신영의 다이어트 레시피 4 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/68151</link>
+            <guid>https://www.elle.co.kr/article/68151</guid>
+            <pubDate>Wed, 27 Jul 2022 07:15:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/45eed01b-c603-41db-9ae8-20b3e6572c2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 일상에 녹아든, 나의 배럴핏]]></title>
             <link>https://www.elle.co.kr/article/68069</link>
@@ -62,14 +69,6 @@
             <pubDate>Mon, 18 Jul 2022 15:21:54 GMT</pubDate>
             <content:encoded><![CDATA['뷰잘알' 아이비가 욕실에 두고 사용하는 아이템을 소개합니다. 머리부터 발끝까지 찐으로 애용하...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/ad989a55-7b1e-454e-b12d-cf81c1c3a359.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나도 해 볼까? 연예계 대표 '소식좌' 박소현과 산다라박으로 보는 소식의 장점 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/67989</link>
-            <guid>https://www.elle.co.kr/article/67989</guid>
-            <pubDate>Mon, 18 Jul 2022 08:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[체중감량에 노화예방 효과까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/366a20aa-ee3a-4a81-905f-2f571a4f5b9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

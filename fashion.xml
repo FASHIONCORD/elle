@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 06:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 07:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손목을 감싸는 코드 브레이슬렛의 존재감]]></title>
+            <link>https://www.elle.co.kr/article/68240</link>
+            <guid>https://www.elle.co.kr/article/68240</guid>
+            <pubDate>Wed, 27 Jul 2022 07:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[여름 손목을 위한 트위스트 코드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/9396d8f9-e6a4-4537-8da0-7405f38adb57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 휴가 때 뭐 입을지 고민이라면?]]></title>
             <link>https://www.elle.co.kr/article/68236</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Jul 2022 20:16:54 GMT</pubDate>
             <content:encoded><![CDATA[여름을 위한 바구니!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/25f2d31d-3ccc-4146-be7e-7c9d0339629c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 여름 해외 여행 어디가지?]]></title>
-            <link>https://www.elle.co.kr/article/68148</link>
-            <guid>https://www.elle.co.kr/article/68148</guid>
-            <pubDate>Thu, 21 Jul 2022 15:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[인간 여름이들에게 물었다. 지금 바로 티케팅하고 싶은 해외여행지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/a2419918-7d2f-4e20-b561-698490ab55ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
