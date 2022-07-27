@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 21:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 22:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/9489fdfd-312a-473d-b94b-53add8241f33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이래도 단발 안 해? 단발 뽐뿌를 부르는 스타들 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/68176</link>
+            <guid>https://www.elle.co.kr/article/68176</guid>
+            <pubDate>Sat, 23 Jul 2022 21:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 미모에 물오른 스타들의 공통점은 바로 단발머리!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/836a3fcc-e94a-4bab-b0c9-31f6b2b7825d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[떡볶이, 피자 챙겨 먹어도 살 잘만 빠진다는 김신영의 다이어트 레시피 4 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/68151</link>
             <guid>https://www.elle.co.kr/article/68151</guid>
@@ -1085,14 +1093,6 @@
             <pubDate>Tue, 19 Jul 2022 03:56:46 GMT</pubDate>
             <content:encoded><![CDATA[연예인들의 다이어트 법에도 종종 등장하는 이것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/04814920-8994-4ff2-a62a-2bcbf85de7e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뽀득뽀득 깨끗하게! 아이비의 내돈내산 욕실템 11 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/68014</link>
-            <guid>https://www.elle.co.kr/article/68014</guid>
-            <pubDate>Mon, 18 Jul 2022 15:21:54 GMT</pubDate>
-            <content:encoded><![CDATA['뷰잘알' 아이비가 욕실에 두고 사용하는 아이템을 소개합니다. 머리부터 발끝까지 찐으로 애용하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/ad989a55-7b1e-454e-b12d-cf81c1c3a359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포상 휴가가 없다니 섭섭한데요? '우영우'로 잔치 난 ENA, 휴가 대신 준다는 엄청난 선물 (엘르 코리아 ─ 스타)]]></title>
