@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 07:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 08:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1407,7 +1407,7 @@
             <guid>https://www.elle.co.kr/article/68075</guid>
             <pubDate>Mon, 18 Jul 2022 15:25:50 GMT</pubDate>
             <content:encoded><![CDATA[‘레고 아이디어 빈센트 반 고흐- 별이 빛나는 밤’과 가장 잘 어울리는 스물셋 청춘 스타 강...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/0e22ab62-a29c-4aea-a72c-993d6ae15bad.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/0e22ab62-a29c-4aea-a72c-993d6ae15bad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1497,6 +1497,14 @@
             <content:encoded><![CDATA[MZ세대를 중심으로 아트 신에 새로운 바람이 불었다. 그들을 낱낱이 파헤쳐보는 시간.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마늘의 민족이라면 당장 먹부림 여행 떠나야 할 단양! 로컬 맛집 3선 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/68116</link>
+            <guid>https://www.elle.co.kr/article/68116</guid>
+            <pubDate>Wed, 27 Jul 2022 08:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[마늘 떡갈비, 마늘 육회, 마늘 순대까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/52862b86-ea72-4ad9-96b3-fedf48956bd8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[갈 때 마다 바뀌는 성수동, 이번엔 일본식 꼬치구이와 과일 빙수 먹으러! #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/68094</link>
             <guid>https://www.elle.co.kr/article/68094</guid>
@@ -1550,13 +1558,6 @@
             <pubDate>Fri, 15 Jul 2022 22:21:17 GMT</pubDate>
             <content:encoded><![CDATA[백종원도 감탄한 맛집도 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/4fd37ded-6008-4c8f-a6e3-12431620cad5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악마의 '단짠' 베이컨 도넛과 싱그러운 셔벗이 있는 망원동 카페 3 #신상맛집 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/67765</link>
-            <guid>https://www.elle.co.kr/article/67765</guid>
-            <pubDate>Thu, 14 Jul 2022 10:21:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/3a43ffa7-7a4f-4662-b594-b968c418edfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 큰 대한민국으로?! '메리퀴어'·'남의 연애', 웨이브 성소수자 예능 2 (엘르 코리아 ─ 소사이어티)]]></title>
