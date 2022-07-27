@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 14:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 15:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포상 휴가가 없다니 섭섭한데요? '우영우'로 잔치 난 ENA, 휴가 대신 준다는 엄청난 선물]]></title>
+            <link>https://www.elle.co.kr/article/68315</link>
+            <guid>https://www.elle.co.kr/article/68315</guid>
+            <pubDate>Wed, 27 Jul 2022 15:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[섭섭했던 마음이 조금 풀리는 황금.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/ebf2642b-340f-4ddd-ba1d-712a1c166516.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연느 예비신랑은 5살 연하 고우림! 첫 만남부터 반려견 이름까지, 김연아 결혼 정보 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/68299</link>
@@ -60,14 +68,6 @@
             <pubDate>Sat, 23 Jul 2022 21:14:27 GMT</pubDate>
             <content:encoded><![CDATA[요즘 미모에 물오른 스타들의 공통점은 바로 단발머리!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/836a3fcc-e94a-4bab-b0c9-31f6b2b7825d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청순하고 귀엽고 싶어? 블라우스 스타일링 & 쇼핑 리스트]]></title>
-            <link>https://www.elle.co.kr/article/68175</link>
-            <guid>https://www.elle.co.kr/article/68175</guid>
-            <pubDate>Fri, 22 Jul 2022 19:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[러플, 아일렛, 퍼프 등 사랑스러운 디테일의 블라우스로 센스만점 청량미 넘치는 서머 데일리 룩...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/9489fdfd-312a-473d-b94b-53add8241f33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

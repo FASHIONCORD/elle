@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 14:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 15:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배달 어플이 포장 수수료를 받기로 했다니 이게 무슨 소리요?!]]></title>
+            <link>https://www.elle.co.kr/article/68197</link>
+            <guid>https://www.elle.co.kr/article/68197</guid>
+            <pubDate>Wed, 27 Jul 2022 15:20:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/3192c134-780d-46e5-8082-962cdad8aa82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마늘의 민족이라면 당장 먹부림 여행 떠나야 할 단양! 로컬 맛집 3선 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/68116</link>
@@ -61,14 +68,6 @@
             <pubDate>Tue, 19 Jul 2022 01:27:50 GMT</pubDate>
             <content:encoded><![CDATA[한남동부터 성수동까지! 근사한 저녁 식사를 즐기고 싶다면 셀러브리티가 방문한 와인바를 참고해...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/b29e45b4-c07f-484d-83fe-f2fe655c826f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기분이 저기압일 땐 고기 앞으로! 한우에 화로구이 먹고 막국수로 입가심? 홍천 맛집 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/67799</link>
-            <guid>https://www.elle.co.kr/article/67799</guid>
-            <pubDate>Fri, 15 Jul 2022 22:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[백종원도 감탄한 맛집도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/4fd37ded-6008-4c8f-a6e3-12431620cad5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
