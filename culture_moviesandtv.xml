@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 14:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 15:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신하균이 12년 만에 시트콤을?! '유니콘', 일단은 안 웃기면 이상한 조합]]></title>
+            <link>https://www.elle.co.kr/article/68409</link>
+            <guid>https://www.elle.co.kr/article/68409</guid>
+            <pubDate>Thu, 28 Jul 2022 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[K-스타트업 CEO로 변신할 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/bf84d063-c57d-417f-9e5a-978d54181e8e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[럽스타를 참기가 쉽지 않아! 우영우와 이준호가 인스타그램을 한다면?]]></title>
             <link>https://www.elle.co.kr/article/68397</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/68296</guid>
             <pubDate>Tue, 26 Jul 2022 04:07:21 GMT</pubDate>
             <content:encoded><![CDATA[‘우영우’ 박은빈에게 입덕했다면 주목해야 할 5편.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/998d8df0-6f3a-4237-8a7e-59b2707a6cc8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도망친 엄마들_요주의여성 #67]]></title>
@@ -91,13 +98,6 @@
             <guid>https://www.elle.co.kr/article/67913</guid>
             <pubDate>Mon, 11 Jul 2022 07:18:39 GMT</pubDate>
             <content:encoded><![CDATA[변호사를 꿈꾸던 ‘증인’의 지우가 ‘이상한 변호사 우영우’로 돌아왔다!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['런닝맨'에서 헤어진 유재석X이광수, 디즈니+와 넷플릭스에서 재회? (feat. 김연경)]]></title>
-            <link>https://www.elle.co.kr/article/67831</link>
-            <guid>https://www.elle.co.kr/article/67831</guid>
-            <pubDate>Sun, 10 Jul 2022 16:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[예능계 대표 꿀조합을 다시 볼 수 있다!]]></content:encoded>
         </item>
     </channel>
 </rss>
