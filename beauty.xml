@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 03:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 04:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 필수템! 믿고 보는 채정안 픽 자외선 차단제 4]]></title>
+            <link>https://www.elle.co.kr/article/68237</link>
+            <guid>https://www.elle.co.kr/article/68237</guid>
+            <pubDate>Thu, 28 Jul 2022 04:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[데일리 선크림부터 레포츠용 선 패치까지, 뜨거운 자외선으로부터 피부를 보호해 줄 자외선 차단...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/13ac3931-57a5-4838-a2aa-659e9fec5d7f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이래도 단발 안 해? 단발 뽐뿌를 부르는 스타들]]></title>
             <link>https://www.elle.co.kr/article/68176</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 21 Jul 2022 01:15:35 GMT</pubDate>
             <content:encoded><![CDATA[갱년기 증후군은 빠르면 40대 초반부터 찾아온다. 지금 당장 준비가 필요하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/56a5d2c7-3937-4523-895b-130eae90bfe0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[날씬한 사람들의 습관? 따뜻한 차!]]></title>
-            <link>https://www.elle.co.kr/article/68029</link>
-            <guid>https://www.elle.co.kr/article/68029</guid>
-            <pubDate>Tue, 19 Jul 2022 03:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[연예인들의 다이어트 법에도 종종 등장하는 이것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/04814920-8994-4ff2-a62a-2bcbf85de7e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
