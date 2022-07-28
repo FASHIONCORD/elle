@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 04:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 05:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도망친 엄마들_요주의여성 #67]]></title>
+            <link>https://www.elle.co.kr/article/68184</link>
+            <guid>https://www.elle.co.kr/article/68184</guid>
+            <pubDate>Thu, 28 Jul 2022 05:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;로스트 도터&gt;가 전하는 ‘엄마’에 관한 진실.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/f2042598-13c7-44ec-9ffd-0e65980272ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[입대 전 마지막 드라마가 '우영우'? 유니콘 남주 강태오 출연 드라마 3]]></title>
             <link>https://www.elle.co.kr/article/68139</link>
@@ -58,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/68027</guid>
             <pubDate>Wed, 20 Jul 2022 09:16:25 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/b74dee61-fd50-451f-a3bd-aa3ca9e322f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키의 디지털 놀이터, '나이키 스타일 홍대']]></title>
-            <link>https://www.elle.co.kr/article/68017</link>
-            <guid>https://www.elle.co.kr/article/68017</guid>
-            <pubDate>Tue, 19 Jul 2022 08:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[디지털과 스포츠의 만남을 창의적으로 경험할 수 있는 새로운 공간!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/aa3e906d-2633-4ca7-a3ec-38bf0f847a4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
