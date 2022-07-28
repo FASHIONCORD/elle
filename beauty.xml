@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 10:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 11:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바캉스 최적화 뷰티 꿀템 7_선배's 어드바이스 #127]]></title>
+            <link>https://www.elle.co.kr/article/68256</link>
+            <guid>https://www.elle.co.kr/article/68256</guid>
+            <pubDate>Thu, 28 Jul 2022 11:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[챙겨 가면 바캉스가 두 배로 즐거워지는 아이템들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/33bf3152-f7dc-4169-83b3-5a081ac2deff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 필수템! 믿고 보는 채정안 픽 자외선 차단제 4]]></title>
             <link>https://www.elle.co.kr/article/68237</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 21 Jul 2022 12:30:35 GMT</pubDate>
             <content:encoded><![CDATA[본격 휴가철, 잠시 방심한 사이 깜짝 놀란 피부 진정 A to Z]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/2e54a448-5cff-4d96-8b28-28855ada5d23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갱년기 준비하기]]></title>
-            <link>https://www.elle.co.kr/article/68041</link>
-            <guid>https://www.elle.co.kr/article/68041</guid>
-            <pubDate>Thu, 21 Jul 2022 01:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[갱년기 증후군은 빠르면 40대 초반부터 찾아온다. 지금 당장 준비가 필요하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/56a5d2c7-3937-4523-895b-130eae90bfe0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
