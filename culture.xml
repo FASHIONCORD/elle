@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 07:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 08:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 휴가지에 가져가고 싶은 한 권의 책 <야생 숲의 노트>]]></title>
+            <link>https://www.elle.co.kr/article/68199</link>
+            <guid>https://www.elle.co.kr/article/68199</guid>
+            <pubDate>Thu, 28 Jul 2022 08:21:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/23/287bab9d-3c79-42ae-bd22-476822f21598.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도망친 엄마들_요주의여성 #67]]></title>
             <link>https://www.elle.co.kr/article/68184</link>
@@ -59,13 +66,6 @@
             <pubDate>Wed, 20 Jul 2022 09:16:25 GMT</pubDate>
             <content:encoded><![CDATA[우영우 주변에 가득한 따뜻함.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/a61110cb-4e9f-4396-8a2a-7d7cc85ab05f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 큰 대한민국으로?! '메리퀴어'·'남의 연애', 웨이브 성소수자 예능 2]]></title>
-            <link>https://www.elle.co.kr/article/68027</link>
-            <guid>https://www.elle.co.kr/article/68027</guid>
-            <pubDate>Wed, 20 Jul 2022 09:16:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/b74dee61-fd50-451f-a3bd-aa3ca9e322f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
