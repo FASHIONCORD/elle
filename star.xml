@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 09:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 10:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단정 혹은 우아! 변호사로 변신한 '우영우' 박은빈 VS '오수재' 서현진 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/68350</link>
+            <guid>https://www.elle.co.kr/article/68350</guid>
+            <pubDate>Fri, 29 Jul 2022 10:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[신드롬급 인기를 끌고 있는 드라마 '이상한 변호사 우영우'의 박은빈과 원톱 배우로서의 파워를...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/76bc4ce7-6051-400d-9ffb-e483df17c316.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밥 말리에서 켄드릭 라마로, 소름 쫙 돋는 '블랙팬서: 와칸다 포에버' 트레일러]]></title>
             <link>https://www.elle.co.kr/article/68349</link>
@@ -60,14 +68,6 @@
             <pubDate>Tue, 26 Jul 2022 15:19:15 GMT</pubDate>
             <content:encoded><![CDATA[끈적끈적하고 습한 여름에는 물놀이만 한 것이 없다! 보기만 해도 시원한 스타들의 물놀이.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/23/002dea16-c72f-4b41-94bf-1bd7978a9c82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 나온 '민희진 걸그룹' 뉴진스, 벌써 아이돌 덕후 심장 뛰게 하는 비주얼 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/68200</link>
-            <guid>https://www.elle.co.kr/article/68200</guid>
-            <pubDate>Tue, 26 Jul 2022 15:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[평균 연령 16.6세.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/bb84512f-3df1-44bf-96ad-c7aa1befdf0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
