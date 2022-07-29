@@ -4,17 +4,9 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 07:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 08:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[송혜교와 함께 만난 쇼메 하이주얼리의 세계]]></title>
-            <link>https://www.elle.co.kr/article/68372</link>
-            <guid>https://www.elle.co.kr/article/68372</guid>
-            <pubDate>Fri, 29 Jul 2022 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[흐르는 물을 빚고, 깎아 만든 쇼메 하이주얼리의 깊은 세계로 다이빙을 떠났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/34d9c48b-cb5b-48a1-9782-c3c539e876e8.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[확실한 존재감, 패셔너블한 선글라스 6]]></title>
             <link>https://www.elle.co.kr/article/68365</link>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 27 Jul 2022 07:15:02 GMT</pubDate>
             <content:encoded><![CDATA[여름 손목을 위한 트위스트 코드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/9396d8f9-e6a4-4537-8da0-7405f38adb57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 휴가 때 뭐 입을지 고민이라면?]]></title>
+            <link>https://www.elle.co.kr/article/68236</link>
+            <guid>https://www.elle.co.kr/article/68236</guid>
+            <pubDate>Fri, 29 Jul 2022 08:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[작열하는 태양과 반짝이는 파도, 이국적인 선드레스가 조우하는 리비에라 시크.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/06821ecd-44e6-421d-89f9-039a6c5644d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

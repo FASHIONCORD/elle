@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 07:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 08:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,14 +968,6 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[송혜교와 함께 만난 쇼메 하이주얼리의 세계 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68372</link>
-            <guid>https://www.elle.co.kr/article/68372</guid>
-            <pubDate>Fri, 29 Jul 2022 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[흐르는 물을 빚고, 깎아 만든 쇼메 하이주얼리의 깊은 세계로 다이빙을 떠났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/34d9c48b-cb5b-48a1-9782-c3c539e876e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[확실한 존재감, 패셔너블한 선글라스 6 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68365</link>
             <guid>https://www.elle.co.kr/article/68365</guid>
@@ -1030,6 +1022,14 @@
             <pubDate>Wed, 27 Jul 2022 07:15:02 GMT</pubDate>
             <content:encoded><![CDATA[여름 손목을 위한 트위스트 코드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/9396d8f9-e6a4-4537-8da0-7405f38adb57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 휴가 때 뭐 입을지 고민이라면? (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68236</link>
+            <guid>https://www.elle.co.kr/article/68236</guid>
+            <pubDate>Fri, 29 Jul 2022 08:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[작열하는 태양과 반짝이는 파도, 이국적인 선드레스가 조우하는 리비에라 시크.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/06821ecd-44e6-421d-89f9-039a6c5644d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바캉스 최적화 뷰티 꿀템 7_선배's 어드바이스 #127 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1191,7 +1191,7 @@
             <link>https://www.elle.co.kr/article/68138</link>
             <guid>https://www.elle.co.kr/article/68138</guid>
             <pubDate>Tue, 26 Jul 2022 08:20:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/70b2b698-8d5d-44fa-8cf8-228e2946ac56.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/70b2b698-8d5d-44fa-8cf8-228e2946ac56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 육상 최초이자 최고! 세계선수권 은메달 따 낸 우상혁, 상금 총 얼마? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1311,6 +1311,14 @@
             <content:encoded><![CDATA[키워드는 한강 노을섬, 해질녘, 초여름 바람, 그리고 뮤지션 10CM, 죠지(george), 유라(youra), 미...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[입을 어떻게 하라고요?! 우영우 전용 1타 강사 이준호의 첫 키스, 강태오가 직접 밝힌 비하인드 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/68454</link>
+            <guid>https://www.elle.co.kr/article/68454</guid>
+            <pubDate>Fri, 29 Jul 2022 08:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[까딱 잘못했단 갑자기 분위기 에로틱해질 수 있었던 대사.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/ad266a83-d242-453d-b013-dea452a7513e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신하균이 12년 만에 시트콤을?! '유니콘', 일단은 안 웃기면 이상한 조합 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/68409</link>
             <guid>https://www.elle.co.kr/article/68409</guid>
@@ -1340,7 +1348,6 @@
             <guid>https://www.elle.co.kr/article/68315</guid>
             <pubDate>Tue, 26 Jul 2022 08:21:58 GMT</pubDate>
             <content:encoded><![CDATA[섭섭했던 마음이 조금 풀리는 황금.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/ebf2642b-340f-4ddd-ba1d-712a1c166516.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘우영우’에 앞서 괴짜 판사 ‘이정주’가 있었다? 박은빈 ‘인생캐’ 작품 모음.zip #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1394,13 +1401,6 @@
             <guid>https://www.elle.co.kr/article/67993</guid>
             <pubDate>Thu, 14 Jul 2022 03:51:44 GMT</pubDate>
             <content:encoded><![CDATA[ㄴㅇㄱ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘이상한 변호사 우영우’의 문지원 작가, 알고 보니 휴먼법정물 '증인'도 썼다?! #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/67913</link>
-            <guid>https://www.elle.co.kr/article/67913</guid>
-            <pubDate>Mon, 11 Jul 2022 07:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[변호사를 꿈꾸던 ‘증인’의 지우가 ‘이상한 변호사 우영우’로 돌아왔다!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레고와 강혜원의 별이 빛나는 밤 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
