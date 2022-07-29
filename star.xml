@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 06:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 07:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밥 말리에서 켄드릭 라마로, 소름 쫙 돋는 '블랙팬서: 와칸다 포에버' 트레일러]]></title>
+            <link>https://www.elle.co.kr/article/68349</link>
+            <guid>https://www.elle.co.kr/article/68349</guid>
+            <pubDate>Fri, 29 Jul 2022 07:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[5년 만에 돌아오는 블랙팬서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/dce3cb9a-2af0-43bf-a368-a3bb413c06a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 재현의 새롭고 분명한 세계]]></title>
             <link>https://www.elle.co.kr/article/68335</link>
@@ -60,14 +68,6 @@
             <pubDate>Tue, 26 Jul 2022 15:19:15 GMT</pubDate>
             <content:encoded><![CDATA[평균 연령 16.6세.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/bb84512f-3df1-44bf-96ad-c7aa1befdf0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인간 맥(M.A.C), 민니의 완벽 유죄 화보]]></title>
-            <link>https://www.elle.co.kr/article/68170</link>
-            <guid>https://www.elle.co.kr/article/68170</guid>
-            <pubDate>Tue, 26 Jul 2022 08:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[부드럽지만 강렬한 벨벳 컬러. 슬림하지만 압도적인 존재감. 민니와 맥(M.A.C) 파우더 키스 벨벳...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/f0278a84-5508-428e-b438-a367fe411eb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
