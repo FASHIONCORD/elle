@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 19:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 20:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 모자 힌트! 강렬한 여름 햇빛을 가리는 해답 #버킷햇]]></title>
+            <link>https://www.elle.co.kr/article/68391</link>
+            <guid>https://www.elle.co.kr/article/68391</guid>
+            <pubDate>Sat, 30 Jul 2022 20:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[스타가 선택한 여름 모자에서 쇼핑 힌트를 얻어보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/9ce90218-8d0d-4e50-86c4-ab64912e9c8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 상반기 결산, 소희의 ‘잘샀다템’]]></title>
             <link>https://www.elle.co.kr/article/68390</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Jul 2022 17:23:43 GMT</pubDate>
             <content:encoded><![CDATA[크리에이티브 디렉터 프라발 구룽이 이끄는 타사키 아틀리에 컬렉션은 그의 옷과 맞닿아 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/b73f6112-a2ee-4088-9720-b895926fd0cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ 필수템? 쿨하디 쿨한 헤드셋 활용법]]></title>
-            <link>https://www.elle.co.kr/article/68242</link>
-            <guid>https://www.elle.co.kr/article/68242</guid>
-            <pubDate>Wed, 27 Jul 2022 12:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[쿨한 패션 아이템이 되어버린 헤드셋! 셀럽의 연출법을 참고해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/3face8f2-481c-4c89-ba0f-e9d02eb5a374.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
