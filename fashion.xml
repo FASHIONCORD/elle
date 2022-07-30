@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 14:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 15:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 상반기 결산, 소희의 ‘잘샀다템’]]></title>
+            <link>https://www.elle.co.kr/article/68390</link>
+            <guid>https://www.elle.co.kr/article/68390</guid>
+            <pubDate>Sat, 30 Jul 2022 15:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[뷰티부터 패션, 푸드까지! 똑 부러지는 소희의 상반기 결산 ‘내돈내산’ 가장 잘 산 아이템은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/06215d42-aaae-4eef-a76d-61af53d1dd4a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송혜교와 함께 만난 쇼메 하이주얼리의 세계]]></title>
             <link>https://www.elle.co.kr/article/68372</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Jul 2022 12:31:56 GMT</pubDate>
             <content:encoded><![CDATA[쿨한 패션 아이템이 되어버린 헤드셋! 셀럽의 연출법을 참고해보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/3face8f2-481c-4c89-ba0f-e9d02eb5a374.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손목을 감싸는 코드 브레이슬렛의 존재감]]></title>
-            <link>https://www.elle.co.kr/article/68240</link>
-            <guid>https://www.elle.co.kr/article/68240</guid>
-            <pubDate>Wed, 27 Jul 2022 07:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[여름 손목을 위한 트위스트 코드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/9396d8f9-e6a4-4537-8da0-7405f38adb57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
