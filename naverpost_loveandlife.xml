@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 22:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 23:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타들이 완면 인증하고 갔다는 소문난 면 맛집은?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34223680&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34223680&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Sun, 31 Jul 2022 23:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MzBfMzIg/MDAxNjU5MTQzNTcwMjAx.FpzUFv_uVASKfELAFx-G9wicFsBbc6i_LBw5oXM9NdIg.mQ90LWDovMsLRjrJtwcAWgD0dCp7n88RfCbQNfLTPIEg.JPEG/IpnSdfnF_c0VDS9puAx42c9AwETA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유&손예진도 다녀갔다! 문경의 낭만적인 숙소 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34212026&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 29 Jun 2022 23:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MzBfMjA3/MDAxNjU2NTI3Njg5NzU2.C9Ls13rfNSyIvLMAr8sT9IPaDa5Ggfa4jPHMfdUjSXQg.nAGnBPpoSQJiLqtRl-WUsOYyTvAcP8FwcTxgQtpyTucg.JPEG/I7f957kllXFVlyLXwY1QOAiQNR5k.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋진 휴가가 기다리고 있는 홍천의 이색적인 숙소3]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34041565&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34041565&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Wed, 29 Jun 2022 03:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjlfMTgy/MDAxNjU2NDY3NjY4MDEz.OzYxoNqmhPNTpQdUenx3_zc_3Xs_veAEihS_0EgaMFIg.1UIx_-ecvAFgAZ2zcoQq73sJzErQ6FKNkCUeFHs-rH0g.JPEG/IqxUN7KuMCr7wQzaBe56KniKgbqc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
