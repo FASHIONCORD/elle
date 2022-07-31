@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 14:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 15:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Y2K 스타일, 올 가을엔 이렇게 바뀐다?]]></title>
+            <link>https://www.elle.co.kr/article/68423</link>
+            <guid>https://www.elle.co.kr/article/68423</guid>
+            <pubDate>Sun, 31 Jul 2022 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[프레피 스타일과 만난 Y2K 스타일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/0f62abf2-b041-4cf8-8a71-8ac0c591e157.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 모자 힌트! 강렬한 여름 햇빛을 가리는 해답 #버킷햇]]></title>
             <link>https://www.elle.co.kr/article/68391</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Jul 2022 04:40:32 GMT</pubDate>
             <content:encoded><![CDATA[외딴곳으로 여정을 떠난 부쉐론의 '까르뜨 블랑소, 아이외르' 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3abc371c-414e-490f-949c-d90fc880424a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프라발 구룽이 그린 타사키의 하늘]]></title>
-            <link>https://www.elle.co.kr/article/68252</link>
-            <guid>https://www.elle.co.kr/article/68252</guid>
-            <pubDate>Wed, 27 Jul 2022 17:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이티브 디렉터 프라발 구룽이 이끄는 타사키 아틀리에 컬렉션은 그의 옷과 맞닿아 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/b73f6112-a2ee-4088-9720-b895926fd0cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
