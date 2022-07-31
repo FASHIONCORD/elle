@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 18:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 19:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키포인트, 깅엄 체크 스타일링 6]]></title>
+            <link>https://www.elle.co.kr/article/68429</link>
+            <guid>https://www.elle.co.kr/article/68429</guid>
+            <pubDate>Sun, 31 Jul 2022 19:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[경쾌한 무드 가득! 가로선과 세로선이 공평하게 만나는 깅엄 체크 아이템으로 활기 넘치는 서머...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/51398e0b-395b-4b97-b97c-f53d83639159.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Y2K 스타일, 올 가을엔 이렇게 바뀐다?]]></title>
             <link>https://www.elle.co.kr/article/68423</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Jul 2022 04:40:32 GMT</pubDate>
             <content:encoded><![CDATA[가브리엘 샤넬의 첫 하이 주얼리 컬렉션 '비쥬 드 디아망'을 기념하며 빛나는 '1932' 하이 주...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cf68de63-05b8-4103-81af-df8a88f54f0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부쉐론의 자연채집]]></title>
-            <link>https://www.elle.co.kr/article/68292</link>
-            <guid>https://www.elle.co.kr/article/68292</guid>
-            <pubDate>Thu, 28 Jul 2022 04:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[외딴곳으로 여정을 떠난 부쉐론의 '까르뜨 블랑소, 아이외르' 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3abc371c-414e-490f-949c-d90fc880424a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
