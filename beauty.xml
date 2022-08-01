@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 14:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 15:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 상반기 결산, 소희의 ‘잘샀다템’]]></title>
+            <link>https://www.elle.co.kr/article/68390</link>
+            <guid>https://www.elle.co.kr/article/68390</guid>
+            <pubDate>Mon, 01 Aug 2022 15:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[뷰티부터 패션, 푸드까지! 똑 부러지는 소희의 상반기 결산 ‘내돈내산’ 가장 잘 산 아이템은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/06215d42-aaae-4eef-a76d-61af53d1dd4a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 마음에도 다이어트가 필요하다? 롱런하는 이효리+엄정화의 정신 건강 비결! #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/68373</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/68151</guid>
             <pubDate>Wed, 27 Jul 2022 07:15:12 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/45eed01b-c603-41db-9ae8-20b3e6572c2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 일상에 녹아든, 나의 배럴핏]]></title>
-            <link>https://www.elle.co.kr/article/68069</link>
-            <guid>https://www.elle.co.kr/article/68069</guid>
-            <pubDate>Wed, 27 Jul 2022 03:49:16 GMT</pubDate>
-            <content:encoded><![CDATA[뮤즈 이미주가 전하는 스타일리시한 애슬레저 룩]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/4c159af8-7454-4c9d-96a5-090ee85759ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
