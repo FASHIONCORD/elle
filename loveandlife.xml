@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 23:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 01:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배운 사람들이 만든 육즙 가득 교자와 그림 같은 마들렌! 합정에 새로 생긴 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/68297</link>
+            <guid>https://www.elle.co.kr/article/68297</guid>
+            <pubDate>Tue, 02 Aug 2022 01:33:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/dc763f9a-6edc-4ef2-9ab3-0298c1abc96a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집 나간 입맛을 되살릴 여름 레서피]]></title>
             <link>https://www.elle.co.kr/article/68291</link>
@@ -59,14 +66,6 @@
             <pubDate>Sat, 23 Jul 2022 13:29:22 GMT</pubDate>
             <content:encoded><![CDATA[평양냉면의 미묘한 차이를 아실는지. 해장에 제일인 곳? 이른 저녁 술 없이도 호사를 누리고 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/31cdfa4f-ef53-4945-a8a0-970fae74285e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글루텐 NO, 다이어트 YES! 키토 베이커리 추천 2]]></title>
-            <link>https://www.elle.co.kr/article/67953</link>
-            <guid>https://www.elle.co.kr/article/67953</guid>
-            <pubDate>Fri, 22 Jul 2022 09:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[빵은 좋지만 과다한 탄수화물과 당분 때문에 망설여진다면 주목하세요! 아나운서 이혜성이 찾은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/4018c648-eb26-444c-93c1-7f82f0e5593d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
