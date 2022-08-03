@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 01:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 03:59:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1095,6 +1095,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/45eed01b-c603-41db-9ae8-20b3e6572c2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나래바 박사장도 탐낸 샤이니 키의 술안주 '바냐 카우다' 초간단 레시피 (feat. 기범주) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/68497</link>
+            <guid>https://www.elle.co.kr/article/68497</guid>
+            <pubDate>Mon, 01 Aug 2022 09:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[허니제이는 바로 대게딱지장 구매.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b3f19ef6-951c-489e-8cda-6099a2cb7a15.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전교회장 바이브 김세정X차은우, 친해진 계기가 워터파크? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/68484</link>
             <guid>https://www.elle.co.kr/article/68484</guid>
@@ -1150,7 +1158,7 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/bf84d063-c57d-417f-9e5a-978d54181e8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[럽스타를 참기가 쉽지 않아! 우영우와 이준호가 인스타그램을 한다면? (엘르 코리아 ─ 스타)]]></title>
+            <title><![CDATA[럽스타를 참기가 쉽지 않아! 우영우와 이준호가 인스타그램을 한다면? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/68397</link>
             <guid>https://www.elle.co.kr/article/68397</guid>
             <pubDate>Thu, 28 Jul 2022 06:23:19 GMT</pubDate>
@@ -1209,14 +1217,6 @@
             <guid>https://www.elle.co.kr/article/68138</guid>
             <pubDate>Tue, 26 Jul 2022 08:20:35 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/70b2b698-8d5d-44fa-8cf8-228e2946ac56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 육상 최초이자 최고! 세계선수권 은메달 따 낸 우상혁, 상금 총 얼마? (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/68110</link>
-            <guid>https://www.elle.co.kr/article/68110</guid>
-            <pubDate>Tue, 26 Jul 2022 08:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[파리 올림픽 우승 기대감 급상승.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/1ec7fb0d-c970-4f09-982e-69f595e19af0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
