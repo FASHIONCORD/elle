@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 05:49:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추사랑부터 윤후까지! 벌써 10대 된 '아어가' X '슈돌' 랜선 조카들, 다시 예능에?]]></title>
+            <link>https://www.elle.co.kr/article/68585</link>
+            <guid>https://www.elle.co.kr/article/68585</guid>
+            <pubDate>Wed, 03 Aug 2022 05:47:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6986b22b-d384-468a-bb43-7d4758ccb00c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임윤아 '빅마우스' vs 김세정 '오늘의 웹툰', 금토극 승자는? #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/68533</link>
@@ -37,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/68409</guid>
             <pubDate>Thu, 28 Jul 2022 15:17:53 GMT</pubDate>
             <content:encoded><![CDATA[K-스타트업 CEO로 변신할 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/bf84d063-c57d-417f-9e5a-978d54181e8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[럽스타를 참기가 쉽지 않아! 우영우와 이준호가 인스타그램을 한다면?]]></title>
@@ -92,12 +98,6 @@
             <guid>https://www.elle.co.kr/article/68082</guid>
             <pubDate>Mon, 18 Jul 2022 08:22:34 GMT</pubDate>
             <content:encoded><![CDATA[우영우 주변에 가득한 따뜻함.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 큰 대한민국으로?! '메리퀴어'·'남의 연애', 웨이브 성소수자 예능 2]]></title>
-            <link>https://www.elle.co.kr/article/68027</link>
-            <guid>https://www.elle.co.kr/article/68027</guid>
-            <pubDate>Fri, 15 Jul 2022 07:18:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
