@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 23:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 01:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장원영, 어느 별에서 왔니]]></title>
+            <link>https://www.elle.co.kr/article/68498</link>
+            <guid>https://www.elle.co.kr/article/68498</guid>
+            <pubDate>Thu, 04 Aug 2022 01:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[고스피어 세계의 장원영이라는 판타지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/f00b9951-8d6d-41aa-8b17-9298af969150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HOT&NOW 뷰티 트렌드]]></title>
+            <link>https://www.elle.co.kr/article/68529</link>
+            <guid>https://www.elle.co.kr/article/68529</guid>
+            <pubDate>Thu, 04 Aug 2022 01:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[스타들의 컴백 스타일 속에서 찾은 뷰티 트렌드 4가지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/db7e9fce-616e-4499-b9d7-f4f47a0b5eb1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 버티기 끝! 추억의 고무 샌들, 러버 슈즈 추천]]></title>
             <link>https://www.elle.co.kr/article/68496</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 05:50:45 GMT</pubDate>
             <content:encoded><![CDATA[두아 리파, 화사, 아이린 등 핫핑크 룩으로 범접할 수 없는 아우라를 드러낸 셀러브리티를 모아...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/fcf1cabf-b216-4a5d-a017-c5ed983ed666.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Y2K 청바지]]></title>
-            <link>https://www.elle.co.kr/article/68482</link>
-            <guid>https://www.elle.co.kr/article/68482</guid>
-            <pubDate>Mon, 01 Aug 2022 05:50:45 GMT</pubDate>
-            <content:encoded><![CDATA[다시 돌아온 2000년대 유행하던 데님 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/96904e46-21c7-468f-991b-f4ba882982a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 대세 원피스 수영복 쇼핑리스트 7]]></title>
-            <link>https://www.elle.co.kr/article/68476</link>
-            <guid>https://www.elle.co.kr/article/68476</guid>
-            <pubDate>Mon, 01 Aug 2022 05:50:45 GMT</pubDate>
-            <content:encoded><![CDATA[올여름엔 원피스 수영복이 대세! 비키니보다 핫한 원피스 수영복 스타일링과 쇼핑 리스트를 참고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/1b1ca2d8-c45a-4585-bab0-03cce9836ff0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
