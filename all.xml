@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 15:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 16:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여기가 서울인가? (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68559</link>
+            <guid>https://www.elle.co.kr/article/68559</guid>
+            <pubDate>Thu, 04 Aug 2022 16:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023 S/S 시즌 남성 쇼를 통해 본 패션 하우스와 K셀럽의 애정 가득한 관계!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/5b6de517-7632-4c6f-8d5a-cad8cf662813.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샤넬 1932 하이 주얼리 컬렉션의 정수, 알뤼르 셀레스테 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68387</link>
             <guid>https://www.elle.co.kr/article/68387</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Tue, 02 Aug 2022 01:25:58 GMT</pubDate>
             <content:encoded><![CDATA[카고 팬츠에 이어 통 넓고 펄럭이는 파라슈트 팬츠가 떠오르고 있다! 힙하게 여름을 나고 싶다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/0142321c-7fe6-4c98-8c2e-d83f63a1d6af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정원을 빛낼 신상 아웃도어 가구 12 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68492</link>
-            <guid>https://www.elle.co.kr/article/68492</guid>
-            <pubDate>Mon, 01 Aug 2022 19:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[녹음이 우거진 여름. 나만의 정원과 테라스, 그 어디든 툭 놓아두고 싶은 신상 아웃도어 가구들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/bba9344d-3568-43d6-8258-3468efcf65e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웜톤 피부 드루와! 샤넬뷰티의 골드 언더톤 립&네일 (엘르 코리아 ─ 뷰티)]]></title>
