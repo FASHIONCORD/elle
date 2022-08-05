@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 07:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 08:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1501,6 +1501,14 @@
             <content:encoded><![CDATA[MZ세대를 중심으로 아트 신에 새로운 바람이 불었다. 그들을 낱낱이 파헤쳐보는 시간.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[한남동의 파리 테라스 vs. 가로수길 뉴욕 레스토랑 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/68376</link>
+            <guid>https://www.elle.co.kr/article/68376</guid>
+            <pubDate>Fri, 05 Aug 2022 08:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[한남-가로수길에 생긴 새롭고 이국적인 맛집. 낮술도 가능한 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/100f3bf4-59e6-4b08-9429-1e5d066169a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[얼음 동동, 뼛속까지 시원한 여름 면 요리 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/68366</link>
             <guid>https://www.elle.co.kr/article/68366</guid>
@@ -1552,13 +1560,6 @@
             <pubDate>Wed, 27 Jul 2022 08:24:01 GMT</pubDate>
             <content:encoded><![CDATA[마늘 떡갈비, 마늘 육회, 마늘 순대까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/52862b86-ea72-4ad9-96b3-fedf48956bd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갈 때 마다 바뀌는 성수동, 이번엔 일본식 꼬치구이와 과일 빙수 먹으러! #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/68094</link>
-            <guid>https://www.elle.co.kr/article/68094</guid>
-            <pubDate>Tue, 26 Jul 2022 05:42:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/653d5a7a-ccf0-4f96-8004-ce355c02bb21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배달 어플이 포장 수수료를 받기로 했다니 이게 무슨 소리요?! (엘르 코리아 ─ 소사이어티)]]></title>
