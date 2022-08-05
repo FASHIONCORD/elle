@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 09:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 10:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창 밖은 여름]]></title>
+            <link>https://www.elle.co.kr/article/68602</link>
+            <guid>https://www.elle.co.kr/article/68602</guid>
+            <pubDate>Fri, 05 Aug 2022 10:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[어느새 녹음이 짙어진 여름을 감상하기에 좋은 공간 두 곳]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/e8080310-68cd-45d2-a15a-bd9a3f3d1b50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이토록 찬란한 솔레이 19 웃트 네크리스]]></title>
             <link>https://www.elle.co.kr/article/68386</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Aug 2022 17:24:01 GMT</pubDate>
             <content:encoded><![CDATA[맥덕후'였던 민니의 성덕 스토리! 민니와 맥 NEW 파우더 키스 벨벳 블러 슬림 스틱의 운명적...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b2b1a742-5356-49ac-8a95-6c2c4a1b85ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웜톤 피부 드루와! 샤넬뷰티의 골드 언더톤 립&네일]]></title>
-            <link>https://www.elle.co.kr/article/68494</link>
-            <guid>https://www.elle.co.kr/article/68494</guid>
-            <pubDate>Tue, 02 Aug 2022 13:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬뷰티에서 2022 FW 메이크업 컬렉션으로 선보이는 루쥬 알뤼르와 르 베르니 중 웜톤 피부를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/8f9ce4ad-114b-4f20-a240-260497876440.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
