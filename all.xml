@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 01:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 03:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1561,6 +1561,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/653d5a7a-ccf0-4f96-8004-ce355c02bb21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배달 어플이 포장 수수료를 받기로 했다니 이게 무슨 소리요?! (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/68197</link>
+            <guid>https://www.elle.co.kr/article/68197</guid>
+            <pubDate>Wed, 27 Jul 2022 15:20:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/3192c134-780d-46e5-8082-962cdad8aa82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도망친 엄마들_요주의여성 #67 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/68184</link>
             <guid>https://www.elle.co.kr/article/68184</guid>
@@ -1613,14 +1620,6 @@
             <pubDate>Thu, 21 Jul 2022 07:18:47 GMT</pubDate>
             <content:encoded><![CDATA[환율의 힘은 강하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/3b1b6a94-73e6-493a-a229-086b4dd4de2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['육아스타그램'의 다른 이름 '셰어런팅', 그런데 아기들의 프라이버시는? (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/67962</link>
-            <guid>https://www.elle.co.kr/article/67962</guid>
-            <pubDate>Wed, 20 Jul 2022 10:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[부모가 선을 잘 지키는 것이 중요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/3f8c26b1-f48f-4b57-b96a-6c7cfd8aefd2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
