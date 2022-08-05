@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 18:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 19:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자체발광 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68622</link>
+            <guid>https://www.elle.co.kr/article/68622</guid>
+            <pubDate>Fri, 05 Aug 2022 19:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[메탈릭 백이 깨운 헤비메탈 스피릿.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/16f41623-c48e-4f04-a16c-276e8094a7ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남녀노소를 위한 색 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68612</link>
             <guid>https://www.elle.co.kr/article/68612</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Thu, 04 Aug 2022 01:22:24 GMT</pubDate>
             <content:encoded><![CDATA[고스피어 세계의 장원영이라는 판타지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/f00b9951-8d6d-41aa-8b17-9298af969150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOT&NOW 뷰티 트렌드 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68529</link>
-            <guid>https://www.elle.co.kr/article/68529</guid>
-            <pubDate>Thu, 04 Aug 2022 01:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[스타들의 컴백 스타일 속에서 찾은 뷰티 트렌드 4가지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/db7e9fce-616e-4499-b9d7-f4f47a0b5eb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MAC과 민니의 만남, 앞으로 김'맥'니라고 불러줄게! (엘르 코리아 ─ 뷰티)]]></title>
