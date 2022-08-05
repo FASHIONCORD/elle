@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 14:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 15:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[남녀노소를 위한 색 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68612</link>
+            <guid>https://www.elle.co.kr/article/68612</guid>
+            <pubDate>Fri, 05 Aug 2022 15:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[이번 시즌 우리가 도전하고 싶은 색 핑크.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/c88a9996-37e5-4a33-b87a-ca31a31fd3f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쿨톤 피부 손들어! 샤넬뷰티의 로즈 언더톤 립&네일 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68603</link>
             <guid>https://www.elle.co.kr/article/68603</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Thu, 04 Aug 2022 01:22:24 GMT</pubDate>
             <content:encoded><![CDATA[스타들의 컴백 스타일 속에서 찾은 뷰티 트렌드 4가지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/db7e9fce-616e-4499-b9d7-f4f47a0b5eb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 버티기 끝! 추억의 고무 샌들, 러버 슈즈 추천 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68496</link>
-            <guid>https://www.elle.co.kr/article/68496</guid>
-            <pubDate>Wed, 03 Aug 2022 05:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[장마가 지나고 맞이할 뜨거운 여름! 바다에서나 도심에서 200% 만족스러운 슈즈 쇼핑을 위해 준...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/87e09d3e-3ef1-40f0-9fc5-941d5e695964.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MAC과 민니의 만남, 앞으로 김'맥'니라고 불러줄게! (엘르 코리아 ─ 뷰티)]]></title>
@@ -1158,6 +1158,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/4c2ca081-ee80-4e89-90e0-8703d5e7e305.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[입을 어떻게 하라고요?! 우영우 전용 1타 강사 이준호의 첫 키스, 강태오가 직접 밝힌 비하인드 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/68454</link>
+            <guid>https://www.elle.co.kr/article/68454</guid>
+            <pubDate>Fri, 29 Jul 2022 08:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[까딱 잘못했단 갑자기 분위기 에로틱해질 수 있었던 대사.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/ad266a83-d242-453d-b013-dea452a7513e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신하균이 12년 만에 시트콤을?! '유니콘', 일단은 안 웃기면 이상한 조합 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/68409</link>
             <guid>https://www.elle.co.kr/article/68409</guid>
@@ -1211,13 +1219,6 @@
             <pubDate>Fri, 22 Jul 2022 05:28:18 GMT</pubDate>
             <content:encoded><![CDATA[&lt;로스트 도터&gt;가 전하는 ‘엄마’에 관한 진실.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/f2042598-13c7-44ec-9ffd-0e65980272ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입대 전 마지막 드라마가 '우영우'? 유니콘 남주 강태오 출연 드라마 3 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/68139</link>
-            <guid>https://www.elle.co.kr/article/68139</guid>
-            <pubDate>Wed, 20 Jul 2022 08:25:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/d48421e6-49aa-4259-a468-4aa30791480e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1406,6 +1407,14 @@
             <content:encoded><![CDATA[우영우 주변에 가득한 따뜻함.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국현 대전관이 될 그곳! 충남도청 구청사로의 건축 산책 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/68649</link>
+            <guid>https://www.elle.co.kr/article/68649</guid>
+            <pubDate>Fri, 05 Aug 2022 15:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[반질반질하다 못해 오목하게 패인 돌 층계에는 얼마나 많은 사람의 발길이 닿았을까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/dd264501-c0fb-4cfb-a0ea-40ce9e99ca59.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레고와 강혜원의 별이 빛나는 밤 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/68075</link>
             <guid>https://www.elle.co.kr/article/68075</guid>
@@ -1435,7 +1444,6 @@
             <guid>https://www.elle.co.kr/article/67107</guid>
             <pubDate>Thu, 09 Jun 2022 16:23:08 GMT</pubDate>
             <content:encoded><![CDATA[엘르 데코가 주목한 디자인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/4f741a9f-840d-4d5a-b572-ce90ceed09fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고 보태니컬 컬렉션으로 완성하는 플랜테리어 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1492,13 +1500,6 @@
             <guid>https://www.elle.co.kr/article/65432</guid>
             <pubDate>Tue, 24 May 2022 02:35:59 GMT</pubDate>
             <content:encoded><![CDATA[인생 첫 자취를 시작한 혜리가 새로운 보금자리를 꾸미기 위해 구매한 아이템은? 찐 내돈내산 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요즘 아트 신의 신인류, '영 컬렉터'의 흐름 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/65334</link>
-            <guid>https://www.elle.co.kr/article/65334</guid>
-            <pubDate>Tue, 24 May 2022 02:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대를 중심으로 아트 신에 새로운 바람이 불었다. 그들을 낱낱이 파헤쳐보는 시간.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한남동의 파리 테라스 vs. 가로수길 뉴욕 레스토랑 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 14:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 15:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남녀노소를 위한 색]]></title>
+            <link>https://www.elle.co.kr/article/68612</link>
+            <guid>https://www.elle.co.kr/article/68612</guid>
+            <pubDate>Fri, 05 Aug 2022 15:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[이번 시즌 우리가 도전하고 싶은 색 핑크.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/c88a9996-37e5-4a33-b87a-ca31a31fd3f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿨톤 피부 손들어! 샤넬뷰티의 로즈 언더톤 립&네일]]></title>
             <link>https://www.elle.co.kr/article/68603</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Aug 2022 01:22:24 GMT</pubDate>
             <content:encoded><![CDATA[스타들의 컴백 스타일 속에서 찾은 뷰티 트렌드 4가지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/db7e9fce-616e-4499-b9d7-f4f47a0b5eb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 버티기 끝! 추억의 고무 샌들, 러버 슈즈 추천]]></title>
-            <link>https://www.elle.co.kr/article/68496</link>
-            <guid>https://www.elle.co.kr/article/68496</guid>
-            <pubDate>Wed, 03 Aug 2022 05:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[장마가 지나고 맞이할 뜨거운 여름! 바다에서나 도심에서 200% 만족스러운 슈즈 쇼핑을 위해 준...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/87e09d3e-3ef1-40f0-9fc5-941d5e695964.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
