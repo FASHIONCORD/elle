@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 10:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 11:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿨톤 피부 손들어! 샤넬뷰티의 로즈 언더톤 립&네일]]></title>
+            <link>https://www.elle.co.kr/article/68603</link>
+            <guid>https://www.elle.co.kr/article/68603</guid>
+            <pubDate>Fri, 05 Aug 2022 11:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[장밋빛 쿨톤 피부를 위한 샤넬뷰티의 2022 FW 메이크업 톤 온 톤 컬렉션! 투명한 파우더 핑크...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/21577199-bd88-4950-acba-ceecf22aa49b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[창 밖은 여름]]></title>
             <link>https://www.elle.co.kr/article/68602</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Aug 2022 05:45:03 GMT</pubDate>
             <content:encoded><![CDATA[장마가 지나고 맞이할 뜨거운 여름! 바다에서나 도심에서 200% 만족스러운 슈즈 쇼핑을 위해 준...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/87e09d3e-3ef1-40f0-9fc5-941d5e695964.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAC과 민니의 만남, 앞으로 김'맥'니라고 불러줄게!]]></title>
-            <link>https://www.elle.co.kr/article/68495</link>
-            <guid>https://www.elle.co.kr/article/68495</guid>
-            <pubDate>Tue, 02 Aug 2022 17:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[맥덕후'였던 민니의 성덕 스토리! 민니와 맥 NEW 파우더 키스 벨벳 블러 슬림 스틱의 운명적...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b2b1a742-5356-49ac-8a95-6c2c4a1b85ea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
