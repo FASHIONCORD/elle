@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 04:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 05:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 찬란한 솔레이 19 웃트 네크리스]]></title>
+            <link>https://www.elle.co.kr/article/68386</link>
+            <guid>https://www.elle.co.kr/article/68386</guid>
+            <pubDate>Fri, 05 Aug 2022 05:30:30 GMT</pubDate>
+            <content:encoded><![CDATA[태양처럼 빛나는 1932 하이 주얼리 컬렉션의 솔레이 19 웃트 네크리스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/c2d99102-1906-45f3-b7f6-bc134602801f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여기가 서울인가?]]></title>
             <link>https://www.elle.co.kr/article/68559</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Aug 2022 13:37:54 GMT</pubDate>
             <content:encoded><![CDATA[샤넬뷰티에서 2022 FW 메이크업 컬렉션으로 선보이는 루쥬 알뤼르와 르 베르니 중 웜톤 피부를...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/8f9ce4ad-114b-4f20-a240-260497876440.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨라 하디드? 파라슈트 팬츠의 힙한 부상]]></title>
-            <link>https://www.elle.co.kr/article/68493</link>
-            <guid>https://www.elle.co.kr/article/68493</guid>
-            <pubDate>Tue, 02 Aug 2022 01:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[카고 팬츠에 이어 통 넓고 펄럭이는 파라슈트 팬츠가 떠오르고 있다! 힙하게 여름을 나고 싶다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/0142321c-7fe6-4c98-8c2e-d83f63a1d6af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
