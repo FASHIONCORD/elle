@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 20:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 21:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바캉스 피부 손상과 헤어질 결심_선배's 어드바이스 #128]]></title>
+            <link>https://www.elle.co.kr/article/68509</link>
+            <guid>https://www.elle.co.kr/article/68509</guid>
+            <pubDate>Sat, 06 Aug 2022 21:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[즐거운 휴가 후 뒤집어진 피부, 깐 달걀처럼 되돌리기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/f8b7295e-fb33-4407-ad82-4dd6ef0443c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MAC과 민니의 만남, 앞으로 김'맥'니라고 불러줄게!]]></title>
             <link>https://www.elle.co.kr/article/68495</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 05:50:55 GMT</pubDate>
             <content:encoded><![CDATA[강인한 생명력을 지닌 레드 까멜리아의 비밀을 만나는 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/5bac866c-2c16-494b-9285-12cc5845566c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바캉스 최적화 뷰티 꿀템 7_선배's 어드바이스 #127]]></title>
-            <link>https://www.elle.co.kr/article/68256</link>
-            <guid>https://www.elle.co.kr/article/68256</guid>
-            <pubDate>Thu, 28 Jul 2022 11:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[챙겨 가면 바캉스가 두 배로 즐거워지는 아이템들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/33bf3152-f7dc-4169-83b3-5a081ac2deff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
