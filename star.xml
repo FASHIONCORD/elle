@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 11:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 12:30:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지숙 결혼식에서 부케 받은 게 시그널!? 고우리, 열애 인정 두 달 만에 결혼 발표!]]></title>
+            <link>https://www.elle.co.kr/article/68606</link>
+            <guid>https://www.elle.co.kr/article/68606</guid>
+            <pubDate>Sun, 07 Aug 2022 12:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[레인보우 두 번째 결혼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/c6f8c0d3-1e99-4c76-8a69-a465ade85fc5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우영우 김밥' 만큼 화제 된 다이어트 김밥! 살 빠지는 스타 레시피 3 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/68601</link>
@@ -60,13 +68,6 @@
             <pubDate>Wed, 03 Aug 2022 03:54:31 GMT</pubDate>
             <content:encoded><![CDATA[허니제이는 바로 대게딱지장 구매.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b3f19ef6-951c-489e-8cda-6099a2cb7a15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전교회장 바이브 김세정X차은우, 친해진 계기가 워터파크?]]></title>
-            <link>https://www.elle.co.kr/article/68484</link>
-            <guid>https://www.elle.co.kr/article/68484</guid>
-            <pubDate>Tue, 02 Aug 2022 15:17:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/1d345252-9972-4238-9867-b92d399ad531.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
