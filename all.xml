@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 18:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 19:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1560,6 +1560,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/3192c134-780d-46e5-8082-962cdad8aa82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스] 한국 사람들은 왜 아무튼이라는 말을 자주 쓸까? (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/68624</link>
+            <guid>https://www.elle.co.kr/article/68624</guid>
+            <pubDate>Mon, 08 Aug 2022 19:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[기후 위기 속 '아무튼 ' 대처법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/7e3a9938-d802-4f94-8469-f283a3044853.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['워싱턴DC 오함마' 낸시 펠로시의 대만 방문에 역사적 의미가 부여된 이유 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/68613</link>
             <guid>https://www.elle.co.kr/article/68613</guid>
@@ -1612,14 +1620,6 @@
             <guid>https://www.elle.co.kr/article/68138</guid>
             <pubDate>Tue, 26 Jul 2022 08:20:35 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/70b2b698-8d5d-44fa-8cf8-228e2946ac56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갱년기 준비하기 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/68041</link>
-            <guid>https://www.elle.co.kr/article/68041</guid>
-            <pubDate>Thu, 21 Jul 2022 01:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[갱년기 증후군은 빠르면 40대 초반부터 찾아온다. 지금 당장 준비가 필요하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/56a5d2c7-3937-4523-895b-130eae90bfe0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
