@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 01:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 03:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/5b6de517-7632-4c6f-8d5a-cad8cf662813.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['우영우 김밥' 만큼 화제 된 다이어트 김밥! 살 빠지는 스타 레시피 3 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/68601</link>
+            <guid>https://www.elle.co.kr/article/68601</guid>
+            <pubDate>Sat, 06 Aug 2022 22:15:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/afc2c504-2c20-4cf1-af33-38abe8fedfe2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[HOT&NOW 뷰티 트렌드 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/68529</link>
             <guid>https://www.elle.co.kr/article/68529</guid>
@@ -1086,14 +1093,6 @@
             <pubDate>Mon, 01 Aug 2022 05:50:55 GMT</pubDate>
             <content:encoded><![CDATA[우리 내면의 힘에 집중하는 게 포인트!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c5688437-c612-41bd-8812-36aab94558fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름엔 먹기 전에 곰팡이부터 확인해!_몸에 좋은 잔소리 #45 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/68348</link>
-            <guid>https://www.elle.co.kr/article/68348</guid>
-            <pubDate>Mon, 01 Aug 2022 05:50:55 GMT</pubDate>
-            <content:encoded><![CDATA[고온다습한 날씨, 식품에 생기는 곰팡이 주의보.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/206212d0-2e71-47b7-9afc-341540e8f83d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지숙 결혼식에서 부케 받은 게 시그널!? 고우리, 열애 인정 두 달 만에 결혼 발표! (엘르 코리아 ─ 스타)]]></title>
