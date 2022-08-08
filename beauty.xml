@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 17:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 18:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿨톤 피부 손들어! 샤넬뷰티의 로즈 언더톤 립&네일]]></title>
+            <link>https://www.elle.co.kr/article/68603</link>
+            <guid>https://www.elle.co.kr/article/68603</guid>
+            <pubDate>Mon, 08 Aug 2022 18:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[장밋빛 쿨톤 피부를 위한 샤넬뷰티의 2022 FW 메이크업 톤 온 톤 컬렉션! 투명한 파우더 핑크...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/21577199-bd88-4950-acba-ceecf22aa49b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우영우 김밥' 만큼 화제 된 다이어트 김밥! 살 빠지는 스타 레시피 3 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/68601</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 01 Aug 2022 15:20:57 GMT</pubDate>
             <content:encoded><![CDATA[뷰티부터 패션, 푸드까지! 똑 부러지는 소희의 상반기 결산 ‘내돈내산’ 가장 잘 산 아이템은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/06215d42-aaae-4eef-a76d-61af53d1dd4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 마음에도 다이어트가 필요하다? 롱런하는 이효리+엄정화의 정신 건강 비결! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/68373</link>
-            <guid>https://www.elle.co.kr/article/68373</guid>
-            <pubDate>Mon, 01 Aug 2022 05:50:55 GMT</pubDate>
-            <content:encoded><![CDATA[우리 내면의 힘에 집중하는 게 포인트!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c5688437-c612-41bd-8812-36aab94558fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
