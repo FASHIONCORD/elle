@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 14:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 15:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해피 투게더 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68673</link>
+            <guid>https://www.elle.co.kr/article/68673</guid>
+            <pubDate>Tue, 09 Aug 2022 15:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[나만 없어, 반려 동물! 셀렙들의 귀여운 동물 친구들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/e8810d30-767e-4b09-ab38-f52b0345bdb6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시원하게 가로질러! 경쾌한 스트라이프 패턴 활용법 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68651</link>
+            <guid>https://www.elle.co.kr/article/68651</guid>
+            <pubDate>Tue, 09 Aug 2022 15:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[여름에 더 예쁜 화사한 스트라이프 패턴 코디 힌트는 여기서!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/75aaba57-24d3-4ad4-b5a8-590aadf8e40e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국현 대전관이 될 그곳! 충남도청 구청사로의 건축 산책 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68649</link>
             <guid>https://www.elle.co.kr/article/68649</guid>
@@ -1014,22 +1030,6 @@
             <pubDate>Fri, 05 Aug 2022 15:16:45 GMT</pubDate>
             <content:encoded><![CDATA[이번 시즌 우리가 도전하고 싶은 색 핑크.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/c88a9996-37e5-4a33-b87a-ca31a31fd3f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨톤 피부 손들어! 샤넬뷰티의 로즈 언더톤 립&네일 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68603</link>
-            <guid>https://www.elle.co.kr/article/68603</guid>
-            <pubDate>Fri, 05 Aug 2022 11:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[장밋빛 쿨톤 피부를 위한 샤넬뷰티의 2022 FW 메이크업 톤 온 톤 컬렉션! 투명한 파우더 핑크...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/21577199-bd88-4950-acba-ceecf22aa49b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창 밖은 여름 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68602</link>
-            <guid>https://www.elle.co.kr/article/68602</guid>
-            <pubDate>Fri, 05 Aug 2022 10:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[어느새 녹음이 짙어진 여름을 감상하기에 좋은 공간 두 곳]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/e8080310-68cd-45d2-a15a-bd9a3f3d1b50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의외로 살찌는 다이어트 음식 TOP5 (엘르 코리아 ─ 뷰티)]]></title>
