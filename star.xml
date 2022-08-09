@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 07:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 08:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션으로 얽힌 우정?! 조세호가 지드래곤 무장 해제 시킨 사연]]></title>
+            <link>https://www.elle.co.kr/article/68668</link>
+            <guid>https://www.elle.co.kr/article/68668</guid>
+            <pubDate>Tue, 09 Aug 2022 08:19:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/6301240f-a077-4c4a-9a42-30836fa0aca1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이돌의 피부 비결?! 클렌징부터 스킨케어까지!]]></title>
             <link>https://www.elle.co.kr/article/68663</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/68585</guid>
             <pubDate>Fri, 05 Aug 2022 10:17:21 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6986b22b-d384-468a-bb43-7d4758ccb00c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌 카즈하는 지금 새로운 근육을 만드는 중이다]]></title>
-            <link>https://www.elle.co.kr/article/68563</link>
-            <guid>https://www.elle.co.kr/article/68563</guid>
-            <pubDate>Fri, 05 Aug 2022 06:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[발레리나에서 케이팝아티스트가 되기를 결심한. 우리 앞에 도달한 카즈하의 묵직한 마음]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/c1be72b5-f91a-41f8-8828-542bc32865a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
