@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 05:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 06:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/e8080310-68cd-45d2-a15a-bd9a3f3d1b50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[의외로 살찌는 다이어트 음식 TOP5 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/68638</link>
+            <guid>https://www.elle.co.kr/article/68638</guid>
+            <pubDate>Tue, 09 Aug 2022 06:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[이건 아무리 먹어도 살 안 찐다?! 흔히 알고 있던 다이어트 식품 중 주의해야 할 것들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/57b9fac9-aa23-424f-9f6a-53b71717bcfd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쿨톤 피부 손들어! 샤넬뷰티의 로즈 언더톤 립&네일 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/68603</link>
             <guid>https://www.elle.co.kr/article/68603</guid>
@@ -1087,12 +1095,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/08f2654a-f986-4ed0-9ec6-c33f501d110c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 상반기 결산, 소희의 ‘잘샀다템’ (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/68390</link>
-            <guid>https://www.elle.co.kr/article/68390</guid>
-            <pubDate>Sat, 30 Jul 2022 15:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티부터 패션, 푸드까지! 똑 부러지는 소희의 상반기 결산 ‘내돈내산’ 가장 잘 산 아이템은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/06215d42-aaae-4eef-a76d-61af53d1dd4a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아이돌의 피부 비결?! 클렌징부터 스킨케어까지! (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/68663</link>
+            <guid>https://www.elle.co.kr/article/68663</guid>
+            <pubDate>Tue, 09 Aug 2022 06:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[메이크업 클렌징부터 기초 케어까지! 오마이걸 효정이 뽀송뽀송한 베이비 피부를 유지하는 노하우...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/3350bf0d-1a5f-4949-92f2-d3137f8da904.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예쁜 거울로 보면 더 예뻐보이는 마법! (엘르 코리아 ─ 스타)]]></title>
@@ -1147,14 +1155,6 @@
             <pubDate>Fri, 05 Aug 2022 06:20:26 GMT</pubDate>
             <content:encoded><![CDATA[발레리나에서 케이팝아티스트가 되기를 결심한. 우리 앞에 도달한 카즈하의 묵직한 마음]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/c1be72b5-f91a-41f8-8828-542bc32865a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우영우♥이준호, 방송국이 인정한 공식 럽스타그램 시작!!! (feat. 단호박 정명석) (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/68547</link>
-            <guid>https://www.elle.co.kr/article/68547</guid>
-            <pubDate>Fri, 05 Aug 2022 06:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[이제 그만 알아가고 사귀도록 하세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/4322fea8-85bb-4822-a84c-02da0bf65c22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나래바 박사장도 탐낸 샤이니 키의 술안주 '바냐 카우다' 초간단 레시피 (feat. 기범주) (엘르 코리아 ─ 컬쳐)]]></title>
