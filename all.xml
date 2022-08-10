@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 18:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 19:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMTYg/MDAxNjIxNTYzMTQ2NjAz.HuPEWvbXp53Lzz6uYcFgJayzb1BkiR5zwXFL8jwTvIwg.6rHqRJCVVQciZ3LNTMEzgJLWabHLqvEPvrZjsAKnz5kg.JPEG/IKSdR4jZY1B_GGF8FAEWz04_i2FA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름 휴가에 부산 어때? 셀럽이 다녀온 부산 핫플 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68688</link>
+            <guid>https://www.elle.co.kr/article/68688</guid>
+            <pubDate>Wed, 10 Aug 2022 19:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[부산으로 떠나보세요! 위너가 다녀간 맛집부터 트와이스가 인생샷을 찍고 온 뮤지엄까지, 스타들이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/02e8da95-b4be-4a06-af86-0616fd22d336.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 높고, 엣지있게! 힙한 언니들의 플랫폼 슈즈 룩 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68676</link>
+            <guid>https://www.elle.co.kr/article/68676</guid>
+            <pubDate>Wed, 10 Aug 2022 19:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[패션은 발끝에서 완성된다는 사실! 켄달 제너부터 전소연까지 힙한 언니들의 사복 패션에 빠지지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/7ad124e6-db8b-4e45-bfa1-7a222a6f0ac7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해피 투게더 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68673</link>
             <guid>https://www.elle.co.kr/article/68673</guid>
@@ -1014,22 +1030,6 @@
             <pubDate>Sun, 07 Aug 2022 15:14:08 GMT</pubDate>
             <content:encoded><![CDATA[김나영부터 제니, 정호연, 강민경 등등 패션 감각 좋기로 소문난 스타들이 선택한 수영복 스타일...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/ba8e568c-f212-447a-b621-be7c4691c83d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자체발광 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68622</link>
-            <guid>https://www.elle.co.kr/article/68622</guid>
-            <pubDate>Fri, 05 Aug 2022 19:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[메탈릭 백이 깨운 헤비메탈 스피릿.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/16f41623-c48e-4f04-a16c-276e8094a7ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남녀노소를 위한 색 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68612</link>
-            <guid>https://www.elle.co.kr/article/68612</guid>
-            <pubDate>Fri, 05 Aug 2022 15:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[이번 시즌 우리가 도전하고 싶은 색 핑크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/c88a9996-37e5-4a33-b87a-ca31a31fd3f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이돌의 피부 비결?! 클렌징부터 스킨케어까지! (엘르 코리아 ─ 뷰티)]]></title>
