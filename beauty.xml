@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 07:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 08:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이돌의 피부 비결?! 클렌징부터 스킨케어까지!]]></title>
+            <link>https://www.elle.co.kr/article/68663</link>
+            <guid>https://www.elle.co.kr/article/68663</guid>
+            <pubDate>Wed, 10 Aug 2022 08:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[메이크업 클렌징부터 기초 케어까지! 오마이걸 효정이 뽀송뽀송한 베이비 피부를 유지하는 노하우...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/3350bf0d-1a5f-4949-92f2-d3137f8da904.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의외로 살찌는 다이어트 음식 TOP5]]></title>
             <link>https://www.elle.co.kr/article/68638</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 04 Aug 2022 01:22:33 GMT</pubDate>
             <content:encoded><![CDATA[샤넬뷰티에서 2022 FW 메이크업 컬렉션으로 선보이는 루쥬 알뤼르와 르 베르니 중 웜톤 피부를...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/8f9ce4ad-114b-4f20-a240-260497876440.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들만의 트렌드? 슈퍼 롱 헤어, ‘라푼젤’ 헤어스타일]]></title>
-            <link>https://www.elle.co.kr/article/68419</link>
-            <guid>https://www.elle.co.kr/article/68419</guid>
-            <pubDate>Thu, 04 Aug 2022 01:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[킴 카다시안, 카디비, 니키 미나즈 등 해외 셀럽들의 전유물인 줄 알았던 ‘롱 헤어’. 우리나...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/08f2654a-f986-4ed0-9ec6-c33f501d110c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

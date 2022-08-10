@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 07:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 08:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/c88a9996-37e5-4a33-b87a-ca31a31fd3f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이돌의 피부 비결?! 클렌징부터 스킨케어까지! (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/68663</link>
+            <guid>https://www.elle.co.kr/article/68663</guid>
+            <pubDate>Tue, 09 Aug 2022 06:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[메이크업 클렌징부터 기초 케어까지! 오마이걸 효정이 뽀송뽀송한 베이비 피부를 유지하는 노하우...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/3350bf0d-1a5f-4949-92f2-d3137f8da904.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[의외로 살찌는 다이어트 음식 TOP5 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/68638</link>
             <guid>https://www.elle.co.kr/article/68638</guid>
@@ -1087,12 +1095,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/8f9ce4ad-114b-4f20-a240-260497876440.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[셀럽들만의 트렌드? 슈퍼 롱 헤어, ‘라푼젤’ 헤어스타일 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/68419</link>
-            <guid>https://www.elle.co.kr/article/68419</guid>
-            <pubDate>Thu, 04 Aug 2022 01:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[킴 카다시안, 카디비, 니키 미나즈 등 해외 셀럽들의 전유물인 줄 알았던 ‘롱 헤어’. 우리나...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/08f2654a-f986-4ed0-9ec6-c33f501d110c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[8년 열애 끝낸 빈지노, 미초바와 결혼! 신혼여행은 어디로? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/68685</link>
+            <guid>https://www.elle.co.kr/article/68685</guid>
+            <pubDate>Wed, 10 Aug 2022 08:19:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/165051b6-5d13-4da4-980a-a05a1e8024ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패션으로 얽힌 우정?! 조세호가 지드래곤 무장 해제 시킨 사연 (엘르 코리아 ─ 스타)]]></title>
@@ -1149,7 +1156,7 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/afc2c504-2c20-4cf1-af33-38abe8fedfe2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[추사랑부터 윤후까지! 벌써 10대 된 '아어가' X '슈돌' 랜선 조카들, 다시 예능에? (엘르 코리아 ─ 스타)]]></title>
+            <title><![CDATA[추사랑부터 윤후까지! 벌써 10대 된 '아어가' X '슈돌' 랜선 조카들, 다시 예능에? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/68585</link>
             <guid>https://www.elle.co.kr/article/68585</guid>
             <pubDate>Wed, 03 Aug 2022 05:47:35 GMT</pubDate>
@@ -1210,14 +1217,6 @@
             <pubDate>Tue, 26 Jul 2022 08:21:58 GMT</pubDate>
             <content:encoded><![CDATA[섭섭했던 마음이 조금 풀리는 황금.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/ebf2642b-340f-4ddd-ba1d-712a1c166516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘우영우’에 앞서 괴짜 판사 ‘이정주’가 있었다? 박은빈 ‘인생캐’ 작품 모음.zip #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/68296</link>
-            <guid>https://www.elle.co.kr/article/68296</guid>
-            <pubDate>Tue, 26 Jul 2022 04:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[‘우영우’ 박은빈에게 입덕했다면 주목해야 할 5편.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/998d8df0-6f3a-4237-8a7e-59b2707a6cc8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
