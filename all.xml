@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 14:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 15:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1562,6 +1562,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/e93ec1f0-d43a-4551-913e-35331a810f31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우영우에겐 좋은 사람들이 있다_돈쓸신잡 #57 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/68626</link>
+            <guid>https://www.elle.co.kr/article/68626</guid>
+            <pubDate>Wed, 10 Aug 2022 15:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[인간관계 역시 알고리즘이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/e965be22-e122-4b7f-8a42-b6b8f22d64a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스] 한국 사람들은 왜 아무튼이라는 말을 자주 쓸까? (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/68624</link>
             <guid>https://www.elle.co.kr/article/68624</guid>
@@ -1615,13 +1623,6 @@
             <pubDate>Thu, 04 Aug 2022 06:29:00 GMT</pubDate>
             <content:encoded><![CDATA[심야 택시 대란이 심각한 사회 문제로 떠오르자 대응책으로 합승 서비스가 40년 만에 부활했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/897b3734-8891-44f5-bdef-667cabf2021c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오직 여성을 위해서 쓰인 재테크 책 <리치 우먼> (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/68138</link>
-            <guid>https://www.elle.co.kr/article/68138</guid>
-            <pubDate>Tue, 26 Jul 2022 08:20:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/70b2b698-8d5d-44fa-8cf8-228e2946ac56.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
