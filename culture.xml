@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 겪은 ‘처음’에 대해서, <여름과 루비>]]></title>
+            <link>https://www.elle.co.kr/article/68635</link>
+            <guid>https://www.elle.co.kr/article/68635</guid>
+            <pubDate>Thu, 11 Aug 2022 08:19:36 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/a630f704-0868-4ce4-a817-45766891e4f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추사랑부터 윤후까지! 벌써 10대 된 '아어가' X '슈돌' 랜선 조카들, 다시 예능에?]]></title>
             <link>https://www.elle.co.kr/article/68585</link>
@@ -61,14 +68,6 @@
             <pubDate>Tue, 02 Aug 2022 04:10:06 GMT</pubDate>
             <content:encoded><![CDATA[5년 만에 돌아오는 블랙팬서.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/dce3cb9a-2af0-43bf-a368-a3bb413c06a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포상 휴가가 없다니 섭섭한데요? '우영우'로 잔치 난 ENA, 휴가 대신 준다는 엄청난 선물]]></title>
-            <link>https://www.elle.co.kr/article/68315</link>
-            <guid>https://www.elle.co.kr/article/68315</guid>
-            <pubDate>Mon, 01 Aug 2022 04:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[섭섭했던 마음이 조금 풀리는 황금.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/ebf2642b-340f-4ddd-ba1d-712a1c166516.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

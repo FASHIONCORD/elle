@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벡델 테스트 통과했구나, 마침내. 올해 가장 성평등했던 영화 TOP 10 등극한 '헤어질 결심']]></title>
+            <link>https://www.elle.co.kr/article/68789</link>
+            <guid>https://www.elle.co.kr/article/68789</guid>
+            <pubDate>Thu, 11 Aug 2022 08:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[손석구와 전종서의 '연애 빠진 로맨스'도 벡델 테스트 기준 충족.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/dc7ef030-1659-4bee-80c8-0e77c9d74a71.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 번 따라해 볼까? 우영우가 이준호와 하기로 결심한 데이트 목록 8]]></title>
             <link>https://www.elle.co.kr/article/68754</link>
@@ -35,7 +43,6 @@
             <link>https://www.elle.co.kr/article/68585</link>
             <guid>https://www.elle.co.kr/article/68585</guid>
             <pubDate>Wed, 03 Aug 2022 05:47:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6986b22b-d384-468a-bb43-7d4758ccb00c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임윤아 '빅마우스' vs 김세정 '오늘의 웹툰', 금토극 승자는? #요즘드라마]]></title>
@@ -92,13 +99,6 @@
             <guid>https://www.elle.co.kr/article/68296</guid>
             <pubDate>Tue, 26 Jul 2022 04:07:21 GMT</pubDate>
             <content:encoded><![CDATA[‘우영우’ 박은빈에게 입덕했다면 주목해야 할 5편.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[도망친 엄마들_요주의여성 #67]]></title>
-            <link>https://www.elle.co.kr/article/68184</link>
-            <guid>https://www.elle.co.kr/article/68184</guid>
-            <pubDate>Fri, 22 Jul 2022 05:28:18 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;로스트 도터&gt;가 전하는 ‘엄마’에 관한 진실.]]></content:encoded>
         </item>
     </channel>
 </rss>
