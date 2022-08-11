@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 15:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 16:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1157,6 +1157,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/0fad8ffb-0ee9-4d10-8a1d-aa707947fc66.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국현 대전관이 될 그곳! 충남도청 구청사로의 건축 산책 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/68649</link>
+            <guid>https://www.elle.co.kr/article/68649</guid>
+            <pubDate>Fri, 05 Aug 2022 15:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[반질반질하다 못해 오목하게 패인 돌 층계에는 얼마나 많은 사람의 발길이 닿았을까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/dd264501-c0fb-4cfb-a0ea-40ce9e99ca59.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리가 겪은 ‘처음’에 대해서, <여름과 루비> (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/68635</link>
             <guid>https://www.elle.co.kr/article/68635</guid>
@@ -1209,14 +1217,6 @@
             <pubDate>Thu, 28 Jul 2022 06:23:19 GMT</pubDate>
             <content:encoded><![CDATA[ENA가 직접 만든 공식 짤.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/45eda363-96e1-4fc1-8229-0161e277be56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밥 말리에서 켄드릭 라마로, 소름 쫙 돋는 '블랙팬서: 와칸다 포에버' 트레일러 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/68349</link>
-            <guid>https://www.elle.co.kr/article/68349</guid>
-            <pubDate>Wed, 27 Jul 2022 07:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[5년 만에 돌아오는 블랙팬서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/dce3cb9a-2af0-43bf-a368-a3bb413c06a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
