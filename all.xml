@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 22:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 23:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1498,6 +1498,14 @@
             <content:encoded><![CDATA[인생 첫 자취를 시작한 혜리가 새로운 보금자리를 꾸미기 위해 구매한 아이템은? 찐 내돈내산 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이제 한국도 달에 간다! 최초 달 탐사선 다누리, 드디어 자체 비행 시작 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/68634</link>
+            <guid>https://www.elle.co.kr/article/68634</guid>
+            <pubDate>Thu, 11 Aug 2022 09:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[달 궤도 도착 예상 시점은 올 12월.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/cd8c2db6-d138-47a4-84f6-ebff3350a718.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[창 밖은 여름 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/68602</link>
             <guid>https://www.elle.co.kr/article/68602</guid>
@@ -1550,13 +1558,6 @@
             <pubDate>Mon, 01 Aug 2022 05:50:55 GMT</pubDate>
             <content:encoded><![CDATA[고온다습한 날씨, 식품에 생기는 곰팡이 주의보.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/206212d0-2e71-47b7-9afc-341540e8f83d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배운 사람들이 만든 육즙 가득 교자와 그림 같은 마들렌! 합정에 새로 생긴 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/68297</link>
-            <guid>https://www.elle.co.kr/article/68297</guid>
-            <pubDate>Tue, 02 Aug 2022 01:33:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/dc763f9a-6edc-4ef2-9ab3-0298c1abc96a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제 한국도 달에 간다! 최초 달 탐사선 다누리, 드디어 자체 비행 시작 (엘르 코리아 ─ 소사이어티)]]></title>
