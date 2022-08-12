@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 11:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 12:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/80833c81-cada-46fd-88d6-92290d7a765b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아침 세안 VS 저녁 세안_선배's 어드바이스 #129 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/68683</link>
+            <guid>https://www.elle.co.kr/article/68683</guid>
+            <pubDate>Fri, 12 Aug 2022 12:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[여름 세안, 제대로 하고 있는 걸까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/a94892a3-0134-43c2-a807-66b79238c989.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘도 잘자요 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/68671</link>
             <guid>https://www.elle.co.kr/article/68671</guid>
@@ -1085,14 +1093,6 @@
             <pubDate>Sat, 06 Aug 2022 21:15:23 GMT</pubDate>
             <content:encoded><![CDATA[즐거운 휴가 후 뒤집어진 피부, 깐 달걀처럼 되돌리기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/f8b7295e-fb33-4407-ad82-4dd6ef0443c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAC과 민니의 만남, 앞으로 김'맥'니라고 불러줄게! (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/68495</link>
-            <guid>https://www.elle.co.kr/article/68495</guid>
-            <pubDate>Tue, 02 Aug 2022 17:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[맥덕후'였던 민니의 성덕 스토리! 민니와 맥 NEW 파우더 키스 벨벳 블러 슬림 스틱의 운명적...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b2b1a742-5356-49ac-8a95-6c2c4a1b85ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여전히 소녀시대! 5년 만에 컴백한 소시 멤버들 체형 유지 비결 모음.zip #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
@@ -1580,7 +1580,7 @@
             <guid>https://www.elle.co.kr/article/68624</guid>
             <pubDate>Mon, 08 Aug 2022 19:17:58 GMT</pubDate>
             <content:encoded><![CDATA[기후 위기 속 '아무튼 ' 대처법]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/7e3a9938-d802-4f94-8469-f283a3044853.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/93312cfc-614d-458f-9ebf-fa51b9d5a088.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['워싱턴DC 오함마' 낸시 펠로시의 대만 방문에 역사적 의미가 부여된 이유 (엘르 코리아 ─ 소사이어티)]]></title>
