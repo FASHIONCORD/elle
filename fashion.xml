@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 09:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 10:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼 모델 곽지영의 D-라인 카리스마]]></title>
+            <link>https://www.elle.co.kr/article/68739</link>
+            <guid>https://www.elle.co.kr/article/68739</guid>
+            <pubDate>Fri, 12 Aug 2022 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[부푼 실루엣과 함께 드러낸 여전한 아우라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/a0a8da6e-fbb9-43ae-a209-17f744ba6cac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마크 저커버그가 발렌시아가의 우주복을 입었다.]]></title>
             <link>https://www.elle.co.kr/article/68711</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 Aug 2022 08:21:28 GMT</pubDate>
             <content:encoded><![CDATA[여름의 절정에서 원피스 장인 김나영이 추천하는 인생 원피스를 만나보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/80833c81-cada-46fd-88d6-92290d7a765b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예쁜 거울로 보면 더 예뻐보이는 마법!]]></title>
-            <link>https://www.elle.co.kr/article/68641</link>
-            <guid>https://www.elle.co.kr/article/68641</guid>
-            <pubDate>Sun, 07 Aug 2022 18:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[가성비 갑 인테리어 거울 추천. 10만원 대 부터 80만원 대까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/ace27011-58cb-4d66-9556-b01a4af2cc09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
