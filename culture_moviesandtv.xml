@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 06:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 07:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설마 레이디 가가가 할리퀸을?! 지금까지 나온 '조커2' 떡밥들.zip]]></title>
+            <link>https://www.elle.co.kr/article/68816</link>
+            <guid>https://www.elle.co.kr/article/68816</guid>
+            <pubDate>Fri, 12 Aug 2022 07:16:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/763f6767-33fd-4b2e-8f5b-a626ad6ac59d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이자벨위페르, 미아와시코브스카, 레아세아두가 이 감독과 작업한 이유는?]]></title>
             <link>https://www.elle.co.kr/article/68803</link>
@@ -37,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/68729</guid>
             <pubDate>Tue, 09 Aug 2022 09:17:39 GMT</pubDate>
             <content:encoded><![CDATA[알았어요 보러 갑니다 가요~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/44f482fe-a30e-484e-bf23-0305f36a77db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우영우의 '서브 엄마'와 '진짜 엄마', 한선영 VS 태수미 대결?! 지금까지 나온 관계성 모음.zip]]></title>
@@ -92,13 +98,6 @@
             <guid>https://www.elle.co.kr/article/68349</guid>
             <pubDate>Wed, 27 Jul 2022 07:17:20 GMT</pubDate>
             <content:encoded><![CDATA[5년 만에 돌아오는 블랙팬서.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포상 휴가가 없다니 섭섭한데요? '우영우'로 잔치 난 ENA, 휴가 대신 준다는 엄청난 선물]]></title>
-            <link>https://www.elle.co.kr/article/68315</link>
-            <guid>https://www.elle.co.kr/article/68315</guid>
-            <pubDate>Tue, 26 Jul 2022 08:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[섭섭했던 마음이 조금 풀리는 황금.]]></content:encoded>
         </item>
     </channel>
 </rss>
