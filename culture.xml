@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 08:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 번 따라해 볼까? 우영우가 이준호와 하기로 결심한 데이트 목록 8]]></title>
+            <link>https://www.elle.co.kr/article/68754</link>
+            <guid>https://www.elle.co.kr/article/68754</guid>
+            <pubDate>Fri, 12 Aug 2022 08:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[건전한데 신선한 데이트 목록들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/2d1b1e5a-070c-48a1-b8e3-463c6cebba1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코카인 댄스를 춰 버리네? 그저 독기 가득한 '청담쀼' 이정재X정우성의 '헌트' 홍보]]></title>
             <link>https://www.elle.co.kr/article/68729</link>
@@ -59,14 +67,6 @@
             <pubDate>Mon, 08 Aug 2022 07:16:06 GMT</pubDate>
             <content:encoded><![CDATA[허니제이는 바로 대게딱지장 구매.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b3f19ef6-951c-489e-8cda-6099a2cb7a15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입을 어떻게 하라고요?! 우영우 전용 1타 강사 이준호의 첫 키스, 강태오가 직접 밝힌 비하인드]]></title>
-            <link>https://www.elle.co.kr/article/68454</link>
-            <guid>https://www.elle.co.kr/article/68454</guid>
-            <pubDate>Fri, 05 Aug 2022 15:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[까딱 잘못했단 갑자기 분위기 에로틱해질 수 있었던 대사.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/ad266a83-d242-453d-b013-dea452a7513e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

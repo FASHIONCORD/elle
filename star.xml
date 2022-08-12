@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 08:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여전히 소녀시대! 5년 만에 컴백한 소시 멤버들 체형 유지 비결 모음.zip #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/68768</link>
+            <guid>https://www.elle.co.kr/article/68768</guid>
+            <pubDate>Fri, 12 Aug 2022 08:20:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/07f18231-af95-477e-af69-47ae732d8c98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 번 따라해 볼까? 우영우가 이준호와 하기로 결심한 데이트 목록 8]]></title>
             <link>https://www.elle.co.kr/article/68754</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/68668</guid>
             <pubDate>Tue, 09 Aug 2022 08:19:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/6301240f-a077-4c4a-9a42-30836fa0aca1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌의 피부 비결?! 클렌징부터 스킨케어까지!]]></title>
-            <link>https://www.elle.co.kr/article/68663</link>
-            <guid>https://www.elle.co.kr/article/68663</guid>
-            <pubDate>Tue, 09 Aug 2022 06:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[메이크업 클렌징부터 기초 케어까지! 오마이걸 효정이 뽀송뽀송한 베이비 피부를 유지하는 노하우...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/3350bf0d-1a5f-4949-92f2-d3137f8da904.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

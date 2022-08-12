@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 08:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1095,6 +1095,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b2b1a742-5356-49ac-8a95-6c2c4a1b85ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여전히 소녀시대! 5년 만에 컴백한 소시 멤버들 체형 유지 비결 모음.zip #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/68768</link>
+            <guid>https://www.elle.co.kr/article/68768</guid>
+            <pubDate>Fri, 12 Aug 2022 08:20:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/07f18231-af95-477e-af69-47ae732d8c98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한 번 따라해 볼까? 우영우가 이준호와 하기로 결심한 데이트 목록 8 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/68754</link>
             <guid>https://www.elle.co.kr/article/68754</guid>
@@ -1149,12 +1156,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/6301240f-a077-4c4a-9a42-30836fa0aca1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이돌의 피부 비결?! 클렌징부터 스킨케어까지! (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/68663</link>
-            <guid>https://www.elle.co.kr/article/68663</guid>
-            <pubDate>Tue, 09 Aug 2022 06:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[메이크업 클렌징부터 기초 케어까지! 오마이걸 효정이 뽀송뽀송한 베이비 피부를 유지하는 노하우...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/3350bf0d-1a5f-4949-92f2-d3137f8da904.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한 번 따라해 볼까? 우영우가 이준호와 하기로 결심한 데이트 목록 8 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/68754</link>
+            <guid>https://www.elle.co.kr/article/68754</guid>
+            <pubDate>Wed, 10 Aug 2022 09:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[건전한데 신선한 데이트 목록들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/2d1b1e5a-070c-48a1-b8e3-463c6cebba1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코카인 댄스를 춰 버리네? 그저 독기 가득한 '청담쀼' 이정재X정우성의 '헌트' 홍보 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1208,14 +1215,6 @@
             <pubDate>Mon, 01 Aug 2022 09:19:49 GMT</pubDate>
             <content:encoded><![CDATA[허니제이는 바로 대게딱지장 구매.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b3f19ef6-951c-489e-8cda-6099a2cb7a15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입을 어떻게 하라고요?! 우영우 전용 1타 강사 이준호의 첫 키스, 강태오가 직접 밝힌 비하인드 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/68454</link>
-            <guid>https://www.elle.co.kr/article/68454</guid>
-            <pubDate>Fri, 29 Jul 2022 08:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[까딱 잘못했단 갑자기 분위기 에로틱해질 수 있었던 대사.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/ad266a83-d242-453d-b013-dea452a7513e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명랑함과 우울함 그 사이의 최정윤 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1312,6 +1311,14 @@
             <content:encoded><![CDATA[경계를 넘나드는 무드의 싱어송라이터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[수원 왕갈비 통닭에 이어 '닭강정'! 류승룡X차은우 출연 검토 중인 이병헌의 '치킨 유니버스'는? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/68819</link>
+            <guid>https://www.elle.co.kr/article/68819</guid>
+            <pubDate>Fri, 12 Aug 2022 08:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[12부작 드라마 제작 계획 중.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/76f65e2a-8f1d-4601-ad5d-db5852207a26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[설마 레이디 가가가 할리퀸을?! 지금까지 나온 '조커2' 떡밥들.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/68816</link>
             <guid>https://www.elle.co.kr/article/68816</guid>
@@ -1340,7 +1347,6 @@
             <guid>https://www.elle.co.kr/article/68754</guid>
             <pubDate>Wed, 10 Aug 2022 09:17:56 GMT</pubDate>
             <content:encoded><![CDATA[건전한데 신선한 데이트 목록들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/2d1b1e5a-070c-48a1-b8e3-463c6cebba1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코카인 댄스를 춰 버리네? 그저 독기 가득한 '청담쀼' 이정재X정우성의 '헌트' 홍보 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1395,13 +1401,6 @@
             <guid>https://www.elle.co.kr/article/68397</guid>
             <pubDate>Thu, 28 Jul 2022 06:23:19 GMT</pubDate>
             <content:encoded><![CDATA[ENA가 직접 만든 공식 짤.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밥 말리에서 켄드릭 라마로, 소름 쫙 돋는 '블랙팬서: 와칸다 포에버' 트레일러 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/68349</link>
-            <guid>https://www.elle.co.kr/article/68349</guid>
-            <pubDate>Wed, 27 Jul 2022 07:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[5년 만에 돌아오는 블랙팬서.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국현 대전관이 될 그곳! 충남도청 구청사로의 건축 산책 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
