@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 09:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 10:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그래머블 그 자체! 심상치 않은 비주얼의 만두-버거-도넛이 있는 한남동 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/68716</link>
+            <guid>https://www.elle.co.kr/article/68716</guid>
+            <pubDate>Tue, 16 Aug 2022 10:20:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/38827e29-73a9-45ab-9899-f4e863ca34db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금이 딱! 여름 레서피]]></title>
             <link>https://www.elle.co.kr/article/68661</link>
@@ -60,14 +67,6 @@
             <pubDate>Fri, 05 Aug 2022 08:23:49 GMT</pubDate>
             <content:encoded><![CDATA[한남-가로수길에 생긴 새롭고 이국적인 맛집. 낮술도 가능한 곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/100f3bf4-59e6-4b08-9429-1e5d066169a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼음 동동, 뼛속까지 시원한 여름 면 요리 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/68366</link>
-            <guid>https://www.elle.co.kr/article/68366</guid>
-            <pubDate>Thu, 04 Aug 2022 01:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[시원하게 호로록! 밀냉면부터 콩국수까지, 먹잘알 스타들이 다녀간 면 맛집을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/5e4503df-c56a-4907-b6af-ded324207c2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
