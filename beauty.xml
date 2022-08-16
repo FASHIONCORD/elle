@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 14:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 15:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여전히 소녀시대! 5년 만에 컴백한 소시 멤버들 체형 유지 비결 모음.zip #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/68768</link>
+            <guid>https://www.elle.co.kr/article/68768</guid>
+            <pubDate>Tue, 16 Aug 2022 15:17:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/07f18231-af95-477e-af69-47ae732d8c98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름을 위한 내돈내산 뷰티템 6]]></title>
             <link>https://www.elle.co.kr/article/68755</link>
@@ -62,14 +69,6 @@
             <pubDate>Tue, 09 Aug 2022 06:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이건 아무리 먹어도 살 안 찐다?! 흔히 알고 있던 다이어트 식품 중 주의해야 할 것들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/57b9fac9-aa23-424f-9f6a-53b71717bcfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨톤 피부 손들어! 샤넬뷰티의 로즈 언더톤 립&네일]]></title>
-            <link>https://www.elle.co.kr/article/68603</link>
-            <guid>https://www.elle.co.kr/article/68603</guid>
-            <pubDate>Mon, 08 Aug 2022 18:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[장밋빛 쿨톤 피부를 위한 샤넬뷰티의 2022 FW 메이크업 톤 온 톤 컬렉션! 투명한 파우더 핑크...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/21577199-bd88-4950-acba-ceecf22aa49b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
