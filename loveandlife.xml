@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 16:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 17:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숲 그늘에 폭 안겨 나무 향기에 취할 수 있는 영동 감성 숙소 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/68741</link>
+            <guid>https://www.elle.co.kr/article/68741</guid>
+            <pubDate>Tue, 16 Aug 2022 17:23:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/95ca76a3-d184-4026-888b-a522fcc3ab55.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그래머블 그 자체! 심상치 않은 비주얼의 만두-버거-도넛이 있는 한남동 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/68716</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/68477</guid>
             <pubDate>Sat, 06 Aug 2022 15:18:45 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/3a42574a-eb50-47bc-a016-333c6b10e2c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한남동의 파리 테라스 vs. 가로수길 뉴욕 레스토랑]]></title>
-            <link>https://www.elle.co.kr/article/68376</link>
-            <guid>https://www.elle.co.kr/article/68376</guid>
-            <pubDate>Fri, 05 Aug 2022 08:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[한남-가로수길에 생긴 새롭고 이국적인 맛집. 낮술도 가능한 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/100f3bf4-59e6-4b08-9429-1e5d066169a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
