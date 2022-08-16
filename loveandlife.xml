@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 08:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 09:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금이 딱! 여름 레서피]]></title>
+            <link>https://www.elle.co.kr/article/68661</link>
+            <guid>https://www.elle.co.kr/article/68661</guid>
+            <pubDate>Tue, 16 Aug 2022 09:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 태양의 선물, 여름 제철 재료로 할 수 있는 간단한 한 끼]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/2e7cedbf-57de-45cf-88d4-0d70a9df3dfa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제 한국도 달에 간다! 최초 달 탐사선 다누리, 드디어 자체 비행 시작]]></title>
             <link>https://www.elle.co.kr/article/68634</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 04 Aug 2022 01:25:05 GMT</pubDate>
             <content:encoded><![CDATA[시원하게 호로록! 밀냉면부터 콩국수까지, 먹잘알 스타들이 다녀간 면 맛집을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/5e4503df-c56a-4907-b6af-ded324207c2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름엔 먹기 전에 곰팡이부터 확인해!_몸에 좋은 잔소리 #45]]></title>
-            <link>https://www.elle.co.kr/article/68348</link>
-            <guid>https://www.elle.co.kr/article/68348</guid>
-            <pubDate>Wed, 03 Aug 2022 01:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[고온다습한 날씨, 식품에 생기는 곰팡이 주의보.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/206212d0-2e71-47b7-9afc-341540e8f83d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

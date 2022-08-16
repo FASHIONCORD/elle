@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 08:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 09:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름을 위한 내돈내산 뷰티템 6]]></title>
+            <link>https://www.elle.co.kr/article/68755</link>
+            <guid>https://www.elle.co.kr/article/68755</guid>
+            <pubDate>Tue, 16 Aug 2022 09:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[여름에 꼭 필요한 아이템들은 정해져 있죠. 하지만 그중 무엇을 고를지 고민이라면? 송경아가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/567d3c6d-1bad-4235-9fff-2d626fa9a6eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드 까멜리아가 활짝 핀 N°1 DE CHANEL GARDEN]]></title>
+            <link>https://www.elle.co.kr/article/68694</link>
+            <guid>https://www.elle.co.kr/article/68694</guid>
+            <pubDate>Tue, 16 Aug 2022 09:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[강인한 생명력을 지닌 레드 까멜리아의 비밀을 만나는 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/a26df913-dd4a-4380-935a-5db2f4c48ced.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈과 눈 사이에 집중! 신박한 아이메이크업 트렌드]]></title>
             <link>https://www.elle.co.kr/article/68715</link>
@@ -54,21 +70,6 @@
             <pubDate>Mon, 08 Aug 2022 18:20:29 GMT</pubDate>
             <content:encoded><![CDATA[장밋빛 쿨톤 피부를 위한 샤넬뷰티의 2022 FW 메이크업 톤 온 톤 컬렉션! 투명한 파우더 핑크...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/21577199-bd88-4950-acba-ceecf22aa49b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우영우 김밥' 만큼 화제 된 다이어트 김밥! 살 빠지는 스타 레시피 3 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/68601</link>
-            <guid>https://www.elle.co.kr/article/68601</guid>
-            <pubDate>Mon, 08 Aug 2022 03:39:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/afc2c504-2c20-4cf1-af33-38abe8fedfe2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOT&NOW 뷰티 트렌드]]></title>
-            <link>https://www.elle.co.kr/article/68529</link>
-            <guid>https://www.elle.co.kr/article/68529</guid>
-            <pubDate>Sun, 07 Aug 2022 15:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[스타들의 컴백 스타일 속에서 찾은 뷰티 트렌드 4가지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/db7e9fce-616e-4499-b9d7-f4f47a0b5eb1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
