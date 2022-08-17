@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 17:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 18:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이틴 스타]]></title>
+            <link>https://www.elle.co.kr/article/68852</link>
+            <guid>https://www.elle.co.kr/article/68852</guid>
+            <pubDate>Wed, 17 Aug 2022 18:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[잔머리 한 올도 놓치지 않을 거에요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/1ab23640-008e-4aca-914f-2b767fc8807d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20년 후에도 좋을 패션 아이템 9_선배's 어드바이스 #130]]></title>
+            <link>https://www.elle.co.kr/article/68849</link>
+            <guid>https://www.elle.co.kr/article/68849</guid>
+            <pubDate>Wed, 17 Aug 2022 18:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[언제 입어도 스타일리시하며 환경 보호에도 도움될 클래식 아이템의 공식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/15/dd7a6d02-14e5-4665-be82-db8c01b2895d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HOT 셀럽 뷰티 브랜드 BEST 5]]></title>
             <link>https://www.elle.co.kr/article/68846</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 14 Aug 2022 15:15:12 GMT</pubDate>
             <content:encoded><![CDATA[테니스 코트를 가르는 하이 패션의 모먼트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/679ddc69-fef2-47da-b52c-76c71f6815ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 벌로 완성하는 90년대 무드! 슬립 드레스 스타일링 5]]></title>
-            <link>https://www.elle.co.kr/article/68830</link>
-            <guid>https://www.elle.co.kr/article/68830</guid>
-            <pubDate>Sun, 14 Aug 2022 15:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[언제 봐도 매력적인 90년대 무드를 재현하고 싶다면 주목! 가녀리면서도 과감한 슬립 드레스를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/6598389e-a51d-487c-b27c-415287de46a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손바닥만 해! 베이비붐]]></title>
-            <link>https://www.elle.co.kr/article/68799</link>
-            <guid>https://www.elle.co.kr/article/68799</guid>
-            <pubDate>Sat, 13 Aug 2022 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[짧고 작은 베이비 티셔츠의 시즌이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/dbf5da56-6662-410d-84d2-e40f16e0a5a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
