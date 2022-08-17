@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 01:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 09:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서로 다른 매력! 엘르 9월호 커버스타 김연아와 세훈]]></title>
+            <link>https://www.elle.co.kr/article/68850</link>
+            <guid>https://www.elle.co.kr/article/68850</guid>
+            <pubDate>Wed, 17 Aug 2022 09:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[디올로 조우한 두 사람. 김연아와 세훈의 우아한 매력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/40f9e245-41e6-46fd-b0e2-e9599a54284c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박경림X조인성이 커플이었던 사실을 모르는 사람이 있다고?]]></title>
             <link>https://www.elle.co.kr/article/68845</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/68768</guid>
             <pubDate>Fri, 12 Aug 2022 08:20:12 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/07f18231-af95-477e-af69-47ae732d8c98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 번 따라해 볼까? 우영우가 이준호와 하기로 결심한 데이트 목록 8]]></title>
-            <link>https://www.elle.co.kr/article/68754</link>
-            <guid>https://www.elle.co.kr/article/68754</guid>
-            <pubDate>Fri, 12 Aug 2022 07:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[건전한데 신선한 데이트 목록들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/2d1b1e5a-070c-48a1-b8e3-463c6cebba1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
