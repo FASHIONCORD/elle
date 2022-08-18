@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 22:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 01:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름이니까, 수상스포츠로 더위 날리기!]]></title>
+            <link>https://www.elle.co.kr/article/68866</link>
+            <guid>https://www.elle.co.kr/article/68866</guid>
+            <pubDate>Thu, 18 Aug 2022 01:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[무더운 여름을 100% 즐기고 싶다면? 서핑 고수 소유부터 아이돌 친구들과 가평으로 떠난 이영지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/6394dca7-ebcb-4743-b39f-443447b6bf1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서로 다른 매력! 엘르 9월호 커버스타 김연아와 세훈]]></title>
             <link>https://www.elle.co.kr/article/68850</link>
@@ -60,13 +68,6 @@
             <guid>https://www.elle.co.kr/article/68784</guid>
             <pubDate>Sat, 13 Aug 2022 21:13:37 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/dc8ad54b-8abd-4804-8c45-e00dfa904508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여전히 소녀시대! 5년 만에 컴백한 소시 멤버들 체형 유지 비결 모음.zip #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/68768</link>
-            <guid>https://www.elle.co.kr/article/68768</guid>
-            <pubDate>Fri, 12 Aug 2022 08:20:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/07f18231-af95-477e-af69-47ae732d8c98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
