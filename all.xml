@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 14:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 19:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1033,6 +1033,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9afa63c3-61f2-4872-b597-fe2488da92c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다이어트 중 라면 먹어도 된다? 의외로 살 안 찌는 음식 BEST 3 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/68834</link>
+            <guid>https://www.elle.co.kr/article/68834</guid>
+            <pubDate>Thu, 18 Aug 2022 19:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[적어도 이 음식들 때문에 다이어트가 망하는 건 아님!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/24eaa96a-9dba-4ab8-ae2b-48b1cff37cd1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여전히 소녀시대! 5년 만에 컴백한 소시 멤버들 체형 유지 비결 모음.zip #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/68768</link>
             <guid>https://www.elle.co.kr/article/68768</guid>
@@ -1086,14 +1094,6 @@
             <pubDate>Tue, 09 Aug 2022 06:21:28 GMT</pubDate>
             <content:encoded><![CDATA[메이크업 클렌징부터 기초 케어까지! 오마이걸 효정이 뽀송뽀송한 베이비 피부를 유지하는 노하우...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/3350bf0d-1a5f-4949-92f2-d3137f8da904.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의외로 살찌는 다이어트 음식 TOP5 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/68638</link>
-            <guid>https://www.elle.co.kr/article/68638</guid>
-            <pubDate>Tue, 09 Aug 2022 06:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[이건 아무리 먹어도 살 안 찐다?! 흔히 알고 있던 다이어트 식품 중 주의해야 할 것들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/57b9fac9-aa23-424f-9f6a-53b71717bcfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보부상을 위해! 스타가 선택한 빅  백 5 (엘르 코리아 ─ 스타)]]></title>
