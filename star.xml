@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 11:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보부상을 위해! 스타가 선택한 빅  백 5]]></title>
+            <link>https://www.elle.co.kr/article/68868</link>
+            <guid>https://www.elle.co.kr/article/68868</guid>
+            <pubDate>Thu, 18 Aug 2022 11:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[미니 백에 지친 맥시멀리스트는 주목! 사복 센스 좋은 셀러브리티들이 선택한 현실적인 사이즈의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/fd7bf1cd-4833-4b22-a348-30b0340af70a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름이니까, 수상스포츠로 더위 날리기!]]></title>
             <link>https://www.elle.co.kr/article/68866</link>
@@ -61,13 +69,6 @@
             <pubDate>Tue, 16 Aug 2022 01:23:54 GMT</pubDate>
             <content:encoded><![CDATA[손석구와 전종서의 '연애 빠진 로맨스'도 벡델 테스트 기준 충족.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/dc7ef030-1659-4bee-80c8-0e77c9d74a71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5년 만에 완전체 컴백한 소녀시대, 손발 안 맞는 단 한 가지는 공식 석상 패션?]]></title>
-            <link>https://www.elle.co.kr/article/68784</link>
-            <guid>https://www.elle.co.kr/article/68784</guid>
-            <pubDate>Sat, 13 Aug 2022 21:13:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/dc8ad54b-8abd-4804-8c45-e00dfa904508.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
