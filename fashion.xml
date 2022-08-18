@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 11:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 14:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름이니까, 수상스포츠로 더위 날리기!]]></title>
+            <link>https://www.elle.co.kr/article/68866</link>
+            <guid>https://www.elle.co.kr/article/68866</guid>
+            <pubDate>Thu, 18 Aug 2022 14:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[무더운 여름을 100% 즐기고 싶다면? 서핑 고수 소유부터 아이돌 친구들과 가평으로 떠난 이영지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/6394dca7-ebcb-4743-b39f-443447b6bf1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이틴 스타]]></title>
             <link>https://www.elle.co.kr/article/68852</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 Aug 2022 08:18:24 GMT</pubDate>
             <content:encoded><![CDATA[새로운 삶을 찾아 떠난 강아지들의 여정. 그들로 인해 또 다른 가족으로 연결된 입양자와 임시...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9afa63c3-61f2-4872-b597-fe2488da92c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테니스 치러 갈래?]]></title>
-            <link>https://www.elle.co.kr/article/68839</link>
-            <guid>https://www.elle.co.kr/article/68839</guid>
-            <pubDate>Sun, 14 Aug 2022 15:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[테니스 코트를 가르는 하이 패션의 모먼트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/679ddc69-fef2-47da-b52c-76c71f6815ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

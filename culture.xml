@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 11:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 14:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명랑함과 우울함 그 사이의 최정윤 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/68813</link>
+            <guid>https://www.elle.co.kr/article/68813</guid>
+            <pubDate>Thu, 18 Aug 2022 14:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;착한 사람들이 먼저 가는 우주&gt;로 던지는 희망.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/15/d8d08fcf-bb4a-48e4-875f-ac168a023fec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이자벨 위페르, 미아 와시코브스카, 레아 세이두가 이 감독과 작업한 이유는?]]></title>
             <link>https://www.elle.co.kr/article/68803</link>
@@ -60,13 +68,6 @@
             <guid>https://www.elle.co.kr/article/68635</guid>
             <pubDate>Thu, 11 Aug 2022 08:19:36 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/a630f704-0868-4ce4-a817-45766891e4f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추사랑부터 윤후까지! 벌써 10대 된 '아어가' X '슈돌' 랜선 조카들, 다시 예능에?]]></title>
-            <link>https://www.elle.co.kr/article/68585</link>
-            <guid>https://www.elle.co.kr/article/68585</guid>
-            <pubDate>Wed, 10 Aug 2022 08:19:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6986b22b-d384-468a-bb43-7d4758ccb00c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
