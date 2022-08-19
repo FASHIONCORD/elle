@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 11:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 15:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강태오, ‘섭섭’하지 않은 변신]]></title>
+            <link>https://www.elle.co.kr/article/68877</link>
+            <guid>https://www.elle.co.kr/article/68877</guid>
+            <pubDate>Fri, 19 Aug 2022 15:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[이상한 변호사 우영우의 이준호씨 맞아요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/0a5dd133-8919-42ae-9438-0362b6c55676.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전방위 크리에이티브 디렉터들의 뜨거운 조우! 61세 서영희와 34세 박선아 #세대를잇다]]></title>
             <link>https://www.elle.co.kr/article/68894</link>
@@ -62,13 +70,6 @@
             <pubDate>Tue, 16 Aug 2022 10:17:03 GMT</pubDate>
             <content:encoded><![CDATA[12부작 드라마 제작 계획 중.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/76f65e2a-8f1d-4601-ad5d-db5852207a26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설마 레이디 가가가 할리퀸을?! 지금까지 나온 '조커2' 떡밥들.zip]]></title>
-            <link>https://www.elle.co.kr/article/68816</link>
-            <guid>https://www.elle.co.kr/article/68816</guid>
-            <pubDate>Tue, 16 Aug 2022 10:17:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/763f6767-33fd-4b2e-8f5b-a626ad6ac59d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
