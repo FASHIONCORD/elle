@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 23:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 09:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인류 절반인 여성에 대하여! 영화 ‘우먼’]]></title>
+            <link>https://www.elle.co.kr/article/68969</link>
+            <guid>https://www.elle.co.kr/article/68969</guid>
+            <pubDate>Fri, 19 Aug 2022 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 여성들의 목소리를 담은 영화.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/bc9766af-aef0-4aa4-ae27-9156764067e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 CHANEL X BIFF 아시아영화아카데미를 이끌 리더는?]]></title>
             <link>https://www.elle.co.kr/article/68903</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/68819</guid>
             <pubDate>Fri, 12 Aug 2022 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[12부작 드라마 제작 계획 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/76f65e2a-8f1d-4601-ad5d-db5852207a26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설마 레이디 가가가 할리퀸을?! 지금까지 나온 '조커2' 떡밥들.zip]]></title>
@@ -91,13 +98,6 @@
             <guid>https://www.elle.co.kr/article/68533</guid>
             <pubDate>Tue, 02 Aug 2022 04:10:59 GMT</pubDate>
             <content:encoded><![CDATA[누아르 ‘걸크러시’ 임윤아 vs 힐링드 ‘인간비타민’ 김세정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나래바 박사장도 탐낸 샤이니 키의 술안주 '바냐 카우다' 초간단 레시피 (feat. 기범주)]]></title>
-            <link>https://www.elle.co.kr/article/68497</link>
-            <guid>https://www.elle.co.kr/article/68497</guid>
-            <pubDate>Mon, 01 Aug 2022 09:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[허니제이는 바로 대게딱지장 구매.]]></content:encoded>
         </item>
     </channel>
 </rss>
