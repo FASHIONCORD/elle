@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 23:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 03:41:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리들의 '괴짜' 지코와 클리오의 완벽 조우.]]></title>
+            <link>https://www.elle.co.kr/article/68905</link>
+            <guid>https://www.elle.co.kr/article/68905</guid>
+            <pubDate>Sat, 20 Aug 2022 03:37:20 GMT</pubDate>
+            <content:encoded><![CDATA[다시 돌아온 지코와 새롭게 태어난 클리오 킬 커버 더 뉴 파운웨어 쿠션의 필연적인 만남.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/03fc712d-f74b-49c5-ae51-7e07b4f0378a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강태오, ‘섭섭’하지 않은 변신]]></title>
             <link>https://www.elle.co.kr/article/68877</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 Aug 2022 15:17:45 GMT</pubDate>
             <content:encoded><![CDATA[판타지(?) 시트콤 '뉴 논스톱'이 탄생시킨 박경림X조인성]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/14/d2d3516e-1f1b-4802-9157-9f30e81f2974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수원 왕갈비 통닭에 이어 '닭강정'! 류승룡X차은우 출연 검토 중인 이병헌의 '치킨 유니버스'는?]]></title>
-            <link>https://www.elle.co.kr/article/68819</link>
-            <guid>https://www.elle.co.kr/article/68819</guid>
-            <pubDate>Tue, 16 Aug 2022 10:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[12부작 드라마 제작 계획 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/76f65e2a-8f1d-4601-ad5d-db5852207a26.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
