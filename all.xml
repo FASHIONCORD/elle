@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 09:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 10:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/df609616-5759-43e3-aef5-5782d066c7d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[발이 열 개라도 모자라, 강민경이 '뽕뽑은' 운동화 추천 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/68937</link>
+            <guid>https://www.elle.co.kr/article/68937</guid>
+            <pubDate>Sun, 21 Aug 2022 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[강민경이 ‘내돈내산’한 무조건 뽕 뽑는 운동화는 무엇?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/6d33b5a8-1cfe-4c8b-9b8f-963f778aea79.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리들의 '괴짜' 지코와 클리오의 완벽 조우. (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/68905</link>
             <guid>https://www.elle.co.kr/article/68905</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 17 Aug 2022 09:20:51 GMT</pubDate>
             <content:encoded><![CDATA[디올로 조우한 두 사람. 김연아와 세훈의 우아한 매력.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/40f9e245-41e6-46fd-b0e2-e9599a54284c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박경림X조인성이 커플이었던 사실을 모르는 사람이 있다고? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/68845</link>
-            <guid>https://www.elle.co.kr/article/68845</guid>
-            <pubDate>Tue, 16 Aug 2022 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[판타지(?) 시트콤 '뉴 논스톱'이 탄생시킨 박경림X조인성]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/14/d2d3516e-1f1b-4802-9157-9f30e81f2974.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강! (엘르 코리아 ─ 컬쳐)]]></title>
