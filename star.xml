@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 22:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 01:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 컴백! 바쁜 스케줄에도 체력과 체형 둘 다 완성한 이들의 운동과 식단은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/68948</link>
+            <guid>https://www.elle.co.kr/article/68948</guid>
+            <pubDate>Mon, 22 Aug 2022 01:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[K팝 걸그룹 최초로 MTV VMAs 무대에 서는 블랙핑크!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/804ae301-cc73-4030-bdc7-179b54c6b61e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발이 열 개라도 모자라, 강민경이 '뽕뽑은' 운동화 추천]]></title>
             <link>https://www.elle.co.kr/article/68937</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Aug 2022 01:29:44 GMT</pubDate>
             <content:encoded><![CDATA[무더운 여름을 100% 즐기고 싶다면? 서핑 고수 소유부터 아이돌 친구들과 가평으로 떠난 이영지...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/6394dca7-ebcb-4743-b39f-443447b6bf1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서로 다른 매력! 엘르 9월호 커버스타 김연아와 세훈]]></title>
-            <link>https://www.elle.co.kr/article/68850</link>
-            <guid>https://www.elle.co.kr/article/68850</guid>
-            <pubDate>Wed, 17 Aug 2022 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[디올로 조우한 두 사람. 김연아와 세훈의 우아한 매력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/40f9e245-41e6-46fd-b0e2-e9599a54284c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
