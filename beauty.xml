@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 06:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 07:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 뜨겁게 사랑할 시간]]></title>
+            <link>https://www.elle.co.kr/article/68893</link>
+            <guid>https://www.elle.co.kr/article/68893</guid>
+            <pubDate>Mon, 22 Aug 2022 07:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹과 실망스러운 전적들로 인해 욕구 불만과 잠재적 무성욕 상태에 빠진 당신을 위한 다섯 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/d1c21049-f12b-4cd3-92b2-b297a844408a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더워도 운동은 포기 못해! 스타들의 여름 운동 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/68867</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 16 Aug 2022 09:14:51 GMT</pubDate>
             <content:encoded><![CDATA[강인한 생명력을 지닌 레드 까멜리아의 비밀을 만나는 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/a26df913-dd4a-4380-935a-5db2f4c48ced.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈과 눈 사이에 집중! 신박한 아이메이크업 트렌드]]></title>
-            <link>https://www.elle.co.kr/article/68715</link>
-            <guid>https://www.elle.co.kr/article/68715</guid>
-            <pubDate>Mon, 15 Aug 2022 15:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[화려하면서도 은은한 묘한 매력의 메이크업 팁! 제니처럼 눈과 눈 사이에 집중하는 아이 메이크...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/df609616-5759-43e3-aef5-5782d066c7d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
