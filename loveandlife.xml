@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 13:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
+            <link>https://www.elle.co.kr/article/68875</link>
+            <guid>https://www.elle.co.kr/article/68875</guid>
+            <pubDate>Mon, 22 Aug 2022 13:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[음악을 소비하지 않고 소유하는 가장 좋은 방법. 손으로 직접 고르는 재미, 레코드숍 투어를 떠...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/bfc0e451-5139-489f-ba7d-4b4151a9460f.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[집안에서 시원하게 여름밤 보내기! 강민경의 혼술 안주 레서피 3]]></title>
             <link>https://www.elle.co.kr/article/68869</link>
@@ -59,14 +67,6 @@
             <pubDate>Fri, 12 Aug 2022 23:18:12 GMT</pubDate>
             <content:encoded><![CDATA[달 궤도 도착 예상 시점은 올 12월.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/cd8c2db6-d138-47a4-84f6-ebff3350a718.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창 밖은 여름]]></title>
-            <link>https://www.elle.co.kr/article/68602</link>
-            <guid>https://www.elle.co.kr/article/68602</guid>
-            <pubDate>Fri, 12 Aug 2022 10:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[어느새 녹음이 짙어진 여름을 감상하기에 좋은 공간 두 곳]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/e8080310-68cd-45d2-a15a-bd9a3f3d1b50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
