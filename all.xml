@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 11:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 12:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/a26df913-dd4a-4380-935a-5db2f4c48ced.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['성적표 짤'의 비하인드 해명 TIME! 지금 김연아가 좋아하는 모든 것들 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/69025</link>
+            <guid>https://www.elle.co.kr/article/69025</guid>
+            <pubDate>Tue, 23 Aug 2022 12:31:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 김연아의 최신 근황 업데이트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/59692c9c-06c0-4c39-9327-9424107b2890.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[입 안에서 사르르- 달콤한 푸딩 맛집 3 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/69021</link>
             <guid>https://www.elle.co.kr/article/69021</guid>
@@ -1149,14 +1157,6 @@
             <pubDate>Mon, 22 Aug 2022 15:20:14 GMT</pubDate>
             <content:encoded><![CDATA[데뷔하자마자 인간 샤넬에 등극한 '뉴진스'와 &lt;슈퍼 엘르&gt; 특별판의 만남.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/2f55389f-f203-4c37-9d84-0be4d4e53369.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 컴백! 바쁜 스케줄에도 체력과 체형 둘 다 완성한 이들의 운동과 식단은? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/68948</link>
-            <guid>https://www.elle.co.kr/article/68948</guid>
-            <pubDate>Mon, 22 Aug 2022 01:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[K팝 걸그룹 최초로 MTV VMAs 무대에 서는 블랙핑크!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/804ae301-cc73-4030-bdc7-179b54c6b61e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강! (엘르 코리아 ─ 컬쳐)]]></title>
