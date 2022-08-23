@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 14:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 17:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1159,6 +1159,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/2f55389f-f203-4c37-9d84-0be4d4e53369.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드라마도 소녀시대가 대세! 임윤아 vs 최수영 vs 권유리 주연작 3편 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/68897</link>
+            <guid>https://www.elle.co.kr/article/68897</guid>
+            <pubDate>Tue, 16 Aug 2022 19:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[‘빅마우스’ vs ‘당소말’ vs ‘굿잡’]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/52a57d5b-2fd3-4784-ac5a-38604bd32b9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강! (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/68875</link>
             <guid>https://www.elle.co.kr/article/68875</guid>
@@ -1212,14 +1220,6 @@
             <pubDate>Wed, 10 Aug 2022 09:17:56 GMT</pubDate>
             <content:encoded><![CDATA[건전한데 신선한 데이트 목록들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/2d1b1e5a-070c-48a1-b8e3-463c6cebba1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코카인 댄스를 춰 버리네? 그저 독기 가득한 '청담쀼' 이정재X정우성의 '헌트' 홍보 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/68729</link>
-            <guid>https://www.elle.co.kr/article/68729</guid>
-            <pubDate>Tue, 09 Aug 2022 09:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[알았어요 보러 갑니다 가요~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/44f482fe-a30e-484e-bf23-0305f36a77db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강! (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
