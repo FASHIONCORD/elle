@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 05:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 06:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[충북 향토 음식 도리뱅뱅이와 어죽, 물쫄면까지! 뜨끈하게 즐기는 영동 맛집 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/68895</link>
+            <guid>https://www.elle.co.kr/article/68895</guid>
+            <pubDate>Tue, 23 Aug 2022 06:33:32 GMT</pubDate>
+            <content:encoded><![CDATA[충북의 대표 향토 음식, 어죽 원조 맛집도 인기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/3053c43e-525a-47a8-8756-a116c824e73c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
             <link>https://www.elle.co.kr/article/68875</link>
@@ -59,14 +67,6 @@
             <pubDate>Tue, 16 Aug 2022 09:19:31 GMT</pubDate>
             <content:encoded><![CDATA[뜨거운 태양의 선물, 여름 제철 재료로 할 수 있는 간단한 한 끼]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/2e7cedbf-57de-45cf-88d4-0d70a9df3dfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 한국도 달에 간다! 최초 달 탐사선 다누리, 드디어 자체 비행 시작]]></title>
-            <link>https://www.elle.co.kr/article/68634</link>
-            <guid>https://www.elle.co.kr/article/68634</guid>
-            <pubDate>Fri, 12 Aug 2022 23:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[달 궤도 도착 예상 시점은 올 12월.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/cd8c2db6-d138-47a4-84f6-ebff3350a718.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
