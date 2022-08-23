@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 23:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 01:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1316,6 +1316,14 @@
             <content:encoded><![CDATA[선예가 픽한 이 계절과 딱 어울리는 노래들.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[드디어 이준호와 사귀기 시작한 우영우, 시즌 2에선 아빠에게 부케 줄 수 있을까? #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/69036</link>
+            <guid>https://www.elle.co.kr/article/69036</guid>
+            <pubDate>Tue, 23 Aug 2022 01:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[시즌 2를 예고하며 종영한 ‘이상한 변호사 우영우’]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/5c2cb3a7-52c7-466a-bb40-20c8b4363ed6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인류 절반인 여성에 대하여! 영화 ‘우먼’ (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/68969</link>
             <guid>https://www.elle.co.kr/article/68969</guid>
@@ -1345,7 +1353,6 @@
             <guid>https://www.elle.co.kr/article/68875</guid>
             <pubDate>Tue, 16 Aug 2022 10:19:22 GMT</pubDate>
             <content:encoded><![CDATA[음악을 소비하지 않고 소유하는 가장 좋은 방법. 손으로 직접 고르는 재미, 레코드숍 투어를 떠...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/bfc0e451-5139-489f-ba7d-4b4151a9460f.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[수원 왕갈비 통닭에 이어 '닭강정'! 류승룡X차은우 출연 검토 중인 이병헌의 '치킨 유니버스'는? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1399,13 +1406,6 @@
             <link>https://www.elle.co.kr/article/68585</link>
             <guid>https://www.elle.co.kr/article/68585</guid>
             <pubDate>Wed, 03 Aug 2022 05:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[임윤아 '빅마우스' vs 김세정 '오늘의 웹툰', 금토극 승자는? #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/68533</link>
-            <guid>https://www.elle.co.kr/article/68533</guid>
-            <pubDate>Tue, 02 Aug 2022 04:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[누아르 ‘걸크러시’ 임윤아 vs 힐링드 ‘인간비타민’ 김세정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상적인듯 기묘한 도자 작품! 아티스트 신다인이 발견한 틈과 구멍 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
