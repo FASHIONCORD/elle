@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 21:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 23:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 데일리백? 폴로 ID백을 든 채영과 민주의 패션 모먼트]]></title>
+            <link>https://www.elle.co.kr/article/69030</link>
+            <guid>https://www.elle.co.kr/article/69030</guid>
+            <pubDate>Tue, 23 Aug 2022 23:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[고민없이 따라하고 싶은 스타일, 트와이스 채영과 배우 김민주의 폴로 랄프 로렌이 함께했습니다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/1a81941e-3e94-43df-91cb-ed725994f6e1.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[여름에 더욱 빛을 발하는 과감한 패턴 스타일링 5]]></title>
+            <link>https://www.elle.co.kr/article/69019</link>
+            <guid>https://www.elle.co.kr/article/69019</guid>
+            <pubDate>Tue, 23 Aug 2022 23:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[화사한 플로럴 패턴부터 시원한 스트라이프까지, 각양각색 스타의 패턴 스타일링을 살펴보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/5d92f440-0c13-4dbc-bee6-c6ee84866048.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['펫'션 월드]]></title>
+            <link>https://www.elle.co.kr/article/68992</link>
+            <guid>https://www.elle.co.kr/article/68992</guid>
+            <pubDate>Tue, 23 Aug 2022 23:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[반려동물의 럭셔리 라이프를 위한 하이 '펫'션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/9cca3698-6617-4363-a285-73797ff6ff84.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일상적인듯 기묘한 도자 작품! 아티스트 신다인이 발견한 틈과 구멍]]></title>
             <link>https://www.elle.co.kr/article/68987</link>
@@ -46,30 +70,6 @@
             <pubDate>Sun, 21 Aug 2022 15:15:25 GMT</pubDate>
             <content:encoded><![CDATA[강민경이 ‘내돈내산’한 무조건 뽕 뽑는 운동화는 무엇?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/6d33b5a8-1cfe-4c8b-9b8f-963f778aea79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리츠한센의 150세 기념 파티에 다녀오다 #디자인 #전설 #모험기]]></title>
-            <link>https://www.elle.co.kr/article/68920</link>
-            <guid>https://www.elle.co.kr/article/68920</guid>
-            <pubDate>Sun, 21 Aug 2022 09:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[덴마크 브랜드 프리츠한센이 무려 150년 동안 사랑받을 수 있었던 비결은 무엇일까.  그들의 전...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/9e444354-ac4d-4dab-8449-400714a54a32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스트 탱크]]></title>
-            <link>https://www.elle.co.kr/article/68919</link>
-            <guid>https://www.elle.co.kr/article/68919</guid>
-            <pubDate>Sat, 20 Aug 2022 03:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[거리로 진격 중인 화이트 탱크톱의 행렬.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/015c825d-b6bb-4a02-8e2e-4c6912d7ee5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 스카프라고? 트렌디하게 스카프 입는 법]]></title>
-            <link>https://www.elle.co.kr/article/68898</link>
-            <guid>https://www.elle.co.kr/article/68898</guid>
-            <pubDate>Fri, 19 Aug 2022 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[스카프 한 장이면 힙한 여름 스타일 완전 가능! 태연, 카리나부터 차정원까지 셀럽의 스카프 스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/52298cf0-c074-4daf-8a62-6e7e771d20df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
