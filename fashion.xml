@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 10:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 11:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올가을 꼭 입고 싶은 디올의 키 룩]]></title>
+            <link>https://www.elle.co.kr/article/69033</link>
+            <guid>https://www.elle.co.kr/article/69033</guid>
+            <pubDate>Wed, 24 Aug 2022 11:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[높고 푸른 저 하늘을 향하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/826680b8-cbee-4523-a842-e2bff66381a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 F/W 오트 쿠튀르 리포트]]></title>
             <link>https://www.elle.co.kr/article/69032</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Aug 2022 04:11:50 GMT</pubDate>
             <content:encoded><![CDATA[프레드의 새로운 뮤즈가 된 아이브의 장원영.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/3ea87845-17d9-4ab5-95bb-94c75da914bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손석구와 다미아니 그 자체로]]></title>
-            <link>https://www.elle.co.kr/article/68892</link>
-            <guid>https://www.elle.co.kr/article/68892</guid>
-            <pubDate>Tue, 23 Aug 2022 04:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[배우 손석구와 다미아니가 함께하는 새롭고 찬란한 시대. 그들의 빛나는 오라는 바로 이곳에 존...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/6094dcaf-53c9-44f8-beda-04dc9255880c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
