@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 04:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 07:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벌써 대유잼 각! <육사오>의 로또 맞은 배우들]]></title>
+            <link>https://www.elle.co.kr/article/69017</link>
+            <guid>https://www.elle.co.kr/article/69017</guid>
+            <pubDate>Wed, 24 Aug 2022 07:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;육사오(6/45)&gt;로&nbsp;조우한&nbsp;배우들.&nbsp;고경표, 이이경, 음문석, 박세완.&nbsp;]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/68790d74-8520-4a06-a905-cda7935ed5bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이기우, 9월 제주도 결혼! 지혜롭고 정의로운 사람이라는 예비 신부는?]]></title>
+            <link>https://www.elle.co.kr/article/69038</link>
+            <guid>https://www.elle.co.kr/article/69038</guid>
+            <pubDate>Wed, 24 Aug 2022 07:15:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/bec3c777-a2ce-47a1-b3ef-13d90c6b8c16.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단발도 앞머리도 갓벽! 이성경의 머리하는 날]]></title>
             <link>https://www.elle.co.kr/article/69014</link>
@@ -54,21 +69,6 @@
             <pubDate>Tue, 23 Aug 2022 05:53:13 GMT</pubDate>
             <content:encoded><![CDATA[어디서도 본 적 없는 독보적인 캐릭터가 탄생했다. 배우 주현영의 의미심장한 등장.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/b7be31fd-f534-4f26-bc56-591eae18ee13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9년 째 서로 킹 받게 하는 사이?! 9살 차이 찐친 박진주X곽동연]]></title>
-            <link>https://www.elle.co.kr/article/68988</link>
-            <guid>https://www.elle.co.kr/article/68988</guid>
-            <pubDate>Mon, 22 Aug 2022 15:20:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/be4462f4-b2c6-48de-825e-471f1bea6bc8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘힙’한 스타일링의 한 끗, 스포티 선글라스 활용법]]></title>
-            <link>https://www.elle.co.kr/article/68982</link>
-            <guid>https://www.elle.co.kr/article/68982</guid>
-            <pubDate>Mon, 22 Aug 2022 15:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[일단 도전해 볼 것. 사이클 선수가 쓸 것 같은 스포티 선글라스만 있으면 ‘힙’ 레벨 상승 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/20/74562be3-cea8-4128-87a4-8f7e59eb6bf6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
