@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 15:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 17:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 계절에 마주하는 막스마라]]></title>
+            <link>https://www.elle.co.kr/article/69067</link>
+            <guid>https://www.elle.co.kr/article/69067</guid>
+            <pubDate>Wed, 24 Aug 2022 17:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[묵직하고 고요한 존재감으로 거리를 물들이는 뉴 룩의 낭만.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/264937cf-536d-417c-9408-605310779240.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소중한 기록]]></title>
+            <link>https://www.elle.co.kr/article/69070</link>
+            <guid>https://www.elle.co.kr/article/69070</guid>
+            <pubDate>Wed, 24 Aug 2022 17:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[신간 &lt;빅토리 노트&gt;와 &lt;파도를 넘어선 케이크&gt;가 담아낸 소중한 기록들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/51178e3c-8e5f-45fa-bc93-247b6e5546cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올가을 꼭 입고 싶은 디올의 키 룩]]></title>
             <link>https://www.elle.co.kr/article/69033</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 23 Aug 2022 04:11:50 GMT</pubDate>
             <content:encoded><![CDATA[시작은 하수구 구멍이었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/51b36d42-2ba7-42c1-9629-24d914143581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘힙’한 스타일링의 한 끗, 스포티 선글라스 활용법]]></title>
-            <link>https://www.elle.co.kr/article/68982</link>
-            <guid>https://www.elle.co.kr/article/68982</guid>
-            <pubDate>Tue, 23 Aug 2022 04:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[일단 도전해 볼 것. 사이클 선수가 쓸 것 같은 스포티 선글라스만 있으면 ‘힙’ 레벨 상승 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/20/74562be3-cea8-4128-87a4-8f7e59eb6bf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장원영의 빛나는 순간]]></title>
-            <link>https://www.elle.co.kr/article/68957</link>
-            <guid>https://www.elle.co.kr/article/68957</guid>
-            <pubDate>Tue, 23 Aug 2022 04:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[프레드의 새로운 뮤즈가 된 아이브의 장원영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/3ea87845-17d9-4ab5-95bb-94c75da914bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

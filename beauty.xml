@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 15:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 17:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로고침]]></title>
+            <link>https://www.elle.co.kr/article/68946</link>
+            <guid>https://www.elle.co.kr/article/68946</guid>
+            <pubDate>Wed, 24 Aug 2022 17:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[토너 패드로 매일 달라지는 피부.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/42e045b9-ce89-470f-8b3d-38e7e230d67f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 뜨겁게 사랑할 시간]]></title>
             <link>https://www.elle.co.kr/article/68893</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 16 Aug 2022 09:14:51 GMT</pubDate>
             <content:encoded><![CDATA[여름에 꼭 필요한 아이템들은 정해져 있죠. 하지만 그중 무엇을 고를지 고민이라면? 송경아가 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/567d3c6d-1bad-4235-9fff-2d626fa9a6eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드 까멜리아가 활짝 핀 N°1 DE CHANEL GARDEN]]></title>
-            <link>https://www.elle.co.kr/article/68694</link>
-            <guid>https://www.elle.co.kr/article/68694</guid>
-            <pubDate>Tue, 16 Aug 2022 09:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[강인한 생명력을 지닌 레드 까멜리아의 비밀을 만나는 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/a26df913-dd4a-4380-935a-5db2f4c48ced.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
