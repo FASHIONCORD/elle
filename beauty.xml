@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 23:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 06:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이미지 변신에 탁월한 눈썹 정리, 아이브로우 메이크업 Tip]]></title>
+            <link>https://www.elle.co.kr/article/68952</link>
+            <guid>https://www.elle.co.kr/article/68952</guid>
+            <pubDate>Thu, 25 Aug 2022 06:31:02 GMT</pubDate>
+            <content:encoded><![CDATA[인상을 결정하는 눈썹 그리는 법! 기본적인 팁부터 눈썹결을 살리는 방법까지, 엄지원이 알려주는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/858738a0-8a66-4253-bf34-a3e4222efd05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 컴백! 바쁜 스케줄에도 체력과 체형 둘 다 완성한 이들의 운동과 식단은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/68948</link>
+            <guid>https://www.elle.co.kr/article/68948</guid>
+            <pubDate>Thu, 25 Aug 2022 06:31:02 GMT</pubDate>
+            <content:encoded><![CDATA[K팝 걸그룹 최초로 MTV VMAs 무대에 서는 블랙핑크!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/804ae301-cc73-4030-bdc7-179b54c6b61e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로고침]]></title>
             <link>https://www.elle.co.kr/article/68946</link>
@@ -54,21 +70,6 @@
             <pubDate>Thu, 18 Aug 2022 19:14:41 GMT</pubDate>
             <content:encoded><![CDATA[적어도 이 음식들 때문에 다이어트가 망하는 건 아님!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/24eaa96a-9dba-4ab8-ae2b-48b1cff37cd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여전히 소녀시대! 5년 만에 컴백한 소시 멤버들 체형 유지 비결 모음.zip #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/68768</link>
-            <guid>https://www.elle.co.kr/article/68768</guid>
-            <pubDate>Tue, 16 Aug 2022 15:17:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/07f18231-af95-477e-af69-47ae732d8c98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름을 위한 내돈내산 뷰티템 6]]></title>
-            <link>https://www.elle.co.kr/article/68755</link>
-            <guid>https://www.elle.co.kr/article/68755</guid>
-            <pubDate>Tue, 16 Aug 2022 09:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[여름에 꼭 필요한 아이템들은 정해져 있죠. 하지만 그중 무엇을 고를지 고민이라면? 송경아가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/567d3c6d-1bad-4235-9fff-2d626fa9a6eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
