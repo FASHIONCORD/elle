@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 11:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 12:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[튜닝의 끝은 순정! 꾸안꾸 네일 스타일링 팁]]></title>
+            <link>https://www.elle.co.kr/article/68965</link>
+            <guid>https://www.elle.co.kr/article/68965</guid>
+            <pubDate>Thu, 25 Aug 2022 12:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[잦은 네일 아트에 손톱이 엉망이 되었다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/e0d043e7-2454-467d-8779-b43ec0f5994d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이미지 변신에 탁월한 눈썹 정리, 아이브로우 메이크업 Tip]]></title>
             <link>https://www.elle.co.kr/article/68952</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Aug 2022 09:16:44 GMT</pubDate>
             <content:encoded><![CDATA[땀과 피지에도 아랑곳 않는 일루미네이팅 파우더들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/a8b94251-92c2-489e-806b-15ec71d3f909.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 중 라면 먹어도 된다? 의외로 살 안 찌는 음식 BEST 3]]></title>
-            <link>https://www.elle.co.kr/article/68834</link>
-            <guid>https://www.elle.co.kr/article/68834</guid>
-            <pubDate>Thu, 18 Aug 2022 19:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[적어도 이 음식들 때문에 다이어트가 망하는 건 아님!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/24eaa96a-9dba-4ab8-ae2b-48b1cff37cd1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
