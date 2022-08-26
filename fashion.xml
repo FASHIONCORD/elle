@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 04:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 06:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[익숙한 물건에서 찾아낸 아름다움]]></title>
+            <link>https://www.elle.co.kr/article/69105</link>
+            <guid>https://www.elle.co.kr/article/69105</guid>
+            <pubDate>Fri, 26 Aug 2022 06:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[일상의 조각들이 작품이 되는 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/7b93f312-d947-4adb-8147-7283dbe3a15d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬들이 묻고, 세훈이 답했다! 자기관리 팁부터 향수 취향, 패션 철학까지. zip]]></title>
             <link>https://www.elle.co.kr/article/69091</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Aug 2022 07:14:39 GMT</pubDate>
             <content:encoded><![CDATA[파리를 물들인 오트 쿠튀르 컬렉션에서 있었던 일들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/fa4ebf7e-89ca-401e-bf05-1abbf23f17ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 데일리백? 폴로 ID백을 든 채영과 민주의 패션 모먼트]]></title>
-            <link>https://www.elle.co.kr/article/69030</link>
-            <guid>https://www.elle.co.kr/article/69030</guid>
-            <pubDate>Tue, 23 Aug 2022 23:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[고민없이 따라하고 싶은 스타일, 트와이스 채영과 배우 김민주의 폴로 랄프 로렌이 함께했습니다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/1a81941e-3e94-43df-91cb-ed725994f6e1.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
