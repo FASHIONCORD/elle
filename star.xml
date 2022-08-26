@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 01:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 04:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬들이 묻고, 세훈이 답했다! 자기관리 팁부터 향수 취향, 패션 철학까지. zip]]></title>
+            <link>https://www.elle.co.kr/article/69091</link>
+            <guid>https://www.elle.co.kr/article/69091</guid>
+            <pubDate>Fri, 26 Aug 2022 04:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 가을은 세훈을 알아가기 딱 좋은 계절.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/8d8adbf1-3867-46ee-8454-9cef99beb460.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단아하고 사랑스러운 매력이 가득! 인간 비타민 박은빈의 스타일 #옷잘입는언니]]></title>
             <link>https://www.elle.co.kr/article/69085</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/69038</guid>
             <pubDate>Thu, 25 Aug 2022 16:20:23 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/bec3c777-a2ce-47a1-b3ef-13d90c6b8c16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단발도 앞머리도 갓벽! 이성경의 머리하는 날]]></title>
-            <link>https://www.elle.co.kr/article/69014</link>
-            <guid>https://www.elle.co.kr/article/69014</guid>
-            <pubDate>Thu, 25 Aug 2022 16:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕 프리미엄 헤어 케어 브랜드 오리베와 함께한 이성경의 헤어 변신.&nbsp;그 안에서 조형적 아름...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/eb9f0ec0-1b6e-4793-a045-ca047dcb6822.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

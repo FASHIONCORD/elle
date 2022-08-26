@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 01:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 04:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반려동물의 죽음은 왜 이토록 큰 상처를 남길까?]]></title>
+            <link>https://www.elle.co.kr/article/68843</link>
+            <guid>https://www.elle.co.kr/article/68843</guid>
+            <pubDate>Fri, 26 Aug 2022 04:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[반려동물을 떠나보낸 후 충분히 위로받지 못한 당신에게]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/15/96ab3ad2-c854-4e97-9d61-1756c724b281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빈곤한 멘탈부터 버려야 합니다_돈쓸신잡 #58]]></title>
             <link>https://www.elle.co.kr/article/68792</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
             <content:encoded><![CDATA[인간관계 역시 알고리즘이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/e965be22-e122-4b7f-8a42-b6b8f22d64a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 한국 사람들은 왜 아무튼이라는 말을 자주 쓸까?]]></title>
-            <link>https://www.elle.co.kr/article/68624</link>
-            <guid>https://www.elle.co.kr/article/68624</guid>
-            <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[기후 위기 속 '아무튼 ' 대처법]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/93312cfc-614d-458f-9ebf-fa51b9d5a088.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
