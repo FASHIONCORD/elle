@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 14:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 15:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[분위기에 취한다! 음악과 함께 시대를 넘나들 수 있는 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/68896</link>
+            <guid>https://www.elle.co.kr/article/68896</guid>
+            <pubDate>Fri, 26 Aug 2022 15:23:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/a5314db1-1e2a-4fa7-9918-953f65fd2187.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[충북 향토 음식 도리뱅뱅이와 어죽, 물쫄면까지! 뜨끈하게 즐기는 영동 맛집 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/68895</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/68716</guid>
             <pubDate>Thu, 25 Aug 2022 20:22:35 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/38827e29-73a9-45ab-9899-f4e863ca34db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금이 딱! 여름 레서피]]></title>
-            <link>https://www.elle.co.kr/article/68661</link>
-            <guid>https://www.elle.co.kr/article/68661</guid>
-            <pubDate>Thu, 25 Aug 2022 20:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 태양의 선물, 여름 제철 재료로 할 수 있는 간단한 한 끼]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/2e7cedbf-57de-45cf-88d4-0d70a9df3dfa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

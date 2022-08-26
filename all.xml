@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 14:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 15:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjVfOSAg/MDAxNjI0NjAwMTQyNTYz.A8xddAnAOQkosPVXN-g6p_mzQ0D7PTTD8FScEssUw2sg.XLliav_43cjfB-Na4uU_SOgvyRpYF5YGc_1kBmjUuq4g.JPEG/I_mt9ToqUIfjfeMCilIXG3mTH-RA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[루이 비통과 장난감 스토리 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/69106</link>
+            <guid>https://www.elle.co.kr/article/69106</guid>
+            <pubDate>Fri, 26 Aug 2022 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[발랄한 에너지로 가득한 트위스트 백과 만난 또 하나의 토이 스토리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/933edfc9-3838-45dd-ab5e-da5691b0b3e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[익숙한 물건에서 찾아낸 아름다움 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/69105</link>
             <guid>https://www.elle.co.kr/article/69105</guid>
@@ -1023,14 +1031,6 @@
             <pubDate>Wed, 24 Aug 2022 11:15:44 GMT</pubDate>
             <content:encoded><![CDATA[높고 푸른 저 하늘을 향하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/826680b8-cbee-4523-a842-e2bff66381a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 F/W 오트 쿠튀르 리포트 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/69032</link>
-            <guid>https://www.elle.co.kr/article/69032</guid>
-            <pubDate>Wed, 24 Aug 2022 07:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[파리를 물들인 오트 쿠튀르 컬렉션에서 있었던 일들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/fa4ebf7e-89ca-401e-bf05-1abbf23f17ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[튜닝의 끝은 순정! 꾸안꾸 네일 스타일링 팁 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1502,6 +1502,13 @@
             <content:encoded><![CDATA[작품으로 다시 만나는 리 알렉산더 맥퀸.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[분위기에 취한다! 음악과 함께 시대를 넘나들 수 있는 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/68896</link>
+            <guid>https://www.elle.co.kr/article/68896</guid>
+            <pubDate>Fri, 26 Aug 2022 15:23:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/a5314db1-1e2a-4fa7-9918-953f65fd2187.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[충북 향토 음식 도리뱅뱅이와 어죽, 물쫄면까지! 뜨끈하게 즐기는 영동 맛집 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/68895</link>
             <guid>https://www.elle.co.kr/article/68895</guid>
@@ -1553,14 +1560,6 @@
             <guid>https://www.elle.co.kr/article/68716</guid>
             <pubDate>Thu, 25 Aug 2022 20:22:35 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/38827e29-73a9-45ab-9899-f4e863ca34db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금이 딱! 여름 레서피 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/68661</link>
-            <guid>https://www.elle.co.kr/article/68661</guid>
-            <pubDate>Thu, 25 Aug 2022 20:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 태양의 선물, 여름 제철 재료로 할 수 있는 간단한 한 끼]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/2e7cedbf-57de-45cf-88d4-0d70a9df3dfa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반려동물의 죽음은 왜 이토록 큰 상처를 남길까? (엘르 코리아 ─ 소사이어티)]]></title>

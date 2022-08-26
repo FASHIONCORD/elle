@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 14:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 15:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루이 비통과 장난감 스토리]]></title>
+            <link>https://www.elle.co.kr/article/69106</link>
+            <guid>https://www.elle.co.kr/article/69106</guid>
+            <pubDate>Fri, 26 Aug 2022 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[발랄한 에너지로 가득한 트위스트 백과 만난 또 하나의 토이 스토리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/933edfc9-3838-45dd-ab5e-da5691b0b3e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[익숙한 물건에서 찾아낸 아름다움]]></title>
             <link>https://www.elle.co.kr/article/69105</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Aug 2022 11:15:44 GMT</pubDate>
             <content:encoded><![CDATA[높고 푸른 저 하늘을 향하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/826680b8-cbee-4523-a842-e2bff66381a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 F/W 오트 쿠튀르 리포트]]></title>
-            <link>https://www.elle.co.kr/article/69032</link>
-            <guid>https://www.elle.co.kr/article/69032</guid>
-            <pubDate>Wed, 24 Aug 2022 07:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[파리를 물들인 오트 쿠튀르 컬렉션에서 있었던 일들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/fa4ebf7e-89ca-401e-bf05-1abbf23f17ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
