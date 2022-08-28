@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 17:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 18:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1501,6 +1501,14 @@
             <content:encoded><![CDATA[작품으로 다시 만나는 리 알렉산더 맥퀸.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[안소희 Pick! 소식좌도 감동한 한.중.일식 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/68899</link>
+            <guid>https://www.elle.co.kr/article/68899</guid>
+            <pubDate>Sun, 28 Aug 2022 18:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[안소희가 먹방을 하고 온 곳은 어디? 한식부터 일식까지, 소식좌의 식욕도 돋우는 맛집 리스트...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/2c2d3e2f-622d-41fe-8b76-d9bd055ed87b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[분위기에 취한다! 음악과 함께 시대를 넘나들 수 있는 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/68896</link>
             <guid>https://www.elle.co.kr/article/68896</guid>
@@ -1552,13 +1560,6 @@
             <guid>https://www.elle.co.kr/article/68741</guid>
             <pubDate>Thu, 25 Aug 2022 20:22:35 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/95ca76a3-d184-4026-888b-a522fcc3ab55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그래머블 그 자체! 심상치 않은 비주얼의 만두-버거-도넛이 있는 한남동 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/68716</link>
-            <guid>https://www.elle.co.kr/article/68716</guid>
-            <pubDate>Thu, 25 Aug 2022 20:22:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/38827e29-73a9-45ab-9899-f4e863ca34db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반려동물의 죽음은 왜 이토록 큰 상처를 남길까? (엘르 코리아 ─ 소사이어티)]]></title>
