@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 23:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 01:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴백과 동시에 200만 뷰X200만 장 기록! K-걸그룹 최초로 VMAs 간 블랙핑크 사진 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/70188</link>
+            <guid>https://www.elle.co.kr/article/70188</guid>
+            <pubDate>Mon, 29 Aug 2022 01:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[무려 1년10개월 만의 컴백.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/ab97832b-ab56-4de0-a421-1d3a5b974a86.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신해경과 사뮈의 극적인 조합, 마콤마 #2주의뮤지션]]></title>
             <link>https://www.elle.co.kr/article/70138</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/67515</guid>
             <pubDate>Thu, 25 Aug 2022 16:21:18 GMT</pubDate>
             <content:encoded><![CDATA[그 동안 멤버들은 믹스 테잎 등 무료 공개 음원으로 솔로 활동을 해 왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/80b3f18c-af3d-4da2-a8b2-fd315bfd3fe6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[또 나온 K-천재, 반 클라이번 콩쿨 역대 최연소 우승자 임윤찬은 욕심이 없다]]></title>
@@ -93,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/66526</guid>
             <pubDate>Thu, 25 Aug 2022 16:21:18 GMT</pubDate>
             <content:encoded><![CDATA[행성에서 돌아와 주변으로 눈을 돌린 [Object] 시리즈]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유럽 최대규모 케이팝 행사, 그 플렉스의 현장으로!]]></title>
-            <link>https://www.elle.co.kr/article/66415</link>
-            <guid>https://www.elle.co.kr/article/66415</guid>
-            <pubDate>Thu, 25 Aug 2022 16:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[이게 진짜 플렉스지! 독일 프랑크푸르트에 카이와 아이브가 간 이유]]></content:encoded>
         </item>
     </channel>
 </rss>
