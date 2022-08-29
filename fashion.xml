@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 01:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 04:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 F/W 시즌 미리 알고 있으면 좋을 것들.]]></title>
+            <link>https://www.elle.co.kr/article/70103</link>
+            <guid>https://www.elle.co.kr/article/70103</guid>
+            <pubDate>Mon, 29 Aug 2022 04:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022 F/W 뉴 시즌 예습. 지금 바로 리스트업해야 할 13개의 에센셜 리스트를 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/8f15900b-592e-4ae4-8c75-f2318caae417.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인싸력 만렙 수현의 여행템 추천 5]]></title>
             <link>https://www.elle.co.kr/article/70137</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 Aug 2022 11:14:18 GMT</pubDate>
             <content:encoded><![CDATA[한 겹, 두 겹, 세 겹 층층이 쌓아 올린 트위드 인스톨레이션과 우아한 트위드 수트의 만남.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/0871b140-a224-43f0-9944-31ea74062bf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소중한 기록]]></title>
-            <link>https://www.elle.co.kr/article/69070</link>
-            <guid>https://www.elle.co.kr/article/69070</guid>
-            <pubDate>Wed, 24 Aug 2022 17:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[신간 &lt;빅토리 노트&gt;와 &lt;파도를 넘어선 케이크&gt;가 담아낸 소중한 기록들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/51178e3c-8e5f-45fa-bc93-247b6e5546cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

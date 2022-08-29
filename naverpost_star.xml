@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ STAR</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 01:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 04:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유산소 운동, 수영, 필라테스! 아이브 멤버들이 선택한 운동법은?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34387088&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34387088&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 29 Aug 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjlfMjUy/MDAxNjYxNzQxODE0MDEy.LBcNfgwaPGRLFhuRF68UMWJMQbo2Yn74y9NPEg03c9sg.Y1YIOdFBQuluB8g5GLYFPQ7-fd795aGXevPoNGxRRNEg.JPEG/IRsh5Af7LvPGUsD4JnlaMeFaGdiA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바쁠수록 체력 관리에도 진심! 블랙핑크가 즐겨하는 운동은?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34354233&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:30:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTVfMTYy/MDAxNjQ5OTc3OTQxOTI2.kEpMLBa74gGP5cjO_duUQ96kIzTKQ7X8ll_TfsimnzMg.iSrwvrF1Oz-L8HJ9GKkqR0hDiPJxuR5mkfbSQIA7q8og.JPEG/IVOIKZs0XPSfdNK0OAeStRezQc4s.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시누이와 이런 케미라니! 발레단 시절부터 즐겨먹는다는 윤혜진표 레시피 2]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33624909&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33624909&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 02:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTRfNDcg/MDAxNjQ5ODkxNzEwNTc0.Cnn-jiLmNo1x5sXG8ta1v8j5EDbXqzyQqW-MfStfg54g.luvcpvHNV4IDa4u9qhonuXePugA50V_C_8pFv7i7ZGwg.PNG/Idzix6J-wxRY0jcaCpBJ5Z_hS2AI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
