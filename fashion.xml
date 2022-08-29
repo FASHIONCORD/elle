@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 16:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 17:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새 시즌을 장악한 발렌시아가 전사]]></title>
+            <link>https://www.elle.co.kr/article/70184</link>
+            <guid>https://www.elle.co.kr/article/70184</guid>
+            <pubDate>Mon, 29 Aug 2022 17:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[승리는 나의 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/9cd2e648-0c3a-41b5-a9f5-74a3e1be54b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언제 어디서든 어울리는 보테가 베네타식 어울림]]></title>
             <link>https://www.elle.co.kr/article/70182</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Aug 2022 15:19:36 GMT</pubDate>
             <content:encoded><![CDATA[발랄한 에너지로 가득한 트위스트 백과 만난 또 하나의 토이 스토리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/933edfc9-3838-45dd-ab5e-da5691b0b3e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[익숙한 물건에서 찾아낸 아름다움]]></title>
-            <link>https://www.elle.co.kr/article/69105</link>
-            <guid>https://www.elle.co.kr/article/69105</guid>
-            <pubDate>Fri, 26 Aug 2022 06:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[일상의 조각들이 작품이 되는 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/7b93f312-d947-4adb-8147-7283dbe3a15d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
