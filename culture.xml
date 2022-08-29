@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 09:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 15:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 이준호와 사귀기 시작한 우영우, 시즌 2에선 아빠에게 부케 줄 수 있을까? #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/69036</link>
+            <guid>https://www.elle.co.kr/article/69036</guid>
+            <pubDate>Mon, 29 Aug 2022 15:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[시즌 2를 예고하며 종영한 ‘이상한 변호사 우영우’]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/5c2cb3a7-52c7-466a-bb40-20c8b4363ed6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상적인듯 기묘한 도자 작품! 아티스트 신다인이 발견한 틈과 구멍]]></title>
+            <link>https://www.elle.co.kr/article/68987</link>
+            <guid>https://www.elle.co.kr/article/68987</guid>
+            <pubDate>Mon, 29 Aug 2022 15:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[시작은 하수구 구멍이었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/51b36d42-2ba7-42c1-9629-24d914143581.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인류 절반인 여성에 대하여! 영화 ‘우먼’]]></title>
             <link>https://www.elle.co.kr/article/68969</link>
@@ -53,22 +69,6 @@
             <guid>https://www.elle.co.kr/article/68816</guid>
             <pubDate>Thu, 25 Aug 2022 16:21:08 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/763f6767-33fd-4b2e-8f5b-a626ad6ac59d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명랑함과 우울함 그 사이의 최정윤 #2주의뮤지션]]></title>
-            <link>https://www.elle.co.kr/article/68813</link>
-            <guid>https://www.elle.co.kr/article/68813</guid>
-            <pubDate>Thu, 18 Aug 2022 14:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;착한 사람들이 먼저 가는 우주&gt;로 던지는 희망.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/15/d8d08fcf-bb4a-48e4-875f-ac168a023fec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이자벨 위페르, 미아 와시코브스카, 레아 세이두가 이 감독과 작업한 이유는?]]></title>
-            <link>https://www.elle.co.kr/article/68803</link>
-            <guid>https://www.elle.co.kr/article/68803</guid>
-            <pubDate>Thu, 25 Aug 2022 16:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[베르히만 아일랜드의 미아 한센 러브가 말하는 친밀함에 대해]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/6b985676-7ff6-4c5b-b141-464f4cd715e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

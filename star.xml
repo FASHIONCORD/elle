@@ -4,9 +4,32 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 09:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 15:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 저널리스트 민용준이 13인의 감독과 나눈 34시간의 대화]]></title>
+            <link>https://www.elle.co.kr/article/70181</link>
+            <guid>https://www.elle.co.kr/article/70181</guid>
+            <pubDate>Mon, 29 Aug 2022 15:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[인터뷰집 &lt;어제의 영화. 오늘의 감독. 내일의 대화&gt;가 확장시킨 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/73d7bb48-9e28-4772-9fa1-f3b665da0aca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코드 쿤스트X샤이니 민호, 알고 보니 초딩 시절부터 절친?! (feat.키)]]></title>
+            <link>https://www.elle.co.kr/article/70179</link>
+            <guid>https://www.elle.co.kr/article/70179</guid>
+            <pubDate>Mon, 29 Aug 2022 15:18:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/28/47656ce7-6fb5-4f76-a3df-b5ddee3059b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노윤서 <엘르> 9월호에서 화보 장인 등극]]></title>
+            <link>https://www.elle.co.kr/article/70116</link>
+            <guid>https://www.elle.co.kr/article/70116</guid>
+            <pubDate>Mon, 29 Aug 2022 15:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[배우 노윤서, 까르띠에 아이콘 컬렉션과 함께 &lt;엘르&gt; 9월호 화보 완성.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/09ce1de5-58c8-47cc-a9a0-bed619d36733.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신해경과 사뮈의 극적인 조합, 마콤마 #2주의뮤지션]]></title>
             <link>https://www.elle.co.kr/article/70138</link>
@@ -44,29 +67,6 @@
             <pubDate>Fri, 26 Aug 2022 04:20:09 GMT</pubDate>
             <content:encoded><![CDATA[2022년 가을은 세훈을 알아가기 딱 좋은 계절.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/8d8adbf1-3867-46ee-8454-9cef99beb460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단아하고 사랑스러운 매력이 가득! 인간 비타민 박은빈의 스타일 #옷잘입는언니]]></title>
-            <link>https://www.elle.co.kr/article/69085</link>
-            <guid>https://www.elle.co.kr/article/69085</guid>
-            <pubDate>Thu, 25 Aug 2022 16:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 속 패션부터 시상식, 사복 패션까지! 대세 of 대세로 떠오른 '믿보' 배우 박은빈의 SN...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/069996cb-7191-4db2-8479-fafc9594e471.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럽스타 대장 에릭이 신화 첫 아빠가 된다? 나혜미, 결혼 6년 만의 임신 소식!]]></title>
-            <link>https://www.elle.co.kr/article/69082</link>
-            <guid>https://www.elle.co.kr/article/69082</guid>
-            <pubDate>Thu, 25 Aug 2022 16:20:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/6975624d-7698-401f-adb1-a85f1c94bd48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이브 가을의 계절이 돌아왔다. 신곡 'After LIKE'로 컴백한 가을의 '가을 모먼트']]></title>
-            <link>https://www.elle.co.kr/article/69049</link>
-            <guid>https://www.elle.co.kr/article/69049</guid>
-            <pubDate>Thu, 25 Aug 2022 16:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[아이브의 '맏언니'이자 감성 래퍼, 아이브 가을의 첫 단독 화보.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/7d45fe84-ce73-4d06-a357-af79b1374876.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
