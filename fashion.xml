@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 06:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 09:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언제 어디서든 어울리는 보테가 베네타식 어울림]]></title>
+            <link>https://www.elle.co.kr/article/70182</link>
+            <guid>https://www.elle.co.kr/article/70182</guid>
+            <pubDate>Mon, 29 Aug 2022 09:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[장소는 중요하지 않아.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/f5ea34b4-887b-4894-b26f-3f591fc5a52d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사이즈 업]]></title>
+            <link>https://www.elle.co.kr/article/70173</link>
+            <guid>https://www.elle.co.kr/article/70173</guid>
+            <pubDate>Mon, 29 Aug 2022 09:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로 미니에서 슈퍼 맥시로 거거익선!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/27/f9bbcf36-95a4-4e1c-b360-c922d44d757c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노윤서의 붉게 물든 시간]]></title>
+            <link>https://www.elle.co.kr/article/70158</link>
+            <guid>https://www.elle.co.kr/article/70158</guid>
+            <pubDate>Mon, 29 Aug 2022 09:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 아이콘을 꿈꾸다. 까르띠에의 아이콘 컬렉션을 만나다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/6292bd9f-01cf-4da3-aa36-35709d8ad2ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 F/W 시즌 미리 알고 있으면 좋을 것들.]]></title>
             <link>https://www.elle.co.kr/article/70103</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 26 Aug 2022 06:36:35 GMT</pubDate>
             <content:encoded><![CDATA[일상의 조각들이 작품이 되는 순간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/7b93f312-d947-4adb-8147-7283dbe3a15d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬들이 묻고, 세훈이 답했다! 자기관리 팁부터 향수 취향, 패션 철학까지. zip]]></title>
-            <link>https://www.elle.co.kr/article/69091</link>
-            <guid>https://www.elle.co.kr/article/69091</guid>
-            <pubDate>Thu, 25 Aug 2022 16:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 가을은 세훈을 알아가기 딱 좋은 계절.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/8d8adbf1-3867-46ee-8454-9cef99beb460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단아하고 사랑스러운 매력이 가득! 인간 비타민 박은빈의 스타일 #옷잘입는언니]]></title>
-            <link>https://www.elle.co.kr/article/69085</link>
-            <guid>https://www.elle.co.kr/article/69085</guid>
-            <pubDate>Thu, 25 Aug 2022 11:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 속 패션부터 시상식, 사복 패션까지! 대세 of 대세로 떠오른 '믿보' 배우 박은빈의 SN...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/069996cb-7191-4db2-8479-fafc9594e471.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트윙클, 트위스트, 트위드 그리고 샤넬!]]></title>
-            <link>https://www.elle.co.kr/article/69068</link>
-            <guid>https://www.elle.co.kr/article/69068</guid>
-            <pubDate>Thu, 25 Aug 2022 11:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[한 겹, 두 겹, 세 겹 층층이 쌓아 올린 트위드 인스톨레이션과 우아한 트위드 수트의 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/0871b140-a224-43f0-9944-31ea74062bf5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
