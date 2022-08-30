@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 15:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 16:27:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벨라 하디드 패션 따라잡기, 니삭스 활용편 (feat. 뉴진스)]]></title>
+            <link>https://www.elle.co.kr/article/70196</link>
+            <guid>https://www.elle.co.kr/article/70196</guid>
+            <pubDate>Tue, 30 Aug 2022 16:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[벨라 하디드가 꽂힌 이것! 데일리 룩에 빠지지 않고 등장하는 니삭스의 유행 조짐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/d3d9c6a8-a2a9-41d2-a9f6-1735610ce3db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬 화인 주얼리가 전하는 행운의 숫자는?]]></title>
             <link>https://www.elle.co.kr/article/70193</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 28 Aug 2022 17:17:38 GMT</pubDate>
             <content:encoded><![CDATA[멋짐 폭발 술자리 인싸템부터 친구들과 함께 나누는 추억템까지, 악뮤 이수현이 알려주는 여행 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/f9229591-083c-4b71-8fe8-85a73c0340e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이건 꼭 외워야지! 트렌디한 오버사이즈 팬츠 스타일링 공식]]></title>
-            <link>https://www.elle.co.kr/article/70136</link>
-            <guid>https://www.elle.co.kr/article/70136</guid>
-            <pubDate>Sun, 28 Aug 2022 17:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[통은 넓을수록, 길이는 길수록 힙해지는 팬츠 실루엣의 공식. 일단 하의는 무조건 크게 입을 것...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/2380b148-2d3f-4f3a-b99b-f5c3e9b1eb88.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
