@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 23:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 01:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소중한 기록]]></title>
+            <link>https://www.elle.co.kr/article/69070</link>
+            <guid>https://www.elle.co.kr/article/69070</guid>
+            <pubDate>Tue, 30 Aug 2022 01:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[신간 &lt;빅토리 노트&gt;와 &lt;파도를 넘어선 케이크&gt;가 담아낸 소중한 기록들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/51178e3c-8e5f-45fa-bc93-247b6e5546cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 이준호와 사귀기 시작한 우영우, 시즌 2에선 아빠에게 부케 줄 수 있을까? #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/69036</link>
@@ -62,13 +70,6 @@
             <pubDate>Thu, 25 Aug 2022 16:21:08 GMT</pubDate>
             <content:encoded><![CDATA[12부작 드라마 제작 계획 중.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/76f65e2a-8f1d-4601-ad5d-db5852207a26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설마 레이디 가가가 할리퀸을?! 지금까지 나온 '조커2' 떡밥들.zip]]></title>
-            <link>https://www.elle.co.kr/article/68816</link>
-            <guid>https://www.elle.co.kr/article/68816</guid>
-            <pubDate>Thu, 25 Aug 2022 16:21:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/763f6767-33fd-4b2e-8f5b-a626ad6ac59d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
