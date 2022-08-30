@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 01:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 07:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[걸그룹 래퍼들의 보컬 서바이벌? AOA 출신 신지민 복귀작 '두 번째 세계' 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/70105</link>
+            <guid>https://www.elle.co.kr/article/70105</guid>
+            <pubDate>Tue, 30 Aug 2022 07:33:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/4564dcbc-efda-46ab-9a61-bbd90fe27ba2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소중한 기록]]></title>
             <link>https://www.elle.co.kr/article/69070</link>
@@ -62,14 +69,6 @@
             <pubDate>Sat, 20 Aug 2022 21:16:39 GMT</pubDate>
             <content:encoded><![CDATA[음악을 소비하지 않고 소유하는 가장 좋은 방법. 손으로 직접 고르는 재미, 레코드숍 투어를 떠...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/bfc0e451-5139-489f-ba7d-4b4151a9460f.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[수원 왕갈비 통닭에 이어 '닭강정'! 류승룡X차은우 출연 검토 중인 이병헌의 '치킨 유니버스'는?]]></title>
-            <link>https://www.elle.co.kr/article/68819</link>
-            <guid>https://www.elle.co.kr/article/68819</guid>
-            <pubDate>Thu, 25 Aug 2022 16:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[12부작 드라마 제작 계획 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/76f65e2a-8f1d-4601-ad5d-db5852207a26.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
