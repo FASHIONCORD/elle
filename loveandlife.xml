@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 21:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 23:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 #mood는? 감성 충전 제대로 하는 마포구 #신상카페3]]></title>
+            <link>https://www.elle.co.kr/article/69035</link>
+            <guid>https://www.elle.co.kr/article/69035</guid>
+            <pubDate>Tue, 30 Aug 2022 23:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[망원-연남-합정의 신상 카페들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/5b4fe6fe-2791-4111-b744-5d9e26baeac3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[입 안에서 사르르- 달콤한 푸딩 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/69021</link>
@@ -61,13 +69,6 @@
             <pubDate>Thu, 25 Aug 2022 20:22:35 GMT</pubDate>
             <content:encoded><![CDATA[한여름 밤의 꿀 같은 혼술 타임, 강민경이 혼술하기 딱 좋은 안주 레서피를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/f9ef7f16-aeeb-4d14-a188-f094b992ab7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달달 담백한 영동 곶감이 디저트로! 현지의 맛과 멋이 있는 영동 카페 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/68841</link>
-            <guid>https://www.elle.co.kr/article/68841</guid>
-            <pubDate>Thu, 25 Aug 2022 20:22:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/0edd5f8f-cd6c-408a-9dd8-f5d5cf68c591.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
