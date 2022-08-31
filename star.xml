@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 08:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 09:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엠마 웹스터가 선보인 멋진 신세계]]></title>
+            <link>https://www.elle.co.kr/article/70285</link>
+            <guid>https://www.elle.co.kr/article/70285</guid>
+            <pubDate>Wed, 31 Aug 2022 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[페로탕 도산파크 개관전.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/f55a5aab-de47-4bf0-b92a-b1b60f991fe6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['4천만 배우' 송강호가 데뷔 후 32년 만에 처음으로 출연하는 드라마 정보 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/70257</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/70191</guid>
             <pubDate>Tue, 30 Aug 2022 07:33:21 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/604da457-f822-4699-86e3-16a7f6eda469.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴백과 동시에 2억 뷰X200만 장 기록! K-걸그룹 최초로 VMAs 간 블랙핑크 사진 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/70188</link>
-            <guid>https://www.elle.co.kr/article/70188</guid>
-            <pubDate>Tue, 30 Aug 2022 07:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[무려 1년10개월 만의 컴백.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/ab97832b-ab56-4de0-a421-1d3a5b974a86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
