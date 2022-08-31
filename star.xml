@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 23:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 04:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['4천만 배우' 송강호가 데뷔 후 32년 만에 처음으로 출연하는 드라마 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/70257</link>
+            <guid>https://www.elle.co.kr/article/70257</guid>
+            <pubDate>Wed, 31 Aug 2022 04:33:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/b7ce07e7-f705-4148-8b4f-b193742469e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모나리자 같은? 요즘 트렌드는 '하얀 눈썹']]></title>
             <link>https://www.elle.co.kr/article/70254</link>
@@ -60,14 +67,6 @@
             <pubDate>Tue, 30 Aug 2022 07:33:21 GMT</pubDate>
             <content:encoded><![CDATA[무려 1년10개월 만의 컴백.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/ab97832b-ab56-4de0-a421-1d3a5b974a86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 저널리스트 민용준이 13인의 감독과 나눈 34시간의 대화]]></title>
-            <link>https://www.elle.co.kr/article/70181</link>
-            <guid>https://www.elle.co.kr/article/70181</guid>
-            <pubDate>Mon, 29 Aug 2022 15:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[인터뷰집 &lt;어제의 영화. 오늘의 감독. 내일의 대화&gt;가 확장시킨 세계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/73d7bb48-9e28-4772-9fa1-f3b665da0aca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
