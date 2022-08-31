@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 20:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 21:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식지 않는 Y2K의 열기, 미니스커트 스타일 A to Z]]></title>
+            <link>https://www.elle.co.kr/article/70230</link>
+            <guid>https://www.elle.co.kr/article/70230</guid>
+            <pubDate>Wed, 31 Aug 2022 21:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[크리스탈부터 김나영까지 스타의 스타일링을 참고하여 미니스커트 100% 즐기기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/543e1227-8c56-40d4-be87-a0fb33834aa8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강인하고 담대하게 나아가는 돌체 앤 가바나의 미래적 애티튜드]]></title>
             <link>https://www.elle.co.kr/article/70227</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Aug 2022 09:16:47 GMT</pubDate>
             <content:encoded><![CDATA[장소는 중요하지 않아.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/f5ea34b4-887b-4894-b26f-3f591fc5a52d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사이즈 업]]></title>
-            <link>https://www.elle.co.kr/article/70173</link>
-            <guid>https://www.elle.co.kr/article/70173</guid>
-            <pubDate>Mon, 29 Aug 2022 09:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로 미니에서 슈퍼 맥시로 거거익선!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/27/f9bbcf36-95a4-4e1c-b360-c922d44d757c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
