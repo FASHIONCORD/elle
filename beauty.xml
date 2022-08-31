@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 16:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 17:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배윤영의 손에서 뗄 수 없는 것]]></title>
+            <link>https://www.elle.co.kr/article/70126</link>
+            <guid>https://www.elle.co.kr/article/70126</guid>
+            <pubDate>Wed, 31 Aug 2022 17:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[완벽한 외출을 위한 아이템, 쟈딕앤볼테르 백]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/6ce9edb9-fd0d-4bcf-9fa5-4ad9d51f87f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모나리자 같은? 요즘 트렌드는 '하얀 눈썹']]></title>
+            <link>https://www.elle.co.kr/article/70254</link>
+            <guid>https://www.elle.co.kr/article/70254</guid>
+            <pubDate>Wed, 31 Aug 2022 17:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[아무리 강조해도 지나치지 않은 눈썹의 중요성! 밝게 탈색하는 것이 트렌드라고 하던데 한번 시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/1dcbcf8d-2a9b-426b-beac-c860eecfb5b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환절기 피부 타입별 맞춤 크림은?_선배's 어드바이스 #132]]></title>
             <link>https://www.elle.co.kr/article/70204</link>
@@ -53,22 +69,6 @@
             <pubDate>Mon, 29 Aug 2022 15:17:41 GMT</pubDate>
             <content:encoded><![CDATA[2022 상반기 틱톡 뷰티 트렌드 Do or Don’t.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/7690985f-a5eb-4776-954b-b7623778648e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[튜닝의 끝은 순정! 꾸안꾸 네일 스타일링 팁]]></title>
-            <link>https://www.elle.co.kr/article/68965</link>
-            <guid>https://www.elle.co.kr/article/68965</guid>
-            <pubDate>Thu, 25 Aug 2022 12:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[잦은 네일 아트에 손톱이 엉망이 되었다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/e0d043e7-2454-467d-8779-b43ec0f5994d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미지 변신에 탁월한 눈썹 정리, 아이브로우 메이크업 Tip]]></title>
-            <link>https://www.elle.co.kr/article/68952</link>
-            <guid>https://www.elle.co.kr/article/68952</guid>
-            <pubDate>Thu, 25 Aug 2022 06:31:02 GMT</pubDate>
-            <content:encoded><![CDATA[인상을 결정하는 눈썹 그리는 법! 기본적인 팁부터 눈썹결을 살리는 방법까지, 엄지원이 알려주는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/858738a0-8a66-4253-bf34-a3e4222efd05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
