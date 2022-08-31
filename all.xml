@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 17:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 18:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1405,6 +1405,14 @@
             <content:encoded><![CDATA[손석구와 전종서의 '연애 빠진 로맨스'도 벡델 테스트 기준 충족.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[프리즈X키아프! 사상 최대의 아트 축제를 위한 예열 리스트 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/70357</link>
+            <guid>https://www.elle.co.kr/article/70357</guid>
+            <pubDate>Wed, 31 Aug 2022 18:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[전격적으로 서울을 찾은 특급 갤러리들과 주요 아트 피스 미리보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/4153b562-7153-45ea-95b9-9a397e1ba5bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일상적인듯 기묘한 도자 작품! 아티스트 신다인이 발견한 틈과 구멍 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/68987</link>
             <guid>https://www.elle.co.kr/article/68987</guid>
@@ -1434,7 +1442,6 @@
             <guid>https://www.elle.co.kr/article/68075</guid>
             <pubDate>Mon, 18 Jul 2022 15:25:50 GMT</pubDate>
             <content:encoded><![CDATA[‘레고 아이디어 빈센트 반 고흐- 별이 빛나는 밤’과 가장 잘 어울리는 스물셋 청춘 스타 강...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/0e22ab62-a29c-4aea-a72c-993d6ae15bad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1491,13 +1498,6 @@
             <guid>https://www.elle.co.kr/article/65738</guid>
             <pubDate>Tue, 24 May 2022 02:35:59 GMT</pubDate>
             <content:encoded><![CDATA[슬로렌스'를 통해 유용하고 아름다운 오브제를 선보이는 세라미스트 김지은의 취향.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WE MISSED U (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/65614</link>
-            <guid>https://www.elle.co.kr/article/65614</guid>
-            <pubDate>Tue, 24 May 2022 02:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[작품으로 다시 만나는 리 알렉산더 맥퀸.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오늘의 #mood는? 감성 충전 제대로 하는 마포구 #신상카페3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>

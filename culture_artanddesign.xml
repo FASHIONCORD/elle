@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 17:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 18:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프리즈X키아프! 사상 최대의 아트 축제를 위한 예열 리스트]]></title>
+            <link>https://www.elle.co.kr/article/70357</link>
+            <guid>https://www.elle.co.kr/article/70357</guid>
+            <pubDate>Wed, 31 Aug 2022 18:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[전격적으로 서울을 찾은 특급 갤러리들과 주요 아트 피스 미리보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/4153b562-7153-45ea-95b9-9a397e1ba5bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일상적인듯 기묘한 도자 작품! 아티스트 신다인이 발견한 틈과 구멍]]></title>
             <link>https://www.elle.co.kr/article/68987</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/68075</guid>
             <pubDate>Thu, 25 Aug 2022 18:20:49 GMT</pubDate>
             <content:encoded><![CDATA[‘레고 아이디어 빈센트 반 고흐- 별이 빛나는 밤’과 가장 잘 어울리는 스물셋 청춘 스타 강...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/0e22ab62-a29c-4aea-a72c-993d6ae15bad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/65738</guid>
             <pubDate>Thu, 25 Aug 2022 18:20:49 GMT</pubDate>
             <content:encoded><![CDATA[슬로렌스'를 통해 유용하고 아름다운 오브제를 선보이는 세라미스트 김지은의 취향.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WE MISSED U]]></title>
-            <link>https://www.elle.co.kr/article/65614</link>
-            <guid>https://www.elle.co.kr/article/65614</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[작품으로 다시 만나는 리 알렉산더 맥퀸.]]></content:encoded>
         </item>
     </channel>
 </rss>
