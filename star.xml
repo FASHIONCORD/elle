@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 13:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강태오의 확신]]></title>
+            <link>https://www.elle.co.kr/article/70288</link>
+            <guid>https://www.elle.co.kr/article/70288</guid>
+            <pubDate>Wed, 31 Aug 2022 15:17:40 GMT</pubDate>
+            <content:encoded><![CDATA["잘 다녀올게요, 라고 자신 있게 인사를 건넬 수 있어 다행이에요." 언제나 유효했던 강태오의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/31e9576a-d465-4ad1-82c2-0fca42d84963.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엠마 웹스터가 선보인 멋진 신세계]]></title>
             <link>https://www.elle.co.kr/article/70285</link>
@@ -60,13 +68,6 @@
             <pubDate>Tue, 30 Aug 2022 07:33:21 GMT</pubDate>
             <content:encoded><![CDATA[벨라 하디드가 꽂힌 이것! 데일리 룩에 빠지지 않고 등장하는 니삭스의 유행 조짐.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/d3d9c6a8-a2a9-41d2-a9f6-1735610ce3db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['헌트' 대박 난 감독 이정재, 다음은 '다만 악에서 구하소서' 스핀오프 주인공으로?!]]></title>
-            <link>https://www.elle.co.kr/article/70191</link>
-            <guid>https://www.elle.co.kr/article/70191</guid>
-            <pubDate>Tue, 30 Aug 2022 07:33:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/604da457-f822-4699-86e3-16a7f6eda469.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

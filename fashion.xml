@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 13:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강인하고 담대하게 나아가는 돌체 앤 가바나의 미래적 애티튜드]]></title>
+            <link>https://www.elle.co.kr/article/70227</link>
+            <guid>https://www.elle.co.kr/article/70227</guid>
+            <pubDate>Wed, 31 Aug 2022 15:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[눈부셔!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/8944242d-200a-4da9-8438-63af6d939cfb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신부의 스페셜 모멘트]]></title>
             <link>https://www.elle.co.kr/article/68995</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Aug 2022 09:16:47 GMT</pubDate>
             <content:encoded><![CDATA[마이크로 미니에서 슈퍼 맥시로 거거익선!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/27/f9bbcf36-95a4-4e1c-b360-c922d44d757c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노윤서의 붉게 물든 시간]]></title>
-            <link>https://www.elle.co.kr/article/70158</link>
-            <guid>https://www.elle.co.kr/article/70158</guid>
-            <pubDate>Mon, 29 Aug 2022 09:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 아이콘을 꿈꾸다. 까르띠에의 아이콘 컬렉션을 만나다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/6292bd9f-01cf-4da3-aa36-35709d8ad2ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

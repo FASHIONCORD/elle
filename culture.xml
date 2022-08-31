@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 13:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신해경과 사뮈의 극적인 조합, 마콤마 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/70138</link>
+            <guid>https://www.elle.co.kr/article/70138</guid>
+            <pubDate>Wed, 31 Aug 2022 15:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[신인 밴드 마콤마를 ‘너는 아니?’. 꿈속의 목소리 신해경과 아침을 깨우는 목소리 사뮈가 만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/e819c648-84c6-4b1a-a04e-1b5c9dc888db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[걸그룹 래퍼들의 보컬 서바이벌? AOA 출신 신지민 복귀작 '두 번째 세계' 정보 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/70105</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 25 Aug 2022 16:21:08 GMT</pubDate>
             <content:encoded><![CDATA[‘빅마우스’ vs ‘당소말’ vs ‘굿잡’]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/52a57d5b-2fd3-4784-ac5a-38604bd32b9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
-            <link>https://www.elle.co.kr/article/68875</link>
-            <guid>https://www.elle.co.kr/article/68875</guid>
-            <pubDate>Sat, 20 Aug 2022 21:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[음악을 소비하지 않고 소유하는 가장 좋은 방법. 손으로 직접 고르는 재미, 레코드숍 투어를 떠...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/bfc0e451-5139-489f-ba7d-4b4151a9460f.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
