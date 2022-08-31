@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 04:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 08:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신부의 스페셜 모멘트]]></title>
+            <link>https://www.elle.co.kr/article/68995</link>
+            <guid>https://www.elle.co.kr/article/68995</guid>
+            <pubDate>Wed, 31 Aug 2022 08:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[소중한 순간으로 영원히 기억될 샤넬 파인 주얼리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/d8c53f37-579d-410d-9ad9-703edf026f0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타들이 고른 사적모임 장소 3]]></title>
+            <link>https://www.elle.co.kr/article/70197</link>
+            <guid>https://www.elle.co.kr/article/70197</guid>
+            <pubDate>Wed, 31 Aug 2022 08:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[약속 장소로 제격! 톱모델 모임부터 골때녀들의 회동 장소까지, 셀러브리티들이 모임 장소로 선택...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/b9311a46-aa33-43d5-a50c-27c4305b300a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벨라 하디드 패션 따라잡기, 니삭스 활용편 (feat. 뉴진스)]]></title>
             <link>https://www.elle.co.kr/article/70196</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 29 Aug 2022 09:16:47 GMT</pubDate>
             <content:encoded><![CDATA[새로운 아이콘을 꿈꾸다. 까르띠에의 아이콘 컬렉션을 만나다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/6292bd9f-01cf-4da3-aa36-35709d8ad2ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 F/W 시즌 미리 알고 있으면 좋을 것들.]]></title>
-            <link>https://www.elle.co.kr/article/70103</link>
-            <guid>https://www.elle.co.kr/article/70103</guid>
-            <pubDate>Mon, 29 Aug 2022 04:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022 F/W 뉴 시즌 예습. 지금 바로 리스트업해야 할 13개의 에센셜 리스트를 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/8f15900b-592e-4ae4-8c75-f2318caae417.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인싸력 만렙 수현의 여행템 추천 5]]></title>
-            <link>https://www.elle.co.kr/article/70137</link>
-            <guid>https://www.elle.co.kr/article/70137</guid>
-            <pubDate>Sun, 28 Aug 2022 17:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[멋짐 폭발 술자리 인싸템부터 친구들과 함께 나누는 추억템까지, 악뮤 이수현이 알려주는 여행 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/f9229591-083c-4b71-8fe8-85a73c0340e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

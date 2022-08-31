@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 04:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 08:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브라보, 엠마 톰슨_요주의여성 #69]]></title>
+            <link>https://www.elle.co.kr/article/68966</link>
+            <guid>https://www.elle.co.kr/article/68966</guid>
+            <pubDate>Wed, 31 Aug 2022 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[63세 엠마 톰슨, 이보다 더 섹시하고 용감할 순 없다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/ce480d79-bcf6-45ec-b6dc-aeb04b07074b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치킨 전쟁이 매우 뜨겁다_돈쓸신잡 #60]]></title>
+            <link>https://www.elle.co.kr/article/68950</link>
+            <guid>https://www.elle.co.kr/article/68950</guid>
+            <pubDate>Wed, 31 Aug 2022 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[논쟁의 주인공은 5000원짜리 치킨이었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/6ebf2275-05bf-4081-a51f-8eac868d9ca5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반려동물의 죽음은 왜 이토록 큰 상처를 남길까?]]></title>
             <link>https://www.elle.co.kr/article/68843</link>
@@ -53,22 +69,6 @@
             <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
             <content:encoded><![CDATA[세상 가장 추운 곳으로 떠나는 피서]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/8686d264-1671-4452-8895-32877de78010.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 한국도 달에 간다! 최초 달 탐사선 다누리, 드디어 자체 비행 시작]]></title>
-            <link>https://www.elle.co.kr/article/68634</link>
-            <guid>https://www.elle.co.kr/article/68634</guid>
-            <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[달 궤도 도착 예상 시점은 올 12월.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/cd8c2db6-d138-47a4-84f6-ebff3350a718.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우영우에겐 좋은 사람들이 있다_돈쓸신잡 #57]]></title>
-            <link>https://www.elle.co.kr/article/68626</link>
-            <guid>https://www.elle.co.kr/article/68626</guid>
-            <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[인간관계 역시 알고리즘이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/e965be22-e122-4b7f-8a42-b6b8f22d64a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
