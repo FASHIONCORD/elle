@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 10:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 12:34:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 과즙상? 힙스터? 글로시VS매트 립 메이크업 대결]]></title>
+            <link>https://www.elle.co.kr/article/70267</link>
+            <guid>https://www.elle.co.kr/article/70267</guid>
+            <pubDate>Thu, 01 Sep 2022 12:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[Y2K의 영향을 짙게 받은 글로시 립과 마스크 시대에 딱인 매트 립]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/4e954332-d185-4715-91be-b5ad9a981ffa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이어트 약을 주문했다_몸에 좋은 잔소리 #46]]></title>
+            <link>https://www.elle.co.kr/article/70266</link>
+            <guid>https://www.elle.co.kr/article/70266</guid>
+            <pubDate>Thu, 01 Sep 2022 12:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[귀차니즘 다이어터들의 선택, ‘다이어트 환’에 대한 궁금증.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/783d9314-a085-4a59-8086-ea69e17efa91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배윤영의 손에서 뗄 수 없는 것]]></title>
             <link>https://www.elle.co.kr/article/70126</link>
@@ -53,22 +69,6 @@
             <guid>https://www.elle.co.kr/article/70102</guid>
             <pubDate>Tue, 30 Aug 2022 08:24:56 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/63456d48-8f44-47e8-aac9-ead6c91fc765.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHECK! 가을 뷰티 신상]]></title>
-            <link>https://www.elle.co.kr/article/69108</link>
-            <guid>https://www.elle.co.kr/article/69108</guid>
-            <pubDate>Tue, 30 Aug 2022 08:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[여름이 남긴 흔적을 감쪽같이 지우고 새 계절을 맞이하는 방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/c033d41e-113c-4068-b660-edea49b07d4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡발 뷰티 팁 해봐? 말아?_선배's 어드바이스 #131]]></title>
-            <link>https://www.elle.co.kr/article/68999</link>
-            <guid>https://www.elle.co.kr/article/68999</guid>
-            <pubDate>Mon, 29 Aug 2022 15:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022 상반기 틱톡 뷰티 트렌드 Do or Don’t.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/7690985f-a5eb-4776-954b-b7623778648e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
