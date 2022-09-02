@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 08:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 09:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[랑콤의 뮤즈 수지와 스타들도 찾았다!]]></title>
+            <link>https://www.elle.co.kr/article/70295</link>
+            <guid>https://www.elle.co.kr/article/70295</guid>
+            <pubDate>Fri, 02 Sep 2022 09:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[이태원에서 열린 랑콤 제니피끄 웨이브 팝업 이벤트 현장 속으로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/c9a55ede-1279-41a4-a6c2-c085b2d7622e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나는 과즙상? 힙스터? 글로시VS매트 립 메이크업 대결]]></title>
             <link>https://www.elle.co.kr/article/70267</link>
@@ -62,13 +70,6 @@
             <pubDate>Tue, 30 Aug 2022 21:17:09 GMT</pubDate>
             <content:encoded><![CDATA[논픽션에서 소중한 이에게 주고 싶은 특별한 추석 기프트 세트를 출시했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/51574925-088a-4116-b1d7-1c6fa884c44e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비수기 따윈 없다! 아이브의 자신감과 건강미의 비결은 이 운동? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/70102</link>
-            <guid>https://www.elle.co.kr/article/70102</guid>
-            <pubDate>Tue, 30 Aug 2022 08:24:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/63456d48-8f44-47e8-aac9-ead6c91fc765.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
