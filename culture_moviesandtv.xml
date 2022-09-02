@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 06:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 08:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김혜수, 20년 만의 사극 드라마 '슈룹'에서 다섯 아들 엄마 된다?!]]></title>
+            <link>https://www.elle.co.kr/article/70417</link>
+            <guid>https://www.elle.co.kr/article/70417</guid>
+            <pubDate>Fri, 02 Sep 2022 08:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[20년 전에는 장희빈이었던 김혜수.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/75bbbd61-85bd-4800-a0dd-7ee3124cd330.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프린스 알리~ 다시 본다?! '알라딘'부터 '모가디슈'까지, 9월 재개봉 확정한 영화 3]]></title>
             <link>https://www.elle.co.kr/article/70364</link>
@@ -33,7 +41,6 @@
             <link>https://www.elle.co.kr/article/70191</link>
             <guid>https://www.elle.co.kr/article/70191</guid>
             <pubDate>Mon, 29 Aug 2022 04:15:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/604da457-f822-4699-86e3-16a7f6eda469.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[걸그룹 래퍼들의 보컬 서바이벌? AOA 출신 신지민 복귀작 '두 번째 세계' 정보 모음.zip]]></title>
@@ -88,13 +95,6 @@
             <link>https://www.elle.co.kr/article/68816</link>
             <guid>https://www.elle.co.kr/article/68816</guid>
             <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[이자벨 위페르, 미아 와시코브스카, 레아 세이두가 이 감독과 작업한 이유는?]]></title>
-            <link>https://www.elle.co.kr/article/68803</link>
-            <guid>https://www.elle.co.kr/article/68803</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[베르히만 아일랜드의 미아 한센 러브가 말하는 친밀함에 대해]]></content:encoded>
         </item>
     </channel>
 </rss>
