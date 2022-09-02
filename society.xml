@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 18:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 21:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인류 절반인 여성에 대하여! 영화 ‘우먼’]]></title>
+            <link>https://www.elle.co.kr/article/68969</link>
+            <guid>https://www.elle.co.kr/article/68969</guid>
+            <pubDate>Fri, 02 Sep 2022 21:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 여성들의 목소리를 담은 영화.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/bc9766af-aef0-4aa4-ae27-9156764067e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브라보, 엠마 톰슨_요주의여성 #69]]></title>
             <link>https://www.elle.co.kr/article/68966</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
             <content:encoded><![CDATA[양파처럼 까면 깔수록 매력적인 ‘지락실’ 4인방.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/afee81f6-3956-4402-afc1-48a1d3c63eba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 에어컨만 있으면 폭염주의보를 피할 수 있을까?]]></title>
-            <link>https://www.elle.co.kr/article/68657</link>
-            <guid>https://www.elle.co.kr/article/68657</guid>
-            <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[세상 가장 추운 곳으로 떠나는 피서]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/8686d264-1671-4452-8895-32877de78010.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
