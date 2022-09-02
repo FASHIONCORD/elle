@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 09:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 10:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커피 한 잔이 생각나는 폴로 랄프로렌의 뉴 룩]]></title>
+            <link>https://www.elle.co.kr/article/70354</link>
+            <guid>https://www.elle.co.kr/article/70354</guid>
+            <pubDate>Fri, 02 Sep 2022 10:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[그윽한 가을 향기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/41c585c1-c11e-4ae1-aaf4-fe2a8780b504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[까르띠에의 프렌치 키스]]></title>
+            <link>https://www.elle.co.kr/article/70300</link>
+            <guid>https://www.elle.co.kr/article/70300</guid>
+            <pubDate>Fri, 02 Sep 2022 10:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[창문 너머로 스며든 햇살이 맞닿는 순간, 반짝이며 피어나는 우아함.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/bf5c1701-8bc4-4531-a4d3-2132b0b3b18e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크하게 혹은 캐주얼하게! '빅마우스' 임윤아 VS '오늘의 웹툰' 김세정 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/70292</link>
+            <guid>https://www.elle.co.kr/article/70292</guid>
+            <pubDate>Fri, 02 Sep 2022 10:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[연기돌을 넘어 이제는 ‘믿고 보는’ 배우로 등극! '빅마우스' 임윤아와 '오늘의 웹툰' 김세정,...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/60d35abb-7de9-41c3-8aca-4fcfb9061a9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모나리자 같은? 요즘 트렌드는 '하얀 눈썹']]></title>
             <link>https://www.elle.co.kr/article/70254</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 31 Aug 2022 08:19:45 GMT</pubDate>
             <content:encoded><![CDATA[약속 장소로 제격! 톱모델 모임부터 골때녀들의 회동 장소까지, 셀러브리티들이 모임 장소로 선택...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/b9311a46-aa33-43d5-a50c-27c4305b300a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨라 하디드 패션 따라잡기, 니삭스 활용편 (feat. 뉴진스)]]></title>
-            <link>https://www.elle.co.kr/article/70196</link>
-            <guid>https://www.elle.co.kr/article/70196</guid>
-            <pubDate>Tue, 30 Aug 2022 16:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[벨라 하디드가 꽂힌 이것! 데일리 룩에 빠지지 않고 등장하는 니삭스의 유행 조짐.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/d3d9c6a8-a2a9-41d2-a9f6-1735610ce3db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 화인 주얼리가 전하는 행운의 숫자는?]]></title>
-            <link>https://www.elle.co.kr/article/70193</link>
-            <guid>https://www.elle.co.kr/article/70193</guid>
-            <pubDate>Mon, 29 Aug 2022 19:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[행운이 필요하다면!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/4e3ef72e-63df-407e-89c8-2f5f95a6a937.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 시즌을 장악한 발렌시아가 전사]]></title>
-            <link>https://www.elle.co.kr/article/70184</link>
-            <guid>https://www.elle.co.kr/article/70184</guid>
-            <pubDate>Mon, 29 Aug 2022 17:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[승리는 나의 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/9cd2e648-0c3a-41b5-a9f5-74a3e1be54b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
