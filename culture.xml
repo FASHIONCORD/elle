@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 04:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:50:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['너목들'부터 '당잠사'까지, 피·땀·눈물이 착붙인 이종석의 '인생캐' 작품 모음.zip #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/70231</link>
+            <guid>https://www.elle.co.kr/article/70231</guid>
+            <pubDate>Fri, 02 Sep 2022 06:46:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/6f5bdf2a-c073-47c6-8b52-9a01f65eb142.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['헌트' 대박 난 감독 이정재, 다음은 '다만 악에서 구하소서' 스핀오프 주인공으로?!]]></title>
+            <link>https://www.elle.co.kr/article/70191</link>
+            <guid>https://www.elle.co.kr/article/70191</guid>
+            <pubDate>Fri, 02 Sep 2022 06:46:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/604da457-f822-4699-86e3-16a7f6eda469.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴백과 동시에 2억 뷰X200만 장 기록! K-걸그룹 최초로 VMAs 간 블랙핑크 사진 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/70188</link>
@@ -53,22 +67,6 @@
             <pubDate>Mon, 29 Aug 2022 15:18:50 GMT</pubDate>
             <content:encoded><![CDATA[시작은 하수구 구멍이었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/51b36d42-2ba7-42c1-9629-24d914143581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인류 절반인 여성에 대하여! 영화 ‘우먼’]]></title>
-            <link>https://www.elle.co.kr/article/68969</link>
-            <guid>https://www.elle.co.kr/article/68969</guid>
-            <pubDate>Thu, 25 Aug 2022 16:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 여성들의 목소리를 담은 영화.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/bc9766af-aef0-4aa4-ae27-9156764067e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 CHANEL X BIFF 아시아영화아카데미를 이끌 리더는?]]></title>
-            <link>https://www.elle.co.kr/article/68903</link>
-            <guid>https://www.elle.co.kr/article/68903</guid>
-            <pubDate>Thu, 25 Aug 2022 16:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[리티 판 감독이 2022 CHANEL X BIFF 아시아영화아카데미 교장으로 선정됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/28dc7bdc-c7a5-40fb-b7fe-8c1db1247bbe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
