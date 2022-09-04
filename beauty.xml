@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 13:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 17:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디올 뷰티의 혁신, 루즈 디올 포에버 스틱]]></title>
+            <link>https://www.elle.co.kr/article/70341</link>
+            <guid>https://www.elle.co.kr/article/70341</guid>
+            <pubDate>Sun, 04 Sep 2022 17:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[묻어나지 않는 매트 피니시, 루즈 디올 포에버 스틱의 탄생.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/00ea621d-3417-435d-8415-9c41308549e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[랑콤의 뮤즈 수지와 스타들도 찾았다!]]></title>
             <link>https://www.elle.co.kr/article/70295</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Aug 2022 21:17:09 GMT</pubDate>
             <content:encoded><![CDATA[레드 까멜리아의 강인한 생명력을 담아낸 샤넬 최초의 홀릭스틱 안티에이징 뷰티 라인, N°1 D...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/beb412e2-2947-4907-9542-c2aa4fdd027e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 선물, 논픽션 하세요]]></title>
-            <link>https://www.elle.co.kr/article/69041</link>
-            <guid>https://www.elle.co.kr/article/69041</guid>
-            <pubDate>Tue, 30 Aug 2022 21:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[논픽션에서 소중한 이에게 주고 싶은 특별한 추석 기프트 세트를 출시했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/51574925-088a-4116-b1d7-1c6fa884c44e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
