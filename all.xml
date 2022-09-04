@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 09:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 13:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1097,6 +1097,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/51574925-088a-4116-b1d7-1c6fa884c44e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[주현영이 말하는 '이상한 변호사 우영우' 시즌 2는? 주현영의 또 다른 이야기. (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70393</link>
+            <guid>https://www.elle.co.kr/article/70393</guid>
+            <pubDate>Sun, 04 Sep 2022 13:31:18 GMT</pubDate>
+            <content:encoded><![CDATA[또 다시, 새로운 얼굴. 주현영이라는 배우.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/b9b269e1-4194-4790-85de-d748a4f4af34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피어나라 르세라핌 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/70392</link>
             <guid>https://www.elle.co.kr/article/70392</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 02 Sep 2022 08:21:36 GMT</pubDate>
             <content:encoded><![CDATA[연기돌을 넘어 이제는 ‘믿고 보는’ 배우로 등극! '빅마우스' 임윤아와 '오늘의 웹툰' 김세정,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/60d35abb-7de9-41c3-8aca-4fcfb9061a9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여전한 소년미! 세훈의 아주 특별한 방으로 초대합니다 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70234</link>
-            <guid>https://www.elle.co.kr/article/70234</guid>
-            <pubDate>Thu, 01 Sep 2022 12:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[서로에 대한 신뢰와 믿음에 대해 확신을 갖고 말하는 세훈의 마음은 여전히 소년 같다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/347b219f-d717-49d7-ba2e-41df7dc082f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['4천만 배우' 송강호가 데뷔 후 32년 만에 처음으로 출연하는 드라마 정보 모음.zip (엘르 코리아 ─ 컬쳐)]]></title>
