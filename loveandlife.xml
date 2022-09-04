@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 18:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 19:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[익숙한데 이국적인 호캉스, 방콕이라는 대도시를 즐기는 또 다른 방법]]></title>
+            <link>https://www.elle.co.kr/article/70169</link>
+            <guid>https://www.elle.co.kr/article/70169</guid>
+            <pubDate>Sun, 04 Sep 2022 19:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[뜻밖의 지적인 체험까지 가능했던 방콕 여행.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/b85f55bf-e93e-43bd-a7a0-d33491172c98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘의 #mood는? 감성 충전 제대로 하는 마포구 #신상카페3]]></title>
             <link>https://www.elle.co.kr/article/69035</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 25 Aug 2022 20:22:35 GMT</pubDate>
             <content:encoded><![CDATA[음악을 소비하지 않고 소유하는 가장 좋은 방법. 손으로 직접 고르는 재미, 레코드숍 투어를 떠...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/bfc0e451-5139-489f-ba7d-4b4151a9460f.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[집안에서 시원하게 여름밤 보내기! 강민경의 혼술 안주 레서피 3]]></title>
-            <link>https://www.elle.co.kr/article/68869</link>
-            <guid>https://www.elle.co.kr/article/68869</guid>
-            <pubDate>Thu, 25 Aug 2022 20:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[한여름 밤의 꿀 같은 혼술 타임, 강민경이 혼술하기 딱 좋은 안주 레서피를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/f9ef7f16-aeeb-4d14-a188-f094b992ab7b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
