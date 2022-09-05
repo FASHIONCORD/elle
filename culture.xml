@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 07:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프린스 알리~ 다시 본다?! '알라딘'부터 '모가디슈'까지, 9월 재개봉 확정한 영화 3]]></title>
+            <link>https://www.elle.co.kr/article/70364</link>
+            <guid>https://www.elle.co.kr/article/70364</guid>
+            <pubDate>Mon, 05 Sep 2022 09:21:48 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/b5904b6a-f16f-45fd-aa66-fb1c008e9bcb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프리즈X키아프! 사상 최대의 아트 축제를 위한 예열 리스트]]></title>
+            <link>https://www.elle.co.kr/article/70357</link>
+            <guid>https://www.elle.co.kr/article/70357</guid>
+            <pubDate>Mon, 05 Sep 2022 09:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[전격적으로 서울을 찾은 특급 갤러리들과 주요 아트 피스 미리보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/4153b562-7153-45ea-95b9-9a397e1ba5bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['4천만 배우' 송강호가 데뷔 후 32년 만에 처음으로 출연하는 드라마 정보 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/70257</link>
@@ -50,22 +65,6 @@
             <guid>https://www.elle.co.kr/article/70105</guid>
             <pubDate>Tue, 30 Aug 2022 07:33:33 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/4564dcbc-efda-46ab-9a61-bbd90fe27ba2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소중한 기록]]></title>
-            <link>https://www.elle.co.kr/article/69070</link>
-            <guid>https://www.elle.co.kr/article/69070</guid>
-            <pubDate>Tue, 30 Aug 2022 01:46:36 GMT</pubDate>
-            <content:encoded><![CDATA[신간 &lt;빅토리 노트&gt;와 &lt;파도를 넘어선 케이크&gt;가 담아낸 소중한 기록들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/51178e3c-8e5f-45fa-bc93-247b6e5546cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 이준호와 사귀기 시작한 우영우, 시즌 2에선 아빠에게 부케 줄 수 있을까? #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/69036</link>
-            <guid>https://www.elle.co.kr/article/69036</guid>
-            <pubDate>Mon, 29 Aug 2022 15:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[시즌 2를 예고하며 종영한 ‘이상한 변호사 우영우’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/5c2cb3a7-52c7-466a-bb40-20c8b4363ed6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

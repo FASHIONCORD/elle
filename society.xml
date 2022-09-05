@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 07:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["자신에게 친절하라": 모두를 울컥하게 한 필즈상 수상자 허준이의 서울대 졸업 축사]]></title>
+            <link>https://www.elle.co.kr/article/70318</link>
+            <guid>https://www.elle.co.kr/article/70318</guid>
+            <pubDate>Mon, 05 Sep 2022 09:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[오로지 서울대 졸업생에게만 울림을 주는 이야기가 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/ae2ae30c-586a-401e-9530-3a0b0890cb2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 달에 억 단위로 버는 그들은 왜 이것에 집착할까?_돈쓸신잡 #60]]></title>
+            <link>https://www.elle.co.kr/article/70142</link>
+            <guid>https://www.elle.co.kr/article/70142</guid>
+            <pubDate>Mon, 05 Sep 2022 09:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[신사임당의 유튜브 채널이 사고 팔 수 있는 '상품'이 된 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/6e715c27-fb7b-4c0f-8996-8b866b3848aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 여성 임팩트 창업가를 위한 솔직하고 뜨거운 실제 경험담]]></title>
+            <link>https://www.elle.co.kr/article/70106</link>
+            <guid>https://www.elle.co.kr/article/70106</guid>
+            <pubDate>Mon, 05 Sep 2022 09:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[스타트업 6곳 중 3곳은 3년 내 문을 닫는 현실. 3년 차 스타트업 대표가 언더우먼 임팩트 커...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/7ecca310-41f1-40bd-a316-ecb482971425.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인류 절반인 여성에 대하여! 영화 ‘우먼’]]></title>
             <link>https://www.elle.co.kr/article/68969</link>
@@ -45,30 +69,6 @@
             <guid>https://www.elle.co.kr/article/68792</guid>
             <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/423fc75d-7e7e-4a5a-bbad-229ef768ec7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 결혼적령기는 몰라도 반려동물 적령기는 있다!]]></title>
-            <link>https://www.elle.co.kr/article/68762</link>
-            <guid>https://www.elle.co.kr/article/68762</guid>
-            <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[임시보호를 통해 알게된 것. '포포야 행복해야 해!']]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/6f2e3586-d26a-4fea-aa0a-b9b50cb494a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 최지은 작가가 뉴스레터를 시작한 이유]]></title>
-            <link>https://www.elle.co.kr/article/68713</link>
-            <guid>https://www.elle.co.kr/article/68713</guid>
-            <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[섬끼리 잇는 '없는 생활'에 대해]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/9c09ed9c-b0db-428e-8dc8-aa087d387a2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘지락실’ 보면서 웃어요_요주의여성 #68]]></title>
-            <link>https://www.elle.co.kr/article/68682</link>
-            <guid>https://www.elle.co.kr/article/68682</guid>
-            <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[양파처럼 까면 깔수록 매력적인 ‘지락실’ 4인방.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/afee81f6-3956-4402-afc1-48a1d3c63eba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
