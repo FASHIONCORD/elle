@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 21:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 07:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오겜 240번' 이유미가 한국인 최초로 받은 에미상 '게스트상'! 도대체 어떤 상이기에?]]></title>
+            <link>https://www.elle.co.kr/article/70495</link>
+            <guid>https://www.elle.co.kr/article/70495</guid>
+            <pubDate>Mon, 05 Sep 2022 07:35:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/3c54798b-4289-4187-8bf3-fb583d760ac5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김혜수, 20년 만의 사극 드라마 '슈룹'에서 다섯 아들 엄마 된다?!]]></title>
             <link>https://www.elle.co.kr/article/70417</link>
@@ -34,7 +41,6 @@
             <link>https://www.elle.co.kr/article/70231</link>
             <guid>https://www.elle.co.kr/article/70231</guid>
             <pubDate>Tue, 30 Aug 2022 07:34:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/6f5bdf2a-c073-47c6-8b52-9a01f65eb142.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['헌트' 대박 난 감독 이정재, 다음은 '다만 악에서 구하소서' 스핀오프 주인공으로?!]]></title>
@@ -89,12 +95,6 @@
             <guid>https://www.elle.co.kr/article/68819</guid>
             <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
             <content:encoded><![CDATA[12부작 드라마 제작 계획 중.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[설마 레이디 가가가 할리퀸을?! 지금까지 나온 '조커2' 떡밥들.zip]]></title>
-            <link>https://www.elle.co.kr/article/68816</link>
-            <guid>https://www.elle.co.kr/article/68816</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
