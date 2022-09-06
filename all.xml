@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 07:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 11:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족여행지로도 제격! 나주 힐링 여행 코스 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34433196&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34433196&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 06 Sep 2022 11:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDZfNjMg/MDAxNjYyNDU3MDA3OTg0.D3hjuvOxaxtKB4860ncCNwkl3sl4kpZx8i48LWdWdbgg.573_rfvdfav0TDX6cntYiWJldKW-X2aQqi6TS_aTD3og.JPEG/I89LY6QEbHJ1rD1nWk7xuSyUdy6Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠키&빵지순례각! 셀럽들이 들른 디저트 맛집 3 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34430965&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 Aug 2022 23:16:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDlfMSAg/MDAxNjU5OTk4NTc4MDE4.odZlBVm0AmL987ghYHcFfhLsfdgSRABHD9LwQaCDwF0g.yyym-EO3wLJEEFppq2tFwcs5GmaBj6EagBd5Y-cLo1wg.JPEG/IECuZ9WG-eagiLErdpu8NJuejJeU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛과 건강 모두 잡기! 다이어트 김밥 레시피 2 (네이버 포스트 ─ 엘르 코리아 ─ LOVE & LIFE)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34269190&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34269190&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sun, 07 Aug 2022 23:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDhfMjg0/MDAxNjU5ODk5NTY4NTg3.U0CMf-6ni-GyGboS25rgawDdTFII04Yoi9q40yiskj4g.7deFc80B__mWcYKfemjnEoWTIh6SdlBUe9jFtUdc5u8g.JPEG/I7hOLEPWVHAK19l0AxawcUb0Hg54.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소재와 디테일로 스타일링 하는 '일라일' (네이버 포스트 ─ 엘르 코리아 ─ 엘르숍)]]></title>
@@ -969,6 +969,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDhfMjQ3/MDAxNjMxMDY4OTE2MjA2.eaDm9ynHf4Xi3Xhcp2DT8kZ0G-7yuLaQJ16mcq6pBYgg.TzoqETnbHSDV0fx7Uh0kSybHeG-u8zsDsv4rX-H3djMg.JPEG/IuC_Tn0nVDRZyydbLiiPznjnclOg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[환상의 섬에서 만난 구찌 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/70416</link>
+            <guid>https://www.elle.co.kr/article/70416</guid>
+            <pubDate>Tue, 06 Sep 2022 11:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[이국적인 풍경 앞에 펼쳐진 파라다이스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/420c9bfe-7cd9-4b10-9df9-a2527b2f24c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아트러버들의 오감을 뒤흔든 작품들 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/70251</link>
             <guid>https://www.elle.co.kr/article/70251</guid>
@@ -1023,14 +1031,6 @@
             <pubDate>Fri, 02 Sep 2022 08:21:36 GMT</pubDate>
             <content:encoded><![CDATA[연기돌을 넘어 이제는 ‘믿고 보는’ 배우로 등극! '빅마우스' 임윤아와 '오늘의 웹툰' 김세정,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/60d35abb-7de9-41c3-8aca-4fcfb9061a9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모나리자 같은? 요즘 트렌드는 '하얀 눈썹' (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/70254</link>
-            <guid>https://www.elle.co.kr/article/70254</guid>
-            <pubDate>Tue, 30 Aug 2022 15:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[아무리 강조해도 지나치지 않은 눈썹의 중요성! 밝게 탈색하는 것이 트렌드라고 하던데 한번 시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/1dcbcf8d-2a9b-426b-beac-c860eecfb5b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠 못 들게 매력적인 도시의 향기, 메종 프란시스 커정 724 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1096,6 +1096,61 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/6ce9edb9-fd0d-4bcf-9fa5-4ad9d51f87f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[독일 카셀에서 열리는 현대미술제 '도큐멘타'에서 목격된 한국팀, 이끼바위쿠르르 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70458</link>
+            <guid>https://www.elle.co.kr/article/70458</guid>
+            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[독일 카셀에서 5년마다 치러지는 현대미술제인 '도큐멘타'. 올해 '도큐멘타 15'에서 유일하게 목...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/aa661c18-bc4b-4bd8-bee6-4ae54bc9966b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작은 아씨들의 세 자매, 김고은-남지현-박지후의 지금 이 순간 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70291</link>
+            <guid>https://www.elle.co.kr/article/70291</guid>
+            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[자신을 마주하며 짜릿하게 살아낼 때, 작은 아씨들은 더 이상 작지 않고 그 무엇이든 될 수 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/d0f5e53d-8ab3-4e5e-a659-26fefe00f6fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차세대 인간샤넬, 뉴진스 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70242</link>
+            <guid>https://www.elle.co.kr/article/70242</guid>
+            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
+            <content:encoded><![CDATA["지금까지 들어본 적도 느껴본 적도 없던 새로운 센세이션! 뉴진스와 샤넬뷰티 루쥬 알뤼르 렉스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/ef053905-22d7-4951-b4e9-6361994c9778.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대단한 분'에서 '든든한 동생'으로! 아유미가 이상화와 절친된 사연 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70444</link>
+            <guid>https://www.elle.co.kr/article/70444</guid>
+            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/76475f34-e218-425b-9f40-f42a70ffbd2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거대한 캔버스에 펼쳐낸 색면의 세계, 배헤윰 #프리즈서울 #포커스아시아 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70434</link>
+            <guid>https://www.elle.co.kr/article/70434</guid>
+            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[배헤윰의 회화는 캔버스를 유영하는 강력한 색채로 시선을 사로잡는다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/35cf3b97-6dbd-4000-9b5e-bdc29c650e0b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아티스트 류성실이 쏘아올린 불타는 노래 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70433</link>
+            <guid>https://www.elle.co.kr/article/70433</guid>
+            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[제19회 에르메스 재단미술상 수상자 류성실이 연 전시의 개막일. 기자간담회에선 작가에게 많은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/160bf2cd-4135-43ec-87d3-1e1f8ad1ee61.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한층 더 짙어진 가을 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70290</link>
+            <guid>https://www.elle.co.kr/article/70290</guid>
+            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
+            <content:encoded><![CDATA['확' 바뀐 가을 공기처럼 더욱 또렷해진 아이브 가을의 시선.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/fd5a79b8-f01a-4b1a-aa88-b6972df457fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김혜수, 20년 만의 사극 드라마 '슈룹'에서 다섯 아들 엄마 된다?! (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/70417</link>
             <guid>https://www.elle.co.kr/article/70417</guid>
@@ -1104,59 +1159,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/75bbbd61-85bd-4800-a0dd-7ee3124cd330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주현영이 말하는 '이상한 변호사 우영우' 시즌 2는? 주현영의 또 다른 이야기. (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70393</link>
-            <guid>https://www.elle.co.kr/article/70393</guid>
-            <pubDate>Sun, 04 Sep 2022 13:31:18 GMT</pubDate>
-            <content:encoded><![CDATA[또 다시, 새로운 얼굴. 주현영이라는 배우.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/b9b269e1-4194-4790-85de-d748a4f4af34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피어나라 르세라핌 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70392</link>
-            <guid>https://www.elle.co.kr/article/70392</guid>
-            <pubDate>Fri, 02 Sep 2022 16:22:55 GMT</pubDate>
-            <content:encoded><![CDATA['ELLE D Edition'과 르세라핌이 만났습니다. 셀린느의 2022 가을 컬렉션을 입고 더 쿨하고 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/83a6be63-d617-4062-bbab-0ef46cbe688c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선 넘은 사람들! 영화 육사오의 유쾌한 4인방 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70235</link>
-            <guid>https://www.elle.co.kr/article/70235</guid>
-            <pubDate>Fri, 02 Sep 2022 16:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[고경표, 이이경, 음문석, 박세완. 영화 육사오(6/45)의 에너지는 이들에게 그야말로 로또일지도 모...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/2f3dfee8-1668-447e-a0dc-41485a327408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, 엘르 D에디션 커버 공개 #ELLE_D에디션 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70379</link>
-            <guid>https://www.elle.co.kr/article/70379</guid>
-            <pubDate>Fri, 02 Sep 2022 16:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르&gt;의 디지털 프로젝트 <d edition="">의 커버스타 르세라핌. 셀린느의 가을 22 컬렉션을 입고...                                    </d>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/3296b99d-a530-47a8-8460-b3dac021fdea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3주 휴식기 마친 '놀면 뭐하니?', 의외의 새 멤버 이이경X박진주가 구원 투수 될까? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70360</link>
-            <guid>https://www.elle.co.kr/article/70360</guid>
-            <pubDate>Fri, 02 Sep 2022 08:21:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/4a3fbaad-331a-4606-9a4a-cac4ecb6b359.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올 뷰티의 혁신, 루즈 디올 포에버 스틱 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70341</link>
-            <guid>https://www.elle.co.kr/article/70341</guid>
-            <pubDate>Fri, 02 Sep 2022 08:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[묻어나지 않는 매트 피니시, 루즈 디올 포에버 스틱의 탄생.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/00ea621d-3417-435d-8415-9c41308549e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨한 파리지엔느로 변신한 르세라핌의 반전 매력 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70316</link>
-            <guid>https://www.elle.co.kr/article/70316</guid>
-            <pubDate>Fri, 02 Sep 2022 08:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[르세라핌 완전체의 첫 디지털 커버 촬영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/15456b65-ddb2-493f-b1e2-1015c51ed539.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아트러버들의 오감을 뒤흔든 작품들 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/70251</link>
+            <guid>https://www.elle.co.kr/article/70251</guid>
+            <pubDate>Fri, 02 Sep 2022 01:29:24 GMT</pubDate>
+            <content:encoded><![CDATA['아트 러버'들의 오감을 깨우고 총체적으로 뒤흔든 작품들. 그 매혹의 순간에 관하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/96f71d04-9a05-4589-9b64-51c2950fbf58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예술의 바다에 첨벙! 세계 최대 규모의 아트 페어 '프리즈' 서울이 개막했다 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1209,14 +1217,6 @@
             <pubDate>Mon, 29 Aug 2022 01:32:36 GMT</pubDate>
             <content:encoded><![CDATA[무려 1년10개월 만의 컴백.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/ab97832b-ab56-4de0-a421-1d3a5b974a86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경과 사뮈의 극적인 조합, 마콤마 #2주의뮤지션 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/70138</link>
-            <guid>https://www.elle.co.kr/article/70138</guid>
-            <pubDate>Thu, 25 Aug 2022 16:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[신인 밴드 마콤마를 ‘너는 아니?’. 꿈속의 목소리 신해경과 아침을 깨우는 목소리 사뮈가 만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/e819c648-84c6-4b1a-a04e-1b5c9dc888db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴백과 동시에 2억 뷰X200만 장 기록! K-걸그룹 최초로 VMAs 간 블랙핑크 사진 모음.zip (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1313,6 +1313,13 @@
             <content:encoded><![CDATA[행성에서 돌아와 주변으로 눈을 돌린 [Object] 시리즈]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[정우성, 청혼 공식 거부?! 청담쀼 아저씨들을 사랑할 수밖에 없는 이유 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/70538</link>
+            <guid>https://www.elle.co.kr/article/70538</guid>
+            <pubDate>Tue, 06 Sep 2022 11:17:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/f511a13f-f202-4c8b-a83a-7e67d0367e5f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['작은 아씨들' 김고은, 남지현, 박지후가 서로의 얼굴을 그려봤다 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/70504</link>
             <guid>https://www.elle.co.kr/article/70504</guid>
@@ -1341,7 +1348,6 @@
             <guid>https://www.elle.co.kr/article/70417</guid>
             <pubDate>Fri, 02 Sep 2022 08:23:58 GMT</pubDate>
             <content:encoded><![CDATA[20년 전에는 장희빈이었던 김혜수.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/75bbbd61-85bd-4800-a0dd-7ee3124cd330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프린스 알리~ 다시 본다?! '알라딘'부터 '모가디슈'까지, 9월 재개봉 확정한 영화 3 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1393,13 +1399,6 @@
             <guid>https://www.elle.co.kr/article/68903</guid>
             <pubDate>Thu, 18 Aug 2022 06:24:25 GMT</pubDate>
             <content:encoded><![CDATA[리티 판 감독이 2022 CHANEL X BIFF 아시아영화아카데미 교장으로 선정됐다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[드라마도 소녀시대가 대세! 임윤아 vs 최수영 vs 권유리 주연작 3편 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/68897</link>
-            <guid>https://www.elle.co.kr/article/68897</guid>
-            <pubDate>Tue, 16 Aug 2022 19:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[‘빅마우스’ vs ‘당소말’ vs ‘굿잡’]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아트러버들의 오감을 뒤흔든 작품들 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1497,6 +1496,14 @@
             <content:encoded><![CDATA[디올이 고르고, 구찌가 모시고, 루이 비통이 선택한 국내 작가들.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스타들이 고른 사적모임 장소 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/70197</link>
+            <guid>https://www.elle.co.kr/article/70197</guid>
+            <pubDate>Tue, 06 Sep 2022 11:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[약속 장소로 제격! 톱모델 모임부터 골때녀들의 회동 장소까지, 셀러브리티들이 모임 장소로 선택...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/b9311a46-aa33-43d5-a50c-27c4305b300a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[차 한 잔과 전시회, 온실 체험까지? 다채롭게 쉴 수 있는 나주 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/70180</link>
             <guid>https://www.elle.co.kr/article/70180</guid>
@@ -1549,14 +1556,6 @@
             <guid>https://www.elle.co.kr/article/68896</guid>
             <pubDate>Fri, 26 Aug 2022 15:23:06 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/a5314db1-1e2a-4fa7-9918-953f65fd2187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충북 향토 음식 도리뱅뱅이와 어죽, 물쫄면까지! 뜨끈하게 즐기는 영동 맛집 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/68895</link>
-            <guid>https://www.elle.co.kr/article/68895</guid>
-            <pubDate>Thu, 25 Aug 2022 20:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[충북의 대표 향토 음식, 어죽 원조 맛집도 인기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/3053c43e-525a-47a8-8756-a116c824e73c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌고래 비봉이도 수족관으로 돌려 보낸 초강력 태풍 힌남노, 한반도에 미칠 영향은? (엘르 코리아 ─ 소사이어티)]]></title>

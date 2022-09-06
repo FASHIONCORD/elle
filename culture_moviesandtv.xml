@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 07:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 11:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정우성, 청혼 공식 거부?! 청담쀼 아저씨들을 사랑할 수밖에 없는 이유]]></title>
+            <link>https://www.elle.co.kr/article/70538</link>
+            <guid>https://www.elle.co.kr/article/70538</guid>
+            <pubDate>Tue, 06 Sep 2022 11:17:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/f511a13f-f202-4c8b-a83a-7e67d0367e5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['작은 아씨들' 김고은, 남지현, 박지후가 서로의 얼굴을 그려봤다]]></title>
             <link>https://www.elle.co.kr/article/70504</link>
@@ -36,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/70417</guid>
             <pubDate>Fri, 02 Sep 2022 08:23:58 GMT</pubDate>
             <content:encoded><![CDATA[20년 전에는 장희빈이었던 김혜수.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/75bbbd61-85bd-4800-a0dd-7ee3124cd330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프린스 알리~ 다시 본다?! '알라딘'부터 '모가디슈'까지, 9월 재개봉 확정한 영화 3]]></title>
@@ -88,13 +94,6 @@
             <guid>https://www.elle.co.kr/article/68903</guid>
             <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
             <content:encoded><![CDATA[리티 판 감독이 2022 CHANEL X BIFF 아시아영화아카데미 교장으로 선정됐다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[드라마도 소녀시대가 대세! 임윤아 vs 최수영 vs 권유리 주연작 3편 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/68897</link>
-            <guid>https://www.elle.co.kr/article/68897</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[‘빅마우스’ vs ‘당소말’ vs ‘굿잡’]]></content:encoded>
         </item>
     </channel>
 </rss>
