@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 22:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌고래 비봉이도 수족관으로 돌려 보낸 초강력 태풍 힌남노, 한반도에 미칠 영향은?]]></title>
+            <link>https://www.elle.co.kr/article/70325</link>
+            <guid>https://www.elle.co.kr/article/70325</guid>
+            <pubDate>Tue, 06 Sep 2022 07:44:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/cb1ecf81-d32d-40fc-9d03-dd0ba6c90baa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["자신에게 친절하라": 모두를 울컥하게 한 필즈상 수상자 허준이의 서울대 졸업 축사]]></title>
             <link>https://www.elle.co.kr/article/70318</link>
@@ -62,13 +69,6 @@
             <pubDate>Fri, 26 Aug 2022 04:26:26 GMT</pubDate>
             <content:encoded><![CDATA[반려동물을 떠나보낸 후 충분히 위로받지 못한 당신에게]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/15/96ab3ad2-c854-4e97-9d61-1756c724b281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈곤한 멘탈부터 버려야 합니다_돈쓸신잡 #58]]></title>
-            <link>https://www.elle.co.kr/article/68792</link>
-            <guid>https://www.elle.co.kr/article/68792</guid>
-            <pubDate>Thu, 25 Aug 2022 16:25:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/423fc75d-7e7e-4a5a-bbad-229ef768ec7b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

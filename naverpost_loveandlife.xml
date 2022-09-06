@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 22:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠키&빵지순례각! 셀럽들이 들른 디저트 맛집 3]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34430965&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34430965&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 06 Sep 2022 07:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDZfMTc4/MDAxNjYyNDM5NzMzMzMz.moypoy-SoDun2ICNT9Ki-QBeYNHaeZJB_5AIMU9HVj8g.7fNMH50Dn_3mruQjnwgbF8ydkbravTuGLx_bBP8mPFog.JPEG/I-w_lgvv_PseYOR7DdSB3B4t6qUs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[믿고 먹을 수 있는 나주 찐맛집 리스트! #장어구이 #나주곰탕 #홍어]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34412017&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 07 Aug 2022 23:13:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDhfMjg0/MDAxNjU5ODk5NTY4NTg3.U0CMf-6ni-GyGboS25rgawDdTFII04Yoi9q40yiskj4g.7deFc80B__mWcYKfemjnEoWTIh6SdlBUe9jFtUdc5u8g.JPEG/I7hOLEPWVHAK19l0AxawcUb0Hg54.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현지인 추천! 문경의 소문난 로컬 맛집 3]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34269169&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34269169&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sun, 07 Aug 2022 23:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDhfMjk2/MDAxNjU5ODk5MDM3MzE1.e3uzO_O6-riBEF4O5tiuVgfRgewUZjeXGMjvJLnGkjcg.-2WUDJ1Ng-L2Gkc6GQbgD4LbuzQ_iqrkTOLcDgUgOtgg.JPEG/I_KKu42W8EXYOZ3zTm6OuYWRIKBk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
