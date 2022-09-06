@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 11:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 15:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스부터 주현영까지! 이건 꼭 '손민수'해야 해!! 스타들의 스킨케어 애장템 총정리.zip]]></title>
+            <link>https://www.elle.co.kr/article/70422</link>
+            <guid>https://www.elle.co.kr/article/70422</guid>
+            <pubDate>Tue, 06 Sep 2022 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[엘르에서 직접 밝힌 그들의 ‘최애’ 뷰티템은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/939d93c0-9c65-4fac-ae31-9c4ba2c07b70.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠 못 들게 매력적인 도시의 향기, 메종 프란시스 커정 724]]></title>
             <link>https://www.elle.co.kr/article/70258</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 01 Sep 2022 12:30:52 GMT</pubDate>
             <content:encoded><![CDATA[귀차니즘 다이어터들의 선택, ‘다이어트 환’에 대한 궁금증.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/783d9314-a085-4a59-8086-ea69e17efa91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배윤영의 손에서 뗄 수 없는 것]]></title>
-            <link>https://www.elle.co.kr/article/70126</link>
-            <guid>https://www.elle.co.kr/article/70126</guid>
-            <pubDate>Wed, 31 Aug 2022 17:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[완벽한 외출을 위한 아이템, 쟈딕앤볼테르 백]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/6ce9edb9-fd0d-4bcf-9fa5-4ad9d51f87f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
