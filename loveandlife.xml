@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 15:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 17:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼일 없어도 돌아다니고 싶은 요즘, 선선한 날씨에 들르기 좋은 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/70232</link>
+            <guid>https://www.elle.co.kr/article/70232</guid>
+            <pubDate>Tue, 06 Sep 2022 17:29:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/260e4909-b992-4802-bcee-22789fabc5dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타들이 고른 사적모임 장소 3]]></title>
             <link>https://www.elle.co.kr/article/70197</link>
@@ -61,13 +68,6 @@
             <pubDate>Sun, 28 Aug 2022 18:22:21 GMT</pubDate>
             <content:encoded><![CDATA[안소희가 먹방을 하고 온 곳은 어디? 한식부터 일식까지, 소식좌의 식욕도 돋우는 맛집 리스트...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/2c2d3e2f-622d-41fe-8b76-d9bd055ed87b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분위기에 취한다! 음악과 함께 시대를 넘나들 수 있는 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/68896</link>
-            <guid>https://www.elle.co.kr/article/68896</guid>
-            <pubDate>Fri, 26 Aug 2022 15:23:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/a5314db1-1e2a-4fa7-9918-953f65fd2187.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
