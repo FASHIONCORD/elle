@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 17:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 22:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9월 신작 비교! 김고은의 '작은 아씨들' vs 이승기의 '법대로 사랑하라' #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/70501</link>
+            <guid>https://www.elle.co.kr/article/70501</guid>
+            <pubDate>Tue, 06 Sep 2022 22:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[첫 방송부터 뜨거운 관심이 쏟아지는 중.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/0862cfe8-d383-47f7-a371-e3d177d4c433.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오겜 240번' 이유미가 한국인 최초로 받은 에미상 '게스트상'! 도대체 어떤 상이기에?]]></title>
+            <link>https://www.elle.co.kr/article/70495</link>
+            <guid>https://www.elle.co.kr/article/70495</guid>
+            <pubDate>Tue, 06 Sep 2022 22:18:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/3c54798b-4289-4187-8bf3-fb583d760ac5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독일 카셀에서 열리는 현대미술제 '도큐멘타'에서 목격된 한국팀, 이끼바위쿠르르]]></title>
             <link>https://www.elle.co.kr/article/70458</link>
@@ -53,22 +68,6 @@
             <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
             <content:encoded><![CDATA[제19회 에르메스 재단미술상 수상자 류성실이 연 전시의 개막일. 기자간담회에선 작가에게 많은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/160bf2cd-4135-43ec-87d3-1e1f8ad1ee61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한층 더 짙어진 가을]]></title>
-            <link>https://www.elle.co.kr/article/70290</link>
-            <guid>https://www.elle.co.kr/article/70290</guid>
-            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
-            <content:encoded><![CDATA['확' 바뀐 가을 공기처럼 더욱 또렷해진 아이브 가을의 시선.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/fd5a79b8-f01a-4b1a-aa88-b6972df457fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김혜수, 20년 만의 사극 드라마 '슈룹'에서 다섯 아들 엄마 된다?!]]></title>
-            <link>https://www.elle.co.kr/article/70417</link>
-            <guid>https://www.elle.co.kr/article/70417</guid>
-            <pubDate>Sun, 04 Sep 2022 17:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[20년 전에는 장희빈이었던 김혜수.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/75bbbd61-85bd-4800-a0dd-7ee3124cd330.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
