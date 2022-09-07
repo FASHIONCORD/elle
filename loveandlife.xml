@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 01:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달콤한 건 못 참지! 스타가 들른 디저트 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/70445</link>
+            <guid>https://www.elle.co.kr/article/70445</guid>
+            <pubDate>Wed, 07 Sep 2022 09:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[당 충전이 필요한 디저트 러버 주목! 캐러멜 샌드부터 크로핀, 쿠키까지, 달달함 100% 완충 가...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/4e170da7-d943-4e37-9d22-b26e89191168.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대표 음식이 대체 몇 개야? 나주곰탕에 장어구이, 홍어까지! 식욕 돋우는 나주 맛집 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/70289</link>
+            <guid>https://www.elle.co.kr/article/70289</guid>
+            <pubDate>Wed, 07 Sep 2022 09:23:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/02b90554-5851-4e58-9cce-fc7944474aef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볼일 없어도 돌아다니고 싶은 요즘, 선선한 날씨에 들르기 좋은 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/70232</link>
@@ -52,22 +67,6 @@
             <pubDate>Tue, 30 Aug 2022 01:49:48 GMT</pubDate>
             <content:encoded><![CDATA[당 충전이 필요할 때! 눈으로 한번, 입으로 한 번 맛보는 디저트 덕후 저격 푸딩 맛집을 살펴...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/160dc8e4-3a5a-46ca-b0ea-2a6d3be74b14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱그러운 기운이 쏟아지는 테라스가 포인트! 인테리어 팁이 가득한 랜선집들이 #취향을담은집]]></title>
-            <link>https://www.elle.co.kr/article/68906</link>
-            <guid>https://www.elle.co.kr/article/68906</guid>
-            <pubDate>Mon, 29 Aug 2022 06:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[좋아하는 무언가에 애정을 쏟을 줄 알고, 분명한 취향을 바탕으로 자신만의 행복하고 풍요로운 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/a7906b29-8306-400d-80d5-300d1ed00554.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안소희 Pick! 소식좌도 감동한 한.중.일식 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/68899</link>
-            <guid>https://www.elle.co.kr/article/68899</guid>
-            <pubDate>Sun, 28 Aug 2022 18:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[안소희가 먹방을 하고 온 곳은 어디? 한식부터 일식까지, 소식좌의 식욕도 돋우는 맛집 리스트...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/2c2d3e2f-622d-41fe-8b76-d9bd055ed87b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

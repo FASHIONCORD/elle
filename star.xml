@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 01:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['작은 아씨들' 김고은, 남지현, 박지후가 서로의 얼굴을 그려봤다]]></title>
+            <link>https://www.elle.co.kr/article/70504</link>
+            <guid>https://www.elle.co.kr/article/70504</guid>
+            <pubDate>Wed, 07 Sep 2022 09:21:37 GMT</pubDate>
+            <content:encoded><![CDATA['찐' 자매란 이런 것?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a28f0ca1-bb90-4420-bad1-ab97c173df3d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[9월 신작 비교! 김고은의 '작은 아씨들' vs 이승기의 '법대로 사랑하라' #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/70501</link>
@@ -60,14 +68,6 @@
             <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
             <content:encoded><![CDATA[배헤윰의 회화는 캔버스를 유영하는 강력한 색채로 시선을 사로잡는다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/35cf3b97-6dbd-4000-9b5e-bdc29c650e0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아티스트 류성실이 쏘아올린 불타는 노래]]></title>
-            <link>https://www.elle.co.kr/article/70433</link>
-            <guid>https://www.elle.co.kr/article/70433</guid>
-            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[제19회 에르메스 재단미술상 수상자 류성실이 연 전시의 개막일. 기자간담회에선 작가에게 많은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/160bf2cd-4135-43ec-87d3-1e1f8ad1ee61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

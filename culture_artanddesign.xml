@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 01:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 그린 그림이 미술대회에서 우승했다. 이 그림은 표절일까?]]></title>
+            <link>https://www.elle.co.kr/article/70561</link>
+            <guid>https://www.elle.co.kr/article/70561</guid>
+            <pubDate>Wed, 07 Sep 2022 09:23:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/b20bdb9b-209f-40ae-b369-a4a5d7c698ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 아트 위크의 하이라이트, 프랜시스 베이컨과 아드리안 게니 전시]]></title>
+            <link>https://www.elle.co.kr/article/70500</link>
+            <guid>https://www.elle.co.kr/article/70500</guid>
+            <pubDate>Wed, 07 Sep 2022 09:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[크리스티와 홈아트의 공동 개최 전시로 두 아이콘의 주요작을 공개했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/2e159091-881f-4c99-9e27-5e67ce272dae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트러버들의 오감을 뒤흔든 작품들]]></title>
             <link>https://www.elle.co.kr/article/70251</link>
@@ -29,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/70357</guid>
             <pubDate>Wed, 31 Aug 2022 18:24:33 GMT</pubDate>
             <content:encoded><![CDATA[전격적으로 서울을 찾은 특급 갤러리들과 주요 아트 피스 미리보기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/4153b562-7153-45ea-95b9-9a397e1ba5bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일상적인듯 기묘한 도자 작품! 아티스트 신다인이 발견한 틈과 구멍]]></title>
@@ -37,7 +51,6 @@
             <guid>https://www.elle.co.kr/article/68987</guid>
             <pubDate>Thu, 25 Aug 2022 18:20:49 GMT</pubDate>
             <content:encoded><![CDATA[시작은 하수구 구멍이었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/51b36d42-2ba7-42c1-9629-24d914143581.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
@@ -87,20 +100,6 @@
             <guid>https://www.elle.co.kr/article/66912</guid>
             <pubDate>Thu, 25 Aug 2022 18:20:49 GMT</pubDate>
             <content:encoded><![CDATA[취미와 인테리어를 동시에 즐길 수 있는 ‘레고 보태니컬 컬렉션’]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3년만에 돌아왔다! 웰컴백 베니스비엔날레]]></title>
-            <link>https://www.elle.co.kr/article/66740</link>
-            <guid>https://www.elle.co.kr/article/66740</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[여성 아티스트들의 독주, 그리고 우크라이나를 향한 연대까지. 역대급으로 돌아온 베니스 비엔날레]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[명품 패션하우스가 인정한 국가대표 아티스트는 바로 이 사람]]></title>
-            <link>https://www.elle.co.kr/article/66724</link>
-            <guid>https://www.elle.co.kr/article/66724</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[디올이 고르고, 구찌가 모시고, 루이 비통이 선택한 국내 작가들.]]></content:encoded>
         </item>
     </channel>
 </rss>
