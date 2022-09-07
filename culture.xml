@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 15:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 16:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오겜 240번' 이유미가 한국인 최초로 받은 에미상 '게스트상'! 도대체 어떤 상이기에?]]></title>
+            <link>https://www.elle.co.kr/article/70495</link>
+            <guid>https://www.elle.co.kr/article/70495</guid>
+            <pubDate>Wed, 07 Sep 2022 16:25:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/3c54798b-4289-4187-8bf3-fb583d760ac5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김혜수, 20년 만의 사극 드라마 '슈룹'에서 다섯 아들 엄마 된다?!]]></title>
+            <link>https://www.elle.co.kr/article/70417</link>
+            <guid>https://www.elle.co.kr/article/70417</guid>
+            <pubDate>Wed, 07 Sep 2022 16:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[20년 전에는 장희빈이었던 김혜수.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/75bbbd61-85bd-4800-a0dd-7ee3124cd330.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트러버들의 오감을 뒤흔든 작품들]]></title>
             <link>https://www.elle.co.kr/article/70251</link>
@@ -51,21 +66,6 @@
             <guid>https://www.elle.co.kr/article/70231</guid>
             <pubDate>Fri, 02 Sep 2022 06:46:51 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/6f5bdf2a-c073-47c6-8b52-9a01f65eb142.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['헌트' 대박 난 감독 이정재, 다음은 '다만 악에서 구하소서' 스핀오프 주인공으로?!]]></title>
-            <link>https://www.elle.co.kr/article/70191</link>
-            <guid>https://www.elle.co.kr/article/70191</guid>
-            <pubDate>Fri, 02 Sep 2022 06:46:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/604da457-f822-4699-86e3-16a7f6eda469.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴백과 동시에 2억 뷰X200만 장 기록! K-걸그룹 최초로 VMAs 간 블랙핑크 사진 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/70188</link>
-            <guid>https://www.elle.co.kr/article/70188</guid>
-            <pubDate>Thu, 01 Sep 2022 08:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[무려 1년10개월 만의 컴백.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/ab97832b-ab56-4de0-a421-1d3a5b974a86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

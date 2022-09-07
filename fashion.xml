@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 15:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 16:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 시즌 기억해야 할 뷰티 키워드와 실생활 적용 가능한 실전 가이드]]></title>
+            <link>https://www.elle.co.kr/article/70447</link>
+            <guid>https://www.elle.co.kr/article/70447</guid>
+            <pubDate>Wed, 07 Sep 2022 16:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[RUNWAY to ELLEWAY!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/f479c300-fcad-4e74-994d-a77c0e9938a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웨딩 드레스, 이게 된다고?]]></title>
+            <link>https://www.elle.co.kr/article/70404</link>
+            <guid>https://www.elle.co.kr/article/70404</guid>
+            <pubDate>Wed, 07 Sep 2022 16:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[레이디들의 우아하고 대담한 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/a8bdb522-af50-4d03-b839-b92f2b43706b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환상의 섬에서 만난 구찌]]></title>
             <link>https://www.elle.co.kr/article/70416</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 02 Sep 2022 10:17:45 GMT</pubDate>
             <content:encoded><![CDATA[그윽한 가을 향기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/41c585c1-c11e-4ae1-aaf4-fe2a8780b504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까르띠에의 프렌치 키스]]></title>
-            <link>https://www.elle.co.kr/article/70300</link>
-            <guid>https://www.elle.co.kr/article/70300</guid>
-            <pubDate>Fri, 02 Sep 2022 10:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[창문 너머로 스며든 햇살이 맞닿는 순간, 반짝이며 피어나는 우아함.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/bf5c1701-8bc4-4531-a4d3-2132b0b3b18e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시크하게 혹은 캐주얼하게! '빅마우스' 임윤아 VS '오늘의 웹툰' 김세정 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/70292</link>
-            <guid>https://www.elle.co.kr/article/70292</guid>
-            <pubDate>Fri, 02 Sep 2022 10:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[연기돌을 넘어 이제는 ‘믿고 보는’ 배우로 등극! '빅마우스' 임윤아와 '오늘의 웹툰' 김세정,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/60d35abb-7de9-41c3-8aca-4fcfb9061a9b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,32 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 15:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 16:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["경로 예측이 의미 없다": 힌남노 영향권에 든 한반도, 지금이라도 준비해야 할 것들]]></title>
+            <link>https://www.elle.co.kr/article/70462</link>
+            <guid>https://www.elle.co.kr/article/70462</guid>
+            <pubDate>Wed, 07 Sep 2022 16:26:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/d0b33487-6924-4ece-816b-4886d0cc1fa6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 어느 날 몸이 비뚤어졌다. 그래서 요가를 시작했다]]></title>
+            <link>https://www.elle.co.kr/article/70459</link>
+            <guid>https://www.elle.co.kr/article/70459</guid>
+            <pubDate>Wed, 07 Sep 2022 16:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[나보다 못하는 사람이 있는지 주변을 두리번거렸던 운동 초보자라면 핵공감!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/8b9cf49a-73e5-4d9a-84e7-fe12d6925d02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고금리 시대, 우리가 갈아타야 할 것들_돈쓸신잡 #61]]></title>
+            <link>https://www.elle.co.kr/article/70425</link>
+            <guid>https://www.elle.co.kr/article/70425</guid>
+            <pubDate>Wed, 07 Sep 2022 16:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[금리 인상기에 주목해 볼 만한 것들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/f0f682fb-eb48-4110-85df-27be2fb32d68.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌고래 비봉이도 수족관으로 돌려 보낸 초강력 태풍 힌남노, 한반도에 미칠 영향은?]]></title>
             <link>https://www.elle.co.kr/article/70325</link>
@@ -45,30 +68,6 @@
             <pubDate>Fri, 02 Sep 2022 21:18:55 GMT</pubDate>
             <content:encoded><![CDATA[진짜 여성들의 목소리를 담은 영화.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/bc9766af-aef0-4aa4-ae27-9156764067e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브라보, 엠마 톰슨_요주의여성 #69]]></title>
-            <link>https://www.elle.co.kr/article/68966</link>
-            <guid>https://www.elle.co.kr/article/68966</guid>
-            <pubDate>Wed, 31 Aug 2022 08:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[63세 엠마 톰슨, 이보다 더 섹시하고 용감할 순 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/ce480d79-bcf6-45ec-b6dc-aeb04b07074b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치킨 전쟁이 매우 뜨겁다_돈쓸신잡 #60]]></title>
-            <link>https://www.elle.co.kr/article/68950</link>
-            <guid>https://www.elle.co.kr/article/68950</guid>
-            <pubDate>Wed, 31 Aug 2022 08:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[논쟁의 주인공은 5000원짜리 치킨이었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/6ebf2275-05bf-4081-a51f-8eac868d9ca5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반려동물의 죽음은 왜 이토록 큰 상처를 남길까?]]></title>
-            <link>https://www.elle.co.kr/article/68843</link>
-            <guid>https://www.elle.co.kr/article/68843</guid>
-            <pubDate>Fri, 26 Aug 2022 04:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[반려동물을 떠나보낸 후 충분히 위로받지 못한 당신에게]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/15/96ab3ad2-c854-4e97-9d61-1756c724b281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
