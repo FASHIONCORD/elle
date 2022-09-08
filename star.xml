@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 08:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 12:38:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[세대를 잇다] 월트 디즈니의 김미란 캐릭터 아트매니저와 일러스트레이터 권서영이 직조해낸 멋진 세계]]></title>
+            <link>https://www.elle.co.kr/article/70548</link>
+            <guid>https://www.elle.co.kr/article/70548</guid>
+            <pubDate>Thu, 08 Sep 2022 12:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[노력과 반복, 그리고 상상 속에서 탄생한 일러스트레이션의 세상에서 조우한 두 사람]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/d2fa1795-1178-4dec-badf-f2a14caef32b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(구)남편 식장 난입에 축가는 아나까나?! 오나미-박민의 유쾌한 결혼식 현장 사진.zip]]></title>
             <link>https://www.elle.co.kr/article/70540</link>
@@ -60,14 +68,6 @@
             <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
             <content:encoded><![CDATA[자신을 마주하며 짜릿하게 살아낼 때, 작은 아씨들은 더 이상 작지 않고 그 무엇이든 될 수 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/d0f5e53d-8ab3-4e5e-a659-26fefe00f6fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차세대 인간샤넬, 뉴진스]]></title>
-            <link>https://www.elle.co.kr/article/70242</link>
-            <guid>https://www.elle.co.kr/article/70242</guid>
-            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
-            <content:encoded><![CDATA["지금까지 들어본 적도 느껴본 적도 없던 새로운 센세이션! 뉴진스와 샤넬뷰티 루쥬 알뤼르 렉스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/ef053905-22d7-4951-b4e9-6361994c9778.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

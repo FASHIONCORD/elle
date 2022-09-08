@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 08:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 12:38:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 준비 시작! 지금 봐도 예쁜 90년대 영화 속 패션 #옷잘입는언니]]></title>
+            <link>https://www.elle.co.kr/article/70560</link>
+            <guid>https://www.elle.co.kr/article/70560</guid>
+            <pubDate>Thu, 08 Sep 2022 12:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[유행은 돌고 돈다는 진리! 올가을에도 유효합니다. 지금 당장 따라 하고 싶은 90년대 영화 속 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/725e7fea-6086-4f59-bab5-83713023d0b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누가봐도 아티스트 집]]></title>
             <link>https://www.elle.co.kr/article/70243</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 04 Sep 2022 18:18:14 GMT</pubDate>
             <content:encoded><![CDATA['아트 러버'들의 오감을 깨우고 총체적으로 뒤흔든 작품들. 그 매혹의 순간에 관하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/96f71d04-9a05-4589-9b64-51c2950fbf58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피어나라 르세라핌]]></title>
-            <link>https://www.elle.co.kr/article/70392</link>
-            <guid>https://www.elle.co.kr/article/70392</guid>
-            <pubDate>Sun, 04 Sep 2022 18:18:14 GMT</pubDate>
-            <content:encoded><![CDATA['ELLE D Edition'과 르세라핌이 만났습니다. 셀린느의 2022 가을 컬렉션을 입고 더 쿨하고 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/83a6be63-d617-4062-bbab-0ef46cbe688c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
