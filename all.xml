@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 18:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 20:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1555,6 +1555,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/5b4fe6fe-2791-4111-b744-5d9e26baeac3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스] 문과생이 운동 코치가 될 확률은? 근력만 있으면 다 할 수 있다 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/70512</link>
+            <guid>https://www.elle.co.kr/article/70512</guid>
+            <pubDate>Thu, 08 Sep 2022 20:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[진짜로 술집까지 열게 된 샤크짐 에리카 코치의 좌충우돌 라이프 어드벤처.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/ea907168-e575-4668-81f9-dae6d84e1b7b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['쉬헐크'로 사는 건 피곤해_요주의여성 #70 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/70472</link>
             <guid>https://www.elle.co.kr/article/70472</guid>
@@ -1607,14 +1615,6 @@
             <pubDate>Mon, 05 Sep 2022 09:24:03 GMT</pubDate>
             <content:encoded><![CDATA[신사임당의 유튜브 채널이 사고 팔 수 있는 '상품'이 된 이유.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/6e715c27-fb7b-4c0f-8996-8b866b3848aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 여성 임팩트 창업가를 위한 솔직하고 뜨거운 실제 경험담 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/70106</link>
-            <guid>https://www.elle.co.kr/article/70106</guid>
-            <pubDate>Mon, 05 Sep 2022 09:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타트업 6곳 중 3곳은 3년 내 문을 닫는 현실. 3년 차 스타트업 대표가 언더우먼 임팩트 커...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/7ecca310-41f1-40bd-a316-ecb482971425.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
