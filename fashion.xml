@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 21:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누가봐도 아티스트 집]]></title>
+            <link>https://www.elle.co.kr/article/70243</link>
+            <guid>https://www.elle.co.kr/article/70243</guid>
+            <pubDate>Thu, 08 Sep 2022 05:58:53 GMT</pubDate>
+            <content:encoded><![CDATA[취향과 개성이 폭발하는 90년생 뮤지션 세이나보 세이의 집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/53bab7c7-baf4-4798-8f96-5ee71ba2afdb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여자의 변신은 무죄! 과감하게 헤어스타일 바꿔 보기]]></title>
+            <link>https://www.elle.co.kr/article/70457</link>
+            <guid>https://www.elle.co.kr/article/70457</guid>
+            <pubDate>Thu, 08 Sep 2022 05:58:53 GMT</pubDate>
+            <content:encoded><![CDATA[과감하게 헤어스타일을 바꿔 180도 변신한 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/bf0f4a41-5d86-46ff-8338-d594a097adf6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 이 순간, 예술의 중심은 독일 중부 도시 카셀]]></title>
+            <link>https://www.elle.co.kr/article/70453</link>
+            <guid>https://www.elle.co.kr/article/70453</guid>
+            <pubDate>Thu, 08 Sep 2022 05:58:53 GMT</pubDate>
+            <content:encoded><![CDATA[베를린도, 뮌헨도 아니다. 지금 예술의 중심은 독일 중부 도시 카셀이다. 동시대 가장 뜨겁고 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/5c6ecbca-6123-4b36-a316-16610504668d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 시즌 기억해야 할 뷰티 키워드와 실생활 적용 가능한 실전 가이드]]></title>
             <link>https://www.elle.co.kr/article/70447</link>
@@ -46,30 +70,6 @@
             <pubDate>Sun, 04 Sep 2022 18:18:14 GMT</pubDate>
             <content:encoded><![CDATA['ELLE D Edition'과 르세라핌이 만났습니다. 셀린느의 2022 가을 컬렉션을 입고 더 쿨하고 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/83a6be63-d617-4062-bbab-0ef46cbe688c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, 엘르 D에디션 커버 공개 #ELLE_D에디션]]></title>
-            <link>https://www.elle.co.kr/article/70379</link>
-            <guid>https://www.elle.co.kr/article/70379</guid>
-            <pubDate>Sun, 04 Sep 2022 18:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르&gt;의 디지털 프로젝트 <d edition="">의 커버스타 르세라핌. 셀린느의 가을 22 컬렉션을 입고...                                    </d>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/3296b99d-a530-47a8-8460-b3dac021fdea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름과 가을 사이, 재킷보다 유용한 웨이스트코트 활용법 5]]></title>
-            <link>https://www.elle.co.kr/article/70358</link>
-            <guid>https://www.elle.co.kr/article/70358</guid>
-            <pubDate>Sun, 04 Sep 2022 18:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[푹 파진 V 네크와 나란한 버튼의 매력! 스타들의 사복패션 치트키로 자리 잡은 웨이스트코트를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/2ab342aa-0280-464d-a89d-a71e5517fef8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커피 한 잔이 생각나는 폴로 랄프로렌의 뉴 룩]]></title>
-            <link>https://www.elle.co.kr/article/70354</link>
-            <guid>https://www.elle.co.kr/article/70354</guid>
-            <pubDate>Fri, 02 Sep 2022 10:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[그윽한 가을 향기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/41c585c1-c11e-4ae1-aaf4-fe2a8780b504.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

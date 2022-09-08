@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 21:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김치피자탕수육 같던 여자 예능 '지락실', 시즌1 굿즈와 시즌2 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/70591</link>
+            <guid>https://www.elle.co.kr/article/70591</guid>
+            <pubDate>Thu, 08 Sep 2022 06:00:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/35341a07-300c-42d5-b707-bf82f2568a64.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정우성, 청혼 공식 거부?! 청담쀼 아저씨들을 사랑할 수밖에 없는 이유]]></title>
             <link>https://www.elle.co.kr/article/70538</link>
@@ -35,7 +42,6 @@
             <link>https://www.elle.co.kr/article/70495</link>
             <guid>https://www.elle.co.kr/article/70495</guid>
             <pubDate>Mon, 05 Sep 2022 07:35:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/3c54798b-4289-4187-8bf3-fb583d760ac5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김혜수, 20년 만의 사극 드라마 '슈룹'에서 다섯 아들 엄마 된다?!]]></title>
@@ -87,13 +93,6 @@
             <guid>https://www.elle.co.kr/article/68969</guid>
             <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
             <content:encoded><![CDATA[진짜 여성들의 목소리를 담은 영화.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 CHANEL X BIFF 아시아영화아카데미를 이끌 리더는?]]></title>
-            <link>https://www.elle.co.kr/article/68903</link>
-            <guid>https://www.elle.co.kr/article/68903</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[리티 판 감독이 2022 CHANEL X BIFF 아시아영화아카데미 교장으로 선정됐다.]]></content:encoded>
         </item>
     </channel>
 </rss>

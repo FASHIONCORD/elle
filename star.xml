@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 21:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(구)남편 식장 난입에 축가는 아나까나?! 오나미-박민의 유쾌한 결혼식 현장 사진.zip]]></title>
+            <link>https://www.elle.co.kr/article/70540</link>
+            <guid>https://www.elle.co.kr/article/70540</guid>
+            <pubDate>Thu, 08 Sep 2022 05:59:18 GMT</pubDate>
+            <content:encoded><![CDATA[코미디언 동료들이 열어 준 브라이덜 샤워와 웨딩 화보도!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/7b27f8cf-3ec3-48f3-8a02-1d9a7862f5a0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정우성, 청혼 공식 거부?! 청담쀼 아저씨들을 사랑할 수밖에 없는 이유]]></title>
+            <link>https://www.elle.co.kr/article/70538</link>
+            <guid>https://www.elle.co.kr/article/70538</guid>
+            <pubDate>Thu, 08 Sep 2022 05:59:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/f511a13f-f202-4c8b-a83a-7e67d0367e5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['작은 아씨들' 김고은, 남지현, 박지후가 서로의 얼굴을 그려봤다]]></title>
             <link>https://www.elle.co.kr/article/70504</link>
@@ -53,21 +68,6 @@
             <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
             <content:encoded><![CDATA["지금까지 들어본 적도 느껴본 적도 없던 새로운 센세이션! 뉴진스와 샤넬뷰티 루쥬 알뤼르 렉스...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/ef053905-22d7-4951-b4e9-6361994c9778.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대단한 분'에서 '든든한 동생'으로! 아유미가 이상화와 절친된 사연]]></title>
-            <link>https://www.elle.co.kr/article/70444</link>
-            <guid>https://www.elle.co.kr/article/70444</guid>
-            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/76475f34-e218-425b-9f40-f42a70ffbd2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거대한 캔버스에 펼쳐낸 색면의 세계, 배헤윰 #프리즈서울 #포커스아시아]]></title>
-            <link>https://www.elle.co.kr/article/70434</link>
-            <guid>https://www.elle.co.kr/article/70434</guid>
-            <pubDate>Tue, 06 Sep 2022 11:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[배헤윰의 회화는 캔버스를 유영하는 강력한 색채로 시선을 사로잡는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/35cf3b97-6dbd-4000-9b5e-bdc29c650e0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
