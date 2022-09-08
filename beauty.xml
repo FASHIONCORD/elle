@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:58:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 시즌 기억해야 할 뷰티 키워드와 실생활 적용 가능한 실전 가이드]]></title>
+            <link>https://www.elle.co.kr/article/70447</link>
+            <guid>https://www.elle.co.kr/article/70447</guid>
+            <pubDate>Thu, 08 Sep 2022 06:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[RUNWAY to ELLEWAY!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/f479c300-fcad-4e74-994d-a77c0e9938a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스부터 주현영까지! 이건 꼭 '손민수'해야 해!! 스타들의 스킨케어 애장템 총정리.zip]]></title>
             <link>https://www.elle.co.kr/article/70422</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 01 Sep 2022 12:30:52 GMT</pubDate>
             <content:encoded><![CDATA[Y2K의 영향을 짙게 받은 글로시 립과 마스크 시대에 딱인 매트 립]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/4e954332-d185-4715-91be-b5ad9a981ffa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 약을 주문했다_몸에 좋은 잔소리 #46]]></title>
-            <link>https://www.elle.co.kr/article/70266</link>
-            <guid>https://www.elle.co.kr/article/70266</guid>
-            <pubDate>Thu, 01 Sep 2022 12:30:52 GMT</pubDate>
-            <content:encoded><![CDATA[귀차니즘 다이어터들의 선택, ‘다이어트 환’에 대한 궁금증.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/783d9314-a085-4a59-8086-ea69e17efa91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
