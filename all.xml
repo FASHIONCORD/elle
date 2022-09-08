@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 07:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 08:30:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1400,6 +1400,22 @@
             <content:encoded><![CDATA[진짜 여성들의 목소리를 담은 영화.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[건축물부터 예술 그 자체! 제주 미술관 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/70601</link>
+            <guid>https://www.elle.co.kr/article/70601</guid>
+            <pubDate>Thu, 08 Sep 2022 08:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[예술의 섬 제주를 제대로 즐기는 법!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/b461d1ed-c83f-497a-8697-0e3ad63177d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[직진만 하는 나이키! 세상에서 가장 착한 회색 후디를 먼저 입어 보았습니다 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/70596</link>
+            <guid>https://www.elle.co.kr/article/70596</guid>
+            <pubDate>Thu, 08 Sep 2022 08:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[포워드Forward 는 미래로 나아가는 나이키, 그 자체다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/70257391-6047-4faf-9e1c-4b7ac0f45221.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AI가 그린 그림이 미술대회에서 우승했다. 이 그림은 표절일까? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/70561</link>
             <guid>https://www.elle.co.kr/article/70561</guid>
@@ -1420,7 +1436,6 @@
             <guid>https://www.elle.co.kr/article/70251</guid>
             <pubDate>Fri, 02 Sep 2022 01:29:24 GMT</pubDate>
             <content:encoded><![CDATA['아트 러버'들의 오감을 깨우고 총체적으로 뒤흔든 작품들. 그 매혹의 순간에 관하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/96f71d04-9a05-4589-9b64-51c2950fbf58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예술의 바다에 첨벙! 세계 최대 규모의 아트 페어 '프리즈' 서울이 개막했다 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1428,7 +1443,6 @@
             <guid>https://www.elle.co.kr/article/70388</guid>
             <pubDate>Fri, 02 Sep 2022 01:29:24 GMT</pubDate>
             <content:encoded><![CDATA[키아프와 함께 열릴 프리즈 서울에 관해 짚어 보아야 할 다섯 가지 쟁점들. 프리즈 서울의 디...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/345b1433-6a6e-4644-94cc-6d3d781423ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리즈X키아프! 사상 최대의 아트 축제를 위한 예열 리스트 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1478,20 +1492,6 @@
             <guid>https://www.elle.co.kr/article/67489</guid>
             <pubDate>Mon, 27 Jun 2022 05:30:54 GMT</pubDate>
             <content:encoded><![CDATA[지금 서울을 뜨겁게 만든 남다른 신규 전시들. 키워드는 2개 이상 장소에서 열릴 것! 서울시립...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 탁월한 디자인 총집합, EDIDA 2022 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/67107</link>
-            <guid>https://www.elle.co.kr/article/67107</guid>
-            <pubDate>Thu, 09 Jun 2022 16:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[엘르 데코가 주목한 디자인.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레고 보태니컬 컬렉션으로 완성하는 플랜테리어 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/66912</link>
-            <guid>https://www.elle.co.kr/article/66912</guid>
-            <pubDate>Fri, 03 Jun 2022 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[취미와 인테리어를 동시에 즐길 수 있는 ‘레고 보태니컬 컬렉션’]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사람과 예술 그리고 아테온의 성공적 만남 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
