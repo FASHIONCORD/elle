@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 15:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 16:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안과 밖의 경계에선 펜디의 그녀]]></title>
+            <link>https://www.elle.co.kr/article/70584</link>
+            <guid>https://www.elle.co.kr/article/70584</guid>
+            <pubDate>Thu, 08 Sep 2022 16:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[조금 헝클어져도 괜찮아!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/ae60c51d-ba8e-4fc2-a10c-ab6275b9254a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 준비 시작! 지금 봐도 예쁜 90년대 영화 속 패션 #옷잘입는언니]]></title>
             <link>https://www.elle.co.kr/article/70560</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 06 Sep 2022 11:13:59 GMT</pubDate>
             <content:encoded><![CDATA[이국적인 풍경 앞에 펼쳐진 파라다이스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/420c9bfe-7cd9-4b10-9df9-a2527b2f24c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트러버들의 오감을 뒤흔든 작품들]]></title>
-            <link>https://www.elle.co.kr/article/70251</link>
-            <guid>https://www.elle.co.kr/article/70251</guid>
-            <pubDate>Sun, 04 Sep 2022 18:18:14 GMT</pubDate>
-            <content:encoded><![CDATA['아트 러버'들의 오감을 깨우고 총체적으로 뒤흔든 작품들. 그 매혹의 순간에 관하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/96f71d04-9a05-4589-9b64-51c2950fbf58.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
