@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ NOTICE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 21:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 06:01:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘르 30주년 리커넥트 콘서트가 돌아왔다! (ELLE RECONNECT CONCERT)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34446177&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34446177&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 09 Sep 2022 05:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDhfMTEw/MDAxNjYyNjIxMDA3OTQ3.tNbmJL0vwW-z_CzrM5FlVMIrVdvj2mwn_fccb1UVJtcg.FFXguA5iCBRDPicqAOJuSw34TycSLL-l8n1aUsAbdJUg.JPEG/IRVFIx9ok-xlUt8FukjK9ZNtTF2U.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘르 30주년 리커넥트 콘서트 라인업 정보(인스타 이벤트, 티켓오픈알림 신청)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34429544&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Sat, 02 Oct 2021 09:30:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTdfMjgg/MDAxNjMxODU2MjMxNjk4.iA-sZUcMn_LwSrMVe2z1AB0SY9P66rR6JOmH8sFSeMwg.eVChT-Y1Ac8WOe3ai0mXPO4EZAw6OCH-9E4vRZgICNkg.PNG/I1P2W0HZCIcZPz5VDgFM-jtN0a_U.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이벤트] 코끝에 가을! 달리자 #엘르런 + 7K 패키지 티켓 이벤트]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32327605&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32327605&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 09:30:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDhfMjQ3/MDAxNjMxMDY4OTE2MjA2.eaDm9ynHf4Xi3Xhcp2DT8kZ0G-7yuLaQJ16mcq6pBYgg.TzoqETnbHSDV0fx7Uh0kSybHeG-u8zsDsv4rX-H3djMg.JPEG/IuC_Tn0nVDRZyydbLiiPznjnclOg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

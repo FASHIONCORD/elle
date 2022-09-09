@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 21:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 06:01:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연휴에 뭐해? '정주행 각' OTT 시리즈 추천 4]]></title>
+            <link>https://www.elle.co.kr/article/70630</link>
+            <guid>https://www.elle.co.kr/article/70630</guid>
+            <pubDate>Fri, 09 Sep 2022 05:58:43 GMT</pubDate>
+            <content:encoded><![CDATA[우리에게 주어진 시간은 단 나흘 뿐. 이번 추석 연휴에 꼭 봐야할 신작 OTT 시리즈를 대신 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/0200743c-6a77-4853-8798-039838fb3d7b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김치피자탕수육 같던 여자 예능 '지락실', 시즌1 굿즈와 시즌2 정보 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/70591</link>
@@ -35,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/70501</guid>
             <pubDate>Mon, 05 Sep 2022 09:22:33 GMT</pubDate>
             <content:encoded><![CDATA[첫 방송부터 뜨거운 관심이 쏟아지는 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/0862cfe8-d383-47f7-a371-e3d177d4c433.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['오겜 240번' 이유미가 한국인 최초로 받은 에미상 '게스트상'! 도대체 어떤 상이기에?]]></title>
@@ -86,13 +93,6 @@
             <guid>https://www.elle.co.kr/article/69036</guid>
             <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
             <content:encoded><![CDATA[시즌 2를 예고하며 종영한 ‘이상한 변호사 우영우’]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인류 절반인 여성에 대하여! 영화 ‘우먼’]]></title>
-            <link>https://www.elle.co.kr/article/68969</link>
-            <guid>https://www.elle.co.kr/article/68969</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 여성들의 목소리를 담은 영화.]]></content:encoded>
         </item>
     </channel>
 </rss>

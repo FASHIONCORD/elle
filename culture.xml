@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 21:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 06:01:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 아트 위크의 하이라이트, 프랜시스 베이컨과 아드리안 게니 전시]]></title>
+            <link>https://www.elle.co.kr/article/70500</link>
+            <guid>https://www.elle.co.kr/article/70500</guid>
+            <pubDate>Fri, 09 Sep 2022 05:58:14 GMT</pubDate>
+            <content:encoded><![CDATA[크리스티와 홈아트의 공동 개최 전시로 두 아이콘의 주요작을 공개했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/2e159091-881f-4c99-9e27-5e67ce272dae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정우성, 청혼 공식 거부?! 청담쀼 아저씨들을 사랑할 수밖에 없는 이유]]></title>
             <link>https://www.elle.co.kr/article/70538</link>
@@ -60,13 +68,6 @@
             <pubDate>Mon, 05 Sep 2022 14:18:36 GMT</pubDate>
             <content:encoded><![CDATA[키아프와 함께 열릴 프리즈 서울에 관해 짚어 보아야 할 다섯 가지 쟁점들. 프리즈 서울의 디...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/345b1433-6a6e-4644-94cc-6d3d781423ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프린스 알리~ 다시 본다?! '알라딘'부터 '모가디슈'까지, 9월 재개봉 확정한 영화 3]]></title>
-            <link>https://www.elle.co.kr/article/70364</link>
-            <guid>https://www.elle.co.kr/article/70364</guid>
-            <pubDate>Mon, 05 Sep 2022 09:21:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/b5904b6a-f16f-45fd-aa66-fb1c008e9bcb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
