@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 06:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 08:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬기와 언더아머의 강렬한 만남]]></title>
+            <link>https://www.elle.co.kr/article/70593</link>
+            <guid>https://www.elle.co.kr/article/70593</guid>
+            <pubDate>Fri, 09 Sep 2022 08:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[한계를 뛰어넘으며 ‘ 나를 돌파’해 나가는 언더아머와 슬기의 만남은 필연적이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/a249be4e-9b0c-42d3-b4d4-5b05dd4deeb3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모델 지현정의 로망 웨딩 화보]]></title>
+            <link>https://www.elle.co.kr/article/70412</link>
+            <guid>https://www.elle.co.kr/article/70412</guid>
+            <pubDate>Fri, 09 Sep 2022 08:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[결혼식을 앞두고 꿈꾸던 전통 혼례복을 입고 카메라 앞에 섰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/23f6d2a8-f577-40f2-ad3d-2e20532d3230.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안과 밖의 경계에선 펜디의 그녀]]></title>
             <link>https://www.elle.co.kr/article/70584</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 07 Sep 2022 16:23:46 GMT</pubDate>
             <content:encoded><![CDATA[RUNWAY to ELLEWAY!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/f479c300-fcad-4e74-994d-a77c0e9938a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨딩 드레스, 이게 된다고?]]></title>
-            <link>https://www.elle.co.kr/article/70404</link>
-            <guid>https://www.elle.co.kr/article/70404</guid>
-            <pubDate>Wed, 07 Sep 2022 16:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[레이디들의 우아하고 대담한 세계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/a8bdb522-af50-4d03-b839-b92f2b43706b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환상의 섬에서 만난 구찌]]></title>
-            <link>https://www.elle.co.kr/article/70416</link>
-            <guid>https://www.elle.co.kr/article/70416</guid>
-            <pubDate>Tue, 06 Sep 2022 11:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[이국적인 풍경 앞에 펼쳐진 파라다이스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/420c9bfe-7cd9-4b10-9df9-a2527b2f24c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

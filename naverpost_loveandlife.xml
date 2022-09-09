@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 06:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 08:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불멍+물놀이 즐길 수 있는 유럽 감성 풀빌라가 있다? #밀양여행]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34449500&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34449500&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 09 Sep 2022 08:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDlfNTgg/MDAxNjYyNzA4NzEzNTUw.ejhv5KNf9zMymvlqXfcX52A2JLCL2u_uDxLZ3rGXukog.KL8716OEPc1L2wbPKejlisxyuOpCsBvvRawTJ3SccMgg.JPEG/IcSM1KcvU3LeXikmVnuXeortIi2E.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낮과 밤 모두 OK! 성수동 신상 맛집 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34435070&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 10 Aug 2022 23:13:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTFfMjAy/MDAxNjYwMTQ0NDAwNTYz.FC4kTg10pQ_daB1vx3nsijd0BR77nbB1JeX8ySTDypwg.DVJz6UCMpJCNHMnY4FR3I0Li45ztEQtaPb_H9a33GJIg.JPEG/IQmdRuOPi0C3leiOT7b2DFOEk3VU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼 거리 먹을 거리 가득! 문경 여행 코스 3]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34275982&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34275982&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 08 Aug 2022 23:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDlfNzMg/MDAxNjU5OTk5NjE4MjQ1.wsxiplm7BGId5ngY1a_GATBPt5sPAdOB8DpueKlO_VYg.g_7DOwmNFzDbHLe4p-FOI4cTXKvViEXUHok6DdZx5wUg.JPEG/I7VCGXYhzOtb07nGBwl-rYCyC48Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
