@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 20:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 22:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1495,6 +1495,13 @@
             <content:encoded><![CDATA[지금 서울을 뜨겁게 만든 남다른 신규 전시들. 키워드는 2개 이상 장소에서 열릴 것! 서울시립...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[9월 최신판! 데이트도 나들이도 다 되는 가을의 성수동 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/70523</link>
+            <guid>https://www.elle.co.kr/article/70523</guid>
+            <pubDate>Fri, 09 Sep 2022 22:19:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/5d763b18-82f0-4de7-8245-b9cf71155dee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사람과 예술 그리고 아테온의 성공적 만남 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/70409</link>
             <guid>https://www.elle.co.kr/article/70409</guid>
@@ -1546,14 +1553,6 @@
             <pubDate>Sun, 04 Sep 2022 19:17:29 GMT</pubDate>
             <content:encoded><![CDATA[뜻밖의 지적인 체험까지 가능했던 방콕 여행.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/b85f55bf-e93e-43bd-a7a0-d33491172c98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 #mood는? 감성 충전 제대로 하는 마포구 #신상카페3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/69035</link>
-            <guid>https://www.elle.co.kr/article/69035</guid>
-            <pubDate>Tue, 30 Aug 2022 23:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[망원-연남-합정의 신상 카페들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/5b4fe6fe-2791-4111-b744-5d9e26baeac3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 문과생이 운동 코치가 될 확률은? 근력만 있으면 다 할 수 있다 (엘르 코리아 ─ 소사이어티)]]></title>
