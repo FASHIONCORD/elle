@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 15:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 17:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTdfMjgg/MDAxNjMxODU2MjMxNjk4.iA-sZUcMn_LwSrMVe2z1AB0SY9P66rR6JOmH8sFSeMwg.eVChT-Y1Ac8WOe3ai0mXPO4EZAw6OCH-9E4vRZgICNkg.PNG/I1P2W0HZCIcZPz5VDgFM-jtN0a_U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[단아함과 예가 깃든 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/70401</link>
+            <guid>https://www.elle.co.kr/article/70401</guid>
+            <pubDate>Sat, 10 Sep 2022 17:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[예물 백서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/1011d911-dfd1-4cc8-aa3d-15ca6a74044c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마지막 바다 나들이 진짜 진짜 최최최최종.jpg (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/70627</link>
             <guid>https://www.elle.co.kr/article/70627</guid>
@@ -1023,14 +1031,6 @@
             <pubDate>Thu, 08 Sep 2022 16:21:21 GMT</pubDate>
             <content:encoded><![CDATA[조금 헝클어져도 괜찮아!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/ae60c51d-ba8e-4fc2-a10c-ab6275b9254a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 준비 시작! 지금 봐도 예쁜 90년대 영화 속 패션 #옷잘입는언니 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/70560</link>
-            <guid>https://www.elle.co.kr/article/70560</guid>
-            <pubDate>Thu, 08 Sep 2022 12:30:31 GMT</pubDate>
-            <content:encoded><![CDATA[유행은 돌고 돈다는 진리! 올가을에도 유효합니다. 지금 당장 따라 하고 싶은 90년대 영화 속 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/725e7fea-6086-4f59-bab5-83713023d0b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[9월의 뷰티 신상 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1495,6 +1495,14 @@
             <content:encoded><![CDATA[지금 서울을 뜨겁게 만든 남다른 신규 전시들. 키워드는 2개 이상 장소에서 열릴 것! 서울시립...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[올가을, 서울의 호텔들이 맛있어진다 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/70262</link>
+            <guid>https://www.elle.co.kr/article/70262</guid>
+            <pubDate>Thu, 08 Sep 2022 16:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[소피텔 앰배서더 서울의 갈라디너를 책임 질 3인의 여성 셰프]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/7a77b7bc-a7c1-460d-8727-bf254195d7ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[9월 최신판! 데이트도 나들이도 다 되는 가을의 성수동 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/70523</link>
             <guid>https://www.elle.co.kr/article/70523</guid>
@@ -1545,14 +1553,6 @@
             <guid>https://www.elle.co.kr/article/70180</guid>
             <pubDate>Mon, 05 Sep 2022 07:36:03 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/c3abd410-2ead-419b-bbc0-3ab915257560.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[익숙한데 이국적인 호캉스, 방콕이라는 대도시를 즐기는 또 다른 방법 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/70169</link>
-            <guid>https://www.elle.co.kr/article/70169</guid>
-            <pubDate>Sun, 04 Sep 2022 19:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[뜻밖의 지적인 체험까지 가능했던 방콕 여행.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/b85f55bf-e93e-43bd-a7a0-d33491172c98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 문과생이 운동 코치가 될 확률은? 근력만 있으면 다 할 수 있다 (엘르 코리아 ─ 소사이어티)]]></title>
