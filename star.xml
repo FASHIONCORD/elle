@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 14:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 15:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루즈 디올의 뮤즈 나탈리 포트만과 '엘르'의 만남]]></title>
+            <link>https://www.elle.co.kr/article/70614</link>
+            <guid>https://www.elle.co.kr/article/70614</guid>
+            <pubDate>Sun, 11 Sep 2022 15:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[시대를 초월하며 여성들에게 희망을 안겨준 루즈 디올처럼 나탈리 포트만은 이 시대 여성들에게 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/6fd812fe-7fa8-48c6-aa11-4dc600920fa7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김치피자탕수육 같던 여자 예능 '지락실', 시즌1 굿즈와 시즌2 정보 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/70591</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/70538</guid>
             <pubDate>Thu, 08 Sep 2022 05:59:18 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/f511a13f-f202-4c8b-a83a-7e67d0367e5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['작은 아씨들' 김고은, 남지현, 박지후가 서로의 얼굴을 그려봤다]]></title>
-            <link>https://www.elle.co.kr/article/70504</link>
-            <guid>https://www.elle.co.kr/article/70504</guid>
-            <pubDate>Wed, 07 Sep 2022 09:21:37 GMT</pubDate>
-            <content:encoded><![CDATA['찐' 자매란 이런 것?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a28f0ca1-bb90-4420-bad1-ab97c173df3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

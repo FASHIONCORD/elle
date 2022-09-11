@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 14:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 15:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/cea0fec0-94dc-4a2c-b45b-b49055eb26e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[루즈 디올의 뮤즈 나탈리 포트만과 '엘르'의 만남 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70614</link>
+            <guid>https://www.elle.co.kr/article/70614</guid>
+            <pubDate>Sun, 11 Sep 2022 15:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[시대를 초월하며 여성들에게 희망을 안겨준 루즈 디올처럼 나탈리 포트만은 이 시대 여성들에게 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/6fd812fe-7fa8-48c6-aa11-4dc600920fa7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김치피자탕수육 같던 여자 예능 '지락실', 시즌1 굿즈와 시즌2 정보 모음.zip (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/70591</link>
             <guid>https://www.elle.co.kr/article/70591</guid>
@@ -1148,14 +1156,6 @@
             <guid>https://www.elle.co.kr/article/70538</guid>
             <pubDate>Tue, 06 Sep 2022 11:17:39 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/f511a13f-f202-4c8b-a83a-7e67d0367e5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['작은 아씨들' 김고은, 남지현, 박지후가 서로의 얼굴을 그려봤다 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70504</link>
-            <guid>https://www.elle.co.kr/article/70504</guid>
-            <pubDate>Mon, 05 Sep 2022 19:16:36 GMT</pubDate>
-            <content:encoded><![CDATA['찐' 자매란 이런 것?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a28f0ca1-bb90-4420-bad1-ab97c173df3d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 아트 위크의 하이라이트, 프랜시스 베이컨과 아드리안 게니 전시 (엘르 코리아 ─ 컬쳐)]]></title>
