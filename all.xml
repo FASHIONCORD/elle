@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 01:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 11:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTdfMjgg/MDAxNjMxODU2MjMxNjk4.iA-sZUcMn_LwSrMVe2z1AB0SY9P66rR6JOmH8sFSeMwg.eVChT-Y1Ac8WOe3ai0mXPO4EZAw6OCH-9E4vRZgICNkg.PNG/I1P2W0HZCIcZPz5VDgFM-jtN0a_U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오래된 우유 가게가 깜찍한 안식처가 되기까지 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/70645</link>
+            <guid>https://www.elle.co.kr/article/70645</guid>
+            <pubDate>Sun, 11 Sep 2022 11:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[유쾌한 모험 정신으로 가득한 에드비나 베리의 스웨덴 하우스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/79be526b-ad9c-4f67-b134-68b528f35bc2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[단아함과 예가 깃든 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/70401</link>
             <guid>https://www.elle.co.kr/article/70401</guid>
@@ -1023,14 +1031,6 @@
             <pubDate>Fri, 09 Sep 2022 08:23:12 GMT</pubDate>
             <content:encoded><![CDATA[결혼식을 앞두고 꿈꾸던 전통 혼례복을 입고 카메라 앞에 섰다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/23f6d2a8-f577-40f2-ad3d-2e20532d3230.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안과 밖의 경계에선 펜디의 그녀 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/70584</link>
-            <guid>https://www.elle.co.kr/article/70584</guid>
-            <pubDate>Thu, 08 Sep 2022 16:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[조금 헝클어져도 괜찮아!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/ae60c51d-ba8e-4fc2-a10c-ab6275b9254a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[9월의 뷰티 신상 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1096,6 +1096,21 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/cea0fec0-94dc-4a2c-b45b-b49055eb26e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김치피자탕수육 같던 여자 예능 '지락실', 시즌1 굿즈와 시즌2 정보 모음.zip (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70591</link>
+            <guid>https://www.elle.co.kr/article/70591</guid>
+            <pubDate>Thu, 08 Sep 2022 06:00:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/35341a07-300c-42d5-b707-bf82f2568a64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['근세라핌'의 몸매 유지 비결은? 맨몸 운동 끝판왕인 이것! #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70588</link>
+            <guid>https://www.elle.co.kr/article/70588</guid>
+            <pubDate>Sun, 11 Sep 2022 11:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[멤버 모두가 운동을 좋아해 붙은 애칭 '근세라핌'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/84f6d70f-2aa1-4519-8119-3fd1a234b47f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가을 준비 시작! 지금 봐도 예쁜 90년대 영화 속 패션 #옷잘입는언니 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/70560</link>
             <guid>https://www.elle.co.kr/article/70560</guid>
@@ -1141,21 +1156,6 @@
             <pubDate>Mon, 05 Sep 2022 19:16:36 GMT</pubDate>
             <content:encoded><![CDATA['찐' 자매란 이런 것?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a28f0ca1-bb90-4420-bad1-ab97c173df3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 신작 비교! 김고은의 '작은 아씨들' vs 이승기의 '법대로 사랑하라' #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70501</link>
-            <guid>https://www.elle.co.kr/article/70501</guid>
-            <pubDate>Mon, 05 Sep 2022 09:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[첫 방송부터 뜨거운 관심이 쏟아지는 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/0862cfe8-d383-47f7-a371-e3d177d4c433.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오겜 240번' 이유미가 한국인 최초로 받은 에미상 '게스트상'! 도대체 어떤 상이기에? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70495</link>
-            <guid>https://www.elle.co.kr/article/70495</guid>
-            <pubDate>Mon, 05 Sep 2022 07:35:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/3c54798b-4289-4187-8bf3-fb583d760ac5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 아트 위크의 하이라이트, 프랜시스 베이컨과 아드리안 게니 전시 (엘르 코리아 ─ 컬쳐)]]></title>
