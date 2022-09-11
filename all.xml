@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 15:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 18:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1033,6 +1033,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/23f6d2a8-f577-40f2-ad3d-2e20532d3230.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022ver. 뉴 향수 브랜드 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/70547</link>
+            <guid>https://www.elle.co.kr/article/70547</guid>
+            <pubDate>Sun, 11 Sep 2022 18:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[단순한 향을 넘어 흥미로운 이야기로 가득한 뉴 향수 브랜드 무드보드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/ac7e8ec9-beca-493d-89a1-8e696a3479c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[9월의 뷰티 신상 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/70515</link>
             <guid>https://www.elle.co.kr/article/70515</guid>
@@ -1086,14 +1094,6 @@
             <guid>https://www.elle.co.kr/article/70359</guid>
             <pubDate>Mon, 05 Sep 2022 19:13:42 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/46feb8a4-b2c4-4291-b7c5-fc086be864c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자기 전 힐링 타임! 아이돌의 저녁 피부 관리 루틴! (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/70342</link>
-            <guid>https://www.elle.co.kr/article/70342</guid>
-            <pubDate>Sun, 04 Sep 2022 19:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[매일 조금씩 지속되는 노화를 늦추기 위해서는 나이트 트리트먼트가 중요해요. 낮시간 동안 손상...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/cea0fec0-94dc-4a2c-b45b-b49055eb26e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루즈 디올의 뮤즈 나탈리 포트만과 '엘르'의 만남 (엘르 코리아 ─ 스타)]]></title>
