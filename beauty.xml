@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 15:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 19:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫한 아이템 가득! 윤승아네 욕실 엿보기]]></title>
+            <link>https://www.elle.co.kr/article/70613</link>
+            <guid>https://www.elle.co.kr/article/70613</guid>
+            <pubDate>Tue, 13 Sep 2022 19:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[부기 관리를 위한 보디 젤부터 보디 워시, 향수 등 윤승아가 매일 사용하는 내돈내산 아이템을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/dbb0a544-a758-420f-9229-86c0e9ef5779.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추석 연휴 후 다이어트가 매번 작심삼일 되는 이유 5]]></title>
             <link>https://www.elle.co.kr/article/70605</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 08 Sep 2022 06:52:29 GMT</pubDate>
             <content:encoded><![CDATA[RUNWAY to ELLEWAY!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/f479c300-fcad-4e74-994d-a77c0e9938a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스부터 주현영까지! 이건 꼭 '손민수'해야 해!! 스타들의 스킨케어 애장템 총정리.zip]]></title>
-            <link>https://www.elle.co.kr/article/70422</link>
-            <guid>https://www.elle.co.kr/article/70422</guid>
-            <pubDate>Tue, 06 Sep 2022 15:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[엘르에서 직접 밝힌 그들의 ‘최애’ 뷰티템은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/939d93c0-9c65-4fac-ae31-9c4ba2c07b70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
