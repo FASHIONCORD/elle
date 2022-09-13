@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 09:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 10:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[간절기 필수템! 스타가 픽한 아우터 5]]></title>
+            <link>https://www.elle.co.kr/article/70646</link>
+            <guid>https://www.elle.co.kr/article/70646</guid>
+            <pubDate>Tue, 13 Sep 2022 10:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[아침, 저녁으로 쌀쌀해진 요즘 날씨에 필요한 건 무엇? 옷잘알 스타들의 사복 패션에서 찾은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/0bdd5d33-66b7-4cad-84d4-c7bbb68a77e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아빠가 입던 커다란 재킷]]></title>
             <link>https://www.elle.co.kr/article/70246</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 09 Sep 2022 17:23:48 GMT</pubDate>
             <content:encoded><![CDATA[포워드Forward 는 미래로 나아가는 나이키, 그 자체다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/70257391-6047-4faf-9e1c-4b7ac0f45221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬기와 언더아머의 강렬한 만남]]></title>
-            <link>https://www.elle.co.kr/article/70593</link>
-            <guid>https://www.elle.co.kr/article/70593</guid>
-            <pubDate>Fri, 09 Sep 2022 08:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[한계를 뛰어넘으며 ‘나를 돌파’해 나가는 언더아머와 슬기의 만남은 필연적이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/a249be4e-9b0c-42d3-b4d4-5b05dd4deeb3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

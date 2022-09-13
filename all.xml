@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 09:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 10:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjNfODcg/MDAxNjMyMzU3MTAyOTY5.7O7kv7eSJmTaRpCLzOUJAhEAsvP5Vzze49-lKr7BPrQg.0M7wK59BAbDfnjN75Wj-VhL9torUoAjInn6vDMVtW-Ug.PNG/IGbwwUhkexPSbda5xR7FTsr16RtY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[간절기 필수템! 스타가 픽한 아우터 5 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/70646</link>
+            <guid>https://www.elle.co.kr/article/70646</guid>
+            <pubDate>Tue, 13 Sep 2022 10:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[아침, 저녁으로 쌀쌀해진 요즘 날씨에 필요한 건 무엇? 옷잘알 스타들의 사복 패션에서 찾은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/0bdd5d33-66b7-4cad-84d4-c7bbb68a77e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아빠가 입던 커다란 재킷 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/70246</link>
             <guid>https://www.elle.co.kr/article/70246</guid>
@@ -1023,14 +1031,6 @@
             <pubDate>Thu, 08 Sep 2022 08:27:40 GMT</pubDate>
             <content:encoded><![CDATA[포워드Forward 는 미래로 나아가는 나이키, 그 자체다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/70257391-6047-4faf-9e1c-4b7ac0f45221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬기와 언더아머의 강렬한 만남 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/70593</link>
-            <guid>https://www.elle.co.kr/article/70593</guid>
-            <pubDate>Fri, 09 Sep 2022 08:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[한계를 뛰어넘으며 ‘나를 돌파’해 나가는 언더아머와 슬기의 만남은 필연적이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/a249be4e-9b0c-42d3-b4d4-5b05dd4deeb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추석 연휴 후 다이어트가 매번 작심삼일 되는 이유 5 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1314,6 +1314,22 @@
             <content:encoded><![CDATA[행성에서 돌아와 주변으로 눈을 돌린 [Object] 시리즈]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[결국 에미상까지 타 버린 이정재, 역사상 최고의 SF 프랜차이즈 주인공 됐다 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/70694</link>
+            <guid>https://www.elle.co.kr/article/70694</guid>
+            <pubDate>Tue, 13 Sep 2022 10:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[끝나지 않는 전성기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/a3614086-b2c9-4a5a-9374-99fb96e1556a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가출팸부터 분노 유발 빌런까지, 다사다난 그 자체인 '에미상' 이유미의 인생 캐릭터 4 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/70680</link>
+            <guid>https://www.elle.co.kr/article/70680</guid>
+            <pubDate>Tue, 13 Sep 2022 10:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[행복하자... 아프지 말고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/2d892e90-f89a-4766-b663-e9eafd4f3dd0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연휴에 뭐해? '정주행 각' OTT 시리즈 추천 4 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/70630</link>
             <guid>https://www.elle.co.kr/article/70630</guid>
@@ -1333,7 +1349,6 @@
             <link>https://www.elle.co.kr/article/70538</link>
             <guid>https://www.elle.co.kr/article/70538</guid>
             <pubDate>Tue, 06 Sep 2022 11:17:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/f511a13f-f202-4c8b-a83a-7e67d0367e5f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['작은 아씨들' 김고은, 남지현, 박지후가 서로의 얼굴을 그려봤다 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1341,7 +1356,6 @@
             <guid>https://www.elle.co.kr/article/70504</guid>
             <pubDate>Mon, 05 Sep 2022 19:16:36 GMT</pubDate>
             <content:encoded><![CDATA['찐' 자매란 이런 것?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a28f0ca1-bb90-4420-bad1-ab97c173df3d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[9월 신작 비교! 김고은의 '작은 아씨들' vs 이승기의 '법대로 사랑하라' #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1386,19 +1400,6 @@
             <link>https://www.elle.co.kr/article/70191</link>
             <guid>https://www.elle.co.kr/article/70191</guid>
             <pubDate>Mon, 29 Aug 2022 04:15:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[걸그룹 래퍼들의 보컬 서바이벌? AOA 출신 신지민 복귀작 '두 번째 세계' 정보 모음.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/70105</link>
-            <guid>https://www.elle.co.kr/article/70105</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[드디어 이준호와 사귀기 시작한 우영우, 시즌 2에선 아빠에게 부케 줄 수 있을까? #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/69036</link>
-            <guid>https://www.elle.co.kr/article/69036</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[시즌 2를 예고하며 종영한 ‘이상한 변호사 우영우’]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[니고가 찬찬히 수집한 빈티지 제품들이 궁금하다면? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
