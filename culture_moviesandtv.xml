@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 08:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인어공주' 실사판 티저가 공개됐다. 왜 3년 동안 같은 논란이 이어지는 걸까?]]></title>
+            <link>https://www.elle.co.kr/article/70723</link>
+            <guid>https://www.elle.co.kr/article/70723</guid>
+            <pubDate>Wed, 14 Sep 2022 08:24:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/ca1e805d-1e31-473f-9d38-82a6df946c0d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결국 에미상까지 타 버린 이정재, 역사상 최고의 SF 프랜차이즈 주인공 됐다]]></title>
             <link>https://www.elle.co.kr/article/70694</link>
@@ -36,7 +43,6 @@
             <link>https://www.elle.co.kr/article/70591</link>
             <guid>https://www.elle.co.kr/article/70591</guid>
             <pubDate>Thu, 08 Sep 2022 06:00:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/35341a07-300c-42d5-b707-bf82f2568a64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정우성, 청혼 공식 거부?! 청담쀼 아저씨들을 사랑할 수밖에 없는 이유]]></title>
@@ -88,12 +94,6 @@
             <link>https://www.elle.co.kr/article/70231</link>
             <guid>https://www.elle.co.kr/article/70231</guid>
             <pubDate>Tue, 30 Aug 2022 07:34:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['헌트' 대박 난 감독 이정재, 다음은 '다만 악에서 구하소서' 스핀오프 주인공으로?!]]></title>
-            <link>https://www.elle.co.kr/article/70191</link>
-            <guid>https://www.elle.co.kr/article/70191</guid>
-            <pubDate>Mon, 29 Aug 2022 04:15:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

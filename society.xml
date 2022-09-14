@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 08:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰 사용자들 주목! 한국 상륙하는 애플페이, 언제부터 어떻게 쓸 수 있을까?]]></title>
+            <link>https://www.elle.co.kr/article/70558</link>
+            <guid>https://www.elle.co.kr/article/70558</guid>
+            <pubDate>Wed, 14 Sep 2022 08:25:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/eee3f2a2-caa3-4da8-b0fa-02d9e7e7db9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 문과생이 운동 코치가 될 확률은? 근력만 있으면 다 할 수 있다]]></title>
             <link>https://www.elle.co.kr/article/70512</link>
@@ -60,14 +67,6 @@
             <pubDate>Mon, 05 Sep 2022 09:24:03 GMT</pubDate>
             <content:encoded><![CDATA[오로지 서울대 졸업생에게만 울림을 주는 이야기가 아니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/ae2ae30c-586a-401e-9530-3a0b0890cb2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 달에 억 단위로 버는 그들은 왜 이것에 집착할까?_돈쓸신잡 #60]]></title>
-            <link>https://www.elle.co.kr/article/70142</link>
-            <guid>https://www.elle.co.kr/article/70142</guid>
-            <pubDate>Mon, 05 Sep 2022 09:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[신사임당의 유튜브 채널이 사고 팔 수 있는 '상품'이 된 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/6e715c27-fb7b-4c0f-8996-8b866b3848aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

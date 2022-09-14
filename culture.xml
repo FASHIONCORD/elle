@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 08:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건축물부터 예술 그 자체! 제주 미술관 3]]></title>
+            <link>https://www.elle.co.kr/article/70601</link>
+            <guid>https://www.elle.co.kr/article/70601</guid>
+            <pubDate>Wed, 14 Sep 2022 08:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[예술의 섬 제주를 제대로 즐기는 법!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/b461d1ed-c83f-497a-8697-0e3ad63177d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[직진만 하는 나이키! 세상에서 가장 착한 회색 후디를 먼저 입어 보았습니다]]></title>
             <link>https://www.elle.co.kr/article/70596</link>
@@ -59,13 +67,6 @@
             <pubDate>Thu, 08 Sep 2022 06:52:50 GMT</pubDate>
             <content:encoded><![CDATA[첫 방송부터 뜨거운 관심이 쏟아지는 중.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/0862cfe8-d383-47f7-a371-e3d177d4c433.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오겜 240번' 이유미가 한국인 최초로 받은 에미상 '게스트상'! 도대체 어떤 상이기에?]]></title>
-            <link>https://www.elle.co.kr/article/70495</link>
-            <guid>https://www.elle.co.kr/article/70495</guid>
-            <pubDate>Wed, 07 Sep 2022 16:25:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/3c54798b-4289-4187-8bf3-fb583d760ac5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
