@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+        <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 11:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 13:58:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[AI가 그린 그림이 미술대회에서 우승했다. 이 그림은 표절일까?]]></title>
-            <link>https://www.elle.co.kr/article/70561</link>
-            <guid>https://www.elle.co.kr/article/70561</guid>
-            <pubDate>Wed, 14 Sep 2022 06:11:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/b20bdb9b-209f-40ae-b369-a4a5d7c698ba.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[아이폰 사용자들 주목! 한국 상륙하는 애플페이, 언제부터 어떻게 쓸 수 있을까?]]></title>
             <link>https://www.elle.co.kr/article/70558</link>
@@ -22,49 +15,58 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/eee3f2a2-caa3-4da8-b0fa-02d9e7e7db9e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올가을, 서울의 호텔들이 맛있어진다]]></title>
-            <link>https://www.elle.co.kr/article/70262</link>
-            <guid>https://www.elle.co.kr/article/70262</guid>
-            <pubDate>Sat, 10 Sep 2022 17:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[소피텔 앰배서더 서울의 갈라디너를 책임 질 3인의 여성 셰프]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/7a77b7bc-a7c1-460d-8727-bf254195d7ae.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[엘르보이스] 문과생이 운동 코치가 될 확률은? 근력만 있으면 다 할 수 있다]]></title>
+            <link>https://www.elle.co.kr/article/70512</link>
+            <guid>https://www.elle.co.kr/article/70512</guid>
+            <pubDate>Thu, 08 Sep 2022 20:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[진짜로 술집까지 열게 된 샤크짐 에리카 코치의 좌충우돌 라이프 어드벤처.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/ea907168-e575-4668-81f9-dae6d84e1b7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[9월 최신판! 데이트도 나들이도 다 되는 가을의 성수동 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/70523</link>
-            <guid>https://www.elle.co.kr/article/70523</guid>
-            <pubDate>Fri, 09 Sep 2022 22:19:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/5d763b18-82f0-4de7-8245-b9cf71155dee.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['쉬헐크'로 사는 건 피곤해_요주의여성 #70]]></title>
+            <link>https://www.elle.co.kr/article/70472</link>
+            <guid>https://www.elle.co.kr/article/70472</guid>
+            <pubDate>Thu, 08 Sep 2022 06:58:02 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;변호사 쉬헐크&gt;가 '원조 훨크' 이야기랑 다른 점.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/e3addcb9-7b6a-4b52-b640-54477afdec8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사람과 예술 그리고 아테온의 성공적 만남]]></title>
-            <link>https://www.elle.co.kr/article/70409</link>
-            <guid>https://www.elle.co.kr/article/70409</guid>
-            <pubDate>Thu, 08 Sep 2022 07:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[우아하지만 맹렬하게 달리는 아테온 R-라인 4모션의 독보적 위치 탐구.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/5b6c6a3c-78b1-445b-b314-410b2a7a3780.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["경로 예측이 의미 없다": 힌남노 영향권에 든 한반도, 지금이라도 준비해야 할 것들]]></title>
+            <link>https://www.elle.co.kr/article/70462</link>
+            <guid>https://www.elle.co.kr/article/70462</guid>
+            <pubDate>Wed, 07 Sep 2022 16:26:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/d0b33487-6924-4ece-816b-4886d0cc1fa6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[달콤한 건 못 참지! 스타가 들른 디저트 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/70445</link>
-            <guid>https://www.elle.co.kr/article/70445</guid>
-            <pubDate>Wed, 07 Sep 2022 09:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[당 충전이 필요한 디저트 러버 주목! 캐러멜 샌드부터 크로핀, 쿠키까지, 달달함 100% 완충 가...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/4e170da7-d943-4e37-9d22-b26e89191168.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[엘르보이스] 어느 날 몸이 비뚤어졌다. 그래서 요가를 시작했다]]></title>
+            <link>https://www.elle.co.kr/article/70459</link>
+            <guid>https://www.elle.co.kr/article/70459</guid>
+            <pubDate>Wed, 07 Sep 2022 16:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[나보다 못하는 사람이 있는지 주변을 두리번거렸던 운동 초보자라면 핵공감!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/8b9cf49a-73e5-4d9a-84e7-fe12d6925d02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대표 음식이 대체 몇 개야? 나주곰탕에 장어구이, 홍어까지! 식욕 돋우는 나주 맛집 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/70289</link>
-            <guid>https://www.elle.co.kr/article/70289</guid>
-            <pubDate>Wed, 07 Sep 2022 09:23:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/02b90554-5851-4e58-9cce-fc7944474aef.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[고금리 시대, 우리가 갈아타야 할 것들_돈쓸신잡 #61]]></title>
+            <link>https://www.elle.co.kr/article/70425</link>
+            <guid>https://www.elle.co.kr/article/70425</guid>
+            <pubDate>Wed, 07 Sep 2022 16:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[금리 인상기에 주목해 볼 만한 것들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/f0f682fb-eb48-4110-85df-27be2fb32d68.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[볼일 없어도 돌아다니고 싶은 요즘, 선선한 날씨에 들르기 좋은 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/70232</link>
-            <guid>https://www.elle.co.kr/article/70232</guid>
-            <pubDate>Tue, 06 Sep 2022 17:29:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/260e4909-b992-4802-bcee-22789fabc5dc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[돌고래 비봉이도 수족관으로 돌려 보낸 초강력 태풍 힌남노, 한반도에 미칠 영향은?]]></title>
+            <link>https://www.elle.co.kr/article/70325</link>
+            <guid>https://www.elle.co.kr/article/70325</guid>
+            <pubDate>Tue, 06 Sep 2022 07:44:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/cb1ecf81-d32d-40fc-9d03-dd0ba6c90baa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["자신에게 친절하라": 모두를 울컥하게 한 필즈상 수상자 허준이의 서울대 졸업 축사]]></title>
+            <link>https://www.elle.co.kr/article/70318</link>
+            <guid>https://www.elle.co.kr/article/70318</guid>
+            <pubDate>Mon, 05 Sep 2022 09:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[오로지 서울대 졸업생에게만 울림을 주는 이야기가 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/ae2ae30c-586a-401e-9530-3a0b0890cb2e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

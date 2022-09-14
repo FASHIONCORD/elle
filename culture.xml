@@ -1,72 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
+        <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 11:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 13:58:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[건축물부터 예술 그 자체! 제주 미술관 3]]></title>
-            <link>https://www.elle.co.kr/article/70601</link>
-            <guid>https://www.elle.co.kr/article/70601</guid>
-            <pubDate>Wed, 14 Sep 2022 08:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[예술의 섬 제주를 제대로 즐기는 법!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/b461d1ed-c83f-497a-8697-0e3ad63177d9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[컴백과 동시에 2억 뷰X200만 장 기록! K-걸그룹 최초로 VMAs 간 블랙핑크 사진 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/70188</link>
+            <guid>https://www.elle.co.kr/article/70188</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[무려 1년10개월 만의 컴백.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/ab97832b-ab56-4de0-a421-1d3a5b974a86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[직진만 하는 나이키! 세상에서 가장 착한 회색 후디를 먼저 입어 보았습니다]]></title>
-            <link>https://www.elle.co.kr/article/70596</link>
-            <guid>https://www.elle.co.kr/article/70596</guid>
-            <pubDate>Tue, 13 Sep 2022 08:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[포워드Forward 는 미래로 나아가는 나이키, 그 자체다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/70257391-6047-4faf-9e1c-4b7ac0f45221.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[신해경과 사뮈의 극적인 조합, 마콤마 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/70138</link>
+            <guid>https://www.elle.co.kr/article/70138</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[신인 밴드 마콤마를 ‘너는 아니?’. 꿈속의 목소리 신해경과 아침을 깨우는 목소리 사뮈가 만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/e819c648-84c6-4b1a-a04e-1b5c9dc888db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김치피자탕수육 같던 여자 예능 '지락실', 시즌1 굿즈와 시즌2 정보 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/70591</link>
-            <guid>https://www.elle.co.kr/article/70591</guid>
-            <pubDate>Tue, 13 Sep 2022 08:25:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/35341a07-300c-42d5-b707-bf82f2568a64.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
+            <link>https://www.elle.co.kr/article/68875</link>
+            <guid>https://www.elle.co.kr/article/68875</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[음악을 소비하지 않고 소유하는 가장 좋은 방법. 손으로 직접 고르는 재미, 레코드숍 투어를 떠...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/bfc0e451-5139-489f-ba7d-4b4151a9460f.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[AI가 그린 그림이 미술대회에서 우승했다. 이 그림은 표절일까?]]></title>
-            <link>https://www.elle.co.kr/article/70561</link>
-            <guid>https://www.elle.co.kr/article/70561</guid>
-            <pubDate>Mon, 12 Sep 2022 20:20:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/b20bdb9b-209f-40ae-b369-a4a5d7c698ba.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[명랑함과 우울함 그 사이의 최정윤 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/68813</link>
+            <guid>https://www.elle.co.kr/article/68813</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;착한 사람들이 먼저 가는 우주&gt;로 던지는 희망.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/15/d8d08fcf-bb4a-48e4-875f-ac168a023fec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울 아트 위크의 하이라이트, 프랜시스 베이컨과 아드리안 게니 전시]]></title>
-            <link>https://www.elle.co.kr/article/70500</link>
-            <guid>https://www.elle.co.kr/article/70500</guid>
-            <pubDate>Fri, 09 Sep 2022 05:58:14 GMT</pubDate>
-            <content:encoded><![CDATA[크리스티와 홈아트의 공동 개최 전시로 두 아이콘의 주요작을 공개했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/2e159091-881f-4c99-9e27-5e67ce272dae.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고?]]></title>
+            <link>https://www.elle.co.kr/article/67515</link>
+            <guid>https://www.elle.co.kr/article/67515</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[그 동안 멤버들은 믹스 테잎 등 무료 공개 음원으로 솔로 활동을 해 왔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정우성, 청혼 공식 거부?! 청담쀼 아저씨들을 사랑할 수밖에 없는 이유]]></title>
-            <link>https://www.elle.co.kr/article/70538</link>
-            <guid>https://www.elle.co.kr/article/70538</guid>
-            <pubDate>Thu, 08 Sep 2022 06:52:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/f511a13f-f202-4c8b-a83a-7e67d0367e5f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[또 나온 K-천재, 반 클라이번 콩쿨 역대 최연소 우승자 임윤찬은 욕심이 없다]]></title>
+            <link>https://www.elle.co.kr/article/67360</link>
+            <guid>https://www.elle.co.kr/article/67360</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['작은 아씨들' 김고은, 남지현, 박지후가 서로의 얼굴을 그려봤다]]></title>
-            <link>https://www.elle.co.kr/article/70504</link>
-            <guid>https://www.elle.co.kr/article/70504</guid>
-            <pubDate>Thu, 08 Sep 2022 06:52:50 GMT</pubDate>
-            <content:encoded><![CDATA['찐' 자매란 이런 것?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a28f0ca1-bb90-4420-bad1-ab97c173df3d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[화양연화 LP 아직 못 구한 사람? 가벼움의 시대에 만난 무거운 낭만, 레코드 수집]]></title>
+            <link>https://www.elle.co.kr/article/67302</link>
+            <guid>https://www.elle.co.kr/article/67302</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[수집가라면 눈 돌아갈 한정판 레코드 오프라인 행사도 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[9월 신작 비교! 김고은의 '작은 아씨들' vs 이승기의 '법대로 사랑하라' #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/70501</link>
-            <guid>https://www.elle.co.kr/article/70501</guid>
-            <pubDate>Thu, 08 Sep 2022 06:52:50 GMT</pubDate>
-            <content:encoded><![CDATA[첫 방송부터 뜨거운 관심이 쏟아지는 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/0862cfe8-d383-47f7-a371-e3d177d4c433.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[슬릭의 뜨겁고 가뿐한 마음 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/67266</link>
+            <guid>https://www.elle.co.kr/article/67266</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[매일이 지겹다면 ‘푸른 바다 위에서 칵테일 한 잔 줘’]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BTS가 눈물과 함께 그룹 활동 잠정 중단을 선언한 이유와 향후 행보]]></title>
+            <link>https://www.elle.co.kr/article/67220</link>
+            <guid>https://www.elle.co.kr/article/67220</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[매너리즘에 빠진 모두가 공감할 수밖에 없는 이유.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/66924</link>
+            <guid>https://www.elle.co.kr/article/66924</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 콕 박히는 장들레의 일상적인 가사]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 내한 공연 최신 업데이트.zip]]></title>
+            <link>https://www.elle.co.kr/article/66709</link>
+            <guid>https://www.elle.co.kr/article/66709</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[올해를 뜨겁게 달굴 내한 공연과 페스티벌.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[로제 거울 셀카 찍는 법 최초 공개?! 로제는 스마트 폰에 블랙핑크 멤버들을 뭐라고 저장했을까]]></title>
+            <link>https://www.elle.co.kr/article/66561</link>
+            <guid>https://www.elle.co.kr/article/66561</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[엘르 6월호 커버 스타 로제의 순도 100% 사랑스러운 모먼트.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고막 구원자, 구원찬 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/66526</link>
+            <guid>https://www.elle.co.kr/article/66526</guid>
+            <pubDate>Wed, 14 Sep 2022 13:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[행성에서 돌아와 주변으로 눈을 돌린 [Object] 시리즈]]></content:encoded>
         </item>
     </channel>
 </rss>

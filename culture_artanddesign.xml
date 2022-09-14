@@ -1,36 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
+        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 11:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 13:58:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[니고가 찬찬히 수집한 빈티지 제품들이 궁금하다면?]]></title>
-            <link>https://www.elle.co.kr/article/70676</link>
-            <guid>https://www.elle.co.kr/article/70676</guid>
-            <pubDate>Mon, 12 Sep 2022 19:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[휴먼 메이드부터 겐조까지, 남다른 행보의 니고가 여는 전시회.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/24cef039-377a-44b3-838c-4ee05ddbe9f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건축물부터 예술 그 자체! 제주 미술관 3]]></title>
-            <link>https://www.elle.co.kr/article/70601</link>
-            <guid>https://www.elle.co.kr/article/70601</guid>
-            <pubDate>Thu, 08 Sep 2022 08:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[예술의 섬 제주를 제대로 즐기는 법!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/b461d1ed-c83f-497a-8697-0e3ad63177d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직진만 하는 나이키! 세상에서 가장 착한 회색 후디를 먼저 입어 보았습니다]]></title>
-            <link>https://www.elle.co.kr/article/70596</link>
-            <guid>https://www.elle.co.kr/article/70596</guid>
-            <pubDate>Thu, 08 Sep 2022 08:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[포워드Forward 는 미래로 나아가는 나이키, 그 자체다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/70257391-6047-4faf-9e1c-4b7ac0f45221.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[AI가 그린 그림이 미술대회에서 우승했다. 이 그림은 표절일까?]]></title>
             <link>https://www.elle.co.kr/article/70561</link>
@@ -39,67 +15,56 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/b20bdb9b-209f-40ae-b369-a4a5d7c698ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울 아트 위크의 하이라이트, 프랜시스 베이컨과 아드리안 게니 전시]]></title>
-            <link>https://www.elle.co.kr/article/70500</link>
-            <guid>https://www.elle.co.kr/article/70500</guid>
-            <pubDate>Wed, 07 Sep 2022 09:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[크리스티와 홈아트의 공동 개최 전시로 두 아이콘의 주요작을 공개했다.]]></content:encoded>
+            <title><![CDATA[아이폰 사용자들 주목! 한국 상륙하는 애플페이, 언제부터 어떻게 쓸 수 있을까?]]></title>
+            <link>https://www.elle.co.kr/article/70558</link>
+            <guid>https://www.elle.co.kr/article/70558</guid>
+            <pubDate>Wed, 14 Sep 2022 13:56:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/eee3f2a2-caa3-4da8-b0fa-02d9e7e7db9e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아트러버들의 오감을 뒤흔든 작품들]]></title>
-            <link>https://www.elle.co.kr/article/70251</link>
-            <guid>https://www.elle.co.kr/article/70251</guid>
-            <pubDate>Fri, 02 Sep 2022 01:29:24 GMT</pubDate>
-            <content:encoded><![CDATA['아트 러버'들의 오감을 깨우고 총체적으로 뒤흔든 작품들. 그 매혹의 순간에 관하여.]]></content:encoded>
+            <title><![CDATA[올가을, 서울의 호텔들이 맛있어진다]]></title>
+            <link>https://www.elle.co.kr/article/70262</link>
+            <guid>https://www.elle.co.kr/article/70262</guid>
+            <pubDate>Wed, 14 Sep 2022 13:56:54 GMT</pubDate>
+            <content:encoded><![CDATA[소피텔 앰배서더 서울의 갈라디너를 책임 질 3인의 여성 셰프]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/7a77b7bc-a7c1-460d-8727-bf254195d7ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[예술의 바다에 첨벙! 세계 최대 규모의 아트 페어 '프리즈' 서울이 개막했다]]></title>
-            <link>https://www.elle.co.kr/article/70388</link>
-            <guid>https://www.elle.co.kr/article/70388</guid>
-            <pubDate>Fri, 02 Sep 2022 01:29:24 GMT</pubDate>
-            <content:encoded><![CDATA[키아프와 함께 열릴 프리즈 서울에 관해 짚어 보아야 할 다섯 가지 쟁점들. 프리즈 서울의 디...]]></content:encoded>
+            <title><![CDATA[9월 최신판! 데이트도 나들이도 다 되는 가을의 성수동 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/70523</link>
+            <guid>https://www.elle.co.kr/article/70523</guid>
+            <pubDate>Wed, 14 Sep 2022 13:56:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/5d763b18-82f0-4de7-8245-b9cf71155dee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프리즈X키아프! 사상 최대의 아트 축제를 위한 예열 리스트]]></title>
-            <link>https://www.elle.co.kr/article/70357</link>
-            <guid>https://www.elle.co.kr/article/70357</guid>
-            <pubDate>Wed, 31 Aug 2022 18:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[전격적으로 서울을 찾은 특급 갤러리들과 주요 아트 피스 미리보기.]]></content:encoded>
+            <title><![CDATA[사람과 예술 그리고 아테온의 성공적 만남]]></title>
+            <link>https://www.elle.co.kr/article/70409</link>
+            <guid>https://www.elle.co.kr/article/70409</guid>
+            <pubDate>Wed, 14 Sep 2022 13:56:54 GMT</pubDate>
+            <content:encoded><![CDATA[우아하지만 맹렬하게 달리는 아테온 R-라인 4모션의 독보적 위치 탐구.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/5b6c6a3c-78b1-445b-b314-410b2a7a3780.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일상적인듯 기묘한 도자 작품! 아티스트 신다인이 발견한 틈과 구멍]]></title>
-            <link>https://www.elle.co.kr/article/68987</link>
-            <guid>https://www.elle.co.kr/article/68987</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[시작은 하수구 구멍이었다.]]></content:encoded>
+            <title><![CDATA[달콤한 건 못 참지! 스타가 들른 디저트 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/70445</link>
+            <guid>https://www.elle.co.kr/article/70445</guid>
+            <pubDate>Wed, 14 Sep 2022 13:56:54 GMT</pubDate>
+            <content:encoded><![CDATA[당 충전이 필요한 디저트 러버 주목! 캐러멜 샌드부터 크로핀, 쿠키까지, 달달함 100% 완충 가...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/4e170da7-d943-4e37-9d22-b26e89191168.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
-            <link>https://www.elle.co.kr/article/68875</link>
-            <guid>https://www.elle.co.kr/article/68875</guid>
-            <pubDate>Tue, 16 Aug 2022 10:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[음악을 소비하지 않고 소유하는 가장 좋은 방법. 손으로 직접 고르는 재미, 레코드숍 투어를 떠...]]></content:encoded>
+            <title><![CDATA[대표 음식이 대체 몇 개야? 나주곰탕에 장어구이, 홍어까지! 식욕 돋우는 나주 맛집 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/70289</link>
+            <guid>https://www.elle.co.kr/article/70289</guid>
+            <pubDate>Wed, 14 Sep 2022 13:56:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/02b90554-5851-4e58-9cce-fc7944474aef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국현 대전관이 될 그곳! 충남도청 구청사로의 건축 산책]]></title>
-            <link>https://www.elle.co.kr/article/68649</link>
-            <guid>https://www.elle.co.kr/article/68649</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[반질반질하다 못해 오목하게 패인 돌 층계에는 얼마나 많은 사람의 발길이 닿았을까.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레고와 강혜원의 별이 빛나는 밤]]></title>
-            <link>https://www.elle.co.kr/article/68075</link>
-            <guid>https://www.elle.co.kr/article/68075</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[‘레고 아이디어 빈센트 반 고흐- 별이 빛나는 밤’과 가장 잘 어울리는 스물셋 청춘 스타 강...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/67822</link>
-            <guid>https://www.elle.co.kr/article/67822</guid>
-            <pubDate>Thu, 25 Aug 2022 18:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[덥고 습한 장마철에는 실내 데이트가 제격! 지드래곤부터 RM, 샤이니 키까지 스타가 찾은 전시...]]></content:encoded>
+            <title><![CDATA[볼일 없어도 돌아다니고 싶은 요즘, 선선한 날씨에 들르기 좋은 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/70232</link>
+            <guid>https://www.elle.co.kr/article/70232</guid>
+            <pubDate>Wed, 14 Sep 2022 13:56:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/260e4909-b992-4802-bcee-22789fabc5dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
