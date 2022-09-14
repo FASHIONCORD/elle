@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 23:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 06:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 그린 그림이 미술대회에서 우승했다. 이 그림은 표절일까?]]></title>
+            <link>https://www.elle.co.kr/article/70561</link>
+            <guid>https://www.elle.co.kr/article/70561</guid>
+            <pubDate>Wed, 14 Sep 2022 06:11:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/b20bdb9b-209f-40ae-b369-a4a5d7c698ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이폰 사용자들 주목! 한국 상륙하는 애플페이, 언제부터 어떻게 쓸 수 있을까?]]></title>
             <link>https://www.elle.co.kr/article/70558</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/70232</guid>
             <pubDate>Tue, 06 Sep 2022 17:29:18 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/260e4909-b992-4802-bcee-22789fabc5dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들이 고른 사적모임 장소 3]]></title>
-            <link>https://www.elle.co.kr/article/70197</link>
-            <guid>https://www.elle.co.kr/article/70197</guid>
-            <pubDate>Tue, 06 Sep 2022 11:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[약속 장소로 제격! 톱모델 모임부터 골때녀들의 회동 장소까지, 셀러브리티들이 모임 장소로 선택...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/b9311a46-aa33-43d5-a50c-27c4305b300a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
