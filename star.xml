@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 08:30:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑꾼 이정재와 배씨댕기 한 정호연! 에미상 간 '오겜' 팀 포토월과 수상 내역 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/70688</link>
+            <guid>https://www.elle.co.kr/article/70688</guid>
+            <pubDate>Thu, 15 Sep 2022 08:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[이정재 남우주연상 수상!!!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/8b83b910-541d-4863-bb60-a5b1a96ebf67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가출팸부터 분노 유발 빌런까지, 다사다난 그 자체인 '에미상' 이유미의 인생 캐릭터 4 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/70680</link>
@@ -61,13 +69,6 @@
             <pubDate>Wed, 14 Sep 2022 15:19:54 GMT</pubDate>
             <content:encoded><![CDATA[시대를 초월하며 여성들에게 희망을 안겨준 루즈 디올처럼 나탈리 포트만은 이 시대 여성들에게 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/6fd812fe-7fa8-48c6-aa11-4dc600920fa7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김치피자탕수육 같던 여자 예능 '지락실', 시즌1 굿즈와 시즌2 정보 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/70591</link>
-            <guid>https://www.elle.co.kr/article/70591</guid>
-            <pubDate>Sun, 11 Sep 2022 11:15:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/35341a07-300c-42d5-b707-bf82f2568a64.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

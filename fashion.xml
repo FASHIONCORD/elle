@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 08:30:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클래식은 영원하다! 흰 양말과 로퍼 스타일링 5]]></title>
+            <link>https://www.elle.co.kr/article/70703</link>
+            <guid>https://www.elle.co.kr/article/70703</guid>
+            <pubDate>Thu, 15 Sep 2022 08:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[흰 양말과 함께라면 더욱 완벽한 클래식 로퍼! 단정한 룩부터 관능적이고 터프한 룩까지 다양한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/49aea2b6-20a8-4f80-b367-b1c9f9b98a40.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자유, 개성, 스타일리시함의 키워드]]></title>
             <link>https://www.elle.co.kr/article/70587</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 12 Sep 2022 04:24:44 GMT</pubDate>
             <content:encoded><![CDATA[큼직한 사이즈로 압도하는 블레이저.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/cb943043-79b1-46e6-804e-65a4e44588d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오래된 우유 가게가 깜찍한 안식처가 되기까지]]></title>
-            <link>https://www.elle.co.kr/article/70645</link>
-            <guid>https://www.elle.co.kr/article/70645</guid>
-            <pubDate>Sun, 11 Sep 2022 11:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[유쾌한 모험 정신으로 가득한 에드비나 베리의 스웨덴 하우스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/79be526b-ad9c-4f67-b134-68b528f35bc2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
