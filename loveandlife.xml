@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 04:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이동욱이 반한 단풍라떼가 여기에? 가을 느낌 디저트 가득한 밀양 카페 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/70648</link>
+            <guid>https://www.elle.co.kr/article/70648</guid>
+            <pubDate>Thu, 15 Sep 2022 06:06:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/e5988317-0fde-4bc0-af66-2009fbc150ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모델 지현정의 로망 웨딩 화보]]></title>
             <link>https://www.elle.co.kr/article/70412</link>
@@ -59,13 +66,6 @@
             <pubDate>Wed, 14 Sep 2022 15:23:39 GMT</pubDate>
             <content:encoded><![CDATA[당 충전이 필요한 디저트 러버 주목! 캐러멜 샌드부터 크로핀, 쿠키까지, 달달함 100% 완충 가...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/4e170da7-d943-4e37-9d22-b26e89191168.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대표 음식이 대체 몇 개야? 나주곰탕에 장어구이, 홍어까지! 식욕 돋우는 나주 맛집 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/70289</link>
-            <guid>https://www.elle.co.kr/article/70289</guid>
-            <pubDate>Wed, 14 Sep 2022 15:23:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/02b90554-5851-4e58-9cce-fc7944474aef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
