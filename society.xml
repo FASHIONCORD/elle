@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 일에도 적절한 보상이 필요해! 챌린지 앱처럼 일하기]]></title>
+            <link>https://www.elle.co.kr/article/70244</link>
+            <guid>https://www.elle.co.kr/article/70244</guid>
+            <pubDate>Thu, 15 Sep 2022 06:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 나는 '의지'를 돈 주고 산다? N년 차 기자의 고민.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/9a477983-5513-41d7-93d9-4dd414c40742.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI가 그린 그림이 미술대회에서 우승했다. 이 그림은 표절일까?]]></title>
             <link>https://www.elle.co.kr/article/70561</link>
@@ -59,13 +67,6 @@
             <pubDate>Wed, 14 Sep 2022 15:23:48 GMT</pubDate>
             <content:encoded><![CDATA[금리 인상기에 주목해 볼 만한 것들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/f0f682fb-eb48-4110-85df-27be2fb32d68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌고래 비봉이도 수족관으로 돌려 보낸 초강력 태풍 힌남노, 한반도에 미칠 영향은?]]></title>
-            <link>https://www.elle.co.kr/article/70325</link>
-            <guid>https://www.elle.co.kr/article/70325</guid>
-            <pubDate>Wed, 14 Sep 2022 15:23:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/cb1ecf81-d32d-40fc-9d03-dd0ba6c90baa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

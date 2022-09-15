@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가출팸부터 분노 유발 빌런까지, 다사다난 그 자체인 '에미상' 이유미의 인생 캐릭터 4 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/70680</link>
+            <guid>https://www.elle.co.kr/article/70680</guid>
+            <pubDate>Thu, 15 Sep 2022 06:50:23 GMT</pubDate>
+            <content:encoded><![CDATA[행복하자... 아프지 말고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/2d892e90-f89a-4766-b663-e9eafd4f3dd0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미셸 조너의 금의환향]]></title>
             <link>https://www.elle.co.kr/article/70665</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/70591</guid>
             <pubDate>Sun, 11 Sep 2022 11:15:24 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/35341a07-300c-42d5-b707-bf82f2568a64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['근세라핌'의 몸매 유지 비결은? 맨몸 운동 끝판왕인 이것! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/70588</link>
-            <guid>https://www.elle.co.kr/article/70588</guid>
-            <pubDate>Wed, 14 Sep 2022 15:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[멤버 모두가 운동을 좋아해 붙은 애칭 '근세라핌'.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/84f6d70f-2aa1-4519-8119-3fd1a234b47f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

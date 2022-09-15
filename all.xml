@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1097,6 +1097,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/bf0f4a41-5d86-46ff-8338-d594a097adf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가출팸부터 분노 유발 빌런까지, 다사다난 그 자체인 '에미상' 이유미의 인생 캐릭터 4 #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70680</link>
+            <guid>https://www.elle.co.kr/article/70680</guid>
+            <pubDate>Tue, 13 Sep 2022 10:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[행복하자... 아프지 말고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/2d892e90-f89a-4766-b663-e9eafd4f3dd0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미셸 조너의 금의환향 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/70665</link>
             <guid>https://www.elle.co.kr/article/70665</guid>
@@ -1149,14 +1157,6 @@
             <guid>https://www.elle.co.kr/article/70591</guid>
             <pubDate>Thu, 08 Sep 2022 06:00:49 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/35341a07-300c-42d5-b707-bf82f2568a64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['근세라핌'의 몸매 유지 비결은? 맨몸 운동 끝판왕인 이것! #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70588</link>
-            <guid>https://www.elle.co.kr/article/70588</guid>
-            <pubDate>Sun, 11 Sep 2022 11:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[멤버 모두가 운동을 좋아해 붙은 애칭 '근세라핌'.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/84f6d70f-2aa1-4519-8119-3fd1a234b47f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건축물부터 예술 그 자체! 제주 미술관 3 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1556,6 +1556,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/4e170da7-d943-4e37-9d22-b26e89191168.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스] 일에도 적절한 보상이 필요해! 챌린지 앱처럼 일하기 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/70244</link>
+            <guid>https://www.elle.co.kr/article/70244</guid>
+            <pubDate>Thu, 15 Sep 2022 06:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 나는 '의지'를 돈 주고 산다? N년 차 기자의 고민.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/9a477983-5513-41d7-93d9-4dd414c40742.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AI가 그린 그림이 미술대회에서 우승했다. 이 그림은 표절일까? (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/70561</link>
             <guid>https://www.elle.co.kr/article/70561</guid>
@@ -1607,13 +1615,6 @@
             <pubDate>Wed, 07 Sep 2022 16:26:59 GMT</pubDate>
             <content:encoded><![CDATA[금리 인상기에 주목해 볼 만한 것들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/f0f682fb-eb48-4110-85df-27be2fb32d68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌고래 비봉이도 수족관으로 돌려 보낸 초강력 태풍 힌남노, 한반도에 미칠 영향은? (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/70325</link>
-            <guid>https://www.elle.co.kr/article/70325</guid>
-            <pubDate>Tue, 06 Sep 2022 07:44:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/cb1ecf81-d32d-40fc-9d03-dd0ba6c90baa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
