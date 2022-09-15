@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 13:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 16:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반클리프 아펠의 새로운 우주]]></title>
+            <link>https://www.elle.co.kr/article/70710</link>
+            <guid>https://www.elle.co.kr/article/70710</guid>
+            <pubDate>Thu, 15 Sep 2022 16:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[추상적이고 기하학적인 '뻬를리' 컬렉션으로 그들만의 새로운 우주를 만들어가고 있는 반클리프 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/9900ccd2-f5da-4ff7-bb1b-3923a64cfa08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깻잎 머리? 돌아온 90년대 바이브!]]></title>
+            <link>https://www.elle.co.kr/article/70704</link>
+            <guid>https://www.elle.co.kr/article/70704</guid>
+            <pubDate>Thu, 15 Sep 2022 16:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[90년대를 풍미했던 깻잎 머리의 유행 예감.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/a7cb7e57-1f8e-4703-a33c-75f7f5d2132b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클래식은 영원하다! 흰 양말과 로퍼 스타일링 5]]></title>
             <link>https://www.elle.co.kr/article/70703</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 13 Sep 2022 19:15:16 GMT</pubDate>
             <content:encoded><![CDATA[요즘 유행은 스포츠웨어? 운동선수들이 경기장에서 입을 법한 유니폼이 데일리 룩의 치트키가 된...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/66a22238-08cb-4255-8c06-b5844cce7932.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간절기 필수템! 스타가 픽한 아우터 5]]></title>
-            <link>https://www.elle.co.kr/article/70646</link>
-            <guid>https://www.elle.co.kr/article/70646</guid>
-            <pubDate>Tue, 13 Sep 2022 10:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[아침, 저녁으로 쌀쌀해진 요즘 날씨에 필요한 건 무엇? 옷잘알 스타들의 사복 패션에서 찾은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/0bdd5d33-66b7-4cad-84d4-c7bbb68a77e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아빠가 입던 커다란 재킷]]></title>
-            <link>https://www.elle.co.kr/article/70246</link>
-            <guid>https://www.elle.co.kr/article/70246</guid>
-            <pubDate>Mon, 12 Sep 2022 04:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[큼직한 사이즈로 압도하는 블레이저.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/cb943043-79b1-46e6-804e-65a4e44588d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
