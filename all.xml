@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 08:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 10:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/6fd812fe-7fa8-48c6-aa11-4dc600920fa7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연휴에 뭐해? '정주행 각' OTT 시리즈 추천 4 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/70630</link>
+            <guid>https://www.elle.co.kr/article/70630</guid>
+            <pubDate>Fri, 09 Sep 2022 05:58:43 GMT</pubDate>
+            <content:encoded><![CDATA[우리에게 주어진 시간은 단 나흘 뿐. 이번 추석 연휴에 꼭 봐야할 신작 OTT 시리즈를 대신 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/0200743c-6a77-4853-8798-039838fb3d7b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[건축물부터 예술 그 자체! 제주 미술관 3 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/70601</link>
             <guid>https://www.elle.co.kr/article/70601</guid>
@@ -1211,14 +1219,6 @@
             <pubDate>Mon, 05 Sep 2022 19:16:36 GMT</pubDate>
             <content:encoded><![CDATA['찐' 자매란 이런 것?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a28f0ca1-bb90-4420-bad1-ab97c173df3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 신작 비교! 김고은의 '작은 아씨들' vs 이승기의 '법대로 사랑하라' #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/70501</link>
-            <guid>https://www.elle.co.kr/article/70501</guid>
-            <pubDate>Mon, 05 Sep 2022 09:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[첫 방송부터 뜨거운 관심이 쏟아지는 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/0862cfe8-d383-47f7-a371-e3d177d4c433.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴백과 동시에 2억 뷰X200만 장 기록! K-걸그룹 최초로 VMAs 간 블랙핑크 사진 모음.zip (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
