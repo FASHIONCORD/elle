@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 06:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 10:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1033,6 +1033,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/66a22238-08cb-4255-8c06-b5844cce7932.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[밝고 깨끗하게 스마일~ 취향 따라 치약 추천 6 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/70667</link>
+            <guid>https://www.elle.co.kr/article/70667</guid>
+            <pubDate>Fri, 16 Sep 2022 10:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[매일 사용하는 만큼 더욱 신중하게! 치아 관리를 위해 이혜성이 선택한 여섯 가지 치약을 소개...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/911d1eed-8b9c-4697-8037-a99fdd32e052.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[루즈 디올의 뮤즈 나탈리 포트만과 '엘르'의 만남 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/70614</link>
             <guid>https://www.elle.co.kr/article/70614</guid>
@@ -1089,12 +1097,19 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/96a84eff-133e-4905-bb79-b68336e3692e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여자의 변신은 무죄! 과감하게 헤어스타일 바꿔 보기 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/70457</link>
-            <guid>https://www.elle.co.kr/article/70457</guid>
-            <pubDate>Wed, 14 Sep 2022 15:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[과감하게 헤어스타일을 바꿔 180도 변신한 스타들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/bf0f4a41-5d86-46ff-8338-d594a097adf6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['인어공주' 실사판 티저가 공개됐다. 왜 3년 동안 같은 논란이 이어지는 걸까? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70723</link>
+            <guid>https://www.elle.co.kr/article/70723</guid>
+            <pubDate>Wed, 14 Sep 2022 08:24:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/ca1e805d-1e31-473f-9d38-82a6df946c0d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[결국 에미상까지 타 버린 이정재, 역사상 최고의 SF 프랜차이즈 주인공 됐다 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/70694</link>
+            <guid>https://www.elle.co.kr/article/70694</guid>
+            <pubDate>Tue, 13 Sep 2022 10:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[끝나지 않는 전성기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/a3614086-b2c9-4a5a-9374-99fb96e1556a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑꾼 이정재와 배씨댕기 한 정호연! 에미상 간 '오겜' 팀 포토월과 수상 내역 모음.zip (엘르 코리아 ─ 스타)]]></title>
@@ -1142,22 +1157,6 @@
             <pubDate>Tue, 13 Sep 2022 06:14:51 GMT</pubDate>
             <content:encoded><![CDATA[원데이 클래스부터 부캐력 가득한 취미 활동까지! 현실 인생에 몰두하기 위해 부지런히 취미 생...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/e6384421-a709-43fb-9335-a4143e952ded.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 손으로 가꾸는 삶, 올로호요의 작업실 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70245</link>
-            <guid>https://www.elle.co.kr/article/70245</guid>
-            <pubDate>Tue, 13 Sep 2022 06:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[내 '멋'대로 사는 올로호요의 작업실은 오직 그의 두 손끝에서 탄생했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/513af71a-5cb7-481a-8ad6-cd39d5247058.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루즈 디올의 뮤즈 나탈리 포트만과 '엘르'의 만남 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/70614</link>
-            <guid>https://www.elle.co.kr/article/70614</guid>
-            <pubDate>Sun, 11 Sep 2022 15:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[시대를 초월하며 여성들에게 희망을 안겨준 루즈 디올처럼 나탈리 포트만은 이 시대 여성들에게 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/6fd812fe-7fa8-48c6-aa11-4dc600920fa7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연휴에 뭐해? '정주행 각' OTT 시리즈 추천 4 (엘르 코리아 ─ 컬쳐)]]></title>

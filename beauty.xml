@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 06:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 10:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밝고 깨끗하게 스마일~ 취향 따라 치약 추천 6]]></title>
+            <link>https://www.elle.co.kr/article/70667</link>
+            <guid>https://www.elle.co.kr/article/70667</guid>
+            <pubDate>Fri, 16 Sep 2022 10:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[매일 사용하는 만큼 더욱 신중하게! 치아 관리를 위해 이혜성이 선택한 여섯 가지 치약을 소개...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/911d1eed-8b9c-4697-8037-a99fdd32e052.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루즈 디올의 뮤즈 나탈리 포트만과 '엘르'의 만남]]></title>
             <link>https://www.elle.co.kr/article/70614</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 14 Sep 2022 15:19:14 GMT</pubDate>
             <content:encoded><![CDATA[세럼 딱 하나만 고른다면? 기능별 세럼부터 신상품까지]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/96a84eff-133e-4905-bb79-b68336e3692e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자의 변신은 무죄! 과감하게 헤어스타일 바꿔 보기]]></title>
-            <link>https://www.elle.co.kr/article/70457</link>
-            <guid>https://www.elle.co.kr/article/70457</guid>
-            <pubDate>Wed, 14 Sep 2022 15:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[과감하게 헤어스타일을 바꿔 180도 변신한 스타들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/bf0f4a41-5d86-46ff-8338-d594a097adf6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
