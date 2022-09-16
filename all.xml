@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 18:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 19:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMTcw/MDAxNjM2NjIwODg1MjU3.QWOQ9WzKeVz5NmqT1y9o9LCBXoqoAvEC_wYa29xH38sg.Zxn5OSGgJbp5ssyPNyW_1wQC9f6FJsW4dSdqz-WaN1wg.PNG/IeRN4A4HqJ_F98dKrwXUrpB5_p1k.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[과감하게 커팅! 찢청의 터프한 매력 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/70711</link>
+            <guid>https://www.elle.co.kr/article/70711</guid>
+            <pubDate>Fri, 16 Sep 2022 19:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[엄빠가 보면 등짝 스매싱 각! 빈티지한 무드 가득한 디스트로이드 진으로 스타일리시한 사복 패...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/4c687702-a28a-4f43-8a5b-502a325e1f00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미니 신드롬 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/70709</link>
+            <guid>https://www.elle.co.kr/article/70709</guid>
+            <pubDate>Fri, 16 Sep 2022 19:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[가을에도 미니스커트는 여전히 옳다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/756c45a8-e7ba-465a-87d9-7cbfbf06620d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[반클리프 아펠의 새로운 우주 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/70710</link>
             <guid>https://www.elle.co.kr/article/70710</guid>
@@ -1015,22 +1031,6 @@
             <pubDate>Tue, 13 Sep 2022 19:15:16 GMT</pubDate>
             <content:encoded><![CDATA[지금 이 계절에 딱 어울리는 셔츠. 활용법은 스타들의 데일리 룩에서 참고할 것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/00b7697c-cf77-45de-bcca-7f4f8ab5f411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫한 '오운완' 하고 싶다면? 테니스가 정답! (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/70653</link>
-            <guid>https://www.elle.co.kr/article/70653</guid>
-            <pubDate>Tue, 13 Sep 2022 19:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[예쁜 옷들은 덤이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/d3cae348-05b1-4a82-82a4-52d48c59b5ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스처럼! ‘스포츠 유니폼’으로 연출하는 쿨한 무드 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/70647</link>
-            <guid>https://www.elle.co.kr/article/70647</guid>
-            <pubDate>Tue, 13 Sep 2022 19:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 유행은 스포츠웨어? 운동선수들이 경기장에서 입을 법한 유니폼이 데일리 룩의 치트키가 된...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/66a22238-08cb-4255-8c06-b5844cce7932.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밝고 깨끗하게 스마일~ 취향 따라 치약 추천 6 (엘르 코리아 ─ 뷰티)]]></title>
