@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 15:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 18:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1496,6 +1496,14 @@
             <content:encoded><![CDATA[덥고 습한 장마철에는 실내 데이트가 제격! 지드래곤부터 RM, 샤이니 키까지 스타가 찾은 전시...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미감만족 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/70247</link>
+            <guid>https://www.elle.co.kr/article/70247</guid>
+            <pubDate>Fri, 16 Sep 2022 18:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[환영합니다. 도심 속 새로운 감각을 환기하는 두 공간으로의 초대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/ebb8dc58-7085-4996-9adf-a3097d4a2b8e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이동욱이 반한 단풍라떼가 여기에? 가을 느낌 디저트 가득한 밀양 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/70648</link>
             <guid>https://www.elle.co.kr/article/70648</guid>
@@ -1546,14 +1554,6 @@
             <pubDate>Thu, 08 Sep 2022 07:37:21 GMT</pubDate>
             <content:encoded><![CDATA[우아하지만 맹렬하게 달리는 아테온 R-라인 4모션의 독보적 위치 탐구.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/5b6c6a3c-78b1-445b-b314-410b2a7a3780.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달콤한 건 못 참지! 스타가 들른 디저트 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/70445</link>
-            <guid>https://www.elle.co.kr/article/70445</guid>
-            <pubDate>Wed, 07 Sep 2022 09:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[당 충전이 필요한 디저트 러버 주목! 캐러멜 샌드부터 크로핀, 쿠키까지, 달달함 100% 완충 가...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/4e170da7-d943-4e37-9d22-b26e89191168.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 일에도 적절한 보상이 필요해! 챌린지 앱처럼 일하기 (엘르 코리아 ─ 소사이어티)]]></title>
