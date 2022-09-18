@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 20:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 01:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살 빼려고 시작했다가 복근에 직업까지?! 모니카의 체형 유지 비결 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/70742</link>
+            <guid>https://www.elle.co.kr/article/70742</guid>
+            <pubDate>Sun, 18 Sep 2022 01:49:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/71f2af2c-a3bc-4215-b805-d170d5d54c3d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['인어공주' 실사판 티저가 공개됐다. 왜 3년 동안 같은 논란이 이어지는 걸까?]]></title>
             <link>https://www.elle.co.kr/article/70723</link>
@@ -60,14 +67,6 @@
             <pubDate>Wed, 14 Sep 2022 15:19:54 GMT</pubDate>
             <content:encoded><![CDATA[LA 다저스 경기 관람부터 라스베이거스에서의 바이크 라이딩까지! 미국을 100% 즐기고 온 유연석...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/4723f0b6-9abb-4a12-9d58-efca899383f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘갓생’을 위해! 스타의 여가 생활 5]]></title>
-            <link>https://www.elle.co.kr/article/70628</link>
-            <guid>https://www.elle.co.kr/article/70628</guid>
-            <pubDate>Wed, 14 Sep 2022 15:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[원데이 클래스부터 부캐력 가득한 취미 활동까지! 현실 인생에 몰두하기 위해 부지런히 취미 생...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/e6384421-a709-43fb-9335-a4143e952ded.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
