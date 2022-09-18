@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 08:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 14:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깐부 할아버지가 에미상 뒤풀이 무대를 뒤집어 놓으셨다? '오징어게임' 뒷이야기 4]]></title>
+            <link>https://www.elle.co.kr/article/70750</link>
+            <guid>https://www.elle.co.kr/article/70750</guid>
+            <pubDate>Sun, 18 Sep 2022 14:17:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/af8049de-b22e-4cc4-9dd0-2073582446bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살 빼려고 시작했다가 복근에 직업까지?! 모니카의 체형 유지 비결 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/70742</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/70657</guid>
             <pubDate>Wed, 14 Sep 2022 15:19:54 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/1361ab2d-52e5-4d8f-9b6d-ed49bec1e115.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환상의 나라로 출발~  유연석의 미국 여행기]]></title>
-            <link>https://www.elle.co.kr/article/70655</link>
-            <guid>https://www.elle.co.kr/article/70655</guid>
-            <pubDate>Wed, 14 Sep 2022 15:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[LA 다저스 경기 관람부터 라스베이거스에서의 바이크 라이딩까지! 미국을 100% 즐기고 온 유연석...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/4723f0b6-9abb-4a12-9d58-efca899383f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
