@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 14:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 15:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 비엔날레에서 조우한 두 세계, 정금형&이미래]]></title>
+            <link>https://www.elle.co.kr/article/70763</link>
+            <guid>https://www.elle.co.kr/article/70763</guid>
+            <pubDate>Sun, 18 Sep 2022 15:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[올해 베니스 비엔날레 본전시에 참가한 유일한 두 한국 여성 작가. '꿈의 우유(The Milk of ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/35e93f62-aeb4-47fd-a0c2-04e506cbd488.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한밤 중 패션계를 들썩이게한 보테가 베네타의 파티!]]></title>
             <link>https://www.elle.co.kr/article/70754</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 13 Sep 2022 19:15:16 GMT</pubDate>
             <content:encoded><![CDATA[샤넬 화인 주얼리 코코 크러쉬 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/baf90079-2c00-43aa-8c46-ed13c157ad07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 시즌 스타일 지수를 업그레이드하는 방법?]]></title>
-            <link>https://www.elle.co.kr/article/70411</link>
-            <guid>https://www.elle.co.kr/article/70411</guid>
-            <pubDate>Tue, 13 Sep 2022 19:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[머리 위에 무심하게 툭!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/5dd98c86-af56-4e59-9c1b-bc5a6bb2684a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
