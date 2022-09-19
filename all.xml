@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 14:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 16:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1033,6 +1033,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/49aea2b6-20a8-4f80-b367-b1c9f9b98a40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SNS발 핫 이슈, 스킨 사이클링?_선배's 어드바이스 #134 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/70691</link>
+            <guid>https://www.elle.co.kr/article/70691</guid>
+            <pubDate>Mon, 19 Sep 2022 16:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[새 피부로 태어나면서 피부 장벽도 지키는 틱톡, 인스타발 마법의 스킨케어 루틴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/a05ccea4-3cca-4e1d-963f-4b43b94a8840.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[맥주에 진심인 에디터가 직접 먹어본 ‘논알코올 맥주’ 모음.zip (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/70681</link>
             <guid>https://www.elle.co.kr/article/70681</guid>
@@ -1087,14 +1095,6 @@
             <pubDate>Wed, 14 Sep 2022 15:19:14 GMT</pubDate>
             <content:encoded><![CDATA[단순한 향을 넘어 흥미로운 이야기로 가득한 뉴 향수 브랜드 무드보드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/ac7e8ec9-beca-493d-89a1-8e696a3479c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월의 뷰티 신상 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/70515</link>
-            <guid>https://www.elle.co.kr/article/70515</guid>
-            <pubDate>Wed, 14 Sep 2022 15:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[가을의 문턱에 선 피부에 넘치지도, 부족하지도 않게 꼭 필요한 제품만 선별한 9월의 뷰티 신상...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/d9e7b03e-f51f-40d3-a0e6-5dc96c6951e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한혜진, 유튜버 HOT데뷔 (엘르 코리아 ─ 스타)]]></title>
