@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 21:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 22:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1495,6 +1495,13 @@
             <content:encoded><![CDATA[덥고 습한 장마철에는 실내 데이트가 제격! 지드래곤부터 RM, 샤이니 키까지 스타가 찾은 전시...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[백종원이 찍은 밀양돼지국밥과 할머니 생각 나는 수제비가 있는 밀양 맛집 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/70712</link>
+            <guid>https://www.elle.co.kr/article/70712</guid>
+            <pubDate>Mon, 19 Sep 2022 22:21:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/2ea5bf61-7abb-40d1-9daa-2c6268b436ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[밥보다 빵이 더 당기는 오늘, 송리단길-성수-연남에 생긴 베이글·샌드위치 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/70679</link>
             <guid>https://www.elle.co.kr/article/70679</guid>
@@ -1545,13 +1552,6 @@
             <pubDate>Thu, 08 Sep 2022 16:21:47 GMT</pubDate>
             <content:encoded><![CDATA[소피텔 앰배서더 서울의 갈라디너를 책임 질 3인의 여성 셰프]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/7a77b7bc-a7c1-460d-8727-bf254195d7ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 최신판! 데이트도 나들이도 다 되는 가을의 성수동 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/70523</link>
-            <guid>https://www.elle.co.kr/article/70523</guid>
-            <pubDate>Fri, 09 Sep 2022 22:19:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/5d763b18-82f0-4de7-8245-b9cf71155dee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 일에도 적절한 보상이 필요해! 챌린지 앱처럼 일하기 (엘르 코리아 ─ 소사이어티)]]></title>
