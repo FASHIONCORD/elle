@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 01:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 07:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 돌아온 '조츠(JORTS)'.]]></title>
+            <link>https://www.elle.co.kr/article/70762</link>
+            <guid>https://www.elle.co.kr/article/70762</guid>
+            <pubDate>Mon, 19 Sep 2022 07:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[쿨하게 내려입는 '조츠'의 매력 속으로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/c22bdf3f-1311-432e-89c4-0036f533ac10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 비엔날레에서 조우한 두 세계, 정금형&이미래]]></title>
             <link>https://www.elle.co.kr/article/70763</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 15 Sep 2022 08:25:19 GMT</pubDate>
             <content:encoded><![CDATA[흰 양말과 함께라면 더욱 완벽한 클래식 로퍼! 단정한 룩부터 관능적이고 터프한 룩까지 다양한...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/49aea2b6-20a8-4f80-b367-b1c9f9b98a40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자유, 개성, 스타일리시함의 키워드]]></title>
-            <link>https://www.elle.co.kr/article/70587</link>
-            <guid>https://www.elle.co.kr/article/70587</guid>
-            <pubDate>Tue, 13 Sep 2022 19:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 화인 주얼리 코코 크러쉬 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/baf90079-2c00-43aa-8c46-ed13c157ad07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
