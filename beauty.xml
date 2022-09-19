@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 10:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥주에 진심인 에디터가 직접 먹어본 ‘논알코올 맥주’ 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/70681</link>
+            <guid>https://www.elle.co.kr/article/70681</guid>
+            <pubDate>Mon, 19 Sep 2022 10:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[숙취와 칼로리 부담은 덜고, 감성은 제대로 즐길 수 있는 논알코올 맥주를 직접 먹어봤어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/54186a8a-1a29-494a-8205-74b46728dc46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밝고 깨끗하게 스마일~ 취향 따라 치약 추천 6]]></title>
             <link>https://www.elle.co.kr/article/70667</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 14 Sep 2022 15:19:14 GMT</pubDate>
             <content:encoded><![CDATA[가을의 문턱에 선 피부에 넘치지도, 부족하지도 않게 꼭 필요한 제품만 선별한 9월의 뷰티 신상...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/d9e7b03e-f51f-40d3-a0e6-5dc96c6951e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나에게 필요한 세럼 하나는?_선배's 어드바이스 #133]]></title>
-            <link>https://www.elle.co.kr/article/70490</link>
-            <guid>https://www.elle.co.kr/article/70490</guid>
-            <pubDate>Wed, 14 Sep 2022 15:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[세럼 딱 하나만 고른다면? 기능별 세럼부터 신상품까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/96a84eff-133e-4905-bb79-b68336e3692e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

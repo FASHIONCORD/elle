@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 10:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[니고가 찬찬히 수집한 빈티지 제품들이 궁금하다면?]]></title>
+            <link>https://www.elle.co.kr/article/70676</link>
+            <guid>https://www.elle.co.kr/article/70676</guid>
+            <pubDate>Mon, 19 Sep 2022 10:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[휴먼 메이드부터 겐조까지, 남다른 행보의 니고가 여는 전시회.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/24cef039-377a-44b3-838c-4ee05ddbe9f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연휴에 뭐해? '정주행 각' OTT 시리즈 추천 4]]></title>
             <link>https://www.elle.co.kr/article/70630</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/70538</guid>
             <pubDate>Wed, 14 Sep 2022 15:20:36 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/f511a13f-f202-4c8b-a83a-7e67d0367e5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['작은 아씨들' 김고은, 남지현, 박지후가 서로의 얼굴을 그려봤다]]></title>
-            <link>https://www.elle.co.kr/article/70504</link>
-            <guid>https://www.elle.co.kr/article/70504</guid>
-            <pubDate>Wed, 14 Sep 2022 15:20:36 GMT</pubDate>
-            <content:encoded><![CDATA['찐' 자매란 이런 것?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a28f0ca1-bb90-4420-bad1-ab97c173df3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
