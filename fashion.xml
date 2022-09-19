@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 16:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 20:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깔맞춤의 정석, 가을 데일리룩은 청청 패션과 함께]]></title>
+            <link>https://www.elle.co.kr/article/70765</link>
+            <guid>https://www.elle.co.kr/article/70765</guid>
+            <pubDate>Mon, 19 Sep 2022 20:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[김나영부터 크리스탈, 기은세 까지 청청 패션으로 연출한 스타의 가을 데일리 룩을 참고하세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/1a6d854b-e210-416c-9647-179d173fedd2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 돌아온 '조츠(JORTS)'.]]></title>
             <link>https://www.elle.co.kr/article/70762</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 15 Sep 2022 16:24:39 GMT</pubDate>
             <content:encoded><![CDATA[90년대를 풍미했던 깻잎 머리의 유행 예감.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/a7cb7e57-1f8e-4703-a33c-75f7f5d2132b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식은 영원하다! 흰 양말과 로퍼 스타일링 5]]></title>
-            <link>https://www.elle.co.kr/article/70703</link>
-            <guid>https://www.elle.co.kr/article/70703</guid>
-            <pubDate>Thu, 15 Sep 2022 08:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[흰 양말과 함께라면 더욱 완벽한 클래식 로퍼! 단정한 룩부터 관능적이고 터프한 룩까지 다양한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/49aea2b6-20a8-4f80-b367-b1c9f9b98a40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
