@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 14:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 15:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMzBfMjI4/MDAxNjM4MjYwMjMxNDg4.eKtBwXQKsuathEss8_KcJY2RcuZ-YGxO6zkK3RT44aMg.fbb15UpaXZb--hGsgShuwpw_DSbf9a7VVGnu_Uw2Pjsg.JPEG/Ih-B1hQk3f_dTJtKtDQ0XM7A4h_0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마돈나의 후예들 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/70795</link>
+            <guid>https://www.elle.co.kr/article/70795</guid>
+            <pubDate>Tue, 20 Sep 2022 15:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[뾰족하게 솟은 콘브라의 기습]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/2f95c2a1-e782-4a52-bc77-5c626d40870d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신인과 베테랑의 만남 feat.돌체앤가바나 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/70250</link>
             <guid>https://www.elle.co.kr/article/70250</guid>
@@ -1023,14 +1031,6 @@
             <pubDate>Fri, 16 Sep 2022 19:15:55 GMT</pubDate>
             <content:encoded><![CDATA[엄빠가 보면 등짝 스매싱 각! 빈티지한 무드 가득한 디스트로이드 진으로 스타일리시한 사복 패...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/4c687702-a28a-4f43-8a5b-502a325e1f00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니 신드롬 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/70709</link>
-            <guid>https://www.elle.co.kr/article/70709</guid>
-            <pubDate>Fri, 16 Sep 2022 19:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[가을에도 미니스커트는 여전히 옳다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/756c45a8-e7ba-465a-87d9-7cbfbf06620d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[깻잎 머리? 돌아온 90년대 바이브! (엘르 코리아 ─ 뷰티)]]></title>
