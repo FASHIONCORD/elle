@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 23:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 04:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넘치는 에너지! 엘르 10월호 커버 스타 민규와 나연]]></title>
+            <link>https://www.elle.co.kr/article/70791</link>
+            <guid>https://www.elle.co.kr/article/70791</guid>
+            <pubDate>Tue, 20 Sep 2022 04:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[K팝의&nbsp;현재이자&nbsp;미래.&nbsp;세븐틴&nbsp;민규와&nbsp;트와이스&nbsp;나연,&nbsp;루이&nbsp;비통과&nbsp;만나다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/0ffe674f-29d9-4b6f-ad0e-593207857500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이렇게 훈훈한 여사친X남사친 조합이 있다고? 윤아 X 임시완 (feat. 망붕주의)]]></title>
+            <link>https://www.elle.co.kr/article/70793</link>
+            <guid>https://www.elle.co.kr/article/70793</guid>
+            <pubDate>Tue, 20 Sep 2022 04:17:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/18/0b2354fa-0aed-4286-87e4-6d414203e9fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한혜진, 유튜버 HOT데뷔]]></title>
             <link>https://www.elle.co.kr/article/70789</link>
@@ -51,21 +66,6 @@
             <guid>https://www.elle.co.kr/article/70742</guid>
             <pubDate>Sun, 18 Sep 2022 01:49:28 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/71f2af2c-a3bc-4215-b805-d170d5d54c3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인어공주' 실사판 티저가 공개됐다. 왜 3년 동안 같은 논란이 이어지는 걸까?]]></title>
-            <link>https://www.elle.co.kr/article/70723</link>
-            <guid>https://www.elle.co.kr/article/70723</guid>
-            <pubDate>Fri, 16 Sep 2022 10:20:34 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/ca1e805d-1e31-473f-9d38-82a6df946c0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결국 에미상까지 타 버린 이정재, 역사상 최고의 SF 프랜차이즈 주인공 됐다]]></title>
-            <link>https://www.elle.co.kr/article/70694</link>
-            <guid>https://www.elle.co.kr/article/70694</guid>
-            <pubDate>Fri, 16 Sep 2022 10:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[끝나지 않는 전성기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/a3614086-b2c9-4a5a-9374-99fb96e1556a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
