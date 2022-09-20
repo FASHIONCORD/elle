@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 07:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 09:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMzBfMjI4/MDAxNjM4MjYwMjMxNDg4.eKtBwXQKsuathEss8_KcJY2RcuZ-YGxO6zkK3RT44aMg.fbb15UpaXZb--hGsgShuwpw_DSbf9a7VVGnu_Uw2Pjsg.JPEG/Ih-B1hQk3f_dTJtKtDQ0XM7A4h_0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신인과 베테랑의 만남 feat.돌체앤가바나 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/70250</link>
+            <guid>https://www.elle.co.kr/article/70250</guid>
+            <pubDate>Tue, 20 Sep 2022 09:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[돌체앤가바나가 선택한 신인 디자이너는 바로 '매티 보반'이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/18/6585b402-08ab-437a-9a82-36272351fd97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[울트라 럭셔리를 향해 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/70249</link>
+            <guid>https://www.elle.co.kr/article/70249</guid>
+            <pubDate>Tue, 20 Sep 2022 09:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[극소수를 위한 ‘울트라 럭셔리’, 하이주얼리의 영역에 패션계가 도전장을 내밀었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/17/4f9cca72-3f1d-4eb1-9e41-0e09a89371de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[깔맞춤의 정석, 가을 데일리룩은 청청 패션과 함께 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/70765</link>
             <guid>https://www.elle.co.kr/article/70765</guid>
@@ -1015,22 +1031,6 @@
             <pubDate>Fri, 16 Sep 2022 19:15:55 GMT</pubDate>
             <content:encoded><![CDATA[가을에도 미니스커트는 여전히 옳다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/756c45a8-e7ba-465a-87d9-7cbfbf06620d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반클리프 아펠의 새로운 우주 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/70710</link>
-            <guid>https://www.elle.co.kr/article/70710</guid>
-            <pubDate>Thu, 15 Sep 2022 16:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[추상적이고 기하학적인 '뻬를리' 컬렉션으로 그들만의 새로운 우주를 만들어가고 있는 반클리프 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/9900ccd2-f5da-4ff7-bb1b-3923a64cfa08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깻잎 머리? 돌아온 90년대 바이브! (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/70704</link>
-            <guid>https://www.elle.co.kr/article/70704</guid>
-            <pubDate>Thu, 15 Sep 2022 16:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[90년대를 풍미했던 깻잎 머리의 유행 예감.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/a7cb7e57-1f8e-4703-a33c-75f7f5d2132b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SNS발 핫 이슈, 스킨 사이클링?_선배's 어드바이스 #134 (엘르 코리아 ─ 뷰티)]]></title>
