@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 09:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 14:00:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1033,6 +1033,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/756c45a8-e7ba-465a-87d9-7cbfbf06620d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[깻잎 머리? 돌아온 90년대 바이브! (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/70704</link>
+            <guid>https://www.elle.co.kr/article/70704</guid>
+            <pubDate>Tue, 20 Sep 2022 13:53:17 GMT</pubDate>
+            <content:encoded><![CDATA[90년대를 풍미했던 깻잎 머리의 유행 예감.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/a7cb7e57-1f8e-4703-a33c-75f7f5d2132b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SNS발 핫 이슈, 스킨 사이클링?_선배's 어드바이스 #134 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/70691</link>
             <guid>https://www.elle.co.kr/article/70691</guid>
@@ -1087,14 +1095,6 @@
             <pubDate>Sun, 11 Sep 2022 11:15:24 GMT</pubDate>
             <content:encoded><![CDATA[멤버 모두가 운동을 좋아해 붙은 애칭 '근세라핌'.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/84f6d70f-2aa1-4519-8119-3fd1a234b47f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022ver. 뉴 향수 브랜드 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/70547</link>
-            <guid>https://www.elle.co.kr/article/70547</guid>
-            <pubDate>Wed, 14 Sep 2022 15:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[단순한 향을 넘어 흥미로운 이야기로 가득한 뉴 향수 브랜드 무드보드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/ac7e8ec9-beca-493d-89a1-8e696a3479c8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['작은 아씨들' 이전에 '치인트' 홍설과 '도깨비' 지은탁이 있었다! 김고은 인생캐 4 #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
