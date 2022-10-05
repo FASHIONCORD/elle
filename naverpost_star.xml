@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ STAR</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 01:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 03:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹방에 진심이었던 이장우가 일주일 동안 물만 먹었다고?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34576768&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34576768&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 05 Oct 2022 03:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDVfMjc5/MDAxNjY0OTM2NzAzMTUz.SUpW_9kx_J0Te6usWMVzBdXuvhXple0nYSeuhn6dRAgg.CjaNmsKWX8l-3w5mP54rf7jnjwZHurEzhYaB4KlYqBwg.JPEG/ISlSrNajH_0vQvsEJZsrN2vdVFiI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요리, 수영에 미술수업까지! 신봉선의 갓생 다이어트법]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34543217&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:30:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTBfMTM2/MDAxNjUyMTgxMTExODQ2.a1Rcx8VxWHNG0pZp3paEv-3hE-o9GbUQgUmD9nvjXZEg.n7hdr9OTLz32AHFVidn4Fko_KaCAHlRFpnJe5BiowlIg.JPEG/I1wCHJRR28zQEjSMxRka4ALRJWSw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식단부터 운동루틴까지! 산다라박의 ‘반전 몸매’ 꿀팁]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33729695&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33729695&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 02:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDJfMTA4/MDAxNjUxNDg0MTEwNzMz.0oIn1s36HcgNBVElry64tAk7jqV45qBLCQyjd_VBPnsg.mETODuqujU3zzKUeAdqsP4QTlo3oLESH3aa-RPWEGwQg.PNG/IcIhck3QbcJlMNK-s-0_MR3A96lA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
