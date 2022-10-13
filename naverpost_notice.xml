@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ NOTICE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 01:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 04:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘르런2022 이벤트 당첨자 발표]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34617580&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34617580&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Thu, 13 Oct 2022 04:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTNfNTAg/MDAxNjY1NjI4NjYwODAx.qQvZFw64eL63Cjp-YYjLrvwxJUIV1OzOLkGIp0LPGuIg.bDkqK4YpIUjrsNqh-63j8OQ10q5ZkQLP3FXF290955wg.JPEG/Iz5cgppvDYTqAb_c2p9w-9XT1dVQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘르 30주년 리커넥트 콘서트 셋리스트 공개!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34613041&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 14 Jul 2022 03:49:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTNfMTUw/MDAxNjU3Njg5OTkzMDEw.HBfR8cvh8Enem5LcujCBrPqYRlbHrVMLLjM_krLvf8cg.PVbdkActMRUcGxBT-XxCRXB9lP7njCnBCIrihU16c6Ag.JPEG/IztVIdeCxK715MpEiF6Ct5JaOVDs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르 스테이지 X 시티포레스티벌2022] 2차 티켓 오픈 공지]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33710175&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33710175&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 02:30:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjlfMTgz/MDAxNjUxMTk1OTU1MDg2.HJcEHIJBTbibx7CjPAUiu63SBNSaSkbWjFA6WFIX-Asg.Rq-kxAUJkZmiFcJRkoBMNBfZ2MzpurNwVvPUb-cN0wog.JPEG/I0cgN_VtvtpJdtpwnqb8Upj8MfOo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
