@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 19:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 21:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1221,6 +1221,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/26/1abf1e72-0d59-4e14-ac8d-9304c8cc4236.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[버둥이 너에게만 전하는 응원 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
+            <link>https://www.elle.co.kr/article/71387</link>
+            <guid>https://www.elle.co.kr/article/71387</guid>
+            <pubDate>Sat, 15 Oct 2022 21:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[‘힘내’라는 말 대신 꾹 눌러 담은 버둥의 다섯 곡.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/1765884d-77b6-4d0c-844b-7f0a91f6d1f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔직함을 노래하는 정진형(JEY) #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
+            <link>https://www.elle.co.kr/article/70943</link>
+            <guid>https://www.elle.co.kr/article/70943</guid>
+            <pubDate>Sat, 15 Oct 2022 21:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[투명하게 그리고 덤덤하게. EP <algorithm>으로 출발하는 JEY의 새로운 도약.                                    </algorithm>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/7bd91222-297f-4b47-81fb-c18c79b9f715.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[컴백과 동시에 2억 뷰X200만 장 기록! K-걸그룹 최초로 VMAs 간 블랙핑크 사진 모음.zip (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/70188</link>
             <guid>https://www.elle.co.kr/article/70188</guid>
@@ -1242,7 +1258,6 @@
             <guid>https://www.elle.co.kr/article/68875</guid>
             <pubDate>Tue, 16 Aug 2022 10:19:22 GMT</pubDate>
             <content:encoded><![CDATA[음악을 소비하지 않고 소유하는 가장 좋은 방법. 손으로 직접 고르는 재미, 레코드숍 투어를 떠...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/bfc0e451-5139-489f-ba7d-4b4151a9460f.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[명랑함과 우울함 그 사이의 최정윤 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1250,7 +1265,6 @@
             <guid>https://www.elle.co.kr/article/68813</guid>
             <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
             <content:encoded><![CDATA[&lt;착한 사람들이 먼저 가는 우주&gt;로 던지는 희망.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/15/d8d08fcf-bb4a-48e4-875f-ac168a023fec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1299,20 +1313,6 @@
             <guid>https://www.elle.co.kr/article/66709</guid>
             <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
             <content:encoded><![CDATA[올해를 뜨겁게 달굴 내한 공연과 페스티벌.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로제 거울 셀카 찍는 법 최초 공개?! 로제는 스마트 폰에 블랙핑크 멤버들을 뭐라고 저장했을까 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
-            <link>https://www.elle.co.kr/article/66561</link>
-            <guid>https://www.elle.co.kr/article/66561</guid>
-            <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[엘르 6월호 커버 스타 로제의 순도 100% 사랑스러운 모먼트.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고막 구원자, 구원찬 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
-            <link>https://www.elle.co.kr/article/66526</link>
-            <guid>https://www.elle.co.kr/article/66526</guid>
-            <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[행성에서 돌아와 주변으로 눈을 돌린 [Object] 시리즈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[죽은 울버린이 돌아온다?! 휴 잭맨이 직접 알린 <데드풀3> 합류 확정 소식.avi (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
