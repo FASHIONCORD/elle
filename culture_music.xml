@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Oct 2022 16:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 17:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["몇 번이나 더 보름달을 볼 수 있을까": 암 투병 중인 사카모토 류이치가 2년 만에 공연을 하는 이유]]></title>
+            <link>https://www.elle.co.kr/article/71882</link>
+            <guid>https://www.elle.co.kr/article/71882</guid>
+            <pubDate>Sat, 29 Oct 2022 17:22:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/26/3b1b5504-cf23-41df-81f7-901e234bac9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낭만의 락, 이루리 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/71733</link>
+            <guid>https://www.elle.co.kr/article/71733</guid>
+            <pubDate>Sat, 29 Oct 2022 17:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[베이시스트 이루리는 새로움으로 무장한 사랑을 연주한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/21/5667a3df-8cc2-4616-b576-d0974c68a0a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버둥이 너에게만 전하는 응원 #2주의뮤지션]]></title>
             <link>https://www.elle.co.kr/article/71387</link>
@@ -29,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/70188</guid>
             <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
             <content:encoded><![CDATA[무려 1년10개월 만의 컴백.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/ab97832b-ab56-4de0-a421-1d3a5b974a86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신해경과 사뮈의 극적인 조합, 마콤마 #2주의뮤지션]]></title>
@@ -37,7 +51,6 @@
             <guid>https://www.elle.co.kr/article/70138</guid>
             <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
             <content:encoded><![CDATA[신인 밴드 마콤마를 ‘너는 아니?’. 꿈속의 목소리 신해경과 아침을 깨우는 목소리 사뮈가 만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/e819c648-84c6-4b1a-a04e-1b5c9dc888db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
@@ -86,20 +99,6 @@
             <guid>https://www.elle.co.kr/article/67220</guid>
             <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
             <content:encoded><![CDATA[매너리즘에 빠진 모두가 공감할 수밖에 없는 이유.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션]]></title>
-            <link>https://www.elle.co.kr/article/66924</link>
-            <guid>https://www.elle.co.kr/article/66924</guid>
-            <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[마음에 콕 박히는 장들레의 일상적인 가사]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 내한 공연 최신 업데이트.zip]]></title>
-            <link>https://www.elle.co.kr/article/66709</link>
-            <guid>https://www.elle.co.kr/article/66709</guid>
-            <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[올해를 뜨겁게 달굴 내한 공연과 페스티벌.]]></content:encoded>
         </item>
     </channel>
 </rss>
