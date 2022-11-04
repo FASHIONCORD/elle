@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 11:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 13:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개봉 앞둔 '블랙팬서 : 와칸다 포에버', 새로운 수호자는 누가 될까?]]></title>
+            <link>https://www.elle.co.kr/article/71955</link>
+            <guid>https://www.elle.co.kr/article/71955</guid>
+            <pubDate>Fri, 04 Nov 2022 13:42:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/27/b2dda1fd-be0e-441c-8f3d-5c230323b1f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빌런은 이미 정해졌는데요?! 쿠니무라 준이 '범죄도시3'에서 맡는 역할.txt]]></title>
+            <link>https://www.elle.co.kr/article/71951</link>
+            <guid>https://www.elle.co.kr/article/71951</guid>
+            <pubDate>Fri, 04 Nov 2022 13:42:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/27/b992a3ed-1a2e-41a4-8344-604b971a3000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자유롭기에 신선한, 젠Z가 만든 ‘카우기’가 꾸는 꿈]]></title>
             <link>https://www.elle.co.kr/article/71923</link>
@@ -52,21 +66,6 @@
             <pubDate>Wed, 02 Nov 2022 19:18:15 GMT</pubDate>
             <content:encoded><![CDATA[베이시스트 이루리는 새로움으로 무장한 사랑을 연주한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/21/5667a3df-8cc2-4616-b576-d0974c68a0a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['환승연애2'의 '규친자' 해은이 달라졌어요?! 해은의 각성 타임라인]]></title>
-            <link>https://www.elle.co.kr/article/71719</link>
-            <guid>https://www.elle.co.kr/article/71719</guid>
-            <pubDate>Wed, 02 Nov 2022 19:18:15 GMT</pubDate>
-            <content:encoded><![CDATA['환승연애2' 대박의 일등 공신.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/20/247b66d1-e191-4544-bfe0-aef779b4b487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이건 찐이다...! '환승연애2' 정현규가 연애 프로 역사상 최고 철벽남에 등극한 순간들.avi]]></title>
-            <link>https://www.elle.co.kr/article/71694</link>
-            <guid>https://www.elle.co.kr/article/71694</guid>
-            <pubDate>Wed, 02 Nov 2022 19:18:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/19/15cfe5dd-9220-45b2-ae32-79c1877b66a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
