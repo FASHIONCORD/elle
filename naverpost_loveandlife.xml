@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 05:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 07:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 06 Nov 2022 23:15:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDVfMTc4/MDAxNjY3NjM5OTA5MjQz.6YKDRlmEh52nStGUCy6AzPV3CxrB1iVH6wfNeodPG1wg.63C52mHpVS2nLbXj9S8yMNWarJ4W2mOyMavIoCb3arUg.JPEG/IT16BPjLDWSXZu5XUvIYkCTPEZcg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[완벽한 한 상! 먹잘알 남주픽 맛집 3]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34709044&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34709044&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 07 Nov 2022 07:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjlfMTYx/MDAxNjY3MDQ0MDU2MTEx.6QdG0_D1OI2YH1xHcl--6bVSLDPPvZHWpgEkdB4k714g.4AGtIPK2ASi3-ObJrVdxjzgic69hPVwcWtdBq8s4WgMg.JPEG/It7fScFWnJESGFi0YB2ukrCvJRk8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연천에서만 만나볼 수 있는 이색 메뉴가 가득한 카페 3]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 04 Oct 2022 03:42:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDNfMjgz/MDAxNjY0ODAxMTY1Nzk3.XLDJ7fYDoNunoYldWUoCcC0S2GvIde7RChDhUpM26Bog.OqgtImHANEPKGEKHmcWorLNok6eHWxcugbmwvlws0G4g.JPEG/IbJJI5TrYvHg-XbngMfzMJsyEqMk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밑반찬까지 별미라는 괴산 현지인 맛집 3]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34568084&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34568084&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 03 Oct 2022 18:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDNfMjE2/MDAxNjY0Nzk5Njg4MTUy._8mUJOB153LN7PLbvVF_bUiwhJ-S9b4uLMLI6FjM3ogg.1m3LruhHFDgmuY0QxCEySwPOaq6hbSxhdWb5b2Dq1dUg.JPEG/IMMDtDG0RHQltzgvBlMuW6OpxIRY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
