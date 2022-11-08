@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Nov 2022 05:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 06:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/21/5667a3df-8cc2-4616-b576-d0974c68a0a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김뜻돌의 터질 것만 같은 음악 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
+            <link>https://www.elle.co.kr/article/72102</link>
+            <guid>https://www.elle.co.kr/article/72102</guid>
+            <pubDate>Tue, 08 Nov 2022 06:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[점점 증폭되는 김뜻돌의 용기와 강인함이 담긴 세 장의 싱글, 동시에 발매된 이유는.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/876ba118-9256-486c-9b71-a4ba9bc31127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["몇 번이나 더 보름달을 볼 수 있을까": 암 투병 중인 사카모토 류이치가 2년 만에 공연을 하는 이유 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/71882</link>
             <guid>https://www.elle.co.kr/article/71882</guid>
@@ -1244,7 +1252,6 @@
             <guid>https://www.elle.co.kr/article/70943</guid>
             <pubDate>Sat, 15 Oct 2022 21:23:03 GMT</pubDate>
             <content:encoded><![CDATA[투명하게 그리고 덤덤하게. EP <algorithm>으로 출발하는 JEY의 새로운 도약.                                    </algorithm>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/7bd91222-297f-4b47-81fb-c18c79b9f715.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴백과 동시에 2억 뷰X200만 장 기록! K-걸그룹 최초로 VMAs 간 블랙핑크 사진 모음.zip (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1300,13 +1307,6 @@
             <guid>https://www.elle.co.kr/article/67266</guid>
             <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
             <content:encoded><![CDATA[매일이 지겹다면 ‘푸른 바다 위에서 칵테일 한 잔 줘’]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS가 눈물과 함께 그룹 활동 잠정 중단을 선언한 이유와 향후 행보 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
-            <link>https://www.elle.co.kr/article/67220</link>
-            <guid>https://www.elle.co.kr/article/67220</guid>
-            <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[매너리즘에 빠진 모두가 공감할 수밖에 없는 이유.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['환승연애2' 마지막회, 최종_진짜 최종_최종의 최종 커플은?! (feat. 현커 공개) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
