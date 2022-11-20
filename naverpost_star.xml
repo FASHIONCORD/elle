@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ STAR</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 22:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 23:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매일 리즈 갱신 르세라핌 김채원, 카즈하 화보 공개!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34814016&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34814016&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Sun, 20 Nov 2022 23:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMThfMjUg/MDAxNjY4NzY4Nzc2MjY3.6joNiipEX52aY_FfP5OYO28JOjU5v2ooCLZXhNnoVSkg.ghSzPt305KvHVsmsbEnaL8I3DYgAScTcJK2xKeeycQYg.JPEG/IGZFsTHN-VN-10Xepsgw0o1IFQ48.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언제 어디서나 체력+체형 관리 가능! 정은지 추천 운동법 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34752302&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 08 Oct 2022 13:39:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTJfMTcz/MDAxNjU3NTU5ODI3NjMw.ntrJhYhBuXFw6gqjoQzQptHpjLZjdYjkyVOT8NQW8uIg.q5qLPeS0pXNwnHDCw7ZKTT0kAJcTIaXrj9c3sPiOZowg.JPEG/IuNk-g7FRyy_xeUgYBbTScRxSjiQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보니까 알겠네! 스타들이 복싱에 빠진 이유]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34081156&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34081156&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 08 Oct 2022 13:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDZfMTA2/MDAxNjU3MDQ1Mjc3OTI4.7fuiM2ULzhWzwEj1M7L5L6ul4dHfjpsvgCyZybbQ6L4g.yn49-RTTxPXr2tTP8yp-qCLdVJNVHWZXV4Wm_vZ9GkQg.JPEG/Ioo3FpU2k4Kf8REvnxTWe_aJi6Go.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
