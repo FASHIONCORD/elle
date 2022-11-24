@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 23:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 05:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽들이 선택한 미니백 브랜드&코디 디테일!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34840665&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34840665&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Thu, 24 Nov 2022 05:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjRfMTg1/MDAxNjY5MjQ5MzA3ODI2.TIsEwnBT-Pwjz63jlsk6dQ_zr9YJbRVf685LF-dsvNQg.GqIygtzxWsDSGsgbEn2EQx5X4SOSikCnSHiLyF7vZHcg.PNG/IVU0cKhYsfqzfz1W417wiOhkqgww.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추울수록 화사하게! 코디하기 쉬운 알록달록 니트 쇼핑리스트]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34831463&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Oct 2022 01:41:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMThfNTMg/MDAxNjY2MTAwMDQ4NzE1.zyZwNpbvffKSITDxTQDm6vT3LJCOydz56cCiSIxrx0gg.F4_5kl84-Lh0rvd0ZsIiHQlazPMjGq9AH4xocGJGZEkg.JPEG/IG4cr3Yxq-TpYXWn1l0xANefMuZQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 피셜 코디하기 쉬운 인생 운동화 모음!(feat. 스타일링 팁)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34639650&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34639650&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 17 Oct 2022 23:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTdfMjI4/MDAxNjY1OTk5MTI4NDkz.St4fL3_awwmedHFgUepH3hnL7q9kk5YAhO41YQXn5Usg.UZznqIftzt49Bb0MoCYOjZA7c22VU7WWvxC9_cdqT-Eg.JPEG/I3hKRJ1PF9ULy0osp8K3Ds4YTRqg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
