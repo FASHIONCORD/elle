@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 14:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 02:59:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 28 Nov 2022 23:15:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjZfMjIg/MDAxNjY5NDU4Mzc1NTY5.Eu_bPB0bWZ9xV595dfKaQe6w65oX0vLNU7bQRT3wm7Qg.BkNe-5YqtOqcbBvy3KqSslvIvGVIXE55EStqI4-ltVQg.JPEG/ItRshKw_77VwjZV4T0KusIPpdzpE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉화에서 들러야 할 현지인 맛집 3]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34853283&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34853283&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 30 Nov 2022 02:49:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjZfMjA2/MDAxNjY5NDQ3NjM3MzI2.w66eOTnhofGWtLTlOb7N4JofbA7Oiygo99MuteMNpWAg.lJUzhmpuiKxGnKNicvOgobZ9OGGuKCCqC8wWkN_ubPUg.JPEG/IpODjVLooF9bTo8Q_PgIz_DbQQMg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컨셉&시그니처 확실한 ‘요즘’ 제주도 카페 3]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Oct 2022 23:20:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjZfMTAw/MDAxNjY2NzI4Mjg1MDQ4.h1CI6mRlBxJFGAwFkDgtcLdF2oxv3KtI93MxJsI7WKYg.iENmGdzk5MUXf_hseuSunMXir2d73DJxUlkVUpKaKQQg.JPEG/IIMBsCufw16ACsA0mR8yVeIKgImo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한옥 숙소vs 강아지와 즐기는 수영장 vs 프라이빗 스파! 연천 숙소 3]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34684478&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34684478&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 25 Oct 2022 11:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjVfMTE4/MDAxNjY2NjkwMDI0NDQ2.arnW4M2we45DQP8gwnoZogYu0PdceXTTlLFk504IZr4g.axM86Jx2v01oe1oXD5C-eJfX0b7CkgLYFX3xjWdnMLsg.JPEG/II2P58tgnmgImAlHsPk0AhAdqS30.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
