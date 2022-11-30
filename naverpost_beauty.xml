@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 04:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 07:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리스마스 향을 입는 법]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34872601&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34872601&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 30 Nov 2022 07:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjhfMjEy/MDAxNjY5NjEwNjY4ODQy.-U2GkM-ysO02c9EphB9lzRWGqQvL3m92hJVT-2Co1kcg.fvFrOI1alDp5M3_xANbki3zuWXwRuaK5pO53zGEZVwAg.JPEG/IcALNiwWtVjdSpndR7ACU8gIwMz0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꼬달리라는 자신감의 원천]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34867316&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:30:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjBfODIg/MDAxNjUyOTcyNDI2NTQ4.krWPWiM8wNo_edFfFkP-vRFXlHtw3ogrU2qMHrlmMf0g.p4jPxBWxo5xuQzGcfCT6tqcQ5hLSHHZ_Q8vlaGGfbv4g.JPEG/IHBCocR98sEddN75hvS49UcIF7dY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향으로 전하는 마음]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33793507&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33793507&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 02:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTlfMTgx/MDAxNjUyOTQzMjI5Mjkx.fOqWBfpJ1kIYTi1fa8BV-Ml7B-07wZ3x_58N9KpYCmIg.YqQHaLVXi36fllVLLpUC9fJq1bWyEzMFzqjgI4SLrs4g.JPEG/IFQG_XMyqfiwiAEb8oXfxnXUgxgA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
