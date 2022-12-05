@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 22:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 23:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 05 Dec 2022 01:01:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDVfOTYg/MDAxNjcwMjAxNjgxMTc1.nUXFItYNaj0Sx5jQSeGTu3bD7jSWchCCEOdQ5o3S_Igg.zlrmySxdvFDhcgbGM20d4_GT9XTJouSw2b5rCGr7v5og.JPEG/Izot4Snb13eE-ghfLXUoNqWwJC18.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 가장 세련되게 입는 법은 백 투 더 2000s?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34890563&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34890563&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 05 Dec 2022 23:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDNfMjYg/MDAxNjcwMDYxNTQ2MjIy.o4NPbFSmH6LCWEdXNLhXcmJ8enPvP5y47QBo9MtDRCUg.VNP_XQvHUPkmoXZbwA95a1PVhHTn3OpNJbjs2-n-jS0g.JPEG/IppqK58tojzymgcrriYmno_82W84.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손목 위 팝아트의 향연]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 18 Nov 2022 09:17:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMThfMTM2/MDAxNjY4NzU5NTExNzk2.BdNex9DW365Xeq7Ss0c1kWjebZCCDvnsxp4Po135qrwg.zg4DMFCaWq8Db2S_v2rDRCxO2qqhUM_rUazcFv00EfYg.JPEG/IRPFIBU8jy_-ho-u07SAYWONFdLE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들의 휘뚜루마뚜루템 바시티재킷 코디&구매좌표]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34802306&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34802306&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Wed, 16 Nov 2022 23:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTdfMjk5/MDAxNjY4NjIwMjgyMDc1.j0NabhHiddxdgGX8z7FkyG1DPLTKxJFSMRsjqRb5MPog.Z5Vev8sMBjxbAsjk7EarV2PfHtjieK3rawTMnssa0J0g.JPEG/IpkW21rswDs0zgZSNSgV3o5FgREU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
