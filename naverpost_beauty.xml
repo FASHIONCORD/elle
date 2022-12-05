@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 06:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 07:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤기나는 머릿결을 위한 홀리데이 원 픽]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34897881&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34897881&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 05 Dec 2022 07:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDVfNiAg/MDAxNjcwMjIzODI3ODky.YjlgFts5ORbO2xAu5No3uOmp78iX3J5lfx2eT_ku2oIg.1MwRF7t4A6i9hZM96Yy-WLW-J6IGyYsCl5D-ICB1Qwcg.JPEG/I5vKexDRQSp7irTPf1aVjp0vYN9o.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그를 위한 완벽한 선물, 랩 시리즈]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34897313&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 30 May 2022 01:15:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzBfMzMg/MDAxNjUzODcwNTU0MDMy.Dk8VEvOZpaGSkVSaTUFAxhLAoysYRBpIkw32jYjo9H8g.1AzQqlcsj0wA4lOVAiverYP13wQfGNnMdtWZJdusNmAg.JPEG/IxsINOuZwZvEDCP6QSkAKnK3c5KQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자외선에 손상된 피부 회복 루틴!#선크림 #저자극쿨링 #화이트닝]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33861664&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33861664&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 28 May 2022 03:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjZfODMg/MDAxNjUzNTMxMjc5OTgx.oDnDmOThvLPTjf8OuanitMrN7bgMFvzPAedZ9fBkKMYg.ThxmjxI-YUEK40yzKlrlogHjvSnIeTT1xRHyONM1__Ug.JPEG/IfVHxHJFU_nG5_G2t3jZFmnM5LHs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
