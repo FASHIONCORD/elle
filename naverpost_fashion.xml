@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 19:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 23:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 07:12:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfNzcg/MDAxNjcwOTA1NTM1ODA5.TxwW6wqkh9s02HjUdn-j0UsK-vq2e1tppp-n2XW0EEEg.xp4_e7QF9MS_nvoltQJ1U33HXUTO0-1Ui4jS6TXAPEsg.JPEG/IGUSZZB_mq7K3pNfdDQRsbxQkiWs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비니 하나로 코디 완성! 셀럽들의 비니 코디 6]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34958777&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34958777&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Thu, 15 Dec 2022 23:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTVfMTYz/MDAxNjcxMDY0MDg1NDA2.WRMnT9UQUL2AtlRA-GS-TMsJ23DfPT19luUZCvfm8jUg.ES14elOdVBtMLq8whqnzGNQMmBWlisALcHLAVnEKYowg.JPEG/I13hY87OiO33lJQ1-isDTuWi7Vfo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커플 워치를 찾는다면?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Dec 2022 23:13:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDNfMjYg/MDAxNjcwMDYxNTQ2MjIy.o4NPbFSmH6LCWEdXNLhXcmJ8enPvP5y47QBo9MtDRCUg.VNP_XQvHUPkmoXZbwA95a1PVhHTn3OpNJbjs2-n-jS0g.JPEG/IppqK58tojzymgcrriYmno_82W84.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손목 위 팝아트의 향연]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34883653&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34883653&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Fri, 02 Dec 2022 03:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDJfMjUz/MDAxNjY5OTQzNjc1MTcy.TZ1kwQahLaa9cqaeZ8yoZlPdvFdzI4aqhG-drmPa92sg.Ot8pqkJX8BClPZlhEvC8WDqjCqbDODLCB0hG8-yZruEg.JPEG/IDd4eAKCg9X5wCYVT4llCxiRfQj4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
