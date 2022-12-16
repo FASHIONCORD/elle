@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 07:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 08:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한파도 무찌를 온기 가득한 목소리의 소수빈 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/73461</link>
+            <guid>https://www.elle.co.kr/article/73461</guid>
+            <pubDate>Fri, 16 Dec 2022 08:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터 소수빈이 더블 미니 싱글 〈Need to talk〉로 반복된 일상에서 벗어나자고 손을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/687e60ff-34aa-4147-acf6-eec5b965000f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 픽스, 네 명의 여성이 락으로 뭉쳤을 때 #2주의뮤지션]]></title>
             <link>https://www.elle.co.kr/article/73042</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/72475</guid>
             <pubDate>Thu, 01 Dec 2022 22:18:41 GMT</pubDate>
             <content:encoded><![CDATA[Z세대에게 통하는 대중 가요 콘셉트 이성애적 사랑보다는 ‘내가’로 시작하는 가사. 사랑노래는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/19/61663341-0625-46a5-af3f-283b78d352a2.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[크러쉬처럼 LP바에서 뮤직 샤워!]]></title>
@@ -93,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/70138</guid>
             <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
             <content:encoded><![CDATA[신인 밴드 마콤마를 ‘너는 아니?’. 꿈속의 목소리 신해경과 아침을 깨우는 목소리 사뮈가 만...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
-            <link>https://www.elle.co.kr/article/68875</link>
-            <guid>https://www.elle.co.kr/article/68875</guid>
-            <pubDate>Wed, 14 Sep 2022 18:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[음악을 소비하지 않고 소유하는 가장 좋은 방법. 손으로 직접 고르는 재미, 레코드숍 투어를 떠...]]></content:encoded>
         </item>
     </channel>
 </rss>

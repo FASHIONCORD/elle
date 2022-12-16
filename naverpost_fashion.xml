@@ -4,11 +4,19 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 07:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 08:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[반짝이는 나날들을 위해]]></title>
+            <title><![CDATA[홀리데이에 더욱 반짝이는 다미아니라는 별]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34969924&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34969924&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 16 Dec 2022 08:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfMTEg/MDAxNjcwOTA4NjU3MjU4.ywulym3r3BCQP_fyH2Cb2guFYK8eC6FztAOzQx2abnQg.m4kg2X5Rr33ak0zuYVnvFZo6lceH-F8hfcuAHRE5DIIg.JPEG/I-nVAybA5FSBiu9GyaxYMxsMzDgo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반짝이는 날을 위한 주얼리, 포멜라토]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34968532&amp;memberNo=12504201&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34968532&amp;memberNo=12504201&amp;navigationType=push</guid>
             <pubDate>Fri, 16 Dec 2022 07:12:37 GMT</pubDate>
@@ -24,7 +32,7 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTVfMTUx/MDAxNjcxMDg1MDQxMDE0.xJKwfLILHFh70PDf0Pv8U5AsWfI32tooURZG947Cx4gg.0kMyTNkZKUlpr7rF3sahA2ZPvAjfdV1P0qWhEw5R5y0g.JPEG/ICfb-hqfR8Cd1kIr0Z5WG1rILmwA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[손목 위 해밀턴]]></title>
+            <title><![CDATA[내 손목 위에는 어떤 시계가 어울릴까?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34961167&amp;memberNo=12504201&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34961167&amp;memberNo=12504201&amp;navigationType=push</guid>
             <pubDate>Thu, 15 Dec 2022 07:12:47 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 07 Dec 2022 02:50:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfMjM4/MDAxNjcwMzQ3MjIzMTg1.t_iiZHbD_X6Nw0x-C3FtGDHqnlu9IgDJtSVVDqgYSuIg.PV8gSqA8NiMHx5VLKCud8I6zS7F2n-rzN_IEKzUW3k0g.JPEG/I_99PLohlm7DvsOxWZs1qSomcaIw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽블랑이라는 동반자]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34901439&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34901439&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 06 Dec 2022 03:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjlfMjg0/MDAxNjY5Njk5NDA0OTUx.SHkWGF_fRHXcWBCH-FfWQ_KHxJpJ4GmUn031qvJPtpkg.lU9BSV8IZIGLHjMBlRoyiIFxXQVm6zehbXfBypblmyQg.JPEG/I8_8eMzuhQpXWctpbuAETKqNXS4s.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
