@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 23:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 05:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹으면 젊어진다는 ‘회춘탕’의 정체는?#강진 맛집]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35025027&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35025027&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 26 Dec 2022 05:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjZfMjM3/MDAxNjcyMDI5NDU1NjU1.cPCyI9Ei3J_qhbmyIJDYrM4Iw2yW_xOqPDWjgDafWW8g.u7OdzN0e-_9L2dguu4e_uuzTNDFjPOILXCFemZUzB3Eg.JPEG/IaelZ65hY7A6z2MeJzRDqp1csjhw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소중한 사람들과 가고 싶은 성수동 신상맛집 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35008873&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjFfMjYz/MDAxNjcxNjEzNTczODcx.HAIbvfkLfn9bl9zXKZpYmJw3cxmFPUhG8IiquDLAjggg.iIUvBZRRB6e3h9K98GsuFX_yKgVlKSPRzPGjdGWSZYog.JPEG/I0_l9mD-EQEcVhDs8CU4ecQsnc0o.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[직접 고른 청자에 음료를 마시기 경험 가능! 강진 카페 3]]></title>
+            <title><![CDATA[직접 고른 청자에 음료 마시기 경험 가능! 강진 카페 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35000667&amp;memberNo=12504201&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35000667&amp;memberNo=12504201&amp;navigationType=push</guid>
             <pubDate>Wed, 21 Dec 2022 09:12:13 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Nov 2022 02:49:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjZfMjA2/MDAxNjY5NDQ3NjM3MzI2.w66eOTnhofGWtLTlOb7N4JofbA7Oiygo99MuteMNpWAg.lJUzhmpuiKxGnKNicvOgobZ9OGGuKCCqC8wWkN_ubPUg.JPEG/IpODjVLooF9bTo8Q_PgIz_DbQQMg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컨셉&시그니처 확실한 ‘요즘’ 제주도 카페 3]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34849535&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34849535&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Fri, 25 Nov 2022 08:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjVfNDMg/MDAxNjY5MzYxODczMzM1.NWXfPJ4X5TWpJ4aAE-SxEN1mD75npfNXMM8OKBxypgwg.DDiVA2XMNhPwBuPMaDlcZoT4JFyZY4dxZk20MX98Dsgg.JPEG/I9mlhtkdb0hPEi-J5Lhm24ajGAdQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
