@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ NOTICE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 07:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 08:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이벤트] 150여편의 에세이가 무료? 에세이 매거진 엘르보이스 웹 OPEN]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35199272&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35199272&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 20 Jan 2023 08:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfMTcg/MDAxNjc0MTk5MTA4MTMz.se4ZDepnCrr1QKiEUXFEyURWz_WYbFxddTt5XRg06wog.TuNPh-3UvNLVRqW41M12t6BS5mOlQYiXS5W53lbOhFsg.JPEG/ItWulZT7ccFP2DJRi8hfFdX8Z_4o.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 ELLE VOICE AWARDS]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34990565&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 03 Sep 2022 07:16:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDJfNjEg/MDAxNjYyMTAwOTY1MDc0.L_vdQqL4L6t3J2r4FIP3OT8OzzNcg0sQzdeo_rzhsZ8g.JDtqV3gpYfjvs0zLpLiRbNGI9PjGLAosIMTsX8-eiCEg.PNG/I2xkLTW2OQYx4WG1tVkqmu1HRO_Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#이벤트 엘르 뉴스레터 '엘르보이스' 트위터 팔로우 이벤트]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34362853&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34362853&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Wed, 24 Aug 2022 07:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjRfNDQg/MDAxNjYxMzI0OTQzMzMx.dElVjgiONuLEjIUQHRDf4mIIvtGOEZy_YjFE2Ax17HMg.8bh4eZNpp3xv0PguZmw5z5WUgOMZ8Z7Ib5NRmykCUL0g.JPEG/IXh7RLg3xqueoEHo-cttmbNrsmdY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
