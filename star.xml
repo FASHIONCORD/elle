@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 18:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 19:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지민 'FACE' 솔로 데뷔에, 뷔는 '서진이네' 막내? 연초부터 바쁜 BTS 최신 스케줄.list]]></title>
+            <link>https://www.elle.co.kr/article/75213</link>
+            <guid>https://www.elle.co.kr/article/75213</guid>
+            <pubDate>Wed, 22 Feb 2023 19:12:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/45924bd3-c28a-4283-8a86-1f944c6f5401.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[취약계층 여성에 생리대를? 누적 금액만 30억 넘는 유재석의 기부 근황.update]]></title>
             <link>https://www.elle.co.kr/article/75210</link>
@@ -59,13 +66,6 @@
             <pubDate>Tue, 21 Feb 2023 20:15:25 GMT</pubDate>
             <content:encoded><![CDATA[지루한 헤어스타일에 변화를 주고 싶다면 헤일리 비버처럼 과감하게 단발머리를 시도해볼 것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/19/e8d79c7a-7c5a-4033-8949-562a450c0d32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['일타스캔들' 전도연 절친과 '재벌집' 송중기 아빠, 알고 보니 신스틸러 부부?]]></title>
-            <link>https://www.elle.co.kr/article/75106</link>
-            <guid>https://www.elle.co.kr/article/75106</guid>
-            <pubDate>Tue, 21 Feb 2023 20:15:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/d44ad15a-2435-4acc-9567-ad3805e1b06c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

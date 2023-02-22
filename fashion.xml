@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 18:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 19:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자카드와 패턴으로 물든 에트로 여인]]></title>
+            <link>https://www.elle.co.kr/article/75227</link>
+            <guid>https://www.elle.co.kr/article/75227</guid>
+            <pubDate>Wed, 22 Feb 2023 19:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[이국적 정취에 스며든 여인의 그림같은 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/ee8fa06d-ed06-49a4-94df-6117807613b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀엽고 보이시한 무드 가득! 뉴스보이 캡을 쓴 셀러브리티 5]]></title>
             <link>https://www.elle.co.kr/article/75215</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Feb 2023 20:15:06 GMT</pubDate>
             <content:encoded><![CDATA[노을 지는 해변가의 낭만을 담은 룩을 기억하자. 이국적인 그러데이션과 프린트가 런웨이까지 물...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/e5aa3937-b056-4026-b6bd-5c23c26935c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홈 오브제 퍼레이드 ②]]></title>
-            <link>https://www.elle.co.kr/article/75117</link>
-            <guid>https://www.elle.co.kr/article/75117</guid>
-            <pubDate>Tue, 21 Feb 2023 20:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[에르메스 2022 홈 컬렉션은 밝은 에너지를 담뿍 담았다. 상상을 초월하는 극강의 아름다움. 홈 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/cfa319cc-0a0b-4111-af99-73c0f7409a69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
