@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 02:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 03:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1484,6 +1484,13 @@
             <content:encoded><![CDATA[프랑수와 트뢰포의 걸작 2편, 그리고 누벨바그에 대한 경의로 가득한 올리비에 아사야스의 오리지...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[백종원 컵라면에 쿠키&크림 빵까지! 날개 돋친 듯 팔리는 중인 편의점 신상 2 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/75102</link>
+            <guid>https://www.elle.co.kr/article/75102</guid>
+            <pubDate>Wed, 22 Feb 2023 03:19:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/29fcc4f0-be66-4730-a2e1-4328aaba3863.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로맨틱 그 자체! 프러포즈 성지로 꼽히는 서울 분위기 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/75096</link>
             <guid>https://www.elle.co.kr/article/75096</guid>
@@ -1534,13 +1541,6 @@
             <guid>https://www.elle.co.kr/article/75013</guid>
             <pubDate>Tue, 21 Feb 2023 20:17:21 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/b8e3de98-a8f5-4bf0-8840-6519bb26bd2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밸런타인데이, 초콜릿만큼 달콤한 디저트 어때? 성수-종로-학동 베이커리 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/75000</link>
-            <guid>https://www.elle.co.kr/article/75000</guid>
-            <pubDate>Tue, 21 Feb 2023 20:17:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/386708c7-80bc-44c7-ab9c-4eed717ca52c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 이게 다 내가 먹은 것 때문이라고...? 퍼스널 트레이닝 잔혹사 (엘르 코리아 ─ 소사이어티)]]></title>
