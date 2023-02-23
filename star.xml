@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 18:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 19:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 큰 거 온다...! 유재석과 연락 끊긴 지 30년 된 전도연, '유퀴즈'에서 풀 이야기들.txt]]></title>
+            <link>https://www.elle.co.kr/article/75220</link>
+            <guid>https://www.elle.co.kr/article/75220</guid>
+            <pubDate>Thu, 23 Feb 2023 19:11:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/fe07db7a-1390-4bbb-8bb1-58c7b104c254.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김영광과 이성경이 그린 사랑의 얼굴]]></title>
             <link>https://www.elle.co.kr/article/75203</link>
@@ -59,14 +66,6 @@
             <pubDate>Tue, 21 Feb 2023 20:15:25 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엘르&gt; 3월호 화보 촬영 키, 무결점 피부의 비결은 바로?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/ca580023-e6b4-405a-ba71-884b4ea754f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톱 모델 한혜진이 알려주는 시크한 메이크업 Tip]]></title>
-            <link>https://www.elle.co.kr/article/75118</link>
-            <guid>https://www.elle.co.kr/article/75118</guid>
-            <pubDate>Tue, 21 Feb 2023 20:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[도도한 매력의 소유자, 한혜진이 프랑스 파리에서 열린 행사를 준비하며 선보인 메이크업을 따라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/57f9f60d-3db4-4370-ac94-20d67ebcef2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
