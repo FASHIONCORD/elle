@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 04:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 05:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초등학생이 그렸다는 밀라노 동계올림픽 마스코트 후보 2, 당신의 선택은?]]></title>
+            <link>https://www.elle.co.kr/article/75148</link>
+            <guid>https://www.elle.co.kr/article/75148</guid>
+            <pubDate>Thu, 23 Feb 2023 05:14:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/65808114-3460-4c65-9bbb-c0086b8ee72f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국의 근대 건축물 ⑤ 정동 1번지, 신아기념관]]></title>
             <link>https://www.elle.co.kr/article/72993</link>
@@ -58,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/75069</guid>
             <pubDate>Tue, 21 Feb 2023 20:15:37 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/ee655d8d-61e6-427a-b76a-d43f8af3f382.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피겨 황제 김연아! 14년 만에 4대륙 금메달 딴 이해인에게 한 조언은? (ft. 선한 영향력)]]></title>
-            <link>https://www.elle.co.kr/article/75056</link>
-            <guid>https://www.elle.co.kr/article/75056</guid>
-            <pubDate>Tue, 21 Feb 2023 20:15:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/1b4dca00-1731-4374-84e2-5e1b5e6d6100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
