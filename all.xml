@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 05:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 06:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1155,6 +1155,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/19/c128203f-ffa8-46cd-9c3d-d5ab4cc7c095.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이보영X손나은 공조로 관심 집중! 반전 예고된 '대행사' 후반부 관전 포인트 2 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/75150</link>
+            <guid>https://www.elle.co.kr/article/75150</guid>
+            <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/db72dbd1-0e10-40f8-aec0-688291e5a01d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[초등학생이 그렸다는 밀라노 동계올림픽 마스코트 후보 2, 당신의 선택은? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/75148</link>
             <guid>https://www.elle.co.kr/article/75148</guid>
@@ -1205,13 +1212,6 @@
             <pubDate>Tue, 21 Feb 2023 20:15:37 GMT</pubDate>
             <content:encoded><![CDATA[10년 전 파리에 자신의 첫 갤러리를 오픈한 아르멜 소예르는 어느 날 프랑스 남부 생트로페로 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/44e597f9-9531-4597-8c1c-36dd7dd9f21f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리, 본격 연예 활동 시작? 안테나 계약 직후 내놓는 새 여자 예능 멤버들.list (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75069</link>
-            <guid>https://www.elle.co.kr/article/75069</guid>
-            <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/ee655d8d-61e6-427a-b76a-d43f8af3f382.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해체 NO! '역주행 걸그룹' 브레이브걸스가 계약만료에 전한 심경 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1387,6 +1387,14 @@
             <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[전 세계가 사랑한 색채의 마술사, 데이비드 호크니와 60년대 런던이 통째로 DDP에 온다! (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/75284</link>
+            <guid>https://www.elle.co.kr/article/75284</guid>
+            <pubDate>Thu, 23 Feb 2023 06:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[격동의 60년대, 영국 팝아트 신을 이끈 주역들의 작품을 한눈에!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e14f9418-1d80-4e7e-923e-6d7726fd95fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아티스틱 스페이스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/73000</link>
             <guid>https://www.elle.co.kr/article/73000</guid>
@@ -1416,7 +1424,6 @@
             <guid>https://www.elle.co.kr/article/72992</guid>
             <pubDate>Tue, 21 Feb 2023 20:15:37 GMT</pubDate>
             <content:encoded><![CDATA[10년 전 파리에 자신의 첫 갤러리를 오픈한 아르멜 소예르는 어느 날 프랑스 남부 생트로페로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/44e597f9-9531-4597-8c1c-36dd7dd9f21f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컬러풀 소파! 화이트 & 베이지 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1475,11 +1482,11 @@
             <content:encoded><![CDATA[싱그러운 에너지를 불어넣는 푸른빛 마법.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이 재개봉은 못 놓치지! 꼭 봐야 할 프랑스 시네마 3 편 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/74596</link>
-            <guid>https://www.elle.co.kr/article/74596</guid>
-            <pubDate>Thu, 09 Feb 2023 21:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[프랑수와 트뢰포의 걸작 2편, 그리고 누벨바그에 대한 경의로 가득한 올리비에 아사야스의 오리지...]]></content:encoded>
+            <title><![CDATA[조금 일찍 봄을 느끼고 싶다면, 서울의 작은 유럽 성수동-경리단길 브런치 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/75164</link>
+            <guid>https://www.elle.co.kr/article/75164</guid>
+            <pubDate>Thu, 23 Feb 2023 06:18:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/004be6ef-96f4-4014-8d18-88ae90a73792.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트위터 이중 인증 유료화에, 페북-인스타 '파딱' 1만5000원? 요즘 SNS 근황 모음.zip (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1534,11 +1541,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/98de4f86-95c4-475e-b81a-dacad0f1318d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감귤X흑돼지, 대체 무슨 맛일까? 제주 특산물 다 들어간 이색 피자 신상 정보 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/75016</link>
-            <guid>https://www.elle.co.kr/article/75016</guid>
-            <pubDate>Tue, 21 Feb 2023 20:17:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/dd1fcaf5-0186-4808-a554-9c0f8e1d7eb7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[트위터 이중 인증 유료화에, 페북-인스타 '파딱' 1만5000원? 요즘 SNS 근황 모음.zip (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/75132</link>
+            <guid>https://www.elle.co.kr/article/75132</guid>
+            <pubDate>Thu, 23 Feb 2023 02:44:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/4e8ef6c2-071a-4771-9301-1932e0d17138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MZ 인싸들 다 한다고? 메타버스 앱 본디, 인기 급상승 요인부터 논란까지 총 정리! (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1590,13 +1597,6 @@
             <guid>https://www.elle.co.kr/article/74950</guid>
             <pubDate>Tue, 21 Feb 2023 20:17:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/5069b75d-17cd-4f87-a016-a4c2f131cd1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["지나칠 수 없는 아재 스멜": 친남매도 울고 갈 손석구X전종서 티키타카 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/74949</link>
-            <guid>https://www.elle.co.kr/article/74949</guid>
-            <pubDate>Tue, 21 Feb 2023 20:17:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/03dd8b63-8218-4c68-b18d-c916fd019839.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
