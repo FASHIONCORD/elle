@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 07:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 08:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5000만 원대 작품이 와장창! 산산조각난 제프 쿤스의 ‘풍선개’, 사건의 전말은?]]></title>
+            <link>https://www.elle.co.kr/article/75293</link>
+            <guid>https://www.elle.co.kr/article/75293</guid>
+            <pubDate>Thu, 23 Feb 2023 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[현존하는 작가 중 경매 최고가 기록을 보유한 주인공!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/3cd9980f-057e-40e9-a7f4-44305ce1d9dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 세계가 사랑한 색채의 마술사, 데이비드 호크니와 60년대 런던이 통째로 DDP에 온다!]]></title>
             <link>https://www.elle.co.kr/article/75284</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/75117</guid>
             <pubDate>Tue, 21 Feb 2023 20:16:40 GMT</pubDate>
             <content:encoded><![CDATA[에르메스 2022 홈 컬렉션은 밝은 에너지를 담뿍 담았다. 상상을 초월하는 극강의 아름다움. 홈 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/cfa319cc-0a0b-4111-af99-73c0f7409a69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생트로페로 떠난 모험, 갤러리스트 아르멜 소예르가 꿈꾼 공간]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/72984</guid>
             <pubDate>Thu, 09 Feb 2023 21:19:52 GMT</pubDate>
             <content:encoded><![CDATA['더 프레이즈'의 페이지는 매 이슈마다 확고한 방점을 찍으며 펼쳐진다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[컬러풀 소파! 그린 & 블루]]></title>
-            <link>https://www.elle.co.kr/article/72983</link>
-            <guid>https://www.elle.co.kr/article/72983</guid>
-            <pubDate>Thu, 09 Feb 2023 21:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[싱그러운 에너지를 불어넣는 푸른빛 마법.]]></content:encoded>
         </item>
     </channel>
 </rss>
