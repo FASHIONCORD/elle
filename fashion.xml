@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 04:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 05:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬의 다크 로맨스]]></title>
+            <link>https://www.elle.co.kr/article/75261</link>
+            <guid>https://www.elle.co.kr/article/75261</guid>
+            <pubDate>Fri, 24 Feb 2023 05:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[어둡고 웅장한 고성에서 펼쳐진 한 편의 모노드라마.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/033b6863-25b8-40dc-a5a8-d2355e5b14c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파리 그랑 팔레 일대를 K팝 콘서트장으로 탈바꿈시킨 지드래곤? feat.샤넬 2023 봄/여름 오트 쿠튀르 쇼]]></title>
             <link>https://www.elle.co.kr/article/75260</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 15:14:50 GMT</pubDate>
             <content:encoded><![CDATA[시대의 페르소나와 함께한 재키 백의 결정적 순간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/16e52487-cf4b-4d6d-9004-9f5ac5f3952a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간달프가 런웨이에? 2023 F/W 런던 패션위크에 모델로 등장한 의외의 인물들]]></title>
-            <link>https://www.elle.co.kr/article/75206</link>
-            <guid>https://www.elle.co.kr/article/75206</guid>
-            <pubDate>Wed, 22 Feb 2023 11:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[상금 4억 원의 주인공, 2022 LVMH 프라이즈 우승자의 컬렉션부터 ‘저스틴 비버 패션’까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/56a7904c-172a-4668-b993-96bf1449c434.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
