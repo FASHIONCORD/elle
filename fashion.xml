@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 18:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 19:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 24 Feb 2023 19:11:41 GMT</pubDate>
             <content:encoded><![CDATA[오직 파도와 바람 소리만 맴도는 어느 고요한 해변에서.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/bd235aa4-f8df-45a3-8d74-0c482918ca0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬란한 불가리의 에덴 컬렉션]]></title>
+            <link>https://www.elle.co.kr/article/75277</link>
+            <guid>https://www.elle.co.kr/article/75277</guid>
+            <pubDate>Sat, 25 Feb 2023 19:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[매혹적인 향취를 뿜어내는 영롱함에 빠져들 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/670b284b-69b3-4173-84df-b5d15867003b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반클리프 아펠의 시간에 대한 독창적인 비전]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Feb 2023 01:02:31 GMT</pubDate>
             <content:encoded><![CDATA[이번 시즌 유독 눈에 띄는 패션 브랜드들의 인형 예찬. 어떤 것을 고를까 고민이라면 다음 보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/eec4da4c-3201-4b77-af06-9ea6a0101374.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자카드와 패턴으로 물든 에트로 여인]]></title>
-            <link>https://www.elle.co.kr/article/75227</link>
-            <guid>https://www.elle.co.kr/article/75227</guid>
-            <pubDate>Wed, 22 Feb 2023 19:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[이국적 정취에 스며든 여인의 그림같은 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/ee8fa06d-ed06-49a4-94df-6117807613b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
