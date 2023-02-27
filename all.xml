@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 02:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1157,6 +1157,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/fe07db7a-1390-4bbb-8bb1-58c7b104c254.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우주를 사랑했던 만화가, 하늘의 별이 되다 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/75159</link>
+            <guid>https://www.elle.co.kr/article/75159</guid>
+            <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
+            <content:encoded><![CDATA['은하철도 999' 마츠모토 레이지 별세]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/c039d94b-f570-45d7-8b12-980dabb7d60b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이보영X손나은 공조로 관심 집중! 반전 예고된 '대행사' 후반부 관전 포인트 2 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/75150</link>
             <guid>https://www.elle.co.kr/article/75150</guid>
@@ -1206,14 +1214,6 @@
             <guid>https://www.elle.co.kr/article/75081</guid>
             <pubDate>Sun, 19 Feb 2023 17:16:10 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/cef4f469-b596-4da3-9b12-8c56d3e7682c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생트로페로 떠난 모험, 갤러리스트 아르멜 소예르가 꿈꾼 공간 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/72992</link>
-            <guid>https://www.elle.co.kr/article/72992</guid>
-            <pubDate>Tue, 21 Feb 2023 20:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[10년 전 파리에 자신의 첫 갤러리를 오픈한 아르멜 소예르는 어느 날 프랑스 남부 생트로페로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/44e597f9-9531-4597-8c1c-36dd7dd9f21f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해체 NO! '역주행 걸그룹' 브레이브걸스가 계약만료에 전한 심경 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1306,6 +1306,14 @@
             <content:encoded><![CDATA[네 장의 싱글 앨범이 하나의 &lt;축&gt;으로 묶이는 순간.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[위험하고 위대한 케이트 블란쳇, 그녀는 어떻게 '리디아 타르’라는 괴물을 탄생시켰나_요주의여성 #81 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/75357</link>
+            <guid>https://www.elle.co.kr/article/75357</guid>
+            <pubDate>Mon, 27 Feb 2023 03:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[최초의 여성 상임 지휘자로서의 탁월한 재능과 권력 그리고 몰락에 관하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/af69a845-10cc-4679-af2b-f9439d1fbc87.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["도망이 아니라 희망이야": 송혜교 복수, 정성일X이도현 조력 암시? '더 글로리' 예고편 내용 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/75281</link>
             <guid>https://www.elle.co.kr/article/75281</guid>
@@ -1332,7 +1340,6 @@
             <link>https://www.elle.co.kr/article/75106</link>
             <guid>https://www.elle.co.kr/article/75106</guid>
             <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/d44ad15a-2435-4acc-9567-ad3805e1b06c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현실판 부루마불? '두바이에 간 이승기 vs 빠니보틀과 김태호' 신상 여행 예능 2 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1380,12 +1387,6 @@
             <title><![CDATA['아바타3'의 빌런 대장 캐릭터 맡는 찰리 채플린 손녀, '왕좌의 게임'에도 나왔었다?! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/74972</link>
             <guid>https://www.elle.co.kr/article/74972</guid>
-            <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[박소담이 박나래 덕후였다고? 두 사람의 첫 만남 이야기 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/74954</link>
-            <guid>https://www.elle.co.kr/article/74954</guid>
             <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
         </item>
         <item>
@@ -1541,6 +1542,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/29fcc4f0-be66-4730-a2e1-4328aaba3863.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 당신의 문해력... 뭐가 문제일까? (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/74524</link>
+            <guid>https://www.elle.co.kr/article/74524</guid>
+            <pubDate>Mon, 27 Feb 2023 03:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[문해력. 단순히 글을 바르게 읽고 이해하는 능력치에 관한 문제가 아니다. 시대가 봉착한 혐오와...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e20b6315-0c97-4804-8430-41d66030f9ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["경주는 시작됐다": 구글 바드, 챗GPT 견제하다 망신? 전쟁터 된 AI 시장 상황 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/75212</link>
             <guid>https://www.elle.co.kr/article/75212</guid>
@@ -1590,13 +1599,6 @@
             <guid>https://www.elle.co.kr/article/75001</guid>
             <pubDate>Tue, 21 Feb 2023 20:17:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/c9f8851d-c1c6-4338-967a-d6b63fd5d7b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐가 대모산 꿀벌 정원에서 양봉 시작한 이유는? (ft.벌꿀) (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/74986</link>
-            <guid>https://www.elle.co.kr/article/74986</guid>
-            <pubDate>Tue, 21 Feb 2023 20:17:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/b1ea2c97-116c-4ff9-bc37-6f67cfabe4d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
