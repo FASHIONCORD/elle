@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 08:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 09:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[형제 아닌가요? 황민현X박서준, 너무 닮아서 생긴 황당 에피소드!]]></title>
+            <link>https://www.elle.co.kr/article/75337</link>
+            <guid>https://www.elle.co.kr/article/75337</guid>
+            <pubDate>Mon, 27 Feb 2023 09:15:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/c361ee06-2c2d-46b1-892f-299df34d3c4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유재석이 가장 많이 돈 쓰는 곳은 지인 경조사?! (ft. 명절 고기 100명)]]></title>
             <link>https://www.elle.co.kr/article/75332</link>
@@ -60,13 +67,6 @@
             <pubDate>Fri, 24 Feb 2023 02:45:22 GMT</pubDate>
             <content:encoded><![CDATA[지금부터 봄까지 활용할 수 있는 카디건 스타일의 힌트를 스타들의 패션에서 참고해보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/3f2d15b3-f36a-4eb7-bf8f-82ced72c45d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차주영, '더 글로리' 혜정 캐릭터를 위해 증량한 6kg 바로 뺀 비결은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/75257</link>
-            <guid>https://www.elle.co.kr/article/75257</guid>
-            <pubDate>Fri, 24 Feb 2023 02:45:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/fe281b09-f531-4c8f-b1b0-e3d8f48f4ac8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
