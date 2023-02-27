@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 09:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 10:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<007> 그레이 존스의 귀환? 후드 스타일링]]></title>
+            <link>https://www.elle.co.kr/article/74601</link>
+            <guid>https://www.elle.co.kr/article/74601</guid>
+            <pubDate>Mon, 27 Feb 2023 10:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴을 감싸는 후디드 패션을 시도할 차례.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/3f727957-bf1d-4270-8bc6-7d76e1efc59b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬의 동화]]></title>
             <link>https://www.elle.co.kr/article/75310</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 26 Feb 2023 02:55:19 GMT</pubDate>
             <content:encoded><![CDATA[꽃 질 일 없는 2023 가을/겨울 런던패션위크.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/98c1dd61-8180-4c89-8689-16be732a5a16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바닷가를 거니는 셀린느의 마린 걸]]></title>
-            <link>https://www.elle.co.kr/article/75283</link>
-            <guid>https://www.elle.co.kr/article/75283</guid>
-            <pubDate>Fri, 24 Feb 2023 19:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[오직 파도와 바람 소리만 맴도는 어느 고요한 해변에서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/bd235aa4-f8df-45a3-8d74-0c482918ca0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

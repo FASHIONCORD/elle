@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 09:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 10:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDJfNjEg/MDAxNjYyMTAwOTY1MDc0.L_vdQqL4L6t3J2r4FIP3OT8OzzNcg0sQzdeo_rzhsZ8g.JDtqV3gpYfjvs0zLpLiRbNGI9PjGLAosIMTsX8-eiCEg.PNG/I2xkLTW2OQYx4WG1tVkqmu1HRO_Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<007> 그레이 존스의 귀환? 후드 스타일링 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/74601</link>
+            <guid>https://www.elle.co.kr/article/74601</guid>
+            <pubDate>Mon, 27 Feb 2023 10:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴을 감싸는 후디드 패션을 시도할 차례.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/3f727957-bf1d-4270-8bc6-7d76e1efc59b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샤넬의 동화 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/75310</link>
             <guid>https://www.elle.co.kr/article/75310</guid>
@@ -1023,14 +1031,6 @@
             <pubDate>Sun, 26 Feb 2023 02:55:19 GMT</pubDate>
             <content:encoded><![CDATA[꽃 질 일 없는 2023 가을/겨울 런던패션위크.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/98c1dd61-8180-4c89-8689-16be732a5a16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바닷가를 거니는 셀린느의 마린 걸 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/75283</link>
-            <guid>https://www.elle.co.kr/article/75283</guid>
-            <pubDate>Fri, 24 Feb 2023 19:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[오직 파도와 바람 소리만 맴도는 어느 고요한 해변에서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/bd235aa4-f8df-45a3-8d74-0c482918ca0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화장을 했는데도 칙칙해보이는 이유는 이것! 칙칙한 안색에 형광등 켜는 방법 5_선배’s 어드바이스 #157 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1097,6 +1097,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/b32e54db-f81f-47dc-ad45-f3517ce1f6fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[숙슐랭 인정! 김숙이 소개한 고기 맛집 3 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/75344</link>
+            <guid>https://www.elle.co.kr/article/75344</guid>
+            <pubDate>Mon, 27 Feb 2023 10:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[윤기가 자르르 흐르는 양갈비 맛집부터 소식좌를 감동하게 만든 불고기까지, 맛잘알 김숙의 단골...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/fdcc2a72-315b-47fb-94d2-702cdfd935cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[십화점 한범수가 사랑한 모든 것들 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/74559</link>
+            <guid>https://www.elle.co.kr/article/74559</guid>
+            <pubDate>Mon, 27 Feb 2023 10:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[찰나의 행복과 영감을 꽉 붙잡는, 십화점 &amp; 데이지 신드롬 대표 한범수.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/21e83c85-802a-458b-9147-d5422d15ffed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[형제 아닌가요? 황민현X박서준, 너무 닮아서 생긴 황당 에피소드! (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/75337</link>
             <guid>https://www.elle.co.kr/article/75337</guid>
@@ -1141,21 +1157,6 @@
             <pubDate>Thu, 23 Feb 2023 10:16:49 GMT</pubDate>
             <content:encoded><![CDATA[폐암 3기 판정을 받고 올린 박서보 화백의 심경. "전화하지 마시라, 그럼에도 말을 전하고 싶다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/488084c3-b3d0-4365-97c2-61bc20fde3ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["도망이 아니라 희망이야": 송혜교 복수, 정성일X이도현 조력 암시? '더 글로리' 예고편 내용 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/75281</link>
-            <guid>https://www.elle.co.kr/article/75281</guid>
-            <pubDate>Thu, 23 Feb 2023 05:15:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/3796a19b-d267-4df4-b79a-64a9f96849b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨라 하디드처럼 힙하게! 조이처럼 러블리하게! #카디건패션 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/75267</link>
-            <guid>https://www.elle.co.kr/article/75267</guid>
-            <pubDate>Fri, 24 Feb 2023 02:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[지금부터 봄까지 활용할 수 있는 카디건 스타일의 힌트를 스타들의 패션에서 참고해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/3f2d15b3-f36a-4eb7-bf8f-82ced72c45d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["도망이 아니라 희망이야": 송혜교 복수, 정성일X이도현 조력 암시? '더 글로리' 예고편 내용 (엘르 코리아 ─ 컬쳐)]]></title>
