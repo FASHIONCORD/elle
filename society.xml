@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 23:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 01:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["경주는 시작됐다": 구글 바드, 챗GPT 견제하다 망신? 전쟁터 된 AI 시장 상황]]></title>
+            <link>https://www.elle.co.kr/article/75212</link>
+            <guid>https://www.elle.co.kr/article/75212</guid>
+            <pubDate>Mon, 27 Feb 2023 01:08:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/3a3b4f36-b5c9-44a0-8a41-d986f860b821.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 매일 땀 흘리는 모든 소녀들을 위하여!]]></title>
             <link>https://www.elle.co.kr/article/75192</link>
@@ -57,14 +64,6 @@
             <guid>https://www.elle.co.kr/article/74986</guid>
             <pubDate>Tue, 21 Feb 2023 20:17:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/b1ea2c97-116c-4ff9-bc37-6f67cfabe4d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 짜잔! 40대의 삶. 솔직하게 풀어낸 노화의 슬픔, 그리고 귀여움]]></title>
-            <link>https://www.elle.co.kr/article/74449</link>
-            <guid>https://www.elle.co.kr/article/74449</guid>
-            <pubDate>Tue, 21 Feb 2023 20:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[최지은 작가는 즐겁게 말한다. 나이 드는 게 꼭 슬픈 것만은 아니라고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/8fbb7be0-e88c-45a5-a8c3-266e555b5d85.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
