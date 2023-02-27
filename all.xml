@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 04:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 05:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/ab63d3da-772f-4a0c-90d8-aea02eb5e79c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유재석이 가장 많이 돈 쓰는 곳은 지인 경조사?! (ft. 명절 고기 100명) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/75332</link>
+            <guid>https://www.elle.co.kr/article/75332</guid>
+            <pubDate>Mon, 27 Feb 2023 05:13:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/cd6ac586-bb54-4814-8563-a5a991ff475a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[흑과 백의 대비 속 본연의 얼굴을 드러낸 키 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/75300</link>
             <guid>https://www.elle.co.kr/article/75300</guid>
@@ -1150,11 +1157,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/fe281b09-f531-4c8f-b1b0-e3d8f48f4ac8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[진짜 큰 거 온다...! 유재석과 연락 끊긴 지 30년 된 전도연, '유퀴즈'에서 풀 이야기들.txt (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/75220</link>
-            <guid>https://www.elle.co.kr/article/75220</guid>
-            <pubDate>Thu, 23 Feb 2023 19:11:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/fe07db7a-1390-4bbb-8bb1-58c7b104c254.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[엘르보이스] 매일 땀 흘리는 모든 소녀들을 위하여! (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/75192</link>
+            <guid>https://www.elle.co.kr/article/75192</guid>
+            <pubDate>Thu, 23 Feb 2023 08:19:57 GMT</pubDate>
+            <content:encoded><![CDATA["이 시간이 너무 좋아요. 힐링되는 기분이에요" 틴트레이닝 이서영 대표가 이 말을 듣는 순간 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/25c8c0ee-9207-4181-87c1-99fbabb688df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우주를 사랑했던 만화가, 하늘의 별이 되다 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1207,13 +1215,6 @@
             <guid>https://www.elle.co.kr/article/75082</guid>
             <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/c6288015-746c-46bd-88f3-1b37fad3926c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해체 NO! '역주행 걸그룹' 브레이브걸스가 계약만료에 전한 심경 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75081</link>
-            <guid>https://www.elle.co.kr/article/75081</guid>
-            <pubDate>Sun, 19 Feb 2023 17:16:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/cef4f469-b596-4da3-9b12-8c56d3e7682c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해체 NO! '역주행 걸그룹' 브레이브걸스가 계약만료에 전한 심경 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1306,6 +1307,13 @@
             <content:encoded><![CDATA[네 장의 싱글 앨범이 하나의 &lt;축&gt;으로 묶이는 순간.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스티븐 연 '썬더볼츠'로 MCU 합류, 히어로인지 빌런인지 알 수 없다고?! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/75360</link>
+            <guid>https://www.elle.co.kr/article/75360</guid>
+            <pubDate>Mon, 27 Feb 2023 05:14:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/53d60d8e-17ea-4890-ae59-15af427dc2fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위험하고 위대한 케이트 블란쳇, 그녀는 어떻게 '리디아 타르’라는 괴물을 탄생시켰나_요주의여성 #81 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/75357</link>
             <guid>https://www.elle.co.kr/article/75357</guid>
@@ -1333,7 +1341,6 @@
             <link>https://www.elle.co.kr/article/75150</link>
             <guid>https://www.elle.co.kr/article/75150</guid>
             <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/db72dbd1-0e10-40f8-aec0-688291e5a01d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['일타스캔들' 전도연 절친과 '재벌집' 송중기 아빠, 알고 보니 신스틸러 부부? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1381,12 +1388,6 @@
             <title><![CDATA['검찰 금쪽이' 서동재가 주인공이요? 이준혁이 주연 맡는 '비밀의 숲' 스핀오프 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/74974</link>
             <guid>https://www.elle.co.kr/article/74974</guid>
-            <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['아바타3'의 빌런 대장 캐릭터 맡는 찰리 채플린 손녀, '왕좌의 게임'에도 나왔었다?! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/74972</link>
-            <guid>https://www.elle.co.kr/article/74972</guid>
             <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
         </item>
         <item>
