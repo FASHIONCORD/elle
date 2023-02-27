@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 18:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 19:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벅참 그 자체, 허니제이의 격렬한 만삭 댄스가 뭉클한 이유 (feat. Antidote 가사)]]></title>
+            <link>https://www.elle.co.kr/article/75356</link>
+            <guid>https://www.elle.co.kr/article/75356</guid>
+            <pubDate>Mon, 27 Feb 2023 19:12:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/585f605b-5e53-484d-8044-e4eb51dda613.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숙슐랭 인정! 김숙이 소개한 고기 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/75344</link>
@@ -60,14 +67,6 @@
             <pubDate>Sat, 25 Feb 2023 15:13:30 GMT</pubDate>
             <content:encoded><![CDATA[언니 이거 뭐예요? 빈티지 그릇부터 조리 도구까지, 주방을 탈탈 털어 소개합니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/4a107ba6-c7f7-4104-9d3f-ddfb15cbdbb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박서보, 한 줄 이라도 더 긋고 싶은 아흔살 화백이 폐암 판정을 두고 한 다짐]]></title>
-            <link>https://www.elle.co.kr/article/75304</link>
-            <guid>https://www.elle.co.kr/article/75304</guid>
-            <pubDate>Fri, 24 Feb 2023 20:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[폐암 3기 판정을 받고 올린 박서보 화백의 심경. "전화하지 마시라, 그럼에도 말을 전하고 싶다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/488084c3-b3d0-4365-97c2-61bc20fde3ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
