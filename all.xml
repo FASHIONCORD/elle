@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 11:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 12:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1485,6 +1485,14 @@
             <content:encoded><![CDATA[빈틈과 모자람 그리고 일말의 여백이 만든 풍요로움.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[런던에 가면 놓치지 말아야 할 갤러리 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/75374</link>
+            <guid>https://www.elle.co.kr/article/75374</guid>
+            <pubDate>Mon, 27 Feb 2023 09:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[세계적인 갤러리와 갤러리가 주목한 아티스트를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/8e72ea29-94b2-4325-ad40-9c659025f6f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[온지음 맛공방이 고려로 간 이유 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/75292</link>
             <guid>https://www.elle.co.kr/article/75292</guid>
@@ -1537,12 +1545,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/f180c807-e02b-4ea3-83b2-a0c0b5809f9c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[발코니가 포인트! 인테리어에 진심인 바이어의 랜선집들이 #취향을담은집 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/75228</link>
-            <guid>https://www.elle.co.kr/article/75228</guid>
-            <pubDate>Fri, 24 Feb 2023 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[좋아하는 무언가에 애정을 쏟을 줄 알고, 분명한 취향을 바탕으로 자신만의 행복하고 풍요로운 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/0da08075-3414-4608-990a-cb7bf5a35ae1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[과거로 돌아간다면 직업 바꾸겠다는 직장인들! 선호 직업 1위는? (ft.유튜버 아님) (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/75274</link>
+            <guid>https://www.elle.co.kr/article/75274</guid>
+            <pubDate>Tue, 28 Feb 2023 12:28:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/ff5d4c66-4491-443c-80a3-9386121e9154.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 당신의 문해력... 뭐가 문제일까? (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1595,13 +1602,6 @@
             <pubDate>Tue, 21 Feb 2023 20:17:30 GMT</pubDate>
             <content:encoded><![CDATA[세상에서 제일 웃긴 퍼스널 트레이닝 이야기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/fcb78c5f-f064-4d55-81e5-9a40d9604906.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["누가 죄인인가?": 2월14일, 안중근 의사 사형선고일과 함께 기억할 것 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/75001</link>
-            <guid>https://www.elle.co.kr/article/75001</guid>
-            <pubDate>Tue, 21 Feb 2023 20:17:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/c9f8851d-c1c6-4338-967a-d6b63fd5d7b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 11:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 12:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과거로 돌아간다면 직업 바꾸겠다는 직장인들! 선호 직업 1위는? (ft.유튜버 아님)]]></title>
+            <link>https://www.elle.co.kr/article/75274</link>
+            <guid>https://www.elle.co.kr/article/75274</guid>
+            <pubDate>Tue, 28 Feb 2023 12:28:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/ff5d4c66-4491-443c-80a3-9386121e9154.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 당신의 문해력... 뭐가 문제일까?]]></title>
             <link>https://www.elle.co.kr/article/74524</link>
@@ -58,13 +65,6 @@
             <pubDate>Tue, 21 Feb 2023 20:17:30 GMT</pubDate>
             <content:encoded><![CDATA[세상에서 제일 웃긴 퍼스널 트레이닝 이야기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/fcb78c5f-f064-4d55-81e5-9a40d9604906.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["누가 죄인인가?": 2월14일, 안중근 의사 사형선고일과 함께 기억할 것]]></title>
-            <link>https://www.elle.co.kr/article/75001</link>
-            <guid>https://www.elle.co.kr/article/75001</guid>
-            <pubDate>Tue, 21 Feb 2023 20:17:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/c9f8851d-c1c6-4338-967a-d6b63fd5d7b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
