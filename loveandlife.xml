@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 02:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 03:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숙슐랭 인정! 김숙이 소개한 고기 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/75344</link>
+            <guid>https://www.elle.co.kr/article/75344</guid>
+            <pubDate>Tue, 28 Feb 2023 03:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[윤기가 자르르 흐르는 양갈비 맛집부터 소식좌를 감동하게 만든 불고기까지, 맛잘알 김숙의 단골...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/fdcc2a72-315b-47fb-94d2-702cdfd935cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메로나와 바나나맛 우유가 만났다고? 빙그레 신상 비주얼.jpg]]></title>
             <link>https://www.elle.co.kr/article/75333</link>
@@ -57,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/75212</guid>
             <pubDate>Fri, 24 Feb 2023 09:16:01 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/3a3b4f36-b5c9-44a0-8a41-d986f860b821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[센세이션 그 자체, 잡스의 1세대 아이폰이 경매에! 어마어마한 낙찰 가격은?]]></title>
-            <link>https://www.elle.co.kr/article/75211</link>
-            <guid>https://www.elle.co.kr/article/75211</guid>
-            <pubDate>Thu, 23 Feb 2023 19:13:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/1eebbe93-f189-49de-b52d-5d7fdfb01b65.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
