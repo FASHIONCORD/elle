@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 23:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 01:07:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스티븐 연 '썬더볼츠'로 MCU 합류, 히어로인지 빌런인지 알 수 없다고?!]]></title>
+            <link>https://www.elle.co.kr/article/75360</link>
+            <guid>https://www.elle.co.kr/article/75360</guid>
+            <pubDate>Tue, 28 Feb 2023 01:05:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/53d60d8e-17ea-4890-ae59-15af427dc2fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벅참 그 자체, 허니제이의 격렬한 만삭 댄스가 뭉클한 이유 (feat. Antidote 가사)]]></title>
             <link>https://www.elle.co.kr/article/75356</link>
@@ -59,14 +66,6 @@
             <pubDate>Sat, 25 Feb 2023 19:11:33 GMT</pubDate>
             <content:encoded><![CDATA[대만과 서울, 1998년과 2023년. 어떤 시공간에서든 서로를 알아보는 세 사람이 즐겁게 춤춘다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/78fc6b5a-e7e1-439c-a8a3-de741de32512.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로 살림꾼, 김나영이 사용하는 주방용품은?]]></title>
-            <link>https://www.elle.co.kr/article/75308</link>
-            <guid>https://www.elle.co.kr/article/75308</guid>
-            <pubDate>Sat, 25 Feb 2023 15:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[언니 이거 뭐예요? 빈티지 그릇부터 조리 도구까지, 주방을 탈탈 털어 소개합니다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/4a107ba6-c7f7-4104-9d3f-ddfb15cbdbb6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
