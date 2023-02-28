@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 09:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 10:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비비안 웨스트우드, 펑크의 전설]]></title>
+            <link>https://www.elle.co.kr/article/75352</link>
+            <guid>https://www.elle.co.kr/article/75352</guid>
+            <pubDate>Tue, 28 Feb 2023 10:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[펑크 정신으로 기억될 비비안 웨스트우드가 영원한 안식에 들었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/d787121a-d13d-404b-98f0-de9c88015fe3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[절제된 아름다움을 만나는 곳]]></title>
             <link>https://www.elle.co.kr/article/75353</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Feb 2023 02:48:32 GMT</pubDate>
             <content:encoded><![CDATA[느낌 있는 데일리 룩 원해요? 그렇다면 선글라스는 선택이 아닌 필수입니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/9b1f7f32-465a-41a3-b519-3d8807adccfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보부상의 가방 #빅백 #쇼핑리스트]]></title>
-            <link>https://www.elle.co.kr/article/75335</link>
-            <guid>https://www.elle.co.kr/article/75335</guid>
-            <pubDate>Tue, 28 Feb 2023 09:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[트렌드로 떠오른 수납력 끝판왕 빅 백을 주목하세요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/dbf3c072-f7cb-4733-abfd-06ae64b0bcc5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
