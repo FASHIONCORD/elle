@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 08:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 09:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['더 글로리' 파트2, 시사회도 끝났다! 회수될 떡밥과 풀릴 서사들 미리보기.txt]]></title>
+            <link>https://www.elle.co.kr/article/75435</link>
+            <guid>https://www.elle.co.kr/article/75435</guid>
+            <pubDate>Tue, 28 Feb 2023 09:15:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/13edf646-a8ff-4472-8e11-def42d44e4ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전원 부캐 플레이에 사이다 복수까지! '모범택시2'의 이유 있는 흥행 가도 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/75377</link>
@@ -34,7 +41,6 @@
             <link>https://www.elle.co.kr/article/75281</link>
             <guid>https://www.elle.co.kr/article/75281</guid>
             <pubDate>Thu, 23 Feb 2023 05:15:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/3796a19b-d267-4df4-b79a-64a9f96849b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우주를 사랑했던 만화가, 하늘의 별이 되다]]></title>
@@ -83,12 +89,6 @@
             <title><![CDATA['너의 이름은.' 뛰어 넘을까? '더 퍼스트 슬램덩크' 흥행에 단행본도 30년 만의 역주행!]]></title>
             <link>https://www.elle.co.kr/article/75018</link>
             <guid>https://www.elle.co.kr/article/75018</guid>
-            <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[쌍방 로맨스에 미스터리 사건 진범 찾기까지! '일타스캔들' 후반전 관전 포인트 총정리 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/74975</link>
-            <guid>https://www.elle.co.kr/article/74975</guid>
             <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
         </item>
     </channel>

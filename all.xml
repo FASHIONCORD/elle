@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 08:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 09:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,14 +969,6 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDJfNjEg/MDAxNjYyMTAwOTY1MDc0.L_vdQqL4L6t3J2r4FIP3OT8OzzNcg0sQzdeo_rzhsZ8g.JDtqV3gpYfjvs0zLpLiRbNGI9PjGLAosIMTsX8-eiCEg.PNG/I2xkLTW2OQYx4WG1tVkqmu1HRO_Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비비안 웨스트우드, 펑크의 전설 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/75352</link>
-            <guid>https://www.elle.co.kr/article/75352</guid>
-            <pubDate>Tue, 28 Feb 2023 03:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[펑크 정신으로 기억될 비비안 웨스트우드가 영원한 안식에 들었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/d787121a-d13d-404b-98f0-de9c88015fe3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[절제된 아름다움을 만나는 곳 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/75353</link>
             <guid>https://www.elle.co.kr/article/75353</guid>
@@ -1031,6 +1023,14 @@
             <pubDate>Mon, 27 Feb 2023 02:48:32 GMT</pubDate>
             <content:encoded><![CDATA[느낌 있는 데일리 룩 원해요? 그렇다면 선글라스는 선택이 아닌 필수입니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/9b1f7f32-465a-41a3-b519-3d8807adccfd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보부상의 가방 #빅백 #쇼핑리스트 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/75335</link>
+            <guid>https://www.elle.co.kr/article/75335</guid>
+            <pubDate>Tue, 28 Feb 2023 09:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[트렌드로 떠오른 수납력 끝판왕 빅 백을 주목하세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/dbf3c072-f7cb-4733-abfd-06ae64b0bcc5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 매일 땀 흘리는 모든 소녀들을 위하여! (엘르 코리아 ─ 뷰티)]]></title>
@@ -1097,6 +1097,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/52ebad2e-2e31-47ac-9e79-53556a390c72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS RM부터 뉴진스 하니까지, 2023 F/W 밀란 패션위크를 뒤흔든 K-셀럽 10 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/75379</link>
+            <guid>https://www.elle.co.kr/article/75379</guid>
+            <pubDate>Tue, 28 Feb 2023 09:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[등장만 했다 하면 쇼장 마비!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/0d2efbf9-b74a-416b-bf41-87e60b5ce02d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전원 부캐 플레이에 사이다 복수까지! '모범택시2'의 이유 있는 흥행 가도 #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/75377</link>
             <guid>https://www.elle.co.kr/article/75377</guid>
@@ -1148,12 +1156,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/cd6ac586-bb54-4814-8563-a5a991ff475a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[흑과 백의 대비 속 본연의 얼굴을 드러낸 키 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/75300</link>
-            <guid>https://www.elle.co.kr/article/75300</guid>
-            <pubDate>Mon, 27 Feb 2023 02:48:48 GMT</pubDate>
-            <content:encoded><![CDATA[여느 때처럼 솔직하게 자신을 보여줄 준비가 된 키의 태도 그리고 결.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/edcc1fa2-f698-4cca-a132-2ba2c00fab4b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스티븐 연 '썬더볼츠'로 MCU 합류, 히어로인지 빌런인지 알 수 없다고?! (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/75360</link>
+            <guid>https://www.elle.co.kr/article/75360</guid>
+            <pubDate>Mon, 27 Feb 2023 05:14:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/53d60d8e-17ea-4890-ae59-15af427dc2fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위험하고 위대한 케이트 블란쳇, 그녀는 어떻게 '리디아 타르’라는 괴물을 탄생시켰나_요주의여성 #81 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1208,13 +1215,6 @@
             <guid>https://www.elle.co.kr/article/75150</guid>
             <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/db72dbd1-0e10-40f8-aec0-688291e5a01d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초등학생이 그렸다는 밀라노 동계올림픽 마스코트 후보 2, 당신의 선택은? (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75148</link>
-            <guid>https://www.elle.co.kr/article/75148</guid>
-            <pubDate>Thu, 23 Feb 2023 05:14:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/65808114-3460-4c65-9bbb-c0086b8ee72f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1306,6 +1306,13 @@
             <content:encoded><![CDATA[데뷔 싱글 'RUSH'로 알리는 무한한 질주]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['더 글로리' 파트2, 시사회도 끝났다! 회수될 떡밥과 풀릴 서사들 미리보기.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/75435</link>
+            <guid>https://www.elle.co.kr/article/75435</guid>
+            <pubDate>Tue, 28 Feb 2023 09:15:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/13edf646-a8ff-4472-8e11-def42d44e4ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전원 부캐 플레이에 사이다 복수까지! '모범택시2'의 이유 있는 흥행 가도 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/75377</link>
             <guid>https://www.elle.co.kr/article/75377</guid>
@@ -1332,7 +1339,6 @@
             <link>https://www.elle.co.kr/article/75281</link>
             <guid>https://www.elle.co.kr/article/75281</guid>
             <pubDate>Thu, 23 Feb 2023 05:15:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/3796a19b-d267-4df4-b79a-64a9f96849b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우주를 사랑했던 만화가, 하늘의 별이 되다 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1381,12 +1387,6 @@
             <title><![CDATA['너의 이름은.' 뛰어 넘을까? '더 퍼스트 슬램덩크' 흥행에 단행본도 30년 만의 역주행! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/75018</link>
             <guid>https://www.elle.co.kr/article/75018</guid>
-            <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[쌍방 로맨스에 미스터리 사건 진범 찾기까지! '일타스캔들' 후반전 관전 포인트 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/74975</link>
-            <guid>https://www.elle.co.kr/article/74975</guid>
             <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
         </item>
         <item>
