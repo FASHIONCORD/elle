@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 18:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 19:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매일매일이 기록인 뉴진스 민지가 샤넬 월드에 착륙했다]]></title>
+            <link>https://www.elle.co.kr/article/75355</link>
+            <guid>https://www.elle.co.kr/article/75355</guid>
+            <pubDate>Wed, 01 Mar 2023 19:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[눈가와 입꼬리에 호기심을 가득 머금은 채, 이제 막 세상에 등장한 뉴진스 민지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/6bce77af-2ee8-401b-8523-bf68a560c180.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS RM부터 뉴진스 하니까지, 2023 F/W 밀란 패션위크를 뒤흔든 K-셀럽 10]]></title>
             <link>https://www.elle.co.kr/article/75379</link>
@@ -58,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/75337</guid>
             <pubDate>Mon, 27 Feb 2023 09:15:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/c361ee06-2c2d-46b1-892f-299df34d3c4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재석이 가장 많이 돈 쓰는 곳은 지인 경조사?! (ft. 명절 고기 100명)]]></title>
-            <link>https://www.elle.co.kr/article/75332</link>
-            <guid>https://www.elle.co.kr/article/75332</guid>
-            <pubDate>Mon, 27 Feb 2023 05:13:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/cd6ac586-bb54-4814-8563-a5a991ff475a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
