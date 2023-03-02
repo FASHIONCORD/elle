@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 18:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 19:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤승아가 추천하는 신당동 맛집 4]]></title>
+            <link>https://www.elle.co.kr/article/75385</link>
+            <guid>https://www.elle.co.kr/article/75385</guid>
+            <pubDate>Thu, 02 Mar 2023 19:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[한결 가벼워진 날씨에 주말 외출을 계획 중이라면 신당동을 추천합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/15480620-bbb4-4d29-a2eb-f743d36924b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[런던에 가면 놓치지 말아야 할 갤러리]]></title>
             <link>https://www.elle.co.kr/article/75374</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/75285</guid>
             <pubDate>Sun, 26 Feb 2023 02:56:47 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/7a09e2f9-08a0-4226-ba82-d4dcff6199a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["카톡 친구로 돼 있는데 누구시죠?" 카톡에 답했다가 큰일 날 수도 있다고?]]></title>
-            <link>https://www.elle.co.kr/article/75273</link>
-            <guid>https://www.elle.co.kr/article/75273</guid>
-            <pubDate>Sat, 25 Feb 2023 19:12:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/f180c807-e02b-4ea3-83b2-a0c0b5809f9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
