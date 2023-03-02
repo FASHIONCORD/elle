@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 07:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 08:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[간절기를 위한 하이넥 톱]]></title>
+            <link>https://www.elle.co.kr/article/74607</link>
+            <guid>https://www.elle.co.kr/article/74607</guid>
+            <pubDate>Thu, 02 Mar 2023 08:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[내 몸에 착! 따뜻하게 감싸 안는 하이넥 톱.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/46e9899e-0bce-49dc-84e6-761a3aeeb946.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보테가 베네타의 압도적인 존재감]]></title>
             <link>https://www.elle.co.kr/article/75364</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 01:05:27 GMT</pubDate>
             <content:encoded><![CDATA[파인 주얼리 브랜드 키린이 국내 첫 부티크를 오픈했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/56a3e0d9-e3c2-4bc9-bb8c-4a645933019a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경계의 서 있는 디올]]></title>
-            <link>https://www.elle.co.kr/article/75306</link>
-            <guid>https://www.elle.co.kr/article/75306</guid>
-            <pubDate>Mon, 27 Feb 2023 15:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[지금 여기에서 느끼는 상호작용.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/8ff64b11-f14e-43c1-8dce-8ced32410d82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 07:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 08:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDJfNjEg/MDAxNjYyMTAwOTY1MDc0.L_vdQqL4L6t3J2r4FIP3OT8OzzNcg0sQzdeo_rzhsZ8g.JDtqV3gpYfjvs0zLpLiRbNGI9PjGLAosIMTsX8-eiCEg.PNG/I2xkLTW2OQYx4WG1tVkqmu1HRO_Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[간절기를 위한 하이넥 톱 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/74607</link>
+            <guid>https://www.elle.co.kr/article/74607</guid>
+            <pubDate>Thu, 02 Mar 2023 08:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[내 몸에 착! 따뜻하게 감싸 안는 하이넥 톱.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/46e9899e-0bce-49dc-84e6-761a3aeeb946.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보테가 베네타의 압도적인 존재감 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/75364</link>
             <guid>https://www.elle.co.kr/article/75364</guid>
@@ -1023,14 +1031,6 @@
             <pubDate>Tue, 28 Feb 2023 01:05:27 GMT</pubDate>
             <content:encoded><![CDATA[파인 주얼리 브랜드 키린이 국내 첫 부티크를 오픈했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/56a3e0d9-e3c2-4bc9-bb8c-4a645933019a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경계의 서 있는 디올 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/75306</link>
-            <guid>https://www.elle.co.kr/article/75306</guid>
-            <pubDate>Mon, 27 Feb 2023 15:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[지금 여기에서 느끼는 상호작용.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/8ff64b11-f14e-43c1-8dce-8ced32410d82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄 향기 물씬! 향수부터 스킨케어, 립까지 2월 신제품 정보.zip #갓구운신상 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1394,7 +1394,7 @@
             <guid>https://www.elle.co.kr/article/75421</guid>
             <pubDate>Wed, 01 Mar 2023 02:59:34 GMT</pubDate>
             <content:encoded><![CDATA[한국 관람객도 바나나를 떼어먹을까? 혹은 어떤 죽음을 떠올리게 하는 대리석 앞에 가만히 묵념...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/f3705b12-5efb-4f86-9966-f2113cccebe0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/f3705b12-5efb-4f86-9966-f2113cccebe0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삶과 예술은 함께여야 한다! 사진가 잭 영의 공공임대주택 휴머니즘 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
