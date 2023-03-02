@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 11:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 12:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/19/e8d79c7a-7c5a-4033-8949-562a450c0d32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[패션위크를 찾은 스타들의 아름다운 순간 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/75458</link>
+            <guid>https://www.elle.co.kr/article/75458</guid>
+            <pubDate>Thu, 02 Mar 2023 12:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[멋진 모습으로 해외 패션쇼장에 나타난 국내 스타들을 모아봤습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/11ba1309-8e38-43e5-b705-0752843982e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['더 글로리' 파트2, 시사회도 끝났다! 회수될 떡밥과 풀릴 서사들 미리보기.txt (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/75435</link>
             <guid>https://www.elle.co.kr/article/75435</guid>
@@ -1146,13 +1154,6 @@
             <guid>https://www.elle.co.kr/article/75377</guid>
             <pubDate>Mon, 27 Feb 2023 09:15:58 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/5ccd6b68-a00a-47c7-b5fd-da520728e166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스티븐 연 '썬더볼츠'로 MCU 합류, 히어로인지 빌런인지 알 수 없다고?! (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/75360</link>
-            <guid>https://www.elle.co.kr/article/75360</guid>
-            <pubDate>Mon, 27 Feb 2023 05:14:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/53d60d8e-17ea-4890-ae59-15af427dc2fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전원 부캐 플레이에 사이다 복수까지! '모범택시2'의 이유 있는 흥행 가도 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
