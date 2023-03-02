@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 23:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 01:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤승아가 추천하는 신당동 맛집 4]]></title>
+            <link>https://www.elle.co.kr/article/75385</link>
+            <guid>https://www.elle.co.kr/article/75385</guid>
+            <pubDate>Thu, 02 Mar 2023 01:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[한결 가벼워진 날씨에 주말 외출을 계획 중이라면 신당동을 추천합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/15480620-bbb4-4d29-a2eb-f743d36924b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매일매일이 기록인 뉴진스 민지가 샤넬 월드에 착륙했다]]></title>
             <link>https://www.elle.co.kr/article/75355</link>
@@ -59,13 +67,6 @@
             <pubDate>Mon, 27 Feb 2023 10:16:41 GMT</pubDate>
             <content:encoded><![CDATA[찰나의 행복과 영감을 꽉 붙잡는, 십화점 &amp; 데이지 신드롬 대표 한범수.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/21e83c85-802a-458b-9147-d5422d15ffed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형제 아닌가요? 황민현X박서준, 너무 닮아서 생긴 황당 에피소드!]]></title>
-            <link>https://www.elle.co.kr/article/75337</link>
-            <guid>https://www.elle.co.kr/article/75337</guid>
-            <pubDate>Mon, 27 Feb 2023 09:15:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/c361ee06-2c2d-46b1-892f-299df34d3c4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
