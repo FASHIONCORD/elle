@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 07:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 08:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1483,6 +1483,13 @@
             <content:encoded><![CDATA[모든 벽이 자신의 그림으로 가득 찬 나탈리 레테의 별장에 가다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[지금 아니면 안돼! 논산부터 양평까지, 제철 맞은 전국 딸기 축제 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/75430</link>
+            <guid>https://www.elle.co.kr/article/75430</guid>
+            <pubDate>Fri, 03 Mar 2023 08:18:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/7b035508-5375-480a-8b01-33963eec40a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[직접 재료 골라 만드는 파스타와 재밌게 먹는 채소! 원조 핫플 신촌-연남-망원 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/75405</link>
             <guid>https://www.elle.co.kr/article/75405</guid>
@@ -1534,13 +1541,6 @@
             <guid>https://www.elle.co.kr/article/75333</guid>
             <pubDate>Tue, 28 Feb 2023 01:06:56 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/d6728122-99aa-4265-8703-a408d5fca4e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Y2K 하이틴들은 이렇게 놀았다? 전국 레트로 감성 카페 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/75326</link>
-            <guid>https://www.elle.co.kr/article/75326</guid>
-            <pubDate>Mon, 27 Feb 2023 19:13:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/99949bcd-d0d8-4fa9-8c70-e1f0761ff1f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과연 직장이 형벌일까? '조용한 퇴사'의 진실_돈쓸신잡 #86 (엘르 코리아 ─ 소사이어티)]]></title>
