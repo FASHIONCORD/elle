@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 08:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 09:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유]]></title>
+            <link>https://www.elle.co.kr/article/75387</link>
+            <guid>https://www.elle.co.kr/article/75387</guid>
+            <pubDate>Fri, 03 Mar 2023 09:15:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/6d04b1cc-47ee-49ee-bba4-b3ba7c3cce98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삶과 예술은 함께여야 한다! 사진가 잭 영의 공공임대주택 휴머니즘]]></title>
             <link>https://www.elle.co.kr/article/72996</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/75281</guid>
             <pubDate>Mon, 27 Feb 2023 09:15:40 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/3796a19b-d267-4df4-b79a-64a9f96849b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아티스틱 스페이스]]></title>
-            <link>https://www.elle.co.kr/article/73000</link>
-            <guid>https://www.elle.co.kr/article/73000</guid>
-            <pubDate>Mon, 27 Feb 2023 09:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[엘르 데코가 주목한 예술적인 공간 4.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/7985be61-77bf-4634-9899-df54fecfe546.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

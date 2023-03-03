@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 08:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 09:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/19/8764ec89-779f-4bad-a6db-35f95123a482.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도겸이 가쁜 숨을 고르고, 깊고 느리게 호흡하며 눈을 마주쳐 오던 순간 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/75480</link>
+            <guid>https://www.elle.co.kr/article/75480</guid>
+            <pubDate>Fri, 03 Mar 2023 09:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴과 부석순, 도겸은 뭘하든 자신있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/18f54710-55ca-45ef-8b34-91376c383a2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[섭식장애 극복! 12kg 감량에도 건강 유지 중인 고은아의 자기 관리 노하우 #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/75472</link>
             <guid>https://www.elle.co.kr/article/75472</guid>
@@ -1147,7 +1155,7 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/9f7fa2f4-71a4-45a3-8715-6a18466c8e1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유 (엘르 코리아 ─ 스타)]]></title>
+            <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/75387</link>
             <guid>https://www.elle.co.kr/article/75387</guid>
             <pubDate>Tue, 28 Feb 2023 01:06:18 GMT</pubDate>
@@ -1205,14 +1213,6 @@
             <guid>https://www.elle.co.kr/article/75281</guid>
             <pubDate>Thu, 23 Feb 2023 05:15:00 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/3796a19b-d267-4df4-b79a-64a9f96849b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아티스틱 스페이스 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/73000</link>
-            <guid>https://www.elle.co.kr/article/73000</guid>
-            <pubDate>Tue, 21 Feb 2023 20:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[엘르 데코가 주목한 예술적인 공간 4.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/7985be61-77bf-4634-9899-df54fecfe546.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1304,6 +1304,13 @@
             <content:encoded><![CDATA[데뷔 싱글 'RUSH'로 알리는 무한한 질주]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[드디어 다 모였다! '환연2' MC들X출연진 회식 현장에서 벌어진 일.jpg (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/75525</link>
+            <guid>https://www.elle.co.kr/article/75525</guid>
+            <pubDate>Fri, 03 Mar 2023 09:15:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/c1edb11a-40c7-426a-9e27-f9bd83b3235d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['지옥2' 캐스팅 최종 확정! 벌써 과몰입 시작한 새 주인공 김성철 반응.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/75511</link>
             <guid>https://www.elle.co.kr/article/75511</guid>
@@ -1329,7 +1336,6 @@
             <link>https://www.elle.co.kr/article/75377</link>
             <guid>https://www.elle.co.kr/article/75377</guid>
             <pubDate>Mon, 27 Feb 2023 09:15:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/5ccd6b68-a00a-47c7-b5fd-da520728e166.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스티븐 연 '썬더볼츠'로 MCU 합류, 히어로인지 빌런인지 알 수 없다고?! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1379,12 +1385,6 @@
             <title><![CDATA[이효리, 본격 연예 활동 시작? 안테나 계약 직후 내놓는 새 여자 예능 멤버들.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/75069</link>
             <guid>https://www.elle.co.kr/article/75069</guid>
-            <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['재벌집' 진양철 회장님 이성민! 드라마 깜짝 결말에 뭐라고 했기에? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/75055</link>
-            <guid>https://www.elle.co.kr/article/75055</guid>
             <pubDate>Tue, 21 Feb 2023 13:29:14 GMT</pubDate>
         </item>
         <item>
