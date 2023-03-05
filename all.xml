@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 18:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 19:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDJfNjEg/MDAxNjYyMTAwOTY1MDc0.L_vdQqL4L6t3J2r4FIP3OT8OzzNcg0sQzdeo_rzhsZ8g.JDtqV3gpYfjvs0zLpLiRbNGI9PjGLAosIMTsX8-eiCEg.PNG/I2xkLTW2OQYx4WG1tVkqmu1HRO_Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[테이블에 오른 까르띠에의 뉴 백 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/75483</link>
+            <guid>https://www.elle.co.kr/article/75483</guid>
+            <pubDate>Sun, 05 Mar 2023 19:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 떠난 테이블, 위태롭지만 담대하게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/f389c938-a85e-4057-a16b-ab0ff7b5ea13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쿠튀르 에피소드 PART: 2 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/75481</link>
             <guid>https://www.elle.co.kr/article/75481</guid>
@@ -1023,14 +1031,6 @@
             <pubDate>Thu, 02 Mar 2023 08:17:47 GMT</pubDate>
             <content:encoded><![CDATA[내 몸에 착! 따뜻하게 감싸 안는 하이넥 톱.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/46e9899e-0bce-49dc-84e6-761a3aeeb946.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보테가 베네타의 압도적인 존재감 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/75364</link>
-            <guid>https://www.elle.co.kr/article/75364</guid>
-            <pubDate>Thu, 02 Mar 2023 01:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[굉음이 울리던 공간을 가득 채운 고요한 카리스마.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/0b2c889f-408d-4442-b78f-ccc8259ccaa2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코코 마드모아젤의 새로운 모델, 휘트니 픽 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/57f9f60d-3db4-4370-ac94-20d67ebcef2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[젠데이아보다 나이 많은 드레스? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/75496</link>
+            <guid>https://www.elle.co.kr/article/75496</guid>
+            <pubDate>Sun, 05 Mar 2023 19:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[레드카펫 위 절대강자 젠데이아 콜먼의 드레스 고르는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/83a0ce32-a990-4af3-b1a3-43fe693137d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재출시 하자마자 판매 1위, '김혜자 도시락'에 담긴 '혜자로운' 철학 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/75494</link>
             <guid>https://www.elle.co.kr/article/75494</guid>
@@ -1146,14 +1154,6 @@
             <guid>https://www.elle.co.kr/article/75459</guid>
             <pubDate>Thu, 02 Mar 2023 19:11:55 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/c55a5cd8-0733-4f86-9651-25610055edf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션위크를 찾은 스타들의 아름다운 순간 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/75458</link>
-            <guid>https://www.elle.co.kr/article/75458</guid>
-            <pubDate>Thu, 02 Mar 2023 12:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[멋진 모습으로 해외 패션쇼장에 나타난 국내 스타들을 모아봤습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/11ba1309-8e38-43e5-b705-0752843982e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['더 글로리' 파트2, 시사회도 끝났다! 회수될 떡밥과 풀릴 서사들 미리보기.txt (엘르 코리아 ─ 컬쳐)]]></title>
