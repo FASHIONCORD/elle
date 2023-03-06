@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 18:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 19:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDJfNjEg/MDAxNjYyMTAwOTY1MDc0.L_vdQqL4L6t3J2r4FIP3OT8OzzNcg0sQzdeo_rzhsZ8g.JDtqV3gpYfjvs0zLpLiRbNGI9PjGLAosIMTsX8-eiCEg.PNG/I2xkLTW2OQYx4WG1tVkqmu1HRO_Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생경하게 마주한 로저비비에의 다양한 장면 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/75537</link>
+            <guid>https://www.elle.co.kr/article/75537</guid>
+            <pubDate>Mon, 06 Mar 2023 19:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 계절을 수놓은 백과 슈즈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/8c1b7740-1ec2-438d-bc78-d8a5d37822ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[개강했는데 뭐 입지? 스타일리시한 캠퍼스 룩 5 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/75559</link>
             <guid>https://www.elle.co.kr/article/75559</guid>
@@ -1023,14 +1031,6 @@
             <pubDate>Sun, 05 Mar 2023 02:58:30 GMT</pubDate>
             <content:encoded><![CDATA[2023 S/S 오트 쿠튀르 컬렉션에서는 무슨일이?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/bdc63f19-2cd7-46ca-8a0d-9798e9865ecb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동시대성을 담은 구찌 2023 가을/겨울 여성 컬렉션 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/75465</link>
-            <guid>https://www.elle.co.kr/article/75465</guid>
-            <pubDate>Sat, 04 Mar 2023 02:43:18 GMT</pubDate>
-            <content:encoded><![CDATA[한 세기에 걸친 구찌의 아카이브를 2023년으로 소환하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/6e613015-08d8-4dd8-b122-5fd04a14e465.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이사배의 새내기 메이크업 HOW TO (엘르 코리아 ─ 뷰티)]]></title>
@@ -1156,6 +1156,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/2cada82b-5a7c-4c3f-b4ae-e9fea6c05bb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['지옥2' 캐스팅 최종 확정! 벌써 과몰입 시작한 새 주인공 김성철 반응.txt (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/75511</link>
+            <guid>https://www.elle.co.kr/article/75511</guid>
+            <pubDate>Fri, 03 Mar 2023 06:25:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/6db9f500-278c-4c6a-b421-bf0d6934aa54.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마우리치오 카텔란에게 물었다 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/75421</link>
             <guid>https://www.elle.co.kr/article/75421</guid>
@@ -1206,13 +1213,6 @@
             <pubDate>Mon, 27 Feb 2023 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[세계적인 갤러리와 갤러리가 주목한 아티스트를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/8e72ea29-94b2-4325-ad40-9c659025f6f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스티븐 연 '썬더볼츠'로 MCU 합류, 히어로인지 빌런인지 알 수 없다고?! (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75360</link>
-            <guid>https://www.elle.co.kr/article/75360</guid>
-            <pubDate>Mon, 27 Feb 2023 05:14:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/53d60d8e-17ea-4890-ae59-15af427dc2fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
