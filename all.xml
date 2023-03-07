@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 07:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 08:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1483,6 +1483,13 @@
             <content:encoded><![CDATA[모든 벽이 자신의 그림으로 가득 찬 나탈리 레테의 별장에 가다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘 저녁 고? 비주얼부터 메뉴까지 난리난 전국 이색 삼겹살 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/75523</link>
+            <guid>https://www.elle.co.kr/article/75523</guid>
+            <pubDate>Tue, 07 Mar 2023 08:20:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/a4c3dcd4-6982-4a59-b237-ccee5efe6455.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재출시 하자마자 판매 1위, '김혜자 도시락'에 담긴 '혜자로운' 철학 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/75494</link>
             <guid>https://www.elle.co.kr/article/75494</guid>
@@ -1531,14 +1538,6 @@
             <guid>https://www.elle.co.kr/article/75386</guid>
             <pubDate>Fri, 03 Mar 2023 02:58:35 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/7cb28933-58cd-4581-a660-b46345cd5626.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아가 추천하는 신당동 맛집 4 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/75385</link>
-            <guid>https://www.elle.co.kr/article/75385</guid>
-            <pubDate>Thu, 02 Mar 2023 01:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[한결 가벼워진 날씨에 주말 외출을 계획 중이라면 신당동을 추천합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/15480620-bbb4-4d29-a2eb-f743d36924b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김구·윤동주 굿즈부터 무궁화 텀블러까지! 삼일절 맞이 유통업계 이색 캠페인 모음 (엘르 코리아 ─ 소사이어티)]]></title>
