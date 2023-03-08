@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 18:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 19:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마침내 얻은 자유? 우리의 성취에 질문을 던지다]]></title>
+            <link>https://www.elle.co.kr/article/75574</link>
+            <guid>https://www.elle.co.kr/article/75574</guid>
+            <pubDate>Wed, 08 Mar 2023 19:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[국제 여성의 날을 위한 포멜라토 포 우먼 캠페인. 제인 폰다, 파올라 에고누, 조이 킹, 나심 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/6eb53c9a-b082-4dc3-b7bd-8b3ba5f4b898.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트렌드의 정점 브레이드 헤어!]]></title>
             <link>https://www.elle.co.kr/article/75615</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Mar 2023 09:15:06 GMT</pubDate>
             <content:encoded><![CDATA[한혜진과 로운은 이미 다녀갔습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/8b87ef98-e324-41e0-8d85-c64edf5240f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄을 맞은 구찌 하이 주얼리의 가든]]></title>
-            <link>https://www.elle.co.kr/article/75536</link>
-            <guid>https://www.elle.co.kr/article/75536</guid>
-            <pubDate>Tue, 07 Mar 2023 02:57:37 GMT</pubDate>
-            <content:encoded><![CDATA[상상이 현실이 되는 마법, 구찌 하이 주얼리가 선보이는 환희의 정원.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/52f1f2f0-d1ac-4f0f-9a24-5e32aa8d4d16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
