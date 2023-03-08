@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 09:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 10:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽉 닫힌 결말! 전도연X정경호 쌍방 프러포즈로 마무리한 '일타스캔들' 명장면 2 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/75586</link>
+            <guid>https://www.elle.co.kr/article/75586</guid>
+            <pubDate>Wed, 08 Mar 2023 10:16:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/ff73d9a4-2d02-4ba5-b413-8b48c01d21c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사극 촬영 아니었어? '돌끝맘'된 원걸 혜림 가족의 돌 잔치 화보.jpg]]></title>
             <link>https://www.elle.co.kr/article/75572</link>
@@ -57,14 +64,6 @@
             <guid>https://www.elle.co.kr/article/75511</guid>
             <pubDate>Mon, 06 Mar 2023 04:16:55 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/6db9f500-278c-4c6a-b421-bf0d6934aa54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠데이아보다 나이 많은 드레스?]]></title>
-            <link>https://www.elle.co.kr/article/75496</link>
-            <guid>https://www.elle.co.kr/article/75496</guid>
-            <pubDate>Sun, 05 Mar 2023 19:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[레드카펫 위 절대강자 젠데이아 콜먼의 드레스 고르는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/83a0ce32-a990-4af3-b1a3-43fe693137d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
