@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 03:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 04:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이르면 다음 달 말부터!? 지하철과 버스에서도 'NO 마스크' 가능할까]]></title>
+            <link>https://www.elle.co.kr/article/75557</link>
+            <guid>https://www.elle.co.kr/article/75557</guid>
+            <pubDate>Wed, 08 Mar 2023 04:18:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/f8c698a0-3e63-46c5-a08c-2b6b82acf05c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[놓치면 후회하는 쏠쏠한 재테크, 사회초년생을 위한 금융 상품 2_돈쓸신잡 #87]]></title>
             <link>https://www.elle.co.kr/article/75464</link>
@@ -56,13 +63,6 @@
             <guid>https://www.elle.co.kr/article/75285</guid>
             <pubDate>Tue, 28 Feb 2023 13:25:13 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/7a09e2f9-08a0-4226-ba82-d4dcff6199a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과거로 돌아간다면 직업 바꾸겠다는 직장인들! 선호 직업 1위는? (ft.유튜버 아님)]]></title>
-            <link>https://www.elle.co.kr/article/75274</link>
-            <guid>https://www.elle.co.kr/article/75274</guid>
-            <pubDate>Tue, 28 Feb 2023 12:28:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/ff5d4c66-4491-443c-80a3-9386121e9154.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
