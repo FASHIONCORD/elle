@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 22:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 01:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가벼워진 옷차림에도 놓칠 수 없는 아이템은? 레그 워머 스타일링 6]]></title>
+            <link>https://www.elle.co.kr/article/75630</link>
+            <guid>https://www.elle.co.kr/article/75630</guid>
+            <pubDate>Thu, 09 Mar 2023 01:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[올봄 ‘핫’ 걸 필수템인 레그 워머를 기억하세요. 현아부터 카즈하까지 스타일 아이콘들의 레그...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/35eb8ec6-2f27-49ef-9fe6-a7bee1b69c61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마침내 얻은 자유? 우리의 성취에 질문을 던지다]]></title>
             <link>https://www.elle.co.kr/article/75574</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Mar 2023 09:15:06 GMT</pubDate>
             <content:encoded><![CDATA[모델이 스마트폰에 시선을 고정한 채 워킹을 선보인 이유는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/2b47dba9-ca8f-4f2f-b677-3ad9170ee1ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다음은 없어요! 미루지 말고 다녀올 패션 팝업.]]></title>
-            <link>https://www.elle.co.kr/article/75585</link>
-            <guid>https://www.elle.co.kr/article/75585</guid>
-            <pubDate>Tue, 07 Mar 2023 09:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[한혜진과 로운은 이미 다녀갔습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/8b87ef98-e324-41e0-8d85-c64edf5240f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
