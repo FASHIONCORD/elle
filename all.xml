@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 01:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 02:52:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1154,6 +1154,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/6db9f500-278c-4c6a-b421-bf0d6934aa54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[슛! 여고농구단 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/75573</link>
+            <guid>https://www.elle.co.kr/article/75573</guid>
+            <pubDate>Thu, 09 Mar 2023 02:51:47 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;슬램덩크&gt;에 북산고가 있다면? 한국에는 수원여고 농구단이 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/dd0867f5-7f04-465a-ac60-5bb127f83608.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꽉 닫힌 결말! 전도연X정경호 쌍방 프러포즈로 마무리한 '일타스캔들' 명장면 2 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/75586</link>
             <guid>https://www.elle.co.kr/article/75586</guid>
@@ -1203,13 +1211,6 @@
             <guid>https://www.elle.co.kr/article/75448</guid>
             <pubDate>Tue, 28 Feb 2023 13:24:41 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/1f8b2c14-1f2b-46a9-981b-7a3af9a23df0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 파트2, 시사회도 끝났다! 회수될 떡밥과 풀릴 서사들 미리보기.txt (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75435</link>
-            <guid>https://www.elle.co.kr/article/75435</guid>
-            <pubDate>Tue, 28 Feb 2023 09:15:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/13edf646-a8ff-4472-8e11-def42d44e4ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1385,6 +1386,14 @@
             <content:encoded><![CDATA[정점에 오른 '마에스트로'의 추락. 'TAR 타르' 속 위험하고 위대한 케이트 블란쳇에 대하여.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이원우의 새  개인전 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/75611</link>
+            <guid>https://www.elle.co.kr/article/75611</guid>
+            <pubDate>Thu, 09 Mar 2023 02:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[조각과 퍼포먼스, 영상, 회화. 장르를 파괴하고 마음이 닿는 대로 창작하는 이원우 작가.  개인...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/1a289393-eebf-42ef-baee-3fdad2a673b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이광호가 어떤 제약 없이 무한한 상상을 시작할 때 #더메이커스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/75648</link>
             <guid>https://www.elle.co.kr/article/75648</guid>
@@ -1414,7 +1423,6 @@
             <guid>https://www.elle.co.kr/article/75374</guid>
             <pubDate>Mon, 27 Feb 2023 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[세계적인 갤러리와 갤러리가 주목한 아티스트를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/8e72ea29-94b2-4325-ad40-9c659025f6f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박서보, 한 줄 이라도 더 긋고 싶은 아흔살 화백이 폐암 판정을 두고 한 다짐 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1471,13 +1479,6 @@
             <guid>https://www.elle.co.kr/article/72987</guid>
             <pubDate>Thu, 09 Feb 2023 21:19:52 GMT</pubDate>
             <content:encoded><![CDATA[렌더링 디자인은 이제 다른 차원의 영감을 선사하는 원천이 되고 있다. 재해석한 70년대 색채와...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슬기가 다녀간 ‘핫’한 전시는 어디? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/74848</link>
-            <guid>https://www.elle.co.kr/article/74848</guid>
-            <pubDate>Thu, 09 Feb 2023 21:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[예술적 감각이 뛰어난 슬기가 찾은 전시 두 곳을 확인하고 느낌 있는 인증샷을 남겨 보세요.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['미국 3대 버거' 파이브가이즈 국내 1호점 공사 시작! 오픈은 언제, 어디서? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1538,6 +1539,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/01b5a5bf-9490-4eea-9cff-1f658c6a186a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스] 운전자의 기쁨과 기쁨 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/75576</link>
+            <guid>https://www.elle.co.kr/article/75576</guid>
+            <pubDate>Thu, 09 Mar 2023 02:52:45 GMT</pubDate>
+            <content:encoded><![CDATA[나를 운전자로 만든 것은 우정과 용기였다. 본격 운전영업기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/ee80c80c-2105-4db4-9ef7-a180e47f5ed5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이르면 다음 달 말부터!? 지하철과 버스에서도 'NO 마스크' 가능할까 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/75557</link>
             <guid>https://www.elle.co.kr/article/75557</guid>
@@ -1586,13 +1595,6 @@
             <guid>https://www.elle.co.kr/article/75298</guid>
             <pubDate>Thu, 02 Mar 2023 05:15:09 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/95796b89-7114-49ce-bcd6-be97208befed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게...맞아? 통신3사가 3월에 주는 데이터 30GB, 도움이 될까 (feat. 나이 체크 필수) (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/75285</link>
-            <guid>https://www.elle.co.kr/article/75285</guid>
-            <pubDate>Sun, 26 Feb 2023 02:56:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/7a09e2f9-08a0-4226-ba82-d4dcff6199a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
