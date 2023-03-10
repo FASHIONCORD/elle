@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 03:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 04:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이광호가 어떤 제약 없이 무한한 상상을 시작할 때 #더메이커스]]></title>
+            <link>https://www.elle.co.kr/article/75648</link>
+            <guid>https://www.elle.co.kr/article/75648</guid>
+            <pubDate>Fri, 10 Mar 2023 04:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/48f7819a-0d54-48a9-a507-6bc53f416a40.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[50년 전에 찾은 자유를 뺏겼다? 세계 여성의 날에 나온 이 영화를 꼭 봐야 하는 이유]]></title>
             <link>https://www.elle.co.kr/article/75647</link>
@@ -57,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/75525</guid>
             <pubDate>Mon, 06 Mar 2023 23:15:05 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/c1edb11a-40c7-426a-9e27-f9bd83b3235d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['지옥2' 캐스팅 최종 확정! 벌써 과몰입 시작한 새 주인공 김성철 반응.txt]]></title>
-            <link>https://www.elle.co.kr/article/75511</link>
-            <guid>https://www.elle.co.kr/article/75511</guid>
-            <pubDate>Mon, 06 Mar 2023 19:12:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/6db9f500-278c-4c6a-b421-bf0d6934aa54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
