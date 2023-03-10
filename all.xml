@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 23:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 01:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1406,7 +1406,7 @@
             <guid>https://www.elle.co.kr/article/75648</guid>
             <pubDate>Wed, 08 Mar 2023 04:18:04 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/48f7819a-0d54-48a9-a507-6bc53f416a40.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/48f7819a-0d54-48a9-a507-6bc53f416a40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마우리치오 카텔란에게 물었다 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1480,6 +1480,13 @@
             <content:encoded><![CDATA[‘아파트먼트풀’은 경험을 채우며 진정한 취향과 마주할 수 있는 공간이다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나랑 노랑! 노란색 아이폰14 출시, 애플페이 사용 가능할까? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/75674</link>
+            <guid>https://www.elle.co.kr/article/75674</guid>
+            <pubDate>Fri, 10 Mar 2023 01:08:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/833e0bfe-061d-4095-82b1-a37e45968726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[벌써 50살 된 '장수 과자' 죠리퐁! 이색 변신 비주얼 모음 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/75631</link>
             <guid>https://www.elle.co.kr/article/75631</guid>
@@ -1528,13 +1535,6 @@
             <guid>https://www.elle.co.kr/article/75523</guid>
             <pubDate>Tue, 07 Mar 2023 08:20:20 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/a4c3dcd4-6982-4a59-b237-ccee5efe6455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재출시 하자마자 판매 1위, '김혜자 도시락'에 담긴 '혜자로운' 철학 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/75494</link>
-            <guid>https://www.elle.co.kr/article/75494</guid>
-            <pubDate>Fri, 03 Mar 2023 20:14:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/6e32f3c0-b606-4bfe-869b-00bcd836f858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023년 세계 여성의 날 슬로건, '공정을 포용하라'의 진짜 의미 #EmbraceEquity (엘르 코리아 ─ 소사이어티)]]></title>
