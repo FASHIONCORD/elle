@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 19:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 20:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/7262c057-f501-41d0-ac8f-98d37f37956c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크부터 뉴진스까지, 화제 그 자체였던 2023 F/W 파리 패션위크 속 K-셀럽 패션 10 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/75670</link>
+            <guid>https://www.elle.co.kr/article/75670</guid>
+            <pubDate>Fri, 10 Mar 2023 19:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕, 런던, 밀란에 이어 마지막 파리까지 접수!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/5bd09672-d065-4c29-bf41-a9b8279834c9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[청바지 핏부터 액션 연기까지 완벽 그 자체! 전도연의 체형X체력 관리 노하우 #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/75666</link>
             <guid>https://www.elle.co.kr/article/75666</guid>
@@ -1144,14 +1152,6 @@
             <guid>https://www.elle.co.kr/article/75570</guid>
             <pubDate>Mon, 06 Mar 2023 04:17:24 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/bc1f2eba-a5b4-43e6-bce9-d9c641b2cfb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개강했는데 뭐 입지? 스타일리시한 캠퍼스 룩 5 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/75559</link>
-            <guid>https://www.elle.co.kr/article/75559</guid>
-            <pubDate>Mon, 06 Mar 2023 09:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[옷 잘 입는 스타들의 사복 패션에서 멋스러운 캠퍼스 룩의 힌트를 얻어보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/27a4f85e-d737-4f2a-9173-ca3ac4ed11fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이광호가 어떤 제약 없이 무한한 상상을 시작할 때 #더메이커스 (엘르 코리아 ─ 컬쳐)]]></title>
