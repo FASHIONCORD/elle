@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 18:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 19:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청바지 핏부터 액션 연기까지 완벽 그 자체! 전도연의 체형X체력 관리 노하우 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/75666</link>
+            <guid>https://www.elle.co.kr/article/75666</guid>
+            <pubDate>Sun, 12 Mar 2023 19:10:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/3889f5c4-30f2-4160-a167-9d9f2a4939b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트렌드의 정점 브레이드 헤어!]]></title>
             <link>https://www.elle.co.kr/article/75615</link>
@@ -61,14 +68,6 @@
             <pubDate>Mon, 06 Mar 2023 08:18:46 GMT</pubDate>
             <content:encoded><![CDATA[실패 확률 제로! 메이크업 초심자도 따라할 수 있는 메이크업 튜토리얼을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/8ca7bae5-7bb9-4d05-a17e-9be18a41b3b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코코 마드모아젤의 새로운 모델, 휘트니 픽]]></title>
-            <link>https://www.elle.co.kr/article/75384</link>
-            <guid>https://www.elle.co.kr/article/75384</guid>
-            <pubDate>Sat, 04 Mar 2023 14:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[코코 마드모아젤의 새로운 시대가 열렸다. 가십걸 리부트에서 주연으로 활약한 휘트니 픽(Whitne...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/b473e579-f087-4648-973f-b032d4f6b446.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
