@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 14:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 15:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["맞는 게 나아, 때리는 게 나아?" 딸의 질문에서 시작한 '더 글로리', 김은숙이 내린 멋진 결론]]></title>
+            <link>https://www.elle.co.kr/article/75692</link>
+            <guid>https://www.elle.co.kr/article/75692</guid>
+            <pubDate>Sun, 12 Mar 2023 15:13:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/05e2764c-795f-4ff8-a780-8582500df031.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이원우의 새  개인전]]></title>
             <link>https://www.elle.co.kr/article/75611</link>
@@ -58,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/75586</guid>
             <pubDate>Wed, 08 Mar 2023 08:18:09 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/ff73d9a4-2d02-4ba5-b413-8b48c01d21c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장국영 20주기 맞는 2023년, 올해는 이 작품이 재개봉한다]]></title>
-            <link>https://www.elle.co.kr/article/75570</link>
-            <guid>https://www.elle.co.kr/article/75570</guid>
-            <pubDate>Wed, 08 Mar 2023 04:17:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/bc1f2eba-a5b4-43e6-bce9-d9c641b2cfb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
