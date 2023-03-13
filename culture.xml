@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 05:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 06:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김광현 VS 다르빗슈 유, 물러설 곳이 없는 WBC 한일전 라인업]]></title>
+            <link>https://www.elle.co.kr/article/75709</link>
+            <guid>https://www.elle.co.kr/article/75709</guid>
+            <pubDate>Mon, 13 Mar 2023 06:18:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/37259460-b78e-4b94-8643-e24c48caf795.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑과 낭만에서 시작되는 루크 에드워드 홀의 미학]]></title>
             <link>https://www.elle.co.kr/article/75649</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/75596</guid>
             <pubDate>Thu, 09 Mar 2023 11:13:15 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/21ed0bb3-f368-4430-97c6-9b1be43c7850.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슛! 여고농구단]]></title>
-            <link>https://www.elle.co.kr/article/75573</link>
-            <guid>https://www.elle.co.kr/article/75573</guid>
-            <pubDate>Thu, 09 Mar 2023 02:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;슬램덩크&gt;에 북산고가 있다면? 한국에는 수원여고 농구단이 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/dd0867f5-7f04-465a-ac60-5bb127f83608.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
