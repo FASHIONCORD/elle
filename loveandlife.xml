@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 07:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 08:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이태원은 지금] 이태원의 만남의 장을 연 권혁인, 최장민]]></title>
+            <link>https://www.elle.co.kr/article/75669</link>
+            <guid>https://www.elle.co.kr/article/75669</guid>
+            <pubDate>Tue, 14 Mar 2023 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[초등학교 동창인 두 사람은 2013년부터 디지털 매거진 &lt;비즐라&gt;를 만들어 언더그라운드 아티스트와...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/8d23c3de-1ec9-448b-b0a2-7b65351f61f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이태원은 지금] 이태원으로 출근하는 사람, 한국이 좋아서  온 사람]]></title>
             <link>https://www.elle.co.kr/article/75702</link>
@@ -58,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/75675</guid>
             <pubDate>Fri, 10 Mar 2023 07:14:38 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/b2d9e5a8-1398-4b8c-bbf8-6a2f55ac44c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나랑 노랑! 노란색 아이폰14 출시, 애플페이 사용 가능할까?]]></title>
-            <link>https://www.elle.co.kr/article/75674</link>
-            <guid>https://www.elle.co.kr/article/75674</guid>
-            <pubDate>Fri, 10 Mar 2023 01:08:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/833e0bfe-061d-4095-82b1-a37e45968726.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
