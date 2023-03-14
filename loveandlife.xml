@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 02:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 03:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이태원은 지금] 이태원으로 출근하는 사람, 한국이 좋아서  온 사람]]></title>
+            <link>https://www.elle.co.kr/article/75702</link>
+            <guid>https://www.elle.co.kr/article/75702</guid>
+            <pubDate>Tue, 14 Mar 2023 03:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[마땅한 존중과 애도가 뿌리 내리길 바라며! 지금 이태원에 사는 사람들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/ae36b3bd-950d-456f-9afd-3f4c7df7cc33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023년 개화 시즌! 3월 꽃놀이하기 좋은 전국 봄꽃 명소 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/75712</link>
+            <guid>https://www.elle.co.kr/article/75712</guid>
+            <pubDate>Tue, 14 Mar 2023 03:16:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/de34fba0-ef05-4ac9-a3bd-e83cc09553ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이태원은 지금] 김현와와 넷갈라, 이태원을 위한 파티를 열다]]></title>
             <link>https://www.elle.co.kr/article/75643</link>
@@ -50,20 +65,6 @@
             <guid>https://www.elle.co.kr/article/75674</guid>
             <pubDate>Fri, 10 Mar 2023 01:08:31 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/833e0bfe-061d-4095-82b1-a37e45968726.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 50살 된 '장수 과자' 죠리퐁! 이색 변신 비주얼 모음]]></title>
-            <link>https://www.elle.co.kr/article/75631</link>
-            <guid>https://www.elle.co.kr/article/75631</guid>
-            <pubDate>Thu, 09 Mar 2023 19:13:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/8a6fc6bf-12d1-4283-9f56-531485f310e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 화이트데이엔 호캉스? 로맨틱 이벤트 여는 전국 호텔 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/75613</link>
-            <guid>https://www.elle.co.kr/article/75613</guid>
-            <pubDate>Thu, 09 Mar 2023 11:14:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/e1ecae49-5ff5-4dc8-a0e2-17d7ff2c1677.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
