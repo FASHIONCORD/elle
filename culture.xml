@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 14:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 15:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워킹맘이지만 '일타' 남행선과는 다르다? '더 글로리' 영광 이을 전도연의 '길복순' 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/75749</link>
+            <guid>https://www.elle.co.kr/article/75749</guid>
+            <pubDate>Tue, 14 Mar 2023 15:17:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/5e5824c0-e42f-4180-87be-4c90ce4923d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유희적 형태부터 자연의 색까지! 올해 메종 오브제를 휩쓴 디자인 키워드 9]]></title>
             <link>https://www.elle.co.kr/article/75650</link>
@@ -59,13 +66,6 @@
             <pubDate>Sun, 12 Mar 2023 14:12:21 GMT</pubDate>
             <content:encoded><![CDATA[조각과 퍼포먼스, 영상, 회화. 장르를 파괴하고 마음이 닿는 대로 창작하는 이원우 작가.  개인...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/1a289393-eebf-42ef-baee-3fdad2a673b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원조 '로코의 신' 전도연이 '일타스캔들' 나이 얘기에 밝힌 소신 발언 (feat. 중2 딸 반응)]]></title>
-            <link>https://www.elle.co.kr/article/75665</link>
-            <guid>https://www.elle.co.kr/article/75665</guid>
-            <pubDate>Sun, 12 Mar 2023 01:07:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/36e61262-b307-4ea3-a27e-125c90109dfb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
