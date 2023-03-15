@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 11:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 12:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제95회 오스카 시상식에서 62년 만에 바뀐 것]]></title>
+            <link>https://www.elle.co.kr/article/75808</link>
+            <guid>https://www.elle.co.kr/article/75808</guid>
+            <pubDate>Wed, 15 Mar 2023 12:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[레드 카펫은 옛말.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/7686323b-14fa-411e-8e3c-95767dcce396.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-팝 시스템, 비인간적이라고? 침략 역사와 IMF 위기까지 나온 BTS RM의 대단한 답변]]></title>
             <link>https://www.elle.co.kr/article/75803</link>
@@ -58,13 +66,6 @@
             <pubDate>Tue, 14 Mar 2023 05:13:08 GMT</pubDate>
             <content:encoded><![CDATA[화이트데이 선물을 계획 중이라면 주목! 인소 부부가 추천하는 향수 리스트를 눈여겨보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9dadd0e6-f6cd-4a0f-baf7-48e907f09c72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전교 1등과 일진이 실제 부부가 됐다고? 인터넷 소설 같은 박세영x곽정욱 러브 스토리!]]></title>
-            <link>https://www.elle.co.kr/article/75728</link>
-            <guid>https://www.elle.co.kr/article/75728</guid>
-            <pubDate>Mon, 13 Mar 2023 09:14:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/9658ac7b-c303-4cb1-8331-d0ed9a6d98f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
