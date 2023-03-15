@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 18:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 19:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1034,6 +1034,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/75f17eae-5e6b-4d95-b509-55cc5dfcea41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마스크-프리 시대의 베이스 메이크업 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/75713</link>
+            <guid>https://www.elle.co.kr/article/75713</guid>
+            <pubDate>Wed, 15 Mar 2023 19:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[바야흐로 마스크-프리 시대, 숨 쉴 듯 가볍고 편안한 이번 시즌 베이스 메이크업 트렌드를 제대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/f6ad1c76-027f-45cf-891b-c92395fb510d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배우 소이현, 인교진이 추천하는 로맨틱한 향수 선물 8 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/75746</link>
             <guid>https://www.elle.co.kr/article/75746</guid>
@@ -1088,12 +1096,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/94d7b82e-5724-4884-be2e-474d7cc19e3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성큼 다가온 봄, 향기도 꽃내음으로 갈아입을 때! 플로럴 향 제품 모음.zip_선배’s 어드바이스 #159 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/75580</link>
-            <guid>https://www.elle.co.kr/article/75580</guid>
-            <pubDate>Fri, 10 Mar 2023 10:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[그야말로 꽃, 과일, 풀 냄새로 가득한 봄의 정원에 서있는 듯한 향들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/ca6bb1bc-311c-45f9-b228-7d6782b5a978.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[러블리 그 자체! 셀러브리티의 핑크 활용법 6 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/75830</link>
+            <guid>https://www.elle.co.kr/article/75830</guid>
+            <pubDate>Wed, 15 Mar 2023 19:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[긍정과 사랑의 기운이 느껴지는 핑크 컬러로 봄을 시작해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/d34b1dad-6bcf-4ca7-a798-d7739900dc00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제95회 오스카 시상식에서 62년 만에 바뀐 것 (엘르 코리아 ─ 스타)]]></title>
@@ -1146,14 +1154,6 @@
             <guid>https://www.elle.co.kr/article/75749</guid>
             <pubDate>Mon, 13 Mar 2023 01:04:03 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/5e5824c0-e42f-4180-87be-4c90ce4923d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 소이현, 인교진이 추천하는 로맨틱한 향수 선물 8 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/75746</link>
-            <guid>https://www.elle.co.kr/article/75746</guid>
-            <pubDate>Tue, 14 Mar 2023 05:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[화이트데이 선물을 계획 중이라면 주목! 인소 부부가 추천하는 향수 리스트를 눈여겨보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9dadd0e6-f6cd-4a0f-baf7-48e907f09c72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천안문을 향해 가운뎃손가락을 들어 보인 그가 돌아왔다! 이른 봄과 함께 찾아온 이달의 전시 3 (엘르 코리아 ─ 컬쳐)]]></title>
