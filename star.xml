@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 08:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 09:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-팝 시스템, 비인간적이라고? 침략 역사와 IMF 위기까지 나온 BTS RM의 대단한 답변]]></title>
+            <link>https://www.elle.co.kr/article/75803</link>
+            <guid>https://www.elle.co.kr/article/75803</guid>
+            <pubDate>Wed, 15 Mar 2023 09:14:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/893d9bb7-e467-4d2f-8fec-438fd580ed97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결혼 10년차 부부, 럽스타 시동? 이민정이 공개한 이병헌과의 커플 사진.jpg]]></title>
             <link>https://www.elle.co.kr/article/75795</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/75728</guid>
             <pubDate>Mon, 13 Mar 2023 09:14:26 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/9658ac7b-c303-4cb1-8331-d0ed9a6d98f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 아우터 이렇게 입어요! 가죽재킷을 입은 셀러브리티 5]]></title>
-            <link>https://www.elle.co.kr/article/75727</link>
-            <guid>https://www.elle.co.kr/article/75727</guid>
-            <pubDate>Mon, 13 Mar 2023 06:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[카일리 제너부터 선미까지 스타들의 각양각색 가죽 재킷 스타일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/22f0d7cd-8269-4349-9501-0b92a0bfc008.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
