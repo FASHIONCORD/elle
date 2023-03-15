@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 14:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 15:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1034,6 +1034,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/75f17eae-5e6b-4d95-b509-55cc5dfcea41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배우 소이현, 인교진이 추천하는 로맨틱한 향수 선물 8 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/75746</link>
+            <guid>https://www.elle.co.kr/article/75746</guid>
+            <pubDate>Tue, 14 Mar 2023 05:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[화이트데이 선물을 계획 중이라면 주목! 인소 부부가 추천하는 향수 리스트를 눈여겨보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9dadd0e6-f6cd-4a0f-baf7-48e907f09c72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샤넬 백스테이지 메이크업의 모든 것 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/75743</link>
             <guid>https://www.elle.co.kr/article/75743</guid>
@@ -1086,14 +1094,6 @@
             <pubDate>Fri, 10 Mar 2023 10:15:30 GMT</pubDate>
             <content:encoded><![CDATA[그야말로 꽃, 과일, 풀 냄새로 가득한 봄의 정원에 서있는 듯한 향들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/ca6bb1bc-311c-45f9-b228-7d6782b5a978.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구세요?? 완전히 새로워진 뷰티 신상 3 #갓구운신상 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/75548</link>
-            <guid>https://www.elle.co.kr/article/75548</guid>
-            <pubDate>Thu, 09 Mar 2023 10:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[화제의 이니스프리 리브랜딩부터 전세계 300개 한정 아쿠아 디 파르마까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/e3531fdf-a4f3-4102-baa9-534d94f4349f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제95회 오스카 시상식에서 62년 만에 바뀐 것 (엘르 코리아 ─ 스타)]]></title>
@@ -1547,6 +1547,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/eb087ba1-6ad5-46ee-baf6-ad3cce56c950.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카스타드와 투게더에 이런 변화가? '착한 포장' 적용된 국민 간식 근황 (ft.친환경) (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/75691</link>
+            <guid>https://www.elle.co.kr/article/75691</guid>
+            <pubDate>Sat, 11 Mar 2023 02:12:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/eb087ba1-6ad5-46ee-baf6-ad3cce56c950.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[과연 정말 돈이 전부가 아닐까? 자본주의 세상 속, 당신을 성장을 가로막는 가스라이팅 3_돈쓸신잡 #88 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/75677</link>
             <guid>https://www.elle.co.kr/article/75677</guid>
@@ -1597,13 +1604,6 @@
             <guid>https://www.elle.co.kr/article/75557</guid>
             <pubDate>Wed, 08 Mar 2023 04:18:21 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/f8c698a0-3e63-46c5-a08c-2b6b82acf05c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놓치면 후회하는 쏠쏠한 재테크, 사회초년생을 위한 금융 상품 2_돈쓸신잡 #87 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/75464</link>
-            <guid>https://www.elle.co.kr/article/75464</guid>
-            <pubDate>Wed, 08 Mar 2023 01:10:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/78bf2fa0-2d9d-440b-b414-ca73b8df8074.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
