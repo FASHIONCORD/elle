@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 07:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 08:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<엘르> 4월호 커버스타 뷔가 그려낸 봄날의 서정]]></title>
+            <link>https://www.elle.co.kr/article/75840</link>
+            <guid>https://www.elle.co.kr/article/75840</guid>
+            <pubDate>Thu, 16 Mar 2023 08:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[V가 상징하는 모든 것을 흡수한 뷔가 &lt;엘르&gt; 카메라 앞에 섰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/d3699ec4-941b-458a-971b-b64ff9298187.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한혜진의 ‘급찐급빠’ 식단 대공개]]></title>
             <link>https://www.elle.co.kr/article/75860</link>
@@ -60,13 +68,6 @@
             <pubDate>Wed, 15 Mar 2023 12:25:21 GMT</pubDate>
             <content:encoded><![CDATA[레드 카펫은 옛말.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/7686323b-14fa-411e-8e3c-95767dcce396.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-팝 시스템, 비인간적이라고? 침략 역사와 IMF 위기까지 나온 BTS RM의 대단한 답변]]></title>
-            <link>https://www.elle.co.kr/article/75803</link>
-            <guid>https://www.elle.co.kr/article/75803</guid>
-            <pubDate>Wed, 15 Mar 2023 09:14:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/893d9bb7-e467-4d2f-8fec-438fd580ed97.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
