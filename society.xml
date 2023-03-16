@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 01:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 02:39:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낙태죄가 폐지된 지금, 영화 <콜 제인>이 전하는 메시지_요주의여성 #82]]></title>
+            <link>https://www.elle.co.kr/article/75760</link>
+            <guid>https://www.elle.co.kr/article/75760</guid>
+            <pubDate>Thu, 16 Mar 2023 02:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[한 걸음 더, 우리 함께.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/cdd6230d-e228-4d8e-a93b-b7459eb29e0a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카스타드와 투게더에 이런 변화가? '착한 포장' 적용된 국민 간식 근황 (ft.친환경)]]></title>
             <link>https://www.elle.co.kr/article/75691</link>
@@ -58,13 +66,6 @@
             <pubDate>Thu, 09 Mar 2023 02:52:45 GMT</pubDate>
             <content:encoded><![CDATA[나를 운전자로 만든 것은 우정과 용기였다. 본격 운전영업기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/ee80c80c-2105-4db4-9ef7-a180e47f5ed5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이르면 다음 달 말부터!? 지하철과 버스에서도 'NO 마스크' 가능할까]]></title>
-            <link>https://www.elle.co.kr/article/75557</link>
-            <guid>https://www.elle.co.kr/article/75557</guid>
-            <pubDate>Wed, 08 Mar 2023 04:18:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/f8c698a0-3e63-46c5-a08c-2b6b82acf05c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
