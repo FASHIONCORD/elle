@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 04:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 05:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/94d7b82e-5724-4884-be2e-474d7cc19e3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장원영의 이모지 인터뷰 #ELLEasEMOJI (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/75857</link>
+            <guid>https://www.elle.co.kr/article/75857</guid>
+            <pubDate>Thu, 16 Mar 2023 05:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[우리 갓기 원영이 6연타 윙크 보러 오세요! 장원영의 최애 등극 음식은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/a75ff3ee-3338-4105-93f4-309819a8991b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인형 대세? 여름까지 이어질, 지금 가장 트렌디한 키링 모음.zip (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/75848</link>
             <guid>https://www.elle.co.kr/article/75848</guid>
@@ -1146,13 +1154,6 @@
             <guid>https://www.elle.co.kr/article/75795</guid>
             <pubDate>Wed, 15 Mar 2023 07:18:15 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/56118bc0-a1a4-4764-a8df-d7c13027e832.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용두용미+권선징악 그 자체! 손에 땀을 쥐게 한, '더 글로리' 파트2 명장면 모음 #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/75772</link>
-            <guid>https://www.elle.co.kr/article/75772</guid>
-            <pubDate>Mon, 13 Mar 2023 09:15:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/124e3810-7d9a-4c1c-ad12-a5155ed85d7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[용두용미+권선징악 그 자체! 손에 땀을 쥐게 한, '더 글로리' 파트2 명장면 모음 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
