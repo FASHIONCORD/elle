@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 08:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 09:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이비가 매일 잊지 않고 챙기는 이것! 가방 속 필수 뷰티템 6]]></title>
+            <link>https://www.elle.co.kr/article/75888</link>
+            <guid>https://www.elle.co.kr/article/75888</guid>
+            <pubDate>Fri, 17 Mar 2023 09:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[구강 관리 제품부터 피부 보습 아이템까지, 그녀의 취향이 듬뿍 담긴 아이템들을 구경해 보세요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/d5fc0d3d-3a57-4df8-ae72-eadb9d69fe8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 글로리' 전재준으로 인생캐 완성! 박성훈의 최애 운동은 바로 이것? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/75880</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 16 Mar 2023 07:14:14 GMT</pubDate>
             <content:encoded><![CDATA[모델 한혜진이 공개한 다이어트 식단으로 건강한 라이프를 시작해보세요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/b928c422-b3a3-4d26-9d8e-4e73df0ba503.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장원영의 이모지 인터뷰 #ELLEasEMOJI]]></title>
-            <link>https://www.elle.co.kr/article/75857</link>
-            <guid>https://www.elle.co.kr/article/75857</guid>
-            <pubDate>Thu, 16 Mar 2023 05:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[우리 갓기 원영이 6연타 윙크 보러 오세요! 장원영의 최애 등극 음식은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/a75ff3ee-3338-4105-93f4-309819a8991b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
