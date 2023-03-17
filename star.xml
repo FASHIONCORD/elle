@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 01:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 02:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEWYORK! 2023 FW 뉴욕 패션위크 #ELLE쇼타임]]></title>
+            <link>https://www.elle.co.kr/article/75871</link>
+            <guid>https://www.elle.co.kr/article/75871</guid>
+            <pubDate>Fri, 17 Mar 2023 02:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박은빈, NCT 쟈니가 찾은 뉴욕.  &lt;엘르&gt;팀이 현장에서 직접 보고 느낀 2023 FW 뉴욕 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/a3124d06-f5cc-454d-aebd-3c0b7d2d217a.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[봄 데일리 룩으로 딱! <성스러운 아이돌> 고보결 VS <모범택시2> 표예진 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/75868</link>
@@ -61,13 +69,6 @@
             <guid>https://www.elle.co.kr/article/75842</guid>
             <pubDate>Thu, 16 Mar 2023 01:05:57 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/cf1bb1b0-5e7b-459e-b821-f974a3d2c168.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하도영이 전재준 어깨에 기대?! 파트2가 훨씬 매운 '더 글로리' 촬영 비하인드 (ft. 세계 1위)]]></title>
-            <link>https://www.elle.co.kr/article/75835</link>
-            <guid>https://www.elle.co.kr/article/75835</guid>
-            <pubDate>Thu, 16 Mar 2023 01:05:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/5ca20bb3-7706-4292-9bee-2cf91de0d888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
