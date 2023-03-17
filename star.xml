@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 09:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 10:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국이 극찬한 '불그리' 레시피 공개! 지민과 뷔도 관심 보였다는데?]]></title>
+            <link>https://www.elle.co.kr/article/75889</link>
+            <guid>https://www.elle.co.kr/article/75889</guid>
+            <pubDate>Fri, 17 Mar 2023 10:15:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/8c713344-b88f-4a28-9368-5c118ff79d15.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄은 TXT 로소이다, 범규 태현 <엘르> 화보 공개]]></title>
+            <link>https://www.elle.co.kr/article/75884</link>
+            <guid>https://www.elle.co.kr/article/75884</guid>
+            <pubDate>Fri, 17 Mar 2023 10:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[투모로우바이투게더 범규와 태현이 오래된 영화 속 한 장면처럼 마주 앉았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/9ca92953-d484-48f2-8827-966eb4bb7e84.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이비가 매일 잊지 않고 챙기는 이것! 가방 속 필수 뷰티템 6]]></title>
             <link>https://www.elle.co.kr/article/75888</link>
@@ -52,22 +67,6 @@
             <pubDate>Thu, 16 Mar 2023 19:11:28 GMT</pubDate>
             <content:encoded><![CDATA[초대 여성 국수, 김상순 기사.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/f7c7b265-86af-48f5-b71c-b54948b7a1f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엘르> 4월호 커버스타 뷔가 그려낸 봄날의 서정]]></title>
-            <link>https://www.elle.co.kr/article/75840</link>
-            <guid>https://www.elle.co.kr/article/75840</guid>
-            <pubDate>Thu, 16 Mar 2023 08:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[V가 상징하는 모든 것을 흡수한 뷔가 &lt;엘르&gt; 카메라 앞에 섰다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/d3699ec4-941b-458a-971b-b64ff9298187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한혜진의 ‘급찐급빠’ 식단 대공개]]></title>
-            <link>https://www.elle.co.kr/article/75860</link>
-            <guid>https://www.elle.co.kr/article/75860</guid>
-            <pubDate>Thu, 16 Mar 2023 07:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[모델 한혜진이 공개한 다이어트 식단으로 건강한 라이프를 시작해보세요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/b928c422-b3a3-4d26-9d8e-4e73df0ba503.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

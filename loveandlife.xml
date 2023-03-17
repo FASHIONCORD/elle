@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 09:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 10:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그야말로 채식이 대세? 열흘 만에 100만개 팔린 도시락에 기내식 메뉴까지! 비주얼 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/75794</link>
+            <guid>https://www.elle.co.kr/article/75794</guid>
+            <pubDate>Fri, 17 Mar 2023 10:16:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/9c2525a6-f7d5-4e35-b872-f0f376ee91b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[츄러스부터 브라우니까지! 화이트데이를 더욱 달콤하게 만들어줄 디저트 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/75792</link>
@@ -60,14 +67,6 @@
             <pubDate>Mon, 13 Mar 2023 09:15:28 GMT</pubDate>
             <content:encoded><![CDATA[뷰티 브랜드 디오디너리 한국 지사를 운영하는 8년 차 용산구 주민과 이태원에 집과 작업실이 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/55637c47-40f1-4723-9a0a-9afbda0b7a09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 천예슬이 픽한 카페 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/75699</link>
-            <guid>https://www.elle.co.kr/article/75699</guid>
-            <pubDate>Mon, 13 Mar 2023 01:04:29 GMT</pubDate>
-            <content:encoded><![CDATA[유니크한 비주얼의 디저트 카페부터 핫한 브런치 카페까지! 천예슬이 방문한 카페를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/3038ed34-5920-4045-b5f3-b1843571039d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
