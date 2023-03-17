@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 14:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 15:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 지하철·버스에서 마스크 안 써도 된다고? NO 마스크 시대 예고.txt]]></title>
+            <link>https://www.elle.co.kr/article/75793</link>
+            <guid>https://www.elle.co.kr/article/75793</guid>
+            <pubDate>Fri, 17 Mar 2023 15:16:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/68e7590b-d9bd-4d1e-8ec3-8e9ffe2c341b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르 보이스] 200명의 중심에서 "혼자 사세요!"를 외치다]]></title>
             <link>https://www.elle.co.kr/article/75716</link>
@@ -61,13 +68,6 @@
             <guid>https://www.elle.co.kr/article/75691</guid>
             <pubDate>Wed, 15 Mar 2023 15:15:41 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/eb087ba1-6ad5-46ee-baf6-ad3cce56c950.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과연 정말 돈이 전부가 아닐까? 자본주의 세상 속, 당신을 성장을 가로막는 가스라이팅 3_돈쓸신잡 #88]]></title>
-            <link>https://www.elle.co.kr/article/75677</link>
-            <guid>https://www.elle.co.kr/article/75677</guid>
-            <pubDate>Tue, 14 Mar 2023 03:16:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/eba39512-5408-429b-88d5-a5282a7d7cdc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
