@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 05:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 06:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4년 논란 끝에 개봉하는 '인어공주' 실사 영화, 호불호 격하게 갈리는 까닭]]></title>
+            <link>https://www.elle.co.kr/article/75876</link>
+            <guid>https://www.elle.co.kr/article/75876</guid>
+            <pubDate>Fri, 17 Mar 2023 06:15:48 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/b5a2cb67-f5a2-40d3-ae5c-ee4a2c020a86.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NEWYORK! 2023 FW 뉴욕 패션위크 #ELLE쇼타임]]></title>
             <link>https://www.elle.co.kr/article/75871</link>
@@ -62,13 +69,6 @@
             <pubDate>Thu, 16 Mar 2023 02:38:13 GMT</pubDate>
             <content:encoded><![CDATA[이번 시즌 유독 눈에 띄는 패션 브랜드들의 인형 예찬. 어떤 것을 고를까 고민이라면 다음 보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/a10c203e-5d2c-4552-b4aa-d591016de8f9.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[유민상만 남은 8년차 먹방 예 '맛녀석', '뚱4' 하차 후 합류하는 새 멤버.list]]></title>
-            <link>https://www.elle.co.kr/article/75842</link>
-            <guid>https://www.elle.co.kr/article/75842</guid>
-            <pubDate>Thu, 16 Mar 2023 01:05:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/cf1bb1b0-5e7b-459e-b821-f974a3d2c168.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
