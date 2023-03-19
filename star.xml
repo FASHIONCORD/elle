@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 18:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 19:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신화 앤디, 아내 이은주 위해 직접 지갑까지 만들었다고? (ft.화이트데이)]]></title>
+            <link>https://www.elle.co.kr/article/75909</link>
+            <guid>https://www.elle.co.kr/article/75909</guid>
+            <pubDate>Sun, 19 Mar 2023 19:10:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/ae9efe89-ccbc-4ec8-8e72-cc2b7060e3cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가수 바다, 딸과 함께 패션쇼 무대 올랐다고? 서울패션위크 참석한 귀여운 꼬마 손님들.list]]></title>
             <link>https://www.elle.co.kr/article/75907</link>
@@ -60,13 +67,6 @@
             <pubDate>Fri, 17 Mar 2023 09:13:49 GMT</pubDate>
             <content:encoded><![CDATA[구강 관리 제품부터 피부 보습 아이템까지, 그녀의 취향이 듬뿍 담긴 아이템들을 구경해 보세요...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/d5fc0d3d-3a57-4df8-ae72-eadb9d69fe8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 전재준으로 인생캐 완성! 박성훈의 최애 운동은 바로 이것? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/75880</link>
-            <guid>https://www.elle.co.kr/article/75880</guid>
-            <pubDate>Fri, 17 Mar 2023 07:12:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/f5e85193-801d-4d91-a4f2-01e8b95926a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
