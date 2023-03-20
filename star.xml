@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 18:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 19:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흥미진진! K스타들의 대활약. 2023 FW 파리 패션위크 #ELLE쇼타임]]></title>
+            <link>https://www.elle.co.kr/article/75942</link>
+            <guid>https://www.elle.co.kr/article/75942</guid>
+            <pubDate>Mon, 20 Mar 2023 19:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[제니, 지수, 로제, 뉴진스 혜인, 민니, NCT태용, 이유미, 박서준, 정호연, 엔믹스, 문가영, 선...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/365e7ef3-06b9-43e3-94e9-62252cae6023.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[더글로리 현남, 행복한 휴가를 떠나다!]]></title>
             <link>https://www.elle.co.kr/article/75900</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/75909</guid>
             <pubDate>Sun, 19 Mar 2023 19:10:58 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/ae9efe89-ccbc-4ec8-8e72-cc2b7060e3cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가수 바다, 딸과 함께 패션쇼 무대 올랐다고? 서울패션위크 참석한 귀여운 꼬마 손님들.list]]></title>
-            <link>https://www.elle.co.kr/article/75907</link>
-            <guid>https://www.elle.co.kr/article/75907</guid>
-            <pubDate>Sat, 18 Mar 2023 19:10:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/bf06c961-165c-404c-a935-e3cfdcd667fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
