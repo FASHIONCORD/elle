@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 03:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 04:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과감해서 더 쿨하다! 골반 보이는 패션 6]]></title>
+            <link>https://www.elle.co.kr/article/75918</link>
+            <guid>https://www.elle.co.kr/article/75918</guid>
+            <pubDate>Mon, 20 Mar 2023 04:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[벨라 하디드부터 김보라까지, 스타들의 로라이즈 패션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/1435568f-3883-49ab-bb07-fd103a600127.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한소희부터 송윤아까지! 인싸 그 자체인 송혜교 '우정스타그램' 근황.txt]]></title>
             <link>https://www.elle.co.kr/article/75911</link>
@@ -58,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/75889</guid>
             <pubDate>Fri, 17 Mar 2023 10:15:17 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/8c713344-b88f-4a28-9368-5c118ff79d15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄은 TXT 로소이다, 범규 태현 <엘르> 화보 공개]]></title>
-            <link>https://www.elle.co.kr/article/75884</link>
-            <guid>https://www.elle.co.kr/article/75884</guid>
-            <pubDate>Fri, 17 Mar 2023 10:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[투모로우바이투게더 범규와 태현이 오래된 영화 속 한 장면처럼 마주 앉았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/9ca92953-d484-48f2-8827-966eb4bb7e84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

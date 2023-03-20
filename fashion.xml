@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 03:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 04:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[런웨이 위 남자들의 치맛바람]]></title>
+            <link>https://www.elle.co.kr/article/75814</link>
+            <guid>https://www.elle.co.kr/article/75814</guid>
+            <pubDate>Mon, 20 Mar 2023 04:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[태풍처럼 불어왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/cb423bb6-329d-4084-98d8-e3b02c658618.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS RM, 뉴진스 하니, 박재범, 송혜교... 초호화 캐스팅! 2023 FW 밀란 패션위크 #ELLE쇼타임]]></title>
             <link>https://www.elle.co.kr/article/75894</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 17 Mar 2023 06:15:29 GMT</pubDate>
             <content:encoded><![CDATA[이번 시즌 유독 눈에 띄는 패션 브랜드들의 인형 예찬. 어떤 것을 고를까 고민이라면 다음 보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/a10c203e-5d2c-4552-b4aa-d591016de8f9.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[커다란 빅 백 군단]]></title>
-            <link>https://www.elle.co.kr/article/75718</link>
-            <guid>https://www.elle.co.kr/article/75718</guid>
-            <pubDate>Fri, 17 Mar 2023 05:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[널찍한 품을 가진 빅 백 파워.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/44937478-6219-42eb-8ea9-a1c41e7cf265.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
