@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 11:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 12:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1157,6 +1157,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/bf06c961-165c-404c-a935-e3cfdcd667fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[4년 논란 끝에 개봉하는 '인어공주' 실사 영화, 호불호 격하게 갈리는 까닭 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/75876</link>
+            <guid>https://www.elle.co.kr/article/75876</guid>
+            <pubDate>Thu, 16 Mar 2023 07:14:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/b5a2cb67-f5a2-40d3-ae5c-ee4a2c020a86.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['더 글로리' 정성일 꺾은 송혜교 바둑 실력 뒤에 윤세아 어머니가 있었다?! (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/75861</link>
             <guid>https://www.elle.co.kr/article/75861</guid>
@@ -1208,14 +1215,6 @@
             <pubDate>Mon, 13 Mar 2023 09:15:19 GMT</pubDate>
             <content:encoded><![CDATA[국보와 보물을 총망라한 만큼 놓쳐서는 안 될 역대급 전시는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/075f8671-9cfe-444c-95a7-907ecdff9c5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아계 최초 오스카 여우주연상은 양자경! 2023 아카데미, '에에올'이 새로 쓴 역사.list (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75761</link>
-            <guid>https://www.elle.co.kr/article/75761</guid>
-            <pubDate>Mon, 13 Mar 2023 06:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[여성, 그리고 어머니들에게 전한 뭉클한 소감까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/414a2cc1-8c0e-4598-b13c-60695d23ea85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
