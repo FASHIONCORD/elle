@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 07:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 08:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['더 글로리' 문동은이 준 빨간 립스틱? 엘르 염혜란 화보에 댓글 단 송혜교 우정스타그램 근황]]></title>
+            <link>https://www.elle.co.kr/article/75963</link>
+            <guid>https://www.elle.co.kr/article/75963</guid>
+            <pubDate>Tue, 21 Mar 2023 08:16:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/30276e9a-d006-4ba3-bc46-d0e9454bfe21.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['꽃선비' 신예은, 고데기 내려놓고 한복 입었다고? '더 글로리' 출연진 차기작 모음집 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/75957</link>
@@ -60,13 +67,6 @@
             <pubDate>Mon, 20 Mar 2023 07:13:22 GMT</pubDate>
             <content:encoded><![CDATA[어디서 많이 본 것 같은데 알고 보니 할리우드 2세, 이들의 활약상은 지금부터!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/19/ddf6ff67-4ebf-45c3-8c4c-43b9c38c180f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 신예은이 유일하게 구자철 인스타그램만 팔로우한 이유]]></title>
-            <link>https://www.elle.co.kr/article/75919</link>
-            <guid>https://www.elle.co.kr/article/75919</guid>
-            <pubDate>Mon, 20 Mar 2023 05:13:28 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/e8676559-a4b8-4530-b7a3-30503ec7c5f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
