@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 02:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 03:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤일리 VS 리한나 스트리트 스타일]]></title>
+            <link>https://www.elle.co.kr/article/75952</link>
+            <guid>https://www.elle.co.kr/article/75952</guid>
+            <pubDate>Tue, 21 Mar 2023 03:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[폴로 셔츠를 대하는 2가지 방식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/ac6ce68e-e22d-4742-b5de-565407e1b83d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐-이다해, 8년 공개 열애 끝 결혼! 장수 커플의 이국적 웨딩 화보 모음 (ft. 돌잔치 시그널)]]></title>
             <link>https://www.elle.co.kr/article/75943</link>
@@ -60,13 +68,6 @@
             <pubDate>Mon, 20 Mar 2023 04:16:37 GMT</pubDate>
             <content:encoded><![CDATA[벨라 하디드부터 김보라까지, 스타들의 로라이즈 패션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/1435568f-3883-49ab-bb07-fd103a600127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희부터 송윤아까지! 인싸 그 자체인 송혜교 '우정스타그램' 근황.txt]]></title>
-            <link>https://www.elle.co.kr/article/75911</link>
-            <guid>https://www.elle.co.kr/article/75911</guid>
-            <pubDate>Mon, 20 Mar 2023 01:04:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/291a9303-5e17-462f-adea-f8dc5bfaf9e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
