@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 18:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 19:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[故 강수연 1주기 추모전 '영화롭게 오랫동안', 이때 열린다고? (정보 모음)]]></title>
+            <link>https://www.elle.co.kr/article/75987</link>
+            <guid>https://www.elle.co.kr/article/75987</guid>
+            <pubDate>Tue, 21 Mar 2023 19:10:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/d4bc00cf-ac13-4d68-ac0f-4a2075ed702a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벌써 네 번째 부부되는 장나라X장혁, 이번엔 가족 코미디? (ft. 시트콤 장인 이순재)]]></title>
             <link>https://www.elle.co.kr/article/75986</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/75943</guid>
             <pubDate>Tue, 21 Mar 2023 00:59:52 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/64d0c59a-7a5f-408e-8985-08bf52f3bc27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흥미진진! K스타들의 대활약. 2023 FW 파리 패션위크 #ELLE쇼타임]]></title>
-            <link>https://www.elle.co.kr/article/75942</link>
-            <guid>https://www.elle.co.kr/article/75942</guid>
-            <pubDate>Mon, 20 Mar 2023 19:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[제니, 지수, 로제, 뉴진스 혜인, 민니, NCT태용, 이유미, 박서준, 정호연, 엔믹스, 문가영, 선...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/365e7ef3-06b9-43e3-94e9-62252cae6023.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
