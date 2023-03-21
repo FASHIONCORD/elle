@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 14:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 15:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['꽃선비' 신예은, 고데기 내려놓고 한복 입었다고? '더 글로리' 출연진 차기작 모음집 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/75957</link>
+            <guid>https://www.elle.co.kr/article/75957</guid>
+            <pubDate>Tue, 21 Mar 2023 15:12:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/1fe742f1-02f8-4798-9f73-fec3346b4b10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주에서 나만의 안전 공간 찾기 #아웃오브서울]]></title>
             <link>https://www.elle.co.kr/article/75653</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/75835</guid>
             <pubDate>Fri, 17 Mar 2023 09:14:06 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/5ca20bb3-7706-4292-9bee-2cf91de0d888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김다은이 자유롭고 대범하게 지은 사물들 #더메이커스]]></title>
-            <link>https://www.elle.co.kr/article/75651</link>
-            <guid>https://www.elle.co.kr/article/75651</guid>
-            <pubDate>Thu, 16 Mar 2023 15:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/24e6c146-6064-4bdc-bc2a-d925374f2b7f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
