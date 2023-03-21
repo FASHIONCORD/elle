@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 03:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 04:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['꽃선비' 신예은, 고데기 내려놓고 한복 입었다고? '더 글로리' 출연진 차기작 모음집 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/75957</link>
+            <guid>https://www.elle.co.kr/article/75957</guid>
+            <pubDate>Tue, 21 Mar 2023 04:14:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/1fe742f1-02f8-4798-9f73-fec3346b4b10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤일리 VS 리한나 스트리트 스타일]]></title>
             <link>https://www.elle.co.kr/article/75952</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/75919</guid>
             <pubDate>Mon, 20 Mar 2023 05:13:28 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/e8676559-a4b8-4530-b7a3-30503ec7c5f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과감해서 더 쿨하다! 골반 보이는 패션 6]]></title>
-            <link>https://www.elle.co.kr/article/75918</link>
-            <guid>https://www.elle.co.kr/article/75918</guid>
-            <pubDate>Mon, 20 Mar 2023 04:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[벨라 하디드부터 김보라까지, 스타들의 로라이즈 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/1435568f-3883-49ab-bb07-fd103a600127.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

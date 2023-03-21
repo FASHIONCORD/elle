@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 03:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 04:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 큰 거 온다...! 송혜교X한소희부터 김혜수X염정아까지, 2023 여성 투톱물 3]]></title>
+            <link>https://www.elle.co.kr/article/75903</link>
+            <guid>https://www.elle.co.kr/article/75903</guid>
+            <pubDate>Tue, 21 Mar 2023 04:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[송혜교와 '울산 송혜교'의 만남.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/3f1f9c4a-b951-4561-816f-7ef34c6129c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차 한 잔 할까]]></title>
             <link>https://www.elle.co.kr/article/75652</link>
@@ -59,13 +67,6 @@
             <pubDate>Thu, 16 Mar 2023 07:14:23 GMT</pubDate>
             <content:encoded><![CDATA[‘건축계 노벨상’의 영예를 안은 주인공.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/f5bad31a-82ca-4f62-8190-b163f21cb4ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용두용미+권선징악 그 자체! 손에 땀을 쥐게 한, '더 글로리' 파트2 명장면 모음 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/75772</link>
-            <guid>https://www.elle.co.kr/article/75772</guid>
-            <pubDate>Thu, 16 Mar 2023 01:06:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/124e3810-7d9a-4c1c-ad12-a5155ed85d7c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
