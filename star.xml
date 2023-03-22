@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 11:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 12:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[느와르부터 청춘물까지, '장르 파괴자' BTS 뷔의 '엘르' 4월호 선공개 화보.jpg]]></title>
+            <link>https://www.elle.co.kr/article/76016</link>
+            <guid>https://www.elle.co.kr/article/76016</guid>
+            <pubDate>Wed, 22 Mar 2023 12:23:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/21145371-77ab-4470-9480-68b3ec6a51bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[좋은 건 더 크게! 10층짜리 건물을 뒤덮은 ‘엘르’ 4월호 커버 스타 BTS 뷔]]></title>
             <link>https://www.elle.co.kr/article/76014</link>
@@ -58,13 +65,6 @@
             <pubDate>Tue, 21 Mar 2023 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[트위드 재킷부터 데님 점퍼까지, 스타들의 데일리룩을 참고해 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/7d37b83e-218a-419d-9ac0-e12eb0119f4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 문동은이 준 빨간 립스틱? 엘르 염혜란 화보에 댓글 단 송혜교 우정스타그램 근황]]></title>
-            <link>https://www.elle.co.kr/article/75963</link>
-            <guid>https://www.elle.co.kr/article/75963</guid>
-            <pubDate>Tue, 21 Mar 2023 08:16:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/30276e9a-d006-4ba3-bc46-d0e9454bfe21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

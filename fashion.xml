@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 11:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 12:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴고 보스의 수석 크리에이티브 디렉터가 영감을 얻은 도시는?]]></title>
+            <link>https://www.elle.co.kr/article/75973</link>
+            <guid>https://www.elle.co.kr/article/75973</guid>
+            <pubDate>Wed, 22 Mar 2023 12:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[마이애미에서 단독으로 열린 보스 2023 S/S 쇼 리포트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/30b64c22-5627-4e01-84ff-f99aa9beb10f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 쇼핑 계획 중이라면 주목! 스타들이 고른 봄 아우터 5]]></title>
             <link>https://www.elle.co.kr/article/75970</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Mar 2023 15:14:25 GMT</pubDate>
             <content:encoded><![CDATA['13일의 금요일'에 태어난 소녀처럼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/19/3efbe797-32c2-4a3d-a4c1-2248414ed5f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과감해서 더 쿨하다! 골반 보이는 패션 6]]></title>
-            <link>https://www.elle.co.kr/article/75918</link>
-            <guid>https://www.elle.co.kr/article/75918</guid>
-            <pubDate>Mon, 20 Mar 2023 07:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[벨라 하디드부터 김보라까지, 스타들의 로라이즈 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/1435568f-3883-49ab-bb07-fd103a600127.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
