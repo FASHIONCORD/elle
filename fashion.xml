@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 05:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 06:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동심의 세계로 이끄는 바비의 핑크 옷장]]></title>
+            <link>https://www.elle.co.kr/article/75881</link>
+            <guid>https://www.elle.co.kr/article/75881</guid>
+            <pubDate>Wed, 22 Mar 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[인형의 집으로 오세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/5c0e34ca-9d67-494e-9feb-8b68b0bd2662.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤일리 VS 리한나 스트리트 스타일]]></title>
             <link>https://www.elle.co.kr/article/75952</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Mar 2023 04:16:19 GMT</pubDate>
             <content:encoded><![CDATA[태풍처럼 불어왔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/cb423bb6-329d-4084-98d8-e3b02c658618.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS RM, 뉴진스 하니, 박재범, 송혜교... 초호화 캐스팅! 2023 FW 밀란 패션위크 #ELLE쇼타임]]></title>
-            <link>https://www.elle.co.kr/article/75894</link>
-            <guid>https://www.elle.co.kr/article/75894</guid>
-            <pubDate>Sun, 19 Mar 2023 19:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르&gt;팀이 현장에서 직접 보고 느낀 2023 FW 밀란 패션위크 취재 일지! #ELLEshowtime]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/cf02b6b5-a2d6-424a-9ffb-6d9ba7335760.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
