@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 06:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김나영이 픽한 아우터는? 모터사이클 재킷을 걸친 셀러브리티 5]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35669273&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35669273&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Thu, 23 Mar 2023 06:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfMTU3/MDAxNjc5NTQ5MDg5MTQ2.i6HdwmBHf4FnVbzGfHErih5cJGQ443aM99Df6iIblaIg.GybeklAs7g9NeFKfuh4pTsq4X5M1AvAsAV8lyJJ-GaUg.JPEG/IzNchum6SflxFDJ6GSsJbTiZomI8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 데일리 룩으로 딱! <성스러운 아이돌> 고보결 VS <모범택시2> 표예진 드라마패션]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35636697&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Feb 2023 15:15:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDlfMjk0/MDAxNjc1OTI0NzUzODk3.f3L83Lq4xFfIqm9ZHUjT9iwyN8D-vLronecQ8rnJN4Ig.HJv9Kx2Yt5vLEEOcq3qN6czslZh3S-BwEDCKWTee1yIg.JPEG/I_wdrSHbk6k3g89hnOsEhTSOHCkQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비행기 타러 갈 땐 이렇게! 스타 #공항패션]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35397915&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35397915&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Thu, 09 Feb 2023 15:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDlfODAg/MDAxNjc1OTI0NDgyNjY2.5HX8-lZtM3TJaoHOX6YnFaJw61SGeg7dsdsuajsDgfog.qoAXY8vvR2ZrYjtGfiEZduWQLreFu8or-fR-vbxFVckg.JPEG/I5i60KY6DSguXqNr9wRUdEKnWeT4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
