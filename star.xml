@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 06:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 07:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조금 설쳤던(?) '깝동' 출신 이도현, 눈물 나도록 속 깊은 가족 사랑]]></title>
+            <link>https://www.elle.co.kr/article/76062</link>
+            <guid>https://www.elle.co.kr/article/76062</guid>
+            <pubDate>Fri, 24 Mar 2023 07:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[(ft. 추억의 테크토닉)]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/c448f300-0700-4238-8d93-52f675fd5bea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봉태규 하시시박의 느낌 있는 커플룩 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/76057</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/76016</guid>
             <pubDate>Wed, 22 Mar 2023 12:23:43 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/21145371-77ab-4470-9480-68b3ec6a51bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좋은 건 더 크게! 10층짜리 건물을 뒤덮은 ‘엘르’ 4월호 커버 스타 BTS 뷔]]></title>
-            <link>https://www.elle.co.kr/article/76014</link>
-            <guid>https://www.elle.co.kr/article/76014</guid>
-            <pubDate>Wed, 22 Mar 2023 06:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[HLL 사옥 전체를 감싼 그의 압도적인 존재감.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/4407ad6d-1507-41ac-a302-48ed9137f34e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
