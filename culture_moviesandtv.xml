@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 10:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 11:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 솔로앨범 낸 BTS 지민, 美 '지미 팰런쇼' 뜨겁게 달군 한 마디는? (ft.최애 별명)]]></title>
+            <link>https://www.elle.co.kr/article/76129</link>
+            <guid>https://www.elle.co.kr/article/76129</guid>
+            <pubDate>Fri, 24 Mar 2023 11:11:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/013aa897-2b53-42d9-a160-a70780ce2776.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기상캐스터 박연진 볼 수 있나? 임지연의 JTBC 뉴스룸 출연 소식에 관심 쏠리는 이유.txt]]></title>
             <link>https://www.elle.co.kr/article/76128</link>
@@ -34,7 +41,6 @@
             <guid>https://www.elle.co.kr/article/76062</guid>
             <pubDate>Thu, 23 Mar 2023 02:08:58 GMT</pubDate>
             <content:encoded><![CDATA[(ft. 추억의 테크토닉)]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/c448f300-0700-4238-8d93-52f675fd5bea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몇 년 만이야...! '크라임씬'에 '하트시그널'까지, 벌써 레전드 에피 기대되는 예능.list]]></title>
@@ -85,12 +91,6 @@
             <guid>https://www.elle.co.kr/article/75861</guid>
             <pubDate>Thu, 16 Mar 2023 01:06:34 GMT</pubDate>
             <content:encoded><![CDATA[초대 여성 국수, 김상순 기사.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유민상만 남은 8년차 먹방 예 '맛녀석', '뚱4' 하차 후 합류하는 새 멤버.list]]></title>
-            <link>https://www.elle.co.kr/article/75842</link>
-            <guid>https://www.elle.co.kr/article/75842</guid>
-            <pubDate>Wed, 15 Mar 2023 07:19:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
