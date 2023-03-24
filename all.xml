@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 08:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 09:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1095,6 +1095,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/cb32d03e-f535-47c0-a37a-c428802c1bcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['하트시그널3' 박지현 결혼! 예비신랑은 누구? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76088</link>
+            <guid>https://www.elle.co.kr/article/76088</guid>
+            <pubDate>Fri, 24 Mar 2023 09:14:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/ba5ec91e-5034-4d64-a892-354bbf429249.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조금 설쳤던(?) '깝동' 출신 이도현, 눈물 나도록 속 깊은 가족 사랑 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76062</link>
             <guid>https://www.elle.co.kr/article/76062</guid>
@@ -1150,11 +1157,19 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/84e36ae3-2af9-40b0-82c7-4be5c774507d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[느와르부터 청춘물까지, '장르 파괴자' BTS 뷔의 '엘르' 4월호 선공개 화보.jpg (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76016</link>
-            <guid>https://www.elle.co.kr/article/76016</guid>
-            <pubDate>Wed, 22 Mar 2023 12:23:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/21145371-77ab-4470-9480-68b3ec6a51bc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[전국의 효녀효자들 긴장해... 조용필 5년 만의 잠실 주경기장 콘서트, 시작은 언제? (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/76026</link>
+            <guid>https://www.elle.co.kr/article/76026</guid>
+            <pubDate>Wed, 22 Mar 2023 02:09:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/56510d10-e583-4419-bad5-44264f5cb0a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 업데이트! 지속가능한 대안 가구들 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/75654</link>
+            <guid>https://www.elle.co.kr/article/75654</guid>
+            <pubDate>Tue, 21 Mar 2023 15:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[지속가능한 삶을 위한 움직임. 그 역동적인 진화 속에 발견되어 탄생한 재료와 놀라운 미학.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/a44ca1f9-f976-4c12-b255-dd265c41b898.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몇 년 만이야...! '크라임씬'에 '하트시그널'까지, 벌써 레전드 에피 기대되는 예능.list (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1198,22 +1213,6 @@
             <pubDate>Sun, 19 Mar 2023 15:13:55 GMT</pubDate>
             <content:encoded><![CDATA[서울 밖. 제주도의 삶을 시작한 콘텐츠 에디터 정수미의 집 연대기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/6dbf1be8-b9d7-43d3-ab8d-84cf25a4d952.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 큰 거 온다...! 송혜교X한소희부터 김혜수X염정아까지, 2023 여성 투톱물 3 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75903</link>
-            <guid>https://www.elle.co.kr/article/75903</guid>
-            <pubDate>Fri, 17 Mar 2023 09:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[송혜교와 '울산 송혜교'의 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/3f1f9c4a-b951-4561-816f-7ef34c6129c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차 한 잔 할까 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75652</link>
-            <guid>https://www.elle.co.kr/article/75652</guid>
-            <pubDate>Thu, 16 Mar 2023 15:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[차가 우러나길 기다린다. 티룸에서 찾은 고요한 마음과 정취.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/14dbb413-343e-4b19-8252-eec31ec82d56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전국의 효녀효자들 긴장해... 조용필 5년 만의 잠실 주경기장 콘서트, 시작은 언제? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1304,6 +1303,20 @@
             <content:encoded><![CDATA[싱어송라이터 소수빈이 더블 미니 싱글 〈Need to talk〉로 반복된 일상에서 벗어나자고 손을 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[천원 짜리 변호사 만난 갓도기? SBS 세계관에서 계속 충돌하는 남궁민X이제훈 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/76124</link>
+            <guid>https://www.elle.co.kr/article/76124</guid>
+            <pubDate>Fri, 24 Mar 2023 09:15:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a99933c5-4ec7-4fca-ac18-ce39e89120c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 디즈니 플러스도 반등세? 유재석X 이성민X이연희가 있는 2023 오리지널 라인업.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/76122</link>
+            <guid>https://www.elle.co.kr/article/76122</guid>
+            <pubDate>Fri, 24 Mar 2023 09:15:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a060a3fc-b2c0-4022-a34c-25d1971ffe9a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조금 설쳤던(?) '깝동' 출신 이도현, 눈물 나도록 속 깊은 가족 사랑 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/76062</link>
             <guid>https://www.elle.co.kr/article/76062</guid>
@@ -1323,14 +1336,12 @@
             <link>https://www.elle.co.kr/article/75987</link>
             <guid>https://www.elle.co.kr/article/75987</guid>
             <pubDate>Tue, 21 Mar 2023 04:15:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/d4bc00cf-ac13-4d68-ac0f-4a2075ed702a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벌써 네 번째 부부되는 장나라X장혁, 이번엔 가족 코미디? (ft. 시트콤 장인 이순재) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/75986</link>
             <guid>https://www.elle.co.kr/article/75986</guid>
             <pubDate>Tue, 21 Mar 2023 03:14:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e200e123-9967-4a5d-9a7a-bc69d6ca0839.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['더 글로리' 문동은이 준 빨간 립스틱? 엘르 염혜란 화보에 댓글 단 송혜교 우정스타그램 근황 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1375,19 +1386,6 @@
             <link>https://www.elle.co.kr/article/75835</link>
             <guid>https://www.elle.co.kr/article/75835</guid>
             <pubDate>Wed, 15 Mar 2023 04:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[용두용미+권선징악 그 자체! 손에 땀을 쥐게 한, '더 글로리' 파트2 명장면 모음 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/75772</link>
-            <guid>https://www.elle.co.kr/article/75772</guid>
-            <pubDate>Mon, 13 Mar 2023 09:15:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[아시아계 최초 오스카 여우주연상은 양자경! 2023 아카데미, '에에올'이 새로 쓴 역사.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/75761</link>
-            <guid>https://www.elle.co.kr/article/75761</guid>
-            <pubDate>Mon, 13 Mar 2023 06:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[여성, 그리고 어머니들에게 전한 뭉클한 소감까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전형성을 벗어난 만화적 상상력! 작가 이학민의 유머러스한 좌표들 #더메이커스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
