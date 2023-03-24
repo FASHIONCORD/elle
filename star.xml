@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 09:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 10:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[34kg 감량에 건강미까지? '박성광 전 매니저' 임송의 체중 감량 노하우 총정리! #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/76089</link>
+            <guid>https://www.elle.co.kr/article/76089</guid>
+            <pubDate>Fri, 24 Mar 2023 10:14:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/fe83b810-5d8c-463f-8f88-bd1ae82f040d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['하트시그널3' 박지현 결혼! 예비신랑은 누구?]]></title>
             <link>https://www.elle.co.kr/article/76088</link>
@@ -60,14 +67,6 @@
             <pubDate>Thu, 23 Mar 2023 02:08:12 GMT</pubDate>
             <content:encoded><![CDATA[새롭게 마주한 리아의 말간 얼굴.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/89c2acab-d3da-435c-b7c7-0f3fc2c42e14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도도한 고양이처럼! 스타들의 스모키 메이크업 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/76020</link>
-            <guid>https://www.elle.co.kr/article/76020</guid>
-            <pubDate>Wed, 22 Mar 2023 19:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[이제 블랙 아이라이너와 친해질 시간, 셀러브리티가 사랑하는 스모키 메이크업을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/84e36ae3-2af9-40b0-82c7-4be5c774507d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
