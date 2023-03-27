@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 08:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 09:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기상캐스터 박연진 볼 수 있나? 임지연의 JTBC 뉴스룸 출연 소식에 관심 쏠리는 이유.txt]]></title>
+            <link>https://www.elle.co.kr/article/76128</link>
+            <guid>https://www.elle.co.kr/article/76128</guid>
+            <pubDate>Mon, 27 Mar 2023 09:14:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/860c4d4e-cc3f-44e1-8739-075befff049a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천원 짜리 변호사 만난 갓도기? SBS 세계관에서 계속 충돌하는 남궁민X이제훈]]></title>
             <link>https://www.elle.co.kr/article/76124</link>
@@ -59,14 +66,6 @@
             <pubDate>Fri, 24 Mar 2023 07:12:14 GMT</pubDate>
             <content:encoded><![CDATA[(ft. 추억의 테크토닉)]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/c448f300-0700-4238-8d93-52f675fd5bea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봉태규 하시시박의 느낌 있는 커플룩 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/76057</link>
-            <guid>https://www.elle.co.kr/article/76057</guid>
-            <pubDate>Fri, 24 Mar 2023 01:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[따로 또 같이! 각자의 개성을 담은 ‘옷잘알’ 부부 봉태규 하시시박의 커플룩을 모아봤습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/0a829d41-2fd1-4dc5-bcaa-af9171eecf31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

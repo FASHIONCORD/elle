@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 08:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 09:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기상캐스터 박연진 볼 수 있나? 임지연의 JTBC 뉴스룸 출연 소식에 관심 쏠리는 이유.txt]]></title>
+            <link>https://www.elle.co.kr/article/76128</link>
+            <guid>https://www.elle.co.kr/article/76128</guid>
+            <pubDate>Mon, 27 Mar 2023 09:14:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/860c4d4e-cc3f-44e1-8739-075befff049a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천원 짜리 변호사 만난 갓도기? SBS 세계관에서 계속 충돌하는 남궁민X이제훈]]></title>
             <link>https://www.elle.co.kr/article/76124</link>
@@ -59,13 +66,6 @@
             <pubDate>Fri, 24 Mar 2023 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[지속가능한 삶을 위한 움직임. 그 역동적인 진화 속에 발견되어 탄생한 재료와 놀라운 미학.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/a44ca1f9-f976-4c12-b255-dd265c41b898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몇 년 만이야...! '크라임씬'에 '하트시그널'까지, 벌써 레전드 에피 기대되는 예능.list]]></title>
-            <link>https://www.elle.co.kr/article/76006</link>
-            <guid>https://www.elle.co.kr/article/76006</guid>
-            <pubDate>Fri, 24 Mar 2023 03:14:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/9712bb2b-d2c1-4b47-8570-c6ce56f80de6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
