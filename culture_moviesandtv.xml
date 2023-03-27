@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 09:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 10:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조승우 이미지 변신에 각양각색 에피소드까지! '신성한, 이혼' 인기 요인 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/76192</link>
+            <guid>https://www.elle.co.kr/article/76192</guid>
+            <pubDate>Mon, 27 Mar 2023 10:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[전작 '비밀의 숲' 황시목과는 전혀 다른 캐릭터로 열연 중인 조승우!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c9356036-2ccf-447d-8ea3-7a562f09c7b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴욕 한복판에 깜짝 등장한 영화 ‘조커: 폴리 아 두’ 속 '할리 퀸' 레이디 가가!]]></title>
             <link>https://www.elle.co.kr/article/76191</link>
@@ -35,7 +43,6 @@
             <link>https://www.elle.co.kr/article/76129</link>
             <guid>https://www.elle.co.kr/article/76129</guid>
             <pubDate>Fri, 24 Mar 2023 11:11:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/013aa897-2b53-42d9-a160-a70780ce2776.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기상캐스터 박연진 볼 수 있나? 임지연의 JTBC 뉴스룸 출연 소식에 관심 쏠리는 이유.txt]]></title>
@@ -85,12 +92,6 @@
             <link>https://www.elle.co.kr/article/75963</link>
             <guid>https://www.elle.co.kr/article/75963</guid>
             <pubDate>Mon, 20 Mar 2023 11:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['꽃선비' 신예은, 고데기 내려놓고 한복 입었다고? '더 글로리' 출연진 차기작 모음집 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/75957</link>
-            <guid>https://www.elle.co.kr/article/75957</guid>
-            <pubDate>Mon, 20 Mar 2023 09:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
