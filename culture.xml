@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 14:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 15:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잊고 지냈던 관계의 소중함을 일깨워 준 영화 '소울메이트'와 '스즈메의 문단속'의 소녀들_요주의여성 #83]]></title>
+            <link>https://www.elle.co.kr/article/76164</link>
+            <guid>https://www.elle.co.kr/article/76164</guid>
+            <pubDate>Mon, 27 Mar 2023 15:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[자꾸만 곱씹게 되는 소녀들의 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/42460ce3-31c0-4219-8b24-8792fd8fe09b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 시대의 공예가들이 전통 속에 녹인 오색찬연한 감각]]></title>
             <link>https://www.elle.co.kr/article/75656</link>
@@ -57,14 +65,6 @@
             <pubDate>Fri, 24 Mar 2023 20:14:12 GMT</pubDate>
             <content:encoded><![CDATA[2022년 ‘웃긴 야생동물 사진대회(The Comedy Wildlife)’에서 우승을 차지한 건 나무에서 미끄...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/0d640bfe-069f-46c9-8d59-bcd2c25e149e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전형성을 벗어난 만화적 상상력! 작가 이학민의 유머러스한 좌표들 #더메이커스]]></title>
-            <link>https://www.elle.co.kr/article/75655</link>
-            <guid>https://www.elle.co.kr/article/75655</guid>
-            <pubDate>Fri, 24 Mar 2023 11:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/43218abd-9642-4645-954e-4978d3a1248c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
