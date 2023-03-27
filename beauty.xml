@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 11:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 13:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황민현과 클라랑스의 만남]]></title>
+            <link>https://www.elle.co.kr/article/76025</link>
+            <guid>https://www.elle.co.kr/article/76025</guid>
+            <pubDate>Mon, 27 Mar 2023 13:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[성숙한 분위기로 카메라 앞에서 남다른 존재감을 발산하는 황민현과 클라랑스가 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/885ae1ff-8adb-4fa9-9ae7-808fe23ec202.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도도한 고양이처럼! 스타들의 스모키 메이크업 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/76020</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/75880</guid>
             <pubDate>Tue, 21 Mar 2023 09:13:57 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/f5e85193-801d-4d91-a4f2-01e8b95926a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한혜진의 ‘급찐급빠’ 식단 대공개]]></title>
-            <link>https://www.elle.co.kr/article/75860</link>
-            <guid>https://www.elle.co.kr/article/75860</guid>
-            <pubDate>Tue, 21 Mar 2023 09:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[모델 한혜진이 공개한 다이어트 식단으로 건강한 라이프를 시작해보세요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/b928c422-b3a3-4d26-9d8e-4e73df0ba503.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
