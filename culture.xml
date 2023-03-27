@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 06:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 07:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천원 짜리 변호사 만난 갓도기? SBS 세계관에서 계속 충돌하는 남궁민X이제훈]]></title>
+            <link>https://www.elle.co.kr/article/76124</link>
+            <guid>https://www.elle.co.kr/article/76124</guid>
+            <pubDate>Mon, 27 Mar 2023 07:13:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a99933c5-4ec7-4fca-ac18-ce39e89120c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 디즈니 플러스도 반등세? 유재석X 이성민X이연희가 있는 2023 오리지널 라인업.list]]></title>
             <link>https://www.elle.co.kr/article/76122</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/76006</guid>
             <pubDate>Fri, 24 Mar 2023 03:14:05 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/9712bb2b-d2c1-4b47-8570-c6ce56f80de6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[故 강수연 1주기 추모전 '영화롭게 오랫동안', 이때 열린다고? (정보 모음)]]></title>
-            <link>https://www.elle.co.kr/article/75987</link>
-            <guid>https://www.elle.co.kr/article/75987</guid>
-            <pubDate>Thu, 23 Mar 2023 15:14:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/d4bc00cf-ac13-4d68-ac0f-4a2075ed702a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 06:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 07:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDJfNjEg/MDAxNjYyMTAwOTY1MDc0.L_vdQqL4L6t3J2r4FIP3OT8OzzNcg0sQzdeo_rzhsZ8g.JDtqV3gpYfjvs0zLpLiRbNGI9PjGLAosIMTsX8-eiCEg.PNG/I2xkLTW2OQYx4WG1tVkqmu1HRO_Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지금은 카고 팬츠 전성시대 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/76001</link>
+            <guid>https://www.elle.co.kr/article/76001</guid>
+            <pubDate>Mon, 27 Mar 2023 07:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[낙낙한 실루엣에 실용적인 주머니를 장착한 카고 팬츠의 행진.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/f7b4f0a9-683e-4bcc-83b2-8e7d0aca24d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구찌를 비추는 세 개의 페르소나 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/76076</link>
             <guid>https://www.elle.co.kr/article/76076</guid>
@@ -1024,14 +1032,6 @@
             <pubDate>Wed, 22 Mar 2023 19:10:43 GMT</pubDate>
             <content:encoded><![CDATA[슈프림 박스 로고를 입은 다마고치의 정체는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e76418f7-1784-4011-9df1-2506464057a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴고 보스의 수석 크리에이티브 디렉터가 영감을 얻은 도시는? (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/75973</link>
-            <guid>https://www.elle.co.kr/article/75973</guid>
-            <pubDate>Wed, 22 Mar 2023 12:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[마이애미에서 단독으로 열린 보스 2023 S/S 쇼 리포트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/30b64c22-5627-4e01-84ff-f99aa9beb10f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄 그 자체인 소주연 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1157,6 +1157,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/0a829d41-2fd1-4dc5-bcaa-af9171eecf31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[천원 짜리 변호사 만난 갓도기? SBS 세계관에서 계속 충돌하는 남궁민X이제훈 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/76124</link>
+            <guid>https://www.elle.co.kr/article/76124</guid>
+            <pubDate>Fri, 24 Mar 2023 09:15:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a99933c5-4ec7-4fca-ac18-ce39e89120c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드디어 디즈니 플러스도 반등세? 유재석X 이성민X이연희가 있는 2023 오리지널 라인업.list (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/76122</link>
             <guid>https://www.elle.co.kr/article/76122</guid>
@@ -1208,13 +1215,6 @@
             <guid>https://www.elle.co.kr/article/76006</guid>
             <pubDate>Tue, 21 Mar 2023 08:17:20 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/9712bb2b-d2c1-4b47-8570-c6ce56f80de6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[故 강수연 1주기 추모전 '영화롭게 오랫동안', 이때 열린다고? (정보 모음) (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75987</link>
-            <guid>https://www.elle.co.kr/article/75987</guid>
-            <pubDate>Tue, 21 Mar 2023 04:15:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/d4bc00cf-ac13-4d68-ac0f-4a2075ed702a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫 솔로앨범 낸 BTS 지민, 美 '지미 팰런쇼' 뜨겁게 달군 한 마디는? (ft.최애 별명) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1304,6 +1304,14 @@
             <content:encoded><![CDATA[학창 시절 기억 제대로 조작하는 몽환적인 뮤직비디오, 뉴진스가 또 뉴진스했다!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[잊고 지냈던 관계의 소중함을 일깨워 준 영화 '소울메이트'와 '스즈메의 문단속'의 소녀들_요주의여성 #83 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/76164</link>
+            <guid>https://www.elle.co.kr/article/76164</guid>
+            <pubDate>Mon, 27 Mar 2023 07:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[자꾸만 곱씹게 되는 소녀들의 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/42460ce3-31c0-4219-8b24-8792fd8fe09b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['사랑이라 말해요' 김영광과 이성경이 촬영장에서 서로를 피해 다닌 이유는? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/76136</link>
             <guid>https://www.elle.co.kr/article/76136</guid>
@@ -1329,7 +1337,6 @@
             <link>https://www.elle.co.kr/article/76124</link>
             <guid>https://www.elle.co.kr/article/76124</guid>
             <pubDate>Fri, 24 Mar 2023 09:15:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a99933c5-4ec7-4fca-ac18-ce39e89120c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드디어 디즈니 플러스도 반등세? 유재석X 이성민X이연희가 있는 2023 오리지널 라인업.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1380,12 +1387,6 @@
             <guid>https://www.elle.co.kr/article/75903</guid>
             <pubDate>Fri, 17 Mar 2023 09:14:24 GMT</pubDate>
             <content:encoded><![CDATA[송혜교와 '울산 송혜교'의 만남.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4년 논란 끝에 개봉하는 '인어공주' 실사 영화, 호불호 격하게 갈리는 까닭 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/75876</link>
-            <guid>https://www.elle.co.kr/article/75876</guid>
-            <pubDate>Thu, 16 Mar 2023 07:14:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[새 시대의 공예가들이 전통 속에 녹인 오색찬연한 감각 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1542,6 +1543,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/64b7bb37-eaea-4524-b28a-b9733defeaa5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[동심의 세계로 이끄는 바비의 핑크 옷장 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/75881</link>
+            <guid>https://www.elle.co.kr/article/75881</guid>
+            <pubDate>Mon, 27 Mar 2023 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[인형의 집으로 오세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/5c0e34ca-9d67-494e-9feb-8b68b0bd2662.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[엘르 보이스] 철학자 셰프와 먹고마시즘 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/75882</link>
             <guid>https://www.elle.co.kr/article/75882</guid>
@@ -1593,13 +1602,6 @@
             <guid>https://www.elle.co.kr/article/75794</guid>
             <pubDate>Fri, 17 Mar 2023 10:16:39 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/9c2525a6-f7d5-4e35-b872-f0f376ee91b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 지하철·버스에서 마스크 안 써도 된다고? NO 마스크 시대 예고.txt (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/75793</link>
-            <guid>https://www.elle.co.kr/article/75793</guid>
-            <pubDate>Fri, 17 Mar 2023 15:16:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/68e7590b-d9bd-4d1e-8ec3-8e9ffe2c341b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
