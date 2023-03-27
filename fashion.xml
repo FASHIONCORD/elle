@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 18:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 19:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선샤인 구찌]]></title>
+            <link>https://www.elle.co.kr/article/75981</link>
+            <guid>https://www.elle.co.kr/article/75981</guid>
+            <pubDate>Mon, 27 Mar 2023 19:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[나른한 오후를 즐기는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/05052e1b-e454-48fe-9122-e22cd3477fa1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금은 카고 팬츠 전성시대]]></title>
             <link>https://www.elle.co.kr/article/76001</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[내재된 욕망이 마침내 터져버린 걸까? 스포트라이트를 즐기는 샘 스미스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/ff4bd5d7-6782-4a12-9c5d-8ca96bbcbfa8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 ‘이터널 선샤인’ 속 클레멘타인이 입던 바로 그 후디! 요주의 컬래버레이션 3]]></title>
-            <link>https://www.elle.co.kr/article/76017</link>
-            <guid>https://www.elle.co.kr/article/76017</guid>
-            <pubDate>Wed, 22 Mar 2023 19:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[슈프림 박스 로고를 입은 다마고치의 정체는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e76418f7-1784-4011-9df1-2506464057a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
