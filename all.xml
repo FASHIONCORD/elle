@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 23:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 01:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDJfNjEg/MDAxNjYyMTAwOTY1MDc0.L_vdQqL4L6t3J2r4FIP3OT8OzzNcg0sQzdeo_rzhsZ8g.JDtqV3gpYfjvs0zLpLiRbNGI9PjGLAosIMTsX8-eiCEg.PNG/I2xkLTW2OQYx4WG1tVkqmu1HRO_Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스타가 알려주는 카디건 입는 법 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/76114</link>
+            <guid>https://www.elle.co.kr/article/76114</guid>
+            <pubDate>Sat, 25 Mar 2023 19:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[카디건 200% 활용하기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/b585137f-c4ca-41de-bcc0-6120d79a0154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[선샤인 구찌 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/75981</link>
             <guid>https://www.elle.co.kr/article/75981</guid>
@@ -1024,14 +1032,6 @@
             <pubDate>Thu, 23 Mar 2023 09:13:24 GMT</pubDate>
             <content:encoded><![CDATA[2023 봄 여름 시즌, 패션하우스의 얼굴이 된 이색 캠페인 모델.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e5721465-bf11-4e6f-88ad-c016528d3ee8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샘 스미스의 패션 일탈 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/75978</link>
-            <guid>https://www.elle.co.kr/article/75978</guid>
-            <pubDate>Thu, 23 Mar 2023 09:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[내재된 욕망이 마침내 터져버린 걸까? 스포트라이트를 즐기는 샘 스미스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/ff4bd5d7-6782-4a12-9c5d-8ca96bbcbfa8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[황민현과 클라랑스의 만남 (엘르 코리아 ─ 뷰티)]]></title>
