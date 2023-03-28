@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 10:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 11:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/f5e85193-801d-4d91-a4f2-01e8b95926a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴욕 한복판에 깜짝 등장한 영화 ‘조커: 폴리 아 두’ 속 '할리 퀸' 레이디 가가! (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76191</link>
+            <guid>https://www.elle.co.kr/article/76191</guid>
+            <pubDate>Mon, 27 Mar 2023 09:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[시위대와 경찰에 둘러싸인 그녀가 향한 곳은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/64200916-137b-469c-9030-681802b79d20.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배우 채정안의 보디 케어 잇템 6 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76150</link>
             <guid>https://www.elle.co.kr/article/76150</guid>
@@ -1146,14 +1154,6 @@
             <pubDate>Sat, 25 Mar 2023 19:10:43 GMT</pubDate>
             <content:encoded><![CDATA[카디건 200% 활용하기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/b585137f-c4ca-41de-bcc0-6120d79a0154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김희애와 문소리가 그린 강인함 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76046</link>
-            <guid>https://www.elle.co.kr/article/76046</guid>
-            <pubDate>Fri, 24 Mar 2023 20:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;퀸메이커&gt;의 황도희와 오경숙. 연대와 협력으로 조우한 두 사람.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/8542e136-68f6-48fd-ab9c-df9fcc7999c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채소와 함께한 시간 (엘르 코리아 ─ 컬쳐)]]></title>
