@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 09:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 10:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1023,7 +1023,7 @@
             <guid>https://www.elle.co.kr/article/76050</guid>
             <pubDate>Thu, 23 Mar 2023 19:11:46 GMT</pubDate>
             <content:encoded><![CDATA[때론 유연하게, 때론 묵직하게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/bdd9eb4c-904b-4e47-a793-4b7583611041.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/bdd9eb4c-904b-4e47-a793-4b7583611041.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모스키노에서 보낸 10년, 제레미 스콧의 아이코닉한 컬렉션 5 (엘르 코리아 ─ 패션)]]></title>
@@ -1156,6 +1156,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/8542e136-68f6-48fd-ab9c-df9fcc7999c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[채소와 함께한 시간 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/76194</link>
+            <guid>https://www.elle.co.kr/article/76194</guid>
+            <pubDate>Tue, 28 Mar 2023 10:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;채소의 계절&gt;을 펼쳤다. 요리사 재인이 채소와 함께 살아낸 열두 달의 기록을.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a69502fc-7dfc-441d-978a-708346b1faf0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조승우 이미지 변신에 각양각색 에피소드까지! '신성한, 이혼' 인기 요인 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/76192</link>
             <guid>https://www.elle.co.kr/article/76192</guid>
@@ -1207,13 +1215,6 @@
             <guid>https://www.elle.co.kr/article/76128</guid>
             <pubDate>Fri, 24 Mar 2023 10:14:57 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/860c4d4e-cc3f-44e1-8739-075befff049a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천원 짜리 변호사 만난 갓도기? SBS 세계관에서 계속 충돌하는 남궁민X이제훈 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/76124</link>
-            <guid>https://www.elle.co.kr/article/76124</guid>
-            <pubDate>Fri, 24 Mar 2023 09:15:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a99933c5-4ec7-4fca-ac18-ce39e89120c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫 솔로앨범 낸 BTS 지민, 美 '지미 팰런쇼' 뜨겁게 달군 한 마디는? (ft.최애 별명) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1303,6 +1304,13 @@
             <content:encoded><![CDATA[학창 시절 기억 제대로 조작하는 몽환적인 뮤직비디오, 뉴진스가 또 뉴진스했다!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[영화 '스즈메의 문단속' 300만 돌파! '너의 이름은' 기록도 넘어설까? (ft.신카이 감독 내한) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/76242</link>
+            <guid>https://www.elle.co.kr/article/76242</guid>
+            <pubDate>Tue, 28 Mar 2023 10:15:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/c3b3c0eb-d459-4fd1-bbed-b038ed71664d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조승우 이미지 변신에 각양각색 에피소드까지! '신성한, 이혼' 인기 요인 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/76192</link>
             <guid>https://www.elle.co.kr/article/76192</guid>
@@ -1331,7 +1339,6 @@
             <link>https://www.elle.co.kr/article/76136</link>
             <guid>https://www.elle.co.kr/article/76136</guid>
             <pubDate>Fri, 24 Mar 2023 20:14:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/63c05b87-7100-4f50-a876-28adaae8d3bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫 솔로앨범 낸 BTS 지민, 美 '지미 팰런쇼' 뜨겁게 달군 한 마디는? (ft.최애 별명) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1381,12 +1388,6 @@
             <link>https://www.elle.co.kr/article/75986</link>
             <guid>https://www.elle.co.kr/article/75986</guid>
             <pubDate>Tue, 21 Mar 2023 03:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 문동은이 준 빨간 립스틱? 엘르 염혜란 화보에 댓글 단 송혜교 우정스타그램 근황 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/75963</link>
-            <guid>https://www.elle.co.kr/article/75963</guid>
-            <pubDate>Mon, 20 Mar 2023 11:13:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[에르메스가 48년생 그 작가를 주목한 이유? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>

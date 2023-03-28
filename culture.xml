@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 09:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 10:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채소와 함께한 시간]]></title>
+            <link>https://www.elle.co.kr/article/76194</link>
+            <guid>https://www.elle.co.kr/article/76194</guid>
+            <pubDate>Tue, 28 Mar 2023 10:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;채소의 계절&gt;을 펼쳤다. 요리사 재인이 채소와 함께 살아낸 열두 달의 기록을.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a69502fc-7dfc-441d-978a-708346b1faf0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조승우 이미지 변신에 각양각색 에피소드까지! '신성한, 이혼' 인기 요인 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/76192</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/76128</guid>
             <pubDate>Mon, 27 Mar 2023 09:14:46 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/860c4d4e-cc3f-44e1-8739-075befff049a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천원 짜리 변호사 만난 갓도기? SBS 세계관에서 계속 충돌하는 남궁민X이제훈]]></title>
-            <link>https://www.elle.co.kr/article/76124</link>
-            <guid>https://www.elle.co.kr/article/76124</guid>
-            <pubDate>Mon, 27 Mar 2023 07:13:28 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a99933c5-4ec7-4fca-ac18-ce39e89120c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
