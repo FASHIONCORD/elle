@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 14:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 15:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유야 하시즈메가 왔다]]></title>
+            <link>https://www.elle.co.kr/article/76195</link>
+            <guid>https://www.elle.co.kr/article/76195</guid>
+            <pubDate>Tue, 28 Mar 2023 15:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[단색 배경의 애니메이션 캐릭터가 눈물을 흘리는 ‘아이워터’ 시리즈로 글로벌 아트 신을 뜨겁게...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/7abd7592-05c3-486f-a360-b9deabc0758a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채소와 함께한 시간]]></title>
             <link>https://www.elle.co.kr/article/76194</link>
@@ -60,13 +68,6 @@
             <guid>https://www.elle.co.kr/article/76129</guid>
             <pubDate>Mon, 27 Mar 2023 10:17:44 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/013aa897-2b53-42d9-a160-a70780ce2776.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기상캐스터 박연진 볼 수 있나? 임지연의 JTBC 뉴스룸 출연 소식에 관심 쏠리는 이유.txt]]></title>
-            <link>https://www.elle.co.kr/article/76128</link>
-            <guid>https://www.elle.co.kr/article/76128</guid>
-            <pubDate>Mon, 27 Mar 2023 09:14:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/860c4d4e-cc3f-44e1-8739-075befff049a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

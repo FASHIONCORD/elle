@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 14:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 15:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포토그래퍼 미카엘 올손의 자화상 프로젝트]]></title>
+            <link>https://www.elle.co.kr/article/75657</link>
+            <guid>https://www.elle.co.kr/article/75657</guid>
+            <pubDate>Tue, 28 Mar 2023 15:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2007년에 시작한 그의 자화상 프로젝트는 세계를 잇는 여행의 자취와 자신의 정체성을 연결시킨다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/eac46438-baae-426a-81fd-7c96762f2be7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에르메스가 48년생 그 작가를 주목한 이유?]]></title>
             <link>https://www.elle.co.kr/article/76241</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76195</guid>
             <pubDate>Mon, 27 Mar 2023 13:25:50 GMT</pubDate>
             <content:encoded><![CDATA[단색 배경의 애니메이션 캐릭터가 눈물을 흘리는 ‘아이워터’ 시리즈로 글로벌 아트 신을 뜨겁게...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/7abd7592-05c3-486f-a360-b9deabc0758a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새 시대의 공예가들이 전통 속에 녹인 오색찬연한 감각]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/75810</guid>
             <pubDate>Tue, 14 Mar 2023 08:20:31 GMT</pubDate>
             <content:encoded><![CDATA[‘건축계 노벨상’의 영예를 안은 주인공.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[천안문을 향해 가운뎃손가락을 들어 보인 그가 돌아왔다! 이른 봄과 함께 찾아온 이달의 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/75771</link>
-            <guid>https://www.elle.co.kr/article/75771</guid>
-            <pubDate>Mon, 13 Mar 2023 09:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[국보와 보물을 총망라한 만큼 놓쳐서는 안 될 역대급 전시는?]]></content:encoded>
         </item>
     </channel>
 </rss>
