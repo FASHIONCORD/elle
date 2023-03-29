@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 01:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 02:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NOW OR NEVER]]></title>
+            <link>https://www.elle.co.kr/article/76168</link>
+            <guid>https://www.elle.co.kr/article/76168</guid>
+            <pubDate>Wed, 29 Mar 2023 02:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[지금 놓치면 기약 없다. 패션계의 협업 그리고 한정판의 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/42b4a1b9-2a33-4f63-8f6a-a4971bc6b669.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타들의 센스 있는 양말 포인트 패션 5]]></title>
             <link>https://www.elle.co.kr/article/76135</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Mar 2023 15:13:59 GMT</pubDate>
             <content:encoded><![CDATA[따로 또 같이! 각자의 개성을 담은 ‘옷잘알’ 부부 봉태규 하시시박의 커플룩을 모아봤습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/0a829d41-2fd1-4dc5-bcaa-af9171eecf31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이하늬와 브루넬로 쿠치넬리가 다시 움직일 때]]></title>
-            <link>https://www.elle.co.kr/article/76050</link>
-            <guid>https://www.elle.co.kr/article/76050</guid>
-            <pubDate>Fri, 24 Mar 2023 07:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[때론 유연하게, 때론 묵직하게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/bdd9eb4c-904b-4e47-a793-4b7583611041.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
