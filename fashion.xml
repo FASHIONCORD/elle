@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 08:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 09:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LOCK IN! 김경태와 박배, 티파니 락 컬렉션의 경이로운 조우]]></title>
+            <link>https://www.elle.co.kr/article/76231</link>
+            <guid>https://www.elle.co.kr/article/76231</guid>
+            <pubDate>Wed, 29 Mar 2023 09:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[믿을 수 없을 만큼 가까이 다가가 오랜 시간 사물의 물성을 관찰하는 아티스트 김경태. 움직이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/936f3f9c-e34e-4b2e-810c-6586749df730.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 손을 자유롭게! 스포티 백팩의 매력에 푹 빠진 스타 5]]></title>
             <link>https://www.elle.co.kr/article/76200</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Mar 2023 07:13:02 GMT</pubDate>
             <content:encoded><![CDATA[낙낙한 실루엣에 실용적인 주머니를 장착한 카고 팬츠의 행진.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/f7b4f0a9-683e-4bcc-83b2-8e7d0aca24d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구찌를 비추는 세 개의 페르소나]]></title>
-            <link>https://www.elle.co.kr/article/76076</link>
-            <guid>https://www.elle.co.kr/article/76076</guid>
-            <pubDate>Fri, 24 Mar 2023 19:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스 하니, 할리 베일리, 줄리아 가너가 함께한 구찌 홀스빗 1955 캠페인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/0222ad7e-e743-4064-8d25-ebfc57fa3598.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
