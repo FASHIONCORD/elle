@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 18:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 19:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황혼빛으로 물든 베르사체]]></title>
+            <link>https://www.elle.co.kr/article/76233</link>
+            <guid>https://www.elle.co.kr/article/76233</guid>
+            <pubDate>Wed, 29 Mar 2023 19:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[LA에서 열린 베르사체 2023 가을/겨울 쇼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/72a4fc5e-a87c-4fd7-bc8a-b51c61f986a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LOCK IN! 김경태와 박배, 티파니 락 컬렉션의 경이로운 조우]]></title>
             <link>https://www.elle.co.kr/article/76231</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Mar 2023 19:11:38 GMT</pubDate>
             <content:encoded><![CDATA[나른한 오후를 즐기는 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/05052e1b-e454-48fe-9122-e22cd3477fa1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 카고 팬츠 전성시대]]></title>
-            <link>https://www.elle.co.kr/article/76001</link>
-            <guid>https://www.elle.co.kr/article/76001</guid>
-            <pubDate>Mon, 27 Mar 2023 07:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[낙낙한 실루엣에 실용적인 주머니를 장착한 카고 팬츠의 행진.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/f7b4f0a9-683e-4bcc-83b2-8e7d0aca24d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
