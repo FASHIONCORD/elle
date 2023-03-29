@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 10:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 11:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전세계가 주목한 'BTS 정국의 언더웨어 영상' 클라스! 다음 화보도 대박? (ft.캘빈클라인)]]></title>
+            <link>https://www.elle.co.kr/article/76243</link>
+            <guid>https://www.elle.co.kr/article/76243</guid>
+            <pubDate>Wed, 29 Mar 2023 11:12:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/27bdfbd7-3356-4e01-93bf-c2b8756a1650.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 뷔의 마음에 빈 방은 없다]]></title>
             <link>https://www.elle.co.kr/article/76190</link>
@@ -62,13 +69,6 @@
             <pubDate>Mon, 27 Mar 2023 19:12:29 GMT</pubDate>
             <content:encoded><![CDATA[에스프레소 바부터 쇼핑 스폿까지, 가로수길을 제대로 즐기고 싶다면 주목하세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/26/f80669c7-dcd3-4b13-a0d4-b0a646974fbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사랑이라 말해요' 김영광과 이성경이 촬영장에서 서로를 피해 다닌 이유는?]]></title>
-            <link>https://www.elle.co.kr/article/76136</link>
-            <guid>https://www.elle.co.kr/article/76136</guid>
-            <pubDate>Mon, 27 Mar 2023 10:17:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/63c05b87-7100-4f50-a876-28adaae8d3bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
