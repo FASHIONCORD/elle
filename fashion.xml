@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 04:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 05:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙한 시스루 패션을 선보인 셀러브리티 5]]></title>
+            <link>https://www.elle.co.kr/article/76250</link>
+            <guid>https://www.elle.co.kr/article/76250</guid>
+            <pubDate>Thu, 30 Mar 2023 05:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[문가영, 전종서, 헤일리 비버 등 스타들의 과감한 시스루 룩을 구경해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/a5ef1fb0-cb4b-453c-a798-6a279f864e90.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황혼빛으로 물든 베르사체]]></title>
             <link>https://www.elle.co.kr/article/76233</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Mar 2023 01:02:35 GMT</pubDate>
             <content:encoded><![CDATA[카디건 200% 활용하기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/b585137f-c4ca-41de-bcc0-6120d79a0154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선샤인 구찌]]></title>
-            <link>https://www.elle.co.kr/article/75981</link>
-            <guid>https://www.elle.co.kr/article/75981</guid>
-            <pubDate>Mon, 27 Mar 2023 19:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[나른한 오후를 즐기는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/05052e1b-e454-48fe-9122-e22cd3477fa1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
