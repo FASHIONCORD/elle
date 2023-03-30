@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 18:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 19:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -823,7 +823,6 @@
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34990565&amp;memberNo=12504201&amp;navigationType=push</guid>
             <pubDate>Tue, 20 Dec 2022 03:15:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 손으로 직접 뽑는 엘르 뷰티어워즈2023 베스트 뷰티템! (네이버 포스트 ─ 엘르 코리아 ─ NOTICE)]]></title>
@@ -1096,6 +1095,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/70b27917-d5d5-4908-81de-4f0ba29fdbe4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안영미부터 허니제이까지! 귀여우면서 힙한 스타들의 만삭 패션 모음.zip (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76321</link>
+            <guid>https://www.elle.co.kr/article/76321</guid>
+            <pubDate>Thu, 30 Mar 2023 19:10:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/87b0765f-7033-45f6-9003-02f75e1d1c3b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[20kg 감량한 '환승연애2' 이나연! 운동보다 '이것'을 더 강조했다는데? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76312</link>
             <guid>https://www.elle.co.kr/article/76312</guid>
@@ -1149,14 +1155,6 @@
             <pubDate>Wed, 29 Mar 2023 02:40:58 GMT</pubDate>
             <content:encoded><![CDATA[캐주얼하고 편안한데 쿨하기까지 한 스포티 백팩 트렌드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/e4410b8d-3c43-472b-9fee-834a4b621b84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박진영, 아이들과 놀이동산 갔다가 근육통? 스타들의 육아스타그램 근황 모음.zip (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76193</link>
-            <guid>https://www.elle.co.kr/article/76193</guid>
-            <pubDate>Wed, 29 Mar 2023 02:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[박진영부터 황정음, 이범수-이윤진 부부까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a8795fd3-994c-4d9e-91cb-1fed85d85179.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 '스즈메의 문단속' 300만 돌파! '너의 이름은' 기록도 넘어설까? (ft.신카이 감독 내한) (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1491,6 +1489,14 @@
             <content:encoded><![CDATA[차가 우러나길 기다린다. 티룸에서 찾은 고요한 마음과 정취.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[채소와 함께한 시간 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/76194</link>
+            <guid>https://www.elle.co.kr/article/76194</guid>
+            <pubDate>Tue, 28 Mar 2023 10:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;채소의 계절&gt;을 펼쳤다. 요리사 재인이 채소와 함께 살아낸 열두 달의 기록을.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a69502fc-7dfc-441d-978a-708346b1faf0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주우재가 단골 인증한 가로수길 핫플은 어디? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/76140</link>
             <guid>https://www.elle.co.kr/article/76140</guid>
@@ -1541,13 +1547,6 @@
             <guid>https://www.elle.co.kr/article/75976</guid>
             <pubDate>Fri, 24 Mar 2023 07:12:55 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/f413bfca-cca9-4978-bff6-e35dad2e319c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9년을 기다린 애플페이, 이제 진짜로 된다! 쓸 수 있는 기종과 매장은? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/75941</link>
-            <guid>https://www.elle.co.kr/article/75941</guid>
-            <pubDate>Thu, 23 Mar 2023 06:17:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/385f2c14-2def-4a63-8273-a4aadc0fcdae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['Z세대' 대학생들이 가장 많이 사용하는 은행 앱 1위는? (엘르 코리아 ─ 소사이어티)]]></title>
