@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 12:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 13:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르 코르뷔지에의 제자 다비데 파카노브스키가 설계한 나폴리 해안 저택에 가다]]></title>
+            <link>https://www.elle.co.kr/article/75658</link>
+            <guid>https://www.elle.co.kr/article/75658</guid>
+            <pubDate>Fri, 31 Mar 2023 13:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[대담한 합리주의 건축이 돋보이는 저택에 초대받았다. 다비데 파카노브스키가 설계한 '빌라 크레...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/3660a94d-160d-421c-9568-9998dbf6bc36.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타고난 연기 천재 고양이, 묘생 6년차 '아울 키티' 타이타닉에 등장?]]></title>
             <link>https://www.elle.co.kr/article/76316</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 28 Mar 2023 15:15:13 GMT</pubDate>
             <content:encoded><![CDATA[단색 배경의 애니메이션 캐릭터가 눈물을 흘리는 ‘아이워터’ 시리즈로 글로벌 아트 신을 뜨겁게...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/7abd7592-05c3-486f-a360-b9deabc0758a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채소와 함께한 시간]]></title>
-            <link>https://www.elle.co.kr/article/76194</link>
-            <guid>https://www.elle.co.kr/article/76194</guid>
-            <pubDate>Tue, 28 Mar 2023 10:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;채소의 계절&gt;을 펼쳤다. 요리사 재인이 채소와 함께 살아낸 열두 달의 기록을.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a69502fc-7dfc-441d-978a-708346b1faf0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
