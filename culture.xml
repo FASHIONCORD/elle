@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 10:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 11:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타고난 연기 천재 고양이, 묘생 6년차 '아울 키티' 타이타닉에 등장?]]></title>
+            <link>https://www.elle.co.kr/article/76316</link>
+            <guid>https://www.elle.co.kr/article/76316</guid>
+            <pubDate>Fri, 31 Mar 2023 11:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[레오나르도 디카프리오와 데이트를하고, 영화제 레드 카펫을 밟고. 아빠가 영화 감독이면 고양이에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/98a404f7-20a6-4929-92ea-eb2d9e0ec6d4.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[포토그래퍼 미카엘 올손의 자화상 프로젝트]]></title>
             <link>https://www.elle.co.kr/article/75657</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 28 Mar 2023 10:15:22 GMT</pubDate>
             <content:encoded><![CDATA[&lt;채소의 계절&gt;을 펼쳤다. 요리사 재인이 채소와 함께 살아낸 열두 달의 기록을.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a69502fc-7dfc-441d-978a-708346b1faf0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조승우 이미지 변신에 각양각색 에피소드까지! '신성한, 이혼' 인기 요인 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/76192</link>
-            <guid>https://www.elle.co.kr/article/76192</guid>
-            <pubDate>Tue, 28 Mar 2023 09:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[전작 '비밀의 숲' 황시목과는 전혀 다른 캐릭터로 열연 중인 조승우!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c9356036-2ccf-447d-8ea3-7a562f09c7b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
