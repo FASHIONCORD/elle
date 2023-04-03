@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 09:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 10:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더 범규와 태현은 오늘도 너무나 젊다]]></title>
+            <link>https://www.elle.co.kr/article/76406</link>
+            <guid>https://www.elle.co.kr/article/76406</guid>
+            <pubDate>Mon, 03 Apr 2023 10:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[내일도 오늘처럼 함께 마주보고 앉아있을 두 사람. 투모로우바이투게더 범규와 태현이 특별한 시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/b6033a36-1f15-4d98-8ee8-1a15926e8c62.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정호연-조인성-황정민과 할리우드 배우 부부가 한 스크린에? '곡성' 나홍진 감독의 신작 '호프'!]]></title>
             <link>https://www.elle.co.kr/article/76392</link>
@@ -59,14 +67,6 @@
             <pubDate>Fri, 31 Mar 2023 11:11:33 GMT</pubDate>
             <content:encoded><![CDATA[Gaze, absorption, breakthrough, maybe sometimes resignation. V’s world built up by cont...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/42473ebd-556a-4ce7-8ec9-5628810aecf7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런웨이부터 스타들의 SNS 속 리얼웨이까지, 올봄 데님 활용법!]]></title>
-            <link>https://www.elle.co.kr/article/76331</link>
-            <guid>https://www.elle.co.kr/article/76331</guid>
-            <pubDate>Fri, 31 Mar 2023 08:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[지금, 이 계절에 빠질 수 없는 데님 패션이 한층 더 진화했습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/29174b8f-f65d-46ca-b888-c99e07bc911c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
