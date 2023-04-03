@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 06:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 07:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손예진, 현빈과의 결혼 1주년 자축! 미공개 웨딩 화보도 공개했다는데?]]></title>
+            <link>https://www.elle.co.kr/article/76391</link>
+            <guid>https://www.elle.co.kr/article/76391</guid>
+            <pubDate>Mon, 03 Apr 2023 07:13:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/94dc5a9e-1349-4d4b-9595-2c5b81c1fb0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하니, 양재웅과의 커플 사진 첫 공개! 럽스타에 아버지도 함께?]]></title>
             <link>https://www.elle.co.kr/article/76383</link>
@@ -60,13 +67,6 @@
             <pubDate>Fri, 31 Mar 2023 02:14:36 GMT</pubDate>
             <content:encoded><![CDATA[&lt;승리호&gt;의 순이, &lt;이상한 변호사 우영우&gt;의 어린 영우, &lt;더 글로리&gt;의 하예솔. 모두 내 이름을 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/dfc99e8b-af85-4909-b5ca-9b3b5ac7fc89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안영미부터 허니제이까지! 귀여우면서 힙한 스타들의 만삭 패션 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/76321</link>
-            <guid>https://www.elle.co.kr/article/76321</guid>
-            <pubDate>Thu, 30 Mar 2023 19:10:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/87b0765f-7033-45f6-9003-02f75e1d1c3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
