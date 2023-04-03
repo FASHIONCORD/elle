@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 08:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 09:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1097,6 +1097,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/21f3ce5a-fbdf-4986-b5e2-b7c93df6974d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정호연-조인성-황정민과 할리우드 배우 부부가 한 스크린에? '곡성' 나홍진 감독의 신작 '호프'! (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76392</link>
+            <guid>https://www.elle.co.kr/article/76392</guid>
+            <pubDate>Fri, 31 Mar 2023 11:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[그야말로 초특급 라인업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/07f2e714-5e28-4670-a60b-37de4a233cb1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[손예진, 현빈과의 결혼 1주년 자축! 미공개 웨딩 화보도 공개했다는데? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76391</link>
             <guid>https://www.elle.co.kr/article/76391</guid>
@@ -1150,12 +1158,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/29174b8f-f65d-46ca-b888-c99e07bc911c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[알록달록 열 살 배우 지율이의 세상 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76311</link>
-            <guid>https://www.elle.co.kr/article/76311</guid>
-            <pubDate>Fri, 31 Mar 2023 02:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;승리호&gt;의 순이, &lt;이상한 변호사 우영우&gt;의 어린 영우, &lt;더 글로리&gt;의 하예솔. 모두 내 이름을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/dfc99e8b-af85-4909-b5ca-9b3b5ac7fc89.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[안도 타다오는 이제 무엇을 짓고 싶을까? (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/76393</link>
+            <guid>https://www.elle.co.kr/article/76393</guid>
+            <pubDate>Fri, 31 Mar 2023 13:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[“가진 건 핸디캡뿐이었다”고 고백하는 건축가의 업력이 어느덧 50년을 넘었다. 오는 4월, 한국...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/d6f7b686-9fba-4ae7-a5f8-fa819db7de69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정호연-조인성-황정민과 할리우드 배우 부부가 한 스크린에? '곡성' 나홍진 감독의 신작 '호프'! (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1211,14 +1219,6 @@
             <guid>https://www.elle.co.kr/article/76242</guid>
             <pubDate>Tue, 28 Mar 2023 10:15:42 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/c3b3c0eb-d459-4fd1-bbed-b038ed71664d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에르메스가 48년생 그 작가를 주목한 이유? (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/76241</link>
-            <guid>https://www.elle.co.kr/article/76241</guid>
-            <pubDate>Tue, 28 Mar 2023 09:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[아틀리에 에르메스가 후원하는 &lt;크리스티앙 본느프와 : 토끼의 질주&gt; 전시를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/f6c4dca8-8bc5-4ae6-86df-67c3aa42ea3c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫 솔로앨범 낸 BTS 지민, 美 '지미 팰런쇼' 뜨겁게 달군 한 마디는? (ft.최애 별명) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1308,6 +1308,13 @@
             <content:encoded><![CDATA[학창 시절 기억 제대로 조작하는 몽환적인 뮤직비디오, 뉴진스가 또 뉴진스했다!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[버닝썬 소환? 이제훈 활약 돋보이는 '모범택시2' 후반부 관전 포인트 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/76435</link>
+            <guid>https://www.elle.co.kr/article/76435</guid>
+            <pubDate>Mon, 03 Apr 2023 09:13:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/d3dccca1-b167-468d-bf5e-a1c7a81a4584.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정호연-조인성-황정민과 할리우드 배우 부부가 한 스크린에? '곡성' 나홍진 감독의 신작 '호프'! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/76392</link>
             <guid>https://www.elle.co.kr/article/76392</guid>
@@ -1336,7 +1343,6 @@
             <link>https://www.elle.co.kr/article/76242</link>
             <guid>https://www.elle.co.kr/article/76242</guid>
             <pubDate>Tue, 28 Mar 2023 10:15:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/c3b3c0eb-d459-4fd1-bbed-b038ed71664d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조승우 이미지 변신에 각양각색 에피소드까지! '신성한, 이혼' 인기 요인 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1388,13 +1394,6 @@
             <link>https://www.elle.co.kr/article/76122</link>
             <guid>https://www.elle.co.kr/article/76122</guid>
             <pubDate>Fri, 24 Mar 2023 09:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[조금 설쳤던(?) '깝동' 출신 이도현, 눈물 나도록 속 깊은 가족 사랑 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/76062</link>
-            <guid>https://www.elle.co.kr/article/76062</guid>
-            <pubDate>Thu, 23 Mar 2023 02:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[(ft. 추억의 테크토닉)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[벤자민 카나렉이 거리 위에서 만난 사람들 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
