@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 04:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 05:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1034,6 +1034,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/72a4fc5e-a87c-4fd7-bc8a-b51c61f986a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[번진 거 아니고 '오버 립' (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/76196</link>
+            <guid>https://www.elle.co.kr/article/76196</guid>
+            <pubDate>Mon, 03 Apr 2023 05:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[예전 같으면 "너 입술 번졌어" 따위의 소리를 들었을 트렌드가 핫 이슈다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/4bf7516c-1748-49a3-ba3b-f23e74121c0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[번들거리고 땅기는 속 건조 단 번에 해결! 피부 타입별 수분 크림 추천_선배’s 어드바이스 #162 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/76186</link>
             <guid>https://www.elle.co.kr/article/76186</guid>
@@ -1087,13 +1095,6 @@
             <pubDate>Mon, 27 Mar 2023 02:07:26 GMT</pubDate>
             <content:encoded><![CDATA[춘분, 소주연의 얼굴에 피어난 봄의 절기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/21f3ce5a-fbdf-4986-b5e2-b7c93df6974d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[-6kg 감량 선언한 최강희! 40대에도 '최강동안' 유지하는 핵심 비결은 바로 이것? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/76011</link>
-            <guid>https://www.elle.co.kr/article/76011</guid>
-            <pubDate>Wed, 22 Mar 2023 02:08:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/53333153-4948-4608-9af6-e93adedb079e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스칼렛 요한슨, 마고 로비, 틸다 스윈튼 등 톱배우가 모두 모인 이유? (엘르 코리아 ─ 스타)]]></title>
