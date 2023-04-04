@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 06:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 07:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챗GPT에게 지속 가능한 미래에 대해 물었다]]></title>
+            <link>https://www.elle.co.kr/article/76370</link>
+            <guid>https://www.elle.co.kr/article/76370</guid>
+            <pubDate>Tue, 04 Apr 2023 07:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[점점 단축되고 있는 지구 수명에 대한 문제는 단지 인간만의 고민일까? 대화전문 인공지능 챗G...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/c541cda0-3720-4270-975d-224805ed81c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안도 타다오는 이제 무엇을 짓고 싶을까?]]></title>
             <link>https://www.elle.co.kr/article/76393</link>
@@ -62,13 +70,6 @@
             <pubDate>Fri, 31 Mar 2023 02:15:01 GMT</pubDate>
             <content:encoded><![CDATA[2007년에 시작한 그의 자화상 프로젝트는 세계를 잇는 여행의 자취와 자신의 정체성을 연결시킨다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/eac46438-baae-426a-81fd-7c96762f2be7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '스즈메의 문단속' 300만 돌파! '너의 이름은' 기록도 넘어설까? (ft.신카이 감독 내한)]]></title>
-            <link>https://www.elle.co.kr/article/76242</link>
-            <guid>https://www.elle.co.kr/article/76242</guid>
-            <pubDate>Thu, 30 Mar 2023 15:14:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/c3b3c0eb-d459-4fd1-bbed-b038ed71664d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
