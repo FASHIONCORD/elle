@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 14:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 15:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잊고 지냈던 관계의 소중함을 일깨워 준 영화 '소울메이트'와 '스즈메의 문단속'의 소녀들_요주의여성 #83]]></title>
+            <link>https://www.elle.co.kr/article/76164</link>
+            <guid>https://www.elle.co.kr/article/76164</guid>
+            <pubDate>Tue, 04 Apr 2023 15:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[자꾸만 곱씹게 되는 소녀들의 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/42460ce3-31c0-4219-8b24-8792fd8fe09b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비극 속에서도 꺾이지 않는 '엘르' 우크라이나 팀을 응원하는 방법]]></title>
             <link>https://www.elle.co.kr/article/76084</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/75941</guid>
             <pubDate>Thu, 23 Mar 2023 06:17:58 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/385f2c14-2def-4a63-8273-a4aadc0fcdae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성의 날을 맞아 '엘르'가 만난 6명의 리더들]]></title>
-            <link>https://www.elle.co.kr/article/75833</link>
-            <guid>https://www.elle.co.kr/article/75833</guid>
-            <pubDate>Wed, 22 Mar 2023 12:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[유연하고 창의적인 사고, 진심 어린 공감, 강력한 동기부여와 긍정적 마음가짐. 서로가 서로를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/d6904fcb-2b6b-4a20-826a-d62007ad1fd5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
