@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 18:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 19:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1097,6 +1097,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/84e36ae3-2af9-40b0-82c7-4be5c774507d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국형 팝 재즈 디바, 가수 현미가 85세를 일기로 세상을 떠났다 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76454</link>
+            <guid>https://www.elle.co.kr/article/76454</guid>
+            <pubDate>Tue, 04 Apr 2023 19:10:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/c0271c4e-7a42-4894-a916-7d92cb47795a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[낡을수록 좋아! 빈티지 레더 재킷의 매력 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76442</link>
             <guid>https://www.elle.co.kr/article/76442</guid>
@@ -1150,14 +1157,6 @@
             <pubDate>Mon, 03 Apr 2023 15:13:52 GMT</pubDate>
             <content:encoded><![CDATA[시크한 긴 생머리의 소유자, 김성희가 알려주는 헤어 관리법이 궁금하다면 지금 당장 클릭하세요...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/1c6e0c04-83c0-4f89-9536-649c01652871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더 범규와 태현은 오늘도 너무나 젊다 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76406</link>
-            <guid>https://www.elle.co.kr/article/76406</guid>
-            <pubDate>Mon, 03 Apr 2023 10:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[내일도 오늘처럼 함께 마주보고 앉아있을 두 사람. 투모로우바이투게더 범규와 태현이 특별한 시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/b6033a36-1f15-4d98-8ee8-1a15926e8c62.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박철수의 아파트 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1493,6 +1492,14 @@
             <content:encoded><![CDATA[섬유공예가 박유진의 바구니보부터 김병규의 누비 매트까지, 솜씨와 미감의 결정체인 지금 시대의...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[파리 느낌 물씬! 성수동 신상 카페 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/76381</link>
+            <guid>https://www.elle.co.kr/article/76381</guid>
+            <pubDate>Tue, 04 Apr 2023 19:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[파리의 정취를 고스란히 담은 성수동 신상 카페 두 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/1939a687-14c0-48eb-954f-607290dabe35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샛노란 유채꽃에 벚꽃, 푸른 바다까지? 보기만 해도 힐링되는 제주 명소 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/76384</link>
             <guid>https://www.elle.co.kr/article/76384</guid>
@@ -1544,14 +1551,6 @@
             <pubDate>Tue, 28 Mar 2023 10:15:22 GMT</pubDate>
             <content:encoded><![CDATA[&lt;채소의 계절&gt;을 펼쳤다. 요리사 재인이 채소와 함께 살아낸 열두 달의 기록을.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a69502fc-7dfc-441d-978a-708346b1faf0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주우재가 단골 인증한 가로수길 핫플은 어디? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/76140</link>
-            <guid>https://www.elle.co.kr/article/76140</guid>
-            <pubDate>Thu, 30 Mar 2023 15:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[에스프레소 바부터 쇼핑 스폿까지, 가로수길을 제대로 즐기고 싶다면 주목하세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/26/f80669c7-dcd3-4b13-a0d4-b0a646974fbd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잊고 지냈던 관계의 소중함을 일깨워 준 영화 '소울메이트'와 '스즈메의 문단속'의 소녀들_요주의여성 #83 (엘르 코리아 ─ 소사이어티)]]></title>

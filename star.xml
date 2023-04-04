@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 18:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 19:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국형 팝 재즈 디바, 가수 현미가 85세를 일기로 세상을 떠났다]]></title>
+            <link>https://www.elle.co.kr/article/76454</link>
+            <guid>https://www.elle.co.kr/article/76454</guid>
+            <pubDate>Tue, 04 Apr 2023 19:10:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/c0271c4e-7a42-4894-a916-7d92cb47795a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낡을수록 좋아! 빈티지 레더 재킷의 매력]]></title>
             <link>https://www.elle.co.kr/article/76442</link>
@@ -61,14 +68,6 @@
             <pubDate>Mon, 03 Apr 2023 15:13:52 GMT</pubDate>
             <content:encoded><![CDATA[시크한 긴 생머리의 소유자, 김성희가 알려주는 헤어 관리법이 궁금하다면 지금 당장 클릭하세요...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/1c6e0c04-83c0-4f89-9536-649c01652871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더 범규와 태현은 오늘도 너무나 젊다]]></title>
-            <link>https://www.elle.co.kr/article/76406</link>
-            <guid>https://www.elle.co.kr/article/76406</guid>
-            <pubDate>Mon, 03 Apr 2023 10:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[내일도 오늘처럼 함께 마주보고 앉아있을 두 사람. 투모로우바이투게더 범규와 태현이 특별한 시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/b6033a36-1f15-4d98-8ee8-1a15926e8c62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
