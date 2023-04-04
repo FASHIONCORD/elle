@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 08:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 09:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이우환부터 에드워드 호퍼까지, 봄바람과 함께 찾아온 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/76464</link>
+            <guid>https://www.elle.co.kr/article/76464</guid>
+            <pubDate>Tue, 04 Apr 2023 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[흩날리는 벚꽃과 더없이 어울리는 회화 작품과 전 세계를 무대로 한 초대형 설치물.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7c957dba-a2f5-4ae5-a6c8-234cc595fbb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벤자민 카나렉이 거리 위에서 만난 사람들]]></title>
             <link>https://www.elle.co.kr/article/75660</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76393</guid>
             <pubDate>Fri, 31 Mar 2023 13:19:34 GMT</pubDate>
             <content:encoded><![CDATA[“가진 건 핸디캡뿐이었다”고 고백하는 건축가의 업력이 어느덧 50년을 넘었다. 오는 4월, 한국...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/d6f7b686-9fba-4ae7-a5f8-fa819db7de69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르 코르뷔지에의 제자 다비데 파카노브스키가 설계한 나폴리 해안 저택에 가다]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/75997</guid>
             <pubDate>Fri, 24 Mar 2023 03:14:36 GMT</pubDate>
             <content:encoded><![CDATA[2022년 ‘웃긴 야생동물 사진대회(The Comedy Wildlife)’에서 우승을 차지한 건 나무에서 미끄...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전형성을 벗어난 만화적 상상력! 작가 이학민의 유머러스한 좌표들 #더메이커스]]></title>
-            <link>https://www.elle.co.kr/article/75655</link>
-            <guid>https://www.elle.co.kr/article/75655</guid>
-            <pubDate>Thu, 23 Mar 2023 15:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
         </item>
     </channel>
 </rss>
