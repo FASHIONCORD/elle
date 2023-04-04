@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 10:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 11:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1097,6 +1097,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/84e36ae3-2af9-40b0-82c7-4be5c774507d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[진짜 여왕들이 나타났다. 퀸메이커의 두 배우 김희애와 문소리 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76419</link>
+            <guid>https://www.elle.co.kr/article/76419</guid>
+            <pubDate>Tue, 04 Apr 2023 11:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[흑과 백, 이기심과 이타심, 유연과 강직함. 모든것이 대립하며 합쳐지는 정치판 위에 두 여자가...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/a1c53ec8-8cf7-4a15-82ec-4d4b84bf56b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[투명한 피부와 탄탄한 체형까지! 완벽 비주얼로 화제된 고현정 근황.avi (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76437</link>
             <guid>https://www.elle.co.kr/article/76437</guid>
@@ -1150,13 +1158,6 @@
             <pubDate>Fri, 31 Mar 2023 11:12:33 GMT</pubDate>
             <content:encoded><![CDATA[그야말로 초특급 라인업.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/07f2e714-5e28-4670-a60b-37de4a233cb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손예진, 현빈과의 결혼 1주년 자축! 미공개 웨딩 화보도 공개했다는데? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76391</link>
-            <guid>https://www.elle.co.kr/article/76391</guid>
-            <pubDate>Mon, 03 Apr 2023 07:13:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/94dc5a9e-1349-4d4b-9595-2c5b81c1fb0c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최전방의 실험! 머디캡의 한없이 자유로운 디지털 의자들 #더메이커스 (엘르 코리아 ─ 컬쳐)]]></title>
