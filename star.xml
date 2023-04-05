@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 11:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 12:30:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리아의 새로운 얼굴]]></title>
+            <link>https://www.elle.co.kr/article/76458</link>
+            <guid>https://www.elle.co.kr/article/76458</guid>
+            <pubDate>Wed, 05 Apr 2023 12:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[“알고 보니 저는 꽤 본능에 충실한 사람이더라고요. 지금 눈앞에 놓인 순간들을 더 솔직하게 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/04b760df-c68c-4388-b3cf-578d4d4cd7d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유의 텔레파시 상대는 유인나? 극강의 절친 케미 자랑한 '아이유인나' 근황.avi]]></title>
             <link>https://www.elle.co.kr/article/76472</link>
@@ -59,13 +67,6 @@
             <pubDate>Tue, 04 Apr 2023 07:12:20 GMT</pubDate>
             <content:encoded><![CDATA[고현정의 관리 비결은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/c6ac5fb9-3f6e-47ce-9980-90d3028fa02f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버닝썬 소환? 이제훈 활약 돋보이는 '모범택시2' 관전 포인트 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/76435</link>
-            <guid>https://www.elle.co.kr/article/76435</guid>
-            <pubDate>Tue, 04 Apr 2023 07:12:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/d3dccca1-b167-468d-bf5e-a1c7a81a4584.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
