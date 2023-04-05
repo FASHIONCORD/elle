@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 05:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 06:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -831,6 +831,7 @@
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34990565&amp;memberNo=12504201&amp;navigationType=push</guid>
             <pubDate>Tue, 20 Dec 2022 03:15:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 손으로 직접 뽑는 엘르 뷰티어워즈2023 베스트 뷰티템! (네이버 포스트 ─ 엘르 코리아 ─ NOTICE)]]></title>
@@ -1096,6 +1097,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/84e36ae3-2af9-40b0-82c7-4be5c774507d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제니의 뉴 베스트 프렌드 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76456</link>
+            <guid>https://www.elle.co.kr/article/76456</guid>
+            <pubDate>Wed, 05 Apr 2023 06:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 만난 제니와 샤넬 22백의 메모리 필름이 공개됐다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/4444c2f0-1f30-4ebc-adf4-3101cf48e459.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국형 팝 재즈 디바, 가수 현미가 85세를 일기로 세상을 떠났다 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76454</link>
             <guid>https://www.elle.co.kr/article/76454</guid>
@@ -1148,14 +1157,6 @@
             <pubDate>Mon, 03 Apr 2023 19:10:51 GMT</pubDate>
             <content:encoded><![CDATA[벚꽃 앞에서 근황을 전한 스타 모음.zip]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/eba26d2d-9694-4383-93e1-a41eb4610736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰랑거리는 긴 머리 유지 비결은? 톱모델 김성희의 헤어 관리 Tip (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76410</link>
-            <guid>https://www.elle.co.kr/article/76410</guid>
-            <pubDate>Mon, 03 Apr 2023 15:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[시크한 긴 생머리의 소유자, 김성희가 알려주는 헤어 관리법이 궁금하다면 지금 당장 클릭하세요...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/1c6e0c04-83c0-4f89-9536-649c01652871.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박철수의 아파트 (엘르 코리아 ─ 컬쳐)]]></title>
