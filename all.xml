@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 22:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 23:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1156,6 +1156,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/e20f987a-e1a3-4075-a8e0-82e4843027dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이우환부터 에드워드 호퍼까지, 봄바람과 함께 찾아온 전시 3 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/76464</link>
+            <guid>https://www.elle.co.kr/article/76464</guid>
+            <pubDate>Tue, 04 Apr 2023 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[흩날리는 벚꽃과 더없이 어울리는 회화 작품과 전 세계를 무대로 한 초대형 설치물.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7c957dba-a2f5-4ae5-a6c8-234cc595fbb0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/76459</link>
             <guid>https://www.elle.co.kr/article/76459</guid>
@@ -1208,14 +1216,6 @@
             <pubDate>Fri, 31 Mar 2023 11:12:33 GMT</pubDate>
             <content:encoded><![CDATA[그야말로 초특급 라인업.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/07f2e714-5e28-4670-a60b-37de4a233cb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스칼렛 요한슨, 마고 로비, 틸다 스윈튼 등 톱배우가 모두 모인 이유? (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/76369</link>
-            <guid>https://www.elle.co.kr/article/76369</guid>
-            <pubDate>Fri, 31 Mar 2023 02:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[웨스 앤더슨의 신작 ‘애스터로이드 시티’에 대한 모든 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/2f587c2f-5452-476d-9875-80acb344bf82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트' (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1392,6 +1392,14 @@
             <pubDate>Fri, 24 Mar 2023 09:15:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[금요일엔 시골집으로 퇴근합니다 #아웃오브서울 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/75662</link>
+            <guid>https://www.elle.co.kr/article/75662</guid>
+            <pubDate>Thu, 06 Apr 2023 23:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[책 &lt;금요일엔 시골집으로 퇴근합니다&gt;의 저자. 평일에는 리빙 MD로 주말에는 작가이자 주말 농부...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/ae0df1e9-3b82-4239-b07a-bfd0a49e023a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[폴 스미스가 디자인한 호텔? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/76509</link>
             <guid>https://www.elle.co.kr/article/76509</guid>
@@ -1421,7 +1429,6 @@
             <guid>https://www.elle.co.kr/article/75660</guid>
             <pubDate>Sun, 02 Apr 2023 15:13:38 GMT</pubDate>
             <content:encoded><![CDATA[패션 포토그래퍼 벤자민 카나렉은 여느 매그넘의 사진가처럼 파리 구석구석을 누비며 사람들의 이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/bb707a77-8040-48e5-8a14-4e3e4a157448.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박철수의 아파트 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1478,13 +1485,6 @@
             <guid>https://www.elle.co.kr/article/76198</guid>
             <pubDate>Mon, 27 Mar 2023 15:15:41 GMT</pubDate>
             <content:encoded><![CDATA[하이디 부허 첫 회고전 &lt;하이디 부허- 공간은 피막, 피부&gt; 및 박론디, 박보마, 우한나의 &lt;리빙인...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유야 하시즈메가 왔다 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/76195</link>
-            <guid>https://www.elle.co.kr/article/76195</guid>
-            <pubDate>Mon, 27 Mar 2023 13:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[단색 배경의 애니메이션 캐릭터가 눈물을 흘리는 ‘아이워터’ 시리즈로 글로벌 아트 신을 뜨겁게...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[봄 시즌 한정! 전국 벚꽃 뷰 카페 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
