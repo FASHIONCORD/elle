@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 10:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 11:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1097,6 +1097,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/885ae1ff-8adb-4fa9-9ae7-808fe23ec202.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지속 가능한 패션의 즐거운 변화 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76496</link>
+            <guid>https://www.elle.co.kr/article/76496</guid>
+            <pubDate>Fri, 07 Apr 2023 11:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[콜리나 스트라다의 디자이너 힐러리 테이무어가 말하는 지속 가능한 패션의 즐거운 변화.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/f4e76257-b8d7-4dc4-baf7-142bd21964ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트' (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76493</link>
             <guid>https://www.elle.co.kr/article/76493</guid>
@@ -1149,11 +1157,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7a455817-0f09-45e7-a89d-73e9412f0b89.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드라마에선 원수, 현실에선 연인?! 공개 열애 시작한 넷플릭스 커플 이도현X임지연 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76457</link>
-            <guid>https://www.elle.co.kr/article/76457</guid>
-            <pubDate>Wed, 05 Apr 2023 07:12:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/e20f987a-e1a3-4075-a8e0-82e4843027dd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[빛으로 그려낸 사그라다 파밀리아! 아티스트 듀오 드리프트의 드론 프로젝트 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/75661</link>
+            <guid>https://www.elle.co.kr/article/75661</guid>
+            <pubDate>Tue, 04 Apr 2023 15:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[드리프트에게 예술과 기술의 아름다운 조우에 대해 물었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/04668df1-4264-41a1-8002-cde7db4d200d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이우환부터 에드워드 호퍼까지, 봄바람과 함께 찾아온 전시 3 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1208,14 +1217,6 @@
             <pubDate>Fri, 31 Mar 2023 13:19:34 GMT</pubDate>
             <content:encoded><![CDATA[“가진 건 핸디캡뿐이었다”고 고백하는 건축가의 업력이 어느덧 50년을 넘었다. 오는 4월, 한국...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/d6f7b686-9fba-4ae7-a5f8-fa819db7de69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정호연-조인성-황정민과 할리우드 배우 부부가 한 스크린에? '곡성' 나홍진 감독의 신작 '호프'! (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/76392</link>
-            <guid>https://www.elle.co.kr/article/76392</guid>
-            <pubDate>Fri, 31 Mar 2023 11:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[그야말로 초특급 라인업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/07f2e714-5e28-4670-a60b-37de4a233cb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트' (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1304,6 +1305,13 @@
             <content:encoded><![CDATA[자유, 평화, 사랑의 메시지를 고스란히 담았다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[송혜교부터 박은빈까지! 어벤져스 뺨치는 '2023 백상' 후보 근황 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/76534</link>
+            <guid>https://www.elle.co.kr/article/76534</guid>
+            <pubDate>Fri, 07 Apr 2023 11:11:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/83406007-1496-46ca-afef-7bde5d114251.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["바비는 모든 것이고, 켄은 그저 켄이다": 개봉 앞둔 실사판 '바비'가 말하려는 것 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/76511</link>
             <guid>https://www.elle.co.kr/article/76511</guid>
@@ -1331,7 +1339,6 @@
             <guid>https://www.elle.co.kr/article/76369</guid>
             <pubDate>Fri, 31 Mar 2023 02:15:20 GMT</pubDate>
             <content:encoded><![CDATA[웨스 앤더슨의 신작 ‘애스터로이드 시티’에 대한 모든 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/2f587c2f-5452-476d-9875-80acb344bf82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타고난 연기 천재 고양이, 묘생 6년차 '아울 키티' 타이타닉에 등장? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1384,12 +1391,6 @@
             <link>https://www.elle.co.kr/article/76128</link>
             <guid>https://www.elle.co.kr/article/76128</guid>
             <pubDate>Fri, 24 Mar 2023 10:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[천원 짜리 변호사 만난 갓도기? SBS 세계관에서 계속 충돌하는 남궁민X이제훈 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/76124</link>
-            <guid>https://www.elle.co.kr/article/76124</guid>
-            <pubDate>Fri, 24 Mar 2023 09:15:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[금요일엔 시골집으로 퇴근합니다 #아웃오브서울 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
