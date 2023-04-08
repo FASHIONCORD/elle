@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 18:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 19:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1487,6 +1487,14 @@
             <content:encoded><![CDATA[하이디 부허 첫 회고전 &lt;하이디 부허- 공간은 피막, 피부&gt; 및 박론디, 박보마, 우한나의 &lt;리빙인...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[꽃보다 최애 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/76427</link>
+            <guid>https://www.elle.co.kr/article/76427</guid>
+            <pubDate>Wed, 05 Apr 2023 15:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[벚꽃 앞에서 근황을 전한 스타 모음.zip]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/eba26d2d-9694-4383-93e1-a41eb4610736.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[봄 시즌 한정! 전국 벚꽃 뷰 카페 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/76396</link>
             <guid>https://www.elle.co.kr/article/76396</guid>
@@ -1539,13 +1547,6 @@
             <guid>https://www.elle.co.kr/article/76232</guid>
             <pubDate>Fri, 31 Mar 2023 15:14:31 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/177baeda-c624-4937-b577-9d43797f5957.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치즈 농장과 서울의 작은 유럽으로 떠나는 봄나들이! 익선동-삼청동-상수동 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/76208</link>
-            <guid>https://www.elle.co.kr/article/76208</guid>
-            <pubDate>Fri, 31 Mar 2023 08:17:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/ad154bb5-4ae6-40bc-ad68-3ec55ab891a0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이우환부터 에드워드 호퍼까지, 봄바람과 함께 찾아온 전시 3 (엘르 코리아 ─ 소사이어티)]]></title>
