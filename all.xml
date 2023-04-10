@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 06:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1097,6 +1097,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c4e389d5-b0de-454d-a853-34d00e231111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송혜교부터 박은빈까지! 어벤져스 뺨치는 '2023 백상' 후보 근황 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76534</link>
+            <guid>https://www.elle.co.kr/article/76534</guid>
+            <pubDate>Fri, 07 Apr 2023 11:11:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/83406007-1496-46ca-afef-7bde5d114251.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[봄에는 원피스가 제격! 셀러브리티의 원피스 패션 7 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76518</link>
             <guid>https://www.elle.co.kr/article/76518</guid>
@@ -1151,11 +1158,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/dab43a0b-4869-43b9-b1db-bface2c3c78c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연예계 대표 소식좌였던 코쿤! 8kg 증량하며 몰라보게 달라진 계기는? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76487</link>
-            <guid>https://www.elle.co.kr/article/76487</guid>
-            <pubDate>Thu, 06 Apr 2023 07:11:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/3e96d188-6524-4367-8d86-a723af82d91f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[폴 스미스가 디자인한 호텔? (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/76509</link>
+            <guid>https://www.elle.co.kr/article/76509</guid>
+            <pubDate>Thu, 06 Apr 2023 06:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[문고리부터 남다른 브라운스 호텔의 ‘폴 스미스 경 스위트’ 룸이 오픈했습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/7cbae634-3ccd-4475-a98b-51e54be4cfdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트' (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1210,14 +1218,6 @@
             <pubDate>Fri, 31 Mar 2023 15:14:22 GMT</pubDate>
             <content:encoded><![CDATA[보통의 집을 천천히 살필 수 있어 행복했다는 한 건축학자가 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/602914f8-49f7-430a-91b5-b24ba5344ee4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최전방의 실험! 머디캡의 한없이 자유로운 디지털 의자들 #더메이커스 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75659</link>
-            <guid>https://www.elle.co.kr/article/75659</guid>
-            <pubDate>Fri, 31 Mar 2023 15:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/351735b4-cdb8-49f0-afc2-4601920f959b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트' (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>

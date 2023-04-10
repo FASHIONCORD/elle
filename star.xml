@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 06:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송혜교부터 박은빈까지! 어벤져스 뺨치는 '2023 백상' 후보 근황]]></title>
+            <link>https://www.elle.co.kr/article/76534</link>
+            <guid>https://www.elle.co.kr/article/76534</guid>
+            <pubDate>Mon, 10 Apr 2023 06:15:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/83406007-1496-46ca-afef-7bde5d114251.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄에는 원피스가 제격! 셀러브리티의 원피스 패션 7]]></title>
             <link>https://www.elle.co.kr/article/76518</link>
@@ -60,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/76491</guid>
             <pubDate>Thu, 06 Apr 2023 07:11:54 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/dab43a0b-4869-43b9-b1db-bface2c3c78c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연예계 대표 소식좌였던 코쿤! 8kg 증량하며 몰라보게 달라진 계기는? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/76487</link>
-            <guid>https://www.elle.co.kr/article/76487</guid>
-            <pubDate>Thu, 06 Apr 2023 07:11:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/3e96d188-6524-4367-8d86-a723af82d91f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
