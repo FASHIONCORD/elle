@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 08:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 09:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1097,6 +1097,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c4e389d5-b0de-454d-a853-34d00e231111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["너로 한 번은 이득 보고 싶다“ 의리 넘치는 RM과 '눈물자국 없는 말티즈' 장항준의 특별한 우정! (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76540</link>
+            <guid>https://www.elle.co.kr/article/76540</guid>
+            <pubDate>Mon, 10 Apr 2023 09:13:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/90150767-05e4-42c2-89d8-a2525a1bf3e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부기 빼기부터 보디 라인 정리까지! 소유의 괄사 마사지 루틴 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76539</link>
             <guid>https://www.elle.co.kr/article/76539</guid>
@@ -1151,12 +1158,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/f4e76257-b8d7-4dc4-baf7-142bd21964ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트' (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76493</link>
-            <guid>https://www.elle.co.kr/article/76493</guid>
-            <pubDate>Wed, 05 Apr 2023 12:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/979dd7a9-4dc8-4702-a3ad-35bac753f75f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[금요일엔 시골집으로 퇴근합니다 #아웃오브서울 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/75662</link>
+            <guid>https://www.elle.co.kr/article/75662</guid>
+            <pubDate>Thu, 06 Apr 2023 23:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[책 &lt;금요일엔 시골집으로 퇴근합니다&gt;의 저자. 평일에는 리빙 MD로 주말에는 작가이자 주말 농부...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/ae0df1e9-3b82-4239-b07a-bfd0a49e023a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["바비는 모든 것이고, 켄은 그저 켄이다": 개봉 앞둔 실사판 '바비'가 말하려는 것 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1210,14 +1217,6 @@
             <guid>https://www.elle.co.kr/article/76435</guid>
             <pubDate>Mon, 03 Apr 2023 09:13:54 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/d3dccca1-b167-468d-bf5e-a1c7a81a4584.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벤자민 카나렉이 거리 위에서 만난 사람들 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75660</link>
-            <guid>https://www.elle.co.kr/article/75660</guid>
-            <pubDate>Sun, 02 Apr 2023 15:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[패션 포토그래퍼 벤자민 카나렉은 여느 매그넘의 사진가처럼 파리 구석구석을 누비며 사람들의 이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/bb707a77-8040-48e5-8a14-4e3e4a157448.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트' (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1306,6 +1305,13 @@
             <content:encoded><![CDATA[자유, 평화, 사랑의 메시지를 고스란히 담았다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[조선의 솔로몬? 우도환 활약에 삼각관계 케미까지! '조선변호사' 인기요인 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/76574</link>
+            <guid>https://www.elle.co.kr/article/76574</guid>
+            <pubDate>Mon, 10 Apr 2023 09:13:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/c2e23eca-26d3-49b1-86d0-80b909fe9117.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[송혜교부터 박은빈까지! 어벤져스 뺨치는 '2023 백상' 후보 근황 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/76534</link>
             <guid>https://www.elle.co.kr/article/76534</guid>
@@ -1332,7 +1338,6 @@
             <guid>https://www.elle.co.kr/article/76392</guid>
             <pubDate>Fri, 31 Mar 2023 11:12:33 GMT</pubDate>
             <content:encoded><![CDATA[그야말로 초특급 라인업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/07f2e714-5e28-4670-a60b-37de4a233cb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스칼렛 요한슨, 마고 로비, 틸다 스윈튼 등 톱배우가 모두 모인 이유? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1386,12 +1391,6 @@
             <link>https://www.elle.co.kr/article/76129</link>
             <guid>https://www.elle.co.kr/article/76129</guid>
             <pubDate>Fri, 24 Mar 2023 11:11:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[기상캐스터 박연진 볼 수 있나? 임지연의 JTBC 뉴스룸 출연 소식에 관심 쏠리는 이유.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/76128</link>
-            <guid>https://www.elle.co.kr/article/76128</guid>
-            <pubDate>Fri, 24 Mar 2023 10:14:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[4월에는 사진을 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
