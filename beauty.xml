@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 04:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 05:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탄력 있는 얼굴 선 케어]]></title>
+            <link>https://www.elle.co.kr/article/75944</link>
+            <guid>https://www.elle.co.kr/article/75944</guid>
+            <pubDate>Mon, 10 Apr 2023 05:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[점점 탄력을 잃어가는 피부 때문에 고민이라면 LG 프라엘 ‘더마쎄라’로 무너진 얼굴 라인을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/c9a584cd-fed9-4100-a38b-3981c73b68e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찰랑거리는 긴 머리 유지 비결은? 톱모델 김성희의 헤어 관리 Tip]]></title>
             <link>https://www.elle.co.kr/article/76410</link>
@@ -61,13 +69,6 @@
             <pubDate>Thu, 30 Mar 2023 08:17:13 GMT</pubDate>
             <content:encoded><![CDATA[건조하고 거친 피부는 굿바이! 매끈한 피부로 거듭나기 위해 채정안이 사용하는 보디 케어 뷰티...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c4e389d5-b0de-454d-a853-34d00e231111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[34kg 감량에 건강미까지? '박성광 전 매니저' 임송의 체중 감량 노하우 총정리! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/76089</link>
-            <guid>https://www.elle.co.kr/article/76089</guid>
-            <pubDate>Wed, 29 Mar 2023 17:40:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/fe83b810-5d8c-463f-8f88-bd1ae82f040d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
