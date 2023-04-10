@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 14:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 15:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김옥이 무수한 옻칠로 성실하게 일군 세계 #더메이커스]]></title>
+            <link>https://www.elle.co.kr/article/76265</link>
+            <guid>https://www.elle.co.kr/article/76265</guid>
+            <pubDate>Mon, 10 Apr 2023 15:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/d279cac8-f0cd-4b29-a759-e8b2027d1b9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월에는 사진을]]></title>
             <link>https://www.elle.co.kr/article/76571</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76509</guid>
             <pubDate>Thu, 06 Apr 2023 06:16:38 GMT</pubDate>
             <content:encoded><![CDATA[문고리부터 남다른 브라운스 호텔의 ‘폴 스미스 경 스위트’ 룸이 오픈했습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/7cbae634-3ccd-4475-a98b-51e54be4cfdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빛으로 그려낸 사그라다 파밀리아! 아티스트 듀오 드리프트의 드론 프로젝트]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/75657</guid>
             <pubDate>Tue, 28 Mar 2023 15:15:42 GMT</pubDate>
             <content:encoded><![CDATA[2007년에 시작한 그의 자화상 프로젝트는 세계를 잇는 여행의 자취와 자신의 정체성을 연결시킨다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에르메스가 48년생 그 작가를 주목한 이유?]]></title>
-            <link>https://www.elle.co.kr/article/76241</link>
-            <guid>https://www.elle.co.kr/article/76241</guid>
-            <pubDate>Tue, 28 Mar 2023 09:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[아틀리에 에르메스가 후원하는 &lt;크리스티앙 본느프와 : 토끼의 질주&gt; 전시를 소개합니다.]]></content:encoded>
         </item>
     </channel>
 </rss>

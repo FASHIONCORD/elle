@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 14:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 15:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리에서 생긴 일]]></title>
+            <link>https://www.elle.co.kr/article/76538</link>
+            <guid>https://www.elle.co.kr/article/76538</guid>
+            <pubDate>Mon, 10 Apr 2023 15:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[파리 패션위크의 하이라이트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/7d6eb8c0-ef01-408c-a7c4-10f9a8fba868.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄에는 원피스가 제격! 셀러브리티의 원피스 패션 7]]></title>
             <link>https://www.elle.co.kr/article/76518</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Apr 2023 15:12:22 GMT</pubDate>
             <content:encoded><![CDATA[엘리사벳 스탬(Elisabet Stamm)에게 내재된 강력한 힘.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/22f4a449-a4cc-4367-8045-51b0d97b1d09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니의 뉴 베스트 프렌드]]></title>
-            <link>https://www.elle.co.kr/article/76456</link>
-            <guid>https://www.elle.co.kr/article/76456</guid>
-            <pubDate>Thu, 06 Apr 2023 07:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[서울에서 만난 제니와 샤넬 22백의 메모리 필름이 공개됐다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/4444c2f0-1f30-4ebc-adf4-3101cf48e459.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
