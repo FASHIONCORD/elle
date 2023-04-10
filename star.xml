@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 06:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 07:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부기 빼기부터 보디 라인 정리까지! 소유의 괄사 마사지 루틴]]></title>
+            <link>https://www.elle.co.kr/article/76539</link>
+            <guid>https://www.elle.co.kr/article/76539</guid>
+            <pubDate>Mon, 10 Apr 2023 07:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[매일 아침 부운 얼굴과 보디 라인을 마주한다면 라인 정리와 노폐물 제거에 탁월한 괄사 마사지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/9923d3eb-bb78-41b2-b120-668aec2596e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송혜교부터 박은빈까지! 어벤져스 뺨치는 '2023 백상' 후보 근황]]></title>
             <link>https://www.elle.co.kr/article/76534</link>
@@ -60,13 +68,6 @@
             <pubDate>Thu, 06 Apr 2023 19:10:10 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/979dd7a9-4dc8-4702-a3ad-35bac753f75f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리, '텐미닛' 레전드 무대 재현했다고? 진해에서 포착된 '댄스가수 유랑단' 정보]]></title>
-            <link>https://www.elle.co.kr/article/76491</link>
-            <guid>https://www.elle.co.kr/article/76491</guid>
-            <pubDate>Thu, 06 Apr 2023 07:11:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/dab43a0b-4869-43b9-b1db-bface2c3c78c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

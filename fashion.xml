@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 06:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 07:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄에는 원피스가 제격! 셀러브리티의 원피스 패션 7]]></title>
+            <link>https://www.elle.co.kr/article/76518</link>
+            <guid>https://www.elle.co.kr/article/76518</guid>
+            <pubDate>Mon, 10 Apr 2023 07:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[화사한 봄에 어울리는 원피스 스타일링을 모아봤습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/4c7f6aaa-cff6-42bd-8ce3-692dbf1b0bfa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀라노에서 생긴 일]]></title>
             <link>https://www.elle.co.kr/article/76517</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Apr 2023 07:11:37 GMT</pubDate>
             <content:encoded><![CDATA[서울에서 만난 제니와 샤넬 22백의 메모리 필름이 공개됐다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/4444c2f0-1f30-4ebc-adf4-3101cf48e459.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낡을수록 좋아! 빈티지 레더 재킷의 매력]]></title>
-            <link>https://www.elle.co.kr/article/76442</link>
-            <guid>https://www.elle.co.kr/article/76442</guid>
-            <pubDate>Wed, 05 Apr 2023 19:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[지드래곤부터 두아 리파까지, 이번 시즌에는 빈티지 레더 재킷이 유행입니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/d1992af2-edf4-401e-8c56-e187b1f49f26.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

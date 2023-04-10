@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 06:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 07:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["바비는 모든 것이고, 켄은 그저 켄이다": 개봉 앞둔 실사판 '바비'가 말하려는 것]]></title>
+            <link>https://www.elle.co.kr/article/76511</link>
+            <guid>https://www.elle.co.kr/article/76511</guid>
+            <pubDate>Mon, 10 Apr 2023 07:12:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/1bc055e8-5700-43c3-a3a1-34a4c1c6cb29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폴 스미스가 디자인한 호텔?]]></title>
             <link>https://www.elle.co.kr/article/76509</link>
@@ -60,14 +67,6 @@
             <pubDate>Wed, 05 Apr 2023 12:29:23 GMT</pubDate>
             <content:encoded><![CDATA[패션 포토그래퍼 벤자민 카나렉은 여느 매그넘의 사진가처럼 파리 구석구석을 누비며 사람들의 이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/bb707a77-8040-48e5-8a14-4e3e4a157448.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박철수의 아파트]]></title>
-            <link>https://www.elle.co.kr/article/76360</link>
-            <guid>https://www.elle.co.kr/article/76360</guid>
-            <pubDate>Tue, 04 Apr 2023 15:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[보통의 집을 천천히 살필 수 있어 행복했다는 한 건축학자가 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/602914f8-49f7-430a-91b5-b24ba5344ee4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
