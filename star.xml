@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 09:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 10:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘르 D에디션 커버 등극, 세븐틴 정한과 준의 폭발하는 비주얼]]></title>
+            <link>https://www.elle.co.kr/article/76586</link>
+            <guid>https://www.elle.co.kr/article/76586</guid>
+            <pubDate>Wed, 12 Apr 2023 10:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[이 조합은 처음이야. 세븐틴 정한 준이 엘르 디에디션 에서 보여줄 것들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/e28a3704-c439-486a-9d90-f569950b45dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스 'Ditto'처럼! 스쿨 룩 트렌드]]></title>
             <link>https://www.elle.co.kr/article/76588</link>
@@ -59,13 +67,6 @@
             <pubDate>Mon, 10 Apr 2023 10:13:34 GMT</pubDate>
             <content:encoded><![CDATA[포에지 성보람이 마음을 다하며 사는 삶.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/51f8745f-6744-46e6-8c0f-0419f0ee309b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["너로 한 번은 이득 보고 싶다“ 의리 넘치는 RM과 '눈물자국 없는 말티즈' 장항준의 특별한 우정!]]></title>
-            <link>https://www.elle.co.kr/article/76540</link>
-            <guid>https://www.elle.co.kr/article/76540</guid>
-            <pubDate>Mon, 10 Apr 2023 09:13:17 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/90150767-05e4-42c2-89d8-a2525a1bf3e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
