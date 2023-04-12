@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 00:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 02:06:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1488,6 +1488,14 @@
             <content:encoded><![CDATA[2007년에 시작한 그의 자화상 프로젝트는 세계를 잇는 여행의 자취와 자신의 정체성을 연결시킨다...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[폴 스미스가 디자인한 호텔? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/76509</link>
+            <guid>https://www.elle.co.kr/article/76509</guid>
+            <pubDate>Thu, 06 Apr 2023 06:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[문고리부터 남다른 브라운스 호텔의 ‘폴 스미스 경 스위트’ 룸이 오픈했습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/7cbae634-3ccd-4475-a98b-51e54be4cfdc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[혼자라고 대충 먹지 말아요. 혼밥러를 위한 레서피 5 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/76480</link>
             <guid>https://www.elle.co.kr/article/76480</guid>
@@ -1539,14 +1547,6 @@
             <guid>https://www.elle.co.kr/article/76384</guid>
             <pubDate>Tue, 04 Apr 2023 07:13:38 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/bb304409-2193-4d69-8255-c8b63568812c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛잘알 조현아 따라 맛집 투어 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/76368</link>
-            <guid>https://www.elle.co.kr/article/76368</guid>
-            <pubDate>Sun, 02 Apr 2023 15:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[미쉐린 가이드에 등극한 순대 오마카세부터 지리산 정기를 가득 품은 흑돼지 맛집까지, 먹킷리스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/c377dda7-b221-47a9-a9c7-29f4f73f30f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 리더는 필요하다. 당신이 그 리더가 되어도 좋다 (엘르 코리아 ─ 소사이어티)]]></title>
