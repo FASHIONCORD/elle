@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 06:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 07:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["톱 맨, 톱 플레이어": 손흥민 100골 달성! 그가 EPL에서 쓴 '아시안 최초'의 역사.list]]></title>
+            <link>https://www.elle.co.kr/article/76568</link>
+            <guid>https://www.elle.co.kr/article/76568</guid>
+            <pubDate>Wed, 12 Apr 2023 07:12:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/79804ce1-047e-43d0-a9de-7e43827189f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주의 땅과 돌, 바람과 숲으로 빚은 유동룡미술관]]></title>
             <link>https://www.elle.co.kr/article/76260</link>
@@ -60,14 +67,6 @@
             <pubDate>Fri, 07 Apr 2023 11:11:15 GMT</pubDate>
             <content:encoded><![CDATA[드리프트에게 예술과 기술의 아름다운 조우에 대해 물었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/04668df1-4264-41a1-8002-cde7db4d200d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이우환부터 에드워드 호퍼까지, 봄바람과 함께 찾아온 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/76464</link>
-            <guid>https://www.elle.co.kr/article/76464</guid>
-            <pubDate>Thu, 06 Apr 2023 23:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[흩날리는 벚꽃과 더없이 어울리는 회화 작품과 전 세계를 무대로 한 초대형 설치물.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7c957dba-a2f5-4ae5-a6c8-234cc595fbb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

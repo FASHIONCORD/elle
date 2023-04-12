@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 06:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 07:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1157,6 +1157,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/83406007-1496-46ca-afef-7bde5d114251.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["톱 맨, 톱 플레이어": 손흥민 100골 달성! 그가 EPL에서 쓴 '아시안 최초'의 역사.list (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/76568</link>
+            <guid>https://www.elle.co.kr/article/76568</guid>
+            <pubDate>Tue, 11 Apr 2023 00:58:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/79804ce1-047e-43d0-a9de-7e43827189f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제주의 땅과 돌, 바람과 숲으로 빚은 유동룡미술관 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/76260</link>
             <guid>https://www.elle.co.kr/article/76260</guid>
@@ -1209,14 +1216,6 @@
             <pubDate>Tue, 04 Apr 2023 15:15:31 GMT</pubDate>
             <content:encoded><![CDATA[드리프트에게 예술과 기술의 아름다운 조우에 대해 물었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/04668df1-4264-41a1-8002-cde7db4d200d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이우환부터 에드워드 호퍼까지, 봄바람과 함께 찾아온 전시 3 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/76464</link>
-            <guid>https://www.elle.co.kr/article/76464</guid>
-            <pubDate>Tue, 04 Apr 2023 09:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[흩날리는 벚꽃과 더없이 어울리는 회화 작품과 전 세계를 무대로 한 초대형 설치물.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7c957dba-a2f5-4ae5-a6c8-234cc595fbb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트' (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1393,6 +1392,14 @@
             <pubDate>Fri, 24 Mar 2023 11:11:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[좋은 취향을 갖는 법 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/76635</link>
+            <guid>https://www.elle.co.kr/article/76635</guid>
+            <pubDate>Wed, 12 Apr 2023 07:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어 브랜드 라위의 두 창립자가 얘기하는 가격표보다 중요한 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/b40deea5-3484-40b3-8bdb-1acc23ffe1fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김옥이 무수한 옻칠로 성실하게 일군 세계 #더메이커스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/76265</link>
             <guid>https://www.elle.co.kr/article/76265</guid>
@@ -1422,7 +1429,6 @@
             <guid>https://www.elle.co.kr/article/75662</guid>
             <pubDate>Thu, 06 Apr 2023 23:13:25 GMT</pubDate>
             <content:encoded><![CDATA[책 &lt;금요일엔 시골집으로 퇴근합니다&gt;의 저자. 평일에는 리빙 MD로 주말에는 작가이자 주말 농부...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/ae0df1e9-3b82-4239-b07a-bfd0a49e023a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴 스미스가 디자인한 호텔? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1479,13 +1485,6 @@
             <guid>https://www.elle.co.kr/article/75658</guid>
             <pubDate>Thu, 30 Mar 2023 15:14:52 GMT</pubDate>
             <content:encoded><![CDATA[대담한 합리주의 건축이 돋보이는 저택에 초대받았다. 다비데 파카노브스키가 설계한 '빌라 크레...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포토그래퍼 미카엘 올손의 자화상 프로젝트 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/75657</link>
-            <guid>https://www.elle.co.kr/article/75657</guid>
-            <pubDate>Tue, 28 Mar 2023 15:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[2007년에 시작한 그의 자화상 프로젝트는 세계를 잇는 여행의 자취와 자신의 정체성을 연결시킨다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[폴 스미스가 디자인한 호텔? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
