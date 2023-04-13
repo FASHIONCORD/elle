@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 09:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 10:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[철저한 자기관리로 롱런하는 엄정화! 운동하면서 '이것'을 가장 강조했다는데? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/76636</link>
+            <guid>https://www.elle.co.kr/article/76636</guid>
+            <pubDate>Thu, 13 Apr 2023 10:13:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/bd4e7a08-fc0b-4fbe-bdd5-c48fe2a2ed2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[덴마크 인테리어가 한국식 오늘의 집과 다른 이유]]></title>
             <link>https://www.elle.co.kr/article/76635</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/76574</guid>
             <pubDate>Tue, 11 Apr 2023 19:10:38 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/c2e23eca-26d3-49b1-86d0-80b909fe9117.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올 공주 지수가 애정하는 국내 브랜드]]></title>
-            <link>https://www.elle.co.kr/article/76570</link>
-            <guid>https://www.elle.co.kr/article/76570</guid>
-            <pubDate>Tue, 11 Apr 2023 11:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[꽃(FLOWER) M/V에서 2 벌이나 입었습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/1d875da7-70c4-4e78-8537-8b224b04d4b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
