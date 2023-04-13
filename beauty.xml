@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 06:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 07:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부기 빼기부터 보디 라인 정리까지! 소유의 괄사 마사지 루틴]]></title>
+            <link>https://www.elle.co.kr/article/76539</link>
+            <guid>https://www.elle.co.kr/article/76539</guid>
+            <pubDate>Thu, 13 Apr 2023 07:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[매일 아침 부운 얼굴과 보디 라인을 마주한다면 라인 정리와 노폐물 제거에 탁월한 괄사 마사지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/9923d3eb-bb78-41b2-b120-668aec2596e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연예계 대표 소식좌였던 코쿤! 8kg 증량하며 몰라보게 달라진 계기는? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/76487</link>
@@ -60,14 +68,6 @@
             <pubDate>Mon, 03 Apr 2023 10:13:21 GMT</pubDate>
             <content:encoded><![CDATA[다이어트에 임하는 마음가짐을 가장 강조한 이나연!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/75317745-fd89-4b2c-b28a-52932e20bbc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번진 거 아니고 '오버 립']]></title>
-            <link>https://www.elle.co.kr/article/76196</link>
-            <guid>https://www.elle.co.kr/article/76196</guid>
-            <pubDate>Mon, 03 Apr 2023 05:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[예전 같으면 "너 입술 번졌어" 따위의 소리를 들었을 트렌드가 핫 이슈다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/4bf7516c-1748-49a3-ba3b-f23e74121c0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
