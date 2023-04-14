@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 09:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 10:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결혼 후 첫 근황 전한 '하시3' 박지현! 자기관리에서 가장 강조한 것은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/76659</link>
+            <guid>https://www.elle.co.kr/article/76659</guid>
+            <pubDate>Fri, 14 Apr 2023 10:13:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/444f8c87-e52d-42b8-a0d8-765f0c2135cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤성빈, 서준맘과 운동하고 10cm, 카더가든, 김윤아 공연을 즐기는 웰니스 페스티벌이 있다고?]]></title>
             <link>https://www.elle.co.kr/article/76654</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/76611</guid>
             <pubDate>Wed, 12 Apr 2023 19:11:10 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/5b50a9a6-9c72-4cfc-a8a3-01b9d1346e31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘르 D에디션 커버 등극, 세븐틴 정한과 준의 폭발하는 비주얼]]></title>
-            <link>https://www.elle.co.kr/article/76586</link>
-            <guid>https://www.elle.co.kr/article/76586</guid>
-            <pubDate>Wed, 12 Apr 2023 10:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[이 조합은 처음이야. 세븐틴 정한 준이 엘르 디에디션 에서 보여줄 것들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/e28a3704-c439-486a-9d90-f569950b45dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
