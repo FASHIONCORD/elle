@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 19:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 20:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘피크타임’을 만난 TOP6가 새로운 출발선 위에 섰다 #1]]></title>
+            <link>https://www.elle.co.kr/article/76656</link>
+            <guid>https://www.elle.co.kr/article/76656</guid>
+            <pubDate>Fri, 14 Apr 2023 20:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[한결, 혜성, 희재, D1, 빛새온, 문종업. 막 ‘피크타임’에 올라선 이들이 기어코 스포트라이트...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/72679389-96e8-4dce-8e06-d9ea6ae8f9e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['너목들'로 만난 이종석X이보영! 벌써 10주년이라는데?]]></title>
             <link>https://www.elle.co.kr/article/76663</link>
@@ -59,14 +67,6 @@
             <pubDate>Thu, 13 Apr 2023 08:16:15 GMT</pubDate>
             <content:encoded><![CDATA[라위의 두 창립자를 만났다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/b40deea5-3484-40b3-8bdb-1acc23ffe1fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['힙당동'으로 모여! 김나영의 신당동 핫플 사냥 3]]></title>
-            <link>https://www.elle.co.kr/article/76617</link>
-            <guid>https://www.elle.co.kr/article/76617</guid>
-            <pubDate>Thu, 13 Apr 2023 07:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[쇼핑부터 먹방까지, 김나영이 방문한 신당동 핫 플레이스를 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/0cdc8525-bf13-4986-948b-6026c9cbd30c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
