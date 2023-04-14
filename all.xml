@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 05:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 06:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMTc4/MDAxNjYyMzY3NzkxNzcy.mv_Wwuluz89Y1Mwa0pd2y-XZrA46WyT-44lM8CCGdcUg.JGjKkRPRPs5Fzjz-ISRBbd83lIIqfJNnMLmMw9hoaoAg.JPEG/I_9KZKlhGAKPWi8BdoqWH00AZ_ds.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도쿄 주택가의 벌거벗은 집 #논톡식리빙 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/76616</link>
+            <guid>https://www.elle.co.kr/article/76616</guid>
+            <pubDate>Fri, 14 Apr 2023 06:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[세계의 정부가 환경 위기와 씨름하는 동안 건축계는 지속 가능한 디자인을 재평가해 왔다. 지금...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/df7c9eb8-5c65-4ba5-9cb5-f312e1b6e41b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴욕의 ‘이 빌딩’을 그대로 재현한 스피커? 패션 브랜드의 개성만점 액세서리 아이템 3 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/76603</link>
             <guid>https://www.elle.co.kr/article/76603</guid>
@@ -1024,14 +1032,6 @@
             <pubDate>Mon, 10 Apr 2023 19:10:10 GMT</pubDate>
             <content:encoded><![CDATA[세계의 정부가 환경 위기와 씨름하는 동안 건축계는 지속 가능한 디자인을 재평가해 왔다. 지금...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/ea099de0-345f-4c7d-a7d8-e71c978ea119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리에서 생긴 일 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/76538</link>
-            <guid>https://www.elle.co.kr/article/76538</guid>
-            <pubDate>Mon, 10 Apr 2023 15:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[파리 패션위크의 하이라이트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/7d6eb8c0-ef01-408c-a7c4-10f9a8fba868.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤은혜가 알려주는 두근두근 봄 메이크업 HOW TO (엘르 코리아 ─ 뷰티)]]></title>
