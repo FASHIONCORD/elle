@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 23:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 01:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김효진의 말 한마디에 뉴욕행? 13년 차 부부 유지태-김효진의 영화 같은 러브스토리]]></title>
+            <link>https://www.elle.co.kr/article/76701</link>
+            <guid>https://www.elle.co.kr/article/76701</guid>
+            <pubDate>Mon, 17 Apr 2023 00:59:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/0749f9c2-c7b5-4fee-a7aa-43f3d6108def.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃향기 남기고 간 패션 #코르사주]]></title>
             <link>https://www.elle.co.kr/article/76700</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/76659</guid>
             <pubDate>Fri, 14 Apr 2023 10:13:50 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/444f8c87-e52d-42b8-a0d8-765f0c2135cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤성빈, 서준맘과 운동하고 10cm, 카더가든, 김윤아 공연을 즐기는 웰니스 페스티벌이 있다고?]]></title>
-            <link>https://www.elle.co.kr/article/76654</link>
-            <guid>https://www.elle.co.kr/article/76654</guid>
-            <pubDate>Fri, 14 Apr 2023 08:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[시티 포레스티벌 2023의 티켓 판매는 오늘부터.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/7e7edee0-b469-4c04-98b2-bfe262c1b038.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
