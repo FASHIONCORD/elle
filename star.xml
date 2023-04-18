@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 03:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 04:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[참교육 맛집 '모범택시', 시즌3 제작 확정! 최종회에 나온 떡밥은?]]></title>
+            <link>https://www.elle.co.kr/article/76729</link>
+            <guid>https://www.elle.co.kr/article/76729</guid>
+            <pubDate>Tue, 18 Apr 2023 04:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[마의 시청률 20% 돌파.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/c4ec9e9e-bb16-44c2-9603-134735b200d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['메달권 밖' 예측 뒤엎은 피겨 대표팀, 팀 트로피 대회 종합 2위! (ft. 작정한 셀프 응원)]]></title>
             <link>https://www.elle.co.kr/article/76725</link>
@@ -60,13 +68,6 @@
             <pubDate>Sun, 16 Apr 2023 19:10:21 GMT</pubDate>
             <content:encoded><![CDATA[꽃내음 가득! 코르사주 장식으로 매혹적인 스타일링을 선보인 스타들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/2bb28c19-ee7b-4637-b931-e5142cab48fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리, 3년 만에 인스타 재개! 첫 게시물은 텐미닛? (ft.댄스가수 유랑단)]]></title>
-            <link>https://www.elle.co.kr/article/76692</link>
-            <guid>https://www.elle.co.kr/article/76692</guid>
-            <pubDate>Sun, 16 Apr 2023 15:11:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/ed933e29-4c01-4ca1-a657-5842ce392ce7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
