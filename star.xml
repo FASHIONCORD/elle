@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 09:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 10:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['모범택시2' 종영! 이제훈X표예진 분노하게 한 에피소드는 바로 이것? #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/76747</link>
+            <guid>https://www.elle.co.kr/article/76747</guid>
+            <pubDate>Tue, 18 Apr 2023 10:13:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/5f16181a-5766-483c-8fee-051015e6d29b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[참교육 맛집 '모범택시', 시즌3 제작 확정! 최종회에 나온 떡밥은?]]></title>
             <link>https://www.elle.co.kr/article/76729</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/76701</guid>
             <pubDate>Mon, 17 Apr 2023 00:59:25 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/0749f9c2-c7b5-4fee-a7aa-43f3d6108def.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃향기 남기고 간 패션 #코르사주]]></title>
-            <link>https://www.elle.co.kr/article/76700</link>
-            <guid>https://www.elle.co.kr/article/76700</guid>
-            <pubDate>Sun, 16 Apr 2023 19:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[꽃내음 가득! 코르사주 장식으로 매혹적인 스타일링을 선보인 스타들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/2bb28c19-ee7b-4637-b931-e5142cab48fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
