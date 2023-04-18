@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 17:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 19:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘르 5월호 더블커버스타 필릭스와 예지의 폭발하는 에너지]]></title>
+            <link>https://www.elle.co.kr/article/76728</link>
+            <guid>https://www.elle.co.kr/article/76728</guid>
+            <pubDate>Tue, 18 Apr 2023 19:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[4세대 케이팝 아이콘 필릭스와 예지, 엘르와 조우하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/c8d3a895-8dc1-46ad-a49a-164820d9f6e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['손민수 각'하게 만드는 차정원의 가방 속 아이템은?]]></title>
             <link>https://www.elle.co.kr/article/76758</link>
@@ -60,14 +68,6 @@
             <pubDate>Mon, 17 Apr 2023 08:17:24 GMT</pubDate>
             <content:encoded><![CDATA[저택에 갇힌 두 사람. 세븐틴 정한과 준이 거울을 통해 자신을 들여다보던 낮과 밤.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/a8c19b66-87f2-478d-b882-1b7e0c12c072.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입는 순간 ‘힙’ 해지는 스포티 점퍼 스타일링 6]]></title>
-            <link>https://www.elle.co.kr/article/76717</link>
-            <guid>https://www.elle.co.kr/article/76717</guid>
-            <pubDate>Mon, 17 Apr 2023 03:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[편한데 힙하다! 스타들의 데일리 룩에서 포착된 스포티 점퍼 트렌드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/58159a3c-9a8b-4a26-bbf4-027aa0f21d3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
