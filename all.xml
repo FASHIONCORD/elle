@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 05:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 09:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1034,6 +1034,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/e86c0485-78da-44ef-b5df-289343d65a9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[결혼 후 첫 근황 전한 '하시3' 박지현! 자기관리에서 가장 강조한 것은? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/76659</link>
+            <guid>https://www.elle.co.kr/article/76659</guid>
+            <pubDate>Wed, 19 Apr 2023 09:16:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/444f8c87-e52d-42b8-a0d8-765f0c2135cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤성빈, 서준맘과 운동하고 10cm, 카더가든, 김윤아 공연을 즐기는 웰니스 페스티벌이 있다고? (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/76654</link>
             <guid>https://www.elle.co.kr/article/76654</guid>
@@ -1088,12 +1095,27 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/3e96d188-6524-4367-8d86-a723af82d91f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나의 피부를 구하러 온 구원자! 2023 Ver. 타입별 자외선 차단제 추천 & TIP_선배’s 어드바이스 #163 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/76436</link>
-            <guid>https://www.elle.co.kr/article/76436</guid>
-            <pubDate>Tue, 11 Apr 2023 15:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[자외선 양이 폭증하는 4월, 나에게 꼭 맞는 자외선 차단제는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/e2b6aff3-2412-4624-af62-b4beed74b1cf.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세븐틴 정한과 준의 명징한 시간. 엘르 D에디션 part.2 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76781</link>
+            <guid>https://www.elle.co.kr/article/76781</guid>
+            <pubDate>Wed, 19 Apr 2023 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[정한과 준이 저택에 갇혀버린 순간. 그 낮과 밤이 교차하던 지점들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/277ab467-668c-4a6b-a6ca-73353c4430bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤은혜, 단발병을 '셀프 히메컷'으로 해결했다고? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76780</link>
+            <guid>https://www.elle.co.kr/article/76780</guid>
+            <pubDate>Wed, 19 Apr 2023 09:16:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/f230bb02-0d99-4ef7-9fd6-1478e1eb7ffe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김윤아는 멈추지 않는다. 엘르 5월호와의 멋진 조우 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76730</link>
+            <guid>https://www.elle.co.kr/article/76730</guid>
+            <pubDate>Wed, 19 Apr 2023 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[첫 솔로 라이브앨범 발매! 그녀가 영원히 김윤아인 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/57634fbc-ddde-4128-8862-1f71040ecdf3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가수 테이, 1살 연하 연인과 결혼 발표! 결혼식은 이곳에서 한다고? (엘르 코리아 ─ 스타)]]></title>
@@ -1134,27 +1156,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/c4ec9e9e-bb16-44c2-9603-134735b200d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['메달권 밖' 예측 뒤엎은 피겨 대표팀, 팀 트로피 대회 종합 2위! (ft. 작정한 셀프 응원) (엘르 코리아 ─ 스타)]]></title>
+            <title><![CDATA['메달권 밖' 예측 뒤엎은 피겨 대표팀, 팀 트로피 대회 종합 2위! (ft. 작정한 셀프 응원) (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/76725</link>
             <guid>https://www.elle.co.kr/article/76725</guid>
             <pubDate>Tue, 18 Apr 2023 02:02:40 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/1f422003-73a4-45c7-a1e7-2b07dc3ddacb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[길수록 매력적! 5인 5색 맥시 스커트 스타일 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76721</link>
-            <guid>https://www.elle.co.kr/article/76721</guid>
-            <pubDate>Mon, 17 Apr 2023 19:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[롱롱익선! 실루엣을 길고 날씬하게 바꿔주는 맥시 스커트를 발 빠르게 섭렵한 스타들을 소개합니...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/15a8a9f9-e2f5-4f30-ac99-fe10e06e589f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문승지 작가와 플리츠 마마의 지속가능한 디자인 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76720</link>
-            <guid>https://www.elle.co.kr/article/76720</guid>
-            <pubDate>Mon, 17 Apr 2023 19:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[지속 가능한 디자인을 고민하는 문승지 작가와 친환경 브랜드 플리츠마마가 협업해 폐어망을 재활...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/be8a84a0-ce52-49a4-b87e-7d4c0f41343b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연진영의 실험과 믹스매치 #더메이커스 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1212,12 +1218,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/b40deea5-3484-40b3-8bdb-1acc23ffe1fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헌책을 예술작품으로? '도서관의 날' 이색 행사 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/76604</link>
-            <guid>https://www.elle.co.kr/article/76604</guid>
-            <pubDate>Thu, 13 Apr 2023 10:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[매년 4월 12일은 '도서관의 날'!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/45004593-254e-4d55-9464-e0473afb62d1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[백스테이지에서 무슨 일이?! 블랙핑크가 직접 전한 눈물의 코첼라 후기.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
+            <link>https://www.elle.co.kr/article/76815</link>
+            <guid>https://www.elle.co.kr/article/76815</guid>
+            <pubDate>Wed, 19 Apr 2023 09:16:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/52ef630c-c7bc-4988-8d26-839f00f756eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤성빈, 서준맘과 운동하고 10cm, 카더가든, 김윤아 공연을 즐기는 웰니스 페스티벌이 있다고? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1247,7 +1252,6 @@
             <link>https://www.elle.co.kr/article/76129</link>
             <guid>https://www.elle.co.kr/article/76129</guid>
             <pubDate>Fri, 24 Mar 2023 11:11:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/013aa897-2b53-42d9-a160-a70780ce2776.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전국의 효녀효자들 긴장해... 조용필 5년 만의 잠실 주경기장 콘서트, 시작은 언제? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1297,13 +1301,6 @@
             <guid>https://www.elle.co.kr/article/74206</guid>
             <pubDate>Sun, 19 Feb 2023 17:16:10 GMT</pubDate>
             <content:encoded><![CDATA[정작 한국 아티스트 음반이 아닌 것은 단 3개 뿐.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새가 지저귀듯이, 정우 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
-            <link>https://www.elle.co.kr/article/74199</link>
-            <guid>https://www.elle.co.kr/article/74199</guid>
-            <pubDate>Sun, 19 Feb 2023 17:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[가벼운 목소리로 남기는 짙은 여운.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['모범택시2' 종영! 이제훈X표예진 분노하게 한 에피소드는 바로 이것? #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
