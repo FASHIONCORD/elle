@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 09:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 10:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1095,6 +1095,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/3e96d188-6524-4367-8d86-a723af82d91f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[모델 김아현의 데일리 메이크업 Tip (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76787</link>
+            <guid>https://www.elle.co.kr/article/76787</guid>
+            <pubDate>Wed, 19 Apr 2023 10:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[촉촉한 피부를 위한 스킨케어부터 내추럴하고 퓨어한 분위기의 데일리 메이크업까지! 그동안 꽁꽁...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/1ec825f6-ed19-4a44-99d1-500b3b6f036f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세븐틴 정한과 준의 명징한 시간. 엘르 D에디션 part.2 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76781</link>
             <guid>https://www.elle.co.kr/article/76781</guid>
@@ -1146,14 +1154,6 @@
             <guid>https://www.elle.co.kr/article/76747</guid>
             <pubDate>Mon, 17 Apr 2023 08:17:52 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/5f16181a-5766-483c-8fee-051015e6d29b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참교육 맛집 '모범택시', 시즌3 제작 확정! 최종회에 나온 떡밥은? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76729</link>
-            <guid>https://www.elle.co.kr/article/76729</guid>
-            <pubDate>Mon, 17 Apr 2023 03:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[마의 시청률 20% 돌파.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/c4ec9e9e-bb16-44c2-9603-134735b200d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['메달권 밖' 예측 뒤엎은 피겨 대표팀, 팀 트로피 대회 종합 2위! (ft. 작정한 셀프 응원) (엘르 코리아 ─ 컬쳐)]]></title>
