@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 10:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 11:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1095,6 +1095,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/3e96d188-6524-4367-8d86-a723af82d91f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이토록 사랑스러운 엄정화 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76789</link>
+            <guid>https://www.elle.co.kr/article/76789</guid>
+            <pubDate>Wed, 19 Apr 2023 11:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[용감하고 대담한 여성. &lt;닥터 차정숙&gt;의 차정숙으로 돌아온 그녀.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/725bd4ea-d011-4626-b2c2-4b2f2220a664.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[모델 김아현의 데일리 메이크업 Tip (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76787</link>
             <guid>https://www.elle.co.kr/article/76787</guid>
@@ -1147,13 +1155,6 @@
             <pubDate>Tue, 18 Apr 2023 12:24:24 GMT</pubDate>
             <content:encoded><![CDATA[세련된 패션 감각의 소유자 차정원, 그녀의 취향이 묻은 소지품은 과연 무엇일까요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/d7291884-6cfe-42a9-9c18-f95d5bd88b73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모범택시2' 종영! 이제훈X표예진 분노하게 한 에피소드는 바로 이것? #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76747</link>
-            <guid>https://www.elle.co.kr/article/76747</guid>
-            <pubDate>Mon, 17 Apr 2023 08:17:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/5f16181a-5766-483c-8fee-051015e6d29b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['메달권 밖' 예측 뒤엎은 피겨 대표팀, 팀 트로피 대회 종합 2위! (ft. 작정한 셀프 응원) (엘르 코리아 ─ 컬쳐)]]></title>
