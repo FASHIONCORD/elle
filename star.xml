@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 18:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 19:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["다음에 만났을 때는...": 아버지를 떠나 보낸 추성훈의 애틋한 편지]]></title>
+            <link>https://www.elle.co.kr/article/76805</link>
+            <guid>https://www.elle.co.kr/article/76805</guid>
+            <pubDate>Wed, 19 Apr 2023 19:11:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/d6029881-3c07-4e73-8548-5cac922f512d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이토록 사랑스러운 엄정화]]></title>
             <link>https://www.elle.co.kr/article/76789</link>
@@ -60,14 +67,6 @@
             <pubDate>Tue, 18 Apr 2023 19:10:51 GMT</pubDate>
             <content:encoded><![CDATA[4세대 케이팝 아이콘 필릭스와 예지, 엘르와 조우하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/c8d3a895-8dc1-46ad-a49a-164820d9f6e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['손민수 각'하게 만드는 차정원의 가방 속 아이템은?]]></title>
-            <link>https://www.elle.co.kr/article/76758</link>
-            <guid>https://www.elle.co.kr/article/76758</guid>
-            <pubDate>Tue, 18 Apr 2023 12:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[세련된 패션 감각의 소유자 차정원, 그녀의 취향이 묻은 소지품은 과연 무엇일까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/d7291884-6cfe-42a9-9c18-f95d5bd88b73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
