@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 09:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 10:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백스테이지에서 무슨 일이?! 블랙핑크가 직접 전한 눈물의 코첼라 후기.txt]]></title>
+            <link>https://www.elle.co.kr/article/76815</link>
+            <guid>https://www.elle.co.kr/article/76815</guid>
+            <pubDate>Fri, 21 Apr 2023 10:13:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/52ef630c-c7bc-4988-8d26-839f00f756eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발, 손, 가슴. 해부학에서 비롯된 디자인 오브제]]></title>
             <link>https://www.elle.co.kr/article/76269</link>
@@ -60,13 +67,6 @@
             <pubDate>Mon, 17 Apr 2023 08:17:32 GMT</pubDate>
             <content:encoded><![CDATA[그녀의 흐트러진 작업실은 자신만의 디자인 세계로 들어가는 관문이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/c7a52010-1bed-47fb-b8f4-4f14aa0eebbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['너목들'로 만난 이종석X이보영! 벌써 10주년이라는데?]]></title>
-            <link>https://www.elle.co.kr/article/76663</link>
-            <guid>https://www.elle.co.kr/article/76663</guid>
-            <pubDate>Mon, 17 Apr 2023 03:14:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/233de2a7-9324-404a-9d48-606c0bb9d6ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

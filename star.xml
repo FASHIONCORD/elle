@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 09:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 10:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[필라테스부터 홈트까지! 운동마니아 이소연의 최애 스포츠는 바로 이것? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/76862</link>
+            <guid>https://www.elle.co.kr/article/76862</guid>
+            <pubDate>Fri, 21 Apr 2023 10:13:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/b7f9e19a-ab1b-48d2-99f9-0f98db2137bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더욱 울림 깊어진 브루노 마스, 9년 만의 내한 콘서트! 최근 셋리스트는?]]></title>
+            <link>https://www.elle.co.kr/article/76836</link>
+            <guid>https://www.elle.co.kr/article/76836</guid>
+            <pubDate>Fri, 21 Apr 2023 10:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[잠실 주경기장이어도 불안한 내 좌석의 존재 여부.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/ec950b92-8de5-4eee-b165-e0618166ce6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 블랙핑크 코첼라 스타일]]></title>
             <link>https://www.elle.co.kr/article/76834</link>
@@ -53,20 +68,6 @@
             <pubDate>Thu, 20 Apr 2023 02:03:46 GMT</pubDate>
             <content:encoded><![CDATA[최근 태양과의 협업을 예고하기도!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/f5ad3ef0-3a46-4314-aa54-67cfa83d2fc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백스테이지에서 무슨 일이?! 블랙핑크가 직접 전한 눈물의 코첼라 후기.txt]]></title>
-            <link>https://www.elle.co.kr/article/76815</link>
-            <guid>https://www.elle.co.kr/article/76815</guid>
-            <pubDate>Thu, 20 Apr 2023 02:03:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/52ef630c-c7bc-4988-8d26-839f00f756eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피지컬 아저씨' 추성훈! 운동할 때 이것만은 꼭 지킨다는데? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/76811</link>
-            <guid>https://www.elle.co.kr/article/76811</guid>
-            <pubDate>Thu, 20 Apr 2023 02:03:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/5179c92c-709d-4ad1-8fc0-604b4dac78a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

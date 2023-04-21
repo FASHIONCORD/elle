@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 09:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 10:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디자인 씬을 뒤흔든 주역! EDIDA 2023]]></title>
+            <link>https://www.elle.co.kr/article/76900</link>
+            <guid>https://www.elle.co.kr/article/76900</guid>
+            <pubDate>Fri, 21 Apr 2023 10:14:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/d2f7e401-1c19-4a8c-8bf8-ccad374f44ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대 최대 규모에 챗GPT 기반 서비스까지? '아트부산 2023' 핵심 포인트 2 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/76898</link>
@@ -36,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/76269</guid>
             <pubDate>Tue, 18 Apr 2023 15:15:26 GMT</pubDate>
             <content:encoded><![CDATA[집 안 곳곳에 기묘한 아름다움을 불어넣는, 몸을 닯은 오브제.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/4cab6451-cabc-48ea-a2fe-22cb31ada073.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연진영의 실험과 믹스매치 #더메이커스]]></title>
@@ -93,13 +99,6 @@
             <guid>https://www.elle.co.kr/article/75662</guid>
             <pubDate>Thu, 06 Apr 2023 23:13:25 GMT</pubDate>
             <content:encoded><![CDATA[책 &lt;금요일엔 시골집으로 퇴근합니다&gt;의 저자. 평일에는 리빙 MD로 주말에는 작가이자 주말 농부...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폴 스미스가 디자인한 호텔?]]></title>
-            <link>https://www.elle.co.kr/article/76509</link>
-            <guid>https://www.elle.co.kr/article/76509</guid>
-            <pubDate>Thu, 06 Apr 2023 06:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[문고리부터 남다른 브라운스 호텔의 ‘폴 스미스 경 스위트’ 룸이 오픈했습니다.]]></content:encoded>
         </item>
     </channel>
 </rss>
