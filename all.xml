@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 06:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 07:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1034,6 +1034,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/a505a056-fc90-47b3-90d9-29593d0aa0d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[모델 김아현의 데일리 메이크업 Tip (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/76787</link>
+            <guid>https://www.elle.co.kr/article/76787</guid>
+            <pubDate>Fri, 21 Apr 2023 07:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[촉촉한 피부를 위한 스킨케어부터 내추럴하고 퓨어한 분위기의 데일리 메이크업까지! 그동안 꽁꽁...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/1ec825f6-ed19-4a44-99d1-500b3b6f036f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤은혜, 단발병을 '셀프 히메컷'으로 해결했다고? (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/76780</link>
             <guid>https://www.elle.co.kr/article/76780</guid>
@@ -1085,14 +1093,6 @@
             <pubDate>Mon, 17 Apr 2023 19:09:35 GMT</pubDate>
             <content:encoded><![CDATA[인간과 자연, 동물의 공생을 꿈꾸는 그린슈머들을 위한 스마트 그린 뷰티 가이드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/4642caf1-589f-4596-b236-f2001378301e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토너는 다 물이다? No! 피부 고민을 타파해줄 똑똑한 솔루션, 토너의 모든 것_선배’s 어드바이스 #164 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/76563</link>
-            <guid>https://www.elle.co.kr/article/76563</guid>
-            <pubDate>Mon, 17 Apr 2023 08:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[주름 개선부터 미백, 각질 제거, 피부 장벽 개선까지, 효과 확실한 토너 모음.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/ac68318a-44a9-4f7c-a5f7-f591ac761470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미소가 예뻤던 아스트로 문빈이 세상을 떠났다 (엘르 코리아 ─ 스타)]]></title>
