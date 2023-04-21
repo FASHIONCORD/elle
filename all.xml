@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 14:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 15:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1095,6 +1095,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/4642caf1-589f-4596-b236-f2001378301e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['더 글로리' 김은숙 작가, 강릉 산불 피해 지원하며 남긴 메시지는? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76867</link>
+            <guid>https://www.elle.co.kr/article/76867</guid>
+            <pubDate>Fri, 21 Apr 2023 15:12:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/c324051a-e7f3-45d7-89ca-70083a46bf0d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[필라테스부터 홈트까지! 운동마니아 이소연의 최애 스포츠는 바로 이것? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76862</link>
             <guid>https://www.elle.co.kr/article/76862</guid>
@@ -1147,14 +1154,6 @@
             <pubDate>Thu, 20 Apr 2023 04:15:44 GMT</pubDate>
             <content:encoded><![CDATA[팀 7시 희재, 팀 8시 D1, 팀 11시 혜성, 팀 13시 한결, 팀 20시 빛새온, 팀 24시 문종업의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/27df41bb-fe27-40d3-82b0-3fe9484e669b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리 아일리시부터 도미닉 파이크까지! 역대급 친분 인증한 블랙핑크 리사 근황.jpg (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76819</link>
-            <guid>https://www.elle.co.kr/article/76819</guid>
-            <pubDate>Thu, 20 Apr 2023 02:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[최근 태양과의 협업을 예고하기도!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/f5ad3ef0-3a46-4314-aa54-67cfa83d2fc2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백스테이지에서 무슨 일이?! 블랙핑크가 직접 전한 눈물의 코첼라 후기.txt (엘르 코리아 ─ 컬쳐)]]></title>
