@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 18:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 19:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공효진이 결혼식 답례품으로 고른 초콜릿은? 새로운 디저트 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/76871</link>
+            <guid>https://www.elle.co.kr/article/76871</guid>
+            <pubDate>Fri, 21 Apr 2023 19:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[먼저 가는 사람이 승리하는 서울 구석구석의 디저트 맛집을 공개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/d5f01c07-afaa-40a1-bc95-a6c109a570ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 글로리' 김은숙 작가, 강릉 산불 피해 지원하며 남긴 메시지는?]]></title>
             <link>https://www.elle.co.kr/article/76867</link>
@@ -59,14 +67,6 @@
             <pubDate>Thu, 20 Apr 2023 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[아기자기한 포인트의 귀여운 패션 아이템과 사랑에 빠진 스타들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/55ada097-3c6a-42ab-b65b-5f969f883195.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC 피크타임 TOP 6가 모였다! 착한 서바이벌 인정하시나요?]]></title>
-            <link>https://www.elle.co.kr/article/76820</link>
-            <guid>https://www.elle.co.kr/article/76820</guid>
-            <pubDate>Thu, 20 Apr 2023 04:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[팀 7시 희재, 팀 8시 D1, 팀 11시 혜성, 팀 13시 한결, 팀 20시 빛새온, 팀 24시 문종업의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/27df41bb-fe27-40d3-82b0-3fe9484e669b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
