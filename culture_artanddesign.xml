@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 07:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 08:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계적인 사진전 1위를 거머쥔 우승자, 돌연 수상 거부를 선언한 이유는?]]></title>
+            <link>https://www.elle.co.kr/article/76893</link>
+            <guid>https://www.elle.co.kr/article/76893</guid>
+            <pubDate>Fri, 21 Apr 2023 08:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[발렌시아가를 입은 해리포터부터 몽클레르 패딩을 걸친 프란치스코 교황까지, 모호해져만 가는 예...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/6f28f2ba-6eeb-4f63-9c79-0604d4002435.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마르탱 라포레의 수수께끼 같은 의자들]]></title>
             <link>https://www.elle.co.kr/article/76270</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76268</guid>
             <pubDate>Fri, 14 Apr 2023 15:14:07 GMT</pubDate>
             <content:encoded><![CDATA[그녀의 흐트러진 작업실은 자신만의 디자인 세계로 들어가는 관문이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/c7a52010-1bed-47fb-b8f4-4f14aa0eebbe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소만의 시간, 도예가 김덕호와 이인화]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/75661</guid>
             <pubDate>Tue, 04 Apr 2023 15:15:31 GMT</pubDate>
             <content:encoded><![CDATA[드리프트에게 예술과 기술의 아름다운 조우에 대해 물었다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이우환부터 에드워드 호퍼까지, 봄바람과 함께 찾아온 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/76464</link>
-            <guid>https://www.elle.co.kr/article/76464</guid>
-            <pubDate>Tue, 04 Apr 2023 09:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[흩날리는 벚꽃과 더없이 어울리는 회화 작품과 전 세계를 무대로 한 초대형 설치물.]]></content:encoded>
         </item>
     </channel>
 </rss>
