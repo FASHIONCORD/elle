@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 18:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 19:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문빈의 마지막을 함께 한 아이돌 선후배들]]></title>
+            <link>https://www.elle.co.kr/article/76901</link>
+            <guid>https://www.elle.co.kr/article/76901</guid>
+            <pubDate>Sun, 23 Apr 2023 19:10:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/fb00ec0d-4287-46c1-8c04-c42e592df6bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제이홉 입대에 완전체로 뭉친 BTS! '호랑이 조교' 진의 짧지만 강렬한 한 마디]]></title>
             <link>https://www.elle.co.kr/article/76899</link>
@@ -58,13 +65,6 @@
             <pubDate>Fri, 21 Apr 2023 09:12:39 GMT</pubDate>
             <content:encoded><![CDATA[무대의상부터 사복 스타일까지. 핑크첼라 누가 무엇을 입었나.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/41da71b1-c684-4d46-b4eb-da4891375501.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미소가 예뻤던 아스트로 문빈이 세상을 떠났다]]></title>
-            <link>https://www.elle.co.kr/article/76832</link>
-            <guid>https://www.elle.co.kr/article/76832</guid>
-            <pubDate>Thu, 20 Apr 2023 19:10:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/b61832b0-78bb-4598-9d1f-de1fb961b4c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
