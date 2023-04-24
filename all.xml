@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 18:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 19:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMTc4/MDAxNjYyMzY3NzkxNzcy.mv_Wwuluz89Y1Mwa0pd2y-XZrA46WyT-44lM8CCGdcUg.JGjKkRPRPs5Fzjz-ISRBbd83lIIqfJNnMLmMw9hoaoAg.JPEG/I_9KZKlhGAKPWi8BdoqWH00AZ_ds.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[실험적인 뉴 아이 실드 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/76173</link>
+            <guid>https://www.elle.co.kr/article/76173</guid>
+            <pubDate>Mon, 24 Apr 2023 19:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[실험실을 방불케 하는 뉴 선글라스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/3c547b16-51db-4018-a594-bea84c60f61f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가니와 나눈 지속가능한 패션 스토리 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/76930</link>
             <guid>https://www.elle.co.kr/article/76930</guid>
@@ -1024,14 +1032,6 @@
             <pubDate>Thu, 20 Apr 2023 11:11:30 GMT</pubDate>
             <content:encoded><![CDATA[고상한 드레스 룩부터 현실적인 오피스 룩까지! 우아하고 고급스러운 이지아와 장희진의 드라마 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/68f90488-6ef9-4d40-85a8-9278a7664d9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀여운 것이 세상을 구한다! 스타들의 키치한 취향 모음.zip (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/76826</link>
-            <guid>https://www.elle.co.kr/article/76826</guid>
-            <pubDate>Thu, 20 Apr 2023 09:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[아기자기한 포인트의 귀여운 패션 아이템과 사랑에 빠진 스타들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/55ada097-3c6a-42ab-b65b-5f969f883195.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['피지컬 아저씨' 추성훈! 운동할 때 이것만은 꼭 지킨다는데? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1094,6 +1094,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/bd4e7a08-fc0b-4fbe-bdd5-c48fe2a2ed2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[프리퀄 드라마에 여성 버전 스핀오프까지?! 더 확장되는 '존 윅' 유니버스 모음.zip (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76937</link>
+            <guid>https://www.elle.co.kr/article/76937</guid>
+            <pubDate>Mon, 24 Apr 2023 02:09:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/9e87e555-42ba-44de-892e-0b0dfba96f1d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더보이즈 선우의 제 2막 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76928</link>
             <guid>https://www.elle.co.kr/article/76928</guid>
@@ -1146,13 +1153,6 @@
             <guid>https://www.elle.co.kr/article/76901</guid>
             <pubDate>Sun, 23 Apr 2023 19:10:07 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/fb00ec0d-4287-46c1-8c04-c42e592df6bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이홉 입대에 완전체로 뭉친 BTS! '호랑이 조교' 진의 짧지만 강렬한 한 마디 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76899</link>
-            <guid>https://www.elle.co.kr/article/76899</guid>
-            <pubDate>Sat, 22 Apr 2023 19:10:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/308bb3dd-dfd7-4089-bf5e-6b2b2e322490.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스튜디오 차차가 포착한 빛과 일렁임 #더메이커스 (엘르 코리아 ─ 컬쳐)]]></title>
