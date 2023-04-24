@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 02:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 03:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조현아가 밝힌 5살 차이 절친 수지의 '심쿵' 모먼트는?]]></title>
+            <link>https://www.elle.co.kr/article/76907</link>
+            <guid>https://www.elle.co.kr/article/76907</guid>
+            <pubDate>Mon, 24 Apr 2023 03:13:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/58f40027-69e5-4f6e-a0a5-204da114b444.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수지부터 조이까지! 스타들이 선택한 럭셔리 워치 5]]></title>
             <link>https://www.elle.co.kr/article/76906</link>
@@ -58,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/76867</guid>
             <pubDate>Fri, 21 Apr 2023 15:12:44 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/c324051a-e7f3-45d7-89ca-70083a46bf0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필라테스부터 홈트까지! 운동마니아 이소연의 최애 스포츠는 바로 이것? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/76862</link>
-            <guid>https://www.elle.co.kr/article/76862</guid>
-            <pubDate>Fri, 21 Apr 2023 10:13:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/b7f9e19a-ab1b-48d2-99f9-0f98db2137bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
