@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 06:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 07:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최고 시청률 70%! 레전드 드라마 '수사반장' 프리퀄 출연 확정한 '장르물 장인'의 정체]]></title>
+            <link>https://www.elle.co.kr/article/76939</link>
+            <guid>https://www.elle.co.kr/article/76939</guid>
+            <pubDate>Tue, 25 Apr 2023 07:12:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/44795554-e35c-4465-840d-c0967622d50c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프리퀄 드라마에 여성 버전 스핀오프까지?! 더 확장되는 '존 윅' 유니버스 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/76937</link>
@@ -60,13 +67,6 @@
             <pubDate>Mon, 24 Apr 2023 00:59:50 GMT</pubDate>
             <content:encoded><![CDATA[진심을 다하는 마음으로 지구를 아끼는 두 사람이 책 &lt;숲으로 간 여성들&gt;을 펴냈다. 저자 구정...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/3f8456b7-9543-46b4-b51b-832c1600d0a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문빈의 마지막을 함께 한 아이돌 선후배들]]></title>
-            <link>https://www.elle.co.kr/article/76901</link>
-            <guid>https://www.elle.co.kr/article/76901</guid>
-            <pubDate>Sun, 23 Apr 2023 19:10:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/fb00ec0d-4287-46c1-8c04-c42e592df6bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

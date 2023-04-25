@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 06:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 07:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프리퀄 드라마에 여성 버전 스핀오프까지?! 더 확장되는 '존 윅' 유니버스 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/76937</link>
+            <guid>https://www.elle.co.kr/article/76937</guid>
+            <pubDate>Tue, 25 Apr 2023 07:12:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/9e87e555-42ba-44de-892e-0b0dfba96f1d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스튜디오 차차가 포착한 빛과 일렁임 #더메이커스]]></title>
             <link>https://www.elle.co.kr/article/76271</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/76815</guid>
             <pubDate>Fri, 21 Apr 2023 10:13:24 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/52ef630c-c7bc-4988-8d26-839f00f756eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발, 손, 가슴. 해부학에서 비롯된 디자인 오브제]]></title>
-            <link>https://www.elle.co.kr/article/76269</link>
-            <guid>https://www.elle.co.kr/article/76269</guid>
-            <pubDate>Fri, 21 Apr 2023 09:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[집 안 곳곳에 기묘한 아름다움을 불어넣는, 몸을 닯은 오브제.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/4cab6451-cabc-48ea-a2fe-22cb31ada073.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
