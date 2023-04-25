@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 01:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 02:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1034,6 +1034,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/68f90488-6ef9-4d40-85a8-9278a7664d9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이건 가져야 해! 도라에몽 리미티드 에디션 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/76814</link>
+            <guid>https://www.elle.co.kr/article/76814</guid>
+            <pubDate>Tue, 25 Apr 2023 02:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[태양 아래 함께 빛날 든든한 나의 친구, 아넷사 도라에몽&amp;도라미 리미티드 에디션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/0256c7e2-877e-4685-9d1e-cd8b014ba979.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['피지컬 아저씨' 추성훈! 운동할 때 이것만은 꼭 지킨다는데? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/76811</link>
             <guid>https://www.elle.co.kr/article/76811</guid>
@@ -1085,13 +1093,6 @@
             <pubDate>Thu, 13 Apr 2023 07:13:17 GMT</pubDate>
             <content:encoded><![CDATA[시티 포레스티벌 2023의 티켓 판매는 오늘부터.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/7e7edee0-b469-4c04-98b2-bfe262c1b038.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[철저한 자기관리로 롱런하는 엄정화! 운동하면서 '이것'을 가장 강조했다는데? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/76636</link>
-            <guid>https://www.elle.co.kr/article/76636</guid>
-            <pubDate>Tue, 18 Apr 2023 10:13:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/bd4e7a08-fc0b-4fbe-bdd5-c48fe2a2ed2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리퀄 드라마에 여성 버전 스핀오프까지?! 더 확장되는 '존 윅' 유니버스 모음.zip (엘르 코리아 ─ 스타)]]></title>
@@ -1480,6 +1481,28 @@
             <content:encoded><![CDATA['The Moment : 찰나의 희열', '프랑수아 알라르 : 비지트 프리베'.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[공효진이 결혼식 답례품으로 고른 초콜릿은? 새로운 디저트 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/76871</link>
+            <guid>https://www.elle.co.kr/article/76871</guid>
+            <pubDate>Tue, 25 Apr 2023 02:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[먼저 가는 사람이 승리하는 서울 구석구석의 디저트 맛집을 공개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/d5f01c07-afaa-40a1-bc95-a6c109a570ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야경은 기본! 봄밤 정취 만끽하기 좋은 '창덕궁-덕수궁-경복궁' 행사 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/76776</link>
+            <guid>https://www.elle.co.kr/article/76776</guid>
+            <pubDate>Tue, 25 Apr 2023 02:09:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/28ebc877-be90-4b81-b79a-5b189ffbbcc7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수제 맥주 양조장부터 특별한 정육점까지, 미식의 본거지 성수 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/76760</link>
+            <guid>https://www.elle.co.kr/article/76760</guid>
+            <pubDate>Tue, 25 Apr 2023 02:09:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/fd8cf02a-a1d8-424c-b53c-c0bcc46f0f21.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['해버지' 박지성이 세계 각국의 축구 꿈나무들과 그라운드 위를 누빈 배경 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/76732</link>
             <guid>https://www.elle.co.kr/article/76732</guid>
@@ -1518,29 +1541,6 @@
             <pubDate>Tue, 18 Apr 2023 02:03:51 GMT</pubDate>
             <content:encoded><![CDATA[좋아하는 무언가에 애정을 쏟을 줄 알고, 분명한 취향을 바탕으로 자신만의 행복하고 풍요로운 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/8fc05b79-d827-4dd5-9da9-79fb407e1331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['힙당동'으로 모여! 김나영의 신당동 핫플 사냥 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/76617</link>
-            <guid>https://www.elle.co.kr/article/76617</guid>
-            <pubDate>Mon, 17 Apr 2023 03:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[쇼핑부터 먹방까지, 김나영이 방문한 신당동 핫 플레이스를 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/0cdc8525-bf13-4986-948b-6026c9cbd30c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스탠딩 이자카야부터 80년대 오사카 술집까지! 비행기 없이 일본으로 떠나는 을지로-합정-용산 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/76590</link>
-            <guid>https://www.elle.co.kr/article/76590</guid>
-            <pubDate>Mon, 17 Apr 2023 03:14:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/2a9194de-d1c3-4cb2-8bac-2ecd3c97864c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4월에는 사진을 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/76571</link>
-            <guid>https://www.elle.co.kr/article/76571</guid>
-            <pubDate>Mon, 10 Apr 2023 07:13:24 GMT</pubDate>
-            <content:encoded><![CDATA['The Moment : 찰나의 희열', '프랑수아 알라르 : 비지트 프리베'.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/7ac11eb5-6ca8-446f-8fa8-53b9f00e66b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["커피 마셨다고요? 배가 불렀군요" 요즘 MZ세대가 푹 빠진 '거지방'을 아시나요?_돈쓸신잡 #94 (엘르 코리아 ─ 소사이어티)]]></title>
