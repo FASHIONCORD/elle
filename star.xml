@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 11:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 12:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시스루 드레스부터 트레이닝룩까지! 이효리 반전 패션 근황.jpg]]></title>
+            <link>https://www.elle.co.kr/article/76954</link>
+            <guid>https://www.elle.co.kr/article/76954</guid>
+            <pubDate>Tue, 25 Apr 2023 12:22:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/56465249-b3e7-48a0-9c2f-d04e2d98d8c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기와지붕부터 부채춤, 한복까지! 한국적인 색채로 코첼라를 물들인 블랙핑크]]></title>
             <link>https://www.elle.co.kr/article/76953</link>
@@ -59,13 +66,6 @@
             <pubDate>Mon, 24 Apr 2023 10:14:11 GMT</pubDate>
             <content:encoded><![CDATA[소문난 카메라 덕후 문별이 고른 여섯 대의 카메라를 구경해 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/35fd7590-b71d-4256-b9bd-8f88aa23a24b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조현아가 밝힌 5살 차이 절친 수지의 '심쿵' 모먼트는?]]></title>
-            <link>https://www.elle.co.kr/article/76907</link>
-            <guid>https://www.elle.co.kr/article/76907</guid>
-            <pubDate>Mon, 24 Apr 2023 03:13:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/58f40027-69e5-4f6e-a0a5-204da114b444.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

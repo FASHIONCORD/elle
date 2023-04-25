@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 11:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 12:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1095,6 +1095,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/d7291884-6cfe-42a9-9c18-f95d5bd88b73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시스루 드레스부터 트레이닝룩까지! 이효리 반전 패션 근황.jpg (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76954</link>
+            <guid>https://www.elle.co.kr/article/76954</guid>
+            <pubDate>Tue, 25 Apr 2023 12:22:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/56465249-b3e7-48a0-9c2f-d04e2d98d8c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기와지붕부터 부채춤, 한복까지! 한국적인 색채로 코첼라를 물들인 블랙핑크 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76953</link>
             <guid>https://www.elle.co.kr/article/76953</guid>
@@ -1146,13 +1153,6 @@
             <pubDate>Mon, 24 Apr 2023 10:14:11 GMT</pubDate>
             <content:encoded><![CDATA[소문난 카메라 덕후 문별이 고른 여섯 대의 카메라를 구경해 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/35fd7590-b71d-4256-b9bd-8f88aa23a24b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조현아가 밝힌 5살 차이 절친 수지의 '심쿵' 모먼트는? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76907</link>
-            <guid>https://www.elle.co.kr/article/76907</guid>
-            <pubDate>Mon, 24 Apr 2023 03:13:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/58f40027-69e5-4f6e-a0a5-204da114b444.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[끊임없이 목마른 배우 전도연에게 ‘도취’란 없다_요주의여성 #84 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1481,6 +1481,14 @@
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[WGNB과 백종환의 직관 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/76272</link>
+            <guid>https://www.elle.co.kr/article/76272</guid>
+            <pubDate>Mon, 24 Apr 2023 15:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[교보문고, 준지 플래그십 스토어, 무신사 편집 숍 엠프 티. 건축에 담기는 모든 것을 디자인하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/bd22b10f-7d4e-47c5-9efb-aa489278a1a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요즘 비건리스트 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/76181</link>
             <guid>https://www.elle.co.kr/article/76181</guid>
@@ -1533,14 +1541,6 @@
             <pubDate>Thu, 20 Apr 2023 19:11:32 GMT</pubDate>
             <content:encoded><![CDATA[망치로 깨서 먹는 짜장면 맛집도 있다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/a3c24f47-7ca5-4f46-8a3a-c236b04dddd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주 서쪽을 여행할 땐 무조건 이 코스로! 윤혜진이 방문한 제주 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/76671</link>
-            <guid>https://www.elle.co.kr/article/76671</guid>
-            <pubDate>Tue, 18 Apr 2023 09:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[분위기 끝판왕 브런치 카페부터 나만 알고 싶은 근고기 맛집까지, 지금 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/2e3ba1ca-08e7-4cd7-b6bf-99b32607de4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너구리와 참매는 어쩌다 이곳에 왔을까? 충남야생동물구조센터의 하루 (엘르 코리아 ─ 소사이어티)]]></title>
