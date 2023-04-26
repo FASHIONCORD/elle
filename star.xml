@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 14:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 15:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀러브리티의 플랜 B! 제2의 직업을 갖게 된 스타 3]]></title>
+            <link>https://www.elle.co.kr/article/77033</link>
+            <guid>https://www.elle.co.kr/article/77033</guid>
+            <pubDate>Wed, 26 Apr 2023 15:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[첫 개인전을 선보인 하지원부터 수제 맥주를 만드는 노홍철까지! 남다른 재능으로 새로운 길을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/5d7ace48-b0cf-4bd9-a356-086e42097837.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작은 고요가 된 일상의 조각들]]></title>
+            <link>https://www.elle.co.kr/article/77029</link>
+            <guid>https://www.elle.co.kr/article/77029</guid>
+            <pubDate>Wed, 26 Apr 2023 15:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[작가 이희조는 일상에 녹아 삶의 동반자가 된 사물을 골똘히 바라보기로 했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/ec5a9508-79d6-415e-b416-ddf6c3a143ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요리에 진심인 BTS 정국! 불그리에 이어 2번째로 공개한 이색 레시피.txt]]></title>
             <link>https://www.elle.co.kr/article/77025</link>
@@ -52,21 +68,6 @@
             <guid>https://www.elle.co.kr/article/76954</guid>
             <pubDate>Tue, 25 Apr 2023 12:22:43 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/56465249-b3e7-48a0-9c2f-d04e2d98d8c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기와지붕부터 부채춤, 한복까지! 한국적인 색채로 코첼라를 물들인 블랙핑크]]></title>
-            <link>https://www.elle.co.kr/article/76953</link>
-            <guid>https://www.elle.co.kr/article/76953</guid>
-            <pubDate>Tue, 25 Apr 2023 09:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[광활한 캘리포니아 인디오 사막을 수놓은 한국의 미.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/fb017e1c-7f15-4e8d-8f36-2a05a34468d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄정화 활약에 인생캐 경신까지? '닥터 차정숙' 인기 요인 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/76952</link>
-            <guid>https://www.elle.co.kr/article/76952</guid>
-            <pubDate>Tue, 25 Apr 2023 08:15:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/e1fcf45c-daac-482c-9a18-d2135b7e70cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
