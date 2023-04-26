@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 04:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 05:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMTc4/MDAxNjYyMzY3NzkxNzcy.mv_Wwuluz89Y1Mwa0pd2y-XZrA46WyT-44lM8CCGdcUg.JGjKkRPRPs5Fzjz-ISRBbd83lIIqfJNnMLmMw9hoaoAg.JPEG/I_9KZKlhGAKPWi8BdoqWH00AZ_ds.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인사이드 아웃 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/76956</link>
+            <guid>https://www.elle.co.kr/article/76956</guid>
+            <pubDate>Wed, 26 Apr 2023 05:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[사람들은 오재훈의 작품을 친환경적 예술인지 패션인지 묻지만, 그는 개의치 않고 내일을 준비한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/e683f537-d71c-4ede-9f10-93ee46ade6e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[핑크보다 진한 메탈릭 리본 액세서리 트렌드! 쇼핑 리스트 4 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/76955</link>
             <guid>https://www.elle.co.kr/article/76955</guid>
@@ -1024,14 +1032,6 @@
             <pubDate>Mon, 24 Apr 2023 10:13:53 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대 규모 가구 박람회에 등장한 로에베의 특별한 의자와 보테가 베네타의 신비로운 동굴 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/b0387b96-2f09-4d13-9d45-f4bbe5d99e8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정채연, 우아함의 끝 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/76828</link>
-            <guid>https://www.elle.co.kr/article/76828</guid>
-            <pubDate>Mon, 24 Apr 2023 02:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[파인 주얼리 브랜드 키린과 배우 정채연의 빛나는 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/bed74aa9-ac85-46df-81d8-e2356f210ab6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스피드가 생명! 5분이면 충분한 이청아의 데일리 메이크업 (엘르 코리아 ─ 뷰티)]]></title>
