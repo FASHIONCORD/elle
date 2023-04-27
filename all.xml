@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 04:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 05:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -815,7 +815,7 @@
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35847203&amp;memberNo=12504201&amp;navigationType=push</guid>
             <pubDate>Thu, 27 Apr 2023 04:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjZfMTQ0/MDAxNjgyNTAyNTk4OTE4.p6C6J6_jOaBvaxniDAZAhu8lmAg2Kgib88zJcfC3Ppog.-cVUQvqiK_ow8lu6AnREEUS6AwU_m5KX9MaqMI7b4Igg.JPEG/IdsgUHxLlOzBe2R0T5DgECxOEQY8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjdfMTc0/MDAxNjgyNTY5NzQ1NzMx.r7lhnMUSSjb1GHUY8VLNUzV0IbihjfOEIBlfWNfoaPEg.1OqihInM6J9bVXEbVonD7ir_yVgFmRsVP6gCL6gmZoUg.JPEG/IYFvXkmaYBzMrXjOxJPnIeFFV6ZQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시포레2023 - 정보 총집합! 윤성빈, 서준맘과 운동하고 엘르 스테이지 콘서트까지 (네이버 포스트 ─ 엘르 코리아 ─ NOTICE)]]></title>
@@ -1543,6 +1543,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/365d5ff8-391e-4bea-925c-b08d29c24a47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나의 식탁을 응시하는 법 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/76920</link>
+            <guid>https://www.elle.co.kr/article/76920</guid>
+            <pubDate>Thu, 27 Apr 2023 05:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[채식을 향한 솔직한 욕망부터 지구를 구할 식재료까지. 매일 마주하는 식탁을 또렷이 응시해 온...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/c71adeb8-5dbe-4fd9-9bae-d5957212bad9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세계적인 사진전 1위를 거머쥔 우승자, 돌연 수상 거부를 선언한 이유는? (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/76893</link>
             <guid>https://www.elle.co.kr/article/76893</guid>
@@ -1596,14 +1604,6 @@
             <pubDate>Thu, 20 Apr 2023 08:18:03 GMT</pubDate>
             <content:encoded><![CDATA[친환경이 돈이 되는 시대. 그린워싱의 ‘위험한 척’에 관하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/62a96aa6-c740-429e-97df-d17f90d0ee4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다가오는 지구의 날에는 지구를 위한 신발을! 지속 가능한 패션 아이템 2 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/76691</link>
-            <guid>https://www.elle.co.kr/article/76691</guid>
-            <pubDate>Sat, 15 Apr 2023 19:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[파타고니아가 4조 원이 넘는 회사 지분 100%를 내놓은 이유는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/e86c0485-78da-44ef-b5df-289343d65a9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
