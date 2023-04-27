@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 08:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 09:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이렇게 빨리 진실의 방으로?! 올해도 돌아오는 '범죄도시3' 개봉 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/77113</link>
+            <guid>https://www.elle.co.kr/article/77113</guid>
+            <pubDate>Thu, 27 Apr 2023 09:12:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/197bd24a-a419-41eb-8d58-e5314a2c0a41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[운동과 담 쌓았던 한소희, 액션 작품 하다가 푹 빠졌다는 의외의 스포츠는? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/77110</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/77010</guid>
             <pubDate>Wed, 26 Apr 2023 09:14:26 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/8e64e4be-eb87-4c09-9b31-ec2a3c7fe4ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죽기 전 마지막 한 끼는 바로 이것으로? 빅뱅 태양이 극찬한 전국 맛집 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/76996</link>
-            <guid>https://www.elle.co.kr/article/76996</guid>
-            <pubDate>Tue, 25 Apr 2023 19:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[오랜만에 컴백한 태양!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/174d3df2-1c9b-4688-8275-a1c984a77308.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
