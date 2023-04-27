@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 18:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 19:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["'먹토'해서 '뼈말라' 됐어요": 극단적 다이어트 영상 유행에 유튜브가 내린 결정]]></title>
+            <link>https://www.elle.co.kr/article/77018</link>
+            <guid>https://www.elle.co.kr/article/77018</guid>
+            <pubDate>Thu, 27 Apr 2023 19:10:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4715df17-34cf-4b11-bc48-516b12ee9250.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수분 폭탄 투하! 히알루론산의 모든 것_선배’s 어드바이스 #165]]></title>
             <link>https://www.elle.co.kr/article/76967</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/76811</guid>
             <pubDate>Sun, 23 Apr 2023 19:09:58 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/5179c92c-709d-4ad1-8fc0-604b4dac78a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 김아현의 데일리 메이크업 Tip]]></title>
-            <link>https://www.elle.co.kr/article/76787</link>
-            <guid>https://www.elle.co.kr/article/76787</guid>
-            <pubDate>Thu, 27 Apr 2023 10:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[촉촉한 피부를 위한 스킨케어부터 내추럴하고 퓨어한 분위기의 데일리 메이크업까지! 그동안 꽁꽁...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/1ec825f6-ed19-4a44-99d1-500b3b6f036f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

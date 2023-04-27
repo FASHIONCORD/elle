@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 18:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 19:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김윤아 , 그 독보적인 위대함에 대하여]]></title>
+            <link>https://www.elle.co.kr/article/77036</link>
+            <guid>https://www.elle.co.kr/article/77036</guid>
+            <pubDate>Thu, 27 Apr 2023 19:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[끝없이 노래해 온 시간 동안 김윤아는 고통을 감추려는 시도 따위는 한 적 없다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/493bc07c-c71b-497a-9b33-648837487e97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더보이즈 선우를 움직이게 하는 것들]]></title>
             <link>https://www.elle.co.kr/article/77037</link>
@@ -59,14 +67,6 @@
             <pubDate>Wed, 26 Apr 2023 09:14:26 GMT</pubDate>
             <content:encoded><![CDATA[고소한 불마요 들기름 막국수!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/a230b471-a30d-4680-974e-fada2a55b863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[90분의 라이브 밴드 '엘르 스테이지 콘서트' 김윤아, 10CM, 카더가든]]></title>
-            <link>https://www.elle.co.kr/article/77021</link>
-            <guid>https://www.elle.co.kr/article/77021</guid>
-            <pubDate>Wed, 26 Apr 2023 09:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/979dd7a9-4dc8-4702-a3ad-35bac753f75f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
