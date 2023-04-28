@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 04:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1034,6 +1034,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/7b1fa844-5f59-42cb-a491-1ec14014e3e4.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[요즘 '여돌' 앞머리 트렌드 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/76174</link>
+            <guid>https://www.elle.co.kr/article/76174</guid>
+            <pubDate>Fri, 28 Apr 2023 05:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 하니와 해린, 아이즈원 안유진, 에스파 윈터, (여자) 아이들 민니의 '풀 뱅' 스타일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/27dba3b4-fdf1-4595-b832-a47481ac1ac9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[관리의 끝판왕, 궁극의 프리미엄 안티에이징 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/76943</link>
             <guid>https://www.elle.co.kr/article/76943</guid>
@@ -1086,14 +1094,6 @@
             <guid>https://www.elle.co.kr/article/76862</guid>
             <pubDate>Tue, 25 Apr 2023 09:13:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/b7f9e19a-ab1b-48d2-99f9-0f98db2137bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이건 가져야 해! 도라에몽 리미티드 에디션 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/76814</link>
-            <guid>https://www.elle.co.kr/article/76814</guid>
-            <pubDate>Tue, 25 Apr 2023 02:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[태양 아래 함께 빛날 든든한 나의 친구, 아넷사 도라에몽&amp;도라미 리미티드 에디션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/0256c7e2-877e-4685-9d1e-cd8b014ba979.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[셀럽이 든 그 가방! #데일리백 쇼핑리스트 (엘르 코리아 ─ 스타)]]></title>
