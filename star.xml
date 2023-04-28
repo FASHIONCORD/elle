@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 08:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[체력부자 박서준, '드림'의 축구선수 피지컬 만들기 위해 한 운동은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/77137</link>
+            <guid>https://www.elle.co.kr/article/77137</guid>
+            <pubDate>Fri, 28 Apr 2023 09:12:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/ff07dcd8-3060-4a9c-9c2e-705362755e1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀럽이 든 그 가방! #데일리백 쇼핑리스트]]></title>
             <link>https://www.elle.co.kr/article/77127</link>
@@ -59,14 +66,6 @@
             <pubDate>Wed, 26 Apr 2023 15:13:34 GMT</pubDate>
             <content:encoded><![CDATA[첫 개인전을 선보인 하지원부터 수제 맥주를 만드는 노홍철까지! 남다른 재능으로 새로운 길을 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/5d7ace48-b0cf-4bd9-a356-086e42097837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작은 고요가 된 일상의 조각들]]></title>
-            <link>https://www.elle.co.kr/article/77029</link>
-            <guid>https://www.elle.co.kr/article/77029</guid>
-            <pubDate>Wed, 26 Apr 2023 15:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[작가 이희조는 일상에 녹아 삶의 동반자가 된 사물을 골똘히 바라보기로 했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/ec5a9508-79d6-415e-b416-ddf6c3a143ad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
