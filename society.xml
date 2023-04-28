@@ -4,17 +4,9 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 06:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 07:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나의 식탁을 응시하는 법]]></title>
-            <link>https://www.elle.co.kr/article/76920</link>
-            <guid>https://www.elle.co.kr/article/76920</guid>
-            <pubDate>Thu, 27 Apr 2023 05:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[채식을 향한 솔직한 욕망부터 지구를 구할 식재료까지. 매일 마주하는 식탁을 또렷이 응시해 온...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/c71adeb8-5dbe-4fd9-9bae-d5957212bad9.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[세계적인 사진전 1위를 거머쥔 우승자, 돌연 수상 거부를 선언한 이유는?]]></title>
             <link>https://www.elle.co.kr/article/76893</link>
@@ -69,6 +61,14 @@
             <pubDate>Thu, 20 Apr 2023 08:18:03 GMT</pubDate>
             <content:encoded><![CDATA[친환경이 돈이 되는 시대. 그린워싱의 ‘위험한 척’에 관하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/62a96aa6-c740-429e-97df-d17f90d0ee4b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다가오는 지구의 날에는 지구를 위한 신발을! 지속 가능한 패션 아이템 2]]></title>
+            <link>https://www.elle.co.kr/article/76691</link>
+            <guid>https://www.elle.co.kr/article/76691</guid>
+            <pubDate>Fri, 28 Apr 2023 07:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[파타고니아가 4조 원이 넘는 회사 지분 100%를 내놓은 이유는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/e86c0485-78da-44ef-b5df-289343d65a9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
