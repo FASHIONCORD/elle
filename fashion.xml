@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 18:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 19:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정성일의 찬란한 시간]]></title>
+            <link>https://www.elle.co.kr/article/77153</link>
+            <guid>https://www.elle.co.kr/article/77153</guid>
+            <pubDate>Mon, 01 May 2023 19:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;더 글로리&gt;에서 강렬한 존재감을 드러낸 배우 정성일을 마주하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/5b7b28ad-8ea4-4b0b-ba14-5a9900e75991.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타에게 한 수 배우는 #스타킹 스타일링 5]]></title>
             <link>https://www.elle.co.kr/article/77201</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 28 Apr 2023 17:10:52 GMT</pubDate>
             <content:encoded><![CDATA[봄을 닮은 화사한 컬러부터 심플한 블랙까지, 스타들의 일상에서 발견된 데일리 백을 소개합니다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/ecbd7f44-db5a-4b21-8ba5-b04636346635.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구를 지키는 나의 초록 플랜트]]></title>
-            <link>https://www.elle.co.kr/article/76176</link>
-            <guid>https://www.elle.co.kr/article/76176</guid>
-            <pubDate>Fri, 28 Apr 2023 11:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[지구를 지켜라! 달걀 껍질부터 종이 반죽까지 지속 가능한 소재로 빚은 화병과 화분들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/5482c8bf-4405-4a11-afb3-7907274fe9cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
