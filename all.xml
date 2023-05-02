@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 09:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 10:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTNfMTM4/MDAxNjYzMDMxMjE0MTM3.61Vm6p1XZs7Sje0IhzTjQMUlLPOys5x-el7HfAb4TbYg.OkcqC3eWkndYsSIQzitDO6o6gJJhDWVfCo8Uy7dCksUg.JPEG/In3SmjZoVK09TcODz-UWewLQGshI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[할머니꺼 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/77044</link>
+            <guid>https://www.elle.co.kr/article/77044</guid>
+            <pubDate>Tue, 02 May 2023 10:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[알록달록하지만 가물가물한 기억. 우리 할머니는 뭘 좋아했을까? 그걸 자세히 들여다본 적 있었...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/e5b01831-7a03-4843-8f19-c65feb5876f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤승아가 다녀간 압구정 핫 플레이스 3 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/77208</link>
             <guid>https://www.elle.co.kr/article/77208</guid>
@@ -1024,14 +1032,6 @@
             <pubDate>Sat, 29 Apr 2023 05:11:13 GMT</pubDate>
             <content:encoded><![CDATA[첫번째 구찌 임팩트 어워드 수상의 주인공은 바로 다음소희다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/ab1b2abd-94f9-4601-aaf8-f1c6ccc5aec5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까르띠에의 진심. 까르띠에 여성 창업 이니셔티브로 뭉친 세 사람 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/77136</link>
-            <guid>https://www.elle.co.kr/article/77136</guid>
-            <pubDate>Fri, 28 Apr 2023 19:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[지금의 임팩트 투자, 착한 투자와 가치에 대해 말하다. 인비저닝 파트너스 배수현 이사와 두 여...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/342438f3-98df-4694-91b6-676011ea0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽃과 예술 그리고 향수를 사랑한다면 놓치지 말아야 할 전시, 미스 디올 서울 전시&팝업 (엘르 코리아 ─ 뷰티)]]></title>
