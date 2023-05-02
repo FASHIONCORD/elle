@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 14:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 15:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["연진아, 되게 신나": 송혜교부터 박은빈까지, 백상 여성 수상자들의 소감 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/77197</link>
+            <guid>https://www.elle.co.kr/article/77197</guid>
+            <pubDate>Tue, 02 May 2023 15:14:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/21a74410-4788-4498-a207-e208a827a031.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['슈퍼 마리오' 끝판왕 쿠파, 한국 음식에서 따 온 이름이라고?! (ft. 잭 블랙)]]></title>
             <link>https://www.elle.co.kr/article/77185</link>
@@ -60,13 +67,6 @@
             <pubDate>Mon, 01 May 2023 10:14:19 GMT</pubDate>
             <content:encoded><![CDATA[교보문고, 준지 플래그십 스토어, 무신사 편집 숍 엠프 티. 건축에 담기는 모든 것을 디자인하...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/bd22b10f-7d4e-47c5-9efb-aa489278a1a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄정화 활약에 인생캐 경신까지? '닥터 차정숙' 인기 요인 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/76952</link>
-            <guid>https://www.elle.co.kr/article/76952</guid>
-            <pubDate>Mon, 01 May 2023 10:14:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/e1fcf45c-daac-482c-9a18-d2135b7e70cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
