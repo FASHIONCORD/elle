@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 09:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 10:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['댄스가수 유랑단', 5인 공식 포스터 공개! 지금까지 나온 스포 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/77272</link>
+            <guid>https://www.elle.co.kr/article/77272</guid>
+            <pubDate>Wed, 03 May 2023 10:12:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/1557d896-ab99-4ff2-8301-218c662d38d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20년 만에 한 푼 정영주! 실사판 '인어공주' 우르슐라 더빙 확정 (ft. 에리얼 실루엣)]]></title>
             <link>https://www.elle.co.kr/article/77266</link>
@@ -61,14 +68,6 @@
             <pubDate>Mon, 01 May 2023 19:10:18 GMT</pubDate>
             <content:encoded><![CDATA[전시기획자, 권태현은 세상을 살짝 속여보고 싶다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/5da76363-3bcb-452d-9c8d-dfd06bcc1bc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늘 새롭게 태어나는 엄정화]]></title>
-            <link>https://www.elle.co.kr/article/77042</link>
-            <guid>https://www.elle.co.kr/article/77042</guid>
-            <pubDate>Sun, 30 Apr 2023 19:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[엄정화는 누군가의 롤모델로만 머무를 생각이 전혀 없다. 지금도 새롭게 태어나는 중이니까.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/bdb320c8-e8ea-4db9-80bb-bbc91fa7e6d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
