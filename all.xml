@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 06:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 07:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1035,6 +1035,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/050e06bd-c08a-49ae-8d65-d9a45de191b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[샤넬 향수의 '뉴 코코', 휘트니 픽 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/77045</link>
+            <guid>https://www.elle.co.kr/article/77045</guid>
+            <pubDate>Wed, 03 May 2023 07:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 코코 마드모아젤 향수의 새로운 뮤즈가 된 휘트니 픽! 인생의 새로운 막을 여는 한 편의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/5a3e508e-210d-4685-9d1e-a382c717f5c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[5월 사랑하는 사람에게 주고 싶은 선물, 디마르3 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/77024</link>
             <guid>https://www.elle.co.kr/article/77024</guid>
@@ -1088,11 +1096,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/a1c4c675-60dc-4ff2-afb7-f2b4902dbcf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["'먹토'해서 '뼈말라' 됐어요": 극단적 다이어트 영상 유행에 유튜브가 내린 결정 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/77018</link>
-            <guid>https://www.elle.co.kr/article/77018</guid>
-            <pubDate>Thu, 27 Apr 2023 19:10:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4715df17-34cf-4b11-bc48-516b12ee9250.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[20년 만에 한 푼 정영주! 실사판 '인어공주' 우르슐라 더빙 확정 (ft. 에리얼 실루엣) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/77266</link>
+            <guid>https://www.elle.co.kr/article/77266</guid>
+            <pubDate>Tue, 02 May 2023 07:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[한국 더빙 캐스트 공개 중.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/31b794a4-1876-4d1b-b000-e7b63ed1997f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코첼라 복습 타임! 스타들의 페스티벌 패션 모음.zip (엘르 코리아 ─ 스타)]]></title>
@@ -1148,13 +1157,6 @@
             <pubDate>Sun, 30 Apr 2023 19:10:11 GMT</pubDate>
             <content:encoded><![CDATA[엄정화는 누군가의 롤모델로만 머무를 생각이 전혀 없다. 지금도 새롭게 태어나는 중이니까.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/bdb320c8-e8ea-4db9-80bb-bbc91fa7e6d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["연진아, 되게 신나": 송혜교부터 박은빈까지, 백상 여성 수상자들의 소감 모음.zip (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/77197</link>
-            <guid>https://www.elle.co.kr/article/77197</guid>
-            <pubDate>Fri, 28 Apr 2023 15:13:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/21a74410-4788-4498-a207-e208a827a031.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["연진아, 되게 신나": 송혜교부터 박은빈까지, 백상 여성 수상자들의 소감 모음.zip (엘르 코리아 ─ 컬쳐)]]></title>
