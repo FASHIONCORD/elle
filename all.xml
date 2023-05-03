@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 22:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 23:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTRfNzAg/MDAxNjYzMTE3MzU3NDk3.NNrdwyEJZIdIe0OP87JwyxMvNqPomRW_ig6sI8ZBetYg.X_2jk6pcdtAdS_QciLajSvLNrrv4TECCEsAkDmTsqSkg.JPEG/IbqkMPuTJwm7V2E5ayK9dT8T5mHs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[런웨이에 피어난 장미 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/77048</link>
+            <guid>https://www.elle.co.kr/article/77048</guid>
+            <pubDate>Wed, 03 May 2023 23:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[꽃 향기만 남기고 갔단다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/c54fc902-7534-4d10-bc1c-5eb378a84072.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[색색으로 물든 오메가의 시간 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/77049</link>
             <guid>https://www.elle.co.kr/article/77049</guid>
@@ -1025,14 +1033,6 @@
             <pubDate>Tue, 02 May 2023 11:10:31 GMT</pubDate>
             <content:encoded><![CDATA[스퀘어 네크 원피스로 청순미 뿜뿜! 색다른 분위기를 자아내는 사각의 매력으로 여러분을 초대합...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/973cb36b-5ae9-43bd-b42f-239ad1008fbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[할머니꺼 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/77044</link>
-            <guid>https://www.elle.co.kr/article/77044</guid>
-            <pubDate>Tue, 02 May 2023 10:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[알록달록하지만 가물가물한 기억. 우리 할머니는 뭘 좋아했을까? 그걸 자세히 들여다본 적 있었...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/e5b01831-7a03-4843-8f19-c65feb5876f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤넬 향수의 '뉴 코코', 휘트니 픽 (엘르 코리아 ─ 뷰티)]]></title>
