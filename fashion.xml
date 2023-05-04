@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 10:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 11:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반클리프 아펠의 서정적 시간]]></title>
+            <link>https://www.elle.co.kr/article/77050</link>
+            <guid>https://www.elle.co.kr/article/77050</guid>
+            <pubDate>Thu, 04 May 2023 11:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[반클리프 아펠의 CEO 니콜라 보스가 말하는 메종의 워치메이킹 세계에는 주얼러의 섬세한 시선과...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b39d17d8-42bc-48b2-8d07-66626c95b6fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틈]]></title>
             <link>https://www.elle.co.kr/article/77325</link>
@@ -63,14 +71,6 @@
             <content:encoded><![CDATA[오는 5월 3일, &lt;엘르&gt;와 롯데백화점이 함께 트렌드의 중심, 서울의 현재를 런웨이에 올린다. <e... <="" a="">
                                 </e...>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/86b01690-8e0e-4236-a8cd-7cd858c3be61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코첼라 복습 타임! 스타들의 페스티벌 패션 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/77222</link>
-            <guid>https://www.elle.co.kr/article/77222</guid>
-            <pubDate>Tue, 02 May 2023 15:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[그 어느 때보다 뜨거웠던 2023년 코첼라 페스티벌! 블랙핑크를 비롯한 셀러브리티들의 페스티벌 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/3bb142e4-4c67-4ae9-bfef-88e1a94cdd49.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

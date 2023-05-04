@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 10:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 11:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월급이 100만 원 늘었다, 그런데 소비도 그만큼 늘었다?_돈쓸신잡 #95]]></title>
+            <link>https://www.elle.co.kr/article/77132</link>
+            <guid>https://www.elle.co.kr/article/77132</guid>
+            <pubDate>Thu, 04 May 2023 11:13:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/b4f6f052-544d-4439-8753-fa278f8ed396.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조선시대 임금의 길 다시 본다! 일제강점기 훼손된 광화문 월대 복원중]]></title>
             <link>https://www.elle.co.kr/article/77130</link>
@@ -60,13 +67,6 @@
             <pubDate>Tue, 25 Apr 2023 09:14:41 GMT</pubDate>
             <content:encoded><![CDATA[총 근무인원 11명. 2022년 한해구조한야생동물수 2525마리. 그중 40%는 자연으로 되돌아갔다. 인...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/664536df-b279-4316-846a-e0744a2b850a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["커피 마셨다고요? 배가 불렀군요" 요즘 MZ세대가 푹 빠진 '거지방'을 아시나요?_돈쓸신잡 #94]]></title>
-            <link>https://www.elle.co.kr/article/76822</link>
-            <guid>https://www.elle.co.kr/article/76822</guid>
-            <pubDate>Mon, 24 Apr 2023 02:09:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/c8ee5563-aeee-4ba5-942c-08726b9c561a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
