@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 15:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 16:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 시즌 필수 아이템! 스타들의 각양각색 #미니드레스]]></title>
+            <link>https://www.elle.co.kr/article/77326</link>
+            <guid>https://www.elle.co.kr/article/77326</guid>
+            <pubDate>Thu, 04 May 2023 16:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[하나쯤 갖고 있으면 주말 나들이 룩부터 데이트 룩까지 활용 가능! 경쾌하고 사랑스러운 미니드...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/09ba682e-d7db-4655-99b2-43dd0ca87c12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반클리프 아펠의 서정적 시간]]></title>
             <link>https://www.elle.co.kr/article/77050</link>
@@ -62,15 +70,6 @@
             <pubDate>Wed, 03 May 2023 16:15:32 GMT</pubDate>
             <content:encoded><![CDATA[H&amp;M과의 협업해 난리 난 그 브랜드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/553cd88e-336a-45d5-838d-01767d3ae6ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K패션의 비전]]></title>
-            <link>https://www.elle.co.kr/article/77250</link>
-            <guid>https://www.elle.co.kr/article/77250</guid>
-            <pubDate>Wed, 03 May 2023 05:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[오는 5월 3일, &lt;엘르&gt;와 롯데백화점이 함께 트렌드의 중심, 서울의 현재를 런웨이에 올린다. <e... <="" a="">
-                                </e...>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/86b01690-8e0e-4236-a8cd-7cd858c3be61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
