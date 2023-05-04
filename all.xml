@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 18:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 19:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1481,6 +1481,14 @@
             <content:encoded><![CDATA[집 안 곳곳에 기묘한 아름다움을 불어넣는, 몸을 닯은 오브제.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[봄맞이 드라이빙 스폿과 자동차들 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/77043</link>
+            <guid>https://www.elle.co.kr/article/77043</guid>
+            <pubDate>Thu, 04 May 2023 19:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[만연한 봄을 올바르게 누리는 드라이빙 스폿!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/653edf2d-3e35-4b07-84b8-112b6140fa5e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[RM도 다녀간 템플스테이부터 동심 가득한 전시까지! '가정의 달' 전국 여행지 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/77175</link>
             <guid>https://www.elle.co.kr/article/77175</guid>
@@ -1533,14 +1541,6 @@
             <pubDate>Wed, 26 Apr 2023 15:15:23 GMT</pubDate>
             <content:encoded><![CDATA[명품 하우스에서 옷만 사는 건 옛날 얘기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4c69dc6c-d7fc-41f1-8a2d-32ea6b921a45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 김무열과 윤승아의 랜선 집들이 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/76773</link>
-            <guid>https://www.elle.co.kr/article/76773</guid>
-            <pubDate>Tue, 25 Apr 2023 19:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[세이지 그린 컬러로 물든 ‘젬마 하우스’로의 초대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/69c5f203-d3d2-43c1-946f-6939a20818d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8년 만에 막 내린 '아이 서울 유'의 시대, 새롭게 확정된 서울시 슬로건은? (엘르 코리아 ─ 소사이어티)]]></title>
