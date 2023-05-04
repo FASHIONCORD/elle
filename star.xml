@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 07:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 08:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[니콜라스 홀트의 일탈]]></title>
+            <link>https://www.elle.co.kr/article/77051</link>
+            <guid>https://www.elle.co.kr/article/77051</guid>
+            <pubDate>Thu, 04 May 2023 08:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[악덕 드라큘라 상사로부터 탈출을 꿈꾸는 니콜라스 홀트. &lt;렌필드&gt;는 그의 연기적 '일탈'이기도 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/4596411b-dbbb-4bff-91ec-c213a35ad028.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤박과 결혼 앞둔 김수빈! 고양이상 비주얼X남다른 패션센스로 화제된 일상 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/77318</link>
@@ -57,14 +65,6 @@
             <pubDate>Wed, 03 May 2023 07:12:14 GMT</pubDate>
             <content:encoded><![CDATA[한국 더빙 캐스트 공개 중.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/31b794a4-1876-4d1b-b000-e7b63ed1997f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코첼라 복습 타임! 스타들의 페스티벌 패션 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/77222</link>
-            <guid>https://www.elle.co.kr/article/77222</guid>
-            <pubDate>Wed, 03 May 2023 04:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[그 어느 때보다 뜨거웠던 2023년 코첼라 페스티벌! 블랙핑크를 비롯한 셀러브리티들의 페스티벌 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/3bb142e4-4c67-4ae9-bfef-88e1a94cdd49.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 07:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 08:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틈]]></title>
+            <link>https://www.elle.co.kr/article/77325</link>
+            <guid>https://www.elle.co.kr/article/77325</guid>
+            <pubDate>Thu, 04 May 2023 08:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[그 사이로 엿보고 싶은 루이 비통의 워치 앤 주얼리]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/2ca11899-297c-4c87-a5a3-fce81a9af054.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코드 쿤스트를 만든 것]]></title>
             <link>https://www.elle.co.kr/article/77264</link>
@@ -63,14 +71,6 @@
             <pubDate>Tue, 02 May 2023 15:13:47 GMT</pubDate>
             <content:encoded><![CDATA[그 어느 때보다 뜨거웠던 2023년 코첼라 페스티벌! 블랙핑크를 비롯한 셀러브리티들의 페스티벌 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/3bb142e4-4c67-4ae9-bfef-88e1a94cdd49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제네바에서 만난 찬란한 피스들.]]></title>
-            <link>https://www.elle.co.kr/article/77046</link>
-            <guid>https://www.elle.co.kr/article/77046</guid>
-            <pubDate>Tue, 02 May 2023 15:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[영롱한 신상! 워치&amp;주얼리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/0432fdf4-3d9e-4eff-9d2b-90dc55b60b0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
