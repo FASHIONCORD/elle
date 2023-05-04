@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 06:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 07:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤박과 결혼 앞둔 김수빈! 고양이상 비주얼X남다른 패션센스로 화제된 일상 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/77318</link>
+            <guid>https://www.elle.co.kr/article/77318</guid>
+            <pubDate>Thu, 04 May 2023 07:12:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/8353fcea-9a2d-4677-8aa6-bb2cac070eb9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10kg 증량 후 탄탄한 체형 완성한 맹승지! 그가 일상에서 숨 쉬듯 하는 최애 운동 3 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/77306</link>
@@ -58,14 +65,6 @@
             <pubDate>Wed, 03 May 2023 04:16:05 GMT</pubDate>
             <content:encoded><![CDATA[그 어느 때보다 뜨거웠던 2023년 코첼라 페스티벌! 블랙핑크를 비롯한 셀러브리티들의 페스티벌 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/3bb142e4-4c67-4ae9-bfef-88e1a94cdd49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백설공주처럼, 스퀘어 네크 원피스 5]]></title>
-            <link>https://www.elle.co.kr/article/77218</link>
-            <guid>https://www.elle.co.kr/article/77218</guid>
-            <pubDate>Wed, 03 May 2023 03:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[스퀘어 네크 원피스로 청순미 뿜뿜! 색다른 분위기를 자아내는 사각의 매력으로 여러분을 초대합...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/973cb36b-5ae9-43bd-b42f-239ad1008fbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
