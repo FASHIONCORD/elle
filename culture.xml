@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 05:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 06:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화가이자 열렬한 수집가인 정진화가 모아온 오래된 멋]]></title>
+            <link>https://www.elle.co.kr/article/76275</link>
+            <guid>https://www.elle.co.kr/article/76275</guid>
+            <pubDate>Thu, 04 May 2023 06:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[화가 정진화와 사진가 조기현이 함께 문을 연 갤러리 '앤솔로지아'의 개관전 &lt;향인&gt;에서 목격한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/e90519eb-e197-4bf5-a745-3878d54ca500.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["연진아, 되게 신나": 송혜교부터 박은빈까지, 백상 여성 수상자들의 소감 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/77197</link>
@@ -59,14 +67,6 @@
             <pubDate>Mon, 01 May 2023 10:14:19 GMT</pubDate>
             <content:encoded><![CDATA[2023년 놓치면 후회 할 전시 &lt;피카소 셀러브레이션&gt; 미적인 영감이 가득한 파리 피카소 미술관...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/7ca58423-d6d4-4770-9c27-e03c8eca715c.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[WGNB과 백종환의 직관]]></title>
-            <link>https://www.elle.co.kr/article/76272</link>
-            <guid>https://www.elle.co.kr/article/76272</guid>
-            <pubDate>Mon, 01 May 2023 10:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[교보문고, 준지 플래그십 스토어, 무신사 편집 숍 엠프 티. 건축에 담기는 모든 것을 디자인하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/bd22b10f-7d4e-47c5-9efb-aa489278a1a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
