@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 02:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 03:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1546,6 +1546,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/bd22b10f-7d4e-47c5-9efb-aa489278a1a6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조선시대 임금의 길 다시 본다! 일제강점기 훼손된 광화문 월대 복원중 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/77130</link>
+            <guid>https://www.elle.co.kr/article/77130</guid>
+            <pubDate>Thu, 04 May 2023 03:14:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/6f53dedd-1139-4976-9615-ee872e5e9fae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["'먹토'해서 '뼈말라' 됐어요": 극단적 다이어트 영상 유행에 유튜브가 내린 결정 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/77018</link>
             <guid>https://www.elle.co.kr/article/77018</guid>
@@ -1598,14 +1605,6 @@
             <guid>https://www.elle.co.kr/article/76822</guid>
             <pubDate>Mon, 24 Apr 2023 02:09:55 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/c8ee5563-aeee-4ba5-942c-08726b9c561a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우울할 땐 뇌과학 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/76784</link>
-            <guid>https://www.elle.co.kr/article/76784</guid>
-            <pubDate>Sat, 22 Apr 2023 15:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[오늘도 겉으로는 웃지만 속으로는 분을 삭이려 애쓰고 있는가. 에디터가 푹 빠진 마음 근육 단...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/78e423dc-7ed5-421c-aaf9-5edc518cb6d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
