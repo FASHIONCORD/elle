@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 18:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 19:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 편의 유년시절, 영화 토리와 로키타 & 클로즈]]></title>
+            <link>https://www.elle.co.kr/article/77052</link>
+            <guid>https://www.elle.co.kr/article/77052</guid>
+            <pubDate>Fri, 05 May 2023 19:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[누군가의 유년시절을 따라가는 여정에서 얻을 수 있는 반짝이는 감정. 올여름 개봉하는 두 편의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/d34ffb71-8798-462e-a066-275587316e88.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가정의 달=선물의 달! 부담 없이 전하는 스몰 기프트 5]]></title>
             <link>https://www.elle.co.kr/article/77351</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 May 2023 11:11:41 GMT</pubDate>
             <content:encoded><![CDATA[반클리프 아펠의 CEO 니콜라 보스가 말하는 메종의 워치메이킹 세계에는 주얼러의 섬세한 시선과...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b39d17d8-42bc-48b2-8d07-66626c95b6fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코드 쿤스트를 만든 것]]></title>
-            <link>https://www.elle.co.kr/article/77264</link>
-            <guid>https://www.elle.co.kr/article/77264</guid>
-            <pubDate>Thu, 04 May 2023 07:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[예측 불허의 인생은 인간 조성우를 완성시켰고, 코드 쿤스트의 음악으로 탄생한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/fa4ca85a-20dc-40a2-aade-305537585678.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
