@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 04:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 05:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑을 담아, 카이(feat. 입생로랑 뷰티) #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/77359</link>
+            <guid>https://www.elle.co.kr/article/77359</guid>
+            <pubDate>Sat, 06 May 2023 05:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[섹시한 눈빛과 대담한 움직임, 그 어느 때보다 자유로운 카이.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/7e03c794-f3c6-4596-a8d0-dabb6ddea97d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 편의 유년시절, 영화 토리와 로키타 & 클로즈]]></title>
             <link>https://www.elle.co.kr/article/77052</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 May 2023 08:15:19 GMT</pubDate>
             <content:encoded><![CDATA[그 사이로 엿보고 싶은 루이 비통의 워치 앤 주얼리]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/2ca11899-297c-4c87-a5a3-fce81a9af054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반클리프 아펠의 서정적 시간]]></title>
-            <link>https://www.elle.co.kr/article/77050</link>
-            <guid>https://www.elle.co.kr/article/77050</guid>
-            <pubDate>Thu, 04 May 2023 11:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[반클리프 아펠의 CEO 니콜라 보스가 말하는 메종의 워치메이킹 세계에는 주얼러의 섬세한 시선과...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b39d17d8-42bc-48b2-8d07-66626c95b6fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
