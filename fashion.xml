@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 14:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 15:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[48브라이트닝 신상]]></title>
+            <link>https://www.elle.co.kr/article/77054</link>
+            <guid>https://www.elle.co.kr/article/77054</guid>
+            <pubDate>Sun, 07 May 2023 15:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[피부 톤과 전반적인 컨디션을 개선하는 진보된 브라이트닝을 지향하는 신제품 5.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/9bc27689-86f5-46b1-a9e1-9486fddd69f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멧 갈라를 점령한 '샤넬 걸' 제니의 레전드 씬]]></title>
             <link>https://www.elle.co.kr/article/77360</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 May 2023 00:54:32 GMT</pubDate>
             <content:encoded><![CDATA[일렁이는 봄기운 속에서 형형한 빛을 발하는 티파니 하이 주얼리의 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/e5ad90ef-7ce8-494a-aa37-fbbf6a054793.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 시즌 필수 아이템! 스타들의 각양각색 #미니드레스]]></title>
-            <link>https://www.elle.co.kr/article/77326</link>
-            <guid>https://www.elle.co.kr/article/77326</guid>
-            <pubDate>Thu, 04 May 2023 16:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[하나쯤 갖고 있으면 주말 나들이 룩부터 데이트 룩까지 활용 가능! 경쾌하고 사랑스러운 미니드...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/09ba682e-d7db-4655-99b2-43dd0ca87c12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
