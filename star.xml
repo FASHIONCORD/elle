@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 07:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 08:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머리부터 발끝까지! 정점을 찍은 리본 패션]]></title>
+            <link>https://www.elle.co.kr/article/77371</link>
+            <guid>https://www.elle.co.kr/article/77371</guid>
+            <pubDate>Mon, 08 May 2023 08:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[리본이 없는 곳은 없다. 유행의 정점을 찍은 리본 패션을 모아봤어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/26c54bda-b937-4ee9-a81b-18e1861cadd2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멧 갈라를 점령한 '샤넬 걸' 제니의 레전드 씬]]></title>
             <link>https://www.elle.co.kr/article/77360</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/77337</guid>
             <pubDate>Fri, 05 May 2023 00:54:48 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/f1869e97-2ff1-4374-a690-322133d97315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폼 미쳤다! 화보 장인 엑소 카이, <엘르> D Edition 커버 장식]]></title>
-            <link>https://www.elle.co.kr/article/77315</link>
-            <guid>https://www.elle.co.kr/article/77315</guid>
-            <pubDate>Thu, 04 May 2023 10:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[입생로랑 뷰티 앰버서더 카이의 새로운 모습.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/3e25103b-63c3-498b-a34e-9d64f52bf8c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
