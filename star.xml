@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 02:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 03:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑을 담아, 카이(feat. 입생로랑 뷰티) #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/77359</link>
+            <guid>https://www.elle.co.kr/article/77359</guid>
+            <pubDate>Mon, 08 May 2023 03:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[섹시한 눈빛과 대담한 움직임, 그 어느 때보다 자유로운 카이.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/7e03c794-f3c6-4596-a8d0-dabb6ddea97d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박보영부터 아이유-이종석 커플까지! 어린이날 맞아 선한 영향력 전한 스타들.txt]]></title>
             <link>https://www.elle.co.kr/article/77350</link>
@@ -59,14 +67,6 @@
             <pubDate>Thu, 04 May 2023 10:13:48 GMT</pubDate>
             <content:encoded><![CDATA[하나쯤 갖고 있으면 주말 나들이 룩부터 데이트 룩까지 활용 가능! 경쾌하고 사랑스러운 미니드...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/09ba682e-d7db-4655-99b2-43dd0ca87c12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[니콜라스 홀트의 일탈]]></title>
-            <link>https://www.elle.co.kr/article/77051</link>
-            <guid>https://www.elle.co.kr/article/77051</guid>
-            <pubDate>Thu, 04 May 2023 08:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[악덕 드라큘라 상사로부터 탈출을 꿈꾸는 니콜라스 홀트. &lt;렌필드&gt;는 그의 연기적 '일탈'이기도 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/4596411b-dbbb-4bff-91ec-c213a35ad028.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
