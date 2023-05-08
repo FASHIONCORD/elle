@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 00:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 02:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박보영부터 아이유-이종석 커플까지! 어린이날 맞아 선한 영향력 전한 스타들.txt]]></title>
+            <link>https://www.elle.co.kr/article/77350</link>
+            <guid>https://www.elle.co.kr/article/77350</guid>
+            <pubDate>Mon, 08 May 2023 02:05:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/5d39d20a-4b2d-4d75-95fe-0554f73188e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무대 장인으로 불리는 엑소 카이! 완벽한 퍼포먼스X피지컬 위해 이렇게까지 했다고? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/77349</link>
@@ -60,13 +67,6 @@
             <pubDate>Thu, 04 May 2023 08:16:07 GMT</pubDate>
             <content:encoded><![CDATA[악덕 드라큘라 상사로부터 탈출을 꿈꾸는 니콜라스 홀트. &lt;렌필드&gt;는 그의 연기적 '일탈'이기도 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/4596411b-dbbb-4bff-91ec-c213a35ad028.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤박과 결혼 앞둔 김수빈! 고양이상 비주얼X남다른 패션센스로 화제된 일상 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/77318</link>
-            <guid>https://www.elle.co.kr/article/77318</guid>
-            <pubDate>Thu, 04 May 2023 07:12:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/8353fcea-9a2d-4677-8aa6-bb2cac070eb9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
