@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 10:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 11:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서드 하우스를 가진 삶 #아웃오브서울]]></title>
+            <link>https://www.elle.co.kr/article/77377</link>
+            <guid>https://www.elle.co.kr/article/77377</guid>
+            <pubDate>Tue, 09 May 2023 11:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 하나의 집에서 살아야만 하는 걸까? 근본적인 질문을 던지는 박우린의 세 집 살림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/ae0df1e9-3b82-4239-b07a-bfd0a49e023a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프랑스 패션 아이콘 아네스 베의 마법 같은 저택]]></title>
             <link>https://www.elle.co.kr/article/76278</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 04 May 2023 07:12:49 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/be99a0c5-c676-4b96-b586-59e93765d61f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화가이자 열렬한 수집가인 정진화가 모아온 오래된 멋]]></title>
-            <link>https://www.elle.co.kr/article/76275</link>
-            <guid>https://www.elle.co.kr/article/76275</guid>
-            <pubDate>Thu, 04 May 2023 06:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[화가 정진화와 사진가 조기현이 함께 문을 연 갤러리 '앤솔로지아'의 개관전 &lt;향인&gt;에서 목격한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/e90519eb-e197-4bf5-a745-3878d54ca500.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
