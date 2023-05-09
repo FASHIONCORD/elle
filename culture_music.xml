@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 06:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 07:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
+            <link>https://www.elle.co.kr/article/77430</link>
+            <guid>https://www.elle.co.kr/article/77430</guid>
+            <pubDate>Tue, 09 May 2023 07:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f14828d2-f3bb-4f18-a1b0-318707c34454.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[90분의 라이브 밴드 '엘르 스테이지 콘서트' 김윤아, 10CM, 카더가든]]></title>
             <link>https://www.elle.co.kr/article/77021</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/76654</guid>
             <pubDate>Thu, 13 Apr 2023 07:13:17 GMT</pubDate>
             <content:encoded><![CDATA[시티 포레스티벌 2023의 티켓 판매는 오늘부터.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/7e7edee0-b469-4c04-98b2-bfe262c1b038.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트']]></title>
@@ -85,12 +92,6 @@
             <title><![CDATA[피아니스트 조성진이 신보에 하프시코드의 시대를 담은 까닭 (ft. 서른 즈음에)]]></title>
             <link>https://www.elle.co.kr/article/74830</link>
             <guid>https://www.elle.co.kr/article/74830</guid>
-            <pubDate>Sun, 19 Feb 2023 17:16:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[최초, 최초, 최초! 블랙핑크의 코첼라 헤드라이너 출연이 생각보다 더 대단한 까닭]]></title>
-            <link>https://www.elle.co.kr/article/74365</link>
-            <guid>https://www.elle.co.kr/article/74365</guid>
             <pubDate>Sun, 19 Feb 2023 17:16:10 GMT</pubDate>
         </item>
     </channel>
