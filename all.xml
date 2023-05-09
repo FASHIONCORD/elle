@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 18:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 19:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTNfMTM4/MDAxNjYzMDMxMjE0MTM3.61Vm6p1XZs7Sje0IhzTjQMUlLPOys5x-el7HfAb4TbYg.OkcqC3eWkndYsSIQzitDO6o6gJJhDWVfCo8Uy7dCksUg.JPEG/In3SmjZoVK09TcODz-UWewLQGshI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전 세계 시계 덕후들이 모이는 이 곳 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/77420</link>
+            <guid>https://www.elle.co.kr/article/77420</guid>
+            <pubDate>Tue, 09 May 2023 19:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[워치스 앤 원더스 2023에서 생긴 일]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/dfcceddf-5f89-413c-9e18-2a927cc7055c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[케이트 미들턴의 대관식 스타일 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/77405</link>
             <guid>https://www.elle.co.kr/article/77405</guid>
@@ -1024,14 +1032,6 @@
             <pubDate>Sun, 07 May 2023 16:14:48 GMT</pubDate>
             <content:encoded><![CDATA[리본이 없는 곳은 없다. 유행의 정점을 찍은 리본 패션을 모아봤어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/26c54bda-b937-4ee9-a81b-18e1861cadd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알록달록해 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/77053</link>
-            <guid>https://www.elle.co.kr/article/77053</guid>
-            <pubDate>Sun, 07 May 2023 16:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[선명한 색으로 채운 컬러 재킷.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/7a2c660f-05a4-4bef-92a0-ae5de3185f60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산으로 들로! 아웃도어의 계절, 자외선 철벽 방어 TIP 3_선배’s 어드바이스 #167 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1097,6 +1097,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/25b7394a-70a3-4034-86f0-b09135d968e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[외제차 선물부터 깜짝 편지까지! 어버이날 맞아 훈훈한 근황 전한 스타들.jpg (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/77419</link>
+            <guid>https://www.elle.co.kr/article/77419</guid>
+            <pubDate>Tue, 09 May 2023 19:10:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/12435c54-abd4-42f1-a2c1-e60e95227efa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[케이트 미들턴의 대관식 스타일 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/77405</link>
             <guid>https://www.elle.co.kr/article/77405</guid>
@@ -1147,14 +1154,6 @@
             <pubDate>Sun, 07 May 2023 16:14:48 GMT</pubDate>
             <content:encoded><![CDATA[리본이 없는 곳은 없다. 유행의 정점을 찍은 리본 패션을 모아봤어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/26c54bda-b937-4ee9-a81b-18e1861cadd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멧 갈라를 점령한 '샤넬 걸' 제니의 레전드 씬 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/77360</link>
-            <guid>https://www.elle.co.kr/article/77360</guid>
-            <pubDate>Sat, 06 May 2023 15:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[겉으론 담담해 보여도, 속으론 누구보다 긴장했다는 제니의 멧 갈라 토크!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/9c638ddb-f528-4580-a577-26e684c23fe8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서드 하우스를 가진 삶 #아웃오브서울 (엘르 코리아 ─ 컬쳐)]]></title>

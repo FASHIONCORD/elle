@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 18:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 19:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계 시계 덕후들이 모이는 이 곳]]></title>
+            <link>https://www.elle.co.kr/article/77420</link>
+            <guid>https://www.elle.co.kr/article/77420</guid>
+            <pubDate>Tue, 09 May 2023 19:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[워치스 앤 원더스 2023에서 생긴 일]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/dfcceddf-5f89-413c-9e18-2a927cc7055c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이트 미들턴의 대관식 스타일]]></title>
             <link>https://www.elle.co.kr/article/77405</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 07 May 2023 16:14:48 GMT</pubDate>
             <content:encoded><![CDATA[리본이 없는 곳은 없다. 유행의 정점을 찍은 리본 패션을 모아봤어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/26c54bda-b937-4ee9-a81b-18e1861cadd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알록달록해]]></title>
-            <link>https://www.elle.co.kr/article/77053</link>
-            <guid>https://www.elle.co.kr/article/77053</guid>
-            <pubDate>Sun, 07 May 2023 16:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[선명한 색으로 채운 컬러 재킷.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/7a2c660f-05a4-4bef-92a0-ae5de3185f60.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
