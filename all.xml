@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 11:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 13:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1034,6 +1034,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/9c638ddb-f528-4580-a577-26e684c23fe8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[산으로 들로! 아웃도어의 계절, 자외선 철벽 방어 TIP 3_선배’s 어드바이스 #167 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/77396</link>
+            <guid>https://www.elle.co.kr/article/77396</guid>
+            <pubDate>Tue, 09 May 2023 13:00:38 GMT</pubDate>
+            <content:encoded><![CDATA[모자부터 자외선 차단제까지, 자외선을 제대로 피하는 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/294dec5b-6dad-4aba-93f3-3f504ca0775c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[모델 김희원이 N통째 사용하는 스킨케어 제품 5 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/77387</link>
             <guid>https://www.elle.co.kr/article/77387</guid>
@@ -1087,14 +1095,6 @@
             <pubDate>Fri, 05 May 2023 00:54:41 GMT</pubDate>
             <content:encoded><![CDATA[에르메스 조향사 크리스틴 나이젤이 많은 예술가에게 영감을 준 그리스 시테르 섬의 추억을 담아...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/25b7394a-70a3-4034-86f0-b09135d968e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올 뷰티의 새로운 뷰티 에센셜, 디올 르 밤 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/77179</link>
-            <guid>https://www.elle.co.kr/article/77179</guid>
-            <pubDate>Thu, 04 May 2023 10:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[가방 속에 굴러 다니는 평범한 핸드크림은 잊자. 크리스챤 디올의 꾸뛰르 감성으로 완성한 NE...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/654807a2-d82f-4bf6-a05c-16b4cb8994f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이트 미들턴의 대관식 스타일 (엘르 코리아 ─ 스타)]]></title>
@@ -1395,7 +1395,7 @@
             <title><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/77444</link>
             <guid>https://www.elle.co.kr/article/77444</guid>
-            <pubDate>Tue, 09 May 2023 11:11:59 GMT</pubDate>
+            <pubDate>Tue, 09 May 2023 11:11:39 GMT</pubDate>
             <content:encoded><![CDATA[이건 꼭 소장해야 해.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0ef47921-7269-4e0f-b5c6-473cc6aede8d.jpg" length="0" type="image/jpg"/>
         </item>
