@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 04:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 05:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTNfMTM4/MDAxNjYzMDMxMjE0MTM3.61Vm6p1XZs7Sje0IhzTjQMUlLPOys5x-el7HfAb4TbYg.OkcqC3eWkndYsSIQzitDO6o6gJJhDWVfCo8Uy7dCksUg.JPEG/In3SmjZoVK09TcODz-UWewLQGshI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[예술의 경지에 오른 시계 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/77056</link>
+            <guid>https://www.elle.co.kr/article/77056</guid>
+            <pubDate>Wed, 10 May 2023 05:12:00 GMT</pubDate>
+            <content:encoded><![CDATA['땅부르' 워치와 함께 비상할 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f1e6fa46-8494-43fd-9f73-4b2e95b0e907.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전 세계 시계 덕후들이 모이는 이 곳 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/77420</link>
             <guid>https://www.elle.co.kr/article/77420</guid>
@@ -1024,14 +1032,6 @@
             <pubDate>Mon, 08 May 2023 09:12:44 GMT</pubDate>
             <content:encoded><![CDATA[연기와 예능에서 종횡무진하는 배우 주현영을 주목해야 할 때.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/b4dfa5db-c1d3-4c08-82f5-c25434b95ff3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리부터 발끝까지! 정점을 찍은 리본 패션 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/77371</link>
-            <guid>https://www.elle.co.kr/article/77371</guid>
-            <pubDate>Sun, 07 May 2023 16:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[리본이 없는 곳은 없다. 유행의 정점을 찍은 리본 패션을 모아봤어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/26c54bda-b937-4ee9-a81b-18e1861cadd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산으로 들로! 아웃도어의 계절, 자외선 철벽 방어 TIP 3_선배’s 어드바이스 #167 (엘르 코리아 ─ 뷰티)]]></title>
