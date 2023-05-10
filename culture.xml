@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 15:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 16:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
+            <link>https://www.elle.co.kr/article/77430</link>
+            <guid>https://www.elle.co.kr/article/77430</guid>
+            <pubDate>Wed, 10 May 2023 16:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f14828d2-f3bb-4f18-a1b0-318707c34454.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공간 스튜디오 라보토리의 '프리즘' 미학]]></title>
             <link>https://www.elle.co.kr/article/76279</link>
@@ -60,13 +68,6 @@
             <pubDate>Mon, 08 May 2023 08:16:18 GMT</pubDate>
             <content:encoded><![CDATA[스테이 아키텍츠의 고정석과 홍정희는 사람들이 머무는 곳에 대한 가치와 깊이를 끊임없이 탐구한...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/91f3d800-8681-4afd-b9e8-a3089e682cf9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['댄스가수 유랑단', 5인 공식 포스터 공개! 지금까지 나온 스포 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/77272</link>
-            <guid>https://www.elle.co.kr/article/77272</guid>
-            <pubDate>Sat, 06 May 2023 15:11:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/1557d896-ab99-4ff2-8301-218c662d38d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
