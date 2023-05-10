@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 07:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 08:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
+            <link>https://www.elle.co.kr/article/77430</link>
+            <guid>https://www.elle.co.kr/article/77430</guid>
+            <pubDate>Wed, 10 May 2023 08:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f14828d2-f3bb-4f18-a1b0-318707c34454.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[운동 없이도 체지방 감소가 가능하다고?! #저탄고지 #키토제닉]]></title>
             <link>https://www.elle.co.kr/article/77422</link>
@@ -57,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/77392</guid>
             <pubDate>Mon, 08 May 2023 14:11:58 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/5fff79b5-b43f-4d67-b6d1-5a7bb0103b83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 김희원이 N통째 사용하는 스킨케어 제품 5]]></title>
-            <link>https://www.elle.co.kr/article/77387</link>
-            <guid>https://www.elle.co.kr/article/77387</guid>
-            <pubDate>Mon, 08 May 2023 09:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[수분 패드부터 안티에이징 크림까지. ‘겉촉속촉’한 피부를 위해 모델 김희원이 매일 사용하는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/6afdc922-006b-4584-b333-4103021a5bc0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
