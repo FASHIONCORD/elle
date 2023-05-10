@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 06:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 07:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운동 없이도 체지방 감소가 가능하다고?! #저탄고지 #키토제닉]]></title>
+            <link>https://www.elle.co.kr/article/77422</link>
+            <guid>https://www.elle.co.kr/article/77422</guid>
+            <pubDate>Wed, 10 May 2023 07:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[프로 다이어터 소유가 '운동 헤이터’들에게 추천하는 저탄고지 다이어트의 모든 것! 여름 비키니...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f1e39adc-cabd-4170-88ac-f2a73a2e7dbf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외제차 선물부터 깜짝 편지까지! 어버이날 맞아 훈훈한 근황 전한 스타들.jpg]]></title>
             <link>https://www.elle.co.kr/article/77419</link>
@@ -57,14 +65,6 @@
             <pubDate>Mon, 08 May 2023 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[수분 패드부터 안티에이징 크림까지. ‘겉촉속촉’한 피부를 위해 모델 김희원이 매일 사용하는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/6afdc922-006b-4584-b333-4103021a5bc0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리부터 발끝까지! 정점을 찍은 리본 패션]]></title>
-            <link>https://www.elle.co.kr/article/77371</link>
-            <guid>https://www.elle.co.kr/article/77371</guid>
-            <pubDate>Mon, 08 May 2023 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[리본이 없는 곳은 없다. 유행의 정점을 찍은 리본 패션을 모아봤어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/26c54bda-b937-4ee9-a81b-18e1861cadd2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

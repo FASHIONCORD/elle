@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 06:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 07:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라미란X이도현의 남다른 '모자' 케미로 주목! JTBC '나쁜 엄마' 관계성 탐구 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/77404</link>
+            <guid>https://www.elle.co.kr/article/77404</guid>
+            <pubDate>Wed, 10 May 2023 07:12:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/38bf9fde-aa1a-4d87-9790-b2f10d7bd9f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서드 하우스를 가진 삶 #아웃오브서울]]></title>
             <link>https://www.elle.co.kr/article/77377</link>
@@ -60,14 +67,6 @@
             <pubDate>Thu, 04 May 2023 16:26:45 GMT</pubDate>
             <content:encoded><![CDATA[한국 더빙 캐스트 공개 중.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/31b794a4-1876-4d1b-b000-e7b63ed1997f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양승진이 불어서 만든 비주얼 쇼크 #더메이커스]]></title>
-            <link>https://www.elle.co.kr/article/76276</link>
-            <guid>https://www.elle.co.kr/article/76276</guid>
-            <pubDate>Thu, 04 May 2023 07:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/be99a0c5-c676-4b96-b586-59e93765d61f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
