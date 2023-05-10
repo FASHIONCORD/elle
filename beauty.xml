@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 08:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 09:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운동 없이도 체지방 감소가 가능하다고?! #저탄고지 #키토제닉]]></title>
+            <link>https://www.elle.co.kr/article/77422</link>
+            <guid>https://www.elle.co.kr/article/77422</guid>
+            <pubDate>Wed, 10 May 2023 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[프로 다이어터 소유가 '운동 헤이터’들에게 추천하는 저탄고지 다이어트의 모든 것! 여름 비키니...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f1e39adc-cabd-4170-88ac-f2a73a2e7dbf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산으로 들로! 아웃도어의 계절, 자외선 철벽 방어 TIP 3_선배’s 어드바이스 #167]]></title>
             <link>https://www.elle.co.kr/article/77396</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 07 May 2023 19:10:13 GMT</pubDate>
             <content:encoded><![CDATA[하루가 다르게 커져만 가는 내 모공, 원인에 따라 줄이는 방법 또한 다르다는 사실!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/88eb8623-843b-4702-a955-ddf5dfdbac09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에르메스 정원으로의 초대장, 운 자르뎅 아 시테르]]></title>
-            <link>https://www.elle.co.kr/article/77047</link>
-            <guid>https://www.elle.co.kr/article/77047</guid>
-            <pubDate>Fri, 05 May 2023 00:54:41 GMT</pubDate>
-            <content:encoded><![CDATA[에르메스 조향사 크리스틴 나이젤이 많은 예술가에게 영감을 준 그리스 시테르 섬의 추억을 담아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/25b7394a-70a3-4034-86f0-b09135d968e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

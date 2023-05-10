@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 08:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 09:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["늘 영화 같던 누님": 故강수연 1주기에 봉준호가 공유한 기억]]></title>
+            <link>https://www.elle.co.kr/article/77432</link>
+            <guid>https://www.elle.co.kr/article/77432</guid>
+            <pubDate>Wed, 10 May 2023 09:18:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/07b562c0-20d1-4b66-babd-87f5c2f4e867.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
             <link>https://www.elle.co.kr/article/77430</link>
@@ -58,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/77395</guid>
             <pubDate>Mon, 08 May 2023 19:10:43 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/e9aaebba-77d6-4b1b-89fc-196c6e3b1c31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린 시절 트와이스 나연 짝사랑 고백한 갓세븐 뱀뱀, '후폭풍' 제대로 맞은 사연은?]]></title>
-            <link>https://www.elle.co.kr/article/77392</link>
-            <guid>https://www.elle.co.kr/article/77392</guid>
-            <pubDate>Mon, 08 May 2023 14:11:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/5fff79b5-b43f-4d67-b6d1-5a7bb0103b83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
