@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 05:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 06:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬의 슈 파라다이스]]></title>
+            <link>https://www.elle.co.kr/article/77344</link>
+            <guid>https://www.elle.co.kr/article/77344</guid>
+            <pubDate>Wed, 10 May 2023 06:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[꿈꿔왔던 모든 샤넬 슈즈를 한 자리에서 만날 수 있게 됐으니, 나만의 '유리 구두'를 찾아 떠...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/f5ca3dde-396c-4333-b744-4af8e5dec70f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어른이들의 놀이터부터 추억의 애니메이션까지! 키덜트 취향 저격한 이색 카페 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/77271</link>
@@ -60,14 +68,6 @@
             <pubDate>Tue, 02 May 2023 07:13:12 GMT</pubDate>
             <content:encoded><![CDATA[첫 개인전을 선보인 하지원부터 수제 맥주를 만드는 노홍철까지! 남다른 재능으로 새로운 길을 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/5d7ace48-b0cf-4bd9-a356-086e42097837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요리에 진심인 BTS 정국! 불그리에 이어 2번째로 공개한 이색 레시피.txt]]></title>
-            <link>https://www.elle.co.kr/article/77025</link>
-            <guid>https://www.elle.co.kr/article/77025</guid>
-            <pubDate>Sat, 29 Apr 2023 19:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[고소한 불마요 들기름 막국수!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/a230b471-a30d-4680-974e-fada2a55b863.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
