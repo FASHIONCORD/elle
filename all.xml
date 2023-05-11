@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 05:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 06:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1158,6 +1158,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/38bf9fde-aa1a-4d87-9790-b2f10d7bd9f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["늘 영화 같던 누님": 故강수연 1주기에 봉준호가 공유한 기억 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/77432</link>
+            <guid>https://www.elle.co.kr/article/77432</guid>
+            <pubDate>Tue, 09 May 2023 07:12:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/07b562c0-20d1-4b66-babd-87f5c2f4e867.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[선글라스 너머로, 나일 로저스의 눈빛 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/77430</link>
             <guid>https://www.elle.co.kr/article/77430</guid>
@@ -1210,14 +1217,6 @@
             <guid>https://www.elle.co.kr/article/77337</guid>
             <pubDate>Thu, 04 May 2023 06:17:40 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/f1869e97-2ff1-4374-a690-322133d97315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스테이 아키텍츠가 디자인하는 고요한 휴식과 위안 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/76277</link>
-            <guid>https://www.elle.co.kr/article/76277</guid>
-            <pubDate>Tue, 02 May 2023 15:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[스테이 아키텍츠의 고정석과 홍정희는 사람들이 머무는 곳에 대한 가치와 깊이를 끊임없이 탐구한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/91f3d800-8681-4afd-b9e8-a3089e682cf9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1393,6 +1392,14 @@
             <content:encoded><![CDATA[&lt;일타 스캔들&gt;과 &lt;길복순&gt;으로 감히 전도연의 ‘정점’을 논하지 말라.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[곡선에서 곡선으로, 둥글게 그린 아름다움 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/76281</link>
+            <guid>https://www.elle.co.kr/article/76281</guid>
+            <pubDate>Thu, 11 May 2023 06:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[몽베베 대표 최지수에 집에는 세월이 담긴 가구와 예술 작품이 가득하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/b4b0b5d8-da66-4110-b1d9-e2a1da77a4e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서정화가 소재와 구조로 이뤄낸 극명한 밸런스 #더메이커스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/76280</link>
             <guid>https://www.elle.co.kr/article/76280</guid>
@@ -1422,7 +1429,6 @@
             <guid>https://www.elle.co.kr/article/77377</guid>
             <pubDate>Sat, 06 May 2023 15:12:11 GMT</pubDate>
             <content:encoded><![CDATA[우리는 하나의 집에서 살아야만 하는 걸까? 근본적인 질문을 던지는 박우린의 세 집 살림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/ae0df1e9-3b82-4239-b07a-bfd0a49e023a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프랑스 패션 아이콘 아네스 베의 마법 같은 저택 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1479,12 +1485,6 @@
             <guid>https://www.elle.co.kr/article/76271</guid>
             <pubDate>Sat, 22 Apr 2023 15:13:16 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디자인 씬을 뒤흔든 주역! EDIDA 2023 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/76900</link>
-            <guid>https://www.elle.co.kr/article/76900</guid>
-            <pubDate>Fri, 21 Apr 2023 10:14:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[공간 스튜디오 라보토리의 '프리즘' 미학 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
