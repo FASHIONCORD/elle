@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 09:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 10:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김세정도 방문한 곳! 롱샴 신세계 센텀 부티크]]></title>
+            <link>https://www.elle.co.kr/article/77434</link>
+            <guid>https://www.elle.co.kr/article/77434</guid>
+            <pubDate>Thu, 11 May 2023 10:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[롱샴이 신세계백화점 센텀시티점에 RISE 콘셉트 매장을 오픈했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/9d944781-36b2-49b1-83eb-f951a7a068e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신예은이 만든 필연적 순간]]></title>
             <link>https://www.elle.co.kr/article/77438</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 May 2023 19:09:53 GMT</pubDate>
             <content:encoded><![CDATA[워치스 앤 원더스 2023에서 생긴 일]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/dfcceddf-5f89-413c-9e18-2a927cc7055c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이트 미들턴의 대관식 스타일]]></title>
-            <link>https://www.elle.co.kr/article/77405</link>
-            <guid>https://www.elle.co.kr/article/77405</guid>
-            <pubDate>Tue, 09 May 2023 15:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[왕세자비의 패션으로 읽는 취향 뿐 아니라 가족 관계, 세계 정치.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/8b298dc9-6285-4137-976d-3158ea705e47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
