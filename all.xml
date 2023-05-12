@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 08:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 09:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1098,6 +1098,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/6f52d3c0-473a-4875-b724-d4f1eefdbf4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[긍정 그 자체인 김우빈의 비인두암 투병기 (ft. 프로 질문러 김현중) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/77479</link>
+            <guid>https://www.elle.co.kr/article/77479</guid>
+            <pubDate>Thu, 11 May 2023 08:16:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/8c86f61b-c5e2-4531-84ee-db263d3cbc5d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시스루 패션을 완벽 소화한 스타 8 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/77466</link>
             <guid>https://www.elle.co.kr/article/77466</guid>
@@ -1148,13 +1155,6 @@
             <pubDate>Wed, 10 May 2023 14:12:43 GMT</pubDate>
             <content:encoded><![CDATA[앞서 단발도 완벽 소화했던 김건우!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/1c84a58e-6341-479f-8de3-233d32549198.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["늘 영화 같던 누님": 故강수연 1주기에 봉준호가 공유한 기억 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/77432</link>
-            <guid>https://www.elle.co.kr/article/77432</guid>
-            <pubDate>Tue, 09 May 2023 07:12:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/07b562c0-20d1-4b66-babd-87f5c2f4e867.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1548,6 +1548,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/653edf2d-3e35-4b07-84b8-112b6140fa5e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1920년대부터 2020년대까지. 한 세기에 걸친 가족의 얼굴이 우리에 대해 말해주는 것들 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/77335</link>
+            <guid>https://www.elle.co.kr/article/77335</guid>
+            <pubDate>Fri, 12 May 2023 09:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[누군가는 그렸고, 누군가는 찍었다. 그리고 그 기록 안에는 가족이라는 보편의 역사가 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/611e4ce9-6a60-4a67-afe9-4c197703af6f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스] 우리는 무엇이든 될 수 있다! (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/ellevoice/essay/77375</link>
             <guid>https://www.elle.co.kr/ellevoice/essay/77375</guid>
@@ -1600,13 +1608,6 @@
             <guid>https://www.elle.co.kr/article/77186</guid>
             <pubDate>Thu, 04 May 2023 15:15:01 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/9238b024-1e3c-442a-a2a7-52c32c42b6f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월급이 100만 원 늘었다, 그런데 소비도 그만큼 늘었다?_돈쓸신잡 #95 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/77132</link>
-            <guid>https://www.elle.co.kr/article/77132</guid>
-            <pubDate>Thu, 04 May 2023 11:13:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/b4f6f052-544d-4439-8753-fa278f8ed396.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
