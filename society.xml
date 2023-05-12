@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 07:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 08:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 우리는 무엇이든 될 수 있다!]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/77375</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/77375</guid>
+            <pubDate>Fri, 12 May 2023 08:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[에디터에서 작가로, 팟캐스터로, 끝없이 확장 중인 황선우 작가가 말하는 직업의 미래]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/082400aa-8253-42a9-be8f-b22b1508d79c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 당신의 인생에 꼭 피해야 할 것. 바로 나르시시스트다!]]></title>
             <link>https://www.elle.co.kr/ellevoice/essay/77354</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/77132</guid>
             <pubDate>Thu, 04 May 2023 11:13:08 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/b4f6f052-544d-4439-8753-fa278f8ed396.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선시대 임금의 길 다시 본다! 일제강점기 훼손된 광화문 월대 복원중]]></title>
-            <link>https://www.elle.co.kr/article/77130</link>
-            <guid>https://www.elle.co.kr/article/77130</guid>
-            <pubDate>Thu, 04 May 2023 03:14:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/6f53dedd-1139-4976-9615-ee872e5e9fae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
