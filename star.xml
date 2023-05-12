@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 18:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 19:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국인 최초로 '분노의 질주' OST 참여? '넘사벽 인기' 입증한 BTS 지민 근황 2]]></title>
+            <link>https://www.elle.co.kr/article/77486</link>
+            <guid>https://www.elle.co.kr/article/77486</guid>
+            <pubDate>Fri, 12 May 2023 19:10:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/b9fd14d9-5764-4f1f-b115-749cd09b8348.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[긍정 그 자체인 김우빈의 비인두암 투병기 (ft. 프로 질문러 김현중)]]></title>
             <link>https://www.elle.co.kr/article/77479</link>
@@ -57,14 +64,6 @@
             <pubDate>Wed, 10 May 2023 22:14:26 GMT</pubDate>
             <content:encoded><![CDATA[잘 산 운동화 하나, 열 신발 부럽지 않다! 스타의 사복 패션에서 포착한 데일리 운동화를 눈여...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/d538cf34-b588-4de1-943a-c0890ee42f3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 손명오는 어디에? 헤어컷 후 이미지 확 바뀐 김건우 근황.jpg]]></title>
-            <link>https://www.elle.co.kr/article/77443</link>
-            <guid>https://www.elle.co.kr/article/77443</guid>
-            <pubDate>Wed, 10 May 2023 14:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[앞서 단발도 완벽 소화했던 김건우!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/1c84a58e-6341-479f-8de3-233d32549198.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
