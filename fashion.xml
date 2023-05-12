@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 14:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 15:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시스루 패션을 완벽 소화한 스타 8]]></title>
+            <link>https://www.elle.co.kr/article/77466</link>
+            <guid>https://www.elle.co.kr/article/77466</guid>
+            <pubDate>Fri, 12 May 2023 15:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[자신을 드러내는데 거침없는 셀러브리티들은 시스루 드레스를 입는다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/f4fbdc1f-9532-4a0c-aa25-5c357320c9f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어노브로 완성한 신세경의 우아한 분위기]]></title>
             <link>https://www.elle.co.kr/article/77060</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 May 2023 16:18:13 GMT</pubDate>
             <content:encoded><![CDATA[하우스의 영원한 뮤즈, 가브리엘 샤넬에게서 얻은 보석 같은 영감과 빛나는 아이디어를 결합했다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/4e1a79b4-85d0-431d-8799-57037ed07662.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터의 인생 첫 빈티지 시계 입문기]]></title>
-            <link>https://www.elle.co.kr/article/77057</link>
-            <guid>https://www.elle.co.kr/article/77057</guid>
-            <pubDate>Wed, 10 May 2023 16:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[누군가와 함께 시간을 견딘 시계의 가치에 대하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/35d18c81-16c6-43de-b939-504004f90eb1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
