@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 00:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 02:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1098,6 +1098,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/6f52d3c0-473a-4875-b724-d4f1eefdbf4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이제 '연반인' 아니고 '방송인'! SBS에 사직서 낸 재재, 첫 행보는? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/77511</link>
+            <guid>https://www.elle.co.kr/article/77511</guid>
+            <pubDate>Sat, 13 May 2023 02:01:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/2eddadc9-af52-4d4d-8e6d-86e544639cec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[데일리 룩 치트키! 화이트 탱크톱 스타일링 모음.zip (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/77494</link>
             <guid>https://www.elle.co.kr/article/77494</guid>
@@ -1147,13 +1154,6 @@
             <guid>https://www.elle.co.kr/article/77458</guid>
             <pubDate>Thu, 11 May 2023 10:13:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/9c6e32f0-2810-4579-85e6-ed619f484e44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/77457</link>
-            <guid>https://www.elle.co.kr/article/77457</guid>
-            <pubDate>Wed, 10 May 2023 08:15:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/462c20c4-a29d-464c-879a-52331192f17f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무려 네 명 하차?! 지금까지 나온 '놀면 뭐하니?' 위기설과 대책들.txt (엘르 코리아 ─ 컬쳐)]]></title>
