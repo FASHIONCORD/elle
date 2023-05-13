@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 23:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 00:58:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데일리 룩 치트키! 화이트 탱크톱 스타일링 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/77494</link>
+            <guid>https://www.elle.co.kr/article/77494</guid>
+            <pubDate>Sat, 13 May 2023 00:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[지금부터 여름까지 쭉 활용할 수 있는 화이트 탱크톱, 왜 없어?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/a00328c1-08a0-4d7d-bf94-e3bcb4aea787.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['환승연애2' 성해은, 과거와 비교해 10kg 감량했다는데? 체력까지 잡은 꿀팁 공개! #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/77487</link>
@@ -56,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/77457</guid>
             <pubDate>Thu, 11 May 2023 10:13:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/462c20c4-a29d-464c-879a-52331192f17f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무려 네 명 하차?! 지금까지 나온 '놀면 뭐하니?' 위기설과 대책들.txt]]></title>
-            <link>https://www.elle.co.kr/article/77454</link>
-            <guid>https://www.elle.co.kr/article/77454</guid>
-            <pubDate>Thu, 11 May 2023 08:15:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/fee8a168-ba72-4b62-90cf-cd2b3ca0f4d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
