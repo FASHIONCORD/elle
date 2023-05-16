@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 05:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 06:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1155,6 +1155,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/2eddadc9-af52-4d4d-8e6d-86e544639cec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[긍정 그 자체인 김우빈의 비인두암 투병기 (ft. 프로 질문러 김현중) (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/77479</link>
+            <guid>https://www.elle.co.kr/article/77479</guid>
+            <pubDate>Thu, 11 May 2023 08:16:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/8c86f61b-c5e2-4531-84ee-db263d3cbc5d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[곡선에서 곡선으로, 둥글게 그린 아름다움 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/76281</link>
             <guid>https://www.elle.co.kr/article/76281</guid>
@@ -1206,14 +1213,6 @@
             <pubDate>Tue, 09 May 2023 07:12:27 GMT</pubDate>
             <content:encoded><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f14828d2-f3bb-4f18-a1b0-318707c34454.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공간 스튜디오 라보토리의 '프리즘' 미학 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/76279</link>
-            <guid>https://www.elle.co.kr/article/76279</guid>
-            <pubDate>Mon, 08 May 2023 15:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드의 오프라인 스토어, 인크커피, 스테이지 바이 고디바, 중식당 Fei. 라보토리는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/2ad949ad-0f76-410e-953f-3873d2703ec2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1390,6 +1389,14 @@
             <content:encoded><![CDATA[제59회 백상예술대상 남우조연상 후보에 오른 박성훈.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[봄을 부르는 책상과 의자 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/76282</link>
+            <guid>https://www.elle.co.kr/article/76282</guid>
+            <pubDate>Tue, 16 May 2023 06:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[봄의 서재를 밝히는 색색의 데스크 &amp; 체어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/d490b620-d237-4d35-9f3d-adcb55aa580e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[알바 알토와 브루노 맛손의 미학, 탈로 제주 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/76262</link>
             <guid>https://www.elle.co.kr/article/76262</guid>
@@ -1419,7 +1426,6 @@
             <guid>https://www.elle.co.kr/article/77444</guid>
             <pubDate>Tue, 09 May 2023 11:11:39 GMT</pubDate>
             <content:encoded><![CDATA[이건 꼭 소장해야 해.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0ef47921-7269-4e0f-b5c6-473cc6aede8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공간 스튜디오 라보토리의 '프리즘' 미학 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1478,11 +1484,12 @@
             <content:encoded><![CDATA[2023년 놓치면 후회 할 전시 &lt;피카소 셀러브레이션&gt; 미적인 영감이 가득한 파리 피카소 미술관...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[WGNB과 백종환의 직관 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/76272</link>
-            <guid>https://www.elle.co.kr/article/76272</guid>
-            <pubDate>Mon, 24 Apr 2023 15:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[교보문고, 준지 플래그십 스토어, 무신사 편집 숍 엠프 티. 건축에 담기는 모든 것을 디자인하...]]></content:encoded>
+            <title><![CDATA[뉴 뷰티 스팟 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/77059</link>
+            <guid>https://www.elle.co.kr/article/77059</guid>
+            <pubDate>Tue, 16 May 2023 06:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[보고 느끼고 사진 찍을 요소가 가득한 뷰티 공간 3.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/cca98d17-823e-41f7-9c04-9c44844d1fa8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나와 사랑에 빠질수밖에. 몰디브에서 찾은 궁극의 웰니스 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1537,14 +1544,6 @@
             <pubDate>Wed, 10 May 2023 06:20:11 GMT</pubDate>
             <content:encoded><![CDATA[꿈꿔왔던 모든 샤넬 슈즈를 한 자리에서 만날 수 있게 됐으니, 나만의 '유리 구두'를 찾아 떠...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/f5ca3dde-396c-4333-b744-4af8e5dec70f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어른이들의 놀이터부터 추억의 애니메이션까지! 키덜트 취향 저격한 이색 카페 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/77271</link>
-            <guid>https://www.elle.co.kr/article/77271</guid>
-            <pubDate>Wed, 10 May 2023 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[어린이날 맞아 가기 좋은 핫플 모음.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/6474a610-6ffb-491a-976d-9c9e709c232a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 우리 강아지 이름은 왜 김정원이 됐을까? 우리가족을 소개합니다 (엘르 코리아 ─ 소사이어티)]]></title>

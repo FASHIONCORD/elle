@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 05:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 06:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄을 부르는 책상과 의자]]></title>
+            <link>https://www.elle.co.kr/article/76282</link>
+            <guid>https://www.elle.co.kr/article/76282</guid>
+            <pubDate>Tue, 16 May 2023 06:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[봄의 서재를 밝히는 색색의 데스크 &amp; 체어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/d490b620-d237-4d35-9f3d-adcb55aa580e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알바 알토와 브루노 맛손의 미학, 탈로 제주]]></title>
             <link>https://www.elle.co.kr/article/76262</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/77444</guid>
             <pubDate>Tue, 09 May 2023 11:11:59 GMT</pubDate>
             <content:encoded><![CDATA[이건 꼭 소장해야 해.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0ef47921-7269-4e0f-b5c6-473cc6aede8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공간 스튜디오 라보토리의 '프리즘' 미학]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/77000</guid>
             <pubDate>Tue, 25 Apr 2023 07:12:56 GMT</pubDate>
             <content:encoded><![CDATA[2023년 놓치면 후회 할 전시 &lt;피카소 셀러브레이션&gt; 미적인 영감이 가득한 파리 피카소 미술관...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WGNB과 백종환의 직관]]></title>
-            <link>https://www.elle.co.kr/article/76272</link>
-            <guid>https://www.elle.co.kr/article/76272</guid>
-            <pubDate>Mon, 24 Apr 2023 15:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[교보문고, 준지 플래그십 스토어, 무신사 편집 숍 엠프 티. 건축에 담기는 모든 것을 디자인하...]]></content:encoded>
         </item>
     </channel>
 </rss>
