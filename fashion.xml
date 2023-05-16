@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 18:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 19:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[럭비 대전]]></title>
+            <link>https://www.elle.co.kr/article/77531</link>
+            <guid>https://www.elle.co.kr/article/77531</guid>
+            <pubDate>Tue, 16 May 2023 19:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[럭비 셔츠의 화려한 질주.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/c2494eb5-28d4-4d30-9ba7-5950309d9301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페스티벌부터 휴가지까지! 어디에서나 유용한 #선글라스]]></title>
             <link>https://www.elle.co.kr/article/77528</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 May 2023 15:11:05 GMT</pubDate>
             <content:encoded><![CDATA[볼드한 컬러와 장인 정신이 더해져 워치 패러다임의 혁신을 가져온 오메가의 ' 아쿠아 테라 쉐...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/dc909891-a61c-4ab3-99ce-b7b6b4eb6ca4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워치 칼럼니스트가 본 시계의 지금]]></title>
-            <link>https://www.elle.co.kr/article/77255</link>
-            <guid>https://www.elle.co.kr/article/77255</guid>
-            <pubDate>Sat, 13 May 2023 15:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[기나긴 팬데믹이 끝나고 보다 더 많은 이의 손목을 사로잡기 위한 워치 하우스들의 발 빠른 움...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/905e7bbc-5a3c-4c53-a5c3-739a95651991.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
