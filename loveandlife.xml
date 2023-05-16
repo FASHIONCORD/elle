@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 01:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 02:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나와 사랑에 빠질수밖에. 몰디브에서 찾은 궁극의 웰니스]]></title>
+            <link>https://www.elle.co.kr/article/77058</link>
+            <guid>https://www.elle.co.kr/article/77058</guid>
+            <pubDate>Tue, 16 May 2023 02:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[몰디브 최초의 웰니스 리조트. 조알리 비잉에서 보낸 끝내주게 아름다운 날들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/44bfaba6-8c24-4213-b158-fd7f96af0042.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맛있는 소파부터 프랑스 정원까지! 인증샷을 부르는 용산-성수-압구정 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/77452</link>
@@ -60,13 +68,6 @@
             <pubDate>Wed, 10 May 2023 03:17:06 GMT</pubDate>
             <content:encoded><![CDATA[어린이날 맞아 가기 좋은 핫플 모음.zip]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/6474a610-6ffb-491a-976d-9c9e709c232a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에서 여권 없이 떠나는 미식 여행! 홍콩-미국-태국을 그대로 재현한 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/77270</link>
-            <guid>https://www.elle.co.kr/article/77270</guid>
-            <pubDate>Tue, 09 May 2023 08:15:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/8c13b226-8ff0-454e-82f5-0fd1772bafc1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
