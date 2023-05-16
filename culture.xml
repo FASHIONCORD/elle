@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 09:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 10:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알바 알토와 브루노 맛손의 미학, 탈로 제주]]></title>
+            <link>https://www.elle.co.kr/article/76262</link>
+            <guid>https://www.elle.co.kr/article/76262</guid>
+            <pubDate>Tue, 16 May 2023 10:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[제주의 땅과 돌, 바람과 숲이 빚은 건축 그리고 디자인을 찾아서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/76a9fb25-af0e-4c50-b87c-ac70a3ee92e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베일에 싸여있던 ‘한국의 에리얼’, 주인공은 바로 뉴진스 다니엘!]]></title>
             <link>https://www.elle.co.kr/article/77523</link>
@@ -59,13 +67,6 @@
             <pubDate>Thu, 11 May 2023 08:15:56 GMT</pubDate>
             <content:encoded><![CDATA[이건 꼭 소장해야 해.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0ef47921-7269-4e0f-b5c6-473cc6aede8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["늘 영화 같던 누님": 故강수연 1주기에 봉준호가 공유한 기억]]></title>
-            <link>https://www.elle.co.kr/article/77432</link>
-            <guid>https://www.elle.co.kr/article/77432</guid>
-            <pubDate>Thu, 11 May 2023 06:18:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/07b562c0-20d1-4b66-babd-87f5c2f4e867.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 09:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 10:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월에 가기 좋은 한옥 카페 두 곳!]]></title>
+            <link>https://www.elle.co.kr/article/77061</link>
+            <guid>https://www.elle.co.kr/article/77061</guid>
+            <pubDate>Tue, 16 May 2023 10:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[전통과 현대의 감각적인 만남, 다채로운 신상 한옥 카페로 떠나자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/54bf7e6b-c42b-46df-9f0c-1ca9e5a39d7f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스승의 날 유래부터 세종대왕 탄신 기념까지 한번에! 5월 추천 명소 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/77509</link>
@@ -60,14 +68,6 @@
             <pubDate>Wed, 10 May 2023 16:19:23 GMT</pubDate>
             <content:encoded><![CDATA[무신사 스탠다드의 오프라인 스토어, 인크커피, 스테이지 바이 고디바, 중식당 Fei. 라보토리는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/2ad949ad-0f76-410e-953f-3873d2703ec2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['환승연애2' 최종 커플! 나연과 희두의 후쿠오카 맛집 탐방기 3]]></title>
-            <link>https://www.elle.co.kr/article/77357</link>
-            <guid>https://www.elle.co.kr/article/77357</guid>
-            <pubDate>Wed, 10 May 2023 07:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[연휴에 부담 없이 다녀오기 좋은 후쿠오카로 커플 여행을 떠난 나연과 희두가 방문한 현지 맛집...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/9b829dbe-3720-43ae-afc0-9127d7b9e7e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
