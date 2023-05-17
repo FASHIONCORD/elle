@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 01:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 02:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTRfNzAg/MDAxNjYzMTE3MzU3NDk3.NNrdwyEJZIdIe0OP87JwyxMvNqPomRW_ig6sI8ZBetYg.X_2jk6pcdtAdS_QciLajSvLNrrv4TECCEsAkDmTsqSkg.JPEG/IbqkMPuTJwm7V2E5ayK9dT8T5mHs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[훌라 '후프' (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/77256</link>
+            <guid>https://www.elle.co.kr/article/77256</guid>
+            <pubDate>Wed, 17 May 2023 02:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[대담했던 80년대를 떠올리며.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/74979b19-1d18-4eec-a1f6-35e14d6388e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[럭비 대전 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/77531</link>
             <guid>https://www.elle.co.kr/article/77531</guid>
@@ -1026,22 +1034,6 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/a00328c1-08a0-4d7d-bf94-e3bcb4aea787.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[런던 서머싯 하우스에서 열린 오메가의 밤 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/77492</link>
-            <guid>https://www.elle.co.kr/article/77492</guid>
-            <pubDate>Sat, 13 May 2023 15:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[볼드한 컬러와 장인 정신이 더해져 워치 패러다임의 혁신을 가져온 오메가의 ' 아쿠아 테라 쉐...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/dc909891-a61c-4ab3-99ce-b7b6b4eb6ca4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전효성의 촉촉한 핑크 메이크업 튜토리얼 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/77532</link>
-            <guid>https://www.elle.co.kr/article/77532</guid>
-            <pubDate>Tue, 16 May 2023 04:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[생기 가득한 핑크빛 메이크업의 기술을 전효성이 알려줍니다. 화사하게 빛나는 메이크업을 따라 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/c0d486d4-83f2-4e67-a1b7-d08bc0624b12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['환승연애2' 성해은, 과거와 비교해 10kg 감량했다는데? 체력까지 잡은 꿀팁 공개! #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/77487</link>
             <guid>https://www.elle.co.kr/article/77487</guid>
@@ -1093,6 +1085,14 @@
             <pubDate>Wed, 10 May 2023 16:18:22 GMT</pubDate>
             <content:encoded><![CDATA[성인이 되어도 여전히 트러블로 고민이라면 퍼센트사이언스의 덱시놀-16.3 크림으로 트러블 없이 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/3277464a-8437-4eda-8ea2-5cffefd4f3f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤어 케어 브랜드 어노브의 비현실적 부드러움에 스며든 신세경의 그림 같은 순간 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/77411</link>
+            <guid>https://www.elle.co.kr/article/77411</guid>
+            <pubDate>Wed, 17 May 2023 02:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르&gt; 5월호 화보 촬영 신세경, 우아한 분위기의 비밀은 바로?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/4d70ebae-b816-42ae-8d0e-25e195db0eba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블루 드 샤넬의 뉴 앰배서더! 티모시 샬라메 (엘르 코리아 ─ 스타)]]></title>
