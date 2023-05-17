@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 09:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 10:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BACK TO Y2K! 그때 그 시절, 형형색색 아이라인과 속눈썹이 돌아왔다_선배’s 어드바이스 #168]]></title>
+            <link>https://www.elle.co.kr/article/77536</link>
+            <guid>https://www.elle.co.kr/article/77536</guid>
+            <pubDate>Wed, 17 May 2023 10:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[올해 메이크업 핫 트렌드는 단연 컬러풀 아이라이너와 마스카라!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/821ea66c-d6a8-4899-8bbb-cb22cde16b05.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전효성의 촉촉한 핑크 메이크업 튜토리얼]]></title>
             <link>https://www.elle.co.kr/article/77532</link>
@@ -59,14 +67,6 @@
             <pubDate>Thu, 11 May 2023 10:13:13 GMT</pubDate>
             <content:encoded><![CDATA[앞서 단발도 완벽 소화했던 김건우!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/1c84a58e-6341-479f-8de3-233d32549198.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1000인 프로젝트로 보는 성인 트러블의 근본적인 솔루션 제안]]></title>
-            <link>https://www.elle.co.kr/article/77408</link>
-            <guid>https://www.elle.co.kr/article/77408</guid>
-            <pubDate>Wed, 10 May 2023 16:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[성인이 되어도 여전히 트러블로 고민이라면 퍼센트사이언스의 덱시놀-16.3 크림으로 트러블 없이 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/3277464a-8437-4eda-8ea2-5cffefd4f3f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 09:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 10:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1034,6 +1034,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/3820a653-5b67-4479-81e4-0e3cd0d5e4cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BACK TO Y2K! 그때 그 시절, 형형색색 아이라인과 속눈썹이 돌아왔다_선배’s 어드바이스 #168 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/77536</link>
+            <guid>https://www.elle.co.kr/article/77536</guid>
+            <pubDate>Wed, 17 May 2023 10:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[올해 메이크업 핫 트렌드는 단연 컬러풀 아이라이너와 마스카라!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/821ea66c-d6a8-4899-8bbb-cb22cde16b05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전효성의 촉촉한 핑크 메이크업 튜토리얼 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/77532</link>
             <guid>https://www.elle.co.kr/article/77532</guid>
@@ -1087,12 +1095,19 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/1c84a58e-6341-479f-8de3-233d32549198.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1000인 프로젝트로 보는 성인 트러블의 근본적인 솔루션 제안 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/77408</link>
-            <guid>https://www.elle.co.kr/article/77408</guid>
-            <pubDate>Wed, 10 May 2023 16:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[성인이 되어도 여전히 트러블로 고민이라면 퍼센트사이언스의 덱시놀-16.3 크림으로 트러블 없이 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/3277464a-8437-4eda-8ea2-5cffefd4f3f1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['라이스보이 슬립스' 앤소니 감독과 최승윤 배우의 조우 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/77065</link>
+            <guid>https://www.elle.co.kr/article/77065</guid>
+            <pubDate>Wed, 17 May 2023 10:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[캐나다 이민자인 모자의 삶을 그린 '라이스보이 슬립스'. 집에 대한 고찰을 담아낸 앤소니 심 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/ec7f5718-c2ba-4651-937f-3b6aae42b98b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우산에 돈이? 양치승, 스승의 날 맞아 받은 이색 선물 클라스 (ft. 최강희 다이어트 성공) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/77592</link>
+            <guid>https://www.elle.co.kr/article/77592</guid>
+            <pubDate>Wed, 17 May 2023 10:13:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/e8b9b0a9-8d52-4cd2-afd8-2aabd23c8296.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은? (엘르 코리아 ─ 스타)]]></title>
@@ -1138,22 +1153,6 @@
             <guid>https://www.elle.co.kr/article/77549</guid>
             <pubDate>Mon, 15 May 2023 09:14:18 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/ba4f607c-78d8-41a6-9f43-61e7e8becfbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전효성의 촉촉한 핑크 메이크업 튜토리얼 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/77532</link>
-            <guid>https://www.elle.co.kr/article/77532</guid>
-            <pubDate>Tue, 16 May 2023 04:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[생기 가득한 핑크빛 메이크업의 기술을 전효성이 알려줍니다. 화사하게 빛나는 메이크업을 따라 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/c0d486d4-83f2-4e67-a1b7-d08bc0624b12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페스티벌부터 휴가지까지! 어디에서나 유용한 #선글라스 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/77528</link>
-            <guid>https://www.elle.co.kr/article/77528</guid>
-            <pubDate>Tue, 16 May 2023 00:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[태양을 피하는 아이템을 넘어 스타일의 맛을 살려 줄 선글라스! 스타들의 SNS 속에서 힌트를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/9c394d53-2411-44ad-bf63-c995ae93f949.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['성난 사람들'을 보며 현대인의 스트레스와 결혼 생활을 떠올리다_요주의여성 #85 (엘르 코리아 ─ 컬쳐)]]></title>
