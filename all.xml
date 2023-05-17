@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 08:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 09:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1156,6 +1156,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/9c394d53-2411-44ad-bf63-c995ae93f949.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['성난 사람들'을 보며 현대인의 스트레스와 결혼 생활을 떠올리다_요주의여성 #85 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/77538</link>
+            <guid>https://www.elle.co.kr/article/77538</guid>
+            <pubDate>Mon, 15 May 2023 03:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[화가 나서 폭발해 버릴 것만 같은 당신에게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/42d3367d-d02e-4dc9-b0fa-d582535c9bb8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[알바 알토와 브루노 맛손의 미학, 탈로 제주 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/76262</link>
             <guid>https://www.elle.co.kr/article/76262</guid>
@@ -1207,14 +1215,6 @@
             <guid>https://www.elle.co.kr/article/77454</guid>
             <pubDate>Wed, 10 May 2023 07:12:42 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/fee8a168-ba72-4b62-90cf-cd2b3ca0f4d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/77444</link>
-            <guid>https://www.elle.co.kr/article/77444</guid>
-            <pubDate>Tue, 09 May 2023 11:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[이건 꼭 소장해야 해.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0ef47921-7269-4e0f-b5c6-473cc6aede8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1305,6 +1305,13 @@
             <pubDate>Sun, 19 Feb 2023 17:16:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[티빙과 웨이브, 이번엔 진짜로 살림 합칠까? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/77618</link>
+            <guid>https://www.elle.co.kr/article/77618</guid>
+            <pubDate>Wed, 17 May 2023 09:17:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/d7cfd3cf-2011-4c11-8218-9684acc0fa52.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/77583</link>
             <guid>https://www.elle.co.kr/article/77583</guid>
@@ -1332,7 +1339,6 @@
             <guid>https://www.elle.co.kr/article/77523</guid>
             <pubDate>Sat, 13 May 2023 00:57:48 GMT</pubDate>
             <content:encoded><![CDATA[이토록 맑고 투명한 울림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/b8fa8258-bc77-41a3-b615-9e889d4f88d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[긍정 그 자체인 김우빈의 비인두암 투병기 (ft. 프로 질문러 김현중) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1382,12 +1388,6 @@
             <link>https://www.elle.co.kr/article/77197</link>
             <guid>https://www.elle.co.kr/article/77197</guid>
             <pubDate>Fri, 28 Apr 2023 15:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['슈퍼 마리오' 끝판왕 쿠파, 한국 음식에서 따 온 이름이라고?! (ft. 잭 블랙) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/77185</link>
-            <guid>https://www.elle.co.kr/article/77185</guid>
-            <pubDate>Fri, 28 Apr 2023 09:13:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[취향으로 연결된 느슨한 연대, 팀포지티브제로 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
