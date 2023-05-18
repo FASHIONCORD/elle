@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 01:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 02:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날씨처럼 경쾌한 발걸음! 올여름을 책임질 협업 샌들 3]]></title>
+            <link>https://www.elle.co.kr/article/77593</link>
+            <guid>https://www.elle.co.kr/article/77593</guid>
+            <pubDate>Thu, 18 May 2023 02:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[겨우내 고생한 내 발에 자유를 선물할 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/4dbf9a46-de6a-43f7-8512-cf840cc2174d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초여름이 성큼! 스타들의 산뜻한 블라우스 패션 5]]></title>
             <link>https://www.elle.co.kr/article/77561</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 May 2023 17:11:28 GMT</pubDate>
             <content:encoded><![CDATA[손 안에 들어 온 아트피스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/e525b489-b447-42cd-894f-87f924deba94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박희정의 새로운 첫걸음]]></title>
-            <link>https://www.elle.co.kr/article/77508</link>
-            <guid>https://www.elle.co.kr/article/77508</guid>
-            <pubDate>Sun, 14 May 2023 15:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 12년 차 모델인 그녀는 배우로서 또 다른 시작을 알린다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/3cd4ee45-6c6f-40ff-bfc8-b62aad57fec3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
