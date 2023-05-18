@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 09:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 10:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은?]]></title>
+            <link>https://www.elle.co.kr/article/77583</link>
+            <guid>https://www.elle.co.kr/article/77583</guid>
+            <pubDate>Thu, 18 May 2023 10:12:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/0aad8351-ac31-40f2-9fec-df5239b42ece.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄을 부르는 책상과 의자]]></title>
             <link>https://www.elle.co.kr/article/76282</link>
@@ -60,14 +67,6 @@
             <pubDate>Mon, 15 May 2023 09:13:57 GMT</pubDate>
             <content:encoded><![CDATA[몽베베 대표 최지수에 집에는 세월이 담긴 가구와 예술 작품이 가득하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/b4b0b5d8-da66-4110-b1d9-e2a1da77a4e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서정화가 소재와 구조로 이뤄낸 극명한 밸런스 #더메이커스]]></title>
-            <link>https://www.elle.co.kr/article/76280</link>
-            <guid>https://www.elle.co.kr/article/76280</guid>
-            <pubDate>Mon, 15 May 2023 03:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/4e9252dc-2261-408a-9997-73da0ccc7ab5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
