@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 07:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 08:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1095,6 +1095,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/21cf17ff-a777-4c4d-aaa1-b793cdbb9959.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[함께 꿈꾸는 민주킴 패밀리 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/77066</link>
+            <guid>https://www.elle.co.kr/article/77066</guid>
+            <pubDate>Thu, 18 May 2023 08:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너 김민주와 비주얼 디렉터 허세련이 그리는 '민주킴'이라는 내일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/f0a95b08-7afe-4e8c-bf34-d1909f967ad0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오겜과 더 글로리의 만남! 이정재X임지연 투샷은 이곳에서? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/77622</link>
             <guid>https://www.elle.co.kr/article/77622</guid>
@@ -1148,11 +1156,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/e8b9b0a9-8d52-4cd2-afd8-2aabd23c8296.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/77583</link>
-            <guid>https://www.elle.co.kr/article/77583</guid>
-            <pubDate>Tue, 16 May 2023 09:14:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/0aad8351-ac31-40f2-9fec-df5239b42ece.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[봄을 부르는 책상과 의자 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/76282</link>
+            <guid>https://www.elle.co.kr/article/76282</guid>
+            <pubDate>Tue, 16 May 2023 06:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[봄의 서재를 밝히는 색색의 데스크 &amp; 체어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/d490b620-d237-4d35-9f3d-adcb55aa580e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엇갈린 사각관계의 결말은? '닥터 차정숙' 후반부 관전 포인트 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1207,13 +1216,6 @@
             <pubDate>Wed, 10 May 2023 16:19:14 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/4e9252dc-2261-408a-9997-73da0ccc7ab5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/77457</link>
-            <guid>https://www.elle.co.kr/article/77457</guid>
-            <pubDate>Wed, 10 May 2023 08:15:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/462c20c4-a29d-464c-879a-52331192f17f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1304,6 +1306,13 @@
             <pubDate>Sun, 19 Feb 2023 17:16:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[꿀잼은 국적을 가리지 않는다! 일본에 수출한 '환승연애' 리메이크판 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/77645</link>
+            <guid>https://www.elle.co.kr/article/77645</guid>
+            <pubDate>Thu, 18 May 2023 08:15:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/c459d662-fe96-4021-a464-f6a23d7423a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[류승범이 아내와의 첫 만남에서 말도 걸지 못한 이유 (ft. 뽀뽀뽀 출연?) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/77632</link>
             <guid>https://www.elle.co.kr/article/77632</guid>
@@ -1329,7 +1338,6 @@
             <link>https://www.elle.co.kr/article/77549</link>
             <guid>https://www.elle.co.kr/article/77549</guid>
             <pubDate>Mon, 15 May 2023 09:14:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/ba4f607c-78d8-41a6-9f43-61e7e8becfbe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['성난 사람들'을 보며 현대인의 스트레스와 결혼 생활을 떠올리다_요주의여성 #85 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1380,13 +1388,6 @@
             <link>https://www.elle.co.kr/article/77272</link>
             <guid>https://www.elle.co.kr/article/77272</guid>
             <pubDate>Tue, 02 May 2023 08:15:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20년 만에 한 푼 정영주! 실사판 '인어공주' 우르슐라 더빙 확정 (ft. 에리얼 실루엣) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/77266</link>
-            <guid>https://www.elle.co.kr/article/77266</guid>
-            <pubDate>Tue, 02 May 2023 07:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[한국 더빙 캐스트 공개 중.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[취향으로 연결된 느슨한 연대, 팀포지티브제로 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1546,6 +1547,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/378ae501-e6f1-4029-b4ee-4d542bc7abe3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[27년 만의 승리: E. 진 캐롤이 도널드 트럼프에게 이겼다 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/77475</link>
+            <guid>https://www.elle.co.kr/article/77475</guid>
+            <pubDate>Thu, 18 May 2023 08:16:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/6e3303d6-ec27-42e6-a7d4-c64365fd09d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['종합소득세'의 세계에 진입하려면? 네이버 블로그로 쏠쏠한 수익 올리는 법 3_돈쓸신잡 #97 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/77471</link>
             <guid>https://www.elle.co.kr/article/77471</guid>
@@ -1598,14 +1606,6 @@
             <guid>https://www.elle.co.kr/article/77332</guid>
             <pubDate>Mon, 08 May 2023 15:14:15 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/d48904a8-875a-4089-a63f-44cf90757f13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[침대에 누워 비행기를! 세계 최초 이코노미석 침대칸의 가격은? (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/77316</link>
-            <guid>https://www.elle.co.kr/article/77316</guid>
-            <pubDate>Sun, 07 May 2023 16:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[독서등부터 USB 포트까지, 집순이 필수템 모두 구비 완료.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/05109cc6-c00b-4bd2-8d6b-3b2f3112fa8e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
