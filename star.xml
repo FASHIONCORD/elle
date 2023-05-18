@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 18:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 19:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곧 10년차 커플, 신민아-김우빈의 #발리 #럽스타그램]]></title>
+            <link>https://www.elle.co.kr/article/77633</link>
+            <guid>https://www.elle.co.kr/article/77633</guid>
+            <pubDate>Thu, 18 May 2023 19:10:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/6973e22c-b014-42c5-961e-51835c461d0d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류승범이 아내와의 첫 만남에서 말도 걸지 못한 이유 (ft. 뽀뽀뽀 출연?)]]></title>
             <link>https://www.elle.co.kr/article/77632</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/77616</guid>
             <pubDate>Wed, 17 May 2023 19:11:05 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/4832b93b-8502-4dd6-8534-c80877a4be7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨개의 매력! 여름까지 활용할 수 있는 #크로셰 스타일링 5]]></title>
-            <link>https://www.elle.co.kr/article/77599</link>
-            <guid>https://www.elle.co.kr/article/77599</guid>
-            <pubDate>Wed, 17 May 2023 15:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[제니부터 설현까지, 아기자기한 크로셰 니트에 푹 빠진 스타들의 룩을 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/4275f18f-056f-4093-b7d4-f28021c589cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
