@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 14:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 15:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류승범이 아내와의 첫 만남에서 말도 걸지 못한 이유 (ft. 뽀뽀뽀 출연?)]]></title>
+            <link>https://www.elle.co.kr/article/77632</link>
+            <guid>https://www.elle.co.kr/article/77632</guid>
+            <pubDate>Thu, 18 May 2023 15:13:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/543ec1a6-0436-431d-9a23-9f28521f9834.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이템 하나만으로 힙해지는 방법! #초커]]></title>
             <link>https://www.elle.co.kr/article/77626</link>
@@ -60,14 +67,6 @@
             <pubDate>Wed, 17 May 2023 15:15:51 GMT</pubDate>
             <content:encoded><![CDATA[제니부터 설현까지, 아기자기한 크로셰 니트에 푹 빠진 스타들의 룩을 확인해 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/4275f18f-056f-4093-b7d4-f28021c589cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평범한 듯 비범한 패션 크루 이야기]]></title>
-            <link>https://www.elle.co.kr/article/77064</link>
-            <guid>https://www.elle.co.kr/article/77064</guid>
-            <pubDate>Wed, 17 May 2023 15:15:51 GMT</pubDate>
-            <content:encoded><![CDATA['엔쵸비'의 디자이너 김근혁과 비주얼 디렉터 바노, 그리고 이스트 캐스팅 모델들의 평범한 듯 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/2c93d87f-f457-4a96-83ed-864f5abe18f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

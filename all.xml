@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 14:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 15:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTRfNzAg/MDAxNjYzMTE3MzU3NDk3.NNrdwyEJZIdIe0OP87JwyxMvNqPomRW_ig6sI8ZBetYg.X_2jk6pcdtAdS_QciLajSvLNrrv4TECCEsAkDmTsqSkg.JPEG/IbqkMPuTJwm7V2E5ayK9dT8T5mHs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빛이 나는 백준영 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/77582</link>
+            <guid>https://www.elle.co.kr/article/77582</guid>
+            <pubDate>Thu, 18 May 2023 15:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[성공적인 해외 컬렉션 데뷔를 마친 모델 백준영.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/c66d391f-7c2b-4999-ab20-464b625d804d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[패션보다 한 단계 위! 파인 주얼리 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/77601</link>
             <guid>https://www.elle.co.kr/article/77601</guid>
@@ -1024,14 +1032,6 @@
             <pubDate>Tue, 16 May 2023 19:10:42 GMT</pubDate>
             <content:encoded><![CDATA[럭비 셔츠의 화려한 질주.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/c2494eb5-28d4-4d30-9ba7-5950309d9301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페스티벌부터 휴가지까지! 어디에서나 유용한 #선글라스 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/77528</link>
-            <guid>https://www.elle.co.kr/article/77528</guid>
-            <pubDate>Tue, 16 May 2023 00:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[태양을 피하는 아이템을 넘어 스타일의 맛을 살려 줄 선글라스! 스타들의 SNS 속에서 힌트를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/9c394d53-2411-44ad-bf63-c995ae93f949.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화장품 믹솔로지 레서피 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1095,6 +1095,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/9c6e32f0-2810-4579-85e6-ed619f484e44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[류승범이 아내와의 첫 만남에서 말도 걸지 못한 이유 (ft. 뽀뽀뽀 출연?) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/77632</link>
+            <guid>https://www.elle.co.kr/article/77632</guid>
+            <pubDate>Thu, 18 May 2023 03:14:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/543ec1a6-0436-431d-9a23-9f28521f9834.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이템 하나만으로 힙해지는 방법! #초커 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/77626</link>
             <guid>https://www.elle.co.kr/article/77626</guid>
@@ -1147,14 +1154,6 @@
             <pubDate>Wed, 17 May 2023 15:15:51 GMT</pubDate>
             <content:encoded><![CDATA[제니부터 설현까지, 아기자기한 크로셰 니트에 푹 빠진 스타들의 룩을 확인해 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/4275f18f-056f-4093-b7d4-f28021c589cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평범한 듯 비범한 패션 크루 이야기 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/77064</link>
-            <guid>https://www.elle.co.kr/article/77064</guid>
-            <pubDate>Wed, 17 May 2023 15:15:51 GMT</pubDate>
-            <content:encoded><![CDATA['엔쵸비'의 디자이너 김근혁과 비주얼 디렉터 바노, 그리고 이스트 캐스팅 모델들의 평범한 듯 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/2c93d87f-f457-4a96-83ed-864f5abe18f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은? (엘르 코리아 ─ 컬쳐)]]></title>
