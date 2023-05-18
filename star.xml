@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 08:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 09:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기쁨과 즐거움으로 예술을 구한 여성들]]></title>
+            <link>https://www.elle.co.kr/article/77625</link>
+            <guid>https://www.elle.co.kr/article/77625</guid>
+            <pubDate>Thu, 18 May 2023 09:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[여성 예술가 박보마, 박론디, 우한나 그리고 이들을 모은 큐레이터 추스 마르티네스의 뜨거운 대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/30d2aeff-02f2-4e82-af5f-f5388e12d568.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함께 꿈꾸는 민주킴 패밀리]]></title>
             <link>https://www.elle.co.kr/article/77066</link>
@@ -60,13 +68,6 @@
             <pubDate>Wed, 17 May 2023 10:13:42 GMT</pubDate>
             <content:encoded><![CDATA[캐나다 이민자인 모자의 삶을 그린 '라이스보이 슬립스'. 집에 대한 고찰을 담아낸 앤소니 심 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/ec7f5718-c2ba-4651-937f-3b6aae42b98b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우산에 돈이? 양치승, 스승의 날 맞아 받은 이색 선물 클라스 (ft. 최강희 다이어트 성공)]]></title>
-            <link>https://www.elle.co.kr/article/77592</link>
-            <guid>https://www.elle.co.kr/article/77592</guid>
-            <pubDate>Wed, 17 May 2023 10:13:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/e8b9b0a9-8d52-4cd2-afd8-2aabd23c8296.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
