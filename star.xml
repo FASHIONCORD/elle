@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 02:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티모시 샬라메와 블루 드 샤넬의 만남이 ‘필연’적인 이유]]></title>
+            <link>https://www.elle.co.kr/article/77595</link>
+            <guid>https://www.elle.co.kr/article/77595</guid>
+            <pubDate>Thu, 18 May 2023 03:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 향수의 새로운 이정표가 될 티모시 샬라메와 블루 드 샤넬의 조우, 그 첫 번째 챕터 속...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/b95eaf8d-39d2-4dfd-b485-3c4ebc75c9cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화려한 '무비스타'로 솔로 데뷔한 미주! 우월한 피지컬에 숨겨진 반전 매력은? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/77616</link>
@@ -59,14 +67,6 @@
             <pubDate>Tue, 16 May 2023 19:11:02 GMT</pubDate>
             <content:encoded><![CDATA[동시대를 대표하는 아이콘, 티모시 샬라메가 마침내 블루 드 샤넬의 새로운 얼굴이 됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/ae226c6b-0acd-4713-b051-c7658673fe27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름보다 더 뜨거운 로제! 엘르 6월호 커버 장식]]></title>
-            <link>https://www.elle.co.kr/article/77559</link>
-            <guid>https://www.elle.co.kr/article/77559</guid>
-            <pubDate>Tue, 16 May 2023 17:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[지금, 막 피어난 장미처럼 가장 강렬하게 빛나는 블랙핑크 로제.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/39b91da0-d657-44d3-b5f9-3bff52c03eb6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
