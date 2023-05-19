@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 06:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 07:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이거 안 읽고 시계 사러 가면 손해]]></title>
+            <link>https://www.elle.co.kr/article/77631</link>
+            <guid>https://www.elle.co.kr/article/77631</guid>
+            <pubDate>Fri, 19 May 2023 07:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[용어를 알아야 시계의 세계가 열립니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/0eed6cb7-e5c1-4d26-8288-6aa1b6157e63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이템 하나만으로 힙해지는 방법! #초커]]></title>
             <link>https://www.elle.co.kr/article/77626</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 17 May 2023 05:11:51 GMT</pubDate>
             <content:encoded><![CDATA[워치스 앤 원더스 2023에서 만난 까르띠에]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/9ceaa006-fa8f-4eac-91aa-b8bbcd29ac02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[훌라 '후프']]></title>
-            <link>https://www.elle.co.kr/article/77256</link>
-            <guid>https://www.elle.co.kr/article/77256</guid>
-            <pubDate>Wed, 17 May 2023 02:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[대담했던 80년대를 떠올리며.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/74979b19-1d18-4eec-a1f6-35e14d6388e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
