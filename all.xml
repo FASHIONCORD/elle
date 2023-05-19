@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 19:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 20:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,6 +1096,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/1555d674-ed3e-4904-94ba-ea0b4df70324.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/77604</link>
+            <guid>https://www.elle.co.kr/article/77604</guid>
+            <pubDate>Fri, 19 May 2023 20:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/b337ce93-8f8e-48f0-a6e1-5c3276be3779.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지금 가야 해! 광합성 하기 좋은 테라스 카페 3 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/77660</link>
             <guid>https://www.elle.co.kr/article/77660</guid>
@@ -1145,14 +1153,6 @@
             <guid>https://www.elle.co.kr/article/77632</guid>
             <pubDate>Thu, 18 May 2023 03:14:18 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/543ec1a6-0436-431d-9a23-9f28521f9834.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이템 하나만으로 힙해지는 방법! #초커 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/77626</link>
-            <guid>https://www.elle.co.kr/article/77626</guid>
-            <pubDate>Thu, 18 May 2023 10:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 핫한 액세서리인 초커를 활용해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/59e859cf-2e5a-446e-94c9-14d2556c3812.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙과 웨이브, 이번엔 진짜로 살림 합칠까? (엘르 코리아 ─ 컬쳐)]]></title>
