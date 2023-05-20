@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 05:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 06:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수묵화부터 픽셀, 추상화까지! 5월, 신록과 함께 찾아온 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/77701</link>
+            <guid>https://www.elle.co.kr/article/77701</guid>
+            <pubDate>Sat, 20 May 2023 06:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[미술 산책을 나서기에 더할 나위 없이 좋은 나날들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/fb4f0be4-b65d-4294-9de6-8fb2adfa8f22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아티스트 세츠코의 르 그랑 샬레]]></title>
             <link>https://www.elle.co.kr/article/76291</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76283</guid>
             <pubDate>Tue, 16 May 2023 10:14:01 GMT</pubDate>
             <content:encoded><![CDATA[플라츠, 먼치스 앤 구디스, 웍스, 로비, 아파트먼트풀. 팀포지티브제로의 손길로 탄생한 취향의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/ac4199b2-bd8b-4747-a71a-7824bd3e451a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄을 부르는 책상과 의자]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/76278</guid>
             <pubDate>Thu, 04 May 2023 16:27:44 GMT</pubDate>
             <content:encoded><![CDATA[프랑스 패션 디자인의 살아 있는 아이콘인 아네스 베. 그의 무한한 창의성이 마법처럼 펼쳐진 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스테이 아키텍츠가 디자인하는 고요한 휴식과 위안]]></title>
-            <link>https://www.elle.co.kr/article/76277</link>
-            <guid>https://www.elle.co.kr/article/76277</guid>
-            <pubDate>Tue, 02 May 2023 15:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[스테이 아키텍츠의 고정석과 홍정희는 사람들이 머무는 곳에 대한 가치와 깊이를 끊임없이 탐구한...]]></content:encoded>
         </item>
     </channel>
 </rss>
