@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 04:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 05:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
+            <link>https://www.elle.co.kr/article/77604</link>
+            <guid>https://www.elle.co.kr/article/77604</guid>
+            <pubDate>Sat, 20 May 2023 05:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/b337ce93-8f8e-48f0-a6e1-5c3276be3779.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보통날의 향수]]></title>
             <link>https://www.elle.co.kr/article/77067</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 May 2023 10:12:13 GMT</pubDate>
             <content:encoded><![CDATA[샤넬의 질주에 루이 비통이 뒤따르고, 생 로랑이 동참했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/9200b619-8772-4b43-99fd-7183d09f91c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨개의 매력! 여름까지 활용할 수 있는 #크로셰 스타일링 5]]></title>
-            <link>https://www.elle.co.kr/article/77599</link>
-            <guid>https://www.elle.co.kr/article/77599</guid>
-            <pubDate>Thu, 18 May 2023 09:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[제니부터 설현까지, 아기자기한 크로셰 니트에 푹 빠진 스타들의 룩을 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/4275f18f-056f-4093-b7d4-f28021c589cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
