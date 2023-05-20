@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 14:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 15:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜버 김갈릭이 시골 집에서 사는 법 #아웃오브서울]]></title>
+            <link>https://www.elle.co.kr/article/77703</link>
+            <guid>https://www.elle.co.kr/article/77703</guid>
+            <pubDate>Sat, 20 May 2023 15:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 채널 '김갈릭'에서 평화로운 시골 브이로그를 연재 중이다. 서울을 떠나 과감한 시골 살...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/21/6dbf1be8-b9d7-43d3-ab8d-84cf25a4d952.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수묵화부터 픽셀, 추상화까지! 5월, 신록과 함께 찾아온 전시 3]]></title>
             <link>https://www.elle.co.kr/article/77701</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/77654</guid>
             <pubDate>Thu, 18 May 2023 10:13:08 GMT</pubDate>
             <content:encoded><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/189dcdb8-f7aa-4dc5-84b9-69275381f371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[취향으로 연결된 느슨한 연대, 팀포지티브제로]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/77377</guid>
             <pubDate>Sat, 06 May 2023 15:12:11 GMT</pubDate>
             <content:encoded><![CDATA[우리는 하나의 집에서 살아야만 하는 걸까? 근본적인 질문을 던지는 박우린의 세 집 살림.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 패션 아이콘 아네스 베의 마법 같은 저택]]></title>
-            <link>https://www.elle.co.kr/article/76278</link>
-            <guid>https://www.elle.co.kr/article/76278</guid>
-            <pubDate>Thu, 04 May 2023 16:27:44 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 패션 디자인의 살아 있는 아이콘인 아네스 베. 그의 무한한 창의성이 마법처럼 펼쳐진 ...]]></content:encoded>
         </item>
     </channel>
 </rss>
