@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 18:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 19:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대체불가 조합, 배우 크리스탈과 랑콤의 만남]]></title>
+            <link>https://www.elle.co.kr/article/77627</link>
+            <guid>https://www.elle.co.kr/article/77627</guid>
+            <pubDate>Sun, 21 May 2023 19:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[피부 시간을 되돌리는 제니피끄 한 병의 과학! 랑콤의 새로운 얼굴, 배우 크리스탈(정수정)이 제...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/139f3790-f55b-4721-94df-9fa47192e22e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티모시 샬라메와 블루 드 샤넬의 만남이 ‘필연’적인 이유]]></title>
             <link>https://www.elle.co.kr/article/77595</link>
@@ -61,13 +69,6 @@
             <pubDate>Wed, 17 May 2023 08:17:27 GMT</pubDate>
             <content:encoded><![CDATA[생기 가득한 핑크빛 메이크업의 기술을 전효성이 알려줍니다. 화사하게 빛나는 메이크업을 따라 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/c0d486d4-83f2-4e67-a1b7-d08bc0624b12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['환승연애2' 성해은, 과거와 비교해 10kg 감량했다는데? 체력까지 잡은 꿀팁 공개! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/77487</link>
-            <guid>https://www.elle.co.kr/article/77487</guid>
-            <pubDate>Tue, 16 May 2023 04:15:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/5dd221fc-44dd-4b65-81dc-7bc446160538.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
