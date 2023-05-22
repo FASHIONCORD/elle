@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 08:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 09:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고?]]></title>
+            <link>https://www.elle.co.kr/article/77654</link>
+            <guid>https://www.elle.co.kr/article/77654</guid>
+            <pubDate>Mon, 22 May 2023 09:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/189dcdb8-f7aa-4dc5-84b9-69275381f371.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿀잼은 국적을 가리지 않는다! 일본에 수출한 '환승연애' 리메이크판 정보.txt]]></title>
             <link>https://www.elle.co.kr/article/77645</link>
@@ -57,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/77549</guid>
             <pubDate>Thu, 18 May 2023 03:14:00 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/ba4f607c-78d8-41a6-9f43-61e7e8becfbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성난 사람들'을 보며 현대인의 스트레스와 결혼 생활을 떠올리다_요주의여성 #85]]></title>
-            <link>https://www.elle.co.kr/article/77538</link>
-            <guid>https://www.elle.co.kr/article/77538</guid>
-            <pubDate>Wed, 17 May 2023 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[화가 나서 폭발해 버릴 것만 같은 당신에게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/42d3367d-d02e-4dc9-b0fa-d582535c9bb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
