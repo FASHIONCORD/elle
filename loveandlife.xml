@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 07:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 08:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몰디브에 기대하는 모든 게 이곳에! 조알리 리조트]]></title>
+            <link>https://www.elle.co.kr/article/77072</link>
+            <guid>https://www.elle.co.kr/article/77072</guid>
+            <pubDate>Tue, 23 May 2023 08:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[브라이빗 비치, 코앞에 펼쳐진 바다, 낮의 열기를 시원하게 날려버릴 술과 음악까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/fcfd37bd-78c2-4ba0-b52e-d7755d9c477d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유럽 여행을 계획중이라면 당장 클릭! 아이비의 여행 필수템 대방출 6]]></title>
             <link>https://www.elle.co.kr/article/77705</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/77585</guid>
             <pubDate>Fri, 19 May 2023 08:16:46 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/415d9aa2-639e-4928-bdb5-d943ce881101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상상 그 이상! 호주를 새롭게 여행하는 법]]></title>
-            <link>https://www.elle.co.kr/article/77077</link>
-            <guid>https://www.elle.co.kr/article/77077</guid>
-            <pubDate>Fri, 19 May 2023 02:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[드넓은 바다를 따라 피어오르는 자유. 시드니 &amp; 뉴사우스웨일스 여행기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/330f0389-8cd9-4a75-b097-565638dca548.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
