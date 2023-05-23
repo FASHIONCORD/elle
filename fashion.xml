@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 14:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 15:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LIVE ON! 디올의 2024 크루즈 컬렉션 라이브]]></title>
+            <link>https://www.elle.co.kr/article/77683</link>
+            <guid>https://www.elle.co.kr/article/77683</guid>
+            <pubDate>Tue, 23 May 2023 15:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[5월 21일 일요일 오전 11시 30분 (KST) 멕시코에서 열리는 마리아 그라치아 치우리의 디올 크...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/becf7e84-6fd8-4f65-9ebf-fae44e6c453e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 눈길을 사로잡는 워치 & 주얼리]]></title>
             <link>https://www.elle.co.kr/article/77562</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 May 2023 19:10:28 GMT</pubDate>
             <content:encoded><![CDATA[미화하지 않아도 찬란하게 빛나는 보통날의 일상, 보통날의 향수.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/ea7b6cbb-ec9c-4f6f-b1cb-9a2b3a499b76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고?]]></title>
-            <link>https://www.elle.co.kr/article/77654</link>
-            <guid>https://www.elle.co.kr/article/77654</guid>
-            <pubDate>Fri, 19 May 2023 15:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/189dcdb8-f7aa-4dc5-84b9-69275381f371.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
