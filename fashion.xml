@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 09:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 10:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언제 입어도 기분 좋은 스트라이프 패션 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/77699</link>
+            <guid>https://www.elle.co.kr/article/77699</guid>
+            <pubDate>Tue, 23 May 2023 10:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[데일리룩 ‘만능템’ 스트라이프, 스타들은 이렇게 소화한다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/c3a6a042-83bf-4aa1-9c8c-02477ba5f1c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀피 타임! 컬러풀 거울]]></title>
             <link>https://www.elle.co.kr/article/77069</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 May 2023 15:12:44 GMT</pubDate>
             <content:encoded><![CDATA[오징어 게임 &lt;황동혁&gt; 감독이 참여한 환상적인 패션쇼 현장!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/b6c89194-69f4-40a9-b7f4-2a240dd0e9fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 안 읽고 시계 사러 가면 손해]]></title>
-            <link>https://www.elle.co.kr/article/77631</link>
-            <guid>https://www.elle.co.kr/article/77631</guid>
-            <pubDate>Fri, 19 May 2023 07:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[용어를 알아야 시계의 세계가 열립니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/0eed6cb7-e5c1-4d26-8288-6aa1b6157e63.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
