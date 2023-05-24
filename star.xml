@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 09:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 10:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 멋쟁이들은 지금 롱부츠를 신지!]]></title>
+            <link>https://www.elle.co.kr/article/77784</link>
+            <guid>https://www.elle.co.kr/article/77784</guid>
+            <pubDate>Wed, 24 May 2023 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[더위를 이기는 서머 부츠의 매력, 블랙핑크 제니부터 아미송까지 옷 잘 입는 셀러브리티들의 스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/dbb39e16-40f2-41cc-bac1-1905d73a628a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20대부터 70대 배우가 직접 알려준다! 모든 나이에서 빛나는 드레스 입는 법]]></title>
             <link>https://www.elle.co.kr/article/77779</link>
@@ -60,13 +68,6 @@
             <pubDate>Tue, 23 May 2023 01:08:21 GMT</pubDate>
             <content:encoded><![CDATA[유럽으로 혼자 여행을 떠나기 전 아이비가 캐리어에 챙기는 실용적인 아이템을 직접 공개합니다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/21/35c7cd35-2a64-4f82-a04c-f1bfbde5920e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울대가 낳은 최고의 아웃풋! 이하늬, 김태희의 보디가드가 된 사연은?]]></title>
-            <link>https://www.elle.co.kr/article/77700</link>
-            <guid>https://www.elle.co.kr/article/77700</guid>
-            <pubDate>Mon, 22 May 2023 19:10:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/a56edc12-cf36-48d4-8484-486c802ebb23.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
