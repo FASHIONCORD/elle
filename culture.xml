@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 05:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 06:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메조틴트 판화 속 숨겨진 이야기]]></title>
+            <link>https://www.elle.co.kr/article/76286</link>
+            <guid>https://www.elle.co.kr/article/76286</guid>
+            <pubDate>Wed, 24 May 2023 06:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[희소성, 상징성 그리고 갖고 싶다는 솔직한 욕망. 유럽과 미국 경매시장에서 서양 고전 미술의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/09434713-a4d3-40a0-af3a-3a5015de956a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[절친 케미부터 연상연하 로맨스까지! '닥터 차정숙' 엄정화 명드 3선 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/77729</link>
@@ -60,13 +68,6 @@
             <guid>https://www.elle.co.kr/article/77645</guid>
             <pubDate>Sat, 20 May 2023 15:12:11 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/c459d662-fe96-4021-a464-f6a23d7423a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류승범이 아내와의 첫 만남에서 말도 걸지 못한 이유 (ft. 뽀뽀뽀 출연?)]]></title>
-            <link>https://www.elle.co.kr/article/77632</link>
-            <guid>https://www.elle.co.kr/article/77632</guid>
-            <pubDate>Sat, 20 May 2023 06:15:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/543ec1a6-0436-431d-9a23-9f28521f9834.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

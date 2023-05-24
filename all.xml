@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 05:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 06:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1156,6 +1156,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/a2a8ef12-1cc7-48b3-9beb-6e0519217afd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메조틴트 판화 속 숨겨진 이야기 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/76286</link>
+            <guid>https://www.elle.co.kr/article/76286</guid>
+            <pubDate>Mon, 22 May 2023 15:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[희소성, 상징성 그리고 갖고 싶다는 솔직한 욕망. 유럽과 미국 경매시장에서 서양 고전 미술의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/09434713-a4d3-40a0-af3a-3a5015de956a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[절친 케미부터 연상연하 로맨스까지! '닥터 차정숙' 엄정화 명드 3선 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/77729</link>
             <guid>https://www.elle.co.kr/article/77729</guid>
@@ -1208,13 +1216,6 @@
             <guid>https://www.elle.co.kr/article/77645</guid>
             <pubDate>Thu, 18 May 2023 08:15:46 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/c459d662-fe96-4021-a464-f6a23d7423a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류승범이 아내와의 첫 만남에서 말도 걸지 못한 이유 (ft. 뽀뽀뽀 출연?) (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/77632</link>
-            <guid>https://www.elle.co.kr/article/77632</guid>
-            <pubDate>Thu, 18 May 2023 03:14:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/543ec1a6-0436-431d-9a23-9f28521f9834.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
