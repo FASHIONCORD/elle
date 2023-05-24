@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 06:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 07:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공주님 강림, 질스튜어트 뷰티와 미연의 만남]]></title>
+            <link>https://www.elle.co.kr/article/77686</link>
+            <guid>https://www.elle.co.kr/article/77686</guid>
+            <pubDate>Wed, 24 May 2023 07:11:58 GMT</pubDate>
+            <content:encoded><![CDATA['면프로디테' 미연이 질스튜어트 뷰티와 만났다. 사랑스러운 핑크빛 아우라로 물든 (여자)아이들 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/c28bef26-b995-4a09-8736-859ae78b17d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식단이 이렇게 다채로울 수 있다고? 윤은혜의 맛있는 다이어트 레서피]]></title>
             <link>https://www.elle.co.kr/article/77737</link>
@@ -59,13 +67,6 @@
             <pubDate>Mon, 22 May 2023 10:14:19 GMT</pubDate>
             <content:encoded><![CDATA[데일리룩 ‘만능템’ 스트라이프, 스타들은 이렇게 소화한다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/c3a6a042-83bf-4aa1-9c8c-02477ba5f1c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌·뉴진스부터 '더 글로리' 정지소까지! 포브스 '영향력 있는 30세 이하' 선정 스타들.list]]></title>
-            <link>https://www.elle.co.kr/article/77697</link>
-            <guid>https://www.elle.co.kr/article/77697</guid>
-            <pubDate>Mon, 22 May 2023 09:13:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/a2a8ef12-1cc7-48b3-9beb-6e0519217afd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
