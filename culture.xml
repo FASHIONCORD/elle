@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 03:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 04:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[절친 케미부터 연상연하 로맨스까지! '닥터 차정숙' 엄정화 명드 3선 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/77729</link>
+            <guid>https://www.elle.co.kr/article/77729</guid>
+            <pubDate>Wed, 24 May 2023 04:15:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/ebed0cc2-bb83-40d4-8e27-2f9e861efe0b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜버 김갈릭이 시골 집에서 사는 법 #아웃오브서울]]></title>
             <link>https://www.elle.co.kr/article/77703</link>
@@ -60,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/77632</guid>
             <pubDate>Sat, 20 May 2023 06:15:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/543ec1a6-0436-431d-9a23-9f28521f9834.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙과 웨이브, 이번엔 진짜로 살림 합칠까?]]></title>
-            <link>https://www.elle.co.kr/article/77618</link>
-            <guid>https://www.elle.co.kr/article/77618</guid>
-            <pubDate>Fri, 19 May 2023 03:14:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/d7cfd3cf-2011-4c11-8218-9684acc0fa52.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
