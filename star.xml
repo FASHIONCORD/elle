@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 04:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 05:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나오미 캠벨의 레전드 생일파티]]></title>
+            <link>https://www.elle.co.kr/article/77828</link>
+            <guid>https://www.elle.co.kr/article/77828</guid>
+            <pubDate>Thu, 25 May 2023 05:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[BTS 뷔와 블랙핑크 리사도 참석한 그 화제의 파티.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/b8591c44-439c-44c5-889c-7c0c39e80ade.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['믿보' 배우들의 스타일 비교! <닥터 차정숙> 엄정화 VS <패밀리> 장나라 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/77791</link>
@@ -60,13 +68,6 @@
             <guid>https://www.elle.co.kr/article/77733</guid>
             <pubDate>Wed, 24 May 2023 01:00:49 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/95e180b3-0540-47c9-ae51-7e6b2392eb75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[절친 케미부터 연상연하 로맨스까지! '닥터 차정숙' 엄정화 명드 3선 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/77729</link>
-            <guid>https://www.elle.co.kr/article/77729</guid>
-            <pubDate>Tue, 23 May 2023 19:11:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/ebed0cc2-bb83-40d4-8e27-2f9e861efe0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
