@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 23:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 01:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['믿보' 배우들의 스타일 비교! <닥터 차정숙> 엄정화 VS <패밀리> 장나라 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/77791</link>
+            <guid>https://www.elle.co.kr/article/77791</guid>
+            <pubDate>Thu, 25 May 2023 01:00:32 GMT</pubDate>
+            <content:encoded><![CDATA[연기면 연기, 노래면 노래! 못 하는 게 없는 올 라운드 만등 엔터테이너 엄정화와 장나라. 각...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/c7a21204-ade5-44bc-a4d7-fce5b09e422a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['범죄도시' 역대 빌런들이 모인 이유는?! 귀한 손석구X이준혁 투샷.jpg]]></title>
             <link>https://www.elle.co.kr/article/77788</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/77729</guid>
             <pubDate>Tue, 23 May 2023 19:11:53 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/ebed0cc2-bb83-40d4-8e27-2f9e861efe0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아침 부기 굿바이! 배우 엄지원의 페이스 마사지 루틴]]></title>
-            <link>https://www.elle.co.kr/article/77710</link>
-            <guid>https://www.elle.co.kr/article/77710</guid>
-            <pubDate>Tue, 23 May 2023 10:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[딱 5분만 따라 해 보세요. 날렵한 페이스 라인을 위해 엄지원이 매일 하는 마사지 방법을 소개...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/0eaebd33-e733-4468-a6f0-d13e57a82a08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
