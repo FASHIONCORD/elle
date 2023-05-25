@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 18:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 19:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷔와 박보검, 리사가 한 자리에! 한국 셀럽들이 칸을 200% 즐기는 방법]]></title>
+            <link>https://www.elle.co.kr/article/77841</link>
+            <guid>https://www.elle.co.kr/article/77841</guid>
+            <pubDate>Thu, 25 May 2023 19:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[황홀한 프라이빗 디너와 뜨거운 애프터파티의 향연.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/23e00089-f53f-4c00-b8be-8e06af9f05cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만삭 아내와 생애 첫 칸 영화제 찾은 송중기! 특별한 체력 관리법은? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/77836</link>
@@ -60,14 +68,6 @@
             <pubDate>Wed, 24 May 2023 07:11:58 GMT</pubDate>
             <content:encoded><![CDATA['면프로디테' 미연이 질스튜어트 뷰티와 만났다. 사랑스러운 핑크빛 아우라로 물든 (여자)아이들 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/c28bef26-b995-4a09-8736-859ae78b17d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식단이 이렇게 다채로울 수 있다고? 윤은혜의 맛있는 다이어트 레서피]]></title>
-            <link>https://www.elle.co.kr/article/77737</link>
-            <guid>https://www.elle.co.kr/article/77737</guid>
-            <pubDate>Wed, 24 May 2023 02:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[세 끼 맛있게 먹어도 살이 빠지는 윤은혜의 10일 다이어트 식단으로 여름을 준비해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/96f3282c-1f10-4170-a51a-691b2bf70720.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
