@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 18:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 19:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환상적인 여름휴가를 담은 베르사체 2023 '라 바칸자' 컬렉션]]></title>
+            <link>https://www.elle.co.kr/article/77856</link>
+            <guid>https://www.elle.co.kr/article/77856</guid>
+            <pubDate>Fri, 26 May 2023 19:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[두아 리파와 도나텔라 베르사체가 함께한, 영화 같은 여름 컬렉션이 프랑스 남부 칸에서 펼쳐졌...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/7e484694-70ab-4ce3-abd2-ee97409e9f87.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름 힙한 노출 포인트는 바로 등! #백리스]]></title>
             <link>https://www.elle.co.kr/article/77846</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 May 2023 15:15:42 GMT</pubDate>
             <content:encoded><![CDATA[더위를 이기는 서머 부츠의 매력, 블랙핑크 제니부터 아미송까지 옷 잘 입는 셀러브리티들의 스...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/dbb39e16-40f2-41cc-bac1-1905d73a628a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신촌문화관 대표 김수연의 취향]]></title>
-            <link>https://www.elle.co.kr/article/77074</link>
-            <guid>https://www.elle.co.kr/article/77074</guid>
-            <pubDate>Wed, 24 May 2023 10:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[재미있고 유용한 것에 과감하게 빠져드는 사람, 신촌문화관 대표 김수연.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/6e7085d9-f27f-4535-99c8-8ea0129cb310.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
