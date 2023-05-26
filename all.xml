@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 20:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 21:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1097,6 +1097,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/c7339625-5b74-4b06-a5b1-e796a010efc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/77909</link>
+            <guid>https://www.elle.co.kr/article/77909</guid>
+            <pubDate>Fri, 26 May 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/b515b5da-b4b6-4253-9604-e555d7eae095.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엔하이픈이라는 새로운 세계 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/77905</link>
             <guid>https://www.elle.co.kr/article/77905</guid>
@@ -1147,14 +1155,6 @@
             <guid>https://www.elle.co.kr/article/77847</guid>
             <pubDate>Fri, 26 May 2023 02:06:47 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/edb7225f-1133-4b57-86af-b134d882833d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 힙한 노출 포인트는 바로 등! #백리스 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/77846</link>
-            <guid>https://www.elle.co.kr/article/77846</guid>
-            <pubDate>Fri, 26 May 2023 02:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[날개뼈를 드러낸 셀러브리티들의 과감한 백리스 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/39b50059-56c3-4edc-beb9-1aae271afec7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뷔와 박보검, 리사가 한 자리에! 한국 셀럽들이 칸을 200% 즐기는 방법 (엘르 코리아 ─ 컬쳐)]]></title>
