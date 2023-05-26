@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 14:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 15:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클러빙보다 핫한 운동 페스티벌? 시포레 2023]]></title>
+            <link>https://www.elle.co.kr/article/77900</link>
+            <guid>https://www.elle.co.kr/article/77900</guid>
+            <pubDate>Fri, 26 May 2023 15:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[시티포레스티벌 2023. 윤성빈, 서준맘과 장은실, 강하나, 김혜선의 클래스를 듣는 즐거움!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/f75c18f7-34e6-4b72-ba32-dab681aa122e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이다해가 신혼여행 갈 때 챙겼다는 반려동물 여권의 정체는?]]></title>
             <link>https://www.elle.co.kr/article/77899</link>
@@ -58,13 +66,6 @@
             <pubDate>Thu, 25 May 2023 19:11:07 GMT</pubDate>
             <content:encoded><![CDATA[황홀한 프라이빗 디너와 뜨거운 애프터파티의 향연.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/23e00089-f53f-4c00-b8be-8e06af9f05cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만삭 아내와 생애 첫 칸 영화제 찾은 송중기! 특별한 체력 관리법은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/77836</link>
-            <guid>https://www.elle.co.kr/article/77836</guid>
-            <pubDate>Thu, 25 May 2023 07:12:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/fb708b7d-e018-4a79-a287-3a4979f6a29c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
