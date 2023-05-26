@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 10:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 11:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이다해가 신혼여행 갈 때 챙겼다는 반려동물 여권의 정체는?]]></title>
+            <link>https://www.elle.co.kr/article/77899</link>
+            <guid>https://www.elle.co.kr/article/77899</guid>
+            <pubDate>Fri, 26 May 2023 11:11:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/fb19db67-dfeb-48ce-8a81-96bb2dfbc977.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이볼부터 숙성회까지! 스타가 방문한 이자카야 3]]></title>
             <link>https://www.elle.co.kr/article/77897</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/77836</guid>
             <pubDate>Thu, 25 May 2023 07:12:51 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/fb708b7d-e018-4a79-a287-3a4979f6a29c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나오미 캠벨의 레전드 생일파티]]></title>
-            <link>https://www.elle.co.kr/article/77828</link>
-            <guid>https://www.elle.co.kr/article/77828</guid>
-            <pubDate>Thu, 25 May 2023 05:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[BTS 뷔와 블랙핑크 리사도 참석한 그 화제의 파티.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/b8591c44-439c-44c5-889c-7c0c39e80ade.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
