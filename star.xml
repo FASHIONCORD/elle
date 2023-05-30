@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 06:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 거야! 한소희와 신현지가 '송혜교 쟁탈전'을 벌인 이유는?]]></title>
+            <link>https://www.elle.co.kr/article/77924</link>
+            <guid>https://www.elle.co.kr/article/77924</guid>
+            <pubDate>Tue, 30 May 2023 06:16:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/27/e3d8f40d-2dda-4d50-9ae6-4dbdaaed34eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[룩에 생기를 불어넣는 주얼리, 어디까지 해봤니?]]></title>
             <link>https://www.elle.co.kr/article/77923</link>
@@ -60,13 +67,6 @@
             <pubDate>Fri, 26 May 2023 15:13:04 GMT</pubDate>
             <content:encoded><![CDATA[시티포레스티벌 2023. 윤성빈, 서준맘과 장은실, 강하나, 김혜선의 클래스를 듣는 즐거움!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/f75c18f7-34e6-4b72-ba32-dab681aa122e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이다해가 신혼여행 갈 때 챙겼다는 반려동물 여권의 정체는?]]></title>
-            <link>https://www.elle.co.kr/article/77899</link>
-            <guid>https://www.elle.co.kr/article/77899</guid>
-            <pubDate>Fri, 26 May 2023 11:11:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/fb19db67-dfeb-48ce-8a81-96bb2dfbc977.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
