@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-05-30T09:13:50.130Z</updated>
+    <updated>2023-05-30T10:14:24.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스포츠 아나운서의 데일리 메이크업 HOW TO]]></title>
+        <id>https://www.elle.co.kr/article/77937</id>
+        <link href="https://www.elle.co.kr/article/77937"/>
+        <updated>2023-05-30T10:13:23.172Z</updated>
+        <content type="html"><![CDATA['분위기 여신' 이나연이 알려줄게요, 고급스럽고 청순한 무드를 자아내는 데일리 메이크업.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내 거야! 한소희와 신현지가 '송혜교 쟁탈전'을 벌인 이유는?]]></title>
         <id>https://www.elle.co.kr/article/77924</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/77905"/>
         <updated>2023-05-26T19:10:22.548Z</updated>
         <content type="html"><![CDATA[“아직 진짜 도전은 마주하지 않았죠.” 달릴 준비는 모두 끝마쳤다. 엔진 풀 가동한 엔하이픈이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클러빙보다 핫한 운동 페스티벌? 시포레 2023]]></title>
-        <id>https://www.elle.co.kr/article/77900</id>
-        <link href="https://www.elle.co.kr/article/77900"/>
-        <updated>2023-05-26T15:13:04.421Z</updated>
-        <content type="html"><![CDATA[시티포레스티벌 2023. 윤성빈, 서준맘과 장은실, 강하나, 김혜선의 클래스를 듣는 즐거움!]]></content>
     </entry>
 </feed>
