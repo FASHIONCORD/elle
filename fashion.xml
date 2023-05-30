@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-05-30T14:13:10.289Z</updated>
+    <updated>2023-05-30T15:14:11.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나의 소중한 금은보화]]></title>
+        <id>https://www.elle.co.kr/article/77401</id>
+        <link href="https://www.elle.co.kr/article/77401"/>
+        <updated>2023-05-30T15:12:56.162Z</updated>
+        <content type="html"><![CDATA[각자의 분야에서 반짝이는 8명의 인물이 저마다의 스토리가 담긴 특별한 워치 주얼리와 함께 &lt;엘...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[룩에 생기를 불어넣는 주얼리, 어디까지 해봤니?]]></title>
         <id>https://www.elle.co.kr/article/77923</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/77846"/>
         <updated>2023-05-26T15:12:26.691Z</updated>
         <content type="html"><![CDATA[날개뼈를 드러낸 셀러브리티들의 과감한 백리스 패션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비드 피크닉]]></title>
-        <id>https://www.elle.co.kr/article/77078</id>
-        <link href="https://www.elle.co.kr/article/77078"/>
-        <updated>2023-05-26T15:12:26.692Z</updated>
-        <content type="html"><![CDATA[봄날의 피크닉을 위한 사랑스러움 한 스푼.]]></content>
     </entry>
 </feed>
