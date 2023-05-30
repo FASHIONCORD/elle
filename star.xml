@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 04:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 05:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[룩에 생기를 불어넣는 주얼리, 어디까지 해봤니?]]></title>
+            <link>https://www.elle.co.kr/article/77923</link>
+            <guid>https://www.elle.co.kr/article/77923</guid>
+            <pubDate>Tue, 30 May 2023 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[네크리스부터 후프 이어링까지! 스타들의 주얼리 스타일링 6.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/27/ca7189b3-7a30-4611-bbc6-d0cf119311c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온전한 백예린]]></title>
             <link>https://www.elle.co.kr/article/77081</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/77899</guid>
             <pubDate>Fri, 26 May 2023 11:11:42 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/fb19db67-dfeb-48ce-8a81-96bb2dfbc977.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이볼부터 숙성회까지! 스타가 방문한 이자카야 3]]></title>
-            <link>https://www.elle.co.kr/article/77897</link>
-            <guid>https://www.elle.co.kr/article/77897</guid>
-            <pubDate>Fri, 26 May 2023 08:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[강민경이 인생 하이볼을 맛본 이자카야와 효민이 먹부림을 부린 프라이빗 선술집 등 일본 감성을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/c40f8799-2c4e-4095-b01e-5100356222aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
