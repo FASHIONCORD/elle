@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 21:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 22:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1214,12 +1214,14 @@
             <guid>https://www.elle.co.kr/article/77654</guid>
             <pubDate>Thu, 18 May 2023 10:12:49 GMT</pubDate>
             <content:encoded><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/189dcdb8-f7aa-4dc5-84b9-69275381f371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/77457</link>
             <guid>https://www.elle.co.kr/article/77457</guid>
             <pubDate>Wed, 10 May 2023 08:15:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/462c20c4-a29d-464c-879a-52331192f17f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
