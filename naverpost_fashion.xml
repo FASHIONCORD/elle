@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 23:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 01:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타들의 SNS 속 가볍고 귀여운 #미니백]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36021661&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36021661&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Thu, 01 Jun 2023 01:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MzFfMTkx/MDAxNjg1NTA4MTYzMzQw.XZbvPKadx64nFJDVzIJZy_Bwzxax4F7Edp4ByxkxNW0g.2s6_87MuPP4_uD6NAZF2aIYlhP0W5JbcuNPzRGRDu0Mg.JPEG/IZsW49KNqoPh_8Z_RzgM_0n_UDEY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['꾸러기미' 가득! 오버롤 팬츠를 입은 스타 5]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36021612&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Feb 2023 01:05:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjdfMjE4/MDAxNjc3NDc5ODY0Nzcx.uAz4kN-5zuqAonK2OnRuYvtmVDnEPELiqnj2aCmR4xMg.yigqBgpy3CoYgI6aq0BFw76FevG1BI1mcr8E9HIKZEsg.JPEG/Ia6SAqn_GbABwF2OF9-AYJ0QfRhQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨라 하디드처럼 힙하게! 조이처럼 러블리하게! #카디건패션]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35543793&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35543793&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 27 Feb 2023 07:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjdfMTQx/MDAxNjc3NDc5NjU4NzAw.5K2JfJkdfWl-gSBDMoyAFcKAGH7OzpxWHWLyDFUQZtog.p9-vRQAdCYnOzMR8hJlqk4uABBhV65hBz2APGiax6KAg.JPEG/ID7EK8sXpjxHwWJMF7PJW_72gWQI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

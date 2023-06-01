@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 23:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 01:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://www.elle.co.kr/article/77968</link>
             <guid>https://www.elle.co.kr/article/77968</guid>
             <pubDate>Tue, 30 May 2023 06:17:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/1fe318ea-2eb8-4712-b9a5-30c7047b995b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023]]></title>
@@ -19,6 +20,7 @@
             <guid>https://www.elle.co.kr/article/77909</guid>
             <pubDate>Fri, 26 May 2023 06:16:35 GMT</pubDate>
             <content:encoded><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/b515b5da-b4b6-4253-9604-e555d7eae095.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고?]]></title>
