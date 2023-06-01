@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 14:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 15:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 안보면 서운 할 전시, ‘입소문’으로 이번주까지 연장 된 '원계홍 기념전']]></title>
+            <link>https://www.elle.co.kr/article/77938</link>
+            <guid>https://www.elle.co.kr/article/77938</guid>
+            <pubDate>Thu, 01 Jun 2023 15:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[탄생 100주년 기념전? 이번주 종료되는 '그&nbsp;너머_&nbsp;원계홍 회고전'은 종로 경희궁길 성곡미술관에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/29/ed3b549b-38e9-4c87-9d2b-3cc7eef68cd8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김중업의 흔적을 좇아, 옛 소라의 성]]></title>
             <link>https://www.elle.co.kr/article/76263</link>
@@ -62,13 +70,6 @@
             <pubDate>Sun, 28 May 2023 15:12:34 GMT</pubDate>
             <content:encoded><![CDATA[리빙과 컬처, 패션을 사랑하는 이들 사이에선 소문난 ‘마르니 마켓’이 드디어 서울을 찾습니다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/642604a7-1417-4eea-9b11-54bee4a8c28c.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[푸바오와 대화할 수 있다면? 이별을 준비하는 강철원 사육사의 뭉클한 진심]]></title>
-            <link>https://www.elle.co.kr/article/77857</link>
-            <guid>https://www.elle.co.kr/article/77857</guid>
-            <pubDate>Sat, 27 May 2023 16:15:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/c1461055-cb8c-43e2-afe7-0640a55fa2a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
