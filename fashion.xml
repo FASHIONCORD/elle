@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-02T09:14:21.534Z</updated>
+    <updated>2023-06-02T10:14:00.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 가방, 요즘 주얼리]]></title>
+        <id>https://www.elle.co.kr/article/77740</id>
+        <link href="https://www.elle.co.kr/article/77740"/>
+        <updated>2023-06-02T10:12:47.293Z</updated>
+        <content type="html"><![CDATA[빅 백과 함께 거리를 누비다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꾸러기미' 가득! 오버롤 팬츠를 입은 스타 5]]></title>
         <id>https://www.elle.co.kr/article/78001</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/77401"/>
         <updated>2023-05-30T15:12:56.162Z</updated>
         <content type="html"><![CDATA[각자의 분야에서 반짝이는 8명의 인물이 저마다의 스토리가 담긴 특별한 워치 주얼리와 함께 &lt;엘...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[룩에 생기를 불어넣는 주얼리, 어디까지 해봤니?]]></title>
-        <id>https://www.elle.co.kr/article/77923</id>
-        <link href="https://www.elle.co.kr/article/77923"/>
-        <updated>2023-05-29T19:10:47.690Z</updated>
-        <content type="html"><![CDATA[네크리스부터 후프 이어링까지! 스타들의 주얼리 스타일링 6.]]></content>
     </entry>
 </feed>
