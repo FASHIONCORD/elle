@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 11:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 12:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량)]]></title>
+            <link>https://www.elle.co.kr/article/78028</link>
+            <guid>https://www.elle.co.kr/article/78028</guid>
+            <pubDate>Fri, 02 Jun 2023 12:24:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/8dc0b476-6467-49c6-b43e-d01c35aa0ef2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
             <link>https://www.elle.co.kr/article/77968</link>
@@ -61,14 +68,6 @@
             <pubDate>Sun, 28 May 2023 22:12:02 GMT</pubDate>
             <content:encoded><![CDATA[세이모 온도를 이끄는 부부, 사현진과 강수연. 같은 온도로 따스하게 펼쳐질 그들의 미래.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/27/bf93bddb-377b-411f-a0d2-f43e31be6c7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023]]></title>
-            <link>https://www.elle.co.kr/article/77909</link>
-            <guid>https://www.elle.co.kr/article/77909</guid>
-            <pubDate>Sun, 28 May 2023 15:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/b515b5da-b4b6-4253-9604-e555d7eae095.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
