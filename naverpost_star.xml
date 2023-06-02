@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ STAR</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 04:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 05:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박신혜와 반클리프 아펠의 반짝이는 봄날]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35966119&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35966119&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 02 Jun 2023 05:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTlfMTQg/MDAxNjg0NDgyMDI5NzQ4.CC3P4Kr3pG8PHL7G96wnhgMdPqR0guZD48jR6S_IkXIg.pxrLq7p7uMYjABQCMLmYS6NTeROPIb6CcOHP-Al6SFIg.JPEG/IsQKup-tktNjLBRw_RPIONHZ_IsA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<엘르> 4월호 커버 주인공은 누구? V is Coming]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35605062&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 11 Oct 2022 08:27:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTFfMjY1/MDAxNjY1NDc2MzU1NDI3.iJ3bB4hYUTgcWSRhsDpa0iDL2b_7WKHzJFwGHPJxazcg.NtEyMQcmprbYk0uFrzPRCOpfH94q5dm7CrexWcmFprcg.PNG/IZVqTTDo5tS-ng533vENBSwNc7eU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹방에 진심이었던 이장우가 일주일 동안 물만 먹었다고?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34576768&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34576768&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 08 Oct 2022 13:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDVfMjc5/MDAxNjY0OTM2NzAzMTUz.SUpW_9kx_J0Te6usWMVzBdXuvhXple0nYSeuhn6dRAgg.CjaNmsKWX8l-3w5mP54rf7jnjwZHurEzhYaB4KlYqBwg.JPEG/ISlSrNajH_0vQvsEJZsrN2vdVFiI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
