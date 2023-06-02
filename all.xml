@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 03:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 04:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1117,6 +1117,7 @@
             <link>https://www.elle.co.kr/article/78020</link>
             <guid>https://www.elle.co.kr/article/78020</guid>
             <pubDate>Thu, 01 Jun 2023 08:17:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/23ace928-0b33-4f02-a719-2dfea74c2a53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선미와 크리스탈이 더 예뻐져서 나타난 이유 (엘르 코리아 ─ 스타)]]></title>
@@ -1124,6 +1125,7 @@
             <guid>https://www.elle.co.kr/article/78015</guid>
             <pubDate>Wed, 31 May 2023 19:10:39 GMT</pubDate>
             <content:encoded><![CDATA[선미가 선택하고, 크리스탈이 애정한 패션 브랜드에 비밀이 숨겨져 있습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/94f3057d-b37e-46b9-b70a-d82ac14b2e84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['꾸러기미' 가득! 오버롤 팬츠를 입은 스타 5 (엘르 코리아 ─ 스타)]]></title>
@@ -1131,12 +1133,14 @@
             <guid>https://www.elle.co.kr/article/78001</guid>
             <pubDate>Wed, 31 May 2023 15:15:45 GMT</pubDate>
             <content:encoded><![CDATA[단조로운 여름 데일리 룩에 변화를 주고 싶다면? 상큼발랄한 오버롤 팬츠에 도전해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/e1b6dce0-329b-497a-a8ce-c145f1ebd738.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/77968</link>
             <guid>https://www.elle.co.kr/article/77968</guid>
             <pubDate>Tue, 30 May 2023 06:17:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/1fe318ea-2eb8-4712-b9a5-30c7047b995b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 안보면 서운 할 전시, ‘입소문’으로 이번주까지 연장 된 '원계홍 기념전' (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1144,6 +1148,7 @@
             <guid>https://www.elle.co.kr/article/77938</guid>
             <pubDate>Sun, 28 May 2023 22:13:21 GMT</pubDate>
             <content:encoded><![CDATA[탄생 100주년 기념전? 이번주 종료되는 '그&nbsp;너머_&nbsp;원계홍 회고전'은 종로 경희궁길 성곡미술관에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/29/ed3b549b-38e9-4c87-9d2b-3cc7eef68cd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김중업의 흔적을 좇아, 옛 소라의 성 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1151,6 +1156,7 @@
             <guid>https://www.elle.co.kr/article/76263</guid>
             <pubDate>Sun, 28 May 2023 15:13:33 GMT</pubDate>
             <content:encoded><![CDATA[제주의 땅과 돌, 바람과 숲이 빚은 건축 그리고 디자인을 찾아서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/29/baee871f-1d82-460d-a081-e315773b01fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밀란 디자인 위크를 만끽한 일주일 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1158,6 +1164,7 @@
             <guid>https://www.elle.co.kr/article/77885</guid>
             <pubDate>Sun, 28 May 2023 15:13:33 GMT</pubDate>
             <content:encoded><![CDATA[도시 곳곳 3000개가 넘는 다양한 전시와 행사로 채워진 2023 밀란 디자인 위크를 만끽한 일주일...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/29/99d431c6-32d7-4984-91d8-40c207e03583.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상하이에서 지금 가장 핫한 전시, '구찌 코스모스' (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1165,6 +1172,7 @@
             <guid>https://www.elle.co.kr/article/77853</guid>
             <pubDate>Sat, 27 May 2023 16:15:25 GMT</pubDate>
             <content:encoded><![CDATA[102년간 차곡차곡 쌓인 역사는 하나의 우주가 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/dbe36bfb-ce50-4b21-b096-008b80d67a47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호그와트 교복 한 벌에 무려 2억! 해리 포터부터 배트맨까지, ‘역대급’ 영화 소품 경매 라인업은? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1172,6 +1180,7 @@
             <guid>https://www.elle.co.kr/article/77930</guid>
             <pubDate>Sat, 27 May 2023 15:12:09 GMT</pubDate>
             <content:encoded><![CDATA[최대 160억 원! 전 세계에서 손꼽히는 대규모 영화 소품 경매의 막이 오른다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/d610ec22-64cb-461f-a31d-fc8e87f7fcd1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세이모온도의 고유한 온도에 관하여 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1179,6 +1188,7 @@
             <guid>https://www.elle.co.kr/article/76288</guid>
             <pubDate>Fri, 26 May 2023 15:13:46 GMT</pubDate>
             <content:encoded><![CDATA[세이모 온도를 이끄는 부부, 사현진과 강수연. 같은 온도로 따스하게 펼쳐질 그들의 미래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/27/bf93bddb-377b-411f-a0d2-f43e31be6c7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1186,6 +1196,7 @@
             <guid>https://www.elle.co.kr/article/77909</guid>
             <pubDate>Fri, 26 May 2023 06:16:35 GMT</pubDate>
             <content:encoded><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/b515b5da-b4b6-4253-9604-e555d7eae095.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1283,18 +1294,21 @@
             <guid>https://www.elle.co.kr/article/78078</guid>
             <pubDate>Fri, 02 Jun 2023 03:15:20 GMT</pubDate>
             <content:encoded><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/9e414706-1f9d-4ca0-bd02-4252a7e4547b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78028</link>
             <guid>https://www.elle.co.kr/article/78028</guid>
             <pubDate>Wed, 31 May 2023 11:14:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/8dc0b476-6467-49c6-b43e-d01c35aa0ef2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/77968</link>
             <guid>https://www.elle.co.kr/article/77968</guid>
             <pubDate>Tue, 30 May 2023 06:17:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/1fe318ea-2eb8-4712-b9a5-30c7047b995b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호그와트 교복 한 벌에 무려 2억! 해리 포터부터 배트맨까지, ‘역대급’ 영화 소품 경매 라인업은? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1302,6 +1316,7 @@
             <guid>https://www.elle.co.kr/article/77930</guid>
             <pubDate>Sat, 27 May 2023 15:12:09 GMT</pubDate>
             <content:encoded><![CDATA[최대 160억 원! 전 세계에서 손꼽히는 대규모 영화 소품 경매의 막이 오른다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/d610ec22-64cb-461f-a31d-fc8e87f7fcd1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[푸바오와 대화할 수 있다면? 이별을 준비하는 강철원 사육사의 뭉클한 진심 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1365,6 +1380,7 @@
             <guid>https://www.elle.co.kr/article/78053</guid>
             <pubDate>Thu, 01 Jun 2023 15:14:24 GMT</pubDate>
             <content:encoded><![CDATA[새 시대의 문을 열, 두 명의 피터에 주목하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/c0318117-f0c2-492a-96c2-743fcd3a3d29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 서울국제도서전에서 '엘르 데코' #같이읽어요 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1372,6 +1388,7 @@
             <guid>https://www.elle.co.kr/article/78036</guid>
             <pubDate>Thu, 01 Jun 2023 03:12:21 GMT</pubDate>
             <content:encoded><![CDATA['엘르 데코'와 레어로우가 함께 준비한 ‘코-리딩 라운지’ 미리보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/efd406f8-b882-43a5-9ace-3ad758ea45da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 안보면 서운 할 전시, ‘입소문’으로 이번주까지 연장 된 '원계홍 기념전' (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1379,6 +1396,7 @@
             <guid>https://www.elle.co.kr/article/77938</guid>
             <pubDate>Sun, 28 May 2023 22:13:21 GMT</pubDate>
             <content:encoded><![CDATA[탄생 100주년 기념전? 이번주 종료되는 '그&nbsp;너머_&nbsp;원계홍 회고전'은 종로 경희궁길 성곡미술관에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/29/ed3b549b-38e9-4c87-9d2b-3cc7eef68cd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김중업의 흔적을 좇아, 옛 소라의 성 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1386,6 +1404,7 @@
             <guid>https://www.elle.co.kr/article/76263</guid>
             <pubDate>Sun, 28 May 2023 15:13:33 GMT</pubDate>
             <content:encoded><![CDATA[제주의 땅과 돌, 바람과 숲이 빚은 건축 그리고 디자인을 찾아서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/29/baee871f-1d82-460d-a081-e315773b01fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밀란 디자인 위크를 만끽한 일주일 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
