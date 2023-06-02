@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 19:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 20:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김연경이 한국 최초 여성 IOC 위원에 도전한다 (ft. 경쟁 선수들)]]></title>
+            <link>https://www.elle.co.kr/article/78062</link>
+            <guid>https://www.elle.co.kr/article/78062</guid>
+            <pubDate>Fri, 02 Jun 2023 20:13:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/b4c8db3a-1c51-4b25-83ac-c1a9a55a8ce7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 서울국제도서전에서 '엘르 데코' #같이읽어요]]></title>
             <link>https://www.elle.co.kr/article/78036</link>
@@ -60,14 +67,6 @@
             <pubDate>Wed, 31 May 2023 11:13:41 GMT</pubDate>
             <content:encoded><![CDATA[102년간 차곡차곡 쌓인 역사는 하나의 우주가 된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/dbe36bfb-ce50-4b21-b096-008b80d67a47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호그와트 교복 한 벌에 무려 2억! 해리 포터부터 배트맨까지, ‘역대급’ 영화 소품 경매 라인업은?]]></title>
-            <link>https://www.elle.co.kr/article/77930</link>
-            <guid>https://www.elle.co.kr/article/77930</guid>
-            <pubDate>Tue, 30 May 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[최대 160억 원! 전 세계에서 손꼽히는 대규모 영화 소품 경매의 막이 오른다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/d610ec22-64cb-461f-a31d-fc8e87f7fcd1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
