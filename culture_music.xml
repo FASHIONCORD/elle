@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/music</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2023-06-02T14:13:55.639Z</updated>
+    <updated>2023-06-02T15:13:22.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왜 해외 머글들이 뉴진스와 피프티피프티의 노래를 듣게 된 걸까?]]></title>
+        <id>https://www.elle.co.kr/article/78082</id>
+        <link href="https://www.elle.co.kr/article/78082"/>
+        <updated>2023-06-02T15:12:46.143Z</updated>
+        <content type="html"><![CDATA[스포티파이와 빌보드핫100 에서 써내려가고 있는 K팝 아티스트들의 놀라운 기록. K팝은 이제 '듣...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드디어 부활한 락 페스티벌과 혼네, 샘 스미스 내한까지! 2023 공연 라인업.list]]></title>
         <id>https://www.elle.co.kr/article/78098</id>
@@ -84,11 +91,5 @@
         <link href="https://www.elle.co.kr/article/76493"/>
         <updated>2023-04-05T12:29:32.682Z</updated>
         <content type="html"><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/76459</id>
-        <link href="https://www.elle.co.kr/article/76459"/>
-        <updated>2023-04-04T07:13:09.622Z</updated>
     </entry>
 </feed>
