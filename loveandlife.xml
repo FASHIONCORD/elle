@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 01:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 02:48:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이볼부터 숙성회까지! 스타가 방문한 이자카야 3]]></title>
+            <link>https://www.elle.co.kr/article/77897</link>
+            <guid>https://www.elle.co.kr/article/77897</guid>
+            <pubDate>Fri, 02 Jun 2023 02:48:49 GMT</pubDate>
+            <content:encoded><![CDATA[강민경이 인생 하이볼을 맛본 이자카야와 효민이 먹부림을 부린 프라이빗 선술집 등 일본 감성을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/c40f8799-2c4e-4095-b01e-5100356222aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸꾸옥에서 나는 몇살쯤일까?]]></title>
             <link>https://www.elle.co.kr/article/77079</link>
@@ -59,14 +67,6 @@
             <pubDate>Tue, 23 May 2023 10:14:36 GMT</pubDate>
             <content:encoded><![CDATA[엔데믹 이후 더 빠르게 돌아가는 세상의 시계, 그저 멈췄다 가고 싶다면.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/61a1f45c-e9db-4d51-80d6-c87d452889c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몰디브에 기대하는 모든 게 이곳에! 조알리 리조트]]></title>
-            <link>https://www.elle.co.kr/article/77072</link>
-            <guid>https://www.elle.co.kr/article/77072</guid>
-            <pubDate>Tue, 23 May 2023 08:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[브라이빗 비치, 코앞에 펼쳐진 바다, 낮의 열기를 시원하게 날려버릴 술과 음악까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/fcfd37bd-78c2-4ba0-b52e-d7755d9c477d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
