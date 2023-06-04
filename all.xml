@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 03:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 04:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -975,6 +975,7 @@
             <guid>https://www.elle.co.kr/article/77597</guid>
             <pubDate>Sat, 03 Jun 2023 19:11:18 GMT</pubDate>
             <content:encoded><![CDATA[눈부시고도 황홀하게, 반클리프 아펠로 물든 박신혜의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/183525bd-8710-4d58-a848-c1aa5dc06a83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프로필 사진 업데이트 각! 스타들처럼 인생 사진 남기기 (feat. 장미) (엘르 코리아 ─ 패션)]]></title>
@@ -982,6 +983,7 @@
             <guid>https://www.elle.co.kr/article/78035</guid>
             <pubDate>Thu, 01 Jun 2023 19:11:19 GMT</pubDate>
             <content:encoded><![CDATA[지금 가장 예쁜 꽃, 활짝 핀 장미 옆에서 인생 사진 남기고 싶다면 이들처럼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/fc2c2649-94d9-489c-a7c8-25286038569b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자크뮈스의 웅장한 캠페인 속 숨어 있던 힌트! 지금 가장 뜨거운 슈즈 3 (엘르 코리아 ─ 패션)]]></title>
@@ -989,6 +991,7 @@
             <guid>https://www.elle.co.kr/article/78022</guid>
             <pubDate>Fri, 02 Jun 2023 19:10:04 GMT</pubDate>
             <content:encoded><![CDATA[축구화와 프라다의 절묘한 만남에 이어 니고가 이끄는 겐조의 첫 슈즈 비주얼은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/7b4eeb0e-da4f-4034-81c0-fc5214402507.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선미와 크리스탈이 더 예뻐져서 나타난 이유 (엘르 코리아 ─ 패션)]]></title>
@@ -996,6 +999,7 @@
             <guid>https://www.elle.co.kr/article/78015</guid>
             <pubDate>Wed, 31 May 2023 19:10:39 GMT</pubDate>
             <content:encoded><![CDATA[선미가 선택하고, 크리스탈이 애정한 패션 브랜드에 비밀이 숨겨져 있습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/94f3057d-b37e-46b9-b70a-d82ac14b2e84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 가방, 요즘 주얼리 (엘르 코리아 ─ 패션)]]></title>
@@ -1003,6 +1007,7 @@
             <guid>https://www.elle.co.kr/article/77740</guid>
             <pubDate>Fri, 02 Jun 2023 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[빅 백과 함께 거리를 누비다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/b37a71c8-833c-4a89-a311-7fbc4cab567e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['꾸러기미' 가득! 오버롤 팬츠를 입은 스타 5 (엘르 코리아 ─ 패션)]]></title>
@@ -1010,6 +1015,7 @@
             <guid>https://www.elle.co.kr/article/78001</guid>
             <pubDate>Wed, 31 May 2023 15:15:45 GMT</pubDate>
             <content:encoded><![CDATA[단조로운 여름 데일리 룩에 변화를 주고 싶다면? 상큼발랄한 오버롤 팬츠에 도전해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/e1b6dce0-329b-497a-a8ce-c145f1ebd738.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화적인 순간이 담긴 샤넬 2023/2024 크루즈 컬렉션 (엘르 코리아 ─ 패션)]]></title>
@@ -1017,6 +1023,7 @@
             <guid>https://www.elle.co.kr/article/77992</guid>
             <pubDate>Wed, 31 May 2023 19:10:15 GMT</pubDate>
             <content:encoded><![CDATA[역동적인 도시 로스앤젤레스의 자유를 담은 샤넬의 꿈 같은 장면들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/5cffc965-745a-4c57-9b60-e3d0ff4c72eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올여름 핫한 수영복 스타일의 영감은 여기서! (엘르 코리아 ─ 패션)]]></title>
@@ -1024,6 +1031,7 @@
             <guid>https://www.elle.co.kr/article/77945</guid>
             <pubDate>Wed, 31 May 2023 06:16:39 GMT</pubDate>
             <content:encoded><![CDATA[셀러브리티들의 다채로운 스윔웨어 패션을 힌트 삼아 다가올 여름 바캉스를 준비해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/99063fa2-cb2f-455a-af1d-b18a60261633.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름엔 향수 대신 이거! (엘르 코리아 ─ 뷰티)]]></title>
@@ -1080,6 +1088,13 @@
             <pubDate>Wed, 31 May 2023 09:22:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로! (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/78078</link>
+            <guid>https://www.elle.co.kr/article/78078</guid>
+            <pubDate>Fri, 02 Jun 2023 03:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[6월의 첫 주말엔 여기로! 로맨틱한 디너를 위한 레스토랑 3 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78073</link>
             <guid>https://www.elle.co.kr/article/78073</guid>
@@ -1125,10 +1140,10 @@
             <content:encoded><![CDATA[“음악은 결국 기쁨이죠. 평생 웃고 싶어요.” 사계절 따스한 폴킴의 음악, 다정하게 흐르는 그...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량) (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/78028</link>
-            <guid>https://www.elle.co.kr/article/78028</guid>
-            <pubDate>Wed, 31 May 2023 11:14:02 GMT</pubDate>
+            <title><![CDATA[드디어 부활한 락 페스티벌과 혼네, 샘 스미스 내한까지! 2023 공연 라인업.list (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/78098</link>
+            <guid>https://www.elle.co.kr/article/78098</guid>
+            <pubDate>Fri, 02 Jun 2023 12:25:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로! (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1175,13 +1190,6 @@
             <guid>https://www.elle.co.kr/article/77938</guid>
             <pubDate>Sun, 28 May 2023 22:13:21 GMT</pubDate>
             <content:encoded><![CDATA[탄생 100주년 기념전? 이번주 종료되는 '그&nbsp;너머_&nbsp;원계홍 회고전'은 종로 경희궁길 성곡미술관에...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김중업의 흔적을 좇아, 옛 소라의 성 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/76263</link>
-            <guid>https://www.elle.co.kr/article/76263</guid>
-            <pubDate>Sun, 28 May 2023 15:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[제주의 땅과 돌, 바람과 숲이 빚은 건축 그리고 디자인을 찾아서.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[왜 해외 머글들이 뉴진스와 피프티피프티의 노래를 듣게 된 걸까? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1271,11 +1279,17 @@
             <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[영화 자체로 재밌다고 소문난 ‘자우림, 더 원더랜드’ (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/78113</link>
+            <guid>https://www.elle.co.kr/article/78113</guid>
+            <pubDate>Sun, 04 Jun 2023 04:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[“120분은 너무 짧아요.” 밴드 자우림의 25주년의 역사를 다 알지 못하더라도 재밌다고 소문난 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[배우 이주승과 십년지기 절친 천우희, 알고 보니 친척 누나 바이브 그 자체? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78102</link>
             <guid>https://www.elle.co.kr/article/78102</guid>
             <pubDate>Fri, 02 Jun 2023 20:13:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/5af70eec-a929-4935-8da0-4b57b669d187.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1283,21 +1297,18 @@
             <guid>https://www.elle.co.kr/article/78078</guid>
             <pubDate>Fri, 02 Jun 2023 03:15:20 GMT</pubDate>
             <content:encoded><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/9e414706-1f9d-4ca0-bd02-4252a7e4547b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78028</link>
             <guid>https://www.elle.co.kr/article/78028</guid>
             <pubDate>Wed, 31 May 2023 11:14:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/8dc0b476-6467-49c6-b43e-d01c35aa0ef2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/77968</link>
             <guid>https://www.elle.co.kr/article/77968</guid>
             <pubDate>Tue, 30 May 2023 06:17:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/1fe318ea-2eb8-4712-b9a5-30c7047b995b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호그와트 교복 한 벌에 무려 2억! 해리 포터부터 배트맨까지, ‘역대급’ 영화 소품 경매 라인업은? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1349,12 +1360,6 @@
             <link>https://www.elle.co.kr/article/77645</link>
             <guid>https://www.elle.co.kr/article/77645</guid>
             <pubDate>Thu, 18 May 2023 08:15:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[류승범이 아내와의 첫 만남에서 말도 걸지 못한 이유 (ft. 뽀뽀뽀 출연?) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/77632</link>
-            <guid>https://www.elle.co.kr/article/77632</guid>
-            <pubDate>Thu, 18 May 2023 03:14:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[김치바게트 작가 실키가 프랑스로 향한 이유 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>

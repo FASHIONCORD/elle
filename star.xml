@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-04T03:07:09.679Z</updated>
+    <updated>2023-06-04T04:15:09.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로!]]></title>
+        <id>https://www.elle.co.kr/article/78078</id>
+        <link href="https://www.elle.co.kr/article/78078"/>
+        <updated>2023-06-04T04:14:12.493Z</updated>
+        <content type="html"><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6월의 첫 주말엔 여기로! 로맨틱한 디너를 위한 레스토랑 3]]></title>
         <id>https://www.elle.co.kr/article/78073</id>
@@ -49,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/78016"/>
         <updated>2023-06-01T10:15:38.245Z</updated>
         <content type="html"><![CDATA[“음악은 결국 기쁨이죠. 평생 웃고 싶어요.” 사계절 따스한 폴킴의 음악, 다정하게 흐르는 그...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량)]]></title>
-        <id>https://www.elle.co.kr/article/78028</id>
-        <link href="https://www.elle.co.kr/article/78028"/>
-        <updated>2023-06-01T10:15:38.246Z</updated>
     </entry>
 </feed>
