@@ -1,70 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 05:13:28 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[흰 티에 청바지, 센스 있게 입어볼까?]]></title>
-            <link>https://www.elle.co.kr/article/78101</link>
-            <guid>https://www.elle.co.kr/article/78101</guid>
-            <pubDate>Sun, 04 Jun 2023 19:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[심플한데 가장 스타일리시한 패션! 화이트 티셔츠에 데님 팬츠면 충분합니다~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/37c1c979-b4de-4cf1-87f5-8c5e5e2cffb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케빈오가 왜 '하트시그널4'에?! 공효진-케빈오 부부, 의외의 근황 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/78096</link>
-            <guid>https://www.elle.co.kr/article/78096</guid>
-            <pubDate>Sun, 04 Jun 2023 19:10:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/5acedabe-9948-43fc-9931-29e407e68f47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로!]]></title>
-            <link>https://www.elle.co.kr/article/78078</link>
-            <guid>https://www.elle.co.kr/article/78078</guid>
-            <pubDate>Sun, 04 Jun 2023 04:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/9e414706-1f9d-4ca0-bd02-4252a7e4547b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월의 첫 주말엔 여기로! 로맨틱한 디너를 위한 레스토랑 3]]></title>
-            <link>https://www.elle.co.kr/article/78073</link>
-            <guid>https://www.elle.co.kr/article/78073</guid>
-            <pubDate>Sat, 03 Jun 2023 19:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[이혜영이 다녀온 노을 뷰 와인 바부터 맛으로 아이비를 황홀하게 만든 레스토랑까지 소개합니다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/0acb8f4e-e61a-4183-a921-f18c3c3c8265.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리, 지하철서 만난 팬 '손편지'에 하트로 화답? (ft.근황 모음)]]></title>
-            <link>https://www.elle.co.kr/article/78070</link>
-            <guid>https://www.elle.co.kr/article/78070</guid>
-            <pubDate>Fri, 02 Jun 2023 20:12:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/c78569f2-5e8b-4105-8485-b520eb8ab28c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소유진, 남편 백종원 요리 실력에도 '슬림한' 체형 유지하는 비결은 바로 이것? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/78069</link>
-            <guid>https://www.elle.co.kr/article/78069</guid>
-            <pubDate>Fri, 02 Jun 2023 19:10:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/b249fca6-88ed-4bad-b863-fcc479079be0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사상 세 번째 국방부 유해발굴감식단 홍보대사 된 RM의 늠름 그 자체 소감.txt]]></title>
-            <link>https://www.elle.co.kr/article/78066</link>
-            <guid>https://www.elle.co.kr/article/78066</guid>
-            <pubDate>Fri, 02 Jun 2023 10:13:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/71b22cdc-6d9b-48e8-8fa3-2ae07e865526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김연경이 한국 최초 여성 IOC 위원에 도전한다 (ft. 경쟁 선수들)]]></title>
-            <link>https://www.elle.co.kr/article/78062</link>
-            <guid>https://www.elle.co.kr/article/78062</guid>
-            <pubDate>Fri, 02 Jun 2023 03:14:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/b4c8db3a-1c51-4b25-83ac-c1a9a55a8ce7.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-06-05T06:17:05.865Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흰 티에 청바지, 센스 있게 입어볼까?]]></title>
+        <id>https://www.elle.co.kr/article/78101</id>
+        <link href="https://www.elle.co.kr/article/78101"/>
+        <updated>2023-06-04T19:10:12.960Z</updated>
+        <content type="html"><![CDATA[심플한데 가장 스타일리시한 패션! 화이트 티셔츠에 데님 팬츠면 충분합니다~]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케빈오가 왜 '하트시그널4'에?! 공효진-케빈오 부부, 의외의 근황 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/78096</id>
+        <link href="https://www.elle.co.kr/article/78096"/>
+        <updated>2023-06-04T19:10:12.970Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로!]]></title>
+        <id>https://www.elle.co.kr/article/78078</id>
+        <link href="https://www.elle.co.kr/article/78078"/>
+        <updated>2023-06-04T04:14:12.493Z</updated>
+        <content type="html"><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6월의 첫 주말엔 여기로! 로맨틱한 디너를 위한 레스토랑 3]]></title>
+        <id>https://www.elle.co.kr/article/78073</id>
+        <link href="https://www.elle.co.kr/article/78073"/>
+        <updated>2023-06-03T19:11:37.020Z</updated>
+        <content type="html"><![CDATA[이혜영이 다녀온 노을 뷰 와인 바부터 맛으로 아이비를 황홀하게 만든 레스토랑까지 소개합니다....]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이효리, 지하철서 만난 팬 '손편지'에 하트로 화답? (ft.근황 모음)]]></title>
+        <id>https://www.elle.co.kr/article/78070</id>
+        <link href="https://www.elle.co.kr/article/78070"/>
+        <updated>2023-06-02T20:12:51.452Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소유진, 남편 백종원 요리 실력에도 '슬림한' 체형 유지하는 비결은 바로 이것? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/78069</id>
+        <link href="https://www.elle.co.kr/article/78069"/>
+        <updated>2023-06-02T19:10:26.438Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사상 세 번째 국방부 유해발굴감식단 홍보대사 된 RM의 늠름 그 자체 소감.txt]]></title>
+        <id>https://www.elle.co.kr/article/78066</id>
+        <link href="https://www.elle.co.kr/article/78066"/>
+        <updated>2023-06-02T10:13:05.697Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연경이 한국 최초 여성 IOC 위원에 도전한다 (ft. 경쟁 선수들)]]></title>
+        <id>https://www.elle.co.kr/article/78062</id>
+        <link href="https://www.elle.co.kr/article/78062"/>
+        <updated>2023-06-02T03:14:54.077Z</updated>
+    </entry>
+</feed>
