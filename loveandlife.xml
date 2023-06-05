@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 19:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 20:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3만원대 비건 한식 레스토랑을 가봤다 #무해한삶_2]]></title>
+            <link>https://www.elle.co.kr/article/78075</link>
+            <guid>https://www.elle.co.kr/article/78075</guid>
+            <pubDate>Mon, 05 Jun 2023 20:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[기념일에 가기 좋은 비건 한식 레스토랑과 플라스틱 지옥에서 구원할 간이 정수기 추천]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/2ea83f7c-7893-4573-8499-34f97a9f367d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월의 첫 주말엔 여기로! 로맨틱한 디너를 위한 레스토랑 3]]></title>
             <link>https://www.elle.co.kr/article/78073</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/77781</guid>
             <pubDate>Wed, 31 May 2023 09:24:33 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/b59ea290-3719-4711-a712-ceed1c95f2b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월엔 여름꽃 구경! 보랏빛 물결 가득한 전국 라벤더 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/77763</link>
-            <guid>https://www.elle.co.kr/article/77763</guid>
-            <pubDate>Sat, 27 May 2023 16:15:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/3dc44142-fc32-41ba-bae1-2e9714d25e31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
