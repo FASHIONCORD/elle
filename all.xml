@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 23:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 01:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1276,12 +1276,14 @@
             <guid>https://www.elle.co.kr/article/78113</guid>
             <pubDate>Sun, 04 Jun 2023 04:14:39 GMT</pubDate>
             <content:encoded><![CDATA[“120분은 너무 짧아요.” 밴드 자우림의 25주년의 역사를 다 알지 못하더라도 재밌다고 소문난 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/04/137dc7ca-fc86-4a00-9554-0764033c851d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 이주승과 십년지기 절친 천우희, 알고 보니 친척 누나 바이브 그 자체? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78102</link>
             <guid>https://www.elle.co.kr/article/78102</guid>
             <pubDate>Fri, 02 Jun 2023 20:13:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/5af70eec-a929-4935-8da0-4b57b669d187.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1289,6 +1291,7 @@
             <guid>https://www.elle.co.kr/article/78078</guid>
             <pubDate>Fri, 02 Jun 2023 03:15:20 GMT</pubDate>
             <content:encoded><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/9e414706-1f9d-4ca0-bd02-4252a7e4547b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1507,18 +1510,21 @@
             <guid>https://www.elle.co.kr/ellevoice/essay/77944</guid>
             <pubDate>Fri, 02 Jun 2023 09:14:20 GMT</pubDate>
             <content:encoded><![CDATA[삼성물산 최연소 임원이 창업에 도전하게 된 이유?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/bf289aa3-f0b6-4247-811b-9719190918ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벌써 폭염·폭우 괴담 도는 2023년 여름, 진짜로 매일 비 올까? (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/77865</link>
             <guid>https://www.elle.co.kr/article/77865</guid>
             <pubDate>Thu, 01 Jun 2023 10:17:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/151301f8-07c0-4320-9799-b0420db712a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일단 지르고 보는 당신! '카드 리볼빙' 주의보_돈쓸신잡 #99 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/77851</link>
             <guid>https://www.elle.co.kr/article/77851</guid>
             <pubDate>Thu, 01 Jun 2023 04:18:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/dec2f2ce-de7c-4a59-8429-1488c6c5d8fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 서울국제도서전과 <엘르>가 만났다 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1526,6 +1532,7 @@
             <guid>https://www.elle.co.kr/article/77717</guid>
             <pubDate>Wed, 31 May 2023 02:53:10 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 책 축제, ‘서울국제도서전’에 &lt;엘르보이스&gt;와 &lt;엘르 데코&gt;가 함께 합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/cff62f25-84e6-4e65-838b-c7689357c113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수묵화부터 픽셀, 추상화까지! 5월, 신록과 함께 찾아온 전시 3 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1533,24 +1540,28 @@
             <guid>https://www.elle.co.kr/article/77701</guid>
             <pubDate>Sat, 20 May 2023 06:15:50 GMT</pubDate>
             <content:encoded><![CDATA[미술 산책을 나서기에 더할 나위 없이 좋은 나날들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/fb4f0be4-b65d-4294-9de6-8fb2adfa8f22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전효성부터 김혜수, 고민시까지! 5.18 의미 되새긴 스타들.list (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/77656</link>
             <guid>https://www.elle.co.kr/article/77656</guid>
             <pubDate>Tue, 30 May 2023 01:03:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/3797efff-398c-4ab1-a796-fffc5689a207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[약은 약사에게, 부자가 되는 법은 부자에게! 그들이 돈을 잘 벌 수밖에 없는 이유는?_돈쓸신잡 #98 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/77644</link>
             <guid>https://www.elle.co.kr/article/77644</guid>
             <pubDate>Thu, 25 May 2023 07:14:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/d4073d26-369c-429e-8c0d-3439024c2e0c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노상 음주 시대 끝?! 올해부터 바뀌는 금주 구역 정보 모음.zip (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/77614</link>
             <guid>https://www.elle.co.kr/article/77614</guid>
             <pubDate>Thu, 25 May 2023 04:17:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/0df2ecfc-6cc9-46dd-97b9-5fb540460def.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
