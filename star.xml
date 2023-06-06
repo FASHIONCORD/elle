@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 17:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 18:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숨길 수 없는 조현아]]></title>
+            <link>https://www.elle.co.kr/article/78137</link>
+            <guid>https://www.elle.co.kr/article/78137</guid>
+            <pubDate>Tue, 06 Jun 2023 18:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[단어 하나에 공감하며 눈물 흘리고, 친구 고민 들어주느라 10시간 통화하는 조현아. 솔직한 그가...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/be246660-1b65-4d31-9773-c1ddff9dcccb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[군대에서 아빠 되는 차서원! 엄현경과의 결혼-임신 시그널 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/78132</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/78102</guid>
             <pubDate>Mon, 05 Jun 2023 07:12:12 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/5af70eec-a929-4935-8da0-4b57b669d187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흰 티에 청바지, 센스 있게 입어볼까?]]></title>
-            <link>https://www.elle.co.kr/article/78101</link>
-            <guid>https://www.elle.co.kr/article/78101</guid>
-            <pubDate>Sun, 04 Jun 2023 19:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[심플한데 가장 스타일리시한 패션! 화이트 티셔츠에 데님 팬츠면 충분합니다~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/37c1c979-b4de-4cf1-87f5-8c5e5e2cffb6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
