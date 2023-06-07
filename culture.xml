@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-06-07T06:17:08.213Z</updated>
+    <updated>2023-06-07T07:13:20.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지역의 전통과 장인 정신을 품은 현대적인 물건들]]></title>
+        <id>https://www.elle.co.kr/article/78085</id>
+        <link href="https://www.elle.co.kr/article/78085"/>
+        <updated>2023-06-07T07:12:20.324Z</updated>
+        <content type="html"><![CDATA[많은 것이 사라지고 변하는 세상에서 변치 않는 전통과 지역 장인의 정신을 품은 아주 현대적인...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 이주승과 십년지기 절친 천우희, 알고 보니 친척 누나 바이브 그 자체?]]></title>
         <id>https://www.elle.co.kr/article/78102</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/78036"/>
         <updated>2023-06-02T15:12:37.057Z</updated>
         <content type="html"><![CDATA['엘르 데코'와 레어로우가 함께 준비한 ‘코-리딩 라운지’ 미리보기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량)]]></title>
-        <id>https://www.elle.co.kr/article/78028</id>
-        <link href="https://www.elle.co.kr/article/78028"/>
-        <updated>2023-06-02T12:24:52.720Z</updated>
     </entry>
 </feed>
