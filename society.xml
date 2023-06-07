@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-06-07T08:17:55.169Z</updated>
+    <updated>2023-06-07T09:21:05.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새벽 잠 깨운 오발령 위급 재난 문자, 실제 상황에선 어떻게 해야 할까?]]></title>
+        <id>https://www.elle.co.kr/article/78003</id>
+        <link href="https://www.elle.co.kr/article/78003"/>
+        <updated>2023-06-07T09:21:04.271Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나라를 위해 목숨 바친 순국선열을 기리는 날! '현충일' 기념 명소 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/77990</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/77656</id>
         <link href="https://www.elle.co.kr/article/77656"/>
         <updated>2023-05-30T01:03:14.517Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약은 약사에게, 부자가 되는 법은 부자에게! 그들이 돈을 잘 벌 수밖에 없는 이유는?_돈쓸신잡 #98]]></title>
-        <id>https://www.elle.co.kr/article/77644</id>
-        <link href="https://www.elle.co.kr/article/77644"/>
-        <updated>2023-05-25T07:14:32.656Z</updated>
     </entry>
 </feed>
