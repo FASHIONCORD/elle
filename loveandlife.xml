@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-06-07T15:14:25.764Z</updated>
+    <updated>2023-06-07T16:17:01.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[커피 못 마시는 사람들을 위한 논커피 음료 맛집 2 #마실마실]]></title>
+        <id>https://www.elle.co.kr/article/78093</id>
+        <link href="https://www.elle.co.kr/article/78093"/>
+        <updated>2023-06-07T16:16:49.579Z</updated>
+        <content type="html"><![CDATA[메뉴판 구석에 자리잡은 논커피가 아냐! 논커피 중심의 음료 가게와 티 카페를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3만원대 비건 한식 레스토랑을 가봤다 #무해한삶_2]]></title>
         <id>https://www.elle.co.kr/article/78075</id>
@@ -51,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/77079"/>
         <updated>2023-06-01T19:12:40.006Z</updated>
         <content type="html"><![CDATA[에메랄드빛 바다, 그보다 더 알록달록 빛나는 푸꾸옥이란 세계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴가 계획은 지금부터! 6월에 풀리는 국내 여행 할인 정보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/77781</id>
-        <link href="https://www.elle.co.kr/article/77781"/>
-        <updated>2023-05-31T09:24:33.410Z</updated>
     </entry>
 </feed>
