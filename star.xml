@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-08T14:13:22.767Z</updated>
+    <updated>2023-06-08T15:15:30.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5kg 빼고 건강하게 유지 중인 송가인, 체중 감량할 때 마셨다는 차는? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/78219</id>
+        <link href="https://www.elle.co.kr/article/78219"/>
+        <updated>2023-06-08T15:13:41.187Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타가 다녀간 전시회는 어디? 지금 꼭 봐야하는 전시 3]]></title>
+        <id>https://www.elle.co.kr/article/78207</id>
+        <link href="https://www.elle.co.kr/article/78207"/>
+        <updated>2023-06-08T15:13:41.190Z</updated>
+        <content type="html"><![CDATA[일상에 새로운 자극과 영감이 필요하다면 주목! 셀러브리티가 방문 도장 찍고 온 핫한 전시를 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무지개 회원 출신 커플, 엄현경-차서원! 다시 보는 '나 혼자 산다' 출연 모습.avi]]></title>
+        <id>https://www.elle.co.kr/article/78186</id>
+        <link href="https://www.elle.co.kr/article/78186"/>
+        <updated>2023-06-08T15:13:41.193Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민낯 가림용은 옛말! 안경에 푹 빠진 셀러브리티 5]]></title>
         <id>https://www.elle.co.kr/article/78168</id>
@@ -38,25 +57,5 @@
         <id>https://www.elle.co.kr/article/78150</id>
         <link href="https://www.elle.co.kr/article/78150"/>
         <updated>2023-06-07T07:12:12.096Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄에서 만난 제니와 샤넬]]></title>
-        <id>https://www.elle.co.kr/article/78143</id>
-        <link href="https://www.elle.co.kr/article/78143"/>
-        <updated>2023-06-06T19:10:40.186Z</updated>
-        <content type="html"><![CDATA[지난 12월 세네갈 다카르에서 선보인 샤넬의 2022/23 공방 컬렉션이 6월 1일 도쿄 빅사이트에서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숨길 수 없는 조현아]]></title>
-        <id>https://www.elle.co.kr/article/78137</id>
-        <link href="https://www.elle.co.kr/article/78137"/>
-        <updated>2023-06-06T18:15:09.565Z</updated>
-        <content type="html"><![CDATA[단어 하나에 공감하며 눈물 흘리고, 친구 고민 들어주느라 10시간 통화하는 조현아. 솔직한 그가...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군대에서 아빠 되는 차서원! 엄현경과의 결혼-임신 시그널 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/78132</id>
-        <link href="https://www.elle.co.kr/article/78132"/>
-        <updated>2023-06-06T02:53:45.898Z</updated>
     </entry>
 </feed>
