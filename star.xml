@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 08:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 09:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민낯 가림용은 옛말! 안경에 푹 빠진 셀러브리티 5]]></title>
+            <link>https://www.elle.co.kr/article/78168</link>
+            <guid>https://www.elle.co.kr/article/78168</guid>
+            <pubDate>Thu, 08 Jun 2023 09:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[문별, 슈화, 예리 등 패션 센스 좋은 스타들의 안경 스타일링을 모아봤어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/d730748c-878a-442e-a58a-21284f2320c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프린세스 미연의 핑크 유니버스]]></title>
             <link>https://www.elle.co.kr/article/78167</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/78132</guid>
             <pubDate>Tue, 06 Jun 2023 02:53:45 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/3322ea0e-b875-4ff6-bcfd-6165027dbf89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[80세 시인 신달자가 마주한 몸]]></title>
-            <link>https://www.elle.co.kr/article/78127</link>
-            <guid>https://www.elle.co.kr/article/78127</guid>
-            <pubDate>Mon, 05 Jun 2023 19:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[늙어가는 몸은 자신에게도 낯선 존재다. 시인 신달자가 팔순에야 비로소 기록한 몸의 말, 그 낱...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/ee637201-446d-463f-aaa4-9dfa93547f25.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
