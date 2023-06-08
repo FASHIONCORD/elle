@@ -1,62 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-08T06:17:10.538Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[프린세스 미연의 핑크 유니버스]]></title>
-        <id>https://www.elle.co.kr/article/78167</id>
-        <link href="https://www.elle.co.kr/article/78167"/>
-        <updated>2023-06-08T03:17:52.540Z</updated>
-        <content type="html"><![CDATA[미연, 질스튜어트 뷰티의 향기에 둘러싸인 채 뽐내던 공주 아우라.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10CM와 부동의 첫사랑]]></title>
-        <id>https://www.elle.co.kr/article/78158</id>
-        <link href="https://www.elle.co.kr/article/78158"/>
-        <updated>2023-06-08T03:17:52.541Z</updated>
-        <content type="html"><![CDATA[누군가의 이야기를 오래 귀담아 듣는 것, 그들의 시선에 맞춰 노래를 짓는 10CM의 노력, 그렇...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이템 하나로 멋진 여름 데일리 룩을 즐기고 싶다면! #프린트티셔츠]]></title>
-        <id>https://www.elle.co.kr/article/78154</id>
-        <link href="https://www.elle.co.kr/article/78154"/>
-        <updated>2023-06-07T19:12:05.257Z</updated>
-        <content type="html"><![CDATA[슬기부터 태연까지, 프린트 티셔츠를 입고 스타일리시한 아웃핏을 완성한 스타들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일주일 만에 피부 톤이 달라진다고? 윤은혜가 공개한 '가성비' 피부관리 꿀팁]]></title>
-        <id>https://www.elle.co.kr/article/78150</id>
-        <link href="https://www.elle.co.kr/article/78150"/>
-        <updated>2023-06-07T07:12:12.096Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄에서 만난 제니와 샤넬]]></title>
-        <id>https://www.elle.co.kr/article/78143</id>
-        <link href="https://www.elle.co.kr/article/78143"/>
-        <updated>2023-06-06T19:10:40.186Z</updated>
-        <content type="html"><![CDATA[지난 12월 세네갈 다카르에서 선보인 샤넬의 2022/23 공방 컬렉션이 6월 1일 도쿄 빅사이트에서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숨길 수 없는 조현아]]></title>
-        <id>https://www.elle.co.kr/article/78137</id>
-        <link href="https://www.elle.co.kr/article/78137"/>
-        <updated>2023-06-06T18:15:09.565Z</updated>
-        <content type="html"><![CDATA[단어 하나에 공감하며 눈물 흘리고, 친구 고민 들어주느라 10시간 통화하는 조현아. 솔직한 그가...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군대에서 아빠 되는 차서원! 엄현경과의 결혼-임신 시그널 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/78132</id>
-        <link href="https://www.elle.co.kr/article/78132"/>
-        <updated>2023-06-06T02:53:45.898Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80세 시인 신달자가 마주한 몸]]></title>
-        <id>https://www.elle.co.kr/article/78127</id>
-        <link href="https://www.elle.co.kr/article/78127"/>
-        <updated>2023-06-05T19:11:19.398Z</updated>
-        <content type="html"><![CDATA[늙어가는 몸은 자신에게도 낯선 존재다. 시인 신달자가 팔순에야 비로소 기록한 몸의 말, 그 낱...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 08 Jun 2023 07:13:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프린세스 미연의 핑크 유니버스]]></title>
+            <link>https://www.elle.co.kr/article/78167</link>
+            <guid>https://www.elle.co.kr/article/78167</guid>
+            <pubDate>Thu, 08 Jun 2023 03:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[미연, 질스튜어트 뷰티의 향기에 둘러싸인 채 뽐내던 공주 아우라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/068b76ac-be77-45d1-af9a-a869625a0128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10CM와 부동의 첫사랑]]></title>
+            <link>https://www.elle.co.kr/article/78158</link>
+            <guid>https://www.elle.co.kr/article/78158</guid>
+            <pubDate>Thu, 08 Jun 2023 03:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[누군가의 이야기를 오래 귀담아 듣는 것, 그들의 시선에 맞춰 노래를 짓는 10CM의 노력, 그렇...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/06/21837b99-d398-4cff-8e5e-11b84dede8ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이템 하나로 멋진 여름 데일리 룩을 즐기고 싶다면! #프린트티셔츠]]></title>
+            <link>https://www.elle.co.kr/article/78154</link>
+            <guid>https://www.elle.co.kr/article/78154</guid>
+            <pubDate>Wed, 07 Jun 2023 19:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[슬기부터 태연까지, 프린트 티셔츠를 입고 스타일리시한 아웃핏을 완성한 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/06/64b4d52d-b164-45b5-949c-3922607add88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일주일 만에 피부 톤이 달라진다고? 윤은혜가 공개한 '가성비' 피부관리 꿀팁]]></title>
+            <link>https://www.elle.co.kr/article/78150</link>
+            <guid>https://www.elle.co.kr/article/78150</guid>
+            <pubDate>Wed, 07 Jun 2023 07:12:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/354c45df-26d9-4311-83f9-24c2cd80f611.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄에서 만난 제니와 샤넬]]></title>
+            <link>https://www.elle.co.kr/article/78143</link>
+            <guid>https://www.elle.co.kr/article/78143</guid>
+            <pubDate>Tue, 06 Jun 2023 19:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[지난 12월 세네갈 다카르에서 선보인 샤넬의 2022/23 공방 컬렉션이 6월 1일 도쿄 빅사이트에서...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/9a013169-8409-4d0a-aec5-eeee668ede70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숨길 수 없는 조현아]]></title>
+            <link>https://www.elle.co.kr/article/78137</link>
+            <guid>https://www.elle.co.kr/article/78137</guid>
+            <pubDate>Tue, 06 Jun 2023 18:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[단어 하나에 공감하며 눈물 흘리고, 친구 고민 들어주느라 10시간 통화하는 조현아. 솔직한 그가...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/be246660-1b65-4d31-9773-c1ddff9dcccb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[군대에서 아빠 되는 차서원! 엄현경과의 결혼-임신 시그널 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/78132</link>
+            <guid>https://www.elle.co.kr/article/78132</guid>
+            <pubDate>Tue, 06 Jun 2023 02:53:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/3322ea0e-b875-4ff6-bcfd-6165027dbf89.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[80세 시인 신달자가 마주한 몸]]></title>
+            <link>https://www.elle.co.kr/article/78127</link>
+            <guid>https://www.elle.co.kr/article/78127</guid>
+            <pubDate>Mon, 05 Jun 2023 19:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[늙어가는 몸은 자신에게도 낯선 존재다. 시인 신달자가 팔순에야 비로소 기록한 몸의 말, 그 낱...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/ee637201-446d-463f-aaa4-9dfa93547f25.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
