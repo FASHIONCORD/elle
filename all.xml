@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 06:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 07:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -975,6 +975,7 @@
             <guid>https://www.elle.co.kr/article/78164</guid>
             <pubDate>Thu, 08 Jun 2023 15:13:23 GMT</pubDate>
             <content:encoded><![CDATA[작년 라프 시몬스 추종자들에게 청천벽력 같은 소식이 전해졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/76b7ad86-6b27-4e98-9aaa-6f6b10a3d973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이템 하나로 멋진 여름 데일리 룩을 즐기고 싶다면! #프린트티셔츠 (엘르 코리아 ─ 패션)]]></title>
@@ -982,6 +983,7 @@
             <guid>https://www.elle.co.kr/article/78154</guid>
             <pubDate>Wed, 07 Jun 2023 19:12:05 GMT</pubDate>
             <content:encoded><![CDATA[슬기부터 태연까지, 프린트 티셔츠를 입고 스타일리시한 아웃핏을 완성한 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/06/64b4d52d-b164-45b5-949c-3922607add88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도쿄에서 만난 제니와 샤넬 (엘르 코리아 ─ 패션)]]></title>
@@ -989,6 +991,7 @@
             <guid>https://www.elle.co.kr/article/78143</guid>
             <pubDate>Tue, 06 Jun 2023 19:10:40 GMT</pubDate>
             <content:encoded><![CDATA[지난 12월 세네갈 다카르에서 선보인 샤넬의 2022/23 공방 컬렉션이 6월 1일 도쿄 빅사이트에서...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/9a013169-8409-4d0a-aec5-eeee668ede70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 하이틴 영화 속 퀸카 그 자체! 요즘 여자 아이돌 모음.zip (엘르 코리아 ─ 패션)]]></title>
@@ -996,6 +999,7 @@
             <guid>https://www.elle.co.kr/article/78110</guid>
             <pubDate>Wed, 07 Jun 2023 16:15:34 GMT</pubDate>
             <content:encoded><![CDATA[(여자)아이들부터 에스파와 아이브, 스테이씨까지! 하이틴 영화 속 퀸카 같은 요즘 ‘여돌’ 스타...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/04/33db6bdc-e4bf-4091-b25e-029930bb3020.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스프레소와 다이아몬드의 깊고 우아한 시간 (엘르 코리아 ─ 패션)]]></title>
@@ -1003,6 +1007,7 @@
             <guid>https://www.elle.co.kr/article/77563</guid>
             <pubDate>Tue, 06 Jun 2023 19:10:20 GMT</pubDate>
             <content:encoded><![CDATA[절제된 아름다움으로 빛나는 다이아몬드와 한 잔의 짙은 에스프레소를 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/7b3617fa-a291-478e-ab60-96f67717da6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흰 티에 청바지, 센스 있게 입어볼까? (엘르 코리아 ─ 패션)]]></title>
@@ -1010,6 +1015,7 @@
             <guid>https://www.elle.co.kr/article/78101</guid>
             <pubDate>Sun, 04 Jun 2023 19:10:12 GMT</pubDate>
             <content:encoded><![CDATA[심플한데 가장 스타일리시한 패션! 화이트 티셔츠에 데님 팬츠면 충분합니다~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/37c1c979-b4de-4cf1-87f5-8c5e5e2cffb6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코첼라를 강타한 셀럽들의 페스티벌 룩 (엘르 코리아 ─ 패션)]]></title>
@@ -1017,6 +1023,7 @@
             <guid>https://www.elle.co.kr/article/78080</guid>
             <pubDate>Mon, 05 Jun 2023 19:10:57 GMT</pubDate>
             <content:encoded><![CDATA[뜨거운 사막 위에 펼쳐진 강렬한 존재감.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/7283a609-ddae-4111-8976-de1d6df33114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젊은 디렉터에게 빠른 작별을 고하는 브랜드, 그 후 앤 드뮐미스터와 발리의 새 얼굴들 (엘르 코리아 ─ 패션)]]></title>
@@ -1024,6 +1031,7 @@
             <guid>https://www.elle.co.kr/article/78097</guid>
             <pubDate>Mon, 05 Jun 2023 08:15:40 GMT</pubDate>
             <content:encoded><![CDATA[빈자리를 채우는 새로운 가능성.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/14a050dd-b654-453d-a7ba-d7dda9936c75.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름 여름해! 6월 뷰티 신상템 리스트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1031,7 +1039,6 @@
             <guid>https://www.elle.co.kr/article/78117</guid>
             <pubDate>Fri, 09 Jun 2023 04:15:41 GMT</pubDate>
             <content:encoded><![CDATA[여름의 초입을 싱그럽게 채워줄 6월의 뷰티 신상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/3f525521-fc63-42d6-8fb6-a9391ab1075d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페스티벌 무드의 뷰티 신 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1039,7 +1046,6 @@
             <guid>https://www.elle.co.kr/article/78084</guid>
             <pubDate>Thu, 08 Jun 2023 15:13:32 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 페스티벌의 열기를 품은 얼굴 위에 그린 색과 감정의 조각.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/04/55a1bb9f-16d5-452a-afec-a77f5690b9e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스탈의 피부 자신감 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1047,14 +1053,12 @@
             <guid>https://www.elle.co.kr/article/78064</guid>
             <pubDate>Thu, 08 Jun 2023 03:17:41 GMT</pubDate>
             <content:encoded><![CDATA[랑콤 제니피끄로 피부 시간을 되돌리다! 크리스탈의 드라마틱한 안티에이징 모멘트를 포착하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/f2963ade-8cb7-4b2d-b159-968a7cfa327c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소유진, 남편 백종원 요리 실력에도 '슬림한' 체형 유지하는 비결은 바로 이것? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/78069</link>
             <guid>https://www.elle.co.kr/article/78069</guid>
             <pubDate>Fri, 02 Jun 2023 19:10:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/b249fca6-88ed-4bad-b863-fcc479079be0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빈틈없는 한겹 커버로 완성하는 매끈 결광 깐 달걀 피부 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1062,7 +1066,6 @@
             <guid>https://www.elle.co.kr/article/77798</guid>
             <pubDate>Sun, 04 Jun 2023 19:10:04 GMT</pubDate>
             <content:encoded><![CDATA[오후만 되면 무너지는 베이스가 고민이라면 프레시안 ‘에그라이크 쿠션’을 주목할 것. 얇고 촘...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/05947e50-3655-4e47-8b31-383253352c3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙핑크 지수와 함께한 미스 디올 전시 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1070,7 +1073,6 @@
             <guid>https://www.elle.co.kr/article/78054</guid>
             <pubDate>Sun, 04 Jun 2023 17:10:26 GMT</pubDate>
             <content:encoded><![CDATA[꽃과 예술에 대한 향기로운 이야기를 전하는 ‘미스 디올 서울 전시&amp;팝업’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/c8a50082-6764-461f-912d-bac744338bd5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름엔 향수 대신 이거! (엘르 코리아 ─ 뷰티)]]></title>
@@ -1078,7 +1080,6 @@
             <guid>https://www.elle.co.kr/article/78030</guid>
             <pubDate>Sat, 03 Jun 2023 16:15:28 GMT</pubDate>
             <content:encoded><![CDATA[여름철, 진한 향수 대신 온몸에 은은한 향기를 입혀줄 ‘꾸안꾸’ 여름 향기템 7]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/d4a222cb-b1b3-45b3-be91-e253dac4497e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지성미부터 퇴폐미까지, ‘블루 드 샤넬’의 남자 티모시 샬라메 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1086,7 +1087,6 @@
             <guid>https://www.elle.co.kr/article/78024</guid>
             <pubDate>Thu, 01 Jun 2023 09:14:21 GMT</pubDate>
             <content:encoded><![CDATA[관습을 탈피하고 시대를 초월하는 가브리엘 샤넬의 신념은 ‘블루 드 샤넬’의 새로운 챕터와 블...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/1dc17084-318b-4dd6-866a-aa60fb01f738.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5kg 빼고 건강하게 유지 중인 송가인, 체중 감량할 때 마셨다는 차는? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
