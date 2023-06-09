@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-09T09:14:27.286Z</updated>
+    <updated>2023-06-09T10:14:28.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결혼 후 첫 생일 맞은 티아라 지연! 꿀 떨어지는 럽스타 근황]]></title>
+        <id>https://www.elle.co.kr/article/78240</id>
+        <link href="https://www.elle.co.kr/article/78240"/>
+        <updated>2023-06-09T10:13:20.662Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파리 떠난 메시, 바르샤 안 간다?! 깜짝 마이애미행 결정한 이유]]></title>
         <id>https://www.elle.co.kr/article/78237</id>
@@ -49,12 +55,5 @@
         <link href="https://www.elle.co.kr/article/78167"/>
         <updated>2023-06-08T03:17:52.540Z</updated>
         <content type="html"><![CDATA[미연, 질스튜어트 뷰티의 향기에 둘러싸인 채 뽐내던 공주 아우라.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10CM와 부동의 첫사랑]]></title>
-        <id>https://www.elle.co.kr/article/78158</id>
-        <link href="https://www.elle.co.kr/article/78158"/>
-        <updated>2023-06-08T03:17:52.541Z</updated>
-        <content type="html"><![CDATA[누군가의 이야기를 오래 귀담아 듣는 것, 그들의 시선에 맞춰 노래를 짓는 10CM의 노력, 그렇...]]></content>
     </entry>
 </feed>
