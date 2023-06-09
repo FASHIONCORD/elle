@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 03:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 04:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 여름해! 6월 뷰티 신상템 리스트]]></title>
+            <link>https://www.elle.co.kr/article/78117</link>
+            <guid>https://www.elle.co.kr/article/78117</guid>
+            <pubDate>Fri, 09 Jun 2023 04:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 초입을 싱그럽게 채워줄 6월의 뷰티 신상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/3f525521-fc63-42d6-8fb6-a9391ab1075d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페스티벌 무드의 뷰티 신]]></title>
             <link>https://www.elle.co.kr/article/78084</link>
@@ -61,13 +69,6 @@
             <pubDate>Thu, 01 Jun 2023 15:13:25 GMT</pubDate>
             <content:encoded><![CDATA[관습을 탈피하고 시대를 초월하는 가브리엘 샤넬의 신념은 ‘블루 드 샤넬’의 새로운 챕터와 블...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/1dc17084-318b-4dd6-866a-aa60fb01f738.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12kg 감량한 에프엑스 루나! 하체 콤플렉스 이렇게 극복했다는데? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/78020</link>
-            <guid>https://www.elle.co.kr/article/78020</guid>
-            <pubDate>Thu, 01 Jun 2023 10:15:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/23ace928-0b33-4f02-a719-2dfea74c2a53.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
