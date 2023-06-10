@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-10T18:14:58.043Z</updated>
+    <updated>2023-06-10T19:10:56.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안젤리나 졸리와 처음으로 손잡는 패션 브랜드는? 셀럽과 브랜드의 조우 2]]></title>
+        <id>https://www.elle.co.kr/article/78238</id>
+        <link href="https://www.elle.co.kr/article/78238"/>
+        <updated>2023-06-10T19:09:33.705Z</updated>
+        <content type="html"><![CDATA[뉴발란스 스니커를 수놓은 아미네의 선명한 시그니처 컬러!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕 5번가에 새롭게 문을 연 티파니의 랜드마크]]></title>
         <id>https://www.elle.co.kr/article/78184</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/77563"/>
         <updated>2023-06-06T19:10:20.577Z</updated>
         <content type="html"><![CDATA[절제된 아름다움으로 빛나는 다이아몬드와 한 잔의 짙은 에스프레소를 담았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흰 티에 청바지, 센스 있게 입어볼까?]]></title>
-        <id>https://www.elle.co.kr/article/78101</id>
-        <link href="https://www.elle.co.kr/article/78101"/>
-        <updated>2023-06-06T15:12:31.236Z</updated>
-        <content type="html"><![CDATA[심플한데 가장 스타일리시한 패션! 화이트 티셔츠에 데님 팬츠면 충분합니다~]]></content>
     </entry>
 </feed>
