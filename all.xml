@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 17:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 18:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1003,6 +1003,7 @@
             <guid>https://www.elle.co.kr/article/78168</guid>
             <pubDate>Thu, 08 Jun 2023 09:12:22 GMT</pubDate>
             <content:encoded><![CDATA[문별, 슈화, 예리 등 패션 센스 좋은 스타들의 안경 스타일링을 모아봤어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/d730748c-878a-442e-a58a-21284f2320c8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디오스 라프 시몬스 (엘르 코리아 ─ 패션)]]></title>
@@ -1010,6 +1011,7 @@
             <guid>https://www.elle.co.kr/article/78164</guid>
             <pubDate>Thu, 08 Jun 2023 15:13:23 GMT</pubDate>
             <content:encoded><![CDATA[작년 라프 시몬스 추종자들에게 청천벽력 같은 소식이 전해졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/76b7ad86-6b27-4e98-9aaa-6f6b10a3d973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이템 하나로 멋진 여름 데일리 룩을 즐기고 싶다면! #프린트티셔츠 (엘르 코리아 ─ 패션)]]></title>
@@ -1017,6 +1019,7 @@
             <guid>https://www.elle.co.kr/article/78154</guid>
             <pubDate>Wed, 07 Jun 2023 19:12:05 GMT</pubDate>
             <content:encoded><![CDATA[슬기부터 태연까지, 프린트 티셔츠를 입고 스타일리시한 아웃핏을 완성한 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/06/64b4d52d-b164-45b5-949c-3922607add88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도쿄에서 만난 제니와 샤넬 (엘르 코리아 ─ 패션)]]></title>
@@ -1024,6 +1027,7 @@
             <guid>https://www.elle.co.kr/article/78143</guid>
             <pubDate>Tue, 06 Jun 2023 19:10:40 GMT</pubDate>
             <content:encoded><![CDATA[지난 12월 세네갈 다카르에서 선보인 샤넬의 2022/23 공방 컬렉션이 6월 1일 도쿄 빅사이트에서...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/9a013169-8409-4d0a-aec5-eeee668ede70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싱그러운 6월에 제격! 산뜻한 시트러스 향의 모든 것_선배’s 어드바이스 #171 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1086,56 +1090,48 @@
             <guid>https://www.elle.co.kr/article/78275</guid>
             <pubDate>Fri, 09 Jun 2023 11:11:32 GMT</pubDate>
             <content:encoded><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/07964b0e-701f-47c6-8e5c-4966243c3834.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예쁘게 태어난 걸 어떡해? 퀸카 그 자체 (여자)아이들 미연의 솔직귀염 이모지 인터뷰 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78267</link>
             <guid>https://www.elle.co.kr/article/78267</guid>
             <pubDate>Sat, 10 Jun 2023 19:09:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/f6ceb878-ead5-4f3f-9ddc-ded4ae057b97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 지민이 데뷔 10주년 맞아 팬들을 위해 준비한 깜짝 선물은? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78256</link>
             <guid>https://www.elle.co.kr/article/78256</guid>
             <pubDate>Fri, 09 Jun 2023 20:13:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/709bd867-2659-42d7-9a72-217058187385.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제 엄마 스케줄도 따라다닌다고? 생후 50일 된 허니제이 딸 러브 근황 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78242</link>
             <guid>https://www.elle.co.kr/article/78242</guid>
             <pubDate>Fri, 09 Jun 2023 19:10:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/d5117b43-2289-4c1e-98fc-dbf8d03a2394.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트와이스 나연이 '살 빠지는 춤' BGM으로 추천한 노래는? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78241</link>
             <guid>https://www.elle.co.kr/article/78241</guid>
             <pubDate>Fri, 09 Jun 2023 14:11:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/73ebd8a7-451f-45b2-9b5e-4940cc454515.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결혼 후 첫 생일 맞은 티아라 지연! 꿀 떨어지는 럽스타 근황 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78240</link>
             <guid>https://www.elle.co.kr/article/78240</guid>
             <pubDate>Fri, 09 Jun 2023 10:13:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/8ce44e07-0310-48d2-87dd-2665b75f7b48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파리 떠난 메시, 바르샤 안 간다?! 깜짝 마이애미행 결정한 이유 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78237</link>
             <guid>https://www.elle.co.kr/article/78237</guid>
             <pubDate>Fri, 09 Jun 2023 09:13:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/99d6cf10-db2f-48d6-82e8-ac0d38dbc665.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이효리X화사, '댄스가수 유랑단' 본방에도 안 나온 길거리 트월킹 장면 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78220</link>
             <guid>https://www.elle.co.kr/article/78220</guid>
             <pubDate>Fri, 09 Jun 2023 08:16:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/1560ecde-cbae-4790-b657-22640f58cad1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’ (엘르 코리아 ─ 컬쳐)]]></title>
