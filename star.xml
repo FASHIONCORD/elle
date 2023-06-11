@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-11T18:15:31.690Z</updated>
+    <updated>2023-06-11T19:12:22.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아저씨'가 벌써 13년 전이라고? 이나영이 직접 밝힌 남편 원빈의 복귀 이야기]]></title>
+        <id>https://www.elle.co.kr/article/78277</id>
+        <link href="https://www.elle.co.kr/article/78277"/>
+        <updated>2023-06-11T19:10:47.829Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐스팅 무슨 일? 강동원이 노비 된다는 넷플릭스 영화 '전, 란' 정보 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/78275</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/78237</id>
         <link href="https://www.elle.co.kr/article/78237"/>
         <updated>2023-06-09T09:13:07.115Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리X화사, '댄스가수 유랑단' 본방에도 안 나온 길거리 트월킹 장면]]></title>
-        <id>https://www.elle.co.kr/article/78220</id>
-        <link href="https://www.elle.co.kr/article/78220"/>
-        <updated>2023-06-09T08:16:04.246Z</updated>
     </entry>
 </feed>
