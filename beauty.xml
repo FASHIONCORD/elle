@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-06-12T02:53:17.859Z</updated>
+    <updated>2023-06-12T03:20:52.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스 나연이 '살 빠지는 춤' BGM으로 추천한 노래는? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/78241</id>
+        <link href="https://www.elle.co.kr/article/78241"/>
+        <updated>2023-06-12T03:19:07.308Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5kg 빼고 건강하게 유지 중인 송가인, 체중 감량할 때 마셨다는 차는? #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/78219</id>
@@ -51,12 +57,5 @@
         <id>https://www.elle.co.kr/article/78069</id>
         <link href="https://www.elle.co.kr/article/78069"/>
         <updated>2023-06-05T02:49:21.561Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈틈없는 한겹 커버로 완성하는 매끈 결광 깐 달걀 피부]]></title>
-        <id>https://www.elle.co.kr/article/77798</id>
-        <link href="https://www.elle.co.kr/article/77798"/>
-        <updated>2023-06-04T19:10:04.442Z</updated>
-        <content type="html"><![CDATA[오후만 되면 무너지는 베이스가 고민이라면 프레시안 ‘에그라이크 쿠션’을 주목할 것. 얇고 촘...]]></content>
     </entry>
 </feed>
