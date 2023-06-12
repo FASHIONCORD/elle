@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-12T14:13:47.493Z</updated>
+    <updated>2023-06-12T15:14:56.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페스티벌엔 '트윙클' 메이크업!]]></title>
+        <id>https://www.elle.co.kr/article/78244</id>
+        <link href="https://www.elle.co.kr/article/78244"/>
+        <updated>2023-06-12T15:12:35.067Z</updated>
+        <content type="html"><![CDATA[뮤직 페스티벌 시즌이 돌아왔다. 블링블링한 파츠와 알록달록한 비즈의 힘을 빌려 완성한 ‘힙’...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루이스 폴센의 조명에 뿔이 돋아났다?]]></title>
         <id>https://www.elle.co.kr/article/78274</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/78164"/>
         <updated>2023-06-08T15:13:23.311Z</updated>
         <content type="html"><![CDATA[작년 라프 시몬스 추종자들에게 청천벽력 같은 소식이 전해졌다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이템 하나로 멋진 여름 데일리 룩을 즐기고 싶다면! #프린트티셔츠]]></title>
-        <id>https://www.elle.co.kr/article/78154</id>
-        <link href="https://www.elle.co.kr/article/78154"/>
-        <updated>2023-06-08T15:13:23.312Z</updated>
-        <content type="html"><![CDATA[슬기부터 태연까지, 프린트 티셔츠를 입고 스타일리시한 아웃핏을 완성한 스타들.]]></content>
     </entry>
 </feed>
