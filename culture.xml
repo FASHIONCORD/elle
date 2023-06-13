@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-06-13T14:13:43.427Z</updated>
+    <updated>2023-06-13T15:14:37.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타가 다녀간 전시회는 어디? 지금 꼭 봐야하는 전시 3]]></title>
+        <id>https://www.elle.co.kr/article/78207</id>
+        <link href="https://www.elle.co.kr/article/78207"/>
+        <updated>2023-06-13T15:13:39.012Z</updated>
+        <content type="html"><![CDATA[일상에 새로운 자극과 영감이 필요하다면 주목! 셀러브리티가 방문 도장 찍고 온 핫한 전시를 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오초량, 오래된 장소가 품은 기억]]></title>
         <id>https://www.elle.co.kr/article/78181</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/78113"/>
         <updated>2023-06-07T16:16:07.876Z</updated>
         <content type="html"><![CDATA[“120분은 너무 짧아요.” 밴드 자우림의 25주년의 역사를 다 알지 못하더라도 재밌다고 소문난 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김치바게트 작가 실키가 프랑스로 향한 이유]]></title>
-        <id>https://www.elle.co.kr/article/78083</id>
-        <link href="https://www.elle.co.kr/article/78083"/>
-        <updated>2023-06-07T09:20:17.169Z</updated>
-        <content type="html"><![CDATA[만화가 실키는 어느 날 프랑스로 향했다. 그곳에서 반드시 그려야 할 이야기가 있었으므로.]]></content>
     </entry>
 </feed>
