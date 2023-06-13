@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 01:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 02:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 남보라의 가방 속 뷰티 아이템 8]]></title>
+            <link>https://www.elle.co.kr/article/78292</link>
+            <guid>https://www.elle.co.kr/article/78292</guid>
+            <pubDate>Tue, 13 Jun 2023 02:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[핸드크림부터 고체 향수까지! 당장 따라 사고 싶은 남보라의 뷰티 아이템을 확인해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/14ccd3a8-7dd6-4adc-9cfd-b61b08a693ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로이킴에게 새로운 바람이 불어왔다]]></title>
             <link>https://www.elle.co.kr/article/78288</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/78267</guid>
             <pubDate>Sat, 10 Jun 2023 19:09:55 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/f6ceb878-ead5-4f3f-9ddc-ded4ae057b97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민이 데뷔 10주년 맞아 팬들을 위해 준비한 깜짝 선물은?]]></title>
-            <link>https://www.elle.co.kr/article/78256</link>
-            <guid>https://www.elle.co.kr/article/78256</guid>
-            <pubDate>Fri, 09 Jun 2023 20:13:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/709bd867-2659-42d7-9a72-217058187385.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
