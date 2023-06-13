@@ -1,62 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/beauty</id>
-    <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-06-13T13:16:47.977Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[최고의 니플패드를 찾아라]]></title>
-        <id>https://www.elle.co.kr/article/78246</id>
-        <link href="https://www.elle.co.kr/article/78246"/>
-        <updated>2023-06-12T15:13:13.733Z</updated>
-        <content type="html"><![CDATA[흰 티셔츠나 수영복, 얇은 드레스에도. 에디터가 직접 써보고 추천하는 니플커버.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스 나연이 '살 빠지는 춤' BGM으로 추천한 노래는? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/78241</id>
-        <link href="https://www.elle.co.kr/article/78241"/>
-        <updated>2023-06-12T03:19:07.308Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5kg 빼고 건강하게 유지 중인 송가인, 체중 감량할 때 마셨다는 차는? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/78219</id>
-        <link href="https://www.elle.co.kr/article/78219"/>
-        <updated>2023-06-11T19:10:39.279Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱그러운 6월에 제격! 산뜻한 시트러스 향의 모든 것_선배’s 어드바이스 #171]]></title>
-        <id>https://www.elle.co.kr/article/78124</id>
-        <link href="https://www.elle.co.kr/article/78124"/>
-        <updated>2023-06-10T15:12:08.597Z</updated>
-        <content type="html"><![CDATA[빛나는 태양과 초록빛 정원이 떠오르는 초여름날의 시트러스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뻔한 메이크업에 질렸다면? 스타들의 컬러플 아이 메이크업 5]]></title>
-        <id>https://www.elle.co.kr/article/78119</id>
-        <link href="https://www.elle.co.kr/article/78119"/>
-        <updated>2023-06-09T19:10:10.565Z</updated>
-        <content type="html"><![CDATA[컬러 아이라이너 사용법부터 형형색색의 아이섀도우까지! 스타들의 독특한 아이 메이크업을 확인해...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름 여름해! 6월 뷰티 신상템 리스트]]></title>
-        <id>https://www.elle.co.kr/article/78117</id>
-        <link href="https://www.elle.co.kr/article/78117"/>
-        <updated>2023-06-09T04:15:41.007Z</updated>
-        <content type="html"><![CDATA[여름의 초입을 싱그럽게 채워줄 6월의 뷰티 신상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페스티벌 무드의 뷰티 신]]></title>
-        <id>https://www.elle.co.kr/article/78084</id>
-        <link href="https://www.elle.co.kr/article/78084"/>
-        <updated>2023-06-08T15:13:32.914Z</updated>
-        <content type="html"><![CDATA[뮤직 페스티벌의 열기를 품은 얼굴 위에 그린 색과 감정의 조각.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스탈의 피부 자신감]]></title>
-        <id>https://www.elle.co.kr/article/78064</id>
-        <link href="https://www.elle.co.kr/article/78064"/>
-        <updated>2023-06-08T03:17:41.432Z</updated>
-        <content type="html"><![CDATA[랑콤 제니피끄로 피부 시간을 되돌리다! 크리스탈의 드라마틱한 안티에이징 모멘트를 포착하다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 13 Jun 2023 14:13:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최고의 니플패드를 찾아라]]></title>
+            <link>https://www.elle.co.kr/article/78246</link>
+            <guid>https://www.elle.co.kr/article/78246</guid>
+            <pubDate>Mon, 12 Jun 2023 15:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[흰 티셔츠나 수영복, 얇은 드레스에도. 에디터가 직접 써보고 추천하는 니플커버.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/f9725a10-696d-43d1-8bd3-85751cbdfd22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 나연이 '살 빠지는 춤' BGM으로 추천한 노래는? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/78241</link>
+            <guid>https://www.elle.co.kr/article/78241</guid>
+            <pubDate>Mon, 12 Jun 2023 03:19:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/73ebd8a7-451f-45b2-9b5e-4940cc454515.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5kg 빼고 건강하게 유지 중인 송가인, 체중 감량할 때 마셨다는 차는? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/78219</link>
+            <guid>https://www.elle.co.kr/article/78219</guid>
+            <pubDate>Sun, 11 Jun 2023 19:10:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/90d486e4-56fc-4d17-ba22-a0daca598914.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱그러운 6월에 제격! 산뜻한 시트러스 향의 모든 것_선배’s 어드바이스 #171]]></title>
+            <link>https://www.elle.co.kr/article/78124</link>
+            <guid>https://www.elle.co.kr/article/78124</guid>
+            <pubDate>Sat, 10 Jun 2023 15:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[빛나는 태양과 초록빛 정원이 떠오르는 초여름날의 시트러스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/9ef6ebf9-4c46-4e94-92f4-700389de708d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뻔한 메이크업에 질렸다면? 스타들의 컬러플 아이 메이크업 5]]></title>
+            <link>https://www.elle.co.kr/article/78119</link>
+            <guid>https://www.elle.co.kr/article/78119</guid>
+            <pubDate>Fri, 09 Jun 2023 19:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[컬러 아이라이너 사용법부터 형형색색의 아이섀도우까지! 스타들의 독특한 아이 메이크업을 확인해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/1744cf4d-995e-42da-895d-7f400d5558bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 여름해! 6월 뷰티 신상템 리스트]]></title>
+            <link>https://www.elle.co.kr/article/78117</link>
+            <guid>https://www.elle.co.kr/article/78117</guid>
+            <pubDate>Fri, 09 Jun 2023 04:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 초입을 싱그럽게 채워줄 6월의 뷰티 신상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/3f525521-fc63-42d6-8fb6-a9391ab1075d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페스티벌 무드의 뷰티 신]]></title>
+            <link>https://www.elle.co.kr/article/78084</link>
+            <guid>https://www.elle.co.kr/article/78084</guid>
+            <pubDate>Thu, 08 Jun 2023 15:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 페스티벌의 열기를 품은 얼굴 위에 그린 색과 감정의 조각.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/04/55a1bb9f-16d5-452a-afec-a77f5690b9e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스탈의 피부 자신감]]></title>
+            <link>https://www.elle.co.kr/article/78064</link>
+            <guid>https://www.elle.co.kr/article/78064</guid>
+            <pubDate>Thu, 08 Jun 2023 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[랑콤 제니피끄로 피부 시간을 되돌리다! 크리스탈의 드라마틱한 안티에이징 모멘트를 포착하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/f2963ade-8cb7-4b2d-b159-968a7cfa327c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
