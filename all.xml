@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 09:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 10:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1200,6 +1200,7 @@
             <guid>https://www.elle.co.kr/article/78194</guid>
             <pubDate>Wed, 07 Jun 2023 09:20:26 GMT</pubDate>
             <content:encoded><![CDATA[헤드셋이 아닌 컴퓨터라고 불러주세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/d751c85b-8ab9-4b7f-bf56-443aee21d033.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왜 해외 머글들이 뉴진스와 피프티피프티의 노래를 듣게 된 걸까? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1207,18 +1208,21 @@
             <guid>https://www.elle.co.kr/article/78082</guid>
             <pubDate>Fri, 02 Jun 2023 15:12:46 GMT</pubDate>
             <content:encoded><![CDATA[스포티파이와 빌보드핫100 에서 써내려가고 있는 K팝 아티스트들의 놀라운 기록. K팝은 이제 '듣...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/04/385c9062-96c9-4e9d-848c-eabbf0256946.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드디어 부활한 락 페스티벌과 혼네, 샘 스미스 내한까지! 2023 공연 라인업.list (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/78098</link>
             <guid>https://www.elle.co.kr/article/78098</guid>
             <pubDate>Fri, 02 Jun 2023 12:25:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/7e0132ae-5c89-415b-88fd-123455d4221e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/77968</link>
             <guid>https://www.elle.co.kr/article/77968</guid>
             <pubDate>Tue, 30 May 2023 06:17:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/1fe318ea-2eb8-4712-b9a5-30c7047b995b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1286,14 +1290,12 @@
             <link>https://www.elle.co.kr/article/78328</link>
             <guid>https://www.elle.co.kr/article/78328</guid>
             <pubDate>Tue, 13 Jun 2023 02:40:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/e5822e61-dd29-4d36-bad6-681ed512f3a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유종의 미 거둔 '닥터 차정숙'! 주연 배우들이 꼽은 명장면·명대사 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78306</link>
             <guid>https://www.elle.co.kr/article/78306</guid>
             <pubDate>Mon, 12 Jun 2023 08:17:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/9aa0a4c2-b307-428f-a713-e1f23b755bff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캐스팅 무슨 일? 강동원이 노비 된다는 넷플릭스 영화 '전, 란' 정보 모음.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1301,14 +1303,12 @@
             <guid>https://www.elle.co.kr/article/78275</guid>
             <pubDate>Fri, 09 Jun 2023 11:11:32 GMT</pubDate>
             <content:encoded><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/07964b0e-701f-47c6-8e5c-4966243c3834.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무지개 회원 출신 커플, 엄현경-차서원! 다시 보는 '나 혼자 산다' 출연 모습.avi (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78186</link>
             <guid>https://www.elle.co.kr/article/78186</guid>
             <pubDate>Wed, 07 Jun 2023 07:12:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/d177a2ae-3357-478d-a7e1-b5c0168350f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유연석 컴백부터 안효섭X이성경의 단짠 로맨스까지! '낭만닥터 김사부3' 인기 요인 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1516,7 +1516,6 @@
             <link>https://www.elle.co.kr/article/78203</link>
             <guid>https://www.elle.co.kr/article/78203</guid>
             <pubDate>Sun, 11 Jun 2023 16:16:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/acced2d1-2c73-43f7-ab5c-5745cac6ad61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’ (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1524,7 +1523,6 @@
             <guid>https://www.elle.co.kr/article/78194</guid>
             <pubDate>Wed, 07 Jun 2023 09:20:26 GMT</pubDate>
             <content:encoded><![CDATA[헤드셋이 아닌 컴퓨터라고 불러주세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/d751c85b-8ab9-4b7f-bf56-443aee21d033.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 운동코치 에리카가 힙합을 좋아하게 된 이유 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1532,42 +1530,36 @@
             <guid>https://www.elle.co.kr/ellevoice/essay/78153</guid>
             <pubDate>Fri, 09 Jun 2023 08:17:51 GMT</pubDate>
             <content:encoded><![CDATA['여자어'에서 벗어나 솔직하고 명확한 언어로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/bebfef8f-b3d6-40e2-a26b-85b0b9eeddea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI 작가도 작가로 치나요? 네이버-카카오 웹툰 플랫폼이 보인 반응 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/78095</link>
             <guid>https://www.elle.co.kr/article/78095</guid>
             <pubDate>Thu, 08 Jun 2023 03:19:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/42d4c74b-bcec-4bfc-a191-62197fdc455a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제 악플 달면 제대로 망신?! 6월부터 네이버-다음 댓글창에 생기는 변화 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/78067</link>
             <guid>https://www.elle.co.kr/article/78067</guid>
             <pubDate>Wed, 07 Jun 2023 15:14:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/4ac5bcac-5212-4166-90ad-facf78136cca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가난은 질병이라고? ‘가짜’ 인플루언서의 공포 마케팅을 주의하라!_돈쓸신잡 #100 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/78041</link>
             <guid>https://www.elle.co.kr/article/78041</guid>
             <pubDate>Wed, 07 Jun 2023 14:12:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/247dab26-c73b-4871-9eca-0170dc3c401d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새벽 잠 깨운 오발령 위급 재난 문자, 실제 상황에선 어떻게 해야 할까? (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/78003</link>
             <guid>https://www.elle.co.kr/article/78003</guid>
             <pubDate>Wed, 07 Jun 2023 09:21:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/c008a648-aace-4d23-bf9e-4f5d53eec662.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나라를 위해 목숨 바친 순국선열을 기리는 날! '현충일' 기념 명소 3 #가볼만한곳 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/77990</link>
             <guid>https://www.elle.co.kr/article/77990</guid>
             <pubDate>Mon, 05 Jun 2023 18:16:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/197f7cf9-e72d-4151-aa05-cad435fd6c15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
