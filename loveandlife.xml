@@ -4,20 +4,29 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 07:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 08:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 부활한 락 페스티벌과 혼네, 샘 스미스 내한까지! 2023 공연 라인업.list]]></title>
+            <link>https://www.elle.co.kr/article/78098</link>
+            <guid>https://www.elle.co.kr/article/78098</guid>
+            <pubDate>Tue, 13 Jun 2023 08:17:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/7e0132ae-5c89-415b-88fd-123455d4221e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 작가도 작가로 치나요? 네이버-카카오 웹툰 플랫폼이 보인 반응]]></title>
             <link>https://www.elle.co.kr/article/78095</link>
             <guid>https://www.elle.co.kr/article/78095</guid>
             <pubDate>Tue, 13 Jun 2023 03:14:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/42d4c74b-bcec-4bfc-a191-62197fdc455a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여름꽃의 여왕' 수국 만개! 싱그러움 그 자체인 전국 명소 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/78094</link>
             <guid>https://www.elle.co.kr/article/78094</guid>
             <pubDate>Thu, 08 Jun 2023 15:14:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/cd8a42a4-43c4-411b-9fdd-1d52fe645de4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커피 못 마시는 사람들을 위한 논커피 음료 맛집 2 #마실마실]]></title>
@@ -25,6 +34,7 @@
             <guid>https://www.elle.co.kr/article/78093</guid>
             <pubDate>Wed, 07 Jun 2023 16:16:49 GMT</pubDate>
             <content:encoded><![CDATA[메뉴판 구석에 자리잡은 논커피가 아냐! 논커피 중심의 음료 가게와 티 카페를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/7218633f-7eee-4a2f-bad9-9aaa902466bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3만원대 비건 한식 레스토랑을 가봤다 #무해한삶_2]]></title>
@@ -56,13 +66,6 @@
             <pubDate>Fri, 02 Jun 2023 08:17:18 GMT</pubDate>
             <content:encoded><![CDATA[102년간 차곡차곡 쌓인 역사는 하나의 우주가 된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/dbe36bfb-ce50-4b21-b096-008b80d67a47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울을 BTS 보랏빛으로 물들이는 축제가 있다?! 6월 이색 페스티벌 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/77910</link>
-            <guid>https://www.elle.co.kr/article/77910</guid>
-            <pubDate>Fri, 02 Jun 2023 08:17:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/16ea4684-2470-4aa6-b98c-b68997644390.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
