@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-14T01:05:51.497Z</updated>
+    <updated>2023-06-14T02:39:55.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10년차 부부 이효리-이상순, 세상 힙하고 달달한 스위스 럽스타 폭탄.jpg]]></title>
+        <id>https://www.elle.co.kr/article/78323</id>
+        <link href="https://www.elle.co.kr/article/78323"/>
+        <updated>2023-06-14T02:39:05.792Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김연아 남편 고우림이 롤모델로 백종원을 꼽은 이유]]></title>
         <id>https://www.elle.co.kr/article/78322</id>
@@ -50,12 +56,5 @@
         <id>https://www.elle.co.kr/article/78280</id>
         <link href="https://www.elle.co.kr/article/78280"/>
         <updated>2023-06-12T19:09:56.039Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타들의 손끝에서 찾은 여름 네일 힌트 6]]></title>
-        <id>https://www.elle.co.kr/article/78279</id>
-        <link href="https://www.elle.co.kr/article/78279"/>
-        <updated>2023-06-12T08:16:42.124Z</updated>
-        <content type="html"><![CDATA[기분 전환도 되고 스타일 지수까지 높이는 네일 아트! 스타들의 손끝에서 영감을 얻어보세요.]]></content>
     </entry>
 </feed>
