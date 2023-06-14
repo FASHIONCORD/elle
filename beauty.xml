@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-06-14T06:17:00.319Z</updated>
+    <updated>2023-06-14T07:13:12.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타들의 손끝에서 찾은 여름 네일 힌트 6]]></title>
+        <id>https://www.elle.co.kr/article/78279</id>
+        <link href="https://www.elle.co.kr/article/78279"/>
+        <updated>2023-06-14T07:12:01.942Z</updated>
+        <content type="html"><![CDATA[기분 전환도 되고 스타일 지수까지 높이는 네일 아트! 스타들의 손끝에서 영감을 얻어보세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최고의 니플패드를 찾아라]]></title>
         <id>https://www.elle.co.kr/article/78246</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/78084"/>
         <updated>2023-06-08T15:13:32.914Z</updated>
         <content type="html"><![CDATA[뮤직 페스티벌의 열기를 품은 얼굴 위에 그린 색과 감정의 조각.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스탈의 피부 자신감]]></title>
-        <id>https://www.elle.co.kr/article/78064</id>
-        <link href="https://www.elle.co.kr/article/78064"/>
-        <updated>2023-06-08T03:17:41.432Z</updated>
-        <content type="html"><![CDATA[랑콤 제니피끄로 피부 시간을 되돌리다! 크리스탈의 드라마틱한 안티에이징 모멘트를 포착하다.]]></content>
     </entry>
 </feed>
