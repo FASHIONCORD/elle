@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 17:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 18:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1078,6 +1078,7 @@
             <guid>https://www.elle.co.kr/article/78117</guid>
             <pubDate>Fri, 09 Jun 2023 04:15:41 GMT</pubDate>
             <content:encoded><![CDATA[여름의 초입을 싱그럽게 채워줄 6월의 뷰티 신상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/3f525521-fc63-42d6-8fb6-a9391ab1075d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여행 가서 뭐 입을까 고민된다면? 스타들의 해외여행 룩 대방출! (엘르 코리아 ─ 스타)]]></title>
