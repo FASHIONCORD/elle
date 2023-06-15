@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-15T05:13:36.335Z</updated>
+    <updated>2023-06-15T06:17:55.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공개 연애 시작 2개월 차, 이도현은 연인 임지연을 뭐라고 부를까?]]></title>
+        <id>https://www.elle.co.kr/article/78367</id>
+        <link href="https://www.elle.co.kr/article/78367"/>
+        <updated>2023-06-15T06:16:55.001Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교 vs. 문가영 화이트 룩 대결의 승자는?]]></title>
         <id>https://www.elle.co.kr/article/78360</id>
@@ -49,12 +55,5 @@
         <id>https://www.elle.co.kr/article/78322</id>
         <link href="https://www.elle.co.kr/article/78322"/>
         <updated>2023-06-13T19:10:45.979Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올여름 장마 대비를 위한 레인부츠 #쇼핑리스트]]></title>
-        <id>https://www.elle.co.kr/article/78321</id>
-        <link href="https://www.elle.co.kr/article/78321"/>
-        <updated>2023-06-13T15:13:29.566Z</updated>
-        <content type="html"><![CDATA[귀엽고 예쁜 디자인의 레인부츠와 함께라면 장마도 두렵지 않아!]]></content>
     </entry>
 </feed>
