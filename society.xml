@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-06-15T15:14:22.819Z</updated>
+    <updated>2023-06-15T16:16:23.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '1987' 촬영을 이 곳에서? 6·10 민주항쟁 기념 명소 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/78254</id>
+        <link href="https://www.elle.co.kr/article/78254"/>
+        <updated>2023-06-15T16:16:23.052Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시간이 없어서 돈을 못 번다고? 화려한 'N잡러' 뒤에 숨겨진 치열한 노력 따라잡기_돈쓸신잡 #101]]></title>
         <id>https://www.elle.co.kr/article/78211</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/78067</id>
         <link href="https://www.elle.co.kr/article/78067"/>
         <updated>2023-06-07T15:14:24.982Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가난은 질병이라고? ‘가짜’ 인플루언서의 공포 마케팅을 주의하라!_돈쓸신잡 #100]]></title>
-        <id>https://www.elle.co.kr/article/78041</id>
-        <link href="https://www.elle.co.kr/article/78041"/>
-        <updated>2023-06-07T14:12:50.668Z</updated>
     </entry>
 </feed>
