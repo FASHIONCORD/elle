@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-16T11:11:43.355Z</updated>
+    <updated>2023-06-16T12:23:15.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송혜교 vs. 문가영 화이트 룩 대결의 승자는?]]></title>
+        <id>https://www.elle.co.kr/article/78360</id>
+        <link href="https://www.elle.co.kr/article/78360"/>
+        <updated>2023-06-16T12:22:00.984Z</updated>
+        <content type="html"><![CDATA[콘셉트도, 스타일도 다른 2인2색 화이트 룩.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여행 가서 뭐 입을까 고민된다면? 스타들의 해외여행 룩 대방출!]]></title>
         <id>https://www.elle.co.kr/article/78359</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/78276"/>
         <updated>2023-06-13T15:13:12.586Z</updated>
         <content type="html"><![CDATA[실버의 계절이 돌아왔다. 눈이 부시게.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시선강탈을 책임질 원피스 수영복]]></title>
-        <id>https://www.elle.co.kr/article/78227</id>
-        <link href="https://www.elle.co.kr/article/78227"/>
-        <updated>2023-06-13T02:39:35.055Z</updated>
-        <content type="html"><![CDATA[해변의 주인공은 나야 나.]]></content>
     </entry>
 </feed>
