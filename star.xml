@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-15T23:14:53.779Z</updated>
+    <updated>2023-06-16T01:07:04.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누구 닮았을까? 로마에서 아빠 된 송중기가 직접 전한 아들 사진과 편지]]></title>
+        <id>https://www.elle.co.kr/article/78387</id>
+        <link href="https://www.elle.co.kr/article/78387"/>
+        <updated>2023-06-16T01:06:10.013Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지X김우빈, 김은숙 로코 <다 이루어질지니>에서 7년 만에 재회한다]]></title>
+        <id>https://www.elle.co.kr/article/78371</id>
+        <link href="https://www.elle.co.kr/article/78371"/>
+        <updated>2023-06-16T01:06:10.014Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마요르카 에이스 이강인, 300억 원에 라리가 떠난다? 지금까지 알려진 이적 정보]]></title>
         <id>https://www.elle.co.kr/article/78370</id>
@@ -43,17 +55,5 @@
         <link href="https://www.elle.co.kr/article/78302"/>
         <updated>2023-06-14T09:12:29.693Z</updated>
         <content type="html"><![CDATA[미투, 그 이후의 이야기를 전하는 팀 ‘상-여자의 착지술’을 기획한 마민지는 오늘도 용맹한 걸...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단이 데뷔 10주년! 팬들에게 선물한 편지와 역조공 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/78355</id>
-        <link href="https://www.elle.co.kr/article/78355"/>
-        <updated>2023-06-14T07:12:12.284Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['MI7' 톰 크루즈 11번째 내한 VS. '바비' 마고 로비-라이언 고슬링 첫 내한]]></title>
-        <id>https://www.elle.co.kr/article/78328</id>
-        <link href="https://www.elle.co.kr/article/78328"/>
-        <updated>2023-06-14T07:12:12.298Z</updated>
     </entry>
 </feed>
