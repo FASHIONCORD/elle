@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 18:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 19:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이효리가 20년 지기 매니저 결혼식에서 눈물의 '유 고 걸' 부른 이유]]></title>
+            <link>https://www.elle.co.kr/article/78420</link>
+            <guid>https://www.elle.co.kr/article/78420</guid>
+            <pubDate>Sat, 17 Jun 2023 19:10:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/bdfbbce1-85d4-4157-a0b0-09720dbb684f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 슈가-RM이 타블로를 '초통령'으로 만든 사연 (ft. 하루 근황)]]></title>
             <link>https://www.elle.co.kr/article/78402</link>
@@ -57,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/78371</guid>
             <pubDate>Fri, 16 Jun 2023 01:06:10 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/fae9e72b-9f51-476d-80bb-fb674372bfb9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마요르카 에이스 이강인, 300억 원에 라리가 떠난다? 지금까지 알려진 이적 정보]]></title>
-            <link>https://www.elle.co.kr/article/78370</link>
-            <guid>https://www.elle.co.kr/article/78370</guid>
-            <pubDate>Thu, 15 Jun 2023 19:10:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/208e373b-ec23-4464-901e-8a596144e301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

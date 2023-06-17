@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 18:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 19:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행의 추억을 머금은 카페 2]]></title>
+            <link>https://www.elle.co.kr/article/78319</link>
+            <guid>https://www.elle.co.kr/article/78319</guid>
+            <pubDate>Sat, 17 Jun 2023 19:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[저마다 취향과 여행의 추억을 머금은 두 공간으로 초대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/a17c974e-e664-469b-833b-3c16fc92870e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야외 펍에서 불금 즐기고 능소화 꽃 구경? 청춘 냄새 가득한 6월 여름 축제 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/78346</link>
@@ -57,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/78095</guid>
             <pubDate>Tue, 13 Jun 2023 03:14:19 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/42d4c74b-bcec-4bfc-a191-62197fdc455a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여름꽃의 여왕' 수국 만개! 싱그러움 그 자체인 전국 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/78094</link>
-            <guid>https://www.elle.co.kr/article/78094</guid>
-            <pubDate>Thu, 08 Jun 2023 15:14:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/cd8a42a4-43c4-411b-9fdd-1d52fe645de4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
