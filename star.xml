@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-18T18:17:05.058Z</updated>
+    <updated>2023-06-18T19:13:31.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[셔누가 파이트 저지로? 2년 만에 돌아오는 '스우파' 시즌2 정보 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/78427</id>
+        <link href="https://www.elle.co.kr/article/78427"/>
+        <updated>2023-06-18T19:11:28.712Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시3 초롱이' 고규필, 9년째 열애 중이었다고?!]]></title>
         <id>https://www.elle.co.kr/article/78425</id>
@@ -48,11 +54,5 @@
         <id>https://www.elle.co.kr/article/78391</id>
         <link href="https://www.elle.co.kr/article/78391"/>
         <updated>2023-06-16T09:13:23.057Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누구 닮았을까? 로마에서 아빠 된 송중기가 직접 전한 아들 사진과 편지]]></title>
-        <id>https://www.elle.co.kr/article/78387</id>
-        <link href="https://www.elle.co.kr/article/78387"/>
-        <updated>2023-06-16T01:06:10.013Z</updated>
     </entry>
 </feed>
