@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 16:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 17:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1030,6 +1030,7 @@
             <link>https://www.elle.co.kr/article/78368</link>
             <guid>https://www.elle.co.kr/article/78368</guid>
             <pubDate>Sun, 18 Jun 2023 15:11:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/f2f9f6a6-51dc-454b-8a99-c4b66082d4a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알.잘.딱.깔.센 멀티 컨실러 7 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1037,6 +1038,7 @@
             <guid>https://www.elle.co.kr/article/78309</guid>
             <pubDate>Fri, 16 Jun 2023 16:15:13 GMT</pubDate>
             <content:encoded><![CDATA[컨실러 하나로 베이스 메이크업 끝! 꿉꿉한 여름에 딱 필요한 멀티 유즈 컨실러 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/6d10788b-abc6-48d4-8a38-8ea04fca5568.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이것만 지켜도 꿀피부 보장! '기본 중의 기본' 스킨케어 5대 법칙_선배’s 어드바이스 #172 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1044,6 +1046,7 @@
             <guid>https://www.elle.co.kr/article/78299</guid>
             <pubDate>Thu, 15 Jun 2023 09:12:59 GMT</pubDate>
             <content:encoded><![CDATA[게으름뱅이도 피부 미인으로 거듭날 수 있는 스킨케어 팁.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/adcc9035-517d-4938-a46b-e682b1709357.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 남보라의 가방 속 뷰티 아이템 8 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1051,6 +1054,7 @@
             <guid>https://www.elle.co.kr/article/78292</guid>
             <pubDate>Thu, 15 Jun 2023 08:15:08 GMT</pubDate>
             <content:encoded><![CDATA[핸드크림부터 고체 향수까지! 당장 따라 사고 싶은 남보라의 뷰티 아이템을 확인해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/14ccd3a8-7dd6-4adc-9cfd-b61b08a693ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페스티벌엔 '트윙클' 메이크업! (엘르 코리아 ─ 뷰티)]]></title>
@@ -1058,6 +1062,7 @@
             <guid>https://www.elle.co.kr/article/78244</guid>
             <pubDate>Mon, 12 Jun 2023 15:12:35 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 페스티벌 시즌이 돌아왔다. 블링블링한 파츠와 알록달록한 비즈의 힘을 빌려 완성한 ‘힙’...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/11/852d9fbf-a451-4978-aef6-00d19ea627fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타들의 손끝에서 찾은 여름 네일 힌트 6 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1065,6 +1070,7 @@
             <guid>https://www.elle.co.kr/article/78279</guid>
             <pubDate>Wed, 14 Jun 2023 07:12:01 GMT</pubDate>
             <content:encoded><![CDATA[기분 전환도 되고 스타일 지수까지 높이는 네일 아트! 스타들의 손끝에서 영감을 얻어보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/10/2079af40-fffc-40f7-80e8-93ae3eeaf883.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최고의 니플패드를 찾아라 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1072,30 +1078,35 @@
             <guid>https://www.elle.co.kr/article/78246</guid>
             <pubDate>Mon, 12 Jun 2023 15:13:13 GMT</pubDate>
             <content:encoded><![CDATA[흰 티셔츠나 수영복, 얇은 드레스에도. 에디터가 직접 써보고 추천하는 니플커버.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/f9725a10-696d-43d1-8bd3-85751cbdfd22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트와이스 나연이 '살 빠지는 춤' BGM으로 추천한 노래는? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/78241</link>
             <guid>https://www.elle.co.kr/article/78241</guid>
             <pubDate>Fri, 09 Jun 2023 14:11:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/73ebd8a7-451f-45b2-9b5e-4940cc454515.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['범죄도시3 초롱이' 고규필, 9년째 열애 중이었다고?! (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78425</link>
             <guid>https://www.elle.co.kr/article/78425</guid>
             <pubDate>Sun, 18 Jun 2023 03:17:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/da4b8e04-d5a1-4bec-8cd8-6c3906ead7d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이효리가 20년 지기 매니저 결혼식에서 눈물의 '유 고 걸' 부른 이유 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78420</link>
             <guid>https://www.elle.co.kr/article/78420</guid>
             <pubDate>Sat, 17 Jun 2023 19:10:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/bdfbbce1-85d4-4157-a0b0-09720dbb684f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 슈가-RM이 타블로를 '초통령'으로 만든 사연 (ft. 하루 근황) (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78402</link>
             <guid>https://www.elle.co.kr/article/78402</guid>
             <pubDate>Fri, 16 Jun 2023 20:13:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/03d77cb6-eaa5-43d9-9ddc-a376303f66aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여전히 유일무이한 아이콘 지드래곤! 엘르 7월호 커버 장식 (엘르 코리아 ─ 스타)]]></title>
@@ -1103,6 +1114,7 @@
             <guid>https://www.elle.co.kr/article/78401</guid>
             <pubDate>Fri, 16 Jun 2023 20:13:19 GMT</pubDate>
             <content:encoded><![CDATA[지드래곤이 뿜어내는 그 에너지에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/2bf9babe-1bcd-42b6-8459-789ca7beedbe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독도새우부터 약과 쿠키까지! 우혜림이 픽한 강남 맛집.list (엘르 코리아 ─ 스타)]]></title>
@@ -1110,24 +1122,28 @@
             <guid>https://www.elle.co.kr/article/78400</guid>
             <pubDate>Fri, 16 Jun 2023 12:22:21 GMT</pubDate>
             <content:encoded><![CDATA[우혜림의 SNS에서 포착한 강남구 핫 플레이스 세 곳을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/8a947866-f025-4e16-85f3-d45782ff0cdf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 운동하는 한고은 부부! 커플끼리 하기 좋은 운동은? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78396</link>
             <guid>https://www.elle.co.kr/article/78396</guid>
             <pubDate>Fri, 16 Jun 2023 11:10:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/349e7d67-f3ed-4b92-a5a5-4718ef4cf1fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜일까? 임시완이 '오징어게임' 시즌2의 주연을 맡을지도 모른다 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78391</link>
             <guid>https://www.elle.co.kr/article/78391</guid>
             <pubDate>Thu, 15 Jun 2023 06:17:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/69a46902-9b6e-4a5b-84a6-35f4cb7fdb69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누구 닮았을까? 로마에서 아빠 된 송중기가 직접 전한 아들 사진과 편지 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78387</link>
             <guid>https://www.elle.co.kr/article/78387</guid>
             <pubDate>Fri, 16 Jun 2023 01:06:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/6012fc52-dcba-4461-9d94-9648efd93bd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수지X김우빈, 김은숙 로코 <다 이루어질지니>에서 7년 만에 재회한다 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1450,6 +1466,7 @@
             <guid>https://www.elle.co.kr/article/78319</guid>
             <pubDate>Sat, 17 Jun 2023 19:12:03 GMT</pubDate>
             <content:encoded><![CDATA[저마다 취향과 여행의 추억을 머금은 두 공간으로 초대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/a17c974e-e664-469b-833b-3c16fc92870e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야외 펍에서 불금 즐기고 능소화 꽃 구경? 청춘 냄새 가득한 6월 여름 축제 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
