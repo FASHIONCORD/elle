@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-18T02:53:10.131Z</updated>
+    <updated>2023-06-18T03:18:13.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['범죄도시3 초롱이' 고규필, 9년째 열애 중이었다고?!]]></title>
+        <id>https://www.elle.co.kr/article/78425</id>
+        <link href="https://www.elle.co.kr/article/78425"/>
+        <updated>2023-06-18T03:17:13.627Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이효리가 20년 지기 매니저 결혼식에서 눈물의 '유 고 걸' 부른 이유]]></title>
         <id>https://www.elle.co.kr/article/78420</id>
@@ -48,11 +54,5 @@
         <id>https://www.elle.co.kr/article/78387</id>
         <link href="https://www.elle.co.kr/article/78387"/>
         <updated>2023-06-16T01:06:10.013Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지X김우빈, 김은숙 로코 <다 이루어질지니>에서 7년 만에 재회한다]]></title>
-        <id>https://www.elle.co.kr/article/78371</id>
-        <link href="https://www.elle.co.kr/article/78371"/>
-        <updated>2023-06-16T01:06:10.014Z</updated>
     </entry>
 </feed>
