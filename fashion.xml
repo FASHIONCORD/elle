@@ -4,16 +4,22 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 09:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 10:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BORN FREE]]></title>
+            <link>https://www.elle.co.kr/article/78310</link>
+            <guid>https://www.elle.co.kr/article/78310</guid>
+            <pubDate>Tue, 20 Jun 2023 10:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[남자의 치마는 이토록 쿨하다.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[요즘 눈에 띄는 헤어 액세서리는? 헤드 스카프 스타일 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/78431</link>
             <guid>https://www.elle.co.kr/article/78431</guid>
             <pubDate>Tue, 20 Jun 2023 02:34:42 GMT</pubDate>
             <content:encoded><![CDATA[벨라 하디드부터 김나영까지 옷 잘 입는 스타들이 즐기는 헤드 스카프 스타일링을 모아봤어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/17/32f76909-3d06-4ddd-995a-4293fb51f9c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘에어팟 맥스 가방’과 코페르니의 ‘이어폰 귀걸이’의 정체는? 이어폰의 변신은 무죄 3]]></title>
@@ -21,7 +27,6 @@
             <guid>https://www.elle.co.kr/article/78426</guid>
             <pubDate>Mon, 19 Jun 2023 08:16:43 GMT</pubDate>
             <content:encoded><![CDATA[귀걸이부터 가방, 스카프까지! 그 어떤 것으로도 변신할 수 있는 이어폰의 무한한 가능성.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/8a43eb5a-f921-4a97-b233-b5aed23d0957.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패션에서 딱 하나만 알아야 된다면: 콰이어트 럭셔리]]></title>
@@ -62,14 +67,6 @@
             <pubDate>Fri, 16 Jun 2023 12:22:00 GMT</pubDate>
             <content:encoded><![CDATA[콘셉트도, 스타일도 다른 2인2색 화이트 룩.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/7543aa71-51d2-4ac6-8aa4-306f208c2757.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행 가서 뭐 입을까 고민된다면? 스타들의 해외여행 룩 대방출!]]></title>
-            <link>https://www.elle.co.kr/article/78359</link>
-            <guid>https://www.elle.co.kr/article/78359</guid>
-            <pubDate>Fri, 16 Jun 2023 02:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[핫걸로 변신한 서현부터 로맨틱한 신혼여행 룩을 선보인 이다해까지, 스타일리시한 여행 패션의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/ba14a87a-901c-4ba0-afd8-c6e2c4d587eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
