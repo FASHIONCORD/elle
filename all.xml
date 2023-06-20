@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 06:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1085,6 +1085,7 @@
             <link>https://www.elle.co.kr/article/78463</link>
             <guid>https://www.elle.co.kr/article/78463</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/8b70c0d0-7a52-4ffc-b6d7-d6d206d6dfce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<마당이 있는 집> 김태희X임지연, 역대급 뜨거운 조우 (엘르 코리아 ─ 스타)]]></title>
@@ -1092,12 +1093,14 @@
             <guid>https://www.elle.co.kr/article/78442</guid>
             <pubDate>Tue, 20 Jun 2023 02:35:05 GMT</pubDate>
             <content:encoded><![CDATA[아름답고 강렬한 케미스트리 담은 &lt;엘르&gt; 화보 공개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/b7a8679d-5034-4ccf-88ed-e662e7c1bd07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재준아... 녹색이 보여? '오징어게임' 시즌2에서 충돌할 '미생'과 '더 글로리' 세계관 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78451</link>
             <guid>https://www.elle.co.kr/article/78451</guid>
             <pubDate>Tue, 20 Jun 2023 01:03:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/b3d4015e-0739-48b5-80ae-70dcf0b757ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선크림부터 향수까지! 장희령이 꼽은 일곱 가지 뷰티 아이템 (엘르 코리아 ─ 스타)]]></title>
@@ -1105,6 +1108,7 @@
             <guid>https://www.elle.co.kr/article/78443</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:05 GMT</pubDate>
             <content:encoded><![CDATA[청초한 매력을 가진 장희령이 ‘찐’으로 애정하는 뷰티템을 구경해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/82901112-ee1a-4723-b06e-5a0bff6c8cad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Us Now (엘르 코리아 ─ 스타)]]></title>
@@ -1112,6 +1116,7 @@
             <guid>https://www.elle.co.kr/article/78439</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:05 GMT</pubDate>
             <content:encoded><![CDATA[그 어느 때보다 역동적으로 움직이는 프로미스나인의 지금!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/18/52286d5c-eeb4-4302-9a24-f0ba3966e602.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘리틀 포레스트’ 느낌 물씬! 여름 요리 레서피 3 (엘르 코리아 ─ 스타)]]></title>
@@ -1119,12 +1124,14 @@
             <guid>https://www.elle.co.kr/article/78438</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:05 GMT</pubDate>
             <content:encoded><![CDATA[무더운 날씨에 집 나간 입맛을 되찾는 방법! 미각을 상큼하게 깨워 줄 정재형표 여름 요리 레...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/18/cf3d1d0c-a22f-45eb-be2b-1011c654e7f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['짱구와 철수' 실사판! 티격태격 황광희X임시완, 뜻밖의 훈훈한 순간 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78432</link>
             <guid>https://www.elle.co.kr/article/78432</guid>
             <pubDate>Mon, 19 Jun 2023 04:17:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/17/f7fcf673-85a8-43e7-938e-8294be0ed09e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 눈에 띄는 헤어 액세서리는? 헤드 스카프 스타일 모음.zip (엘르 코리아 ─ 스타)]]></title>
@@ -1132,6 +1139,7 @@
             <guid>https://www.elle.co.kr/article/78431</guid>
             <pubDate>Mon, 19 Jun 2023 04:17:33 GMT</pubDate>
             <content:encoded><![CDATA[벨라 하디드부터 김나영까지 옷 잘 입는 스타들이 즐기는 헤드 스카프 스타일링을 모아봤어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/17/32f76909-3d06-4ddd-995a-4293fb51f9c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패션과 음악의 유기적 모멘트 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1362,7 +1370,6 @@
             <guid>https://www.elle.co.kr/article/78255</guid>
             <pubDate>Sun, 18 Jun 2023 15:12:33 GMT</pubDate>
             <content:encoded><![CDATA[축제의 장에서 가장 열렬히 호명된 이름과 그들의 디자인 세계관.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/c2a386ac-526e-47db-bbcb-6ef1ced165f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[본질의 회귀! 에르메스 홈 컬렉션 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1370,7 +1377,6 @@
             <guid>https://www.elle.co.kr/article/78253</guid>
             <pubDate>Tue, 13 Jun 2023 15:14:05 GMT</pubDate>
             <content:encoded><![CDATA[에르메스가 2023 밀란 디자인 위크를 맞아 &lt;엘르 데코&gt;를 다시 밀란으로 초대했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/dec8b378-3bea-4dbf-bdfd-bd65b943ab4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 밀란 디자인 위크에서 생긴 일 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1378,7 +1384,6 @@
             <guid>https://www.elle.co.kr/article/78251</guid>
             <pubDate>Sun, 11 Jun 2023 15:14:26 GMT</pubDate>
             <content:encoded><![CDATA[4월에 열린 밀란 디자인 위크와 살로네 델 모빌레 페어에서 가장 열렬히 호명된 이름과 그들의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/7bc906f6-cbe6-4975-92d5-ee6cdf83eb15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타가 다녀간 전시회는 어디? 지금 꼭 봐야하는 전시 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1386,7 +1391,6 @@
             <guid>https://www.elle.co.kr/article/78207</guid>
             <pubDate>Wed, 07 Jun 2023 19:12:54 GMT</pubDate>
             <content:encoded><![CDATA[일상에 새로운 자극과 영감이 필요하다면 주목! 셀러브리티가 방문 도장 찍고 온 핫한 전시를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/2f52641a-54c4-4187-a362-52dc229be92b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오초량, 오래된 장소가 품은 기억 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1457,6 +1461,7 @@
             <guid>https://www.elle.co.kr/article/78403</guid>
             <pubDate>Tue, 20 Jun 2023 02:36:16 GMT</pubDate>
             <content:encoded><![CDATA[못난이 과일잼과 캐나다 스타일의 비건 식당까지. 2년 차 비건 지향의 '무해한 삶' 보고서!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/5b1610e8-e3c0-4bcb-87eb-3f212fb2be23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독도새우부터 약과 쿠키까지! 우혜림이 픽한 강남 맛집.list (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1464,6 +1469,7 @@
             <guid>https://www.elle.co.kr/article/78400</guid>
             <pubDate>Fri, 16 Jun 2023 12:22:21 GMT</pubDate>
             <content:encoded><![CDATA[우혜림의 SNS에서 포착한 강남구 핫 플레이스 세 곳을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/8a947866-f025-4e16-85f3-d45782ff0cdf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여행의 추억을 머금은 카페 2 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1471,18 +1477,21 @@
             <guid>https://www.elle.co.kr/article/78319</guid>
             <pubDate>Sat, 17 Jun 2023 19:12:03 GMT</pubDate>
             <content:encoded><![CDATA[저마다 취향과 여행의 추억을 머금은 두 공간으로 초대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/a17c974e-e664-469b-833b-3c16fc92870e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야외 펍에서 불금 즐기고 능소화 꽃 구경? 청춘 냄새 가득한 6월 여름 축제 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/78346</link>
             <guid>https://www.elle.co.kr/article/78346</guid>
             <pubDate>Fri, 16 Jun 2023 09:14:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/48206ce0-ed16-4d09-bcad-5e12875721df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['윤슬 카페'부터 융드립 디카페인 커피까지! 이번 제주도 여름 휴가를 책임질 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/78337</link>
             <guid>https://www.elle.co.kr/article/78337</guid>
             <pubDate>Fri, 16 Jun 2023 05:12:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/c127ca9c-7725-4a18-8479-d13a38fb3d2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름의 서울, 네 곳의 드링크 신 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1490,6 +1499,7 @@
             <guid>https://www.elle.co.kr/article/78217</guid>
             <pubDate>Fri, 16 Jun 2023 01:06:54 GMT</pubDate>
             <content:encoded><![CDATA[기꺼이 들이켜고 싶은 여름의 서울 풍경, 그 달콤하고 씁쓸한 한 잔.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/4b3ebcf8-20c4-4517-a60c-4622fec85ffc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴욕 5번가에 새롭게 문을 연 티파니의 랜드마크 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1497,12 +1507,14 @@
             <guid>https://www.elle.co.kr/article/78184</guid>
             <pubDate>Thu, 15 Jun 2023 19:11:46 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;티파니에서 아침을&gt;의 명장면이 탄생한 뉴욕 5번가의 티파니 플래그십 스토어. 2019년 리뉴...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/149af20d-69b2-453c-977f-8bc54c92a528.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오뎅바부터 스키야키, 말차까지 풀코스로! 일본으로 멀리 떠날 필요 없는 연남-합정-망원 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/78155</link>
             <guid>https://www.elle.co.kr/article/78155</guid>
             <pubDate>Wed, 14 Jun 2023 15:13:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/82f63517-9f28-4612-b4f6-e82003f5b3f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 '1987' 촬영을 이 곳에서? 6·10 민주항쟁 기념 명소 #가볼만한곳 (엘르 코리아 ─ 소사이어티)]]></title>
