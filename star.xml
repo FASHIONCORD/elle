@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 23:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 01:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재준아... 녹색이 보여? '오징어게임' 시즌2에서 충돌할 '미생'과 '더 글로리' 세계관]]></title>
+            <link>https://www.elle.co.kr/article/78451</link>
+            <guid>https://www.elle.co.kr/article/78451</guid>
+            <pubDate>Tue, 20 Jun 2023 01:03:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/b3d4015e-0739-48b5-80ae-70dcf0b757ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선크림부터 향수까지! 장희령이 꼽은 일곱 가지 뷰티 아이템]]></title>
             <link>https://www.elle.co.kr/article/78443</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/78425</guid>
             <pubDate>Sun, 18 Jun 2023 03:17:13 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/da4b8e04-d5a1-4bec-8cd8-6c3906ead7d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리가 20년 지기 매니저 결혼식에서 눈물의 '유 고 걸' 부른 이유]]></title>
-            <link>https://www.elle.co.kr/article/78420</link>
-            <guid>https://www.elle.co.kr/article/78420</guid>
-            <pubDate>Sat, 17 Jun 2023 19:10:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/bdfbbce1-85d4-4157-a0b0-09720dbb684f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
