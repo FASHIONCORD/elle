@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 04:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 05:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 세상을 이루는 수학과 음악]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/78212</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/78212</guid>
+            <pubDate>Wed, 21 Jun 2023 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[음악을 동경한다. 음악 그 자체에 느끼는 경이와 음악 하는 사람에 대한 경외심이 함께 어우러...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/10/00f9ef73-c724-4ac2-a98f-0a41ab835d0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 '1987' 촬영을 이 곳에서? 6·10 민주항쟁 기념 명소 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/78254</link>
@@ -58,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/78095</guid>
             <pubDate>Thu, 08 Jun 2023 03:19:18 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/42d4c74b-bcec-4bfc-a191-62197fdc455a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 악플 달면 제대로 망신?! 6월부터 네이버-다음 댓글창에 생기는 변화]]></title>
-            <link>https://www.elle.co.kr/article/78067</link>
-            <guid>https://www.elle.co.kr/article/78067</guid>
-            <pubDate>Wed, 07 Jun 2023 15:14:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/4ac5bcac-5212-4166-90ad-facf78136cca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
