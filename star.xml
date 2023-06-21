@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-21T03:14:36.100Z</updated>
+    <updated>2023-06-21T04:16:38.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[따라 하고 싶은 스타들의 여름 패션! #튜브톱]]></title>
+        <id>https://www.elle.co.kr/article/78482</id>
+        <link href="https://www.elle.co.kr/article/78482"/>
+        <updated>2023-06-21T04:15:22.092Z</updated>
+        <content type="html"><![CDATA[핫한 서머 룩을 위해 필요한 아이템은 바로 어깨를 시원하게 드러낸 튜브 톱!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘언제나 맑음’ 배우 강말금의 패션 매거진 <엘르> 화보 공개]]></title>
         <id>https://www.elle.co.kr/article/78459</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/78443"/>
         <updated>2023-06-19T08:17:05.001Z</updated>
         <content type="html"><![CDATA[청초한 매력을 가진 장희령이 ‘찐’으로 애정하는 뷰티템을 구경해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Us Now]]></title>
-        <id>https://www.elle.co.kr/article/78439</id>
-        <link href="https://www.elle.co.kr/article/78439"/>
-        <updated>2023-06-19T08:17:05.002Z</updated>
-        <content type="html"><![CDATA[그 어느 때보다 역동적으로 움직이는 프로미스나인의 지금!]]></content>
     </entry>
 </feed>
