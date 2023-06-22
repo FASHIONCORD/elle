@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 16:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 17:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 쇄신한다는 '놀면 뭐하니', 새 멤버는 주우재! 첫 방송은 언제?]]></title>
+            <link>https://www.elle.co.kr/article/78607</link>
+            <guid>https://www.elle.co.kr/article/78607</guid>
+            <pubDate>Thu, 22 Jun 2023 17:12:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/fcb68e27-addc-48f3-a1f4-3d6350c78062.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김태희X임지연의 스릴러, 긴장감 미쳤다! '마당이 있는 집' 첫 방송 내용은?]]></title>
             <link>https://www.elle.co.kr/article/78510</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/78465</link>
             <guid>https://www.elle.co.kr/article/78465</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/364ad08a-563f-4f7b-aed3-6dd1f3e33d31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[셔누가 파이트 저지로? 2년 만에 돌아오는 '스우파' 시즌2 정보 모음.zip]]></title>
@@ -83,13 +89,6 @@
             <link>https://www.elle.co.kr/article/78134</link>
             <guid>https://www.elle.co.kr/article/78134</guid>
             <pubDate>Mon, 05 Jun 2023 07:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[영화 자체로 재밌다고 소문난 ‘자우림, 더 원더랜드’]]></title>
-            <link>https://www.elle.co.kr/article/78113</link>
-            <guid>https://www.elle.co.kr/article/78113</guid>
-            <pubDate>Sun, 04 Jun 2023 04:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[“120분은 너무 짧아요.” 밴드 자우림의 25주년의 역사를 다 알지 못하더라도 재밌다고 소문난 ...]]></content:encoded>
         </item>
     </channel>
 </rss>
