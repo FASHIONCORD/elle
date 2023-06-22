@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 22:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 23:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1024,6 +1024,7 @@
             <guid>https://www.elle.co.kr/article/78431</guid>
             <pubDate>Mon, 19 Jun 2023 04:17:33 GMT</pubDate>
             <content:encoded><![CDATA[벨라 하디드부터 김나영까지 옷 잘 입는 스타들이 즐기는 헤드 스카프 스타일링을 모아봤어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/17/32f76909-3d06-4ddd-995a-4293fb51f9c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갓벽한 여행을 원한다면? 뷰티 트래블 키트 4 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1283,28 +1284,24 @@
             <link>https://www.elle.co.kr/article/78607</link>
             <guid>https://www.elle.co.kr/article/78607</guid>
             <pubDate>Thu, 22 Jun 2023 17:12:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/fcb68e27-addc-48f3-a1f4-3d6350c78062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김태희X임지연의 스릴러, 긴장감 미쳤다! '마당이 있는 집' 첫 방송 내용은? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78510</link>
             <guid>https://www.elle.co.kr/article/78510</guid>
             <pubDate>Tue, 20 Jun 2023 09:13:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/9a3befdd-663d-48eb-a433-7995d8401c6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공개 앞둔 '원피스' 실사판 드라마, '고무고무 피스톨'은 어떻게 재현했을까? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78509</link>
             <guid>https://www.elle.co.kr/article/78509</guid>
             <pubDate>Tue, 20 Jun 2023 09:13:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/aa0b4dcf-e107-49fd-b27f-d8176b0b49d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이준호X임윤아, 이 케미 무엇? '킹더랜드'가 첫 방송부터 화제 일으킨 이유 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78466</link>
             <guid>https://www.elle.co.kr/article/78466</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/6a84eef8-1d79-4566-9160-7cb6d83e888e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라미란X이도현의 살벌한 연기력! '나쁜 엄마' 명장면 모음 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1524,6 +1521,7 @@
             <guid>https://www.elle.co.kr/article/78289</guid>
             <pubDate>Thu, 22 Jun 2023 02:46:20 GMT</pubDate>
             <content:encoded><![CDATA[현재 이 땅에 살고있는 북한 이주민의 수는 3만여 명. 낮은 만남의 확률을 뚫고 그들의 가족이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/47efd252-65d7-4f1c-bb50-7c16aa0a37ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 세상을 이루는 수학과 음악 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1531,18 +1529,21 @@
             <guid>https://www.elle.co.kr/ellevoice/essay/78212</guid>
             <pubDate>Wed, 21 Jun 2023 05:15:05 GMT</pubDate>
             <content:encoded><![CDATA[음악을 동경한다. 음악 그 자체에 느끼는 경이와 음악 하는 사람에 대한 경외심이 함께 어우러...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/10/00f9ef73-c724-4ac2-a98f-0a41ab835d0c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 '1987' 촬영을 이 곳에서? 6·10 민주항쟁 기념 명소 #가볼만한곳 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/78254</link>
             <guid>https://www.elle.co.kr/article/78254</guid>
             <pubDate>Thu, 15 Jun 2023 16:16:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/d035e6bc-3b38-483c-991a-0dacc18549b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시간이 없어서 돈을 못 번다고? 화려한 'N잡러' 뒤에 숨겨진 치열한 노력 따라잡기_돈쓸신잡 #101 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/78211</link>
             <guid>https://www.elle.co.kr/article/78211</guid>
             <pubDate>Thu, 15 Jun 2023 02:39:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/4a7882a9-796c-4bf2-bce2-e21051ad8a3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 유튜브 오느른 의 주인공, 최별 PD가 자연 속에서 깨달은 것 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1550,12 +1551,14 @@
             <guid>https://www.elle.co.kr/ellevoice/essay/78195</guid>
             <pubDate>Tue, 13 Jun 2023 15:14:37 GMT</pubDate>
             <content:encoded><![CDATA[오랜 인연이 결혼이 됐다! 어떻게? 최별 PD가 초여름 조금씩 달리기 시작한 이유]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/1409be00-b13c-4da4-84c2-996d2ee81e1b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[17살에 받아 평생 쓰는 주민등록증, 이제 재발급 필수? 변경 예정인 신분증 정책 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/78203</link>
             <guid>https://www.elle.co.kr/article/78203</guid>
             <pubDate>Sun, 11 Jun 2023 16:16:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/acced2d1-2c73-43f7-ab5c-5745cac6ad61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’ (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1563,6 +1566,7 @@
             <guid>https://www.elle.co.kr/article/78194</guid>
             <pubDate>Wed, 07 Jun 2023 09:20:26 GMT</pubDate>
             <content:encoded><![CDATA[헤드셋이 아닌 컴퓨터라고 불러주세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/d751c85b-8ab9-4b7f-bf56-443aee21d033.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 운동코치 에리카가 힙합을 좋아하게 된 이유 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1570,6 +1574,7 @@
             <guid>https://www.elle.co.kr/ellevoice/essay/78153</guid>
             <pubDate>Fri, 09 Jun 2023 08:17:51 GMT</pubDate>
             <content:encoded><![CDATA['여자어'에서 벗어나 솔직하고 명확한 언어로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/bebfef8f-b3d6-40e2-a26b-85b0b9eeddea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
