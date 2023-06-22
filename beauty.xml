@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-06-22T06:17:56.731Z</updated>
+    <updated>2023-06-22T07:13:19.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[힙하다 힙해! YOSM 화장품]]></title>
+        <id>https://www.elle.co.kr/article/78335</id>
+        <link href="https://www.elle.co.kr/article/78335"/>
+        <updated>2023-06-22T07:11:53.498Z</updated>
+        <content type="html"><![CDATA[감성적인 컬러와 볼드해진 로고를 입고 생동감 있게 변신한 요즘 화장품 5.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[함께 운동하는 한고은 부부! 커플끼리 하기 좋은 운동은? #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/78396</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/78292"/>
         <updated>2023-06-15T08:15:08.944Z</updated>
         <content type="html"><![CDATA[핸드크림부터 고체 향수까지! 당장 따라 사고 싶은 남보라의 뷰티 아이템을 확인해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페스티벌엔 '트윙클' 메이크업!]]></title>
-        <id>https://www.elle.co.kr/article/78244</id>
-        <link href="https://www.elle.co.kr/article/78244"/>
-        <updated>2023-06-14T15:12:35.875Z</updated>
-        <content type="html"><![CDATA[뮤직 페스티벌 시즌이 돌아왔다. 블링블링한 파츠와 알록달록한 비즈의 힘을 빌려 완성한 ‘힙’...]]></content>
     </entry>
 </feed>
