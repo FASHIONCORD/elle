@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 09:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 10:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 쇄신한다는 '놀면 뭐하니', 새 멤버는 주우재! 첫 방송은 언제?]]></title>
+            <link>https://www.elle.co.kr/article/78607</link>
+            <guid>https://www.elle.co.kr/article/78607</guid>
+            <pubDate>Fri, 23 Jun 2023 10:15:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/fcb68e27-addc-48f3-a1f4-3d6350c78062.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['한예종 몸짱' 출신 김건우가 '더 글로리' 손명오 피지컬을 만들기 위해 한 일 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/78577</link>
+            <guid>https://www.elle.co.kr/article/78577</guid>
+            <pubDate>Fri, 23 Jun 2023 10:15:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/49a14788-f75d-4e40-be76-32606ad9a614.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이장우, 숏컷이 매력적인 후배 조혜원과 공개 연애 시작! (feat. 우동집 럽스타)]]></title>
             <link>https://www.elle.co.kr/article/78573</link>
@@ -51,21 +65,6 @@
             <guid>https://www.elle.co.kr/article/78542</guid>
             <pubDate>Thu, 22 Jun 2023 06:16:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/ef09b4f8-59b0-47d7-953b-719797947d82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니부터 정호연까지! 셀럽들의 친구 '수스'의 활약 모아보기]]></title>
-            <link>https://www.elle.co.kr/article/78528</link>
-            <guid>https://www.elle.co.kr/article/78528</guid>
-            <pubDate>Thu, 22 Jun 2023 04:16:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/c364ae78-af49-4167-89fa-d9976ddddd83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름엔 가방도 다이어트를! Y2K 스타일 숄더백 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/78521</link>
-            <guid>https://www.elle.co.kr/article/78521</guid>
-            <pubDate>Thu, 22 Jun 2023 02:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[서머 백 쇼핑을 계획하고 있다면? 스타들이 애정하는 세기말 분위기 가득한 숄더백을 확인해 보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/01782071-3dbc-4ed4-9230-85ddbd17933d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
