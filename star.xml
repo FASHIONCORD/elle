@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 06:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 07:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이장우, 숏컷이 매력적인 후배 조혜원과 공개 연애 시작! (feat. 우동집 럽스타)]]></title>
+            <link>https://www.elle.co.kr/article/78573</link>
+            <guid>https://www.elle.co.kr/article/78573</guid>
+            <pubDate>Fri, 23 Jun 2023 07:13:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/8aac20ef-1d04-4211-99bf-08164ad9c33c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프랑스 칸을 빛낸 크리스탈 엘르 7월호 화보 장식]]></title>
             <link>https://www.elle.co.kr/article/78554</link>
@@ -59,14 +66,6 @@
             <pubDate>Thu, 22 Jun 2023 02:45:02 GMT</pubDate>
             <content:encoded><![CDATA[서머 백 쇼핑을 계획하고 있다면? 스타들이 애정하는 세기말 분위기 가득한 숄더백을 확인해 보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/01782071-3dbc-4ed4-9230-85ddbd17933d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이세영과 오니츠카타이거의 '멕시코 66 캑트풀' 화보]]></title>
-            <link>https://www.elle.co.kr/article/78515</link>
-            <guid>https://www.elle.co.kr/article/78515</guid>
-            <pubDate>Wed, 21 Jun 2023 20:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[오니츠카타이거의 신제품 멕시코 66 캑트풀(MEXICO 66 CACTFUL)을 신고, 폴짝! 뛰어오르는 배...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/7bdaaf67-21a7-4d80-ba59-ec4ca6aebcb3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
