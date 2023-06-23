@@ -1,61 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-23T05:16:41.227Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[프랑스 칸을 빛낸 크리스탈 엘르 7월호 화보 장식]]></title>
-        <id>https://www.elle.co.kr/article/78554</id>
-        <link href="https://www.elle.co.kr/article/78554"/>
-        <updated>2023-06-23T02:57:27.331Z</updated>
-        <content type="html"><![CDATA[칸에서 재발견한 크리스탈의 독보적 아름다움.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #1 스타일리스트 엄아름]]></title>
-        <id>https://www.elle.co.kr/article/78555</id>
-        <link href="https://www.elle.co.kr/article/78555"/>
-        <updated>2023-06-22T19:11:55.748Z</updated>
-        <content type="html"><![CDATA[태연의 스타일리스트 엄아름이 애정하는 물건과 그 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비싼 만큼 신중하게 선택할 것! 모델 김성희가 추천하는 인생 가방 11]]></title>
-        <id>https://www.elle.co.kr/article/78551</id>
-        <link href="https://www.elle.co.kr/article/78551"/>
-        <updated>2023-06-22T18:14:58.785Z</updated>
-        <content type="html"><![CDATA[김성희가 추천하는 11가지 명품 백을 크기별로 나누어 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바쁘다 바빠! 세상 잘 나가는 '더 글로리' 빌런 5인방 스케줄 상황.txt]]></title>
-        <id>https://www.elle.co.kr/article/78543</id>
-        <link href="https://www.elle.co.kr/article/78543"/>
-        <updated>2023-06-22T07:12:19.863Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대식가+고무줄 몸무게라는 에스파 카리나의 관리 비결 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/78542</id>
-        <link href="https://www.elle.co.kr/article/78542"/>
-        <updated>2023-06-22T06:16:30.818Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 제니부터 정호연까지! 셀럽들의 친구 '수스'의 활약 모아보기]]></title>
-        <id>https://www.elle.co.kr/article/78528</id>
-        <link href="https://www.elle.co.kr/article/78528"/>
-        <updated>2023-06-22T04:16:38.637Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름엔 가방도 다이어트를! Y2K 스타일 숄더백 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/78521</id>
-        <link href="https://www.elle.co.kr/article/78521"/>
-        <updated>2023-06-22T02:45:02.268Z</updated>
-        <content type="html"><![CDATA[서머 백 쇼핑을 계획하고 있다면? 스타들이 애정하는 세기말 분위기 가득한 숄더백을 확인해 보...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세영과 오니츠카타이거의 '멕시코 66 캑트풀' 화보]]></title>
-        <id>https://www.elle.co.kr/article/78515</id>
-        <link href="https://www.elle.co.kr/article/78515"/>
-        <updated>2023-06-21T20:13:27.964Z</updated>
-        <content type="html"><![CDATA[오니츠카타이거의 신제품 멕시코 66 캑트풀(MEXICO 66 CACTFUL)을 신고, 폴짝! 뛰어오르는 배...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 23 Jun 2023 06:20:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스 칸을 빛낸 크리스탈 엘르 7월호 화보 장식]]></title>
+            <link>https://www.elle.co.kr/article/78554</link>
+            <guid>https://www.elle.co.kr/article/78554</guid>
+            <pubDate>Fri, 23 Jun 2023 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[칸에서 재발견한 크리스탈의 독보적 아름다움.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/1714a83f-8dfe-44d4-9a22-e43eca6eacee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사물(사람과 물건) 인터뷰 #1 스타일리스트 엄아름]]></title>
+            <link>https://www.elle.co.kr/article/78555</link>
+            <guid>https://www.elle.co.kr/article/78555</guid>
+            <pubDate>Thu, 22 Jun 2023 19:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[태연의 스타일리스트 엄아름이 애정하는 물건과 그 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/f2ad807c-6abb-408a-98e7-61e0746b335b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비싼 만큼 신중하게 선택할 것! 모델 김성희가 추천하는 인생 가방 11]]></title>
+            <link>https://www.elle.co.kr/article/78551</link>
+            <guid>https://www.elle.co.kr/article/78551</guid>
+            <pubDate>Thu, 22 Jun 2023 18:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[김성희가 추천하는 11가지 명품 백을 크기별로 나누어 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/83aee937-c8e4-4c50-90b0-417cf85a9c4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바쁘다 바빠! 세상 잘 나가는 '더 글로리' 빌런 5인방 스케줄 상황.txt]]></title>
+            <link>https://www.elle.co.kr/article/78543</link>
+            <guid>https://www.elle.co.kr/article/78543</guid>
+            <pubDate>Thu, 22 Jun 2023 07:12:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/e576d8a5-5bfd-41c4-a1e0-5978f3f019a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대식가+고무줄 몸무게라는 에스파 카리나의 관리 비결 총정리 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/78542</link>
+            <guid>https://www.elle.co.kr/article/78542</guid>
+            <pubDate>Thu, 22 Jun 2023 06:16:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/ef09b4f8-59b0-47d7-953b-719797947d82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 제니부터 정호연까지! 셀럽들의 친구 '수스'의 활약 모아보기]]></title>
+            <link>https://www.elle.co.kr/article/78528</link>
+            <guid>https://www.elle.co.kr/article/78528</guid>
+            <pubDate>Thu, 22 Jun 2023 04:16:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/c364ae78-af49-4167-89fa-d9976ddddd83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름엔 가방도 다이어트를! Y2K 스타일 숄더백 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/78521</link>
+            <guid>https://www.elle.co.kr/article/78521</guid>
+            <pubDate>Thu, 22 Jun 2023 02:45:02 GMT</pubDate>
+            <content:encoded><![CDATA[서머 백 쇼핑을 계획하고 있다면? 스타들이 애정하는 세기말 분위기 가득한 숄더백을 확인해 보...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/01782071-3dbc-4ed4-9230-85ddbd17933d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이세영과 오니츠카타이거의 '멕시코 66 캑트풀' 화보]]></title>
+            <link>https://www.elle.co.kr/article/78515</link>
+            <guid>https://www.elle.co.kr/article/78515</guid>
+            <pubDate>Wed, 21 Jun 2023 20:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[오니츠카타이거의 신제품 멕시코 66 캑트풀(MEXICO 66 CACTFUL)을 신고, 폴짝! 뛰어오르는 배...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/7bdaaf67-21a7-4d80-ba59-ec4ca6aebcb3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
