@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-06-24T18:17:08.161Z</updated>
+    <updated>2023-06-24T19:12:56.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드]]></title>
+        <id>https://www.elle.co.kr/article/78460</id>
+        <link href="https://www.elle.co.kr/article/78460"/>
+        <updated>2023-06-24T19:12:46.001Z</updated>
+        <content type="html"><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 시티포레스티벌 2023의 기분 좋은 바이브]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘리틀 포레스트’ 느낌 물씬! 여름 요리 레서피 3]]></title>
         <id>https://www.elle.co.kr/article/78438</id>
@@ -51,11 +58,5 @@
         <id>https://www.elle.co.kr/article/78346</id>
         <link href="https://www.elle.co.kr/article/78346"/>
         <updated>2023-06-16T09:14:12.235Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['윤슬 카페'부터 융드립 디카페인 커피까지! 이번 제주도 여름 휴가를 책임질 #신상맛집 3]]></title>
-        <id>https://www.elle.co.kr/article/78337</id>
-        <link href="https://www.elle.co.kr/article/78337"/>
-        <updated>2023-06-16T05:12:54.885Z</updated>
     </entry>
 </feed>
