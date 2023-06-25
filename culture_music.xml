@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 19:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 20:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://www.elle.co.kr/article/78463</link>
             <guid>https://www.elle.co.kr/article/78463</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/8b70c0d0-7a52-4ffc-b6d7-d6d206d6dfce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드]]></title>
