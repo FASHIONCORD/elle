@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 05:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 06:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘르 데코 픽! 센스 있는 선물 리스트]]></title>
+            <link>https://www.elle.co.kr/article/78266</link>
+            <guid>https://www.elle.co.kr/article/78266</guid>
+            <pubDate>Mon, 26 Jun 2023 06:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[엘르 데코가 꼽은 선물하기 좋은 리빙 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/2d592e70-33d1-4496-be3c-8ce50758bc52.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김태희X임지연의 스릴러, 긴장감 미쳤다! '마당이 있는 집' 첫 방송 내용은?]]></title>
             <link>https://www.elle.co.kr/article/78510</link>
@@ -57,14 +65,6 @@
             <pubDate>Tue, 20 Jun 2023 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[축제의 장에서 가장 열렬히 호명된 이름과 그들의 디자인 세계관.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/c2a386ac-526e-47db-bbcb-6ef1ced165f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션과 음악의 유기적 모멘트]]></title>
-            <link>https://www.elle.co.kr/article/78250</link>
-            <guid>https://www.elle.co.kr/article/78250</guid>
-            <pubDate>Sat, 24 Jun 2023 23:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[런웨이와 무대 위에서 펼쳐지는 패션과 음악의 상관관계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/a2eadd33-3011-4a40-898c-8ec12bb3ceaa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
