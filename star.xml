@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-26T04:20:43.039Z</updated>
+    <updated>2023-06-26T05:15:39.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SNS 인증샷 각! 윤은혜표 ‘크룽지’ 레서피]]></title>
+        <id>https://www.elle.co.kr/article/78641</id>
+        <link href="https://www.elle.co.kr/article/78641"/>
+        <updated>2023-06-26T05:14:35.919Z</updated>
+        <content type="html"><![CDATA[크루아상 좋아! 누룽지 좋아! 크루아상과 누룽지의 실패 없는 조합이 궁금하다면? 윤은혜의 크룽...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출연료도 필요 없는 끈끈한 우정! '사냥개들' 우도환과 '낭만닥터 김사부3' 김민재의 절친 모먼트]]></title>
         <id>https://www.elle.co.kr/article/78636</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/78608"/>
         <updated>2023-06-23T19:11:46.996Z</updated>
         <content type="html"><![CDATA[재유행각?! 미모 ‘포텐’ 터진 요즘 아이돌들의 공통점은 바로 스모키 메이크업!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 쇄신한다는 '놀면 뭐하니', 새 멤버는 주우재! 첫 방송은 언제?]]></title>
-        <id>https://www.elle.co.kr/article/78607</id>
-        <link href="https://www.elle.co.kr/article/78607"/>
-        <updated>2023-06-23T10:15:24.756Z</updated>
     </entry>
 </feed>
