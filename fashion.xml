@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 18:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 19:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름엔 미니 원피스지! 스타들이 사랑한 미니 원피스 스타일 7]]></title>
+            <link>https://www.elle.co.kr/article/78640</link>
+            <guid>https://www.elle.co.kr/article/78640</guid>
+            <pubDate>Mon, 26 Jun 2023 19:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[제니부터 카즈하, 백예린 등 따라 입고 싶은 스타들의 미니 원피스 스타일. 미니 드레스로 쉽고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/9aae2306-6596-4b8c-bb21-a9d9c2b523a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신의 애창곡]]></title>
             <link>https://www.elle.co.kr/article/78196</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 23 Jun 2023 15:14:14 GMT</pubDate>
             <content:encoded><![CDATA[태연의 스타일리스트 엄아름이 애정하는 물건과 그 이유.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/f2ad807c-6abb-408a-98e7-61e0746b335b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비싼 만큼 신중하게 선택할 것! 모델 김성희가 추천하는 인생 가방 11]]></title>
-            <link>https://www.elle.co.kr/article/78551</link>
-            <guid>https://www.elle.co.kr/article/78551</guid>
-            <pubDate>Fri, 23 Jun 2023 10:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[김성희가 추천하는 11가지 명품 백을 크기별로 나누어 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/83aee937-c8e4-4c50-90b0-417cf85a9c4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 18:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 19:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마당이 있는 집'의 김태희와 임지연이 만났을 때 벌어지는 일]]></title>
+            <link>https://www.elle.co.kr/article/78491</link>
+            <guid>https://www.elle.co.kr/article/78491</guid>
+            <pubDate>Mon, 26 Jun 2023 19:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[서로 영역을 공유하는 두 여자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/9cc59314-f0c0-430e-9f6c-5f8ef43060dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더없이 쿨하고 대담한 박하선]]></title>
             <link>https://www.elle.co.kr/article/78637</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/78632</guid>
             <pubDate>Sun, 25 Jun 2023 16:16:19 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/933527f1-20a1-4820-9a29-6cae95c3fd4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네가 가라, 라스베가스?! 일론 머스크 vs. 마크 저커버그 격투기 성사될까 (실화)]]></title>
-            <link>https://www.elle.co.kr/article/78631</link>
-            <guid>https://www.elle.co.kr/article/78631</guid>
-            <pubDate>Sat, 24 Jun 2023 19:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 왜 저래...?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/ff1ace5f-55a9-423c-9208-4fcbd9144446.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
