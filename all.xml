@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 07:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 08:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1088,11 +1088,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/f2f9f6a6-51dc-454b-8a99-c4b66082d4a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오직 자신의 길을 찾는 구도자, 지드래곤(G-DRAGON) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/78496</link>
+            <guid>https://www.elle.co.kr/article/78496</guid>
+            <pubDate>Mon, 26 Jun 2023 08:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[문제의 답은 내 자신 안에 있다는 믿음. 지드래곤과 샤넬의 포트레이트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/76f43d20-e851-4801-9bf5-58507994d738.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여름엔 미니 원피스지! 스타들이 사랑한 미니 원피스 스타일 7 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78640</link>
             <guid>https://www.elle.co.kr/article/78640</guid>
             <pubDate>Mon, 26 Jun 2023 07:14:15 GMT</pubDate>
             <content:encoded><![CDATA[제니부터 카즈하, 백예린 등 따라 입고 싶은 스타들의 미니 원피스 스타일. 미니 드레스로 쉽고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/9aae2306-6596-4b8c-bb21-a9d9c2b523a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SNS 인증샷 각! 윤은혜표 ‘크룽지’ 레서피 (엘르 코리아 ─ 스타)]]></title>
@@ -1100,12 +1109,14 @@
             <guid>https://www.elle.co.kr/article/78641</guid>
             <pubDate>Mon, 26 Jun 2023 05:14:35 GMT</pubDate>
             <content:encoded><![CDATA[크루아상 좋아! 누룽지 좋아! 크루아상과 누룽지의 실패 없는 조합이 궁금하다면? 윤은혜의 크룽...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/3065dfe3-64d7-46b7-b42f-eb1762691114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[출연료도 필요 없는 끈끈한 우정! '사냥개들' 우도환과 '낭만닥터 김사부3' 김민재의 절친 모먼트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78636</link>
             <guid>https://www.elle.co.kr/article/78636</guid>
             <pubDate>Mon, 26 Jun 2023 03:02:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/24/f0db5919-e2f9-4ca7-ad75-4f69801fc267.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부산에 가면 들러야 할 김나영의 '찐' 로컬 맛집 3 (엘르 코리아 ─ 스타)]]></title>
@@ -1113,12 +1124,14 @@
             <guid>https://www.elle.co.kr/article/78635</guid>
             <pubDate>Mon, 26 Jun 2023 01:16:08 GMT</pubDate>
             <content:encoded><![CDATA[40년 전통의 해장국집부터 숙성회를 백반으로 즐길 수 있는 횟집까지, 김나영의 입맛을 사로잡은...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/24/e11fd38b-5399-4483-9552-5c2c95121d8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[故 설리 유작, '페르소나'가 4년 만에 세상에 공개될지도 모른다 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78632</link>
             <guid>https://www.elle.co.kr/article/78632</guid>
             <pubDate>Sun, 25 Jun 2023 16:16:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/933527f1-20a1-4820-9a29-6cae95c3fd4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네가 가라, 라스베가스?! 일론 머스크 vs. 마크 저커버그 격투기 성사될까 (실화) (엘르 코리아 ─ 스타)]]></title>
@@ -1126,19 +1139,21 @@
             <guid>https://www.elle.co.kr/article/78631</guid>
             <pubDate>Sat, 24 Jun 2023 19:11:49 GMT</pubDate>
             <content:encoded><![CDATA[진짜 왜 저래...?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/ff1ace5f-55a9-423c-9208-4fcbd9144446.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결국 돌아오지 못한 잠수정 타이탄, 심해로 33번 내려갔던 제임스 카메론의 한 마디 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78623</link>
             <guid>https://www.elle.co.kr/article/78623</guid>
             <pubDate>Sat, 24 Jun 2023 19:11:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/02526411-23cf-4f21-ac0b-aba92842467d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오색찬란, 김연아의 빛깔 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/78538</link>
-            <guid>https://www.elle.co.kr/article/78538</guid>
-            <pubDate>Fri, 23 Jun 2023 20:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[한 가지 색, 한 가지 단어로는 부족한 깊고도 신비로운 김연아의 매력.]]></content:encoded>
+            <title><![CDATA[알바 알토가 살아 숨쉬는 집 #더컬렉터스 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/78331</link>
+            <guid>https://www.elle.co.kr/article/78331</guid>
+            <pubDate>Thu, 22 Jun 2023 15:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[볕으로 가득 차는 서울 부암동의 작은 빌라. 이곳에 알바 알토와 아이노 알토의 디자인이 나란...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[엘르 데코 픽! 센스 있는 선물 리스트 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1146,42 +1161,36 @@
             <guid>https://www.elle.co.kr/article/78266</guid>
             <pubDate>Wed, 21 Jun 2023 01:06:55 GMT</pubDate>
             <content:encoded><![CDATA[엘르 데코가 꼽은 선물하기 좋은 리빙 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/2d592e70-33d1-4496-be3c-8ce50758bc52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김태희X임지연의 스릴러, 긴장감 미쳤다! '마당이 있는 집' 첫 방송 내용은? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/78510</link>
             <guid>https://www.elle.co.kr/article/78510</guid>
             <pubDate>Tue, 20 Jun 2023 09:13:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/9a3befdd-663d-48eb-a433-7995d8401c6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공개 앞둔 '원피스' 실사판 드라마, '고무고무 피스톨'은 어떻게 재현했을까? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/78509</link>
             <guid>https://www.elle.co.kr/article/78509</guid>
             <pubDate>Tue, 20 Jun 2023 09:13:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/aa0b4dcf-e107-49fd-b27f-d8176b0b49d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이준호X임윤아, 이 케미 무엇? '킹더랜드'가 첫 방송부터 화제 일으킨 이유 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/78466</link>
             <guid>https://www.elle.co.kr/article/78466</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/6a84eef8-1d79-4566-9160-7cb6d83e888e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라미란X이도현의 살벌한 연기력! '나쁜 엄마' 명장면 모음 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/78465</link>
             <guid>https://www.elle.co.kr/article/78465</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/364ad08a-563f-4f7b-aed3-6dd1f3e33d31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연기-연예-가요대상급 관객석! 브루노 마스 내한 콘서트 관람 포착된 셀럽은? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/78463</link>
             <guid>https://www.elle.co.kr/article/78463</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/8b70c0d0-7a52-4ffc-b6d7-d6d206d6dfce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1189,15 +1198,6 @@
             <guid>https://www.elle.co.kr/article/78460</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:26 GMT</pubDate>
             <content:encoded><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 시티포레스티벌 2023의 기분 좋은 바이브]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/8c8e2f20-c1cb-4949-aa34-e214d6aafabf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에르메스의 홈 텍스타일 총괄 크리에이티브 디렉터 플로랑스 라파르주와 나눈 대화 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/78255</link>
-            <guid>https://www.elle.co.kr/article/78255</guid>
-            <pubDate>Sun, 18 Jun 2023 15:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[축제의 장에서 가장 열렬히 호명된 이름과 그들의 디자인 세계관.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/c2a386ac-526e-47db-bbcb-6ef1ced165f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연기-연예-가요대상급 관객석! 브루노 마스 내한 콘서트 관람 포착된 셀럽은? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1287,22 +1287,32 @@
             <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[임윤아X이준호 케미에 아는 맛이라 더 무서운 로맨스까지! '킹더랜드' 인기 요인 3 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/78664</link>
+            <guid>https://www.elle.co.kr/article/78664</guid>
+            <pubDate>Mon, 26 Jun 2023 08:24:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/24329c30-71bd-4e2f-9c2b-5d11abbdcca5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['스우파2', 벌써 시작된 K-POP 데스매치 영상과 크루 라인업 모음.zip (feat. 셀럽의 원픽은?) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78658</link>
             <guid>https://www.elle.co.kr/article/78658</guid>
             <pubDate>Mon, 26 Jun 2023 06:20:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/8573e16c-7c5b-4a7c-b7b2-0352f8f4cf57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['한국 영화 덕후' 아리 에스터가 봉준호와 만나 영화 이야기를 한다고?! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78651</link>
             <guid>https://www.elle.co.kr/article/78651</guid>
             <pubDate>Mon, 26 Jun 2023 05:15:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/3f3b61c5-0b54-4bb4-92b2-5b2605f6a331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[또 쇄신한다는 '놀면 뭐하니', 새 멤버는 주우재! 첫 방송은 언제? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78607</link>
             <guid>https://www.elle.co.kr/article/78607</guid>
             <pubDate>Thu, 22 Jun 2023 17:12:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/fcb68e27-addc-48f3-a1f4-3d6350c78062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김태희X임지연의 스릴러, 긴장감 미쳤다! '마당이 있는 집' 첫 방송 내용은? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1359,19 +1369,11 @@
             <pubDate>Mon, 12 Jun 2023 08:17:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[캐스팅 무슨 일? 강동원이 노비 된다는 넷플릭스 영화 '전, 란' 정보 모음.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/78275</link>
-            <guid>https://www.elle.co.kr/article/78275</guid>
-            <pubDate>Fri, 09 Jun 2023 11:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[알바 알토가 살아 숨쉬는 집 #더컬렉터스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/78331</link>
             <guid>https://www.elle.co.kr/article/78331</guid>
             <pubDate>Thu, 22 Jun 2023 15:13:56 GMT</pubDate>
             <content:encoded><![CDATA[볕으로 가득 차는 서울 부암동의 작은 빌라. 이곳에 알바 알토와 아이노 알토의 디자인이 나란...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/72405053-3741-4cdd-b7e7-a241896abbcf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘르 데코 픽! 센스 있는 선물 리스트 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1379,7 +1381,6 @@
             <guid>https://www.elle.co.kr/article/78266</guid>
             <pubDate>Wed, 21 Jun 2023 01:06:55 GMT</pubDate>
             <content:encoded><![CDATA[엘르 데코가 꼽은 선물하기 좋은 리빙 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/2d592e70-33d1-4496-be3c-8ce50758bc52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에르메스의 홈 텍스타일 총괄 크리에이티브 디렉터 플로랑스 라파르주와 나눈 대화 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1387,7 +1388,6 @@
             <guid>https://www.elle.co.kr/article/78255</guid>
             <pubDate>Sun, 18 Jun 2023 15:12:33 GMT</pubDate>
             <content:encoded><![CDATA[축제의 장에서 가장 열렬히 호명된 이름과 그들의 디자인 세계관.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/c2a386ac-526e-47db-bbcb-6ef1ced165f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[본질의 회귀! 에르메스 홈 컬렉션 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1395,7 +1395,6 @@
             <guid>https://www.elle.co.kr/article/78253</guid>
             <pubDate>Tue, 13 Jun 2023 15:14:05 GMT</pubDate>
             <content:encoded><![CDATA[에르메스가 2023 밀란 디자인 위크를 맞아 &lt;엘르 데코&gt;를 다시 밀란으로 초대했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/dec8b378-3bea-4dbf-bdfd-bd65b943ab4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 밀란 디자인 위크에서 생긴 일 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
