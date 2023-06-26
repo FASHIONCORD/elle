@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 01:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출연료도 필요 없는 끈끈한 우정! '사냥개들' 우도환과 '낭만닥터 김사부3' 김민재의 절친 모먼트]]></title>
+            <link>https://www.elle.co.kr/article/78636</link>
+            <guid>https://www.elle.co.kr/article/78636</guid>
+            <pubDate>Mon, 26 Jun 2023 03:02:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/24/f0db5919-e2f9-4ca7-ad75-4f69801fc267.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산에 가면 들러야 할 김나영의 '찐' 로컬 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/78635</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/78607</guid>
             <pubDate>Fri, 23 Jun 2023 10:15:24 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/fcb68e27-addc-48f3-a1f4-3d6350c78062.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한예종 몸짱' 출신 김건우가 '더 글로리' 손명오 피지컬을 만들기 위해 한 일 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/78577</link>
-            <guid>https://www.elle.co.kr/article/78577</guid>
-            <pubDate>Fri, 23 Jun 2023 10:15:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/49a14788-f75d-4e40-be76-32606ad9a614.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

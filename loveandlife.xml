@@ -4,16 +4,9 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 01:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[목장에서 공수한 신선한 치즈부터 데판 다이닝까지, 특별한 날을 더욱 빛내줄 다이닝 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/78478</link>
-            <guid>https://www.elle.co.kr/article/78478</guid>
-            <pubDate>Sun, 25 Jun 2023 16:17:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/6a60aec7-5026-4e19-9115-a3280e6d4270.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드]]></title>
             <link>https://www.elle.co.kr/article/78460</link>
@@ -68,6 +61,13 @@
             <pubDate>Sat, 17 Jun 2023 19:12:03 GMT</pubDate>
             <content:encoded><![CDATA[저마다 취향과 여행의 추억을 머금은 두 공간으로 초대.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/a17c974e-e664-469b-833b-3c16fc92870e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야외 펍에서 불금 즐기고 능소화 꽃 구경? 청춘 냄새 가득한 6월 여름 축제 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/78346</link>
+            <guid>https://www.elle.co.kr/article/78346</guid>
+            <pubDate>Mon, 26 Jun 2023 03:03:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/48206ce0-ed16-4d09-bcad-5e12875721df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
