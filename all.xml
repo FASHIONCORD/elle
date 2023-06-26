@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 06:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 07:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1088,6 +1088,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/f2f9f6a6-51dc-454b-8a99-c4b66082d4a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름엔 미니 원피스지! 스타들이 사랑한 미니 원피스 스타일 7 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/78640</link>
+            <guid>https://www.elle.co.kr/article/78640</guid>
+            <pubDate>Mon, 26 Jun 2023 07:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[제니부터 카즈하, 백예린 등 따라 입고 싶은 스타들의 미니 원피스 스타일. 미니 드레스로 쉽고...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SNS 인증샷 각! 윤은혜표 ‘크룽지’ 레서피 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78641</link>
             <guid>https://www.elle.co.kr/article/78641</guid>
@@ -1132,13 +1139,6 @@
             <guid>https://www.elle.co.kr/article/78538</guid>
             <pubDate>Fri, 23 Jun 2023 20:15:08 GMT</pubDate>
             <content:encoded><![CDATA[한 가지 색, 한 가지 단어로는 부족한 깊고도 신비로운 김연아의 매력.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요즘 아이돌 사이에서 유행 중! 스모키 메이크업 (2023 ver.) (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/78608</link>
-            <guid>https://www.elle.co.kr/article/78608</guid>
-            <pubDate>Fri, 23 Jun 2023 19:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[재유행각?! 미모 ‘포텐’ 터진 요즘 아이돌들의 공통점은 바로 스모키 메이크업!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[엘르 데코 픽! 센스 있는 선물 리스트 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1291,28 +1291,24 @@
             <link>https://www.elle.co.kr/article/78658</link>
             <guid>https://www.elle.co.kr/article/78658</guid>
             <pubDate>Mon, 26 Jun 2023 06:20:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/8573e16c-7c5b-4a7c-b7b2-0352f8f4cf57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['한국 영화 덕후' 아리 에스터가 봉준호와 만나 영화 이야기를 한다고?! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78651</link>
             <guid>https://www.elle.co.kr/article/78651</guid>
             <pubDate>Mon, 26 Jun 2023 05:15:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/3f3b61c5-0b54-4bb4-92b2-5b2605f6a331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[또 쇄신한다는 '놀면 뭐하니', 새 멤버는 주우재! 첫 방송은 언제? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78607</link>
             <guid>https://www.elle.co.kr/article/78607</guid>
             <pubDate>Thu, 22 Jun 2023 17:12:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/fcb68e27-addc-48f3-a1f4-3d6350c78062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김태희X임지연의 스릴러, 긴장감 미쳤다! '마당이 있는 집' 첫 방송 내용은? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/78510</link>
             <guid>https://www.elle.co.kr/article/78510</guid>
             <pubDate>Tue, 20 Jun 2023 09:13:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/9a3befdd-663d-48eb-a433-7995d8401c6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공개 앞둔 '원피스' 실사판 드라마, '고무고무 피스톨'은 어떻게 재현했을까? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
