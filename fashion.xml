@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 23:15:26 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[여름엔 미니 원피스지! 스타들이 사랑한 미니 원피스 스타일 7]]></title>
-            <link>https://www.elle.co.kr/article/78640</link>
-            <guid>https://www.elle.co.kr/article/78640</guid>
-            <pubDate>Mon, 26 Jun 2023 19:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[제니부터 카즈하, 백예린 등 따라 입고 싶은 스타들의 미니 원피스 스타일. 미니 드레스로 쉽고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/9aae2306-6596-4b8c-bb21-a9d9c2b523a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 애창곡]]></title>
-            <link>https://www.elle.co.kr/article/78196</link>
-            <guid>https://www.elle.co.kr/article/78196</guid>
-            <pubDate>Mon, 26 Jun 2023 15:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[익숙한 그 번호를 눌러.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/250397be-3ad3-41f3-aad5-ce0065b80788.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매혹적인 색에 머무는 순간]]></title>
-            <link>https://www.elle.co.kr/article/78222</link>
-            <guid>https://www.elle.co.kr/article/78222</guid>
-            <pubDate>Mon, 26 Jun 2023 15:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[기하학적인 아름다움을 가진 디올의 젬 디올 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/24/c83f65e9-dd4e-455b-aa2e-2bee079b3c4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리의 퐁네프를 수놓은 루이 비통의 새로운 패턴은? 2024 SS 파리 남성복 패션위크 속 순간들 3]]></title>
-            <link>https://www.elle.co.kr/article/78633</link>
-            <guid>https://www.elle.co.kr/article/78633</guid>
-            <pubDate>Sun, 25 Jun 2023 16:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[퍼렐 윌리엄스의 역사적인 데뷔 컬렉션부터 오늘날의 남성성과 부두교에 관한 번뜩이는 탐구까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/3507fb3d-9faa-4ba0-9d1e-361366873176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올드 머니 스타일의 계보]]></title>
-            <link>https://www.elle.co.kr/article/78613</link>
-            <guid>https://www.elle.co.kr/article/78613</guid>
-            <pubDate>Sun, 25 Jun 2023 16:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[5명의 패션 아이콘에게 한 수 배워 봅시다. 시대를 초월하는 콰이어트 럭셔리의 세계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/ecd56729-a262-4699-b524-73cd9b581574.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오색찬란, 김연아의 빛깔]]></title>
-            <link>https://www.elle.co.kr/article/78538</link>
-            <guid>https://www.elle.co.kr/article/78538</guid>
-            <pubDate>Sat, 24 Jun 2023 19:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[한 가지 색, 한 가지 단어로는 부족한 깊고도 신비로운 김연아의 매력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/f63275c8-d496-439e-8e4b-80bbf8a4f3c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 SS 밀라노 남성복 패션위크 데뷔를 성공리에 마친 국내 브랜드 2]]></title>
-            <link>https://www.elle.co.kr/article/78598</link>
-            <guid>https://www.elle.co.kr/article/78598</guid>
-            <pubDate>Sat, 24 Jun 2023 15:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[카르넷 아카이브와 앤더슨벨이 내디딘 힘찬 발걸음.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/cf77a7c2-a79d-4bdf-b895-c5e89c8d6309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사물(사람과 물건) 인터뷰 #1 스타일리스트 엄아름]]></title>
-            <link>https://www.elle.co.kr/article/78555</link>
-            <guid>https://www.elle.co.kr/article/78555</guid>
-            <pubDate>Fri, 23 Jun 2023 15:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[태연의 스타일리스트 엄아름이 애정하는 물건과 그 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/f2ad807c-6abb-408a-98e7-61e0746b335b.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-06-27T01:16:09.469Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름엔 미니 원피스지! 스타들이 사랑한 미니 원피스 스타일 7]]></title>
+        <id>https://www.elle.co.kr/article/78640</id>
+        <link href="https://www.elle.co.kr/article/78640"/>
+        <updated>2023-06-26T19:11:57.946Z</updated>
+        <content type="html"><![CDATA[제니부터 카즈하, 백예린 등 따라 입고 싶은 스타들의 미니 원피스 스타일. 미니 드레스로 쉽고...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신의 애창곡]]></title>
+        <id>https://www.elle.co.kr/article/78196</id>
+        <link href="https://www.elle.co.kr/article/78196"/>
+        <updated>2023-06-26T15:13:40.460Z</updated>
+        <content type="html"><![CDATA[익숙한 그 번호를 눌러.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매혹적인 색에 머무는 순간]]></title>
+        <id>https://www.elle.co.kr/article/78222</id>
+        <link href="https://www.elle.co.kr/article/78222"/>
+        <updated>2023-06-26T15:13:40.464Z</updated>
+        <content type="html"><![CDATA[기하학적인 아름다움을 가진 디올의 젬 디올 컬렉션.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파리의 퐁네프를 수놓은 루이 비통의 새로운 패턴은? 2024 SS 파리 남성복 패션위크 속 순간들 3]]></title>
+        <id>https://www.elle.co.kr/article/78633</id>
+        <link href="https://www.elle.co.kr/article/78633"/>
+        <updated>2023-06-25T16:15:58.434Z</updated>
+        <content type="html"><![CDATA[퍼렐 윌리엄스의 역사적인 데뷔 컬렉션부터 오늘날의 남성성과 부두교에 관한 번뜩이는 탐구까지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올드 머니 스타일의 계보]]></title>
+        <id>https://www.elle.co.kr/article/78613</id>
+        <link href="https://www.elle.co.kr/article/78613"/>
+        <updated>2023-06-25T16:15:58.438Z</updated>
+        <content type="html"><![CDATA[5명의 패션 아이콘에게 한 수 배워 봅시다. 시대를 초월하는 콰이어트 럭셔리의 세계.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오색찬란, 김연아의 빛깔]]></title>
+        <id>https://www.elle.co.kr/article/78538</id>
+        <link href="https://www.elle.co.kr/article/78538"/>
+        <updated>2023-06-24T19:11:29.747Z</updated>
+        <content type="html"><![CDATA[한 가지 색, 한 가지 단어로는 부족한 깊고도 신비로운 김연아의 매력.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 SS 밀라노 남성복 패션위크 데뷔를 성공리에 마친 국내 브랜드 2]]></title>
+        <id>https://www.elle.co.kr/article/78598</id>
+        <link href="https://www.elle.co.kr/article/78598"/>
+        <updated>2023-06-24T15:13:46.854Z</updated>
+        <content type="html"><![CDATA[카르넷 아카이브와 앤더슨벨이 내디딘 힘찬 발걸음.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #1 스타일리스트 엄아름]]></title>
+        <id>https://www.elle.co.kr/article/78555</id>
+        <link href="https://www.elle.co.kr/article/78555"/>
+        <updated>2023-06-23T15:14:14.535Z</updated>
+        <content type="html"><![CDATA[태연의 스타일리스트 엄아름이 애정하는 물건과 그 이유.]]></content>
+    </entry>
+</feed>
