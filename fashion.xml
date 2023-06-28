@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-28T01:16:24.218Z</updated>
+    <updated>2023-06-28T02:57:32.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칸에서 만난 크리스탈]]></title>
+        <id>https://www.elle.co.kr/article/78559</id>
+        <link href="https://www.elle.co.kr/article/78559"/>
+        <updated>2023-06-28T02:55:58.805Z</updated>
+        <content type="html"><![CDATA[선명하게 부서지는 햇빛과 건조한 바람, 낯설고도 아름다운 도시에서 만난 크리스탈.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤넬의 도쿄 익스프레스]]></title>
         <id>https://www.elle.co.kr/article/78588</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/78613"/>
         <updated>2023-06-25T16:15:58.438Z</updated>
         <content type="html"><![CDATA[5명의 패션 아이콘에게 한 수 배워 봅시다. 시대를 초월하는 콰이어트 럭셔리의 세계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오색찬란, 김연아의 빛깔]]></title>
-        <id>https://www.elle.co.kr/article/78538</id>
-        <link href="https://www.elle.co.kr/article/78538"/>
-        <updated>2023-06-24T19:11:29.747Z</updated>
-        <content type="html"><![CDATA[한 가지 색, 한 가지 단어로는 부족한 깊고도 신비로운 김연아의 매력.]]></content>
     </entry>
 </feed>
