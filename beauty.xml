@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-06-28T06:20:09.818Z</updated>
+    <updated>2023-06-28T07:14:08.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['한예종 몸짱' 출신 김건우가 '더 글로리' 손명오 피지컬을 만들기 위해 한 일 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/78577</id>
+        <link href="https://www.elle.co.kr/article/78577"/>
+        <updated>2023-06-28T07:13:00.553Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대식가+고무줄 몸무게라는 에스파 카리나의 관리 비결 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/78542</id>
@@ -51,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/78395"/>
         <updated>2023-06-19T07:13:48.605Z</updated>
         <content type="html"><![CDATA[에스투파, 나스, 이니스프리X데이즈데이즈의 따끈따끈한 신제품]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너 이름이 뭐니?]]></title>
-        <id>https://www.elle.co.kr/article/78378</id>
-        <link href="https://www.elle.co.kr/article/78378"/>
-        <updated>2023-06-18T19:11:18.151Z</updated>
-        <content type="html"><![CDATA[MZ세대의 라이프스타일에 새로운 ‘뷰티 코어’를 형성 하고 있는 어뮤즈. 버추얼 휴먼 '아마라...]]></content>
     </entry>
 </feed>
