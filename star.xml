@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 16:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 17:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://www.elle.co.kr/article/78734</link>
             <guid>https://www.elle.co.kr/article/78734</guid>
             <pubDate>Wed, 28 Jun 2023 15:14:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/4bb77a3e-efc6-46fc-989f-af1632580c86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 매력 부자! 김서형, 자연스러운 일상의 순간 포착]]></title>
