@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-06-29T01:14:04.021Z</updated>
+    <updated>2023-06-29T03:00:35.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[700년 만에 피어난 '아라홍련' 보러 갈래? 국내 연꽃 명소 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/78707</id>
+        <link href="https://www.elle.co.kr/article/78707"/>
+        <updated>2023-06-29T02:59:51.560Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시원한 내추럴 와인과 분위기에 취하는 여름밤! 성수-이태원-을지로 와인바 #신상맛집 3]]></title>
         <id>https://www.elle.co.kr/article/78683</id>
@@ -50,12 +56,5 @@
         <id>https://www.elle.co.kr/article/78478</id>
         <link href="https://www.elle.co.kr/article/78478"/>
         <updated>2023-06-27T04:17:36.300Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드]]></title>
-        <id>https://www.elle.co.kr/article/78460</id>
-        <link href="https://www.elle.co.kr/article/78460"/>
-        <updated>2023-06-24T19:12:46.001Z</updated>
-        <content type="html"><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 시티포레스티벌 2023의 기분 좋은 바이브]]></content>
     </entry>
 </feed>
