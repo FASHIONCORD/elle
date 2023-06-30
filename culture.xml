@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 15:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 16:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바비의 핑크빛 드림하우스에서 하룻밤을? 심지어 모든 것이 무료!]]></title>
+            <link>https://www.elle.co.kr/article/78767</link>
+            <guid>https://www.elle.co.kr/article/78767</guid>
+            <pubDate>Fri, 30 Jun 2023 16:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[말리부 해안선이 내려다보이는 대저택을 전세 낼 수 있는 절호의 기회.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/f75adf31-6954-4681-8383-315a077b7a1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국적과 시대를 넘나드는 고리원의 잔칫상 #더컬렉터스]]></title>
             <link>https://www.elle.co.kr/article/78342</link>
@@ -58,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/78651</guid>
             <pubDate>Tue, 27 Jun 2023 10:15:47 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/3f3b61c5-0b54-4bb4-92b2-5b2605f6a331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 홍대에 상륙한 조던 월드 오브 플라이트!]]></title>
-            <link>https://www.elle.co.kr/article/78617</link>
-            <guid>https://www.elle.co.kr/article/78617</guid>
-            <pubDate>Tue, 27 Jun 2023 02:58:48 GMT</pubDate>
-            <content:encoded><![CDATA[“조던, 영광의 시대는 언제였죠? 바로 지금입니다.”]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/ab6fcedd-e399-4a71-8056-622d7f23d6c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
