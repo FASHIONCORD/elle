@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 18:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 19:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사물(사람과 물건) 인터뷰 #2 모델 박경진]]></title>
+            <link>https://www.elle.co.kr/article/78739</link>
+            <guid>https://www.elle.co.kr/article/78739</guid>
+            <pubDate>Fri, 30 Jun 2023 19:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[모델 박경진이 애정하는 물건과 그 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/45d1b44b-d8ac-48bc-bf9a-57957632bec6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코트 위에서도 스타일리시하게! 셀러브리티의 테니스 룩 5]]></title>
             <link>https://www.elle.co.kr/article/78730</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 27 Jun 2023 10:15:11 GMT</pubDate>
             <content:encoded><![CDATA[선택 불가! 샤넬 공방컬렉션의 낭만적인 액세서리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/34b07612-45be-4d38-aca1-d7b3086752d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름엔 미니 원피스지! 스타들이 사랑한 미니 원피스 스타일 7]]></title>
-            <link>https://www.elle.co.kr/article/78640</link>
-            <guid>https://www.elle.co.kr/article/78640</guid>
-            <pubDate>Mon, 26 Jun 2023 19:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[제니부터 카즈하, 백예린 등 따라 입고 싶은 스타들의 미니 원피스 스타일. 미니 드레스로 쉽고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/9aae2306-6596-4b8c-bb21-a9d9c2b523a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
