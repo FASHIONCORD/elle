@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 18:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 19:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국인 최초 '레바뮌' 입성 임박! '나폴리 철기둥' 김민재의 이적 타임라인.txt]]></title>
+            <link>https://www.elle.co.kr/article/78839</link>
+            <guid>https://www.elle.co.kr/article/78839</guid>
+            <pubDate>Sat, 01 Jul 2023 19:11:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/47f584c1-49c0-479a-997f-d772786c7541.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야구장에서 스타를 만난다면?]]></title>
             <link>https://www.elle.co.kr/article/78819</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/78788</guid>
             <pubDate>Thu, 29 Jun 2023 15:13:47 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/662e5e51-b707-4971-baf9-9ef16416fa7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[졸리의 패션 아틀리에]]></title>
-            <link>https://www.elle.co.kr/article/78690</link>
-            <guid>https://www.elle.co.kr/article/78690</guid>
-            <pubDate>Thu, 29 Jun 2023 15:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[배우 안젤리나 졸리가 패션계에 입성했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/feaee341-a187-4286-83eb-ae400faa0aab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
