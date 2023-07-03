@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 18:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 19:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페라가모]]></title>
+            <link>https://www.elle.co.kr/article/78851</link>
+            <guid>https://www.elle.co.kr/article/78851</guid>
+            <pubDate>Mon, 03 Jul 2023 19:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[아찔한 핑크의 이면.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/01/ad18876f-a3ab-4725-9f29-1bd85be43f23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[챗 GPT가 쇼 노트를 작성한다면? AI와 패션이 조우한 순간 3]]></title>
             <link>https://www.elle.co.kr/article/78845</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 28 Jun 2023 19:12:11 GMT</pubDate>
             <content:encoded><![CDATA[탄탄한 복근으로 스타일 지수를 높인 스타들을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/98b70f6e-6c4b-4793-9f30-2715e211fa2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤엄칠 결심]]></title>
-            <link>https://www.elle.co.kr/article/78571</link>
-            <guid>https://www.elle.co.kr/article/78571</guid>
-            <pubDate>Wed, 28 Jun 2023 06:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[해변 분위기를 업그레이드해 줄 바캉스 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/088d5152-991f-4918-be1b-72a363072911.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
