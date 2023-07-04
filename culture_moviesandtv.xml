@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 04:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 05:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류승범이 20년 만에 선택한 드라마 '무빙'! 성공한 국산 히어로물 될까?]]></title>
+            <link>https://www.elle.co.kr/article/78906</link>
+            <guid>https://www.elle.co.kr/article/78906</guid>
+            <pubDate>Tue, 04 Jul 2023 05:15:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/424a33b5-5be9-4351-8814-748650353bd9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김태리X오정세의 기묘한 공조로 시선 집중! '악귀' 흥행 요인 2 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/78897</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/78853</link>
             <guid>https://www.elle.co.kr/article/78853</guid>
             <pubDate>Fri, 30 Jun 2023 20:16:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/01/88bb0e89-4bd4-40b0-a1d0-3b53dd721cce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은퇴한 탑이 '오징어게임2'에 나온다? 전체 캐스팅 라인업과 대본 리딩 현장.jpg]]></title>
@@ -82,12 +88,6 @@
             <link>https://www.elle.co.kr/article/78509</link>
             <guid>https://www.elle.co.kr/article/78509</guid>
             <pubDate>Tue, 20 Jun 2023 09:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[이준호X임윤아, 이 케미 무엇? '킹더랜드'가 첫 방송부터 화제 일으킨 이유]]></title>
-            <link>https://www.elle.co.kr/article/78466</link>
-            <guid>https://www.elle.co.kr/article/78466</guid>
-            <pubDate>Mon, 19 Jun 2023 08:17:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
