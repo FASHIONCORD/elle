@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 14:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 15:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우먼 인 골드]]></title>
+            <link>https://www.elle.co.kr/article/78769</link>
+            <guid>https://www.elle.co.kr/article/78769</guid>
+            <pubDate>Tue, 04 Jul 2023 15:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 금속이 천천히 식으며 드러나는 자태. 단단하고 유연한 금속에 매료된 다섯 명의 여성 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/862b568e-1469-4ee0-a6cf-ba82c9aa586e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동독 문화의 중심지는 이곳! 라이프치히의 마이스터 침머 #호텔미감]]></title>
             <link>https://www.elle.co.kr/article/78759</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/78767</guid>
             <pubDate>Wed, 28 Jun 2023 08:20:39 GMT</pubDate>
             <content:encoded><![CDATA[말리부 해안선이 내려다보이는 대저택을 전세 낼 수 있는 절호의 기회.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/f75adf31-6954-4681-8383-315a077b7a1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국적과 시대를 넘나드는 고리원의 잔칫상 #더컬렉터스]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/78251</guid>
             <pubDate>Sun, 11 Jun 2023 15:14:26 GMT</pubDate>
             <content:encoded><![CDATA[4월에 열린 밀란 디자인 위크와 살로네 델 모빌레 페어에서 가장 열렬히 호명된 이름과 그들의...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스타가 다녀간 전시회는 어디? 지금 꼭 봐야하는 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/78207</link>
-            <guid>https://www.elle.co.kr/article/78207</guid>
-            <pubDate>Wed, 07 Jun 2023 19:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[일상에 새로운 자극과 영감이 필요하다면 주목! 셀러브리티가 방문 도장 찍고 온 핫한 전시를 ...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 14:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 15:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화계의 초인싸, 백은하 소장이 직접 엘르에 전해온 칸 국제영화제의 고유하고 생생한 기록]]></title>
+            <link>https://www.elle.co.kr/article/78880</link>
+            <guid>https://www.elle.co.kr/article/78880</guid>
+            <pubDate>Tue, 04 Jul 2023 15:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 계속 영화를 사랑할 수 있을까? 정답은 그렇다이다! 그 어느 때보다 마법 같았던 칸느에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/6548dbd5-bfba-43ce-9e30-e7343a4f1238.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류승범이 20년 만에 선택한 드라마 '무빙'! 성공한 국산 히어로물 될까?]]></title>
             <link>https://www.elle.co.kr/article/78906</link>
@@ -33,7 +41,6 @@
             <link>https://www.elle.co.kr/article/78875</link>
             <guid>https://www.elle.co.kr/article/78875</guid>
             <pubDate>Mon, 03 Jul 2023 06:18:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/e5106004-e9d7-496b-b3bc-f8e9ef2506b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임윤아X이준호의 핑크빛 '킹더랜드'에 진선규가 깜짝 '공조'한 이유는?!]]></title>
@@ -81,12 +88,6 @@
             <title><![CDATA[김태희X임지연의 스릴러, 긴장감 미쳤다! '마당이 있는 집' 첫 방송 내용은?]]></title>
             <link>https://www.elle.co.kr/article/78510</link>
             <guid>https://www.elle.co.kr/article/78510</guid>
-            <pubDate>Tue, 20 Jun 2023 09:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[공개 앞둔 '원피스' 실사판 드라마, '고무고무 피스톨'은 어떻게 재현했을까?]]></title>
-            <link>https://www.elle.co.kr/article/78509</link>
-            <guid>https://www.elle.co.kr/article/78509</guid>
             <pubDate>Tue, 20 Jun 2023 09:13:07 GMT</pubDate>
         </item>
     </channel>
