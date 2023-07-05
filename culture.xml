@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-07-05T05:15:41.063Z</updated>
+    <updated>2023-07-05T06:19:59.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류승범이 20년 만에 선택한 드라마 '무빙'! 성공한 국산 히어로물 될까?]]></title>
+        <id>https://www.elle.co.kr/article/78906</id>
+        <link href="https://www.elle.co.kr/article/78906"/>
+        <updated>2023-07-05T06:19:14.223Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리X오정세의 기묘한 공조로 시선 집중! '악귀' 흥행 요인 2 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/78897</id>
@@ -49,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/78344"/>
         <updated>2023-07-04T01:14:55.706Z</updated>
         <content type="html"><![CDATA[파리 중심지에서 차로 1시간 남짓 달리면 도착하는 샤토 드 생브랑(Cha^teau de Saint-Vrain). ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인 최초 '레바뮌' 입성 임박! '나폴리 철기둥' 김민재의 이적 타임라인.txt]]></title>
-        <id>https://www.elle.co.kr/article/78839</id>
-        <link href="https://www.elle.co.kr/article/78839"/>
-        <updated>2023-07-03T06:18:29.902Z</updated>
     </entry>
 </feed>
