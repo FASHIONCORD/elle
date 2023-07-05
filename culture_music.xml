@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/music</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2023-07-04T23:15:23.980Z</updated>
+    <updated>2023-07-05T01:17:23.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국, 솔로 활동 앞두고 3년 전 자작곡 역주행한 이유는?]]></title>
+        <id>https://www.elle.co.kr/article/78933</id>
+        <link href="https://www.elle.co.kr/article/78933"/>
+        <updated>2023-07-05T01:16:30.486Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우아한 발레리나로 변신한 뉴진스의 2집 예고 (ft. 콘셉트 포토)]]></title>
         <id>https://www.elle.co.kr/article/78808</id>
@@ -83,12 +89,5 @@
         <link href="https://www.elle.co.kr/article/77444"/>
         <updated>2023-05-09T11:11:39.554Z</updated>
         <content type="html"><![CDATA[이건 꼭 소장해야 해.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
-        <id>https://www.elle.co.kr/article/77430</id>
-        <link href="https://www.elle.co.kr/article/77430"/>
-        <updated>2023-05-09T07:12:27.068Z</updated>
-        <content type="html"><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content>
     </entry>
 </feed>
