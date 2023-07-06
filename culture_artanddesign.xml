@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 16:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 17:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검박한 아름다움, 임태희 디자인 스튜디오]]></title>
+            <link>https://www.elle.co.kr/article/78939</link>
+            <guid>https://www.elle.co.kr/article/78939</guid>
+            <pubDate>Thu, 06 Jul 2023 17:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[두수고방, 카페 온양, 카라멜리에오, LCDC 카페 이페메라. 검박한 아름다움을 꿈꾸는 임태희 디...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/da01a8b5-91a3-467e-aa19-ab259e13484b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나만의 홈 오피스 만들기]]></title>
             <link>https://www.elle.co.kr/article/78771</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/78759</guid>
             <pubDate>Sun, 02 Jul 2023 15:14:07 GMT</pubDate>
             <content:encoded><![CDATA[창의적이고 터프한 무드를 풍기는 라이프치히에 위치한 마이스터 침머를 방문했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/3e480a89-3473-4aed-bb80-b6600b675aac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트 디렉터 전채리의 화병들 #더컬렉터스]]></title>
@@ -93,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/78266</guid>
             <pubDate>Wed, 21 Jun 2023 01:06:55 GMT</pubDate>
             <content:encoded><![CDATA[엘르 데코가 꼽은 선물하기 좋은 리빙 아이템.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에르메스의 홈 텍스타일 총괄 크리에이티브 디렉터 플로랑스 라파르주와 나눈 대화]]></title>
-            <link>https://www.elle.co.kr/article/78255</link>
-            <guid>https://www.elle.co.kr/article/78255</guid>
-            <pubDate>Sun, 18 Jun 2023 15:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[축제의 장에서 가장 열렬히 호명된 이름과 그들의 디자인 세계관.]]></content:encoded>
         </item>
     </channel>
 </rss>
