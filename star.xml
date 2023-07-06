@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 06:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 07:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션쇼를 망치러 온 구원자 토미 캐시, 알고 보니 그의 본업은?]]></title>
+            <link>https://www.elle.co.kr/article/78961</link>
+            <guid>https://www.elle.co.kr/article/78961</guid>
+            <pubDate>Thu, 06 Jul 2023 07:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[프런트 로에서 뜨개질하고 덤벨을 들던 수상한 인물의 정체.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/d44cf850-1fc4-41bb-8b1b-39bcc4ab7532.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['1인 1닭' 가능? 대식가 문가영의 체형 유지 비결! #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/78957</link>
+            <guid>https://www.elle.co.kr/article/78957</guid>
+            <pubDate>Thu, 06 Jul 2023 07:15:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/7698f7d7-3ee0-4bb1-b86e-65f18e960e5e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유해진 첫 로맨틱 코미디, 상대가 김희선?! 영화 '달짝지근해' 정보.txt]]></title>
             <link>https://www.elle.co.kr/article/78948</link>
@@ -50,21 +65,6 @@
             <guid>https://www.elle.co.kr/article/78897</guid>
             <pubDate>Wed, 05 Jul 2023 07:14:56 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/3088338f-8824-405e-99eb-d0d050aa872d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임시완 '오징어게임2' 캐스팅 소식에 황광희가 뿔났다?!]]></title>
-            <link>https://www.elle.co.kr/article/78896</link>
-            <guid>https://www.elle.co.kr/article/78896</guid>
-            <pubDate>Wed, 05 Jul 2023 01:16:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/b64f5340-eea6-4520-aa01-299b87b6372d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로미스나인과 함께한 하루]]></title>
-            <link>https://www.elle.co.kr/article/78549</link>
-            <guid>https://www.elle.co.kr/article/78549</guid>
-            <pubDate>Tue, 04 Jul 2023 19:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[잠깐 ‘후!’ 숨을 내뱉고 다시 들이마시며 야심차게 달려나가는 프로미스나인. 어느 때보다 역동...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/ae5ef506-8cff-4f1c-9a7c-e69c43751d8b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
