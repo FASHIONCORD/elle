@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 23:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 01:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이거 뿌리면 사람들이 다 물어볼걸? 강민경의 상황별 추천 향수 9]]></title>
+            <link>https://www.elle.co.kr/article/78857</link>
+            <guid>https://www.elle.co.kr/article/78857</guid>
+            <pubDate>Thu, 06 Jul 2023 01:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[강민경이 추천하고 이해리가 보증하는 향수 아홉 가지! 그날의 기분에 따라 매치해 보세요~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/08f55f9d-0382-45dd-965d-b8e9e82191dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니와 송혜교의 절친, 톱 모델 신현지가 48kg 유지 위해 아침마다 하는 운동은? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/78806</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/78577</guid>
             <pubDate>Wed, 28 Jun 2023 07:13:00 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/49a14788-f75d-4e40-be76-32606ad9a614.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대식가+고무줄 몸무게라는 에스파 카리나의 관리 비결 총정리 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/78542</link>
-            <guid>https://www.elle.co.kr/article/78542</guid>
-            <pubDate>Tue, 27 Jun 2023 02:58:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/ef09b4f8-59b0-47d7-953b-719797947d82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
