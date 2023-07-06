@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 14:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 15:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뜨개 모자 트렌드 #메쉬모자 #크로셰비니]]></title>
+            <link>https://www.elle.co.kr/article/78964</link>
+            <guid>https://www.elle.co.kr/article/78964</guid>
+            <pubDate>Thu, 06 Jul 2023 15:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[머리에 꼭 맞는 골무 같은 뜨개 모자가 핫 아이템!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/0fdf178c-fe36-4246-bc21-304cad8597c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션쇼를 망치러 온 구원자 토미 캐시, 알고 보니 그의 본업은?]]></title>
             <link>https://www.elle.co.kr/article/78961</link>
@@ -58,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/78906</guid>
             <pubDate>Wed, 05 Jul 2023 09:14:51 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/424a33b5-5be9-4351-8814-748650353bd9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김태리X오정세의 기묘한 공조로 시선 집중! '악귀' 흥행 요인 2 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/78897</link>
-            <guid>https://www.elle.co.kr/article/78897</guid>
-            <pubDate>Wed, 05 Jul 2023 07:14:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/3088338f-8824-405e-99eb-d0d050aa872d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
