@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-07T08:19:48.923Z</updated>
+    <updated>2023-07-07T09:15:49.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패션쇼를 망치러 온 구원자 토미 캐시, 알고 보니 그의 본업은?]]></title>
+        <id>https://www.elle.co.kr/article/78961</id>
+        <link href="https://www.elle.co.kr/article/78961"/>
+        <updated>2023-07-07T09:14:20.490Z</updated>
+        <content type="html"><![CDATA[프런트 로에서 뜨개질하고 덤벨을 들던 수상한 인물의 정체.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여성 축구 선수 유니폼과 정장이 만난다면?]]></title>
         <id>https://www.elle.co.kr/article/78927</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/78851"/>
         <updated>2023-07-03T19:11:32.814Z</updated>
         <content type="html"><![CDATA[짙은 핑크빛으로 바라본 페라가모의 색다른 면.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗 GPT가 쇼 노트를 작성한다면? AI와 패션이 조우한 순간 3]]></title>
-        <id>https://www.elle.co.kr/article/78845</id>
-        <link href="https://www.elle.co.kr/article/78845"/>
-        <updated>2023-07-02T19:11:09.531Z</updated>
-        <content type="html"><![CDATA[베트멍의 ‘안티-AI’ 정신부터 마크 제이콥스, 더블렛까지.]]></content>
     </entry>
 </feed>
