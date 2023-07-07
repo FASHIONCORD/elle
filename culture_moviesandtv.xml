@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 09:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 10:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은?]]></title>
+            <link>https://www.elle.co.kr/article/79018</link>
+            <guid>https://www.elle.co.kr/article/79018</guid>
+            <pubDate>Fri, 07 Jul 2023 10:15:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/72df0ef1-605c-4297-8780-0309a04daa93.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언니들과 최강 케미! 송혜교와 김태희, 전도연까지 섭렵한 임지연 스케줄.list]]></title>
+            <link>https://www.elle.co.kr/article/79017</link>
+            <guid>https://www.elle.co.kr/article/79017</guid>
+            <pubDate>Fri, 07 Jul 2023 10:15:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/f4ec992d-6978-4546-b1e2-3ec5f8b03235.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?!]]></title>
             <link>https://www.elle.co.kr/article/78984</link>
@@ -26,7 +40,6 @@
             <link>https://www.elle.co.kr/article/78982</link>
             <guid>https://www.elle.co.kr/article/78982</guid>
             <pubDate>Thu, 06 Jul 2023 06:20:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/7375c3c3-7c94-4aa2-a5ba-bc135b8f6efe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[닉 퓨리의 동료 요원이 되다! 올리비아 콜맨]]></title>
@@ -34,7 +47,6 @@
             <guid>https://www.elle.co.kr/article/78889</guid>
             <pubDate>Wed, 05 Jul 2023 15:15:22 GMT</pubDate>
             <content:encoded><![CDATA[&lt;더 페이버릿: 여왕의 여자&gt;로 아카데미를 거머쥔 올리비아콜맨. 그의 영역은 MCU로 깜짝 확장됐...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/67fc63d8-6190-4eb2-b1c3-4804b061cbbb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유해진 첫 로맨틱 코미디, 상대가 김희선?! 영화 '달짝지근해' 정보.txt]]></title>
@@ -78,18 +90,6 @@
             <link>https://www.elle.co.kr/article/78853</link>
             <guid>https://www.elle.co.kr/article/78853</guid>
             <pubDate>Fri, 30 Jun 2023 20:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[은퇴한 탑이 '오징어게임2'에 나온다? 전체 캐스팅 라인업과 대본 리딩 현장.jpg]]></title>
-            <link>https://www.elle.co.kr/article/78788</link>
-            <guid>https://www.elle.co.kr/article/78788</guid>
-            <pubDate>Thu, 29 Jun 2023 07:26:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21년 전 '뉴논스톱' 연상연하 커플, 조인성X박경림이 재회했다!]]></title>
-            <link>https://www.elle.co.kr/article/78668</link>
-            <guid>https://www.elle.co.kr/article/78668</guid>
-            <pubDate>Mon, 26 Jun 2023 09:16:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
