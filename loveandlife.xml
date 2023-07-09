@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 14:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 15:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물폭탄으로 더위 식히고, 밤 바다 보며 드라이브! 7월 여름 축제 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/78834</link>
+            <guid>https://www.elle.co.kr/article/78834</guid>
+            <pubDate>Sun, 09 Jul 2023 15:14:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/4980ad1b-3661-43a3-ace1-f15e97e5d7bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나만 알고 싶은 특별한 맛! 독특한 레서피의 논커피 카페 2 #마실마실]]></title>
             <link>https://www.elle.co.kr/article/78830</link>
@@ -62,13 +69,6 @@
             <pubDate>Thu, 29 Jun 2023 15:14:39 GMT</pubDate>
             <content:encoded><![CDATA[JW 메리어트 나라와 W 오사카와 함께한 특별한 일본 여행]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/75772348-dd15-4bed-b913-ddb3f3efde43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[700년 만에 피어난 '아라홍련' 보러 갈래? 국내 연꽃 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/78707</link>
-            <guid>https://www.elle.co.kr/article/78707</guid>
-            <pubDate>Thu, 29 Jun 2023 02:59:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/9e721072-0a19-4129-a7cc-61d248d36782.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
