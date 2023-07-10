@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 14:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 15:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 베니스에 꼭 가봐야할 호텔, 아만 베니스 #호텔미감]]></title>
+            <link>https://www.elle.co.kr/article/78951</link>
+            <guid>https://www.elle.co.kr/article/78951</guid>
+            <pubDate>Mon, 10 Jul 2023 15:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[아만 베니스는 베니스적 찬란함과 어둠이 공존하는 호텔이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/1da2db55-418f-4d35-b4eb-8cb618f618e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조용한 골목에서 만난 에르메스 홈 컬렉션]]></title>
             <link>https://www.elle.co.kr/article/78946</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/78771</guid>
             <pubDate>Wed, 05 Jul 2023 15:15:30 GMT</pubDate>
             <content:encoded><![CDATA[홈 오피스를 위한 아름답고 다재다능한 가구들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/28d23411-f66c-4d0e-9245-31fd664c1ddf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꿉꿉했다가 쨍쨍했다가, 변덕스런 여름 날씨에 추천! 서울 전시회 3 #가볼만한곳]]></title>
@@ -93,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/78727</guid>
             <pubDate>Tue, 27 Jun 2023 10:16:22 GMT</pubDate>
             <content:encoded><![CDATA[생 로랑부터 루브르 박물관에 이르기까지, 모두를 매료시킨 그만의 황홀한 작품 세계.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[암스테르담 한복판, 떠다니는 정원이 등장했다 #스튜디오 오시디아나]]></title>
-            <link>https://www.elle.co.kr/article/78340</link>
-            <guid>https://www.elle.co.kr/article/78340</guid>
-            <pubDate>Tue, 27 Jun 2023 02:59:51 GMT</pubDate>
-            <content:encoded><![CDATA[인간과 동물의 공존을 그리는 스튜디오 오시디아나.]]></content:encoded>
         </item>
     </channel>
 </rss>
