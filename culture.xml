@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 06:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 07:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은?]]></title>
+            <link>https://www.elle.co.kr/article/79018</link>
+            <guid>https://www.elle.co.kr/article/79018</guid>
+            <pubDate>Mon, 10 Jul 2023 07:14:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/72df0ef1-605c-4297-8780-0309a04daa93.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언니들과 최강 케미! 송혜교와 김태희, 전도연까지 섭렵한 임지연 스케줄.list]]></title>
             <link>https://www.elle.co.kr/article/79017</link>
@@ -58,13 +65,6 @@
             <pubDate>Thu, 06 Jul 2023 17:14:17 GMT</pubDate>
             <content:encoded><![CDATA[홈 오피스를 위한 아름답고 다재다능한 가구들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/28d23411-f66c-4d0e-9245-31fd664c1ddf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유해진 첫 로맨틱 코미디, 상대가 김희선?! 영화 '달짝지근해' 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/78948</link>
-            <guid>https://www.elle.co.kr/article/78948</guid>
-            <pubDate>Thu, 06 Jul 2023 07:15:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/e53c6c2c-d719-4b44-9c5f-52ccc39d5e07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
