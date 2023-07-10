@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 01:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 03:01:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,12 +12,14 @@
             <link>https://www.elle.co.kr/article/78933</link>
             <guid>https://www.elle.co.kr/article/78933</guid>
             <pubDate>Wed, 05 Jul 2023 01:16:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/57ebd01e-53e9-4593-8d81-75a126b90414.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우아한 발레리나로 변신한 뉴진스의 2집 예고 (ft. 콘셉트 포토)]]></title>
             <link>https://www.elle.co.kr/article/78808</link>
             <guid>https://www.elle.co.kr/article/78808</guid>
             <pubDate>Thu, 29 Jun 2023 08:22:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/4531ae00-52a1-4ece-b3d9-ca615fba934f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연기-연예-가요대상급 관객석! 브루노 마스 내한 콘서트 관람 포착된 셀럽은?]]></title>
