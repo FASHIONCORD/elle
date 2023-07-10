@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 05:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 06:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언니들과 최강 케미! 송혜교와 김태희, 전도연까지 섭렵한 임지연 스케줄.list]]></title>
+            <link>https://www.elle.co.kr/article/79017</link>
+            <guid>https://www.elle.co.kr/article/79017</guid>
+            <pubDate>Mon, 10 Jul 2023 06:20:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/f4ec992d-6978-4546-b1e2-3ec5f8b03235.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검박한 아름다움, 임태희 디자인 스튜디오]]></title>
             <link>https://www.elle.co.kr/article/78939</link>
@@ -58,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/78948</guid>
             <pubDate>Thu, 06 Jul 2023 07:15:39 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/e53c6c2c-d719-4b44-9c5f-52ccc39d5e07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 솔로 활동 앞두고 3년 전 자작곡 역주행한 이유는?]]></title>
-            <link>https://www.elle.co.kr/article/78933</link>
-            <guid>https://www.elle.co.kr/article/78933</guid>
-            <pubDate>Thu, 06 Jul 2023 07:15:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/57ebd01e-53e9-4593-8d81-75a126b90414.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
