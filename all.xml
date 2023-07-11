@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 15:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 16:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1039,12 +1039,14 @@
             <guid>https://www.elle.co.kr/article/78586</guid>
             <pubDate>Tue, 11 Jul 2023 15:14:38 GMT</pubDate>
             <content:encoded><![CDATA[논픽션과 딥티크에서 여름을 맞아 새로운 향 컬렉션을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/b102901f-fd19-4228-9e9b-3e2026f69338.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['1인 1닭' 가능? 대식가 문가영의 체형 유지 비결! #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/78957</link>
             <guid>https://www.elle.co.kr/article/78957</guid>
             <pubDate>Tue, 11 Jul 2023 11:11:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/7698f7d7-3ee0-4bb1-b86e-65f18e960e5e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤승아가 N년째 애용하는 공병템 5 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1052,6 +1054,7 @@
             <guid>https://www.elle.co.kr/article/78931</guid>
             <pubDate>Tue, 11 Jul 2023 03:19:00 GMT</pubDate>
             <content:encoded><![CDATA[10년 넘게 윤승아의 화장대 위에 꾸준히 자리하고 있는 아이템은 무엇? 매일 사용하는 보습 크...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/16183900-b99b-4b33-976f-087124b2ac02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭염특보에 지친 피부와 모발에는? 얼음 샤워한 듯 시원한 쿨링 테라피 TIP 3_선배’s 어드바이스 #175 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1059,6 +1062,7 @@
             <guid>https://www.elle.co.kr/article/78893</guid>
             <pubDate>Sun, 09 Jul 2023 19:12:13 GMT</pubDate>
             <content:encoded><![CDATA[머리부터 발끝까지 번아웃 위기에 빠진 내 몸을 구하라!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/2b2e712b-5b2a-4df8-a710-f518f2b837cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이거 뿌리면 사람들이 다 물어볼걸? 강민경의 상황별 추천 향수 9 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1066,18 +1070,21 @@
             <guid>https://www.elle.co.kr/article/78857</guid>
             <pubDate>Thu, 06 Jul 2023 01:16:22 GMT</pubDate>
             <content:encoded><![CDATA[강민경이 추천하고 이해리가 보증하는 향수 아홉 가지! 그날의 기분에 따라 매치해 보세요~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/08f55f9d-0382-45dd-965d-b8e9e82191dc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니와 송혜교의 절친, 톱 모델 신현지가 48kg 유지 위해 아침마다 하는 운동은? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/78806</link>
             <guid>https://www.elle.co.kr/article/78806</guid>
             <pubDate>Wed, 05 Jul 2023 15:14:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/743b0e88-6870-45b7-9a88-27940dd3d4ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[줄리엔강X제이제이! '피지컬 커플'의 운동 데이트 루틴 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/78762</link>
             <guid>https://www.elle.co.kr/article/78762</guid>
             <pubDate>Wed, 05 Jul 2023 09:14:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/45e5fb67-a360-479e-ba81-00bda0f21fc8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[습하고 끈적한 장마철, 하루 종일 보송한 무적의 베이스 메이크업 TIP 5_선배’s 어드바이스 #174 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1085,18 +1092,21 @@
             <guid>https://www.elle.co.kr/article/78681</guid>
             <pubDate>Tue, 04 Jul 2023 19:11:53 GMT</pubDate>
             <content:encoded><![CDATA[절대 무너지지 않는 베이스를 완성시켜줄 아이템, 똑똑하게 바르는 법은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/9e09f650-d2de-4c31-b747-f3d637f3944f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이강인 PSG 입단 확정! 데뷔전은 언제? (feat. 故 유상철) (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/79045</link>
             <guid>https://www.elle.co.kr/article/79045</guid>
             <pubDate>Tue, 11 Jul 2023 08:20:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/4c258253-b846-4780-9d8a-6eb5f4d77eb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[축가는 '30년 지기' 개코! 유쾌 그 자체였던 최자 결혼식 현장.jpg (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/79043</link>
             <guid>https://www.elle.co.kr/article/79043</guid>
             <pubDate>Tue, 11 Jul 2023 06:19:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/7c6e22b8-540f-4abe-9e4a-776e6343a1a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[셀프 마사지 루틴부터 헤어 관리까지! 스포츠 아나운서 이나연의 뷰티 케어 Tip (엘르 코리아 ─ 스타)]]></title>
@@ -1104,18 +1114,21 @@
             <guid>https://www.elle.co.kr/article/79033</guid>
             <pubDate>Tue, 11 Jul 2023 01:08:03 GMT</pubDate>
             <content:encoded><![CDATA[고급스러운 분위기의 비결은 꾸준한 관리로부터! 분위기 여신 이나연이 알려주는 뷰티 꿀팁을 확...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/02ddee30-1df0-4c5e-af20-ede1c5c11416.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/79018</link>
             <guid>https://www.elle.co.kr/article/79018</guid>
             <pubDate>Fri, 07 Jul 2023 10:15:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/72df0ef1-605c-4297-8780-0309a04daa93.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언니들과 최강 케미! 송혜교와 김태희, 전도연까지 섭렵한 임지연 스케줄.list (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/79017</link>
             <guid>https://www.elle.co.kr/article/79017</guid>
             <pubDate>Fri, 07 Jul 2023 10:15:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/f4ec992d-6978-4546-b1e2-3ec5f8b03235.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피아니스트 손열음의 시간 (엘르 코리아 ─ 스타)]]></title>
@@ -1123,18 +1136,21 @@
             <guid>https://www.elle.co.kr/article/78891</guid>
             <pubDate>Sun, 09 Jul 2023 15:13:01 GMT</pubDate>
             <content:encoded><![CDATA[도시에서 또 다른 도시로, 피아니스트 손열음은 시간을 넘나들며 연주한다. 빠르게, 느리게. 그녀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/e35d908d-ac87-4e2d-83c1-53781d2dc14b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?! (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78984</link>
             <guid>https://www.elle.co.kr/article/78984</guid>
             <pubDate>Thu, 06 Jul 2023 07:16:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/269fffad-1182-46c1-be64-ee42d0ff5a50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/78983</link>
             <guid>https://www.elle.co.kr/article/78983</guid>
             <pubDate>Thu, 06 Jul 2023 07:16:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/03ca0294-d275-4388-b572-0e50b27a12de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조용한 골목에서 만난 에르메스 홈 컬렉션 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1200,18 +1216,21 @@
             <link>https://www.elle.co.kr/article/78933</link>
             <guid>https://www.elle.co.kr/article/78933</guid>
             <pubDate>Wed, 05 Jul 2023 01:16:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/57ebd01e-53e9-4593-8d81-75a126b90414.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우아한 발레리나로 변신한 뉴진스의 2집 예고 (ft. 콘셉트 포토) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/78808</link>
             <guid>https://www.elle.co.kr/article/78808</guid>
             <pubDate>Thu, 29 Jun 2023 08:22:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/4531ae00-52a1-4ece-b3d9-ca615fba934f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연기-연예-가요대상급 관객석! 브루노 마스 내한 콘서트 관람 포착된 셀럽은? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/78463</link>
             <guid>https://www.elle.co.kr/article/78463</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/8b70c0d0-7a52-4ffc-b6d7-d6d206d6dfce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1219,6 +1238,7 @@
             <guid>https://www.elle.co.kr/article/78460</guid>
             <pubDate>Mon, 19 Jun 2023 08:17:26 GMT</pubDate>
             <content:encoded><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 시티포레스티벌 2023의 기분 좋은 바이브]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/8c8e2f20-c1cb-4949-aa34-e214d6aafabf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패션과 음악의 유기적 모멘트 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1285,6 +1305,7 @@
             <link>https://www.elle.co.kr/article/79047</link>
             <guid>https://www.elle.co.kr/article/79047</guid>
             <pubDate>Mon, 10 Jul 2023 08:19:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/2280719e-5ccd-4b95-b51b-ac0aa58843f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-무비의 또다른 감각을 만드는 사람들 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1292,18 +1313,21 @@
             <guid>https://www.elle.co.kr/article/79004</guid>
             <pubDate>Sun, 09 Jul 2023 15:13:46 GMT</pubDate>
             <content:encoded><![CDATA[K무비의 지금에 감독과 배우만 있는 게 아니다. 영화의 시작과 끝에서 또 다른 감각으로 영화를...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/5be0ec79-7937-40dd-b11d-492b6526a6d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/79018</link>
             <guid>https://www.elle.co.kr/article/79018</guid>
             <pubDate>Fri, 07 Jul 2023 10:15:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/72df0ef1-605c-4297-8780-0309a04daa93.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언니들과 최강 케미! 송혜교와 김태희, 전도연까지 섭렵한 임지연 스케줄.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/79017</link>
             <guid>https://www.elle.co.kr/article/79017</guid>
             <pubDate>Fri, 07 Jul 2023 10:15:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/f4ec992d-6978-4546-b1e2-3ec5f8b03235.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1367,7 +1391,6 @@
             <guid>https://www.elle.co.kr/article/78970</guid>
             <pubDate>Tue, 11 Jul 2023 15:15:33 GMT</pubDate>
             <content:encoded><![CDATA[조각 같은 사물로 가득한 아티스트 에르빈 부름의 집에 가다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/5feeb959-3c29-47c5-b513-dbdcde1b83e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울 베니스에 꼭 가봐야할 호텔, 아만 베니스 #호텔미감 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1375,7 +1398,6 @@
             <guid>https://www.elle.co.kr/article/78951</guid>
             <pubDate>Mon, 10 Jul 2023 15:15:35 GMT</pubDate>
             <content:encoded><![CDATA[아만 베니스는 베니스적 찬란함과 어둠이 공존하는 호텔이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/1da2db55-418f-4d35-b4eb-8cb618f618e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조용한 골목에서 만난 에르메스 홈 컬렉션 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1383,7 +1405,6 @@
             <guid>https://www.elle.co.kr/article/78946</guid>
             <pubDate>Sun, 09 Jul 2023 15:13:56 GMT</pubDate>
             <content:encoded><![CDATA[낡고 바랜 골목에서 마주친 에르메스 홈 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/50d59c40-99ef-4c15-aaf0-183fa78bcfd6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세계가 주목한 프로방스 예술, 아틀리에 빔 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1391,7 +1412,6 @@
             <guid>https://www.elle.co.kr/article/78942</guid>
             <pubDate>Fri, 07 Jul 2023 15:15:53 GMT</pubDate>
             <content:encoded><![CDATA[완벽한 퀄리티와 진정성이 만든 럭셔리. 세계적 주목을 받아온 디자인 스튜디오 '아틀리에 빔'의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/9a3122ea-3c48-4dfb-b627-16c51f460757.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검박한 아름다움, 임태희 디자인 스튜디오 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1514,6 +1534,7 @@
             <link>https://www.elle.co.kr/article/78874</link>
             <guid>https://www.elle.co.kr/article/78874</guid>
             <pubDate>Mon, 10 Jul 2023 15:15:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/8ef60027-5026-4063-822e-9e32ce313d0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 왜 대한민국에는 이렇게 멋진 여자들이 많을까? (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1521,24 +1542,28 @@
             <guid>https://www.elle.co.kr/ellevoice/essay/78821</guid>
             <pubDate>Fri, 07 Jul 2023 15:16:14 GMT</pubDate>
             <content:encoded><![CDATA[강하고 프로페셔널한 여자들이 우리에게 제시한 어떤 멋진 미래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/7f07d4d2-85bf-4e70-92fb-45bd460facf5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['대한민국 국적 오픈리 레즈비언 유부녀' 김규진의 임신 이야기 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/78841</link>
             <guid>https://www.elle.co.kr/article/78841</guid>
             <pubDate>Thu, 06 Jul 2023 03:00:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/91d666aa-c307-458e-8a39-44722fe2d6f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔화가 너무 저렴한데, 미리 사둬도 될까요?_돈쓸신잡 #104 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/78779</link>
             <guid>https://www.elle.co.kr/article/78779</guid>
             <pubDate>Wed, 05 Jul 2023 04:18:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/2662ce70-7cb7-43be-b5fb-26afdd20c95a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[28일부터 전 국민 만 나이로 통일! 헷갈리는 나이 계산법과 예외 상황 정리.txt (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/78697</link>
             <guid>https://www.elle.co.kr/article/78697</guid>
             <pubDate>Mon, 03 Jul 2023 15:15:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/64ccf38f-84db-445b-99da-d2cb00c9bac0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 잊었던 언어를 키우는 법 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1546,6 +1571,7 @@
             <guid>https://www.elle.co.kr/ellevoice/essay/78647</guid>
             <pubDate>Mon, 03 Jul 2023 04:17:55 GMT</pubDate>
             <content:encoded><![CDATA[나의 앎이 실천과 멀어지지 않도록 !]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/3c99380a-be7d-47f2-aa45-5e43ebdc5ce5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네가 가라, 라스베가스?! 일론 머스크 vs. 마크 저커버그 격투기 성사될까 (실화) (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1553,12 +1579,14 @@
             <guid>https://www.elle.co.kr/article/78631</guid>
             <pubDate>Sat, 01 Jul 2023 15:14:57 GMT</pubDate>
             <content:encoded><![CDATA[진짜 왜 저래...?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/ff1ace5f-55a9-423c-9208-4fcbd9144446.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[참전 용사들의 희생과 분단의 아픔 되새길 수 있는 6·25 전쟁 기념 명소 #가볼만한곳 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/78627</link>
             <guid>https://www.elle.co.kr/article/78627</guid>
             <pubDate>Fri, 30 Jun 2023 09:14:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/b7bc04cd-21fa-44af-9f90-d3caeb735210.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
