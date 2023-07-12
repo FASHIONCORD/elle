@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 09:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 10:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 베니스에 꼭 가봐야할 호텔, 아만 베니스 #호텔미감]]></title>
+            <link>https://www.elle.co.kr/article/78951</link>
+            <guid>https://www.elle.co.kr/article/78951</guid>
+            <pubDate>Wed, 12 Jul 2023 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[아만 베니스는 베니스적 찬란함과 어둠이 공존하는 호텔이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/1da2db55-418f-4d35-b4eb-8cb618f618e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['킹더랜드' 구원에 앞서 '옷소매' 이산이 있었다?! 이준호 인생캐 3선 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/79047</link>
@@ -58,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/79017</guid>
             <pubDate>Mon, 10 Jul 2023 06:20:27 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/f4ec992d-6978-4546-b1e2-3ec5f8b03235.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검박한 아름다움, 임태희 디자인 스튜디오]]></title>
-            <link>https://www.elle.co.kr/article/78939</link>
-            <guid>https://www.elle.co.kr/article/78939</guid>
-            <pubDate>Sun, 09 Jul 2023 15:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[두수고방, 카페 온양, 카라멜리에오, LCDC 카페 이페메라. 검박한 아름다움을 꿈꾸는 임태희 디...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/da01a8b5-91a3-467e-aa19-ab259e13484b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
