@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 05:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 06:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이강인 PSG 입단 확정! 데뷔전은 언제? (feat. 故 유상철)]]></title>
+            <link>https://www.elle.co.kr/article/79045</link>
+            <guid>https://www.elle.co.kr/article/79045</guid>
+            <pubDate>Wed, 12 Jul 2023 06:18:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/4c258253-b846-4780-9d8a-6eb5f4d77eb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-무비의 또다른 감각을 만드는 사람들]]></title>
             <link>https://www.elle.co.kr/article/79004</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/78984</guid>
             <pubDate>Sun, 09 Jul 2023 15:13:29 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/269fffad-1182-46c1-be64-ee42d0ff5a50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치]]></title>
-            <link>https://www.elle.co.kr/article/78983</link>
-            <guid>https://www.elle.co.kr/article/78983</guid>
-            <pubDate>Fri, 07 Jul 2023 15:15:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/03ca0294-d275-4388-b572-0e50b27a12de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
