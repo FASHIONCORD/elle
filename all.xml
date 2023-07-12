@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 12:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 13:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1353,7 +1353,6 @@
             <guid>https://www.elle.co.kr/article/78970</guid>
             <pubDate>Tue, 11 Jul 2023 15:15:33 GMT</pubDate>
             <content:encoded><![CDATA[조각 같은 사물로 가득한 아티스트 에르빈 부름의 집에 가다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/2f05c046-6de4-4171-bf23-351230bc0216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울 베니스에 꼭 가봐야할 호텔, 아만 베니스 #호텔미감 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1361,7 +1360,6 @@
             <guid>https://www.elle.co.kr/article/78951</guid>
             <pubDate>Mon, 10 Jul 2023 15:15:35 GMT</pubDate>
             <content:encoded><![CDATA[아만 베니스는 베니스적 찬란함과 어둠이 공존하는 호텔이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/1da2db55-418f-4d35-b4eb-8cb618f618e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조용한 골목에서 만난 에르메스 홈 컬렉션 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1369,7 +1367,6 @@
             <guid>https://www.elle.co.kr/article/78946</guid>
             <pubDate>Sun, 09 Jul 2023 15:13:56 GMT</pubDate>
             <content:encoded><![CDATA[낡고 바랜 골목에서 마주친 에르메스 홈 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/50d59c40-99ef-4c15-aaf0-183fa78bcfd6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세계가 주목한 프로방스 예술, 아틀리에 빔 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1377,7 +1374,6 @@
             <guid>https://www.elle.co.kr/article/78942</guid>
             <pubDate>Fri, 07 Jul 2023 15:15:53 GMT</pubDate>
             <content:encoded><![CDATA[완벽한 퀄리티와 진정성이 만든 럭셔리. 세계적 주목을 받아온 디자인 스튜디오 '아틀리에 빔'의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/9a3122ea-3c48-4dfb-b627-16c51f460757.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검박한 아름다움, 임태희 디자인 스튜디오 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1545,6 +1541,7 @@
             <link>https://www.elle.co.kr/article/78627</link>
             <guid>https://www.elle.co.kr/article/78627</guid>
             <pubDate>Fri, 30 Jun 2023 09:14:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/b7bc04cd-21fa-44af-9f90-d3caeb735210.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
