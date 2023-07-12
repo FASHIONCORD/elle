@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-07-12T18:18:03.207Z</updated>
+    <updated>2023-07-12T19:13:04.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아트먼트뎁, 티컬렉티브 대표 김미재의 취향]]></title>
+        <id>https://www.elle.co.kr/article/78956</id>
+        <link href="https://www.elle.co.kr/article/78956"/>
+        <updated>2023-07-12T19:12:53.788Z</updated>
+        <content type="html"><![CDATA[디테일의 힘, 아트먼트뎁 &amp; 티컬렉티브 대표 김미재.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구워 먹는 삼계탕이 있다고? 초복에 들러 볼 이색 몸보신 맛집 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/79014</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/78767"/>
         <updated>2023-07-06T19:12:50.201Z</updated>
         <content type="html"><![CDATA[말리부 해안선이 내려다보이는 대저택을 전세 낼 수 있는 절호의 기회.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리모와에 담긴 가장 사적인 여행 이야기]]></title>
-        <id>https://www.elle.co.kr/article/78675</id>
-        <link href="https://www.elle.co.kr/article/78675"/>
-        <updated>2023-06-30T05:16:08.981Z</updated>
-        <content type="html"><![CDATA[여행자와 함께 세계를 누비며 긁히고 닳고 찌그러지는 물리적 상흔으로 수많은 여행을 아카이빙해...]]></content>
     </entry>
 </feed>
