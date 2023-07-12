@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 14:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 15:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 덕후들의 인생작]]></title>
+            <link>https://www.elle.co.kr/article/79063</link>
+            <guid>https://www.elle.co.kr/article/79063</guid>
+            <pubDate>Wed, 12 Jul 2023 15:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[한 작품을 N차 관람한 자들이 말하는 영화들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/2414cc73-aa2a-43a3-a51d-e1d6039f04e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은?]]></title>
             <link>https://www.elle.co.kr/article/79125</link>
@@ -34,7 +42,6 @@
             <link>https://www.elle.co.kr/article/79047</link>
             <guid>https://www.elle.co.kr/article/79047</guid>
             <pubDate>Mon, 10 Jul 2023 08:19:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/2280719e-5ccd-4b95-b51b-ac0aa58843f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-무비의 또다른 감각을 만드는 사람들]]></title>
@@ -85,13 +92,6 @@
             <link>https://www.elle.co.kr/article/78948</link>
             <guid>https://www.elle.co.kr/article/78948</guid>
             <pubDate>Wed, 05 Jul 2023 07:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[영화계의 초인싸, 백은하 소장이 직접 엘르에 전해온 칸 국제영화제의 고유하고 생생한 기록]]></title>
-            <link>https://www.elle.co.kr/article/78880</link>
-            <guid>https://www.elle.co.kr/article/78880</guid>
-            <pubDate>Tue, 04 Jul 2023 15:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 계속 영화를 사랑할 수 있을까? 정답은 그렇다이다! 그 어느 때보다 마법 같았던 칸느에...]]></content:encoded>
         </item>
     </channel>
 </rss>
