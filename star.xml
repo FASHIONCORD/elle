@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-13T01:17:07.999Z</updated>
+    <updated>2023-07-13T02:59:32.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/79106</id>
+        <link href="https://www.elle.co.kr/article/79106"/>
+        <updated>2023-07-13T02:58:42.768Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[분위기 확 바뀐 '꼬북좌'! 드디어 공개된 '브브걸' 새 프로필 사진 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/79080</id>
@@ -47,12 +53,5 @@
         <id>https://www.elle.co.kr/article/79043</id>
         <link href="https://www.elle.co.kr/article/79043"/>
         <updated>2023-07-11T06:19:14.153Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀프 마사지 루틴부터 헤어 관리까지! 스포츠 아나운서 이나연의 뷰티 케어 Tip]]></title>
-        <id>https://www.elle.co.kr/article/79033</id>
-        <link href="https://www.elle.co.kr/article/79033"/>
-        <updated>2023-07-11T01:08:03.154Z</updated>
-        <content type="html"><![CDATA[고급스러운 분위기의 비결은 꾸준한 관리로부터! 분위기 여신 이나연이 알려주는 뷰티 꿀팁을 확...]]></content>
     </entry>
 </feed>
