@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 07:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 08:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/79106</link>
+            <guid>https://www.elle.co.kr/article/79106</guid>
+            <pubDate>Thu, 13 Jul 2023 08:17:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/08103458-0249-41e7-b166-73fa17872e6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조각가 에르빈 부름의 세 번째 집 #더컬렉터스]]></title>
             <link>https://www.elle.co.kr/article/78970</link>
@@ -60,13 +67,6 @@
             <pubDate>Mon, 10 Jul 2023 15:15:07 GMT</pubDate>
             <content:encoded><![CDATA[완벽한 퀄리티와 진정성이 만든 럭셔리. 세계적 주목을 받아온 디자인 스튜디오 '아틀리에 빔'의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/9a3122ea-3c48-4dfb-b627-16c51f460757.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은?]]></title>
-            <link>https://www.elle.co.kr/article/79018</link>
-            <guid>https://www.elle.co.kr/article/79018</guid>
-            <pubDate>Mon, 10 Jul 2023 07:14:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/72df0ef1-605c-4297-8780-0309a04daa93.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

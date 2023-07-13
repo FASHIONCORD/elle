@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-07-13T07:15:07.994Z</updated>
+    <updated>2023-07-13T08:18:16.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 우리는 모두 청소년이었다]]></title>
+        <id>https://www.elle.co.kr/ellevoice/essay/78823</id>
+        <link href="https://www.elle.co.kr/ellevoice/essay/78823"/>
+        <updated>2023-07-13T08:18:15.943Z</updated>
+        <content type="html"><![CDATA[청소년 시절의 나와 지금의 나는 얼마나 이어져있을까? 지금을 살아가는 소녀들을 이해하는 방법...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트친 글 보려면 돈 내세요?! 트위터, 갑자기 열람 가능 트윗 개수 제한한 배경]]></title>
         <id>https://www.elle.co.kr/article/78874</id>
@@ -49,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/78631"/>
         <updated>2023-07-01T15:14:57.008Z</updated>
         <content type="html"><![CDATA[진짜 왜 저래...?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[참전 용사들의 희생과 분단의 아픔 되새길 수 있는 6·25 전쟁 기념 명소 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/78627</id>
-        <link href="https://www.elle.co.kr/article/78627"/>
-        <updated>2023-06-30T09:14:38.351Z</updated>
     </entry>
 </feed>

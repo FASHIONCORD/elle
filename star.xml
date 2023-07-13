@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 07:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 08:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름하면 콩국수! 맛잘알 성시경의 콩국수 맛집 투어 3]]></title>
+            <link>https://www.elle.co.kr/article/79127</link>
+            <guid>https://www.elle.co.kr/article/79127</guid>
+            <pubDate>Thu, 13 Jul 2023 08:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[콩국수를 먹기 위해 여름을 기다린 사람 모여라! ‘믿먹’ 성시경이 고른 맛집 좌표를 참고해 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/088a5ca9-53bb-4077-bb8a-63a94df9a6b3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집밥 예찬론자라는 '마당집' 김태희의 자기 관리 비법 & 식단 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/79117</link>
+            <guid>https://www.elle.co.kr/article/79117</guid>
+            <pubDate>Thu, 13 Jul 2023 08:17:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/d8ac32d9-3e0e-47aa-abff-ec8cfb09e0ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전북 현대에서 덴마크 미트윌란으로! 이적 직후 조규성이 전한 영상 편지]]></title>
             <link>https://www.elle.co.kr/article/79115</link>
@@ -49,20 +64,6 @@
             <guid>https://www.elle.co.kr/article/79052</guid>
             <pubDate>Wed, 12 Jul 2023 06:18:10 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/f7ba3274-0e10-4c7a-9b9b-c0e17b83657d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹더랜드' 구원에 앞서 '옷소매' 이산이 있었다?! 이준호 인생캐 3선 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79047</link>
-            <guid>https://www.elle.co.kr/article/79047</guid>
-            <pubDate>Wed, 12 Jul 2023 04:16:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/2280719e-5ccd-4b95-b51b-ac0aa58843f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이강인 PSG 입단 확정! 데뷔전은 언제? (feat. 故 유상철)]]></title>
-            <link>https://www.elle.co.kr/article/79045</link>
-            <guid>https://www.elle.co.kr/article/79045</guid>
-            <pubDate>Tue, 11 Jul 2023 08:20:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/4c258253-b846-4780-9d8a-6eb5f4d77eb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
