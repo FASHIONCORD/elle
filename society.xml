@@ -1,434 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 소사이어티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 05:15:13 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[트친 글 보려면 돈 내세요?! 트위터, 갑자기 열람 가능 트윗 개수 제한한 배경]]></title>
-            <link>https://www.elle.co.kr/article/78874</link>
-            <guid>https://www.elle.co.kr/article/78874</guid>
-            <pubDate>Mon, 10 Jul 2023 15:15:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/8ef60027-5026-4063-822e-9e32ce313d0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 왜 대한민국에는 이렇게 멋진 여자들이 많을까?]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/78821</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/78821</guid>
-            <pubDate>Fri, 07 Jul 2023 15:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[강하고 프로페셔널한 여자들이 우리에게 제시한 어떤 멋진 미래.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/7f07d4d2-85bf-4e70-92fb-45bd460facf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대한민국 국적 오픈리 레즈비언 유부녀' 김규진의 임신 이야기]]></title>
-            <link>https://www.elle.co.kr/article/78841</link>
-            <guid>https://www.elle.co.kr/article/78841</guid>
-            <pubDate>Thu, 06 Jul 2023 03:00:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/91d666aa-c307-458e-8a39-44722fe2d6f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔화가 너무 저렴한데, 미리 사둬도 될까요?_돈쓸신잡 #104]]></title>
-            <link>https://www.elle.co.kr/article/78779</link>
-            <guid>https://www.elle.co.kr/article/78779</guid>
-            <pubDate>Wed, 05 Jul 2023 04:18:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/2662ce70-7cb7-43be-b5fb-26afdd20c95a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[28일부터 전 국민 만 나이로 통일! 헷갈리는 나이 계산법과 예외 상황 정리.txt]]></title>
-            <link>https://www.elle.co.kr/article/78697</link>
-            <guid>https://www.elle.co.kr/article/78697</guid>
-            <pubDate>Mon, 03 Jul 2023 15:15:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/64ccf38f-84db-445b-99da-d2cb00c9bac0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 잊었던 언어를 키우는 법]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/78647</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/78647</guid>
-            <pubDate>Mon, 03 Jul 2023 04:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[나의 앎이 실천과 멀어지지 않도록 !]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/3c99380a-be7d-47f2-aa45-5e43ebdc5ce5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네가 가라, 라스베가스?! 일론 머스크 vs. 마크 저커버그 격투기 성사될까 (실화)]]></title>
-            <link>https://www.elle.co.kr/article/78631</link>
-            <guid>https://www.elle.co.kr/article/78631</guid>
-            <pubDate>Sat, 01 Jul 2023 15:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 왜 저래...?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/ff1ace5f-55a9-423c-9208-4fcbd9144446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참전 용사들의 희생과 분단의 아픔 되새길 수 있는 6·25 전쟁 기념 명소 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/78627</link>
-            <guid>https://www.elle.co.kr/article/78627</guid>
-            <pubDate>Fri, 30 Jun 2023 09:14:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/b7bc04cd-21fa-44af-9f90-d3caeb735210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결국 돌아오지 못한 잠수정 타이탄, 심해로 33번 내려갔던 제임스 카메론의 한 마디]]></title>
-            <link>https://www.elle.co.kr/article/78623</link>
-            <guid>https://www.elle.co.kr/article/78623</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/02526411-23cf-4f21-ac0b-aba92842467d.jpg');">
-            <a href="/article/78623">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/78623">
-                                        CELEB NEWS                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/78623">
-                    결국 돌아오지 못한 잠수정 타이탄, 심해로 33번 내려갔던 제임스 카메론의 한 마디                </a>
-            </em>
-            <p class="excerpt"></p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/02526411-23cf-4f21-ac0b-aba92842467d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닮은 듯 다른 두 작가의 그림]]></title>
-            <link>https://www.elle.co.kr/article/78224</link>
-            <guid>https://www.elle.co.kr/article/78224</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/4cbdb0f8-2d98-4796-9931-79303e5cf192.jpg');">
-            <a href="/article/78224">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/78224">
-                                        MENTOR                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/78224">
-                    닮은 듯 다른 두 작가의 그림                </a>
-            </em>
-            <p class="excerpt">미술가 이수경과 정수정은 예전에 한 번도 만난 적 없다. 세대는 다르지만 두 작가의 화폭에 ...</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/4cbdb0f8-2d98-4796-9931-79303e5cf192.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 이 순간, 주식 시장이 그 어느 때보다도 뜨거운 이유 3_돈쓸신잡 #103]]></title>
-            <link>https://www.elle.co.kr/article/78558</link>
-            <guid>https://www.elle.co.kr/article/78558</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/3f04acd4-2570-4031-8850-dcdf32c8391f.jpg');">
-            <a href="/article/78558">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/78558">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/78558">
-                    지금 이 순간, 주식 시장이 그 어느 때보다도 뜨거운 이유 3_돈쓸신잡 #103                </a>
-            </em>
-            <p class="excerpt"></p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/3f04acd4-2570-4031-8850-dcdf32c8391f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[침몰한 타이타닉 보러 갔다 실종된 잠수정, 아슬아슬한 현재 상황 정리]]></title>
-            <link>https://www.elle.co.kr/article/78531</link>
-            <guid>https://www.elle.co.kr/article/78531</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/420c9e7f-46f9-4ffd-ba22-3a17833b7414.jpg');">
-            <a href="/article/78531">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/78531">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/78531">
-                    침몰한 타이타닉 보러 갔다 실종된 잠수정, 아슬아슬한 현재 상황 정리                </a>
-            </em>
-            <p class="excerpt"></p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/420c9e7f-46f9-4ffd-ba22-3a17833b7414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인공지능은 패션을 대체할 수 있을까.]]></title>
-            <link>https://www.elle.co.kr/article/78330</link>
-            <guid>https://www.elle.co.kr/article/78330</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/0b863cdd-c4af-4c54-8f41-2619299a8acc.jpg');">
-            <a href="/article/78330">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/78330">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/78330">
-                    인공지능은 패션을 대체할 수 있을까.                 </a>
-            </em>
-            <p class="excerpt">AI가 패션을?</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/0b863cdd-c4af-4c54-8f41-2619299a8acc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이것’ 없는 주식 투자는 99.9% 실패! 후회 없이 투자하는 방법은?_돈쓸신잡 #102]]></title>
-            <link>https://www.elle.co.kr/article/78383</link>
-            <guid>https://www.elle.co.kr/article/78383</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/95f6eb55-5a8e-42d2-8fa8-e6a1b38ff0c6.jpg');">
-            <a href="/article/78383">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/78383">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/78383">
-                    ‘이것’ 없는 주식 투자는 99.9% 실패! 후회 없이 투자하는 방법은?_돈쓸신잡 #102                </a>
-            </em>
-            <p class="excerpt"></p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/95f6eb55-5a8e-42d2-8fa8-e6a1b38ff0c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딱 한 걸음의 용기]]></title>
-            <link>https://www.elle.co.kr/article/78302</link>
-            <guid>https://www.elle.co.kr/article/78302</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/2801b5b9-3cb8-4895-bb65-f7913d317298.jpg');">
-            <a href="/article/78302">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/78302">
-                                        INTERVIEW                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/78302">
-                    딱 한 걸음의 용기                </a>
-            </em>
-            <p class="excerpt">미투, 그 이후의 이야기를 전하는 팀 ‘상-여자의 착지술’을 기획한 마민지는 오늘도 용맹한 걸...</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/2801b5b9-3cb8-4895-bb65-f7913d317298.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 북한이주민과 결혼했다! 남편이 북한이주민이라면?]]></title>
-            <link>https://www.elle.co.kr/article/78289</link>
-            <guid>https://www.elle.co.kr/article/78289</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/47efd252-65d7-4f1c-bb50-7c16aa0a37ce.jpg');">
-                <a href="/article/78289">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/78289">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/78289">
-                        나는 북한이주민과 결혼했다! 남편이 북한이주민이라면?                    </a>
-                </em>
-                <p class="excerpt">현재 이 땅에 살고있는 북한 이주민의 수는 3만여 명. 낮은 만남의 확률을 뚫고 그들의 가족이...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/47efd252-65d7-4f1c-bb50-7c16aa0a37ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 세상을 이루는 수학과 음악]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/78212</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/78212</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/00f9ef73-c724-4ac2-a98f-0a41ab835d0c.jpg');">
-                <a href="/ellevoice/essay/78212">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/ellevoice/essay/78212">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/ellevoice/essay/78212">
-                        [엘르보이스] 세상을 이루는 수학과 음악                    </a>
-                </em>
-                <p class="excerpt">음악을 동경한다. 음악 그 자체에 느끼는 경이와 음악 하는 사람에 대한 경외심이 함께 어우러...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/00f9ef73-c724-4ac2-a98f-0a41ab835d0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '1987' 촬영을 이 곳에서? 6·10 민주항쟁 기념 명소 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/78254</link>
-            <guid>https://www.elle.co.kr/article/78254</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/d035e6bc-3b38-483c-991a-0dacc18549b3.jpg');">
-                <a href="/article/78254">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/78254">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/78254">
-                        영화 '1987' 촬영을 이 곳에서? 6·10 민주항쟁 기념 명소 #가볼만한곳                     </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/d035e6bc-3b38-483c-991a-0dacc18549b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간이 없어서 돈을 못 번다고? 화려한 'N잡러' 뒤에 숨겨진 치열한 노력 따라잡기_돈쓸신잡 #101]]></title>
-            <link>https://www.elle.co.kr/article/78211</link>
-            <guid>https://www.elle.co.kr/article/78211</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/4a7882a9-796c-4bf2-bce2-e21051ad8a3e.jpg');">
-                <a href="/article/78211">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/78211">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/78211">
-                        시간이 없어서 돈을 못 번다고? 화려한 'N잡러' 뒤에 숨겨진 치열한 노력 따라잡기_돈쓸신잡 #101                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/4a7882a9-796c-4bf2-bce2-e21051ad8a3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 유튜브 오느른 의 주인공, 최별 PD가 자연 속에서 깨달은 것]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/78195</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/78195</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/1409be00-b13c-4da4-84c2-996d2ee81e1b.jpg');">
-                <a href="/ellevoice/essay/78195">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/ellevoice/essay/78195">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/ellevoice/essay/78195">
-                        [엘르보이스] 유튜브 오느른 의 주인공, 최별 PD가 자연 속에서 깨달은 것                    </a>
-                </em>
-                <p class="excerpt">오랜 인연이 결혼이 됐다! 어떻게? 최별 PD가 초여름 조금씩 달리기 시작한 이유 </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/1409be00-b13c-4da4-84c2-996d2ee81e1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[17살에 받아 평생 쓰는 주민등록증, 이제 재발급 필수? 변경 예정인 신분증 정책]]></title>
-            <link>https://www.elle.co.kr/article/78203</link>
-            <guid>https://www.elle.co.kr/article/78203</guid>
-            <pubDate>Thu, 13 Jul 2023 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/acced2d1-2c73-43f7-ab5c-5745cac6ad61.jpg');">
-                <a href="/article/78203">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/78203">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/78203">
-                        17살에 받아 평생 쓰는 주민등록증, 이제 재발급 필수? 변경 예정인 신분증 정책                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/acced2d1-2c73-43f7-ab5c-5745cac6ad61.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/society</id>
+    <title>엘르 코리아 ─ 소사이어티</title>
+    <updated>2023-07-13T06:19:28.566Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트친 글 보려면 돈 내세요?! 트위터, 갑자기 열람 가능 트윗 개수 제한한 배경]]></title>
+        <id>https://www.elle.co.kr/article/78874</id>
+        <link href="https://www.elle.co.kr/article/78874"/>
+        <updated>2023-07-10T15:15:53.396Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 왜 대한민국에는 이렇게 멋진 여자들이 많을까?]]></title>
+        <id>https://www.elle.co.kr/ellevoice/essay/78821</id>
+        <link href="https://www.elle.co.kr/ellevoice/essay/78821"/>
+        <updated>2023-07-07T15:16:14.367Z</updated>
+        <content type="html"><![CDATA[강하고 프로페셔널한 여자들이 우리에게 제시한 어떤 멋진 미래.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대한민국 국적 오픈리 레즈비언 유부녀' 김규진의 임신 이야기]]></title>
+        <id>https://www.elle.co.kr/article/78841</id>
+        <link href="https://www.elle.co.kr/article/78841"/>
+        <updated>2023-07-06T03:00:55.835Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔화가 너무 저렴한데, 미리 사둬도 될까요?_돈쓸신잡 #104]]></title>
+        <id>https://www.elle.co.kr/article/78779</id>
+        <link href="https://www.elle.co.kr/article/78779"/>
+        <updated>2023-07-05T04:18:52.263Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28일부터 전 국민 만 나이로 통일! 헷갈리는 나이 계산법과 예외 상황 정리.txt]]></title>
+        <id>https://www.elle.co.kr/article/78697</id>
+        <link href="https://www.elle.co.kr/article/78697"/>
+        <updated>2023-07-03T15:15:39.974Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 잊었던 언어를 키우는 법]]></title>
+        <id>https://www.elle.co.kr/ellevoice/essay/78647</id>
+        <link href="https://www.elle.co.kr/ellevoice/essay/78647"/>
+        <updated>2023-07-03T04:17:55.466Z</updated>
+        <content type="html"><![CDATA[나의 앎이 실천과 멀어지지 않도록 !]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네가 가라, 라스베가스?! 일론 머스크 vs. 마크 저커버그 격투기 성사될까 (실화)]]></title>
+        <id>https://www.elle.co.kr/article/78631</id>
+        <link href="https://www.elle.co.kr/article/78631"/>
+        <updated>2023-07-01T15:14:57.008Z</updated>
+        <content type="html"><![CDATA[진짜 왜 저래...?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[참전 용사들의 희생과 분단의 아픔 되새길 수 있는 6·25 전쟁 기념 명소 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/78627</id>
+        <link href="https://www.elle.co.kr/article/78627"/>
+        <updated>2023-06-30T09:14:38.351Z</updated>
+    </entry>
+</feed>
