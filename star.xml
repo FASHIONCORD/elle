@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-12T23:14:52.970Z</updated>
+    <updated>2023-07-13T01:17:07.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[분위기 확 바뀐 '꼬북좌'! 드디어 공개된 '브브걸' 새 프로필 사진 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/79080</id>
+        <link href="https://www.elle.co.kr/article/79080"/>
+        <updated>2023-07-13T01:15:55.284Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뭉클한 아이바오 쌍둥이 출산의 순간, 푸바오와 러바오의 반응은? (영상)]]></title>
         <id>https://www.elle.co.kr/article/79075</id>
@@ -48,11 +54,5 @@
         <link href="https://www.elle.co.kr/article/79033"/>
         <updated>2023-07-11T01:08:03.154Z</updated>
         <content type="html"><![CDATA[고급스러운 분위기의 비결은 꾸준한 관리로부터! 분위기 여신 이나연이 알려주는 뷰티 꿀팁을 확...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은?]]></title>
-        <id>https://www.elle.co.kr/article/79018</id>
-        <link href="https://www.elle.co.kr/article/79018"/>
-        <updated>2023-07-10T09:14:43.519Z</updated>
     </entry>
 </feed>
