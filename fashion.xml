@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-14T07:15:06.336Z</updated>
+    <updated>2023-07-14T08:18:35.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은?]]></title>
+        <id>https://www.elle.co.kr/article/79125</id>
+        <link href="https://www.elle.co.kr/article/79125"/>
+        <updated>2023-07-14T08:17:04.809Z</updated>
+        <content type="html"><![CDATA[나오미 캠벨, 신디 크로포드, 린다 에반젤리스타, 크리스티 털링턴의 발자취를 조명한 다큐멘터리...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타일 지수 업! 펜던트 네크리스 구매 좌표 7]]></title>
         <id>https://www.elle.co.kr/article/79092</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/78911"/>
         <updated>2023-07-11T10:15:18.995Z</updated>
         <content type="html"><![CDATA[다시 한 번 판도가 바뀌고 있는 패션계에서 우리가 기억해야 할 이별과 만남들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키링 패션의 진화! 벨트 고리에 키링을 달아요]]></title>
-        <id>https://www.elle.co.kr/article/79030</id>
-        <link href="https://www.elle.co.kr/article/79030"/>
-        <updated>2023-07-10T19:11:17.686Z</updated>
-        <content type="html"><![CDATA[2% 부족했던 아웃핏을 트렌디하게 탈바꿈시키는 액세서리는 바로 키링! 벨트 고리에 달아주면 완...]]></content>
     </entry>
 </feed>
