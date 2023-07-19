@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 18:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 19:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀걸이를 했는데 왜 시원해져요?]]></title>
+            <link>https://www.elle.co.kr/article/79240</link>
+            <guid>https://www.elle.co.kr/article/79240</guid>
+            <pubDate>Wed, 19 Jul 2023 19:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[주렁주렁 대신 딱 하나! 헤일리 비버의 주얼리 연출법을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/578dee09-871f-4360-a4f6-9d2cc9cd98a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[깅엄 체크 아이템 마스터!]]></title>
             <link>https://www.elle.co.kr/article/79193</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 17 Jul 2023 07:14:10 GMT</pubDate>
             <content:encoded><![CDATA[왠지 모르게 핑크가 끌리는 요즘! 바비 인형처럼 핑크 패션을 멋지게 소화한 스타들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/151e431a-dfa3-4ae1-b319-592c9f817825.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제대로 배워보자! 제니가 알려주는 Y2K 리얼 바이브]]></title>
-            <link>https://www.elle.co.kr/article/79151</link>
-            <guid>https://www.elle.co.kr/article/79151</guid>
-            <pubDate>Sun, 16 Jul 2023 15:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[2006년생 패션 모델, 제니와 나눈 요즘 'Y2K'.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/b2058faa-dcbd-4185-afab-9c702414729a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
