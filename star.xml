@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 23:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 02:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹더랜드'도 대박 난 임윤아의 인생캐 3선 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79223</link>
+            <guid>https://www.elle.co.kr/article/79223</guid>
+            <pubDate>Wed, 19 Jul 2023 02:12:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/1f2ba5a8-660d-4724-aa0b-cc5de2e67364.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조권이 11년 만에 광고 재개 선언한 이효리를 패러디한 까닭]]></title>
             <link>https://www.elle.co.kr/article/79222</link>
@@ -58,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/79170</guid>
             <pubDate>Mon, 17 Jul 2023 01:17:08 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/31ccb517-f3cf-4706-a735-d704cb18bede.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허니제이-정담, 역시 힙한 러브 100일 잔치 패션.jpg]]></title>
-            <link>https://www.elle.co.kr/article/79165</link>
-            <guid>https://www.elle.co.kr/article/79165</guid>
-            <pubDate>Mon, 17 Jul 2023 01:17:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/b0f0547b-66af-46fe-8fe9-6d2bf2d6f6d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
