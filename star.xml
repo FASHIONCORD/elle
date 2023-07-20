@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-20T12:27:33.715Z</updated>
+    <updated>2023-07-20T13:18:15.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[약자라고 안 봐줘! 파이트 저지 모니카X셔누가 꼽은 '스우파2' 관전 포인트]]></title>
+        <id>https://www.elle.co.kr/article/79294</id>
+        <link href="https://www.elle.co.kr/article/79294"/>
+        <updated>2023-07-20T13:17:25.706Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김사랑의 탄탄한 체형 비결 '크라브마가'는 무엇? #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/79288</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/79223</id>
         <link href="https://www.elle.co.kr/article/79223"/>
         <updated>2023-07-19T02:12:32.557Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조권이 11년 만에 광고 재개 선언한 이효리를 패러디한 까닭]]></title>
-        <id>https://www.elle.co.kr/article/79222</id>
-        <link href="https://www.elle.co.kr/article/79222"/>
-        <updated>2023-07-18T12:26:58.162Z</updated>
     </entry>
 </feed>
