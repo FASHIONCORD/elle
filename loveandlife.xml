@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 14:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 15:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘발리댁’ 가희가 알려주는 발리 여행 Tip]]></title>
+            <link>https://www.elle.co.kr/article/79190</link>
+            <guid>https://www.elle.co.kr/article/79190</guid>
+            <pubDate>Thu, 20 Jul 2023 15:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[발리에서 주의해야 하는 10가지 행동은? 현지 생활 4년 차, 가희가 알아두면 쓸모 있는 발리 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/d82fe198-f386-4160-850f-3556ce611069.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대한민국 헌법은 어떻게 만들어졌을까? 제75주년 제헌절 기념 명소 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/79166</link>
+            <guid>https://www.elle.co.kr/article/79166</guid>
+            <pubDate>Thu, 20 Jul 2023 15:15:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/a52b6dc6-ca3e-4aa5-8b6d-75a33c5588d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 아니면 즐길 수 없는 초당옥수수와 복숭아! 제철 음료 맛집 in 삼각지 #마실마실]]></title>
             <link>https://www.elle.co.kr/article/79164</link>
@@ -53,21 +68,6 @@
             <pubDate>Fri, 14 Jul 2023 08:18:20 GMT</pubDate>
             <content:encoded><![CDATA[문화 예술의 가치를 다루는 패션 브랜드들의 전시가 서울에서 열리고 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/09/51eeeea0-2e6d-4af2-94d7-fa35aa4b2c4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트먼트뎁, 티컬렉티브 대표 김미재의 취향]]></title>
-            <link>https://www.elle.co.kr/article/78956</link>
-            <guid>https://www.elle.co.kr/article/78956</guid>
-            <pubDate>Wed, 12 Jul 2023 19:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[디테일의 힘, 아트먼트뎁 &amp; 티컬렉티브 대표 김미재.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/d17927e7-b912-474d-8360-cfdd7cdc6a59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구워 먹는 삼계탕이 있다고? 초복에 들러 볼 이색 몸보신 맛집 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79014</link>
-            <guid>https://www.elle.co.kr/article/79014</guid>
-            <pubDate>Tue, 11 Jul 2023 15:15:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/08b7db18-5424-462f-bbf6-8f2389275c46.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
