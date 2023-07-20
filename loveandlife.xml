@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-07-20T18:17:44.515Z</updated>
+    <updated>2023-07-20T19:11:27.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브랜드 '판게아'의 그녀! 일상을 해방시키는 레티티아 후제]]></title>
+        <id>https://www.elle.co.kr/article/79062</id>
+        <link href="https://www.elle.co.kr/article/79062"/>
+        <updated>2023-07-20T19:11:16.279Z</updated>
+        <content type="html"><![CDATA[예술적이고 직관적인 영감을 일상에 도입하며 라이프스타일 신에서 열렬한 지지를 받아온 얼굴들!...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘발리댁’ 가희가 알려주는 발리 여행 Tip]]></title>
         <id>https://www.elle.co.kr/article/79190</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/78913"/>
         <updated>2023-07-14T08:18:20.775Z</updated>
         <content type="html"><![CDATA[‘달리(DALL · E)’와 벌인 일주일간의 사투 끝에 얻은 결과는 만족스럽지 않았다. 묘한 기분...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울로 모인 패션 & 하이 주얼리 전시]]></title>
-        <id>https://www.elle.co.kr/article/78908</id>
-        <link href="https://www.elle.co.kr/article/78908"/>
-        <updated>2023-07-14T08:18:20.781Z</updated>
-        <content type="html"><![CDATA[문화 예술의 가치를 다루는 패션 브랜드들의 전시가 서울에서 열리고 있다.]]></content>
     </entry>
 </feed>
