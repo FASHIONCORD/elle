@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-07-20T02:32:46.537Z</updated>
+    <updated>2023-07-20T03:14:09.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[교통비 1년에 30만 원 줄이는 법! 알뜰교통카드 A to Z_돈쓸신잡 #105]]></title>
+        <id>https://www.elle.co.kr/article/78973</id>
+        <link href="https://www.elle.co.kr/article/78973"/>
+        <updated>2023-07-20T03:14:08.133Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7월부터 음주운전자 차량 압수 시작! 진짜로 차 뺏기는 사례는?]]></title>
         <id>https://www.elle.co.kr/article/78940</id>
@@ -48,12 +54,5 @@
         <id>https://www.elle.co.kr/article/78697</id>
         <link href="https://www.elle.co.kr/article/78697"/>
         <updated>2023-07-03T15:15:39.974Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 잊었던 언어를 키우는 법]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/78647</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/78647"/>
-        <updated>2023-07-03T04:17:55.466Z</updated>
-        <content type="html"><![CDATA[나의 앎이 실천과 멀어지지 않도록 !]]></content>
     </entry>
 </feed>
