@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 18:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 19:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양조위가 뉴진스 '쿨 위드 유' 뮤직비디오에 노 개런티 출연한 이유]]></title>
+            <link>https://www.elle.co.kr/article/79325</link>
+            <guid>https://www.elle.co.kr/article/79325</guid>
+            <pubDate>Fri, 21 Jul 2023 19:10:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/f12fc349-f3aa-4a0b-8e61-c7fea618cb41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 누구보다도 알차게 청룡어워즈 즐긴 '환연2' 해은-현규 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/79322</link>
@@ -56,13 +63,6 @@
             <pubDate>Thu, 20 Jul 2023 11:11:54 GMT</pubDate>
             <content:encoded><![CDATA[드라마 '남남'에서 철부지 엄마와 쿨한 딸로 마주한 이들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/60ed488c-2cf0-43c1-9c14-c8afbfff70a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떡잎부터 달랐던 윤상 아들 이찬영, 수영 유망주에서 진로 변경한 이유]]></title>
-            <link>https://www.elle.co.kr/article/79256</link>
-            <guid>https://www.elle.co.kr/article/79256</guid>
-            <pubDate>Thu, 20 Jul 2023 04:15:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/52c1aa73-1709-4ffa-b3ef-aa819fa31b07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
