@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 07:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 08:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 누구보다도 알차게 청룡어워즈 즐긴 '환연2' 해은-현규 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/79322</link>
+            <guid>https://www.elle.co.kr/article/79322</guid>
+            <pubDate>Fri, 21 Jul 2023 08:15:48 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/2425c0f8-2779-4ed3-8698-8fe82f1e77c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월드 클래스 모델 겸 배우 정호연이 금식 대신 추천한 식단은? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/79321</link>
@@ -56,14 +63,6 @@
             <guid>https://www.elle.co.kr/article/79256</guid>
             <pubDate>Thu, 20 Jul 2023 04:15:55 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/52c1aa73-1709-4ffa-b3ef-aa819fa31b07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
-            <link>https://www.elle.co.kr/article/79255</link>
-            <guid>https://www.elle.co.kr/article/79255</guid>
-            <pubDate>Wed, 19 Jul 2023 11:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[무려 7년 만.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/0678b77f-47e3-4a7a-bd73-3421854daafb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
