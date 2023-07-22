@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 14:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 15:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[떠나요, 워케이션]]></title>
+            <link>https://www.elle.co.kr/article/79148</link>
+            <guid>https://www.elle.co.kr/article/79148</guid>
+            <pubDate>Sat, 22 Jul 2023 15:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[일과 휴식 사이에서 새로운 균형을 찾고 싶다면? 산 넘고 물 건너 나에게 꼭 맞는 ‘워케이션...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/29922abf-9701-4eb0-8574-d04606ea58b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이우환과 인터뷰하기 위해 찾은 호텔, 더 칼라일 뉴욕 #호텔미감]]></title>
             <link>https://www.elle.co.kr/article/79119</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 20 Jul 2023 09:13:34 GMT</pubDate>
             <content:encoded><![CDATA[여름의 맛이 날 춤추게 해~ 삼각지에서 만난 초당옥수수 슬러시와 복숭아 사워.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/c0df9bcd-14c6-42ad-9660-a45aaeeb949f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름하면 콩국수! 맛잘알 성시경의 콩국수 맛집 투어 3]]></title>
-            <link>https://www.elle.co.kr/article/79127</link>
-            <guid>https://www.elle.co.kr/article/79127</guid>
-            <pubDate>Tue, 18 Jul 2023 08:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[콩국수를 먹기 위해 여름을 기다린 사람 모여라! ‘믿먹’ 성시경이 고른 맛집 좌표를 참고해 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/088a5ca9-53bb-4077-bb8a-63a94df9a6b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
