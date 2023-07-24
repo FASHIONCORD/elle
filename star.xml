@@ -4,17 +4,9 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 01:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 02:34:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<엘르 워치> 커버걸이 된 배우 노윤서]]></title>
-            <link>https://www.elle.co.kr/article/79244</link>
-            <guid>https://www.elle.co.kr/article/79244</guid>
-            <pubDate>Mon, 24 Jul 2023 01:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[자신만의 속도로 필모그래피를 쌓아가고 있는 윤서의 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/807528f3-4da0-4dab-b50e-1b398333a360.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[리한나와 에이셉 라키의 2세]]></title>
             <link>https://www.elle.co.kr/article/79149</link>
@@ -64,6 +56,13 @@
             <guid>https://www.elle.co.kr/article/79294</guid>
             <pubDate>Thu, 20 Jul 2023 13:17:25 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/219ba29a-5324-4beb-8ab2-c112020d3102.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김사랑의 탄탄한 체형 비결 '크라브마가'는 무엇? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/79288</link>
+            <guid>https://www.elle.co.kr/article/79288</guid>
+            <pubDate>Mon, 24 Jul 2023 02:33:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/5d242b60-ff6b-4e1e-bd95-7d0cad046d36.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
