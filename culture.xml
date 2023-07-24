@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 12:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 13:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
+            <link>https://www.elle.co.kr/article/79319</link>
+            <guid>https://www.elle.co.kr/article/79319</guid>
+            <pubDate>Mon, 24 Jul 2023 13:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[더현대 서울에서 단 10일간 펼쳐지는 최강 팝업스토어의 정체는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/0b5d3a61-1f90-42cb-b348-6d7f4eb4e955.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['감독 겸 배우' 정우성의 장편 데뷔작 '보호자' 정보 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/79295</link>
@@ -58,13 +66,6 @@
             <pubDate>Wed, 19 Jul 2023 11:12:16 GMT</pubDate>
             <content:encoded><![CDATA[나오미 캠벨, 신디 크로포드, 린다 에반젤리스타, 크리스티 털링턴의 발자취를 조명한 다큐멘터리...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/6b06f08c-fc2d-4ef4-8158-0c129fa3342a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집밥 예찬론자라는 '마당집' 김태희의 자기 관리 비법 & 식단 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/79117</link>
-            <guid>https://www.elle.co.kr/article/79117</guid>
-            <pubDate>Tue, 18 Jul 2023 10:14:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/d8ac32d9-3e0e-47aa-abff-ec8cfb09e0ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 12:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 13:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유빈-권순우, 공개 열애 시작 후 첫 테니스장 럽스타.jpg]]></title>
+            <link>https://www.elle.co.kr/article/79341</link>
+            <guid>https://www.elle.co.kr/article/79341</guid>
+            <pubDate>Mon, 24 Jul 2023 13:20:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/38303f08-a314-4ca4-8da8-b78aeed0be8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<엘르 워치> 커버걸이 된 배우 노윤서]]></title>
             <link>https://www.elle.co.kr/article/79244</link>
@@ -57,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/79295</guid>
             <pubDate>Thu, 20 Jul 2023 15:13:48 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/b77276ad-8fb1-4603-b752-652c6b6088f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[약자라고 안 봐줘! 파이트 저지 모니카X셔누가 꼽은 '스우파2' 관전 포인트]]></title>
-            <link>https://www.elle.co.kr/article/79294</link>
-            <guid>https://www.elle.co.kr/article/79294</guid>
-            <pubDate>Thu, 20 Jul 2023 13:17:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/219ba29a-5324-4beb-8ab2-c112020d3102.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
