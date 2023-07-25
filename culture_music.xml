@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/music</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2023-07-25T09:14:50.406Z</updated>
+    <updated>2023-07-25T10:14:59.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/79434</id>
+        <link href="https://www.elle.co.kr/article/79434"/>
+        <updated>2023-07-25T10:14:15.661Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양조위가 뉴진스 '쿨 위드 유' 뮤직비디오에 노 개런티 출연한 이유]]></title>
         <id>https://www.elle.co.kr/article/79325</id>
@@ -81,12 +87,5 @@
         <link href="https://www.elle.co.kr/article/77909"/>
         <updated>2023-05-26T06:16:35.922Z</updated>
         <content type="html"><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고?]]></title>
-        <id>https://www.elle.co.kr/article/77654</id>
-        <link href="https://www.elle.co.kr/article/77654"/>
-        <updated>2023-05-18T10:12:49.983Z</updated>
-        <content type="html"><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content>
     </entry>
 </feed>
