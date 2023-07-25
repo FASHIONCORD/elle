@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 14:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 15:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘쉼’이 필요한 스타들의 제주살이 3]]></title>
+            <link>https://www.elle.co.kr/article/79373</link>
+            <guid>https://www.elle.co.kr/article/79373</guid>
+            <pubDate>Tue, 25 Jul 2023 15:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[최소 보름부터 두 달까지, 도시의 분주한 일상에 잠시 쉼표를 찍고 소소한 행복을 찾아 제주로...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뉴진스가 선배 아이유에게 감사 인사를?]]></title>
             <link>https://www.elle.co.kr/article/79353</link>
@@ -57,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/79321</guid>
             <pubDate>Fri, 21 Jul 2023 07:13:17 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/adad3eaf-02f1-4432-ae50-f216d179ab03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['8년차 커플' 이동휘-정호연, 청룡시리즈어워즈 현장서 달달 모먼트 포착?]]></title>
-            <link>https://www.elle.co.kr/article/79307</link>
-            <guid>https://www.elle.co.kr/article/79307</guid>
-            <pubDate>Fri, 21 Jul 2023 01:04:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/eeb20cf6-1a7b-4588-8c4d-e5adc97f07f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
