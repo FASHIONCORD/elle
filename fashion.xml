@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-26T18:17:04.394Z</updated>
+    <updated>2023-07-26T19:12:00.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
+        <id>https://www.elle.co.kr/article/79319</id>
+        <link href="https://www.elle.co.kr/article/79319"/>
+        <updated>2023-07-26T19:10:20.713Z</updated>
+        <content type="html"><![CDATA[더현대 서울에서 단 10일간 펼쳐지는 최강 팝업스토어의 정체는?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두툼한 플랫폼 슈즈의 매력]]></title>
         <id>https://www.elle.co.kr/article/79297</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79193"/>
         <updated>2023-07-19T15:12:41.055Z</updated>
         <content type="html"><![CDATA[산뜻한 깅엄 체크를 입고 피크닉 갈 시간.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #4 비주얼 디렉터 김소연]]></title>
-        <id>https://www.elle.co.kr/article/79207</id>
-        <link href="https://www.elle.co.kr/article/79207"/>
-        <updated>2023-07-19T15:12:41.056Z</updated>
-        <content type="html"><![CDATA[K 팝스타의 비주얼을 기획하고 감독하는 비주얼 디렉터 김소연이 애정하는 물건과 그 이유.]]></content>
     </entry>
 </feed>
