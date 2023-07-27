@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-27T05:13:31.555Z</updated>
+    <updated>2023-07-27T06:16:37.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지수는 닻을 내린 배처럼 단단하다. 흔들림 없이 항해하는 지수의 마음]]></title>
+        <id>https://www.elle.co.kr/article/79272</id>
+        <link href="https://www.elle.co.kr/article/79272"/>
+        <updated>2023-07-27T06:15:35.290Z</updated>
+        <content type="html"><![CDATA[일렁이는 질문과 호기심 어린 시선 속에서도 지수는 망설임 없이 나아간다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[표정에서 느껴지는 '찐' 행복? 최자가 전한 탄자니아 신혼여행 리얼 후기]]></title>
         <id>https://www.elle.co.kr/article/79435</id>
@@ -48,12 +55,5 @@
         <id>https://www.elle.co.kr/article/79341</id>
         <link href="https://www.elle.co.kr/article/79341"/>
         <updated>2023-07-24T13:20:17.044Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<엘르 워치> 커버걸이 된 배우 노윤서]]></title>
-        <id>https://www.elle.co.kr/article/79244</id>
-        <link href="https://www.elle.co.kr/article/79244"/>
-        <updated>2023-07-24T09:13:11.525Z</updated>
-        <content type="html"><![CDATA[자신만의 속도로 필모그래피를 쌓아가고 있는 윤서의 시간.]]></content>
     </entry>
 </feed>
