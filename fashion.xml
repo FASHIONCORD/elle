@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-27T07:13:15.977Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[치아 위 반짝반짝 빛나는 #투스젬]]></title>
-        <id>https://www.elle.co.kr/article/79380</id>
-        <link href="https://www.elle.co.kr/article/79380"/>
-        <updated>2023-07-27T06:15:15.920Z</updated>
-        <content type="html"><![CDATA[충치 아님 주의! 치아를 점령한 투스젬으로 힙하고 화려한 인상을 연출한 스타들을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름 맛 테이블 웨어]]></title>
-        <id>https://www.elle.co.kr/article/79136</id>
-        <link href="https://www.elle.co.kr/article/79136"/>
-        <updated>2023-07-27T01:57:33.432Z</updated>
-        <content type="html"><![CDATA[찬란한 햇살을 머금은 여름 맛 테이블웨어.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
-        <id>https://www.elle.co.kr/article/79319</id>
-        <link href="https://www.elle.co.kr/article/79319"/>
-        <updated>2023-07-26T19:10:20.713Z</updated>
-        <content type="html"><![CDATA[더현대 서울에서 단 10일간 펼쳐지는 최강 팝업스토어의 정체는?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두툼한 플랫폼 슈즈의 매력]]></title>
-        <id>https://www.elle.co.kr/article/79297</id>
-        <link href="https://www.elle.co.kr/article/79297"/>
-        <updated>2023-07-26T11:10:29.443Z</updated>
-        <content type="html"><![CDATA[올여름에도 강세를 보이는 플랫폼 슈즈! 다리를 더 길고 아름답게 보이도록 하는 데일리룩 치트...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금발이 너무해]]></title>
-        <id>https://www.elle.co.kr/article/78902</id>
-        <link href="https://www.elle.co.kr/article/78902"/>
-        <updated>2023-07-24T19:10:19.046Z</updated>
-        <content type="html"><![CDATA[아이돌 헤어 따라잡기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에리얼이 왜 거기서 나와!]]></title>
-        <id>https://www.elle.co.kr/article/78574</id>
-        <link href="https://www.elle.co.kr/article/78574"/>
-        <updated>2023-07-23T19:09:56.489Z</updated>
-        <content type="html"><![CDATA[런웨이 위에 펼쳐진 영화 &lt;인어공주&gt;를 방불케 하는 룩.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인형 아님 주의! 테디베어 백이 돌아왔다]]></title>
-        <id>https://www.elle.co.kr/article/79267</id>
-        <link href="https://www.elle.co.kr/article/79267"/>
-        <updated>2023-07-23T04:13:52.998Z</updated>
-        <content type="html"><![CDATA[엄마 손 잡고 나들이 갈 때 메던 바로 그 테디베어 백.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버캣 햇 행진]]></title>
-        <id>https://www.elle.co.kr/article/79225</id>
-        <link href="https://www.elle.co.kr/article/79225"/>
-        <updated>2023-07-20T09:12:30.059Z</updated>
-        <content type="html"><![CDATA[햇빛 완벽 차단.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Jul 2023 08:16:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[치아 위 반짝반짝 빛나는 #투스젬]]></title>
+            <link>https://www.elle.co.kr/article/79380</link>
+            <guid>https://www.elle.co.kr/article/79380</guid>
+            <pubDate>Thu, 27 Jul 2023 06:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[충치 아님 주의! 치아를 점령한 투스젬으로 힙하고 화려한 인상을 연출한 스타들을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/9d5a19fb-53bb-4731-af34-badfdbfd1382.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 맛 테이블 웨어]]></title>
+            <link>https://www.elle.co.kr/article/79136</link>
+            <guid>https://www.elle.co.kr/article/79136</guid>
+            <pubDate>Thu, 27 Jul 2023 01:57:33 GMT</pubDate>
+            <content:encoded><![CDATA[찬란한 햇살을 머금은 여름 맛 테이블웨어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/23/8c86e204-8f1e-4494-96f3-30d5fa41a8cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
+            <link>https://www.elle.co.kr/article/79319</link>
+            <guid>https://www.elle.co.kr/article/79319</guid>
+            <pubDate>Wed, 26 Jul 2023 19:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[더현대 서울에서 단 10일간 펼쳐지는 최강 팝업스토어의 정체는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/0b5d3a61-1f90-42cb-b348-6d7f4eb4e955.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두툼한 플랫폼 슈즈의 매력]]></title>
+            <link>https://www.elle.co.kr/article/79297</link>
+            <guid>https://www.elle.co.kr/article/79297</guid>
+            <pubDate>Wed, 26 Jul 2023 11:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[올여름에도 강세를 보이는 플랫폼 슈즈! 다리를 더 길고 아름답게 보이도록 하는 데일리룩 치트...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/f656f30a-e85a-4958-881d-20f07e1966ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금발이 너무해]]></title>
+            <link>https://www.elle.co.kr/article/78902</link>
+            <guid>https://www.elle.co.kr/article/78902</guid>
+            <pubDate>Mon, 24 Jul 2023 19:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌 헤어 따라잡기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/d600d75d-5f37-4d6d-99ab-242a87f4644a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에리얼이 왜 거기서 나와!]]></title>
+            <link>https://www.elle.co.kr/article/78574</link>
+            <guid>https://www.elle.co.kr/article/78574</guid>
+            <pubDate>Sun, 23 Jul 2023 19:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[런웨이 위에 펼쳐진 영화 &lt;인어공주&gt;를 방불케 하는 룩.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/5c52e6b6-d4b1-4f1e-932e-55158718ca94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인형 아님 주의! 테디베어 백이 돌아왔다]]></title>
+            <link>https://www.elle.co.kr/article/79267</link>
+            <guid>https://www.elle.co.kr/article/79267</guid>
+            <pubDate>Sun, 23 Jul 2023 04:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[엄마 손 잡고 나들이 갈 때 메던 바로 그 테디베어 백.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/80fd424d-e96a-457d-bb3c-d62f6d3bce01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버캣 햇 행진]]></title>
+            <link>https://www.elle.co.kr/article/79225</link>
+            <guid>https://www.elle.co.kr/article/79225</guid>
+            <pubDate>Thu, 20 Jul 2023 09:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[햇빛 완벽 차단.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/269c123d-b04f-41df-9823-85d56b150e7d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
