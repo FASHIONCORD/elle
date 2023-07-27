@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-07-27T14:13:36.586Z</updated>
+    <updated>2023-07-27T15:13:19.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소녀 vs. 12살 작은 인간]]></title>
+        <id>https://www.elle.co.kr/article/79507</id>
+        <link href="https://www.elle.co.kr/article/79507"/>
+        <updated>2023-07-27T15:12:53.789Z</updated>
+        <content type="html"><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
         <id>https://www.elle.co.kr/article/79502</id>
@@ -81,11 +88,5 @@
         <link href="https://www.elle.co.kr/article/79004"/>
         <updated>2023-07-09T15:13:46.886Z</updated>
         <content type="html"><![CDATA[K무비의 지금에 감독과 배우만 있는 게 아니다. 영화의 시작과 끝에서 또 다른 감각으로 영화를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은?]]></title>
-        <id>https://www.elle.co.kr/article/79018</id>
-        <link href="https://www.elle.co.kr/article/79018"/>
-        <updated>2023-07-07T10:15:21.939Z</updated>
     </entry>
 </feed>
