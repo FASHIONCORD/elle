@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-27T08:16:18.705Z</updated>
+    <updated>2023-07-27T09:13:15.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[운동 없이 -8kg! 소유가 공개한 '무탄고지' 식단은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/79477</id>
+        <link href="https://www.elle.co.kr/article/79477"/>
+        <updated>2023-07-27T09:12:25.341Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 19/20 (열아홉 스물) 주인공들의 생애 첫 화보]]></title>
+        <id>https://www.elle.co.kr/article/79437</id>
+        <link href="https://www.elle.co.kr/article/79437"/>
+        <updated>2023-07-27T09:12:25.345Z</updated>
+        <content type="html"><![CDATA[열아홉의 마지막과 스무 살의 첫날을 함께 보낸 19/20의 열 사람, 그 반짝이는 마음이 폭죽처럼...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지수는 닻을 내린 배처럼 단단하다. 흔들림 없이 항해하는 지수의 마음]]></title>
         <id>https://www.elle.co.kr/article/79272</id>
@@ -43,17 +56,5 @@
         <link href="https://www.elle.co.kr/article/79373"/>
         <updated>2023-07-25T15:13:33.404Z</updated>
         <content type="html"><![CDATA[최소 보름부터 두 달까지, 도시의 분주한 일상에 잠시 쉼표를 찍고 소소한 행복을 찾아 제주로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스가 선배 아이유에게 감사 인사를?]]></title>
-        <id>https://www.elle.co.kr/article/79353</id>
-        <link href="https://www.elle.co.kr/article/79353"/>
-        <updated>2023-07-25T10:13:49.054Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유빈-권순우, 공개 열애 시작 후 첫 테니스장 럽스타.jpg]]></title>
-        <id>https://www.elle.co.kr/article/79341</id>
-        <link href="https://www.elle.co.kr/article/79341"/>
-        <updated>2023-07-24T13:20:17.044Z</updated>
     </entry>
 </feed>

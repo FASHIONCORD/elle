@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 08:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 09:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름을 위한 모자 스타일 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/79425</link>
+            <guid>https://www.elle.co.kr/article/79425</guid>
+            <pubDate>Thu, 27 Jul 2023 09:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[볼캡부터 스트로 햇까지! 스타일 지수를 높이는 멋지고 실용적인 모자 스타일을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/e20429c9-49a2-4b28-977c-9bcd40639453.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[치아 위 반짝반짝 빛나는 #투스젬]]></title>
             <link>https://www.elle.co.kr/article/79380</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 23 Jul 2023 04:13:52 GMT</pubDate>
             <content:encoded><![CDATA[엄마 손 잡고 나들이 갈 때 메던 바로 그 테디베어 백.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/80fd424d-e96a-457d-bb3c-d62f6d3bce01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버캣 햇 행진]]></title>
-            <link>https://www.elle.co.kr/article/79225</link>
-            <guid>https://www.elle.co.kr/article/79225</guid>
-            <pubDate>Thu, 20 Jul 2023 09:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[햇빛 완벽 차단.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/269c123d-b04f-41df-9823-85d56b150e7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
