@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-28T14:12:14.647Z</updated>
+    <updated>2023-07-28T15:14:43.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에디 슬리먼이 해석한 인디 슬리즈 정신]]></title>
+        <id>https://www.elle.co.kr/article/79521</id>
+        <link href="https://www.elle.co.kr/article/79521"/>
+        <updated>2023-07-28T15:13:20.782Z</updated>
+        <content type="html"><![CDATA[LA 윌턴 극장을 가득 메운 셀린느 2023 F/W 쇼의 열기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
         <id>https://www.elle.co.kr/article/79502</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79136"/>
         <updated>2023-07-27T01:57:33.432Z</updated>
         <content type="html"><![CDATA[찬란한 햇살을 머금은 여름 맛 테이블웨어.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
-        <id>https://www.elle.co.kr/article/79319</id>
-        <link href="https://www.elle.co.kr/article/79319"/>
-        <updated>2023-07-26T19:10:20.713Z</updated>
-        <content type="html"><![CDATA[더현대 서울에서 단 10일간 펼쳐지는 최강 팝업스토어의 정체는?]]></content>
     </entry>
 </feed>
