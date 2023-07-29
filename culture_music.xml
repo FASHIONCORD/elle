@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 11:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 12:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노엘 갤러거, 11월 내한 확정! 한국 팬들에게 던진 그 다운 한마디 (ft. South)]]></title>
+            <link>https://www.elle.co.kr/article/79576</link>
+            <guid>https://www.elle.co.kr/article/79576</guid>
+            <pubDate>Sat, 29 Jul 2023 12:21:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/ea442e13-f0d9-454c-8afc-5c558fb6f3bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/79434</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/78933</link>
             <guid>https://www.elle.co.kr/article/78933</guid>
             <pubDate>Wed, 05 Jul 2023 01:16:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/57ebd01e-53e9-4593-8d81-75a126b90414.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우아한 발레리나로 변신한 뉴진스의 2집 예고 (ft. 콘셉트 포토)]]></title>
@@ -86,13 +92,6 @@
             <link>https://www.elle.co.kr/article/77968</link>
             <guid>https://www.elle.co.kr/article/77968</guid>
             <pubDate>Tue, 30 May 2023 06:17:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023]]></title>
-            <link>https://www.elle.co.kr/article/77909</link>
-            <guid>https://www.elle.co.kr/article/77909</guid>
-            <pubDate>Fri, 26 May 2023 06:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content:encoded>
         </item>
     </channel>
 </rss>
