@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-30T14:11:30.941Z</updated>
+    <updated>2023-07-30T15:13:23.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[똑같은 반팔티가 지겨울 땐? 링거 티셔츠로 한 끗 디테일 더하기!]]></title>
+        <id>https://www.elle.co.kr/article/79542</id>
+        <link href="https://www.elle.co.kr/article/79542"/>
+        <updated>2023-07-30T15:11:02.060Z</updated>
+        <content type="html"><![CDATA[로살리아, 해리 스타일스, 두아 리파, 배드 버니도 빠진 링거 티셔츠의 무한한 매력.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헤일리 비버도 푹 빠졌다? 라떼 트렌드!]]></title>
         <id>https://www.elle.co.kr/article/79532</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79484"/>
         <updated>2023-07-27T19:09:55.841Z</updated>
         <content type="html"><![CDATA[에어컨 빵빵한 실내에서 걸쳐도 좋고 햇볕이 내리쬐는 야외에서 활용해도 좋은 화이트 셔츠. 일...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루이 비통 파라솔, 디올 선베드와 즐기는 휴가! 패션 브랜드의 여름 맞이 팝업 스토어 5]]></title>
-        <id>https://www.elle.co.kr/article/79481</id>
-        <link href="https://www.elle.co.kr/article/79481"/>
-        <updated>2023-07-27T15:12:11.362Z</updated>
-        <content type="html"><![CDATA[자크뮈스, 디올, 루이 비통, 펜디, 구찌의 여름나기.]]></content>
     </entry>
 </feed>
