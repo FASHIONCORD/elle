@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-31T02:08:01.865Z</updated>
+    <updated>2023-07-31T03:15:28.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장마에도 끄떡 없는 방수 아이템]]></title>
+        <id>https://www.elle.co.kr/article/79522</id>
+        <link href="https://www.elle.co.kr/article/79522"/>
+        <updated>2023-07-31T03:13:24.889Z</updated>
+        <content type="html"><![CDATA[비가 오네. 비만 오네.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[똑같은 반팔티가 지겨울 땐? 링거 티셔츠로 한 끗 디테일 더하기!]]></title>
         <id>https://www.elle.co.kr/article/79542</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79487"/>
         <updated>2023-07-28T02:03:20.691Z</updated>
         <content type="html"><![CDATA[낯설지만 오히려 좋아.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셔츠 덕후라면 주목! 여름을 위한 화이트 셔츠 패션 5]]></title>
-        <id>https://www.elle.co.kr/article/79484</id>
-        <link href="https://www.elle.co.kr/article/79484"/>
-        <updated>2023-07-27T19:09:55.841Z</updated>
-        <content type="html"><![CDATA[에어컨 빵빵한 실내에서 걸쳐도 좋고 햇볕이 내리쬐는 야외에서 활용해도 좋은 화이트 셔츠. 일...]]></content>
     </entry>
 </feed>
