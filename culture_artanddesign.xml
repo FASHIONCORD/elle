@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 14:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 15:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나 혼자 일해요 #프리워커]]></title>
+            <link>https://www.elle.co.kr/article/79351</link>
+            <guid>https://www.elle.co.kr/article/79351</guid>
+            <pubDate>Tue, 01 Aug 2023 15:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[노마드맵 커뮤니티 기획자, 영어강사, '코워킹 클럽' 운영자 윤소현. 세 가지 직업을 가지며 워...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/786dac09-0eeb-4f1e-ac1f-64b5b5a973f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도심 속 식물 섬, 내추럴리 내추럴]]></title>
             <link>https://www.elle.co.kr/article/79120</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/78414</guid>
             <pubDate>Sun, 23 Jul 2023 15:12:10 GMT</pubDate>
             <content:encoded><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/613ffa2d-2ef2-4519-8d00-c3ce31749e4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버려진 쇼핑백으로 만든 소파? 비 오는 주말, 들러볼 전시 3]]></title>
@@ -93,13 +100,6 @@
             <link>https://www.elle.co.kr/article/78932</link>
             <guid>https://www.elle.co.kr/article/78932</guid>
             <pubDate>Wed, 05 Jul 2023 01:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[우먼 인 골드]]></title>
-            <link>https://www.elle.co.kr/article/78769</link>
-            <guid>https://www.elle.co.kr/article/78769</guid>
-            <pubDate>Tue, 04 Jul 2023 15:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 금속이 천천히 식으며 드러나는 자태. 단단하고 유연한 금속에 매료된 다섯 명의 여성 ...]]></content:encoded>
         </item>
     </channel>
 </rss>

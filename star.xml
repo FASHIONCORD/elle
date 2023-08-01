@@ -1,71 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 14:13:42 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['남남'에서 만난 전혜진과 최수영]]></title>
-            <link>https://www.elle.co.kr/article/79279</link>
-            <guid>https://www.elle.co.kr/article/79279</guid>
-            <pubDate>Tue, 01 Aug 2023 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;남남&gt;에서 가장 '힙'한 모녀로 서로를 마주한 전혜진과 최수영. 둘 사이에는 연기와 동료애, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/719d5072-60dc-43ba-b6bf-4f02140ddf32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노엘 갤러거, 11월 내한 확정! 한국 팬들에게 던진 그 다운 한마디 (ft. South)]]></title>
-            <link>https://www.elle.co.kr/article/79576</link>
-            <guid>https://www.elle.co.kr/article/79576</guid>
-            <pubDate>Tue, 01 Aug 2023 06:24:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/ea442e13-f0d9-454c-8afc-5c558fb6f3bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천둥-미미 프러포즈에 눈물 흘린 뜻밖의 인물]]></title>
-            <link>https://www.elle.co.kr/article/79567</link>
-            <guid>https://www.elle.co.kr/article/79567</guid>
-            <pubDate>Mon, 31 Jul 2023 16:22:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/e88a96dd-ffd1-465c-923f-20638e69c1f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀 vs. 12살 작은 인간]]></title>
-            <link>https://www.elle.co.kr/article/79507</link>
-            <guid>https://www.elle.co.kr/article/79507</guid>
-            <pubDate>Mon, 31 Jul 2023 15:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/e5ba49a8-d9f3-4e41-bd99-2846103382e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희와 만난 파리에서의 부쉐론]]></title>
-            <link>https://www.elle.co.kr/article/79482</link>
-            <guid>https://www.elle.co.kr/article/79482</guid>
-            <pubDate>Mon, 31 Jul 2023 15:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이티브 디렉터 클레어 슈완(Claire Choisne)이 떠올린 하이 주얼리, ‘까르트 블랑슈(Cart...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/7af1599f-3171-48ad-9327-58753c64878e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톱모델 장윤주가 체형 유지를 위해 반드시 챙겨 먹는다는 음식 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/79519</link>
-            <guid>https://www.elle.co.kr/article/79519</guid>
-            <pubDate>Sun, 30 Jul 2023 15:11:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/5103ea1a-ae14-4ba7-92b0-bbe959fb322d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이강인, 알고 보니 지드래곤의 성공한 덕후?!]]></title>
-            <link>https://www.elle.co.kr/article/79518</link>
-            <guid>https://www.elle.co.kr/article/79518</guid>
-            <pubDate>Sat, 29 Jul 2023 12:21:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/c3bd98b5-7f4b-4c6d-8802-2ca5aa50e69a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
-            <link>https://www.elle.co.kr/article/79502</link>
-            <guid>https://www.elle.co.kr/article/79502</guid>
-            <pubDate>Fri, 28 Jul 2023 10:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/fb1cf0dc-976e-4b84-9aef-52fce304095b.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-08-01T15:14:55.181Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
+        <id>https://www.elle.co.kr/article/79610</id>
+        <link href="https://www.elle.co.kr/article/79610"/>
+        <updated>2023-08-01T15:13:08.753Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['남남'에서 만난 전혜진과 최수영]]></title>
+        <id>https://www.elle.co.kr/article/79279</id>
+        <link href="https://www.elle.co.kr/article/79279"/>
+        <updated>2023-08-01T11:11:00.403Z</updated>
+        <content type="html"><![CDATA[&lt;남남&gt;에서 가장 '힙'한 모녀로 서로를 마주한 전혜진과 최수영. 둘 사이에는 연기와 동료애, ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노엘 갤러거, 11월 내한 확정! 한국 팬들에게 던진 그 다운 한마디 (ft. South)]]></title>
+        <id>https://www.elle.co.kr/article/79576</id>
+        <link href="https://www.elle.co.kr/article/79576"/>
+        <updated>2023-08-01T06:24:29.613Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천둥-미미 프러포즈에 눈물 흘린 뜻밖의 인물]]></title>
+        <id>https://www.elle.co.kr/article/79567</id>
+        <link href="https://www.elle.co.kr/article/79567"/>
+        <updated>2023-07-31T16:22:25.305Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소녀 vs. 12살 작은 인간]]></title>
+        <id>https://www.elle.co.kr/article/79507</id>
+        <link href="https://www.elle.co.kr/article/79507"/>
+        <updated>2023-07-31T15:14:15.502Z</updated>
+        <content type="html"><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한소희와 만난 파리에서의 부쉐론]]></title>
+        <id>https://www.elle.co.kr/article/79482</id>
+        <link href="https://www.elle.co.kr/article/79482"/>
+        <updated>2023-07-31T15:14:15.503Z</updated>
+        <content type="html"><![CDATA[크리에이티브 디렉터 클레어 슈완(Claire Choisne)이 떠올린 하이 주얼리, ‘까르트 블랑슈(Cart...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[톱모델 장윤주가 체형 유지를 위해 반드시 챙겨 먹는다는 음식 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/79519</id>
+        <link href="https://www.elle.co.kr/article/79519"/>
+        <updated>2023-07-30T15:11:57.078Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이강인, 알고 보니 지드래곤의 성공한 덕후?!]]></title>
+        <id>https://www.elle.co.kr/article/79518</id>
+        <link href="https://www.elle.co.kr/article/79518"/>
+        <updated>2023-07-29T12:21:20.642Z</updated>
+    </entry>
+</feed>
