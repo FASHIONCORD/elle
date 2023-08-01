@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 18:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 19:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행자의 시선이 깃든 반클리프 아펠의 하이 주얼리]]></title>
+            <link>https://www.elle.co.kr/article/79556</link>
+            <guid>https://www.elle.co.kr/article/79556</guid>
+            <pubDate>Tue, 01 Aug 2023 19:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[여행에서 가져온 기념품처럼, 반클리프 아펠이 하이 주얼리를 통해 전하는 다채로운 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/e142b973-0d08-49c0-85bc-c0dc05632ce7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름에도 니트를 즐기는 방법 #니트베스트]]></title>
             <link>https://www.elle.co.kr/article/79578</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 29 Jul 2023 15:10:46 GMT</pubDate>
             <content:encoded><![CDATA[여름이 되면 더 잘 보이는 스타들의 타투! 전신 타투부터 귀여운 미니 타투까지, 당장 따라 하...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/d7b69a3a-1e55-4eda-b6fc-42da577a6322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희와 만난 파리에서의 부쉐론]]></title>
-            <link>https://www.elle.co.kr/article/79482</link>
-            <guid>https://www.elle.co.kr/article/79482</guid>
-            <pubDate>Fri, 28 Jul 2023 19:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이티브 디렉터 클레어 슈완(Claire Choisne)이 떠올린 하이 주얼리, ‘까르트 블랑슈(Cart...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/7af1599f-3171-48ad-9327-58753c64878e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
