@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 04:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 05:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤일리 비버도 푹 빠졌다? 태닝 라떼 메이크업]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36345001&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36345001&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 02 Aug 2023 05:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDJfMjE1/MDAxNjkwOTUxMTYyMTU0.3s0TtXF54aswQvVnc4pEhyt1ESqXZNfERMYs8lMSuU0g.MK6uZ_Y77gVquS0JjIBflJoxhEAiUkNOcFHCShpqTj4g.JPEG/IQ99zWjpLfG-QPymtTzv_Jwp7oys.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여행 갈 때 파우치에 뭐 챙겨가지? 똑똑하게 여행 파우치 꾸리는 법]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36231531&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -160,14 +168,6 @@
             <pubDate>Mon, 17 Oct 2022 01:50:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTdfMTk5/MDAxNjY1OTY2NjkyMDky.vD3-yc_RZKIhD0e7AltSX7B-xiD5VE8fyjrNVvYB3Csg.LSGQwMN625N52_-Fzyf41xebG3V_0Gc4TInwuHqieZsg.JPEG/IAGAuKn3LhW34QRkgQK4rgESIVUM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위티 뱅 스타일로 러블리 폭발한 스타는?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34568120&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34568120&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 03 Oct 2022 18:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDNfMSAg/MDAxNjY0ODAwMDk2ODY2.F_s9EcTZZW8L5kg3cnEaLh9kfo3WthA2B4VcECk5Et8g.nyM1h2wOKij5YFhtZ0TGxK2VEA7NepaQcuG7QJhbPa0g.JPEG/IZdh5cxY6xkHL5mEJCxdCVT0gAac.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
