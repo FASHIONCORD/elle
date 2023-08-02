@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-08-02T08:16:11.298Z</updated>
+    <updated>2023-08-02T09:14:27.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바쁜 아침엔? 아이비의 초스피드 출근 메이크업 HOW TO]]></title>
+        <id>https://www.elle.co.kr/article/79581</id>
+        <link href="https://www.elle.co.kr/article/79581"/>
+        <updated>2023-08-02T09:12:27.328Z</updated>
+        <content type="html"><![CDATA[단 10분 안에 퓨어하고 생기있는 무드를 완성하는 메이크업 노하우를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[식을 줄 모르는 히메컷 유행! 히메컷을 한 셀러브리티 11]]></title>
         <id>https://www.elle.co.kr/article/79569</id>
@@ -50,11 +57,5 @@
         <id>https://www.elle.co.kr/article/79321</id>
         <link href="https://www.elle.co.kr/article/79321"/>
         <updated>2023-07-28T15:13:30.450Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김사랑의 탄탄한 체형 비결 '크라브마가'는 무엇? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79288</id>
-        <link href="https://www.elle.co.kr/article/79288"/>
-        <updated>2023-07-28T02:03:31.647Z</updated>
     </entry>
 </feed>
