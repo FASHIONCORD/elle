@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 12:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 13:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1061,7 +1061,6 @@
             <link>https://www.elle.co.kr/article/79576</link>
             <guid>https://www.elle.co.kr/article/79576</guid>
             <pubDate>Sat, 29 Jul 2023 12:21:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/ea442e13-f0d9-454c-8afc-5c558fb6f3bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1148,12 +1147,14 @@
             <guid>https://www.elle.co.kr/article/79611</guid>
             <pubDate>Mon, 31 Jul 2023 15:14:57 GMT</pubDate>
             <content:encoded><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7d3ce265-5645-48bf-8329-b8b1a727bc2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/79610</link>
             <guid>https://www.elle.co.kr/article/79610</guid>
             <pubDate>Mon, 31 Jul 2023 15:14:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d946c28a-d1d9-498b-9ffc-5058324527b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소녀 vs. 12살 작은 인간 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1161,6 +1162,7 @@
             <guid>https://www.elle.co.kr/article/79507</guid>
             <pubDate>Thu, 27 Jul 2023 15:12:53 GMT</pubDate>
             <content:encoded><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/e5ba49a8-d9f3-4e41-bd99-2846103382e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1168,6 +1170,7 @@
             <guid>https://www.elle.co.kr/article/79502</guid>
             <pubDate>Thu, 27 Jul 2023 06:16:06 GMT</pubDate>
             <content:encoded><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/fb1cf0dc-976e-4b84-9aef-52fce304095b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김태리 열연에 역대급 반전까지! '악귀' 후반부 관전 포인트 2 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1232,7 +1235,6 @@
             <guid>https://www.elle.co.kr/article/79351</guid>
             <pubDate>Tue, 01 Aug 2023 15:13:56 GMT</pubDate>
             <content:encoded><![CDATA[노마드맵 커뮤니티 기획자, 영어강사, '코워킹 클럽' 운영자 윤소현. 세 가지 직업을 가지며 워...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/786dac09-0eeb-4f1e-ac1f-64b5b5a973f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도심 속 식물 섬, 내추럴리 내추럴 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1240,7 +1242,6 @@
             <guid>https://www.elle.co.kr/article/79120</guid>
             <pubDate>Sun, 30 Jul 2023 15:12:55 GMT</pubDate>
             <content:encoded><![CDATA[내추럴리 내추럴이 만들어나가는 자연스럽고 따뜻한 시선.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/0b465ea0-4a69-4fe4-bd22-ff94ed37ec14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박물관이 살아있다 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1248,7 +1249,6 @@
             <guid>https://www.elle.co.kr/article/78409</guid>
             <pubDate>Tue, 25 Jul 2023 02:45:14 GMT</pubDate>
             <content:encoded><![CDATA[색다른 영감을 불어 넣어 줄 공간으로의 초대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/bf7f66bf-a603-49b1-b058-035ddb6ecf36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시인이 운영하는 식물 가게, 큐이디 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1256,7 +1256,6 @@
             <guid>https://www.elle.co.kr/article/79132</guid>
             <pubDate>Mon, 24 Jul 2023 15:14:19 GMT</pubDate>
             <content:encoded><![CDATA['시인이 운영하는 식물 가게'라는 문장은 단어의 나열만으로도 한 편의 시처럼 다가온다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/813a79b5-ed8a-4465-96e1-6e7414d4b1bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿨한 여름을 닮은 아트 디저트 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
