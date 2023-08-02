@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 14:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 15:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정성 어린 화원을 빚는 '오이타']]></title>
+            <link>https://www.elle.co.kr/article/79121</link>
+            <guid>https://www.elle.co.kr/article/79121</guid>
+            <pubDate>Wed, 02 Aug 2023 15:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/168ba103-ebdf-4f43-b98c-d0de9cb2d602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나 혼자 일해요 #프리워커]]></title>
             <link>https://www.elle.co.kr/article/79351</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/79132</guid>
             <pubDate>Mon, 24 Jul 2023 15:14:19 GMT</pubDate>
             <content:encoded><![CDATA['시인이 운영하는 식물 가게'라는 문장은 단어의 나열만으로도 한 편의 시처럼 다가온다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/813a79b5-ed8a-4465-96e1-6e7414d4b1bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
@@ -94,12 +101,6 @@
             <guid>https://www.elle.co.kr/article/78771</guid>
             <pubDate>Wed, 05 Jul 2023 15:15:30 GMT</pubDate>
             <content:encoded><![CDATA[홈 오피스를 위한 아름답고 다재다능한 가구들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[꿉꿉했다가 쨍쨍했다가, 변덕스런 여름 날씨에 추천! 서울 전시회 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/78932</link>
-            <guid>https://www.elle.co.kr/article/78932</guid>
-            <pubDate>Wed, 05 Jul 2023 01:16:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
