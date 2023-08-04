@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-08-04T01:02:39.097Z</updated>
+    <updated>2023-08-04T02:06:22.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채식인은 복날을 어떻게 보낼까? #무해한삶_5]]></title>
+        <id>https://www.elle.co.kr/article/79531</id>
+        <link href="https://www.elle.co.kr/article/79531"/>
+        <updated>2023-08-04T02:06:12.165Z</updated>
+        <content type="html"><![CDATA[비건 보양식과 제로웨이스트 카페까지. 채식 2년차 어시스턴트 에디터의 무해한 여름나기 프로젝트...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펜션 왜 가? 완벽한 여름휴가의 대체제, 오션월드 빌리지!]]></title>
         <id>https://www.elle.co.kr/article/79480</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/79134"/>
         <updated>2023-07-26T11:12:04.835Z</updated>
         <content type="html"><![CDATA[일본과 태국을 넘나드는 경험을 선사해 줄 아사이 교토 시조로 향하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쉼’이 필요한 스타들의 제주살이 3]]></title>
-        <id>https://www.elle.co.kr/article/79373</id>
-        <link href="https://www.elle.co.kr/article/79373"/>
-        <updated>2023-07-25T19:10:27.077Z</updated>
-        <content type="html"><![CDATA[최소 보름부터 두 달까지, 도시의 분주한 일상에 잠시 쉼표를 찍고 소소한 행복을 찾아 제주로...]]></content>
     </entry>
 </feed>
