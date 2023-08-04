@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-08-04T10:14:06.312Z</updated>
+    <updated>2023-08-04T11:11:28.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘얼죽따’파라면 손! 여름엔 짜이로 이열치열 #마실마실]]></title>
+        <id>https://www.elle.co.kr/article/79554</id>
+        <link href="https://www.elle.co.kr/article/79554"/>
+        <updated>2023-08-04T11:11:19.294Z</updated>
+        <content type="html"><![CDATA[성수동과 망원동에서 만나는 인도식 밀크티 ‘짜이’ 전문점을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채식인은 복날을 어떻게 보낼까? #무해한삶_5]]></title>
         <id>https://www.elle.co.kr/article/79531</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/78414"/>
         <updated>2023-07-26T15:13:54.172Z</updated>
         <content type="html"><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교토에 우뚝 선 아사이 교토 시조 호텔]]></title>
-        <id>https://www.elle.co.kr/article/79134</id>
-        <link href="https://www.elle.co.kr/article/79134"/>
-        <updated>2023-07-26T11:12:04.835Z</updated>
-        <content type="html"><![CDATA[일본과 태국을 넘나드는 경험을 선사해 줄 아사이 교토 시조로 향하다.]]></content>
     </entry>
 </feed>
