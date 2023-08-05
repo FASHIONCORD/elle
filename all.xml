@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 12:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 13:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,6 +970,7 @@
             <guid>https://www.elle.co.kr/article/79628</guid>
             <pubDate>Wed, 02 Aug 2023 15:13:29 GMT</pubDate>
             <content:encoded><![CDATA[마음을 사로잡을 7명의 이름. 쇼타로, 은석, 성찬, 원빈, 승한, 소희, 앤톤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/4d190a27-d1bf-43d7-a91e-81d729044802.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김태리도 대본 보다가 놀랐다는 '악귀' 명장면은? #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1212,6 +1213,7 @@
             <guid>https://www.elle.co.kr/article/79704</guid>
             <pubDate>Fri, 04 Aug 2023 09:13:55 GMT</pubDate>
             <content:encoded><![CDATA[아무렇게나 헝클어진 머리, 형형색색 가디건 그리고 시그니처 진주 목걸이.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/fa3d5dd9-df47-4c38-8c0c-e6873498a242.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노마드라는 치트키 #프리워커 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1219,6 +1221,7 @@
             <guid>https://www.elle.co.kr/article/79355</guid>
             <pubDate>Thu, 03 Aug 2023 15:14:19 GMT</pubDate>
             <content:encoded><![CDATA[마케터 킴제이는 30개국을 여행하며 3000여 개의 브랜드를 컨설팅했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/2d45ca8f-782b-45f4-add3-6a73a352cbec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정성 어린 화원을 빚는 '오이타' (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1226,6 +1229,7 @@
             <guid>https://www.elle.co.kr/article/79121</guid>
             <pubDate>Wed, 02 Aug 2023 15:14:38 GMT</pubDate>
             <content:encoded><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/168ba103-ebdf-4f43-b98c-d0de9cb2d602.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나 혼자 일해요 #프리워커 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1233,6 +1237,7 @@
             <guid>https://www.elle.co.kr/article/79351</guid>
             <pubDate>Tue, 01 Aug 2023 15:13:56 GMT</pubDate>
             <content:encoded><![CDATA[노마드맵 커뮤니티 기획자, 영어강사, '코워킹 클럽' 운영자 윤소현. 세 가지 직업을 가지며 워...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/881725df-84fe-49cd-bcac-8181c9097873.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도심 속 식물 섬, 내추럴리 내추럴 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
