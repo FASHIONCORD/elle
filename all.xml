@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 09:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 10:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -929,6 +929,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/ba7f59ac-f2dd-41ce-9754-7a0835ecf33a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K예능 어벤져스! 다섯 명의 여자 예능 PD가 한자리에 모였다 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/79696</link>
+            <guid>https://www.elle.co.kr/article/79696</guid>
+            <pubDate>Mon, 07 Aug 2023 10:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[이토록 흥미로운 '온 앤 오프'가 있을까.  글로벌 시장을 장악한 'K 예능'이란 재미난 판을 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['워터밤 여신' 권은비, 무대 올라가기 전에 했던 특별한 준비는? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/79709</link>
             <guid>https://www.elle.co.kr/article/79709</guid>
@@ -973,12 +980,6 @@
             <guid>https://www.elle.co.kr/article/79660</guid>
             <pubDate>Fri, 04 Aug 2023 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[내 잘못을 감싸준 곳, 철없던 나를 따뜻하게 품어준 곳, 서울. 서울 태생 여섯 명이 말하는 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강민경이 '입금 다이어트'할 때 반드시 챙겨 먹는 음식은? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/79658</link>
-            <guid>https://www.elle.co.kr/article/79658</guid>
-            <pubDate>Fri, 04 Aug 2023 01:01:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[나 혼자 일해요 #프리워커 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1125,6 +1126,7 @@
             <link>https://www.elle.co.kr/article/79740</link>
             <guid>https://www.elle.co.kr/article/79740</guid>
             <pubDate>Mon, 07 Aug 2023 08:17:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/0b003236-09bf-4e5f-b885-0a9b23b7d23f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김태리도 대본 보다가 놀랐다는 '악귀' 명장면은? #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1132,12 +1134,14 @@
             <guid>https://www.elle.co.kr/article/79611</guid>
             <pubDate>Mon, 31 Jul 2023 15:14:57 GMT</pubDate>
             <content:encoded><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7d3ce265-5645-48bf-8329-b8b1a727bc2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/79610</link>
             <guid>https://www.elle.co.kr/article/79610</guid>
             <pubDate>Mon, 31 Jul 2023 15:14:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d946c28a-d1d9-498b-9ffc-5058324527b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소녀 vs. 12살 작은 인간 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1145,6 +1149,7 @@
             <guid>https://www.elle.co.kr/article/79507</guid>
             <pubDate>Thu, 27 Jul 2023 15:12:53 GMT</pubDate>
             <content:encoded><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/e5ba49a8-d9f3-4e41-bd99-2846103382e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
