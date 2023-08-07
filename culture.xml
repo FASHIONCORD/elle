@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 07:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 08:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나 혼자 일해요 #프리워커]]></title>
+            <link>https://www.elle.co.kr/article/79351</link>
+            <guid>https://www.elle.co.kr/article/79351</guid>
+            <pubDate>Mon, 07 Aug 2023 08:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[노마드맵 커뮤니티 기획자, 영어강사, '코워킹 클럽' 운영자 윤소현. 세 가지 직업을 가지며 워...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/881725df-84fe-49cd-bcac-8181c9097873.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5만 장의 사진에 담긴 현대 서울 #두도시이야기]]></title>
             <link>https://www.elle.co.kr/article/78407</link>
@@ -60,14 +68,6 @@
             <pubDate>Mon, 31 Jul 2023 15:14:24 GMT</pubDate>
             <content:encoded><![CDATA[비건 보양식과 제로웨이스트 카페까지. 채식 2년차 어시스턴트 에디터의 무해한 여름나기 프로젝트...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/a5efd115-0f6e-4ab8-8e3f-11debfacaf9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀 vs. 12살 작은 인간]]></title>
-            <link>https://www.elle.co.kr/article/79507</link>
-            <guid>https://www.elle.co.kr/article/79507</guid>
-            <pubDate>Mon, 31 Jul 2023 15:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/e5ba49a8-d9f3-4e41-bd99-2846103382e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
