@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 08:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 09:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 영국 스타의 만남! 데이비드 호크니가 그려낸 해리 스타일스의 모습은?]]></title>
+            <link>https://www.elle.co.kr/article/79704</link>
+            <guid>https://www.elle.co.kr/article/79704</guid>
+            <pubDate>Tue, 08 Aug 2023 09:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[아무렇게나 헝클어진 머리, 형형색색 가디건 그리고 시그니처 진주 목걸이.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/fa3d5dd9-df47-4c38-8c0c-e6873498a242.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노마드라는 치트키 #프리워커]]></title>
+            <link>https://www.elle.co.kr/article/79355</link>
+            <guid>https://www.elle.co.kr/article/79355</guid>
+            <pubDate>Tue, 08 Aug 2023 09:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[마케터 킴제이는 30개국을 여행하며 3000여 개의 브랜드를 컨설팅했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/2d45ca8f-782b-45f4-add3-6a73a352cbec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정성 어린 화원을 빚는 '오이타']]></title>
             <link>https://www.elle.co.kr/article/79121</link>
@@ -53,21 +69,6 @@
             <pubDate>Wed, 02 Aug 2023 15:13:39 GMT</pubDate>
             <content:encoded><![CDATA[내추럴리 내추럴이 만들어나가는 자연스럽고 따뜻한 시선.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/0b465ea0-4a69-4fe4-bd22-ff94ed37ec14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 첫 타투 사진집! <가장 밝은 검정으로>]]></title>
-            <link>https://www.elle.co.kr/article/79563</link>
-            <guid>https://www.elle.co.kr/article/79563</guid>
-            <pubDate>Tue, 01 Aug 2023 15:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[상처를 다독인 검정색 잉크와 그 위로 새긴 영원한 이야기. 사진가 류한경은 '타투'를 향해 셔...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/30/9cb07169-08d1-4ca9-bcdd-2ee281c72eb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노엘 갤러거, 11월 내한 확정! 한국 팬들에게 던진 그 다운 한마디 (ft. South)]]></title>
-            <link>https://www.elle.co.kr/article/79576</link>
-            <guid>https://www.elle.co.kr/article/79576</guid>
-            <pubDate>Mon, 31 Jul 2023 16:22:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/ea442e13-f0d9-454c-8afc-5c558fb6f3bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
