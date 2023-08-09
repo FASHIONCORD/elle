@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 01:01:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 02:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 국룰템 화이트 블라우스 코디법]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36372638&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36372638&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 09 Aug 2023 02:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDhfMjYx/MDAxNjkxNDU4MDU1MjAz.0dGZe_GlEC6HT-KK590MP5H9-_E6PQAp0yZpBJkBsmAg.p3gLTH-lP3Io6o1OZ-4Y9Ms1z1GRfnqNa3CuxqA4HGsg.JPEG/IyM3Uww4YqP-tVn4bXweOjzv3LQ0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름, 러플 드레스를 가장 쿨하게 소화하는 법]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36368366&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 22 Jun 2023 09:11:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjJfOTgg/MDAxNjg3NDIzMjk4MDQy.NBy2M8ct12eqmdFofghYTRn13RiOQW6dLD0Ywm8wf0cg.68epyOfwG9PgwBd9au3Qog3AAk7QdCyR5lj9lsznEhYg.PNG/IV5xsGkrYzBXRQ6xeuES6qufhsNc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 장마 대비를 위한 레인부츠 #쇼핑리스트]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36091668&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36091668&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Wed, 14 Jun 2023 02:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTRfMjM4/MDAxNjg2NzA5NDc0NTQx.vXHqrsJple9t535uTNpUdUJ7EzXJZvbBjBg3mKxrVaog.UyNw6NSSkSEOPHoSAHn_whZSqG1GuEuumiQcwKfiRyQg.JPEG/IrlUipXPlFJ00E1oCxGp3Z2tRcFE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
