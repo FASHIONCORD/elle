@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-09T06:17:10.130Z</updated>
+    <updated>2023-08-09T07:13:56.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한소희가 직접 밝힌 폴더폰 사용 이유 (feat. 놀라운 가격대)]]></title>
+        <id>https://www.elle.co.kr/article/79741</id>
+        <link href="https://www.elle.co.kr/article/79741"/>
+        <updated>2023-08-09T07:12:30.737Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꽉 닫힌 해피엔딩, '킹더랜드'! 설렘 폭발한 명장면 3 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/79740</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/79687"/>
         <updated>2023-08-07T01:07:54.802Z</updated>
         <content type="html"><![CDATA[하니의 무심한 듯 세련된 비주얼, 시크한 분위기 완벽 소화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['워터밤 여신' 권은비! 건강미의 핵심 비결은 바로 이것? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79678</id>
-        <link href="https://www.elle.co.kr/article/79678"/>
-        <updated>2023-08-06T15:12:24.693Z</updated>
     </entry>
 </feed>
