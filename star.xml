@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 08:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 09:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['배철수의 음악캠프' 일일 DJ로 변신한 이효리! 특별 게스트는 누구?]]></title>
+            <link>https://www.elle.co.kr/article/79765</link>
+            <guid>https://www.elle.co.kr/article/79765</guid>
+            <pubDate>Wed, 09 Aug 2023 09:13:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/fd8f27c7-0369-451b-9047-6774e2eaa46a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이효리 부부에 오은영까지?! 난리 난 홍현희-제이쓴 아들 돌잔치 인증샷 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/79745</link>
@@ -57,14 +64,6 @@
             <guid>https://www.elle.co.kr/article/79709</guid>
             <pubDate>Mon, 07 Aug 2023 08:16:34 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/847aa311-89d7-4a6a-823f-b2a0b9a7aa34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감출 수 없는 하니의 매력 #ELLE_D에디션]]></title>
-            <link>https://www.elle.co.kr/article/79705</link>
-            <guid>https://www.elle.co.kr/article/79705</guid>
-            <pubDate>Mon, 07 Aug 2023 08:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스 하니와 엘르, 쇼메가 함께하는 D에디션의 무빙 커버가 공개되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/6fb46a4c-ed2d-4c5a-8f21-c3db5797efb4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
