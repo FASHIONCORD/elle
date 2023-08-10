@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 08:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 09:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너드미라는 것이 폭발한다! 그때 그 시절 레트로 안경의 재림]]></title>
+            <link>https://www.elle.co.kr/article/79770</link>
+            <guid>https://www.elle.co.kr/article/79770</guid>
+            <pubDate>Thu, 10 Aug 2023 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[전교 회장 안경이 돌아왔다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/c7b936f4-6e19-44dd-8cea-13eb616737be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름엔 화이트 블라우스가 국룰!]]></title>
             <link>https://www.elle.co.kr/article/79751</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 07 Aug 2023 15:12:54 GMT</pubDate>
             <content:encoded><![CDATA[파리 패션위크에 퍼렐 윌리엄스가 남긴 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/05/9caacdd2-32f3-4274-9fa0-ec8e3bb3d02d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멘즈 패션위크에서 만난 훈남들]]></title>
-            <link>https://www.elle.co.kr/article/79688</link>
-            <guid>https://www.elle.co.kr/article/79688</guid>
-            <pubDate>Sat, 05 Aug 2023 19:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[훈훈한 비주얼로 프런트로에 앉은 셀러브리티.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/05/28c2c09d-1638-435a-8b13-ceb85edd23ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
