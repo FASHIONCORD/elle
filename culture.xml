@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-08-11T08:15:46.506Z</updated>
+    <updated>2023-08-11T09:13:43.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한여름을 호리는 이야기꾼, 제이다 차의 개인전 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/79679</id>
+        <link href="https://www.elle.co.kr/article/79679"/>
+        <updated>2023-08-11T09:12:38.822Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[농부가 되고 싶어? 노트북 앞 여자들이 텃밭으로 떠난 이유를 담은 두 권의 책]]></title>
         <id>https://www.elle.co.kr/article/79735</id>
@@ -52,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/79351"/>
         <updated>2023-08-07T08:16:47.032Z</updated>
         <content type="html"><![CDATA[세 가지 직업을 가진 윤소현에게 노마드 라이프는 어떤 모습인지 물었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5만 장의 사진에 담긴 현대 서울 #두도시이야기]]></title>
-        <id>https://www.elle.co.kr/article/78407</id>
-        <link href="https://www.elle.co.kr/article/78407"/>
-        <updated>2023-08-06T15:12:35.354Z</updated>
-        <content type="html"><![CDATA[#서울의현대를찾아서, #강남을만든빌딩들, #도시계획유산, #서울맨홀... 매일매일 자신이 딛고 서 있...]]></content>
     </entry>
 </feed>
