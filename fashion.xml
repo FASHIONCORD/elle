@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-11T18:16:03.119Z</updated>
+    <updated>2023-08-11T19:10:42.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작지만 큰 존재감, 서머 주얼리 스타일링 Tip]]></title>
+        <id>https://www.elle.co.kr/article/79806</id>
+        <link href="https://www.elle.co.kr/article/79806"/>
+        <updated>2023-08-11T19:09:15.884Z</updated>
+        <content type="html"><![CDATA[서머 룩, 어딘지 모르게 밋밋했다면? 해답은 주얼리에 있습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름으로 물든 아웃도어 체어]]></title>
         <id>https://www.elle.co.kr/article/79780</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79720"/>
         <updated>2023-08-08T15:12:29.181Z</updated>
         <content type="html"><![CDATA[하트 덕후 모여라~ 가방부터 티셔츠, 얼굴에 붙인 포인트 파츠까지 하트로 가득한 패션을 소개합...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 서울로 모이고 있는 미국 스트리트 브랜드]]></title>
-        <id>https://www.elle.co.kr/article/79718</id>
-        <link href="https://www.elle.co.kr/article/79718"/>
-        <updated>2023-08-08T15:12:29.193Z</updated>
-        <content type="html"><![CDATA[해외 직구 실패로 더 이상 좌절 금지!]]></content>
     </entry>
 </feed>
