@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 14:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 15:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭염도 태풍도 비켜! 말복 앞두고 체크해야 할 이색 보양식 맛집 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/79766</link>
+            <guid>https://www.elle.co.kr/article/79766</guid>
+            <pubDate>Fri, 11 Aug 2023 15:13:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/349b95be-c339-4f30-a5de-4937eaef687a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저택으로의 비밀스러운 초대, 호텔 파비용 드 라 헨느 #호텔미감]]></title>
             <link>https://www.elle.co.kr/article/79734</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/79566</guid>
             <pubDate>Sun, 06 Aug 2023 19:11:14 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/4bf3ff30-802f-4ea3-9356-fcaa76a4ee8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘얼죽따’파라면 손! 여름엔 짜이로 이열치열 #마실마실]]></title>
-            <link>https://www.elle.co.kr/article/79554</link>
-            <guid>https://www.elle.co.kr/article/79554</guid>
-            <pubDate>Fri, 04 Aug 2023 11:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[성수동과 망원동에서 만나는 인도식 밀크티 ‘짜이’ 전문점을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/e317884f-42be-458c-a151-3047c3f3e8f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
