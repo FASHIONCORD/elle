@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-08-12T14:11:51.664Z</updated>
+    <updated>2023-08-12T15:12:49.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흐엉 도딘과 시야오 왕의 '선']]></title>
+        <id>https://www.elle.co.kr/article/79790</id>
+        <link href="https://www.elle.co.kr/article/79790"/>
+        <updated>2023-08-12T15:12:36.301Z</updated>
+        <content type="html"><![CDATA[아시아 여성 작가들의 존재감이 물결처럼 서울로 밀려오는 지금. 흐엉 도딘과 시야오 왕이 그린...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치앙마이의 3층 주택에서 고양이 두 마리와 함께 사는 집 #홈터뷰]]></title>
         <id>https://www.elle.co.kr/article/79775</id>
@@ -51,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/79670"/>
         <updated>2023-08-08T09:13:55.338Z</updated>
         <content type="html"><![CDATA[코펜하겐의 여름을 수놓는 디자인 축제! 올해로 10주년을 맞은 '3 데이즈 오브 디자인(3 Days ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스부터 빵빵이, 모코코까지! 덕후 설레게 하는 이색 팝업스토어 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/79644</id>
-        <link href="https://www.elle.co.kr/article/79644"/>
-        <updated>2023-08-07T15:14:37.218Z</updated>
     </entry>
 </feed>
