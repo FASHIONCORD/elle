@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 01:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 02:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유리처럼 맑고 투명한 글라스 메이크업 따라하기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36402740&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36402740&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 14 Aug 2023 02:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MTRfMjM4/MDAxNjkxOTc2OTgwMDMy.wTJaUC7HICg8zcmXJ9XG1vmHuIa_fhTKIZWEjZ1foyQg.0Stzll7m7WI5fmUig7C6_R1xiEwN9ZPw7tkyCH2HFdYg.JPEG/IpYWUwOVTUdRitQXwOf1VOjtGaQ4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 메이크업의 킥! #주근깨메이크업]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36385741&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -160,14 +168,6 @@
             <pubDate>Tue, 29 Nov 2022 09:15:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjhfMTc0/MDAxNjY5NTk5MzM4NTcz.bg5rXGlhi5xzJKGQx9cRVqa0Ylo2lerTbkgDcYUJWuUg.WzyvrdrMJb21RaPiYmURnhIN7xByqRWEc68C3i62lK8g.JPEG/Izsv2WdbdlSJ4MOPSevONgdbtqQY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완벽한 머릿결 관리를 위한 듀오]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34860063&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34860063&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 28 Nov 2022 06:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjVfMTY2/MDAxNjY5MzUzODE1Nzg1.kCIi_YkjQ2D61EkL9gyjhG2aj-01rsyB0uDJut84duQg.V0lLiEgxVqFBR7dPyCFj9EYJFjrgmnzawKg2tOFyeQMg.JPEG/Ik6ChhkVrdoFkVGugZnq_K1u3dNw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
