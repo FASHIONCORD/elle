@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 14:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오트 쿠튀르에서 무슨일이?]]></title>
+            <link>https://www.elle.co.kr/article/79805</link>
+            <guid>https://www.elle.co.kr/article/79805</guid>
+            <pubDate>Mon, 14 Aug 2023 15:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[오직 오트 쿠튀르에서만 볼 수 있는 위대하고도 경이로운 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/2eb8c5fd-44e8-47a6-8f6d-b35fe005085a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올드 머니와 Y2K를 오가는 만능 아이템! 플런지 홀터넥 200% 활용하기]]></title>
             <link>https://www.elle.co.kr/article/79814</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 09 Aug 2023 19:10:25 GMT</pubDate>
             <content:encoded><![CDATA[이주명부터 수영까지, 스타가 사랑한 화이트 블라우스 스타일.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/1b4c63d1-592c-4231-801f-52745b20b941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라피아 전성시대]]></title>
-            <link>https://www.elle.co.kr/article/79733</link>
-            <guid>https://www.elle.co.kr/article/79733</guid>
-            <pubDate>Wed, 09 Aug 2023 15:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[자연을 머금은 라피아 백의 향연]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/7260f204-81b2-4800-beb7-50b5c7d5b40d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 14:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미술관을 닮은 집 #더컬렉터스]]></title>
+            <link>https://www.elle.co.kr/article/79785</link>
+            <guid>https://www.elle.co.kr/article/79785</guid>
+            <pubDate>Mon, 14 Aug 2023 15:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[친밀하고 매혹적인 수집가의 집, 케틀스 야드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/25180fc3-d251-411b-aa1c-fc6143f9c9fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['민희진 감성' 어떻게 소화했을까? 뷔가 직접 전한 첫 솔로 앨범 소식]]></title>
             <link>https://www.elle.co.kr/article/79791</link>
@@ -58,14 +66,6 @@
             <pubDate>Tue, 08 Aug 2023 15:13:05 GMT</pubDate>
             <content:encoded><![CDATA[바이아키텍츠 이병엽, 콜렉티브A 차진엽 부부의 차분하고 현대적인 정물화가 떠오르는 집.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/2d52212d-a8ec-4bc3-b5e3-949381c184d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 영국 스타의 만남! 데이비드 호크니가 그려낸 해리 스타일스의 모습은?]]></title>
-            <link>https://www.elle.co.kr/article/79704</link>
-            <guid>https://www.elle.co.kr/article/79704</guid>
-            <pubDate>Tue, 08 Aug 2023 09:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[아무렇게나 헝클어진 머리, 형형색색 가디건 그리고 시그니처 진주 목걸이.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/fa3d5dd9-df47-4c38-8c0c-e6873498a242.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
