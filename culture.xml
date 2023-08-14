@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 16:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 17:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,12 +13,14 @@
             <guid>https://www.elle.co.kr/article/79785</guid>
             <pubDate>Mon, 14 Aug 2023 15:12:57 GMT</pubDate>
             <content:encoded><![CDATA[친밀하고 매혹적인 수집가의 집, 케틀스 야드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/25180fc3-d251-411b-aa1c-fc6143f9c9fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['민희진 감성' 어떻게 소화했을까? 뷔가 직접 전한 첫 솔로 앨범 소식]]></title>
             <link>https://www.elle.co.kr/article/79791</link>
             <guid>https://www.elle.co.kr/article/79791</guid>
             <pubDate>Mon, 14 Aug 2023 11:11:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/35db52cb-768b-4c69-9a4a-3aed33f49909.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WEB 3.0 시대에 일하는 법 #프리워커]]></title>
