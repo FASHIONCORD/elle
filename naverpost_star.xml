@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ STAR</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 02:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 03:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소년미 뿜뿜! 로에베 글로벌 앰배서더 태용과 엘르의 전후무후한 조우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36402936&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36402936&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 14 Aug 2023 03:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MTRfODkg/MDAxNjkxOTc5MDI0Mzk5.7os_jZjDOSskb_MGtdxylygwAOy3LGLKc2cdLAmrfqQg.K4AGV4qauVH7wyjBjc6op3rZE4huUPyuvUypUA3OfRAg.JPEG/Ijsms-eclpMR8UerbphJvbtnSX8M.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 김수현의 손목 위에서 빛나는 존재감]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36353676&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Oct 2022 10:22:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjBfMjMw/MDAxNjY2MjU4NDYwODMx.JOkJKfz1NHQ2Sv9Us1TcRMtomKiFk6Tn67JsnT_XPggg.gjas0ivv-T40Xx3rDdyR6Kso8u-oFVhV0k2L9RR8B-Ig.PNG/InjHKqMwDPmIYCiTnjzdg7crjYog.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구혜선이 다이어트 중 멀리한 음식과 야식을 참는 비법은?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34639611&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34639611&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 17 Oct 2022 23:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTdfMjg4/MDAxNjY1OTk4Njg1Nzg4.bUdnfq5ta6nIQyNt4t9CY8SXtCY7up4M_kO3QFjM4uQg.1AaUMDwtRkD_fH_Xa7WSgDp_JNquoBrhadWa4zer080g.JPEG/IPzylaON_RJOHSVYUT2TDfe1N6Jg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
