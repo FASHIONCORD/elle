@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 18:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 19:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름날의 댕댕이들]]></title>
+            <link>https://www.elle.co.kr/article/79795</link>
+            <guid>https://www.elle.co.kr/article/79795</guid>
+            <pubDate>Wed, 16 Aug 2023 19:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[수영부터 패들보드, 캠핑까지. 놀 줄 아는 강아지들의 시원한 여름 나기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/12/ec9c3156-ec47-4b68-ab40-9f0927f089f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숲길 거닐며 힐링! 한여름밤 무더위 날릴 8월 야간 축제 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/79845</link>
@@ -60,13 +68,6 @@
             <pubDate>Thu, 10 Aug 2023 19:11:54 GMT</pubDate>
             <content:encoded><![CDATA[음식을 담는 도구를 넘어 스타일리시한 라이프스타일을 완성해 주는 콜렉팅의 대상! 식사를 하는...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/a04db053-2129-4578-a649-8d0cff67b4c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭염엔 시원한 극장에서 영화 볼까? 8월 이색 영화제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79708</link>
-            <guid>https://www.elle.co.kr/article/79708</guid>
-            <pubDate>Thu, 10 Aug 2023 15:14:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/2fad8473-f8af-49d5-b545-23ae4b09972a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
