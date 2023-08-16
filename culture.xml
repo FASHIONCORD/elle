@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-08-16T14:13:55.252Z</updated>
+    <updated>2023-08-16T15:14:23.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫 방송부터 대박! 박해진X박성웅X임지연의 '국민사형투표' 인기 요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79871</id>
+        <link href="https://www.elle.co.kr/article/79871"/>
+        <updated>2023-08-16T15:13:13.156Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최장수 국가대표 캡틴 손흥민, 토트넘 캡틴 됐다! (ft. 주장 데뷔전)]]></title>
         <id>https://www.elle.co.kr/article/79859</id>
@@ -50,11 +56,5 @@
         <id>https://www.elle.co.kr/article/79768</id>
         <link href="https://www.elle.co.kr/article/79768"/>
         <updated>2023-08-13T15:11:09.278Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한여름을 호리는 이야기꾼, 제이디 차의 개인전 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/79679</id>
-        <link href="https://www.elle.co.kr/article/79679"/>
-        <updated>2023-08-11T09:12:38.822Z</updated>
     </entry>
 </feed>

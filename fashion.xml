@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 14:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 15:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성큼 다가온 콰이어트 럭셔리의 시대, 그래서 뭘 사면 되죠?_선배’s 어드바이스 #181]]></title>
+            <link>https://www.elle.co.kr/article/79880</link>
+            <guid>https://www.elle.co.kr/article/79880</guid>
+            <pubDate>Wed, 16 Aug 2023 15:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[핸드백부터 패브릭, 주얼리, 워치까지 모두 짚어드립니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/15/cee2e6b1-6258-4522-b1dd-7fdd86470f16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어글리한 안경의 반란! 셀럽의 안경 활용법]]></title>
+            <link>https://www.elle.co.kr/article/79876</link>
+            <guid>https://www.elle.co.kr/article/79876</guid>
+            <pubDate>Wed, 16 Aug 2023 15:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[뿔테부터 메탈 프레임까지, 스타일리시한 패션 액세서리로 급부상한 안경.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/15/20cf7797-e076-4584-9350-df49378afa7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜨거웠던 패션 위크에서 '픽'한 주목할 만한 이슈]]></title>
             <link>https://www.elle.co.kr/article/79874</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 14 Aug 2023 15:11:49 GMT</pubDate>
             <content:encoded><![CDATA[오직 오트 쿠튀르에서만 볼 수 있는 위대하고도 경이로운 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/2eb8c5fd-44e8-47a6-8f6d-b35fe005085a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올드 머니와 Y2K를 오가는 만능 아이템! 플런지 홀터넥 200% 활용하기]]></title>
-            <link>https://www.elle.co.kr/article/79814</link>
-            <guid>https://www.elle.co.kr/article/79814</guid>
-            <pubDate>Sat, 12 Aug 2023 16:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[신화 속 여신에서 순식간에 2000년대 테크노 여전사로 변신하는 법?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/e3821dcc-9f54-48a9-8021-76ae9b2008fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작지만 큰 존재감, 서머 주얼리 스타일링 Tip]]></title>
-            <link>https://www.elle.co.kr/article/79806</link>
-            <guid>https://www.elle.co.kr/article/79806</guid>
-            <pubDate>Fri, 11 Aug 2023 19:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[서머 룩, 어딘지 모르게 밋밋했다면? 해답은 주얼리에 있습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/8be1bfa1-f500-4956-a561-be37d983518d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
