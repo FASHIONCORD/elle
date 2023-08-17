@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 04:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 05:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취향 따라 즐겨봐! '1인 1빙' 가능한 경복궁 근처 빙수 맛집 2 #마실마실]]></title>
+            <link>https://www.elle.co.kr/article/79850</link>
+            <guid>https://www.elle.co.kr/article/79850</guid>
+            <pubDate>Thu, 17 Aug 2023 05:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[더위를 잊게 할 형형색색의 빙수들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/12/8cc4a8a8-66c9-457c-a18e-c0e13efe1033.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름날의 댕댕이들]]></title>
             <link>https://www.elle.co.kr/article/79795</link>
@@ -60,14 +68,6 @@
             <pubDate>Fri, 11 Aug 2023 14:12:13 GMT</pubDate>
             <content:encoded><![CDATA[비밀스러운 기운을 가진 호텔 파비용 드 라 헨느에서는 오롯이 나를 오늘의 주인공으로 만들어 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/09b61ec0-67a5-4ce5-90ec-3d35c97dfbf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식탁의 꽃! 정재형의 테이블 웨어 10]]></title>
-            <link>https://www.elle.co.kr/article/79723</link>
-            <guid>https://www.elle.co.kr/article/79723</guid>
-            <pubDate>Thu, 10 Aug 2023 19:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[음식을 담는 도구를 넘어 스타일리시한 라이프스타일을 완성해 주는 콜렉팅의 대상! 식사를 하는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/a04db053-2129-4578-a649-8d0cff67b4c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
