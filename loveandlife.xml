@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 10:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 11:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타들의 오프 더 레코드 (feat. 사복 패션)]]></title>
+            <link>https://www.elle.co.kr/article/79913</link>
+            <guid>https://www.elle.co.kr/article/79913</guid>
+            <pubDate>Fri, 18 Aug 2023 11:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[쉬는 날 스타들은 뭐할까? 수수한 모습이 더 아름다운 스타들의 내추럴한 카메라 밖 모습을 모...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/1dd0b43d-2367-44a1-91e0-1f5570dfb878.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['위대한 이탈리아 비전: 파르네시나 컬렉션' 답이 아닌 질문인 예술을 만나다 #요즘전시]]></title>
             <link>https://www.elle.co.kr/article/79904</link>
@@ -60,14 +68,6 @@
             <pubDate>Sun, 13 Aug 2023 19:11:25 GMT</pubDate>
             <content:encoded><![CDATA[도시 여행에 어울리는 스타일을 따로 있어요. 티파니, 슬기, 한소희 등 당장 따라 입고 싶은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/4e2449fc-0be9-44a2-bca3-da30dfc26ce7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흐엉 도딘과 시야오 왕의 '선']]></title>
-            <link>https://www.elle.co.kr/article/79790</link>
-            <guid>https://www.elle.co.kr/article/79790</guid>
-            <pubDate>Sat, 12 Aug 2023 15:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[아시아 여성 작가들의 존재감이 물결처럼 서울로 밀려오는 지금. 흐엉 도딘과 시야오 왕이 그린...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/c5f21c10-4fd1-4613-9b0f-061acb66e4f7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 10:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 11:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>https://www.elle.co.kr/article/79825</guid>
             <pubDate>Thu, 17 Aug 2023 15:11:56 GMT</pubDate>
             <content:encoded><![CDATA[똑딱똑딱 당신의 피부 손상 시계는 여전히 흘러가는 중!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/b6abf5aa-f4aa-458b-a6fa-7df2fa2d96cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아직도 안 써요? 워터 에센스]]></title>
@@ -20,12 +21,14 @@
             <guid>https://www.elle.co.kr/article/79769</guid>
             <pubDate>Thu, 17 Aug 2023 08:15:01 GMT</pubDate>
             <content:encoded><![CDATA[한번만 발라도 좋고, 두번 세번 덧발라도 좋은 워터 에센스. 여름철 피부 고민을 해결해줘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/13/f0ae0cde-48e6-4424-b5ea-37ed00cfb626.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10kg 감량에 허리 둘레 즉각 감소! 전현무가 바로 효과 본 식단과 운동법 총정리 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/79818</link>
             <guid>https://www.elle.co.kr/article/79818</guid>
             <pubDate>Wed, 16 Aug 2023 03:13:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/a18a7a43-5674-457d-bfc9-5c383bf9b0ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박보검에 이어 규현까지? 남자들도 자궁경부암 예방 주사 맞아야 하는 이유]]></title>
