@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 04:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 05:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/79939</link>
+            <guid>https://www.elle.co.kr/article/79939</guid>
+            <pubDate>Fri, 18 Aug 2023 05:12:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/b19d7c09-7de7-4f3f-81b2-f108cc9fa462.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식물을 전시하는 편집 숍 4T]]></title>
             <link>https://www.elle.co.kr/article/79123</link>
@@ -36,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/79830</guid>
             <pubDate>Mon, 14 Aug 2023 15:13:33 GMT</pubDate>
             <content:encoded><![CDATA[이미지 생성 AI인 달리에게 인테리어 디자인을 주문했다. 작성된 텍스트를 이미지로 충실하게 변...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/15/59101157-b5bf-41b6-89c0-00074e12a596.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사진가 제임스 넬슨의 싱그러운 텃밭]]></title>
@@ -92,13 +98,6 @@
             <guid>https://www.elle.co.kr/article/79355</guid>
             <pubDate>Thu, 03 Aug 2023 15:14:19 GMT</pubDate>
             <content:encoded><![CDATA[마케터 킴제이는 30개국을 여행하며 3000여 개의 브랜드를 컨설팅했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정성 어린 화원을 빚는 '오이타']]></title>
-            <link>https://www.elle.co.kr/article/79121</link>
-            <guid>https://www.elle.co.kr/article/79121</guid>
-            <pubDate>Wed, 02 Aug 2023 15:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content:encoded>
         </item>
     </channel>
 </rss>

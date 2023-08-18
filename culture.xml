@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-08-18T04:16:41.545Z</updated>
+    <updated>2023-08-18T05:13:10.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위대한 이탈리아 비전: 파르네시나 컬렉션' 답이 아닌 질문인 예술을 만나다 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/79904</id>
+        <link href="https://www.elle.co.kr/article/79904"/>
+        <updated>2023-08-18T05:12:12.405Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전북과의 친선경기가 마지막?! PSG 떠나는 네이마르가 이강인에게 남긴 말]]></title>
         <id>https://www.elle.co.kr/article/79900</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/79785"/>
         <updated>2023-08-14T15:12:57.068Z</updated>
         <content type="html"><![CDATA[친밀하고 매혹적인 수집가의 집, 케틀스 야드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['민희진 감성' 어떻게 소화했을까? 뷔가 직접 전한 첫 솔로 앨범 소식]]></title>
-        <id>https://www.elle.co.kr/article/79791</id>
-        <link href="https://www.elle.co.kr/article/79791"/>
-        <updated>2023-08-14T11:11:03.547Z</updated>
     </entry>
 </feed>
