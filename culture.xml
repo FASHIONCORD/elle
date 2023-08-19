@@ -4,16 +4,21 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 14:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 15:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포]]></title>
+            <link>https://www.elle.co.kr/article/79924</link>
+            <guid>https://www.elle.co.kr/article/79924</guid>
+            <pubDate>Sat, 19 Aug 2023 15:11:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[느슨한 연대의 맛 #프리워커]]></title>
             <link>https://www.elle.co.kr/article/79359</link>
             <guid>https://www.elle.co.kr/article/79359</guid>
             <pubDate>Fri, 18 Aug 2023 11:10:59 GMT</pubDate>
             <content:encoded><![CDATA[부산에서 디자인 스튜디오를 운영 중인 박보은의 워케이션 일대기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/73bc2203-51c2-4bd9-9125-7369d7b02ceb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드디어 '마스크걸' 완전체 공개! 마지막 김모미, 이한별은 누구?]]></title>
@@ -57,14 +62,6 @@
             <guid>https://www.elle.co.kr/article/79859</guid>
             <pubDate>Wed, 16 Aug 2023 09:12:26 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/01855a9a-265c-4f86-b0d0-5edac29f9b24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진가 제임스 넬슨의 싱그러운 텃밭]]></title>
-            <link>https://www.elle.co.kr/article/79829</link>
-            <guid>https://www.elle.co.kr/article/79829</guid>
-            <pubDate>Wed, 16 Aug 2023 08:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[누구에게나 나만의 텃밭이 필요하다. 땅을 파고, 씨를 뿌리고, 물을 주며 얻은 생명력 넘치는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/a630ef16-87f2-4e44-9bb0-f76544ae8f00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
