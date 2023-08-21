@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 07:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 08:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 지수가 직접 전한 'All Eyes On Me' 첫 무대 소감.txt]]></title>
+            <link>https://www.elle.co.kr/article/79938</link>
+            <guid>https://www.elle.co.kr/article/79938</guid>
+            <pubDate>Mon, 21 Aug 2023 08:16:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/6f12f0fd-d5a3-4da3-a8ef-829ff42ea149.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙하게! 웃기기로 결심한 한지민과 이민기]]></title>
             <link>https://www.elle.co.kr/article/79930</link>
@@ -57,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/79889</guid>
             <pubDate>Thu, 17 Aug 2023 14:11:58 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/34b60c39-32aa-4822-bce6-86190a4e871d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 솔로 마지막 타자 뷔, '넘사벽' 운동 신경 보유한 그의 관리 비결은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/79888</link>
-            <guid>https://www.elle.co.kr/article/79888</guid>
-            <pubDate>Thu, 17 Aug 2023 08:15:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/a4b38496-8a8e-4d98-9bc4-0f5cc2442e67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
