@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 14:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 15:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 모습 처음이야! 배우 이유미와 나스(NARS)의 강렬한 만남]]></title>
+            <link>https://www.elle.co.kr/article/79945</link>
+            <guid>https://www.elle.co.kr/article/79945</guid>
+            <pubDate>Mon, 21 Aug 2023 15:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[쿨하고 시크한 이유미의 립 메이크업 비결은 바로?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/9cc59610-8b6a-4425-9cc8-723d75ffb3f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10년 만에 쌓은 노스의 놀라운 스타일 아카이브]]></title>
             <link>https://www.elle.co.kr/article/79914</link>
@@ -58,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/79925</guid>
             <pubDate>Fri, 18 Aug 2023 10:12:26 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/6475936b-f84c-49ea-baa7-5cc895496eac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포]]></title>
-            <link>https://www.elle.co.kr/article/79924</link>
-            <guid>https://www.elle.co.kr/article/79924</guid>
-            <pubDate>Fri, 18 Aug 2023 09:12:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/5937562d-2543-4225-9cfe-5b9a2913db7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

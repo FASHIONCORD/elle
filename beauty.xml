@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 14:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 15:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풋풋한 첫사랑st 그 자체! 남보라표 꾸안꾸 메이크업 HOW TO]]></title>
+            <link>https://www.elle.co.kr/article/79885</link>
+            <guid>https://www.elle.co.kr/article/79885</guid>
+            <pubDate>Mon, 21 Aug 2023 15:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[화사한 피부 표현과 인형 같은 눈매를 강조하는 남보라표 데일리 메이크업을 따라 해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/e2314087-acd2-4033-b313-bdf627ab1bc1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[향기로운 추억]]></title>
             <link>https://www.elle.co.kr/article/79875</link>
@@ -59,14 +67,6 @@
             <pubDate>Sun, 13 Aug 2023 15:10:53 GMT</pubDate>
             <content:encoded><![CDATA[패션에서 뷰티까지, 키워드는 글래스(glass).]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/3309bb02-f234-4eb5-b1da-e07f3805d293.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄정화가 알려주는 데일리 메이크업 튜토리얼]]></title>
-            <link>https://www.elle.co.kr/article/79774</link>
-            <guid>https://www.elle.co.kr/article/79774</guid>
-            <pubDate>Sat, 12 Aug 2023 16:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[매일 리즈 갱신하는 엄정화의 메이크업 팁이 궁금하다면 주목! 관능적이고 섹시미 넘치는 데일리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/b94966da-ca55-4d18-a475-84d8211d96e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
