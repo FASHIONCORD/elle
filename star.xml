@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-21T23:12:58.314Z</updated>
+    <updated>2023-08-22T00:51:13.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비키니는 기세! 프랑스 니스 갬성 물씬, 박나래 수영복은 어디 거?]]></title>
+        <id>https://www.elle.co.kr/article/79992</id>
+        <link href="https://www.elle.co.kr/article/79992"/>
+        <updated>2023-08-22T00:49:57.041Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CEO로 변신한 손연재, '뉴스룸'에서 깜짝 임신 고백한 배경]]></title>
         <id>https://www.elle.co.kr/article/79989</id>
@@ -49,12 +55,5 @@
         <link href="https://www.elle.co.kr/article/79930"/>
         <updated>2023-08-21T00:49:25.974Z</updated>
         <content type="html"><![CDATA[드라마 &lt;힙하게&gt;로 마주한 두사람. 새콤달콤 역대급 케미스트리 담긴 커플 화보 공개.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡의 도약]]></title>
-        <id>https://www.elle.co.kr/article/79863</id>
-        <link href="https://www.elle.co.kr/article/79863"/>
-        <updated>2023-08-18T15:12:56.675Z</updated>
-        <content type="html"><![CDATA[커머스계의 대표 주자 쿠팡이 ‘로켓럭셔리’로 럭셔리 뷰티 마켓에 도전장을 내밀었다. 이병희 ...]]></content>
     </entry>
 </feed>
