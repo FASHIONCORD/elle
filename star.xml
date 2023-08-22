@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 02:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 03:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79995</link>
+            <guid>https://www.elle.co.kr/article/79995</guid>
+            <pubDate>Tue, 22 Aug 2023 03:12:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/5c8acf33-f83a-4eca-8404-9eee6ecae60e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비키니는 기세! 프랑스 니스 갬성 물씬, 박나래 수영복은 어디 거?]]></title>
             <link>https://www.elle.co.kr/article/79992</link>
@@ -57,14 +64,6 @@
             <guid>https://www.elle.co.kr/article/79938</guid>
             <pubDate>Mon, 21 Aug 2023 08:16:03 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/6f12f0fd-d5a3-4da3-a8ef-829ff42ea149.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙하게! 웃기기로 결심한 한지민과 이민기]]></title>
-            <link>https://www.elle.co.kr/article/79930</link>
-            <guid>https://www.elle.co.kr/article/79930</guid>
-            <pubDate>Mon, 21 Aug 2023 00:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 &lt;힙하게&gt;로 마주한 두사람. 새콤달콤 역대급 케미스트리 담긴 커플 화보 공개.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/da26105c-1bfd-42d7-9c1a-5bfa240ed101.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
