@@ -1,61 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-23T13:16:54.110Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[엄마 아빠 골고루 닮은 허니제이 딸 러브 100일 사진 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/80058</id>
-        <link href="https://www.elle.co.kr/article/80058"/>
-        <updated>2023-08-23T08:15:07.662Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍경의 고요한 밤]]></title>
-        <id>https://www.elle.co.kr/article/79985</id>
-        <link href="https://www.elle.co.kr/article/79985"/>
-        <updated>2023-08-23T08:15:07.665Z</updated>
-        <content type="html"><![CDATA[모두가 잠든 밤, 홀로 고요하게 반짝이는 홍경이라는 물결.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
-        <id>https://www.elle.co.kr/article/80047</id>
-        <link href="https://www.elle.co.kr/article/80047"/>
-        <updated>2023-08-23T07:11:24.892Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조 말론 런던 글로벌 앰배서더, 애드와 아보아와의 대화]]></title>
-        <id>https://www.elle.co.kr/article/79981</id>
-        <link href="https://www.elle.co.kr/article/79981"/>
-        <updated>2023-08-23T06:15:38.155Z</updated>
-        <content type="html"><![CDATA['잉글리쉬 페어(English Pear)'의 얼굴인 그녀와 새로운 코롱 출시를 기념하며 화상으로 대화를 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
-        <id>https://www.elle.co.kr/article/80021</id>
-        <link href="https://www.elle.co.kr/article/80021"/>
-        <updated>2023-08-23T04:14:01.401Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑스러운 itzy 막내 유나! 런더너로 변신]]></title>
-        <id>https://www.elle.co.kr/article/79971</id>
-        <link href="https://www.elle.co.kr/article/79971"/>
-        <updated>2023-08-23T04:14:01.404Z</updated>
-        <content type="html"><![CDATA[밝고 사랑스러운 에너지로 가득한 유나가 엘르와 만났다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자를까 말까 고민은 NO! 단발머리 유발하는 스타 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/80011</id>
-        <link href="https://www.elle.co.kr/article/80011"/>
-        <updated>2023-08-23T01:43:24.991Z</updated>
-        <content type="html"><![CDATA[미용실 갈 때 이 사진 들고 가세요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 N°1 안티에이징 세럼]]></title>
-        <id>https://www.elle.co.kr/article/79977</id>
-        <link href="https://www.elle.co.kr/article/79977"/>
-        <updated>2023-08-23T01:43:24.993Z</updated>
-        <content type="html"><![CDATA[N°1 DE CHANEL 레드 까멜리아 세럼 100ml 출시를 기념하는 스킨케어 이벤트가 푸켓에서 열...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 23 Aug 2023 14:13:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엄마 아빠 골고루 닮은 허니제이 딸 러브 100일 사진 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/80058</link>
+            <guid>https://www.elle.co.kr/article/80058</guid>
+            <pubDate>Wed, 23 Aug 2023 08:15:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/c2dd11ad-ad39-4e45-881f-318d1dedf4ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍경의 고요한 밤]]></title>
+            <link>https://www.elle.co.kr/article/79985</link>
+            <guid>https://www.elle.co.kr/article/79985</guid>
+            <pubDate>Wed, 23 Aug 2023 08:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 잠든 밤, 홀로 고요하게 반짝이는 홍경이라는 물결.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/4cb3a58f-6604-4043-81f2-3c2a1e8bdc8c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
+            <link>https://www.elle.co.kr/article/80047</link>
+            <guid>https://www.elle.co.kr/article/80047</guid>
+            <pubDate>Wed, 23 Aug 2023 07:11:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ce21eea0-62d8-41b5-b757-d1c5044d5ff7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조 말론 런던 글로벌 앰배서더, 애드와 아보아와의 대화]]></title>
+            <link>https://www.elle.co.kr/article/79981</link>
+            <guid>https://www.elle.co.kr/article/79981</guid>
+            <pubDate>Wed, 23 Aug 2023 06:15:38 GMT</pubDate>
+            <content:encoded><![CDATA['잉글리쉬 페어(English Pear)'의 얼굴인 그녀와 새로운 코롱 출시를 기념하며 화상으로 대화를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ee1fb177-c594-4f57-83b4-7ca35775a835.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
+            <link>https://www.elle.co.kr/article/80021</link>
+            <guid>https://www.elle.co.kr/article/80021</guid>
+            <pubDate>Wed, 23 Aug 2023 04:14:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/d55de4da-b316-4c0e-a69f-31731e1a538e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑스러운 itzy 막내 유나! 런더너로 변신]]></title>
+            <link>https://www.elle.co.kr/article/79971</link>
+            <guid>https://www.elle.co.kr/article/79971</guid>
+            <pubDate>Wed, 23 Aug 2023 04:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[밝고 사랑스러운 에너지로 가득한 유나가 엘르와 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/e684687e-396a-4e30-88a1-2c43bfeca745.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자를까 말까 고민은 NO! 단발머리 유발하는 스타 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/80011</link>
+            <guid>https://www.elle.co.kr/article/80011</guid>
+            <pubDate>Wed, 23 Aug 2023 01:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[미용실 갈 때 이 사진 들고 가세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/c593a545-4459-491f-815f-5b4eadd135dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 N°1 안티에이징 세럼]]></title>
+            <link>https://www.elle.co.kr/article/79977</link>
+            <guid>https://www.elle.co.kr/article/79977</guid>
+            <pubDate>Wed, 23 Aug 2023 01:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[N°1 DE CHANEL 레드 까멜리아 세럼 100ml 출시를 기념하는 스킨케어 이벤트가 푸켓에서 열...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/653e010b-0686-433f-a58d-daeb68ee8821.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
