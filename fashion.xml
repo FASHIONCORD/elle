@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 05:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 06:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식을 줄 모르는 트랙 쇼츠의 유행]]></title>
+            <link>https://www.elle.co.kr/article/79956</link>
+            <guid>https://www.elle.co.kr/article/79956</guid>
+            <pubDate>Wed, 23 Aug 2023 06:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[운동할 때만 입는 줄 알았던 트랙 팬츠. 일상 속 다양한 스타일과 ‘착붙’ 하며 만능템으로 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/19/8bfef904-02be-42e0-a640-b514050eed9c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조금 더 과감해도 좋아! 아찔한 보디수트의 매력 7]]></title>
             <link>https://www.elle.co.kr/article/79934</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 17 Aug 2023 15:11:45 GMT</pubDate>
             <content:encoded><![CDATA[지금 놓치면 안될 액세서리 키워드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/66af2dee-445e-4dcc-b770-bf1a5cadbcd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬립 스커트, 어렵다면 이대로만 따라 해 보세요]]></title>
-            <link>https://www.elle.co.kr/article/79909</link>
-            <guid>https://www.elle.co.kr/article/79909</guid>
-            <pubDate>Thu, 17 Aug 2023 15:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[시스루부터 레이스, 컷아웃, 컬러 플레이까지, 차근차근 따라오시길.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/9168508a-606b-440c-872a-ff1d822a2634.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
