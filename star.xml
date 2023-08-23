@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-23T03:13:51.377Z</updated>
+    <updated>2023-08-23T04:14:52.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
+        <id>https://www.elle.co.kr/article/80021</id>
+        <link href="https://www.elle.co.kr/article/80021"/>
+        <updated>2023-08-23T04:14:01.401Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑스러운 itzy 막내 유나! 런더너로 변신]]></title>
+        <id>https://www.elle.co.kr/article/79971</id>
+        <link href="https://www.elle.co.kr/article/79971"/>
+        <updated>2023-08-23T04:14:01.404Z</updated>
+        <content type="html"><![CDATA[밝고 사랑스러운 에너지로 가득한 유나가 엘르와 만났다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자를까 말까 고민은 NO! 단발머리 유발하는 스타 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/80011</id>
@@ -42,19 +55,5 @@
         <id>https://www.elle.co.kr/article/79989</id>
         <link href="https://www.elle.co.kr/article/79989"/>
         <updated>2023-08-21T19:09:50.033Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 모습 처음이야! 배우 이유미와 나스(NARS)의 강렬한 만남]]></title>
-        <id>https://www.elle.co.kr/article/79945</id>
-        <link href="https://www.elle.co.kr/article/79945"/>
-        <updated>2023-08-21T15:12:50.339Z</updated>
-        <content type="html"><![CDATA[쿨하고 시크한 이유미의 립 메이크업 비결은 바로?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10년 만에 쌓은 노스의 놀라운 스타일 아카이브]]></title>
-        <id>https://www.elle.co.kr/article/79914</id>
-        <link href="https://www.elle.co.kr/article/79914"/>
-        <updated>2023-08-21T10:13:00.991Z</updated>
-        <content type="html"><![CDATA[얼마 전 열 살 생일을 맞은 노스 웨스트.]]></content>
     </entry>
 </feed>
