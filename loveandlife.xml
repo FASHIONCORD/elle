@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 18:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 19:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[늦여름 무더위 피해 그늘에서 쉬고 싶다면, 전국 숲 명소 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/79950</link>
+            <guid>https://www.elle.co.kr/article/79950</guid>
+            <pubDate>Wed, 23 Aug 2023 19:10:48 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/6c4561cb-f044-49e0-b4d9-1f27b20f020a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소품 사러 도쿄에 간다]]></title>
             <link>https://www.elle.co.kr/article/79943</link>
@@ -59,14 +66,6 @@
             <pubDate>Fri, 18 Aug 2023 05:13:00 GMT</pubDate>
             <content:encoded><![CDATA[분주한 일상을 뒤로한 채, 느린 호흡으로 마주한 여름날의 안식처.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/13/15df4b0a-3d67-4435-872e-d245ca7bccfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취향 따라 즐겨봐! '1인 1빙' 가능한 경복궁 근처 빙수 맛집 2 #마실마실]]></title>
-            <link>https://www.elle.co.kr/article/79850</link>
-            <guid>https://www.elle.co.kr/article/79850</guid>
-            <pubDate>Thu, 17 Aug 2023 05:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[더위를 잊게 할 형형색색의 빙수들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/12/8cc4a8a8-66c9-457c-a18e-c0e13efe1033.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
