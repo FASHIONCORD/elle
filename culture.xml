@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-08-22T23:13:42.691Z</updated>
+    <updated>2023-08-23T00:49:53.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱그럽게 피어난 버려진 사물들]]></title>
+        <id>https://www.elle.co.kr/article/79922</id>
+        <link href="https://www.elle.co.kr/article/79922"/>
+        <updated>2023-08-23T00:49:02.894Z</updated>
+        <content type="html"><![CDATA[쓸모를 잃은 것들이 디자이너의 손길로 새롭게 재탄생했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이돌 자컨이 대체 뭔데? 자컨 여행자를 위한 안내서]]></title>
         <id>https://www.elle.co.kr/article/79917</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/79359"/>
         <updated>2023-08-18T11:10:59.885Z</updated>
         <content type="html"><![CDATA[부산에서 디자인 스튜디오를 운영 중인 박보은의 워케이션 일대기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 '마스크걸' 완전체 공개! 마지막 김모미, 이한별은 누구?]]></title>
-        <id>https://www.elle.co.kr/article/79905</id>
-        <link href="https://www.elle.co.kr/article/79905"/>
-        <updated>2023-08-18T10:12:37.526Z</updated>
     </entry>
 </feed>
