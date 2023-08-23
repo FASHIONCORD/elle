@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-08-23T06:17:54.310Z</updated>
+    <updated>2023-08-23T07:12:45.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나의 N°1 안티에이징 세럼]]></title>
+        <id>https://www.elle.co.kr/article/79977</id>
+        <link href="https://www.elle.co.kr/article/79977"/>
+        <updated>2023-08-23T07:11:16.700Z</updated>
+        <content type="html"><![CDATA[N°1 DE CHANEL 레드 까멜리아 세럼 100ml 출시를 기념하는 스킨케어 이벤트가 푸켓에서 열...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름엔 글리터! 파워 영롱 펄 섀도 7]]></title>
         <id>https://www.elle.co.kr/article/79962</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/79825"/>
         <updated>2023-08-17T15:11:56.539Z</updated>
         <content type="html"><![CDATA[똑딱똑딱 당신의 피부 손상 시계는 여전히 흘러가는 중!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 안 써요? 워터 에센스]]></title>
-        <id>https://www.elle.co.kr/article/79769</id>
-        <link href="https://www.elle.co.kr/article/79769"/>
-        <updated>2023-08-17T08:15:01.303Z</updated>
-        <content type="html"><![CDATA[한번만 발라도 좋고, 두번 세번 덧발라도 좋은 워터 에센스. 여름철 피부 고민을 해결해줘.]]></content>
     </entry>
 </feed>

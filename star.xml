@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 06:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 07:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
+            <link>https://www.elle.co.kr/article/80047</link>
+            <guid>https://www.elle.co.kr/article/80047</guid>
+            <pubDate>Wed, 23 Aug 2023 07:11:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ce21eea0-62d8-41b5-b757-d1c5044d5ff7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조 말론 런던 글로벌 앰배서더, 애드와 아보아와의 대화]]></title>
             <link>https://www.elle.co.kr/article/79981</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/79995</guid>
             <pubDate>Tue, 22 Aug 2023 03:12:53 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/5c8acf33-f83a-4eca-8404-9eee6ecae60e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비키니는 기세! 프랑스 니스 갬성 물씬, 박나래 수영복은 어디 거?]]></title>
-            <link>https://www.elle.co.kr/article/79992</link>
-            <guid>https://www.elle.co.kr/article/79992</guid>
-            <pubDate>Tue, 22 Aug 2023 00:49:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/00a3fba7-dc7b-4236-aaa2-9455d69bfe5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
