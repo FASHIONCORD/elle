@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 00:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 01:44:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자를까 말까 고민은 NO! 단발머리 유발하는 스타 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/80011</link>
+            <guid>https://www.elle.co.kr/article/80011</guid>
+            <pubDate>Wed, 23 Aug 2023 01:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[미용실 갈 때 이 사진 들고 가세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/c593a545-4459-491f-815f-5b4eadd135dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 N°1 안티에이징 세럼]]></title>
+            <link>https://www.elle.co.kr/article/79977</link>
+            <guid>https://www.elle.co.kr/article/79977</guid>
+            <pubDate>Wed, 23 Aug 2023 01:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[N°1 DE CHANEL 레드 까멜리아 세럼 100ml 출시를 기념하는 스킨케어 이벤트가 푸켓에서 열...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/653e010b-0686-433f-a58d-daeb68ee8821.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한일 양국에서 결혼식 마친 심형탁-사야, 부케 주인공은 누구? (ft. 본식 사진)]]></title>
             <link>https://www.elle.co.kr/article/79997</link>
@@ -50,20 +66,6 @@
             <pubDate>Mon, 21 Aug 2023 10:13:00 GMT</pubDate>
             <content:encoded><![CDATA[얼마 전 열 살 생일을 맞은 노스 웨스트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/030f9273-9c82-429f-a7f8-aa475d4cbe07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/79949</link>
-            <guid>https://www.elle.co.kr/article/79949</guid>
-            <pubDate>Mon, 21 Aug 2023 10:13:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/9e957bf5-6ede-49ff-b91f-268e667e8fe5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이디제인-임현태 부부의 스페인 신혼여행 인증샷 모음.zip #럽스타그램]]></title>
-            <link>https://www.elle.co.kr/article/79944</link>
-            <guid>https://www.elle.co.kr/article/79944</guid>
-            <pubDate>Mon, 21 Aug 2023 10:13:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/93d1e169-8ab7-4706-9689-1e81dacee513.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
