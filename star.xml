@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-24T06:16:37.597Z</updated>
+    <updated>2023-08-24T07:12:55.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
+        <id>https://www.elle.co.kr/article/80077</id>
+        <link href="https://www.elle.co.kr/article/80077"/>
+        <updated>2023-08-24T07:11:34.887Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현실 다이어터 귀 쫑긋! 이국주의 -17kg 체중 감량 노하우 총정리! #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/80072</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/79981"/>
         <updated>2023-08-23T06:15:38.155Z</updated>
         <content type="html"><![CDATA['잉글리쉬 페어(English Pear)'의 얼굴인 그녀와 새로운 코롱 출시를 기념하며 화상으로 대화를 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
-        <id>https://www.elle.co.kr/article/80021</id>
-        <link href="https://www.elle.co.kr/article/80021"/>
-        <updated>2023-08-23T04:14:01.401Z</updated>
     </entry>
 </feed>
