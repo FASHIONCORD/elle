@@ -4,23 +4,27 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 05:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 06:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
+            <link>https://www.elle.co.kr/article/80021</link>
+            <guid>https://www.elle.co.kr/article/80021</guid>
+            <pubDate>Thu, 24 Aug 2023 06:15:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[굽어진 벽과 나선형 계단, 가족을 둥글게 감싸 안는 집]]></title>
             <link>https://www.elle.co.kr/article/79926</link>
             <guid>https://www.elle.co.kr/article/79926</guid>
             <pubDate>Wed, 23 Aug 2023 15:13:03 GMT</pubDate>
             <content:encoded><![CDATA[굽어진 벽과 나선형 계단 전선혜, 서민범의 집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/b9dc221d-940a-456d-84cc-7249ff33c155.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/79995</link>
             <guid>https://www.elle.co.kr/article/79995</guid>
             <pubDate>Wed, 23 Aug 2023 08:15:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/5c8acf33-f83a-4eca-8404-9eee6ecae60e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싱그럽게 피어난 버려진 사물들]]></title>
@@ -28,7 +32,6 @@
             <guid>https://www.elle.co.kr/article/79922</guid>
             <pubDate>Wed, 23 Aug 2023 00:49:02 GMT</pubDate>
             <content:encoded><![CDATA[쓸모를 잃은 것들이 디자이너의 손길로 새롭게 재탄생했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/077e80c6-bd03-4558-8ca0-87f644b9392c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이돌 자컨이 대체 뭔데? 자컨 여행자를 위한 안내서]]></title>
@@ -36,7 +39,6 @@
             <guid>https://www.elle.co.kr/article/79917</guid>
             <pubDate>Tue, 22 Aug 2023 15:12:59 GMT</pubDate>
             <content:encoded><![CDATA[멤버들과 있을 때 내 아이돌은 어떨까? K팝 아티스트들의 필수 콘텐츠가 된 '자컨'의 세계. 그...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/37f78ff6-8b04-4c06-81a2-b5da8fcb8f74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
@@ -59,14 +61,6 @@
             <guid>https://www.elle.co.kr/article/79939</guid>
             <pubDate>Mon, 21 Aug 2023 10:13:10 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/b19d7c09-7de7-4f3f-81b2-f108cc9fa462.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식물을 전시하는 편집 숍 4T]]></title>
-            <link>https://www.elle.co.kr/article/79123</link>
-            <guid>https://www.elle.co.kr/article/79123</guid>
-            <pubDate>Sun, 20 Aug 2023 15:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[크고 작은 식물들이 모인 '4T'의 세상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/e50ec007-e6f0-4db7-ab21-7ca966021cff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
