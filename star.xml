@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-24T08:16:23.553Z</updated>
+    <updated>2023-08-24T09:13:24.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
+        <id>https://www.elle.co.kr/article/80090</id>
+        <link href="https://www.elle.co.kr/article/80090"/>
+        <updated>2023-08-24T09:12:11.154Z</updated>
+        <content type="html"><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최자가 신혼여행지로 아프리카 탄자니아를 고른 까닭]]></title>
+        <id>https://www.elle.co.kr/article/80078</id>
+        <link href="https://www.elle.co.kr/article/80078"/>
+        <updated>2023-08-24T09:12:11.156Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
         <id>https://www.elle.co.kr/article/80077</id>
@@ -43,18 +56,5 @@
         <link href="https://www.elle.co.kr/article/79985"/>
         <updated>2023-08-23T08:15:07.665Z</updated>
         <content type="html"><![CDATA[모두가 잠든 밤, 홀로 고요하게 반짝이는 홍경이라는 물결.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
-        <id>https://www.elle.co.kr/article/80047</id>
-        <link href="https://www.elle.co.kr/article/80047"/>
-        <updated>2023-08-23T07:11:24.892Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조 말론 런던 글로벌 앰배서더, 애드와 아보아와의 대화]]></title>
-        <id>https://www.elle.co.kr/article/79981</id>
-        <link href="https://www.elle.co.kr/article/79981"/>
-        <updated>2023-08-23T06:15:38.155Z</updated>
-        <content type="html"><![CDATA['잉글리쉬 페어(English Pear)'의 얼굴인 그녀와 새로운 코롱 출시를 기념하며 화상으로 대화를 ...]]></content>
     </entry>
 </feed>
