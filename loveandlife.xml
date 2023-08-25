@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 07:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 08:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더운 여름에 딱! 입맛 도는 오이 요리 레서피3]]></title>
+            <link>https://www.elle.co.kr/article/79972</link>
+            <guid>https://www.elle.co.kr/article/79972</guid>
+            <pubDate>Fri, 25 Aug 2023 08:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[살림 9단 스타들이 알려주는 3인 3색 오이 요리로 집 나간 입맛을 되찾아보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/e1e47b00-8852-4aec-b8a6-8c6106f61c4b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 오윤아가 애정하는 브런치 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/79963</link>
@@ -59,13 +67,6 @@
             <pubDate>Fri, 18 Aug 2023 11:12:18 GMT</pubDate>
             <content:encoded><![CDATA[쉬는 날 스타들은 뭐할까? 수수한 모습이 더 아름다운 스타들의 내추럴한 카메라 밖 모습을 모...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/1dd0b43d-2367-44a1-91e0-1f5570dfb878.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['위대한 이탈리아 비전: 파르네시나 컬렉션' 답이 아닌 질문인 예술을 만나다 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/79904</link>
-            <guid>https://www.elle.co.kr/article/79904</guid>
-            <pubDate>Fri, 18 Aug 2023 10:13:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/a4a412f0-bd74-4c8b-bda7-bb6aeba500a2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
