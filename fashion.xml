@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-25T14:13:51.487Z</updated>
+    <updated>2023-08-25T15:13:17.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[커피 향 짙은 샤넬의 카페 소사이어티]]></title>
+        <id>https://www.elle.co.kr/article/80092</id>
+        <link href="https://www.elle.co.kr/article/80092"/>
+        <updated>2023-08-25T15:11:58.174Z</updated>
+        <content type="html"><![CDATA[센 강과 에펠탑, 에스프레소, 담배, 브래서리・・・.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙스완을 떠올리며]]></title>
         <id>https://www.elle.co.kr/article/80089</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/80045"/>
         <updated>2023-08-23T15:12:24.437Z</updated>
         <content type="html"><![CDATA[제철 재료로 계절의 즐거움을 탐식하는 요리 연구가 요나.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번뜩이는 주얼리]]></title>
-        <id>https://www.elle.co.kr/article/79994</id>
-        <link href="https://www.elle.co.kr/article/79994"/>
-        <updated>2023-08-23T11:10:23.667Z</updated>
-        <content type="html"><![CDATA[독특한 디자인의 주얼리가 대거 등장했다.]]></content>
     </entry>
 </feed>
