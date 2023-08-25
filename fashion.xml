@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-25T05:13:08.642Z</updated>
+    <updated>2023-08-25T06:18:03.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙스완을 떠올리며]]></title>
+        <id>https://www.elle.co.kr/article/80089</id>
+        <link href="https://www.elle.co.kr/article/80089"/>
+        <updated>2023-08-25T06:16:04.079Z</updated>
+        <content type="html"><![CDATA[타락적이고 관능적이며 섬세한 천의 얼굴, 레이스.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디지털 아티스트 안드레스 레이싱헤르의 바르셀로나 아파트]]></title>
         <id>https://www.elle.co.kr/article/79999</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79994"/>
         <updated>2023-08-23T11:10:23.667Z</updated>
         <content type="html"><![CDATA[독특한 디자인의 주얼리가 대거 등장했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평생 소장각! 베스트 아이템]]></title>
-        <id>https://www.elle.co.kr/article/79787</id>
-        <link href="https://www.elle.co.kr/article/79787"/>
-        <updated>2023-08-23T10:12:36.859Z</updated>
-        <content type="html"><![CDATA[베스트 하나로 기본에 충실할 때.]]></content>
     </entry>
 </feed>
