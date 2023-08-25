@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 08:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 09:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹 갈며 힐링하다가 올드카 구경하기! 서울 무료 전시 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/80036</link>
+            <guid>https://www.elle.co.kr/article/80036</guid>
+            <pubDate>Fri, 25 Aug 2023 09:13:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/6c2d9675-abaa-4ff0-9459-0a8c447ff87b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더운 여름에 딱! 입맛 도는 오이 요리 레서피3]]></title>
             <link>https://www.elle.co.kr/article/79972</link>
@@ -59,14 +66,6 @@
             <pubDate>Sat, 19 Aug 2023 19:10:10 GMT</pubDate>
             <content:encoded><![CDATA[상상만 했던 여유로운 일상, LG 디오스 오브제컬렉션 식기세척기와 함께라면 현실이 된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/a0dbdd17-a9c2-438d-a2cc-4a34c30d0a3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들의 오프 더 레코드 (feat. 사복 패션)]]></title>
-            <link>https://www.elle.co.kr/article/79913</link>
-            <guid>https://www.elle.co.kr/article/79913</guid>
-            <pubDate>Fri, 18 Aug 2023 11:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[쉬는 날 스타들은 뭐할까? 수수한 모습이 더 아름다운 스타들의 내추럴한 카메라 밖 모습을 모...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/1dd0b43d-2367-44a1-91e0-1f5570dfb878.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
