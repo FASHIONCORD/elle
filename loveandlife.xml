@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 18:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 19:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴욕에서의 3일]]></title>
+            <link>https://www.elle.co.kr/article/80132</link>
+            <guid>https://www.elle.co.kr/article/80132</guid>
+            <pubDate>Fri, 25 Aug 2023 19:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 이후 첫 뉴욕, 내게 주어진 시간은 단 3일. 그곳에서 부지런히 찾아 나선 일상의 감흥...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/d00f7691-7a34-4860-b8d7-121a8412e669.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
             <link>https://www.elle.co.kr/article/80090</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/79943</guid>
             <pubDate>Tue, 22 Aug 2023 08:15:46 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/c9d43d0b-ec6a-4de1-a0f0-e84c35fbe3c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/79939</link>
-            <guid>https://www.elle.co.kr/article/79939</guid>
-            <pubDate>Mon, 21 Aug 2023 01:45:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/b19d7c09-7de7-4f3f-81b2-f108cc9fa462.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
