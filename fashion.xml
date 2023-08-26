@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 02:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 03:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 하우스의 앰배서더로 호명된 K-셀러브리티 3]]></title>
+            <link>https://www.elle.co.kr/article/80095</link>
+            <guid>https://www.elle.co.kr/article/80095</guid>
+            <pubDate>Sat, 26 Aug 2023 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[모스키노, 루이 비통, 지미추의 새로운 얼굴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/84efa6ec-4c73-4a76-8cc4-e4b45b2b270b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커피 향 짙은 샤넬의 카페 소사이어티]]></title>
             <link>https://www.elle.co.kr/article/80092</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 23 Aug 2023 15:12:24 GMT</pubDate>
             <content:encoded><![CDATA[스포츠 유니폼의 반란, 자유분방한 바이브가 느껴지는 스타들의 블록코어 룩을 살펴보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/c25e4641-5ded-404f-bf05-35fea04aa1de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['재료의 발견' 요리 연구가 요나의 취향]]></title>
-            <link>https://www.elle.co.kr/article/80045</link>
-            <guid>https://www.elle.co.kr/article/80045</guid>
-            <pubDate>Wed, 23 Aug 2023 15:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[제철 재료로 계절의 즐거움을 탐식하는 요리 연구가 요나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/23042429-baac-4f3e-8d8c-dde66a18ea0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
