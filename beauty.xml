@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 01:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 02:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조 말론 런던 글로벌 앰배서더, 애드와 아보아와의 대화]]></title>
+            <link>https://www.elle.co.kr/article/79981</link>
+            <guid>https://www.elle.co.kr/article/79981</guid>
+            <pubDate>Mon, 28 Aug 2023 02:18:44 GMT</pubDate>
+            <content:encoded><![CDATA['잉글리쉬 페어(English Pear)'의 얼굴인 그녀와 새로운 코롱 출시를 기념하며 화상으로 대화를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ee1fb177-c594-4f57-83b4-7ca35775a835.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티 나지 않아 더 좋은 홈 뷰티템]]></title>
             <link>https://www.elle.co.kr/article/79998</link>
@@ -61,13 +69,6 @@
             <guid>https://www.elle.co.kr/article/79925</guid>
             <pubDate>Tue, 22 Aug 2023 03:12:41 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/6475936b-f84c-49ea-baa7-5cc895496eac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 솔로 마지막 타자 뷔, '넘사벽' 운동 신경 보유한 그의 관리 비결은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/79888</link>
-            <guid>https://www.elle.co.kr/article/79888</guid>
-            <pubDate>Mon, 21 Aug 2023 19:09:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/a4b38496-8a8e-4d98-9bc4-0f5cc2442e67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
