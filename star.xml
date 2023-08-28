@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-28T08:17:29.550Z</updated>
+    <updated>2023-08-28T09:13:46.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YOU GOT THAT BOUNCE! 태용만의 리듬]]></title>
+        <id>https://www.elle.co.kr/article/80164</id>
+        <link href="https://www.elle.co.kr/article/80164"/>
+        <updated>2023-08-28T09:12:47.579Z</updated>
+        <content type="html"><![CDATA[태용의 자유분방함, 그리고 부드럽고 형형한 힘.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
         <id>https://www.elle.co.kr/article/80169</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/80095"/>
         <updated>2023-08-25T11:10:39.171Z</updated>
         <content type="html"><![CDATA[모스키노, 루이 비통, 지미추의 새로운 얼굴.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차주영의 비하인드 씬]]></title>
-        <id>https://www.elle.co.kr/article/80055</id>
-        <link href="https://www.elle.co.kr/article/80055"/>
-        <updated>2023-08-25T00:50:09.304Z</updated>
-        <content type="html"><![CDATA[시나리오 밖에서 만난,또 다시 낯선 차주영.]]></content>
     </entry>
 </feed>
