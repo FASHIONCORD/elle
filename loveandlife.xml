@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-08-28T18:16:49.462Z</updated>
+    <updated>2023-08-28T19:11:08.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에브리데이 러블리 플레이스]]></title>
+        <id>https://www.elle.co.kr/article/79849</id>
+        <link href="https://www.elle.co.kr/article/79849"/>
+        <updated>2023-08-28T19:10:59.259Z</updated>
+        <content type="html"><![CDATA[언제나 사랑이 넘치는 공간, 이마트 창립 30주년을 맞아 재현한 이토록 귀엽고 유쾌한 에피소드...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보기 좋은 떡이 먹기도 좋다! 오감 자극 고수 에이드와 용과 빙수 #마실마실]]></title>
         <id>https://www.elle.co.kr/article/80139</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/79955"/>
         <updated>2023-08-24T15:13:29.298Z</updated>
         <content type="html"><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[늦여름 무더위 피해 그늘에서 쉬고 싶다면, 전국 숲 명소 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/79950</id>
-        <link href="https://www.elle.co.kr/article/79950"/>
-        <updated>2023-08-23T19:10:48.376Z</updated>
     </entry>
 </feed>
