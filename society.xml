@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-08-29T15:14:09.229Z</updated>
+    <updated>2023-08-29T16:17:01.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제6회 일본군 위안부 피해자 기림의 날, 생존자는 단 9명 뿐이다]]></title>
+        <id>https://www.elle.co.kr/article/79862</id>
+        <link href="https://www.elle.co.kr/article/79862"/>
+        <updated>2023-08-29T16:17:00.743Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션?]]></title>
         <id>https://www.elle.co.kr/article/79835</id>
@@ -50,12 +56,5 @@
         <id>https://www.elle.co.kr/article/79664</id>
         <link href="https://www.elle.co.kr/article/79664"/>
         <updated>2023-08-10T09:14:34.094Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 자궁근종 제거 수술을 했습니다만]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/79550</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/79550"/>
-        <updated>2023-08-09T15:17:36.186Z</updated>
-        <content type="html"><![CDATA[생애 첫 입원! 생각보다 '별 일'이었던 자궁근종 제거수술기.]]></content>
     </entry>
 </feed>

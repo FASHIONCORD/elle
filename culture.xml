@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 15:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 16:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시대를 초월한 대저택, 토레 델 팔코]]></title>
+            <link>https://www.elle.co.kr/article/80029</link>
+            <guid>https://www.elle.co.kr/article/80029</guid>
+            <pubDate>Tue, 29 Aug 2023 16:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/27/82501fff-b610-4279-a560-5d969ef7d99f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
             <link>https://www.elle.co.kr/article/80169</link>
@@ -59,13 +67,6 @@
             <pubDate>Thu, 24 Aug 2023 07:11:54 GMT</pubDate>
             <content:encoded><![CDATA[호텔 크베스트는 고딕 양식의 클래식한 파사드와 객실마다 채워진 20세기 모던 디자인으로 독특한...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ada464dd-354f-48b0-966e-30a325688c37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
-            <link>https://www.elle.co.kr/article/80021</link>
-            <guid>https://www.elle.co.kr/article/80021</guid>
-            <pubDate>Thu, 24 Aug 2023 06:15:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/d55de4da-b316-4c0e-a69f-31731e1a538e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
