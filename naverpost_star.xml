@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ STAR</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 03:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 04:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채정안이 찾은 한남동 핫플 따라가기!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36483345&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36483345&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 29 Aug 2023 04:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjlfMTQ2/MDAxNjkzMjc4ODg3NzAz.4QuhnsPY-3ewF1rJ8c9XS_RTVqh_2QxPRndGanMNpY8g.C7kMPWc0exSuj3T4D88w_HDsl7y8mx64jk85Nper7Fgg.JPEG/IHLFUBjiggrMtGELpiDLWlYQtkdc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍경의 고요한 밤.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36453028&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Oct 2022 05:25:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjdfMjkw/MDAxNjY2ODMwODAyNTI4.BChrr7dhpGIm1ghM3cIjHwIIbWKr17MXttXsIrbVP_0g.oQqUS9k4MRBmT3qZVpDzUD0-IyUfiCuy58bEl3755-wg.PNG/IWAlxHwBhi8gTAaFUWwwce_bXvoM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[운동 마니아 혜리의 운동 노하우 총집합!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34667220&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34667220&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sat, 22 Oct 2022 01:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjJfOTcg/MDAxNjY2MzY0NDA4NTA5.aKtjTr4pXZTjbdVRPAJ-t-SRwjLE1lSMNrJz45aKlqMg.TORsgWny-nm_dO11TmVcvCbkf2BYwvTR3Rs9mfAidYUg.JPEG/IXqTgUXE6hVUYX8FMxS-8paWgnmQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
