@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 01:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 02:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오키나와에서 생길 일]]></title>
+            <link>https://www.elle.co.kr/article/80151</link>
+            <guid>https://www.elle.co.kr/article/80151</guid>
+            <pubDate>Tue, 29 Aug 2023 02:48:44 GMT</pubDate>
+            <content:encoded><![CDATA[다채로운 영감을 더해 줄 휴가지를 찾고 있다면, 레저와 휴식, 쇼핑을 한 번에 즐길 수 있는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/cede5d93-c52e-4597-b1b2-8a80b00c31ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에브리데이 러블리 플레이스]]></title>
             <link>https://www.elle.co.kr/article/79849</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 25 Aug 2023 05:12:27 GMT</pubDate>
             <content:encoded><![CDATA[오윤아가 평소 자주 찾는 브런치 카페는? 편한 분위기에서 친구들과 수다 떨며 식사하기 좋은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/e11027c9-99bb-45b9-ac8e-a760c9a809ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
-            <link>https://www.elle.co.kr/article/79955</link>
-            <guid>https://www.elle.co.kr/article/79955</guid>
-            <pubDate>Thu, 24 Aug 2023 15:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/8ba329fe-5648-4491-85b2-cdd98e4e6a3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
