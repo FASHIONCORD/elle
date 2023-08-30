@@ -4,23 +4,27 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 09:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 10:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결혼 22년차 이혜원, 탄탄 복근 유지하는 일상 루틴은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/80124</link>
+            <guid>https://www.elle.co.kr/article/80124</guid>
+            <pubDate>Wed, 30 Aug 2023 10:12:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
             <link>https://www.elle.co.kr/article/80090</link>
             <guid>https://www.elle.co.kr/article/80090</guid>
             <pubDate>Mon, 28 Aug 2023 15:12:16 GMT</pubDate>
             <content:encoded><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/cdb91169-df25-4d88-b9fa-135da4768c47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현실 다이어터 귀 쫑긋! 이국주의 -17kg 체중 감량 노하우 총정리! #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/80072</link>
             <guid>https://www.elle.co.kr/article/80072</guid>
             <pubDate>Mon, 28 Aug 2023 07:12:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/184e0205-cfd7-40a9-a3cc-b27d2639d30f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조 말론 런던 글로벌 앰배서더, 애드와 아보아와의 대화]]></title>
@@ -28,7 +32,6 @@
             <guid>https://www.elle.co.kr/article/79981</guid>
             <pubDate>Mon, 28 Aug 2023 02:18:44 GMT</pubDate>
             <content:encoded><![CDATA['잉글리쉬 페어(English Pear)'의 얼굴인 그녀와 새로운 코롱 출시를 기념하며 화상으로 대화를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ee1fb177-c594-4f57-83b4-7ca35775a835.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티 나지 않아 더 좋은 홈 뷰티템]]></title>
@@ -61,14 +64,6 @@
             <pubDate>Wed, 23 Aug 2023 07:11:16 GMT</pubDate>
             <content:encoded><![CDATA[N°1 DE CHANEL 레드 까멜리아 세럼 100ml 출시를 기념하는 스킨케어 이벤트가 푸켓에서 열...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/653e010b-0686-433f-a58d-daeb68ee8821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름엔 글리터! 파워 영롱 펄 섀도 7]]></title>
-            <link>https://www.elle.co.kr/article/79962</link>
-            <guid>https://www.elle.co.kr/article/79962</guid>
-            <pubDate>Tue, 22 Aug 2023 15:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[다이아몬드처럼 빛나는 두 눈을 만들어줄 '슈퍼 샤이니' 글리터 섀도 7.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/bd494c78-ed77-4a78-88f5-1f64f45efae2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
