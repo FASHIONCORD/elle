@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 07:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 08:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디올이 클래식을 정의하는 방식]]></title>
+            <link>https://www.elle.co.kr/article/80210</link>
+            <guid>https://www.elle.co.kr/article/80210</guid>
+            <pubDate>Wed, 30 Aug 2023 08:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[자유분방하고 도전적인 모습으로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/4d93fea2-7414-4285-a175-89eba3829601.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블로코어 트렌드가 계속되는 중이다]]></title>
             <link>https://www.elle.co.kr/article/80195</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 28 Aug 2023 15:12:07 GMT</pubDate>
             <content:encoded><![CDATA[오피스 '파워' 레이디의 귀환.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/b41c22c3-edf3-4f95-be47-687be3978560.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시끄러운 도심 속에서도]]></title>
-            <link>https://www.elle.co.kr/article/80143</link>
-            <guid>https://www.elle.co.kr/article/80143</guid>
-            <pubDate>Wed, 30 Aug 2023 02:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[고요하고 파워풀하게 존재감을 드러낸 셀린느.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/3a0ea135-d5f3-4ac3-99a0-4cc353d1e6cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
