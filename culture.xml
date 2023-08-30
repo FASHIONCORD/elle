@@ -1,61 +1,436 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-08-30T19:19:29.470Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['지옥만세' 임오정 감독은 왜 지옥을 꿈꾸는 소녀들에게 주목했을까]]></title>
-        <id>https://www.elle.co.kr/article/80163</id>
-        <link href="https://www.elle.co.kr/article/80163"/>
-        <updated>2023-08-30T10:13:00.525Z</updated>
-        <content type="html"><![CDATA[천국보단 지옥.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시대를 초월한 대저택, 토레 델 팔코]]></title>
-        <id>https://www.elle.co.kr/article/80029</id>
-        <link href="https://www.elle.co.kr/article/80029"/>
-        <updated>2023-08-29T16:15:53.602Z</updated>
-        <content type="html"><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
-        <id>https://www.elle.co.kr/article/80169</id>
-        <link href="https://www.elle.co.kr/article/80169"/>
-        <updated>2023-08-29T09:13:07.537Z</updated>
-        <content type="html"><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
-        <id>https://www.elle.co.kr/article/80109</id>
-        <link href="https://www.elle.co.kr/article/80109"/>
-        <updated>2023-08-29T02:48:01.764Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독서가 치유와 위로의 가장 큰 힘이 되기까지, 우리가 몰랐던 비블로테라피]]></title>
-        <id>https://www.elle.co.kr/article/80094</id>
-        <link href="https://www.elle.co.kr/article/80094"/>
-        <updated>2023-08-28T08:16:32.481Z</updated>
-        <content type="html"><![CDATA[책 &lt;요즘 저는 아버지께 책을 읽어 드립니다&gt;를 통해 김소영 작가가 전하고자 한 목소리.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰티풀, 라탄!]]></title>
-        <id>https://www.elle.co.kr/article/80027</id>
-        <link href="https://www.elle.co.kr/article/80027"/>
-        <updated>2023-08-27T15:12:08.453Z</updated>
-        <content type="html"><![CDATA[일상의 분주함을 느슨한 서머 홀리데이 무드로 바꿔줄 라탄 가구들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
-        <id>https://www.elle.co.kr/article/80077</id>
-        <link href="https://www.elle.co.kr/article/80077"/>
-        <updated>2023-08-26T16:13:51.897Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
-        <id>https://www.elle.co.kr/article/80047</id>
-        <link href="https://www.elle.co.kr/article/80047"/>
-        <updated>2023-08-25T19:10:44.467Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 30 Aug 2023 20:14:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['지옥만세' 임오정 감독은 왜 지옥을 꿈꾸는 소녀들에게 주목했을까]]></title>
+            <link>https://www.elle.co.kr/article/80163</link>
+            <guid>https://www.elle.co.kr/article/80163</guid>
+            <pubDate>Wed, 30 Aug 2023 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[천국보단 지옥.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/c7d6b5d9-6ea7-40dc-ad07-b19f2fdd6123.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시대를 초월한 대저택, 토레 델 팔코]]></title>
+            <link>https://www.elle.co.kr/article/80029</link>
+            <guid>https://www.elle.co.kr/article/80029</guid>
+            <pubDate>Tue, 29 Aug 2023 16:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/27/82501fff-b610-4279-a560-5d969ef7d99f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/80169</link>
+            <guid>https://www.elle.co.kr/article/80169</guid>
+            <pubDate>Tue, 29 Aug 2023 09:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/8d1f3d02-1b33-438e-8980-f91bacb0568a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
+            <link>https://www.elle.co.kr/article/80109</link>
+            <guid>https://www.elle.co.kr/article/80109</guid>
+            <pubDate>Tue, 29 Aug 2023 02:48:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/1d53bf08-6259-4423-872c-2273f08b6d43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독서가 치유와 위로의 가장 큰 힘이 되기까지, 우리가 몰랐던 비블로테라피]]></title>
+            <link>https://www.elle.co.kr/article/80094</link>
+            <guid>https://www.elle.co.kr/article/80094</guid>
+            <pubDate>Mon, 28 Aug 2023 08:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[책 &lt;요즘 저는 아버지께 책을 읽어 드립니다&gt;를 통해 김소영 작가가 전하고자 한 목소리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/1a85812e-5c77-447e-846a-aa0973a4c0f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뷰티풀, 라탄!]]></title>
+            <link>https://www.elle.co.kr/article/80027</link>
+            <guid>https://www.elle.co.kr/article/80027</guid>
+            <pubDate>Sun, 27 Aug 2023 15:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[일상의 분주함을 느슨한 서머 홀리데이 무드로 바꿔줄 라탄 가구들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/22b3206c-568a-4048-9c31-5297d00d5931.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
+            <link>https://www.elle.co.kr/article/80077</link>
+            <guid>https://www.elle.co.kr/article/80077</guid>
+            <pubDate>Sat, 26 Aug 2023 16:13:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/f003491a-3987-453b-bb38-396692bd112f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
+            <link>https://www.elle.co.kr/article/80047</link>
+            <guid>https://www.elle.co.kr/article/80047</guid>
+            <pubDate>Fri, 25 Aug 2023 19:10:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ce21eea0-62d8-41b5-b757-d1c5044d5ff7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고딕 양식과 모던 디자인의 조화, 호텔 크베스트 #호텔미감]]></title>
+            <link>https://www.elle.co.kr/article/80003</link>
+            <guid>https://www.elle.co.kr/article/80003</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ada464dd-354f-48b0-966e-30a325688c37.jpg');">
+            <a href="/article/80003">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/80003">
+                                        ART&amp;DESIGN                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/80003">
+                    고딕 양식과 모던 디자인의 조화, 호텔 크베스트 #호텔미감                </a>
+            </em>
+            <p class="excerpt">호텔 크베스트는 고딕 양식의 클래식한 파사드와 객실마다 채워진 20세기 모던 디자인으로 독특한...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ada464dd-354f-48b0-966e-30a325688c37.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
+            <link>https://www.elle.co.kr/article/80021</link>
+            <guid>https://www.elle.co.kr/article/80021</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/d55de4da-b316-4c0e-a69f-31731e1a538e.jpg');">
+            <a href="/article/80021">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/80021">
+                                        CELEB NEWS                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/80021">
+                    안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방                </a>
+            </em>
+            <p class="excerpt"></p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/d55de4da-b316-4c0e-a69f-31731e1a538e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굽어진 벽과 나선형 계단, 가족을 둥글게 감싸 안는 집]]></title>
+            <link>https://www.elle.co.kr/article/79926</link>
+            <guid>https://www.elle.co.kr/article/79926</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202308/27/b9dc221d-940a-456d-84cc-7249ff33c155.jpg');">
+            <a href="/article/79926">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79926">
+                                        ART&amp;DESIGN                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79926">
+                    굽어진 벽과 나선형 계단, 가족을 둥글게 감싸 안는 집                </a>
+            </em>
+            <p class="excerpt">굽어진 벽과 나선형 계단 전선혜, 서민범의 집.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/27/b9dc221d-940a-456d-84cc-7249ff33c155.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79995</link>
+            <guid>https://www.elle.co.kr/article/79995</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/5c8acf33-f83a-4eca-8404-9eee6ecae60e.jpg');">
+            <a href="/article/79995">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79995">
+                                        CELEB NEWS                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79995">
+                    남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마                 </a>
+            </em>
+            <p class="excerpt"></p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/5c8acf33-f83a-4eca-8404-9eee6ecae60e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱그럽게 피어난 버려진 사물들]]></title>
+            <link>https://www.elle.co.kr/article/79922</link>
+            <guid>https://www.elle.co.kr/article/79922</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/077e80c6-bd03-4558-8ca0-87f644b9392c.jpg');">
+            <a href="/article/79922">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79922">
+                                        ART&amp;DESIGN                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79922">
+                    싱그럽게 피어난 버려진 사물들                </a>
+            </em>
+            <p class="excerpt">쓸모를 잃은 것들이 디자이너의 손길로 새롭게 재탄생했다.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/077e80c6-bd03-4558-8ca0-87f644b9392c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌 자컨이 대체 뭔데? 자컨 여행자를 위한 안내서]]></title>
+            <link>https://www.elle.co.kr/article/79917</link>
+            <guid>https://www.elle.co.kr/article/79917</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/37f78ff6-8b04-4c06-81a2-b5da8fcb8f74.jpg');">
+            <a href="/article/79917">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79917">
+                                        MOVIES&amp;TV                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79917">
+                    아이돌 자컨이 대체 뭔데? 자컨 여행자를 위한 안내서                </a>
+            </em>
+            <p class="excerpt">멤버들과 있을 때 내 아이돌은 어떨까? K팝 아티스트들의 필수 콘텐츠가 된 '자컨'의 세계. 그...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/37f78ff6-8b04-4c06-81a2-b5da8fcb8f74.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
+            <link>https://www.elle.co.kr/article/79955</link>
+            <guid>https://www.elle.co.kr/article/79955</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/8ba329fe-5648-4491-85b2-cdd98e4e6a3b.jpg');">
+            <a href="/article/79955">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79955">
+                                        PLACE                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79955">
+                    국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3                </a>
+            </em>
+            <p class="excerpt">여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/8ba329fe-5648-4491-85b2-cdd98e4e6a3b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/79949</link>
+            <guid>https://www.elle.co.kr/article/79949</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/9e957bf5-6ede-49ff-b91f-268e667e8fe5.jpg');">
+                <a href="/article/79949">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79949">
+                                        CELEB NEWS                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79949">
+                        이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/9e957bf5-6ede-49ff-b91f-268e667e8fe5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/79939</link>
+            <guid>https://www.elle.co.kr/article/79939</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/b19d7c09-7de7-4f3f-81b2-f108cc9fa462.jpg');">
+                <a href="/article/79939">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79939">
+                                        PLACE                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79939">
+                        '바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/b19d7c09-7de7-4f3f-81b2-f108cc9fa462.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[식물을 전시하는 편집 숍 4T]]></title>
+            <link>https://www.elle.co.kr/article/79123</link>
+            <guid>https://www.elle.co.kr/article/79123</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/e50ec007-e6f0-4db7-ab21-7ca966021cff.jpg');">
+                <a href="/article/79123">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79123">
+                                        ART&amp;DESIGN                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79123">
+                        식물을 전시하는 편집 숍 4T                    </a>
+                </em>
+                <p class="excerpt">크고 작은 식물들이 모인 '4T'의 세상.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/e50ec007-e6f0-4db7-ab21-7ca966021cff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포]]></title>
+            <link>https://www.elle.co.kr/article/79924</link>
+            <guid>https://www.elle.co.kr/article/79924</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/5937562d-2543-4225-9cfe-5b9a2913db7d.jpg');">
+                <a href="/article/79924">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79924">
+                                        CELEB NEWS                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79924">
+                        30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/5937562d-2543-4225-9cfe-5b9a2913db7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[느슨한 연대의 맛 #프리워커]]></title>
+            <link>https://www.elle.co.kr/article/79359</link>
+            <guid>https://www.elle.co.kr/article/79359</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/73bc2203-51c2-4bd9-9125-7369d7b02ceb.jpg');">
+                <a href="/article/79359">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79359">
+                                        ART&amp;DESIGN                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79359">
+                        느슨한 연대의 맛 #프리워커                    </a>
+                </em>
+                <p class="excerpt">부산에서 디자인 스튜디오를 운영 중인 박보은의 워케이션 일대기.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/73bc2203-51c2-4bd9-9125-7369d7b02ceb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 '마스크걸' 완전체 공개! 마지막 김모미, 이한별은 누구?]]></title>
+            <link>https://www.elle.co.kr/article/79905</link>
+            <guid>https://www.elle.co.kr/article/79905</guid>
+            <pubDate>Wed, 30 Aug 2023 20:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/564b91ee-b63b-428f-b884-461d93f3eca1.jpg');">
+                <a href="/article/79905">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79905">
+                                        CELEB NEWS                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79905">
+                        드디어 '마스크걸' 완전체 공개! 마지막 김모미, 이한별은 누구?                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/564b91ee-b63b-428f-b884-461d93f3eca1.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

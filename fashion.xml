@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 19:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 20:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생로랑을 입은 매혹적인 그녀]]></title>
+            <link>https://www.elle.co.kr/article/80254</link>
+            <guid>https://www.elle.co.kr/article/80254</guid>
+            <pubDate>Wed, 30 Aug 2023 20:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[한밤의 기억들이 사라지지 않는 몽환 속에서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/42032ed7-61e5-446a-a79f-82a042bb594a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정적 속에서 마주한 펜디]]></title>
             <link>https://www.elle.co.kr/article/80216</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 29 Aug 2023 02:47:25 GMT</pubDate>
             <content:encoded><![CDATA[이번 시즌 구찌의 세계는 90년대로 통한다. 톰 포드의 관능이 흘러 넘치던 바로 그 때로.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/be6f30d1-710e-4406-9638-30851321d813.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페라가모의 단단한 힘]]></title>
-            <link>https://www.elle.co.kr/article/80156</link>
-            <guid>https://www.elle.co.kr/article/80156</guid>
-            <pubDate>Mon, 28 Aug 2023 15:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[빈틈을 주지 않는 팽팽한 긴장감.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/940ed6e5-35ca-4411-8539-bc2cdc1bff43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
