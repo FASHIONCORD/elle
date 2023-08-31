@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 02:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 03:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교토 럭셔리 호텔의 정점, 수이란 #호텔미감]]></title>
+            <link>https://www.elle.co.kr/article/80019</link>
+            <guid>https://www.elle.co.kr/article/80019</guid>
+            <pubDate>Thu, 31 Aug 2023 03:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[소나무가 우뚝 선 일본식 정원과 함께 교토의 옛 풍경을 고스란히 간직하는 호텔 수이란.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/db80d72d-0cbd-40a2-a4e7-eed31dbd9acc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
             <link>https://www.elle.co.kr/article/80169</link>
@@ -61,13 +69,6 @@
             <pubDate>Fri, 25 Aug 2023 10:13:18 GMT</pubDate>
             <content:encoded><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/cdb91169-df25-4d88-b9fa-135da4768c47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹 갈며 힐링하다가 올드카 구경하기! 서울 무료 전시 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/80036</link>
-            <guid>https://www.elle.co.kr/article/80036</guid>
-            <pubDate>Fri, 25 Aug 2023 09:13:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/6c2d9675-abaa-4ff0-9459-0a8c447ff87b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
