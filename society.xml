@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-08-30T23:12:41.876Z</updated>
+    <updated>2023-08-31T00:51:26.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년엔 처서 매직 없다?! 2차 장마 시작된 현재 날씨 상황]]></title>
+        <id>https://www.elle.co.kr/article/80013</id>
+        <link href="https://www.elle.co.kr/article/80013"/>
+        <updated>2023-08-31T00:51:25.166Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신이 푼돈 한 번이라도 더 벌어봐야 하는 이유_돈쓸신잡 #111]]></title>
         <id>https://www.elle.co.kr/article/79919</id>
@@ -49,12 +55,5 @@
         <link href="https://www.elle.co.kr/ellevoice/essay/79692"/>
         <updated>2023-08-14T07:13:49.406Z</updated>
         <content type="html"><![CDATA[우리 모두는 서울을 떠돈다. 출판사 봄알람 이두루 대표도 마찬가지다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 내가 좋아하는 우리 동네]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/79565</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/79565"/>
-        <updated>2023-08-11T09:13:42.635Z</updated>
-        <content type="html"><![CDATA[강서구 주민 주목! 30년 넘게 강서구에서 살아온 최지은 작가의 동네 애착기.]]></content>
     </entry>
 </feed>
