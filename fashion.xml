@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 21:12:00 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[데일리 룩 만능템, 탱크톱 잘 입는 법 6]]></title>
-            <link>https://www.elle.co.kr/article/80259</link>
-            <guid>https://www.elle.co.kr/article/80259</guid>
-            <pubDate>Thu, 31 Aug 2023 08:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[핫한 언니들은 모두 탱크톱을 입지! 김나영, 김아현, 곽지영 등 옷잘알 스타들이 선보인 탱크톱...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/dae9cd9d-d65e-4b2e-bde9-32c50353eb96.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상큼 발랄한 셀럽 바비들]]></title>
-            <link>https://www.elle.co.kr/article/80257</link>
-            <guid>https://www.elle.co.kr/article/80257</guid>
-            <pubDate>Thu, 31 Aug 2023 02:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[핑크 컬러와 하이힐은 필수.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/f87d110b-16de-4303-809f-43ec04291407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생로랑을 입은 매혹적인 그녀]]></title>
-            <link>https://www.elle.co.kr/article/80254</link>
-            <guid>https://www.elle.co.kr/article/80254</guid>
-            <pubDate>Wed, 30 Aug 2023 20:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[한밤의 기억들이 사라지지 않는 몽환 속에서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/42032ed7-61e5-446a-a79f-82a042bb594a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정적 속에서 마주한 펜디]]></title>
-            <link>https://www.elle.co.kr/article/80216</link>
-            <guid>https://www.elle.co.kr/article/80216</guid>
-            <pubDate>Wed, 30 Aug 2023 10:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[펜디 뉴 컬렉션으로 펼쳐낸 한낮의 느와르.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/2543f6cc-10c9-4469-9bdf-9f80ec7e1915.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올이 클래식을 정의하는 방식]]></title>
-            <link>https://www.elle.co.kr/article/80210</link>
-            <guid>https://www.elle.co.kr/article/80210</guid>
-            <pubDate>Wed, 30 Aug 2023 08:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[자유분방하고 도전적인 모습으로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/4d93fea2-7414-4285-a175-89eba3829601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블로코어 트렌드가 계속되는 중이다]]></title>
-            <link>https://www.elle.co.kr/article/80195</link>
-            <guid>https://www.elle.co.kr/article/80195</guid>
-            <pubDate>Tue, 29 Aug 2023 19:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[발로 차!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/9b1effcc-92c4-420f-87f7-33d8810b857f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리멤버 제인 버킨]]></title>
-            <link>https://www.elle.co.kr/article/80200</link>
-            <guid>https://www.elle.co.kr/article/80200</guid>
-            <pubDate>Tue, 29 Aug 2023 16:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[전설적인 프렌치 시크의 아이콘, 제인 버킨. 순수와 관능을 넘나들며 시대와 상관없이 독보적 스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/39499fa7-b1b6-414c-bf15-e1330fbf6dc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바지냐, 부츠냐? 그것이 문제로다]]></title>
-            <link>https://www.elle.co.kr/article/80209</link>
-            <guid>https://www.elle.co.kr/article/80209</guid>
-            <pubDate>Tue, 29 Aug 2023 10:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[올가을, 와이드 부츠 하나로 쿨해지는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/17a7266e-4bb4-4224-be1c-2854c9172797.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-08-31T22:12:37.176Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데일리 룩 만능템, 탱크톱 잘 입는 법 6]]></title>
+        <id>https://www.elle.co.kr/article/80259</id>
+        <link href="https://www.elle.co.kr/article/80259"/>
+        <updated>2023-08-31T08:15:17.889Z</updated>
+        <content type="html"><![CDATA[핫한 언니들은 모두 탱크톱을 입지! 김나영, 김아현, 곽지영 등 옷잘알 스타들이 선보인 탱크톱...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상큼 발랄한 셀럽 바비들]]></title>
+        <id>https://www.elle.co.kr/article/80257</id>
+        <link href="https://www.elle.co.kr/article/80257"/>
+        <updated>2023-08-31T02:18:24.880Z</updated>
+        <content type="html"><![CDATA[핑크 컬러와 하이힐은 필수.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생로랑을 입은 매혹적인 그녀]]></title>
+        <id>https://www.elle.co.kr/article/80254</id>
+        <link href="https://www.elle.co.kr/article/80254"/>
+        <updated>2023-08-30T20:12:45.029Z</updated>
+        <content type="html"><![CDATA[한밤의 기억들이 사라지지 않는 몽환 속에서.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정적 속에서 마주한 펜디]]></title>
+        <id>https://www.elle.co.kr/article/80216</id>
+        <link href="https://www.elle.co.kr/article/80216"/>
+        <updated>2023-08-30T10:12:35.083Z</updated>
+        <content type="html"><![CDATA[펜디 뉴 컬렉션으로 펼쳐낸 한낮의 느와르.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디올이 클래식을 정의하는 방식]]></title>
+        <id>https://www.elle.co.kr/article/80210</id>
+        <link href="https://www.elle.co.kr/article/80210"/>
+        <updated>2023-08-30T08:15:25.119Z</updated>
+        <content type="html"><![CDATA[자유분방하고 도전적인 모습으로.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블로코어 트렌드가 계속되는 중이다]]></title>
+        <id>https://www.elle.co.kr/article/80195</id>
+        <link href="https://www.elle.co.kr/article/80195"/>
+        <updated>2023-08-29T19:10:12.448Z</updated>
+        <content type="html"><![CDATA[발로 차!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리멤버 제인 버킨]]></title>
+        <id>https://www.elle.co.kr/article/80200</id>
+        <link href="https://www.elle.co.kr/article/80200"/>
+        <updated>2023-08-29T16:14:51.588Z</updated>
+        <content type="html"><![CDATA[전설적인 프렌치 시크의 아이콘, 제인 버킨. 순수와 관능을 넘나들며 시대와 상관없이 독보적 스...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바지냐, 부츠냐? 그것이 문제로다]]></title>
+        <id>https://www.elle.co.kr/article/80209</id>
+        <link href="https://www.elle.co.kr/article/80209"/>
+        <updated>2023-08-29T10:12:46.823Z</updated>
+        <content type="html"><![CDATA[올가을, 와이드 부츠 하나로 쿨해지는 법.]]></content>
+    </entry>
+</feed>
