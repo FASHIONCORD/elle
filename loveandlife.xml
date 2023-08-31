@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 18:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 19:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채정안이 찾은 한남동 핫플은 어디?]]></title>
+            <link>https://www.elle.co.kr/article/80212</link>
+            <guid>https://www.elle.co.kr/article/80212</guid>
+            <pubDate>Thu, 31 Aug 2023 19:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[빈티지 샵부터 뷰 맛집 카페까지 한남동 주민 채정안이 찾은 핫플레이스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/57edd751-bdcd-4008-958c-3345f3a661b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[교토 럭셔리 호텔의 정점, 수이란 #호텔미감]]></title>
             <link>https://www.elle.co.kr/article/80019</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 25 Aug 2023 19:11:46 GMT</pubDate>
             <content:encoded><![CDATA[팬데믹 이후 첫 뉴욕, 내게 주어진 시간은 단 3일. 그곳에서 부지런히 찾아 나선 일상의 감흥...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/d00f7691-7a34-4860-b8d7-121a8412e669.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
-            <link>https://www.elle.co.kr/article/80090</link>
-            <guid>https://www.elle.co.kr/article/80090</guid>
-            <pubDate>Fri, 25 Aug 2023 10:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/cdb91169-df25-4d88-b9fa-135da4768c47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
