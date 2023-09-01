@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 14:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 15:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -842,6 +842,7 @@
             <guid>https://www.elle.co.kr/article/80257</guid>
             <pubDate>Thu, 31 Aug 2023 02:18:24 GMT</pubDate>
             <content:encoded><![CDATA[핑크 컬러와 하이힐은 필수.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/f87d110b-16de-4303-809f-43ec04291407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생로랑을 입은 매혹적인 그녀 (엘르 코리아 ─ 패션)]]></title>
@@ -849,6 +850,7 @@
             <guid>https://www.elle.co.kr/article/80254</guid>
             <pubDate>Wed, 30 Aug 2023 20:12:45 GMT</pubDate>
             <content:encoded><![CDATA[한밤의 기억들이 사라지지 않는 몽환 속에서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/42032ed7-61e5-446a-a79f-82a042bb594a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정적 속에서 마주한 펜디 (엘르 코리아 ─ 패션)]]></title>
@@ -856,6 +858,7 @@
             <guid>https://www.elle.co.kr/article/80216</guid>
             <pubDate>Wed, 30 Aug 2023 10:12:35 GMT</pubDate>
             <content:encoded><![CDATA[펜디 뉴 컬렉션으로 펼쳐낸 한낮의 느와르.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/2543f6cc-10c9-4469-9bdf-9f80ec7e1915.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디올이 클래식을 정의하는 방식 (엘르 코리아 ─ 패션)]]></title>
@@ -863,6 +866,7 @@
             <guid>https://www.elle.co.kr/article/80210</guid>
             <pubDate>Wed, 30 Aug 2023 08:15:25 GMT</pubDate>
             <content:encoded><![CDATA[자유분방하고 도전적인 모습으로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/4d93fea2-7414-4285-a175-89eba3829601.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파우더부터 리퀴드 타입까지! 휘인이 사용하는 일곱 가지 블러셔 (엘르 코리아 ─ 뷰티)]]></title>
@@ -919,6 +923,12 @@
             <content:encoded><![CDATA[밤에 사용하는 스킨케어 제품들, 효과를 최대로 보려면?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[깜짝 결혼 발표! 9월의 신부 되는 안혜경이 소개한 예비신랑 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/80326</link>
+            <guid>https://www.elle.co.kr/article/80326</guid>
+            <pubDate>Fri, 01 Sep 2023 15:12:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[액션 장인 이준기가 7년 밀가루 끊고 몸소 겪은 변화 #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/80325</link>
             <guid>https://www.elle.co.kr/article/80325</guid>
@@ -961,12 +971,6 @@
             <link>https://www.elle.co.kr/article/80277</link>
             <guid>https://www.elle.co.kr/article/80277</guid>
             <pubDate>Thu, 31 Aug 2023 00:50:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[소름 돋는 11연속 득점, '세계 1위' 안세영이 쓴 배드민턴 전설 (ft. 역대 최강 대표팀) (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/80253</link>
-            <guid>https://www.elle.co.kr/article/80253</guid>
-            <pubDate>Wed, 30 Aug 2023 16:15:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['연인'의 유길채, 안은진의 또 다른 인생 캐릭터 3선 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
