@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-09-04T08:25:32.155Z</updated>
+    <updated>2023-09-04T09:14:02.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번에 놓치면 14년 기다려야 하는 슈퍼문+블루문! 소원 빌 수 있는 시간은?]]></title>
+        <id>https://www.elle.co.kr/article/80290</id>
+        <link href="https://www.elle.co.kr/article/80290"/>
+        <updated>2023-09-04T09:13:53.484Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부쩍 선선해진 날씨, 산책이 하고 싶다면? 걷기 좋은 가을 축제 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/80243</id>
@@ -50,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/80151"/>
         <updated>2023-08-29T02:48:44.433Z</updated>
         <content type="html"><![CDATA[다채로운 영감을 더해 줄 휴가지를 찾고 있다면, 레저와 휴식, 쇼핑을 한 번에 즐길 수 있는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에브리데이 러블리 플레이스]]></title>
-        <id>https://www.elle.co.kr/article/79849</id>
-        <link href="https://www.elle.co.kr/article/79849"/>
-        <updated>2023-08-28T19:10:59.259Z</updated>
-        <content type="html"><![CDATA[언제나 사랑이 넘치는 공간, 이마트 창립 30주년을 맞아 재현한 이토록 귀엽고 유쾌한 에피소드...]]></content>
     </entry>
 </feed>

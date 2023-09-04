@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-09-04T08:25:32.151Z</updated>
+    <updated>2023-09-04T09:14:02.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유나만의 방으로 초대합니다. ITZY 유나 단독 화보!]]></title>
+        <id>https://www.elle.co.kr/article/80131</id>
+        <link href="https://www.elle.co.kr/article/80131"/>
+        <updated>2023-09-04T09:13:12.820Z</updated>
+        <content type="html"><![CDATA[유나의 크고 맑은 눈망울에 들어앉은 다채로운 감정들. 그리고 기꺼이 외치고 싶어지는 격려와 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['프리즈'가 불러낸 뜨거운 이름, 아티스트 우한나의 이야기는 지금부터 시작이다]]></title>
         <id>https://www.elle.co.kr/article/80336</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/80330"/>
         <updated>2023-09-02T01:41:32.017Z</updated>
         <content type="html"><![CDATA[파리지엔으로 변신한 신세경의 고혹적인 매력.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민과 이민기가 말하는 '힙'한 것]]></title>
-        <id>https://www.elle.co.kr/article/80097</id>
-        <link href="https://www.elle.co.kr/article/80097"/>
-        <updated>2023-09-01T19:10:02.937Z</updated>
-        <content type="html"><![CDATA[웃음 버튼이 제대로 눌렸다. 드라마 &lt;힙하게&gt;의 두 사람, 한지민과 이민기가 가꾸어낸 기묘하고 ...]]></content>
     </entry>
 </feed>
