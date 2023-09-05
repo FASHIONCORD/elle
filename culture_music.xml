@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 09:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 10:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
+            <link>https://www.elle.co.kr/article/80420</link>
+            <guid>https://www.elle.co.kr/article/80420</guid>
+            <pubDate>Tue, 05 Sep 2023 10:13:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e348adb1-c13e-40cc-abbb-0842e21ca19b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션?]]></title>
             <link>https://www.elle.co.kr/article/79835</link>
@@ -34,7 +41,6 @@
             <link>https://www.elle.co.kr/article/79325</link>
             <guid>https://www.elle.co.kr/article/79325</guid>
             <pubDate>Thu, 20 Jul 2023 13:17:41 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/f12fc349-f3aa-4a0b-8e61-c7fea618cb41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 정국, 한소희와 말싸움? 짧지만 강렬한 첫 솔로 MV 티저.avi]]></title>
@@ -87,12 +93,6 @@
             <guid>https://www.elle.co.kr/article/78082</guid>
             <pubDate>Fri, 02 Jun 2023 15:12:46 GMT</pubDate>
             <content:encoded><![CDATA[스포티파이와 빌보드핫100 에서 써내려가고 있는 K팝 아티스트들의 놀라운 기록. K팝은 이제 '듣...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[드디어 부활한 락 페스티벌과 혼네, 샘 스미스 내한까지! 2023 공연 라인업.list]]></title>
-            <link>https://www.elle.co.kr/article/78098</link>
-            <guid>https://www.elle.co.kr/article/78098</guid>
-            <pubDate>Fri, 02 Jun 2023 12:25:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
