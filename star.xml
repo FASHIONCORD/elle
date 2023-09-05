@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-09-05T08:17:17.693Z</updated>
+    <updated>2023-09-05T09:13:54.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤박-김수빈, 영화 한 장면 그 자체인 웨딩화보X결혼식 현장 (ft. 존박)]]></title>
+        <id>https://www.elle.co.kr/article/80368</id>
+        <link href="https://www.elle.co.kr/article/80368"/>
+        <updated>2023-09-05T09:12:21.637Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고요하게 반짝이는 홍경이라는 물결]]></title>
         <id>https://www.elle.co.kr/article/80137</id>
@@ -52,11 +58,5 @@
         <id>https://www.elle.co.kr/article/80350</id>
         <link href="https://www.elle.co.kr/article/80350"/>
         <updated>2023-09-02T15:11:06.772Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 정국이 생일 1분 전 남긴 장문의 메시지 (ft. 지민 사진)]]></title>
-        <id>https://www.elle.co.kr/article/80342</id>
-        <link href="https://www.elle.co.kr/article/80342"/>
-        <updated>2023-09-02T15:11:06.775Z</updated>
     </entry>
 </feed>
