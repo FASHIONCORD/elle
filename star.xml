@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 05:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 06:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고요하게 반짝이는 홍경이라는 물결]]></title>
+            <link>https://www.elle.co.kr/article/80137</link>
+            <guid>https://www.elle.co.kr/article/80137</guid>
+            <pubDate>Tue, 05 Sep 2023 06:16:00 GMT</pubDate>
+            <content:encoded><![CDATA["세상은 너무 빠르게 변하는 것 같아요. 내 고유함이 사라지지 않도록 세상에 흔들리지 않을래요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/c354e5a9-e0a2-40c5-a932-a9a0c57adf73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유나만의 방으로 초대합니다. ITZY 유나 단독 화보!]]></title>
             <link>https://www.elle.co.kr/article/80131</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/80342</guid>
             <pubDate>Sat, 02 Sep 2023 15:11:06 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/0449dfcd-5acd-43bf-950b-eb66cb24dd5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세경, <엘르> 디 에디션(D Edition) 9월 커버 공개 #ELLE_D에디션]]></title>
-            <link>https://www.elle.co.kr/article/80330</link>
-            <guid>https://www.elle.co.kr/article/80330</guid>
-            <pubDate>Tue, 05 Sep 2023 02:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[파리지엔으로 변신한 신세경의 고혹적인 매력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/d67009f2-2aeb-4cc0-84e0-80bd598b119a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
