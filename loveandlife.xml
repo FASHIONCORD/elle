@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 01:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 02:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성수동 핫플 베이커리가 궁금하다면? 송경아의 빵지순례 3]]></title>
+            <link>https://www.elle.co.kr/article/80329</link>
+            <guid>https://www.elle.co.kr/article/80329</guid>
+            <pubDate>Tue, 05 Sep 2023 02:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[프렌치 감성의 바게트 맛집부터 케이팝 러버들의 성지인 베이커리 카페까지, 송경아가 가이드하는...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘강릉 핫플’ ATC를 이끄는 김현경 대표의 랜선 집들이 #홈터뷰]]></title>
             <link>https://www.elle.co.kr/article/79176</link>
@@ -58,13 +65,6 @@
             <pubDate>Wed, 30 Aug 2023 09:13:29 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/8d1f3d02-1b33-438e-8980-f91bacb0568a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고요한 자연 속에서 마음의 양식 쌓기, 전국 북스테이 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/80153</link>
-            <guid>https://www.elle.co.kr/article/80153</guid>
-            <pubDate>Tue, 29 Aug 2023 07:13:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/25f5a9a8-218b-4d67-845e-b96dad464a53.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

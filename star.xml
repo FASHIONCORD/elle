@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-09-05T01:52:24.849Z</updated>
+    <updated>2023-09-05T02:18:51.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[고요하게 반짝이는 홍경이라는 물결]]></title>
-        <id>https://www.elle.co.kr/article/80137</id>
-        <link href="https://www.elle.co.kr/article/80137"/>
-        <updated>2023-09-04T16:15:12.775Z</updated>
-        <content type="html"><![CDATA["세상은 너무 빠르게 변하는 것 같아요. 내 고유함이 사라지지 않도록 세상에 흔들리지 않을래요...]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[유나만의 방으로 초대합니다. ITZY 유나 단독 화보!]]></title>
         <id>https://www.elle.co.kr/article/80131</id>
@@ -58,5 +51,12 @@
         <id>https://www.elle.co.kr/article/80342</id>
         <link href="https://www.elle.co.kr/article/80342"/>
         <updated>2023-09-02T15:11:06.775Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신세경, <엘르> 디 에디션(D Edition) 9월 커버 공개 #ELLE_D에디션]]></title>
+        <id>https://www.elle.co.kr/article/80330</id>
+        <link href="https://www.elle.co.kr/article/80330"/>
+        <updated>2023-09-05T02:17:23.987Z</updated>
+        <content type="html"><![CDATA[파리지엔으로 변신한 신세경의 고혹적인 매력.]]></content>
     </entry>
 </feed>
