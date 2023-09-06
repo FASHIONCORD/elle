@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-09-06T10:13:56.701Z</updated>
+    <updated>2023-09-06T11:12:01.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이시 우드라는 이상하고 아름다운 세계]]></title>
+        <id>https://www.elle.co.kr/article/80324</id>
+        <link href="https://www.elle.co.kr/article/80324"/>
+        <updated>2023-09-06T11:11:07.130Z</updated>
+        <content type="html"><![CDATA[지금 가장 떠오르는 아티스트 이시 우드. 한국에서 첫 개인전을 여는 그녀에게 궁금한 몇 가지...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마스크 쓴 BJ 김모미 음성, 사람 목소리가 아니었다고?]]></title>
         <id>https://www.elle.co.kr/article/80299</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/80029"/>
         <updated>2023-08-29T16:15:53.602Z</updated>
         <content type="html"><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
-        <id>https://www.elle.co.kr/article/80169</id>
-        <link href="https://www.elle.co.kr/article/80169"/>
-        <updated>2023-08-29T09:13:07.537Z</updated>
-        <content type="html"><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content>
     </entry>
 </feed>

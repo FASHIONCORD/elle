@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-09-06T10:13:56.702Z</updated>
+    <updated>2023-09-06T11:12:01.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[럽스타 주고 받는 커플, 유빈-권순우 근황.jpg]]></title>
+        <id>https://www.elle.co.kr/article/80418</id>
+        <link href="https://www.elle.co.kr/article/80418"/>
+        <updated>2023-09-06T11:10:58.256Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피프티 피프티 2기? 또 투자 유치 성공한 어트랙트의 다음 행보]]></title>
+        <id>https://www.elle.co.kr/article/80409</id>
+        <link href="https://www.elle.co.kr/article/80409"/>
+        <updated>2023-09-06T11:10:58.259Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세상 어디에나 있는 강훈]]></title>
         <id>https://www.elle.co.kr/article/80390</id>
@@ -43,19 +55,5 @@
         <link href="https://www.elle.co.kr/article/80131"/>
         <updated>2023-09-04T09:13:12.820Z</updated>
         <content type="html"><![CDATA[유나의 크고 맑은 눈망울에 들어앉은 다채로운 감정들. 그리고 기꺼이 외치고 싶어지는 격려와 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프리즈'가 불러낸 뜨거운 이름, 아티스트 우한나의 이야기는 지금부터 시작이다]]></title>
-        <id>https://www.elle.co.kr/article/80336</id>
-        <link href="https://www.elle.co.kr/article/80336"/>
-        <updated>2023-09-04T04:14:54.019Z</updated>
-        <content type="html"><![CDATA['프리즈 서울 2023'의 '포커스 아시아' 선정 작가이자 제1회 '아티스트 어워즈' 수상자로 이름...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My fair lady, 신세경(feat. 로저 비비에) #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/80353</id>
-        <link href="https://www.elle.co.kr/article/80353"/>
-        <updated>2023-09-04T02:18:57.962Z</updated>
-        <content type="html"><![CDATA[우아하고 사랑스러운 파리지엔이 된 신세경. 로저 비비에와 함께한 신세경의 ELLE D Edition...]]></content>
     </entry>
 </feed>
