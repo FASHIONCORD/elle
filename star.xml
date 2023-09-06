@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 15:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 16:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
+            <link>https://www.elle.co.kr/article/80420</link>
+            <guid>https://www.elle.co.kr/article/80420</guid>
+            <pubDate>Wed, 06 Sep 2023 16:16:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e348adb1-c13e-40cc-abbb-0842e21ca19b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[럽스타 주고 받는 커플, 유빈-권순우 근황.jpg]]></title>
             <link>https://www.elle.co.kr/article/80418</link>
@@ -57,14 +64,6 @@
             <pubDate>Tue, 05 Sep 2023 06:16:00 GMT</pubDate>
             <content:encoded><![CDATA["세상은 너무 빠르게 변하는 것 같아요. 내 고유함이 사라지지 않도록 세상에 흔들리지 않을래요...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/c354e5a9-e0a2-40c5-a932-a9a0c57adf73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유나만의 방으로 초대합니다. ITZY 유나 단독 화보!]]></title>
-            <link>https://www.elle.co.kr/article/80131</link>
-            <guid>https://www.elle.co.kr/article/80131</guid>
-            <pubDate>Mon, 04 Sep 2023 09:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[유나의 크고 맑은 눈망울에 들어앉은 다채로운 감정들. 그리고 기꺼이 외치고 싶어지는 격려와 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/03/b1a1982c-0dc4-436a-8bcf-f51e5199839e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
