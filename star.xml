@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 09:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 10:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['대호84' 김대호, MBC에 사표 낸 적 있다?! 프리 선언에 대한 솔직한 생각]]></title>
+            <link>https://www.elle.co.kr/article/80429</link>
+            <guid>https://www.elle.co.kr/article/80429</guid>
+            <pubDate>Thu, 07 Sep 2023 10:13:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/1d07a68a-39d7-486c-aef7-62ed4d4aec45.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유정후가 배우를 꿈꾸는 이유]]></title>
             <link>https://www.elle.co.kr/article/80422</link>
@@ -57,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/80370</guid>
             <pubDate>Tue, 05 Sep 2023 10:13:15 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/937be42b-7188-4b1f-9925-cb58e5cde7a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤박-김수빈, 영화 한 장면 그 자체인 웨딩화보X결혼식 현장 (ft. 존박)]]></title>
-            <link>https://www.elle.co.kr/article/80368</link>
-            <guid>https://www.elle.co.kr/article/80368</guid>
-            <pubDate>Tue, 05 Sep 2023 09:12:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/8b99b3c9-e7c1-4b23-a1f1-de74589be641.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

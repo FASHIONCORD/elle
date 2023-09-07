@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 09:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 10:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브루클린 아파트의 삶을 누구보다 즐기는 이온스의 랜선 집들이 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/80457</link>
+            <guid>https://www.elle.co.kr/article/80457</guid>
+            <pubDate>Thu, 07 Sep 2023 10:14:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/af141a68-71a0-4a91-96b9-fde8ae8bbc24.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트 + 패션?]]></title>
             <link>https://www.elle.co.kr/article/80454</link>
@@ -36,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/80211</guid>
             <pubDate>Wed, 30 Aug 2023 05:13:03 GMT</pubDate>
             <content:encoded><![CDATA[실비아헬스 고명진 대표를  앞으로 나아갈 수 있게 하는 힘.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/bcda6fb6-87ae-47c7-bff6-c0dba889830d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[색채 수집이 빚어낸 향연, '아홉 개의 색, 아홉 개의 가구' 아뜰리에 에르메스 박미나 개인전 #요즘전시]]></title>
@@ -92,12 +98,6 @@
             <guid>https://www.elle.co.kr/article/79955</guid>
             <pubDate>Fri, 18 Aug 2023 11:12:06 GMT</pubDate>
             <content:encoded><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/79939</link>
-            <guid>https://www.elle.co.kr/article/79939</guid>
-            <pubDate>Fri, 18 Aug 2023 05:12:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
