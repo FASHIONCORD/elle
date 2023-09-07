@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 08:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 09:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유정후가 배우를 꿈꾸는 이유]]></title>
+            <link>https://www.elle.co.kr/article/80422</link>
+            <guid>https://www.elle.co.kr/article/80422</guid>
+            <pubDate>Thu, 07 Sep 2023 09:12:39 GMT</pubDate>
+            <content:encoded><![CDATA["스스로 만족해 버리면 좋은 배우가 될 수 없겠다고 생각했어요. 그 마음으로 저를 다잡아요." ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/8321795b-12a5-4d18-a1d8-c3440875b0f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
             <link>https://www.elle.co.kr/article/80420</link>
@@ -56,14 +64,6 @@
             <guid>https://www.elle.co.kr/article/80368</guid>
             <pubDate>Tue, 05 Sep 2023 09:12:21 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/8b99b3c9-e7c1-4b23-a1f1-de74589be641.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고요하게 반짝이는 홍경이라는 물결]]></title>
-            <link>https://www.elle.co.kr/article/80137</link>
-            <guid>https://www.elle.co.kr/article/80137</guid>
-            <pubDate>Tue, 05 Sep 2023 06:16:00 GMT</pubDate>
-            <content:encoded><![CDATA["세상은 너무 빠르게 변하는 것 같아요. 내 고유함이 사라지지 않도록 세상에 흔들리지 않을래요...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/c354e5a9-e0a2-40c5-a932-a9a0c57adf73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
