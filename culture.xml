@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 15:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 16:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/80446</link>
+            <guid>https://www.elle.co.kr/article/80446</guid>
+            <pubDate>Thu, 07 Sep 2023 16:16:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/3ed654a0-65e7-4a4d-b87e-14e30486ed74.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
             <link>https://www.elle.co.kr/article/80420</link>
@@ -57,13 +64,6 @@
             <pubDate>Tue, 05 Sep 2023 02:17:48 GMT</pubDate>
             <content:encoded><![CDATA[실비아헬스 고명진 대표를  앞으로 나아갈 수 있게 하는 힘.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/bcda6fb6-87ae-47c7-bff6-c0dba889830d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소름 돋는 11연속 득점, '세계 1위' 안세영이 쓴 배드민턴 전설 (ft. 역대 최강 대표팀)]]></title>
-            <link>https://www.elle.co.kr/article/80253</link>
-            <guid>https://www.elle.co.kr/article/80253</guid>
-            <pubDate>Mon, 04 Sep 2023 09:13:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/1da20965-bbef-4546-9e1a-178490141a99.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
