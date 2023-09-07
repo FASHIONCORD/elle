@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 02:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 03:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무대 위, 조명 아래서]]></title>
+            <link>https://www.elle.co.kr/article/80377</link>
+            <guid>https://www.elle.co.kr/article/80377</guid>
+            <pubDate>Thu, 07 Sep 2023 03:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[반짝이는 에트로 나이트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/4cdd8fca-7286-44dd-bdf3-bf3de360af67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올가을, 유니클로와 함께 즐기는 레이어링의 마법]]></title>
             <link>https://www.elle.co.kr/article/80388</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Sep 2023 19:09:24 GMT</pubDate>
             <content:encoded><![CDATA[여유를 즐기는 한 때, 피어난 로로피아나의 우아함.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/f9be2b21-58af-44a0-8abd-1f6e8be8a14c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음이 이끄는 대로 떠나는 디올의 시간]]></title>
-            <link>https://www.elle.co.kr/article/80309</link>
-            <guid>https://www.elle.co.kr/article/80309</guid>
-            <pubDate>Sat, 02 Sep 2023 01:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[그녀만의 리듬으로 목적이 닿는 그곳을 향해.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/cd422b1e-77b8-4557-a985-44088b5053c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
