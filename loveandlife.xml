@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 23:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 00:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[걍변과 항구, 고궁까지! 가을밤 운치 만끽하기 좋은 야간 축제 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/80380</link>
+            <guid>https://www.elle.co.kr/article/80380</guid>
+            <pubDate>Fri, 08 Sep 2023 00:51:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/6ab9b9ff-49d8-4dce-9079-4b02790ce9a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따라해 볼까? 윤승아의 지속 가능한 다이어트 방법]]></title>
             <link>https://www.elle.co.kr/article/80352</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/80218</guid>
             <pubDate>Fri, 01 Sep 2023 09:13:50 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/86b489e9-976d-4166-9004-b81cb1f83941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채정안이 찾은 한남동 핫플은 어디?]]></title>
-            <link>https://www.elle.co.kr/article/80212</link>
-            <guid>https://www.elle.co.kr/article/80212</guid>
-            <pubDate>Thu, 31 Aug 2023 19:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[빈티지 샵부터 뷰 맛집 카페까지 한남동 주민 채정안이 찾은 핫플레이스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/57edd751-bdcd-4008-958c-3345f3a661b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
