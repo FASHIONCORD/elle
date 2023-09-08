@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 08:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 09:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스푸르스 마거스가 제안하는 가능한 세계들 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/80398</link>
+            <guid>https://www.elle.co.kr/article/80398</guid>
+            <pubDate>Fri, 08 Sep 2023 09:13:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/1cf44305-e043-4a29-9e3b-42a6fffa9354.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 속에 들어온 듯한 디저트 카페 2]]></title>
             <link>https://www.elle.co.kr/article/80391</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/80290</guid>
             <pubDate>Mon, 04 Sep 2023 09:13:53 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/dfc08f81-04ff-485d-99d1-d0ca0803e920.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부쩍 선선해진 날씨, 산책이 하고 싶다면? 걷기 좋은 가을 축제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/80243</link>
-            <guid>https://www.elle.co.kr/article/80243</guid>
-            <pubDate>Fri, 01 Sep 2023 19:10:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/37515a09-8834-436d-8dd6-e91ebd27c7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
