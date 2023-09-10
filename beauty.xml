@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-09-10T18:14:43.528Z</updated>
+    <updated>2023-09-10T19:11:48.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피부 타입별 환절기 고민 솔루션_선배’s 어드바이스 #183]]></title>
+        <id>https://www.elle.co.kr/article/80372</id>
+        <link href="https://www.elle.co.kr/article/80372"/>
+        <updated>2023-09-10T19:10:11.873Z</updated>
+        <content type="html"><![CDATA['처서 매직’처럼 갑자기 달라진 피부 환경, 건강하게 적응하는 법은?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5분 컷! 중단발 헤어 스타일링 HOW TO]]></title>
         <id>https://www.elle.co.kr/article/80361</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/80201"/>
         <updated>2023-09-01T19:09:53.119Z</updated>
         <content type="html"><![CDATA[올가을엔 어떤 향기와 사랑에 빠져볼까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파우더부터 리퀴드 타입까지! 휘인이 사용하는 일곱 가지 블러셔]]></title>
-        <id>https://www.elle.co.kr/article/80187</id>
-        <link href="https://www.elle.co.kr/article/80187"/>
-        <updated>2023-08-31T10:13:31.809Z</updated>
-        <content type="html"><![CDATA[블러셔 유목민들에게 고합니다. '코덕' 휘인이 소개하는 인생 블러셔에 주목하세요.]]></content>
     </entry>
 </feed>
