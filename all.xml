@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 11:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 12:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -863,6 +863,7 @@
             <guid>https://www.elle.co.kr/article/80358</guid>
             <pubDate>Wed, 06 Sep 2023 02:17:45 GMT</pubDate>
             <content:encoded><![CDATA[현아의 알록달록 크로셰 비니부터 아이린의 크로셰 버킷햇까지! 섬세하고 소박한 취향을 드러낼 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/03/13d93588-56be-4f86-ba2f-8babce4b2f0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[따라해 볼까? 윤승아의 지속 가능한 다이어트 방법 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1127,7 +1128,6 @@
             <guid>https://www.elle.co.kr/article/80441</guid>
             <pubDate>Thu, 07 Sep 2023 16:16:27 GMT</pubDate>
             <content:encoded><![CDATA[패션 아이콘이 된 4명의 슈퍼모델이 카메라 앞에 섰다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/fe2dc9e1-5a77-4997-8890-f43d4da5202a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다> (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1135,7 +1135,6 @@
             <guid>https://www.elle.co.kr/article/80437</guid>
             <pubDate>Wed, 06 Sep 2023 16:17:22 GMT</pubDate>
             <content:encoded><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/877d6c4d-9846-46b3-9344-ef5ba0fc328b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리는 훨씬 끈질기다: 서울국제여성영화제 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1143,14 +1142,12 @@
             <guid>https://www.elle.co.kr/article/80440</guid>
             <pubDate>Wed, 06 Sep 2023 16:17:22 GMT</pubDate>
             <content:encoded><![CDATA[여성 영화인들은 척박한 환경에서도 손을 맞잡고, 껴안고, 위로하며 뚜벅뚜벅 다양성의 길을 걸어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/6e4ef8b0-1f3c-489b-8522-1cdcd78518da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/80446</link>
             <guid>https://www.elle.co.kr/article/80446</guid>
             <pubDate>Wed, 06 Sep 2023 10:13:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/3ed654a0-65e7-4a4d-b87e-14e30486ed74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['경이로운 소문 2' 종영, 모든 악을 흡수한 진선규의 최후가 공개됐다 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
