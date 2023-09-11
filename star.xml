@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 06:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 07:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://www.elle.co.kr/article/80456</link>
             <guid>https://www.elle.co.kr/article/80456</guid>
             <pubDate>Mon, 11 Sep 2023 03:13:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/6c12249f-3abf-4fe8-97fe-76a8aa752035.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다>]]></title>
