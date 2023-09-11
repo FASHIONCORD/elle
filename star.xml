@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 08:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 09:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이규한-유정, 두 번째 열애설 끝에 공개 연애 시작! (ft. 첫 만남 하트 시그널)]]></title>
+            <link>https://www.elle.co.kr/article/80460</link>
+            <guid>https://www.elle.co.kr/article/80460</guid>
+            <pubDate>Mon, 11 Sep 2023 09:13:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/144ec93d-0e79-448d-a183-503fd390295c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박수홍이 '32년 인연' 유재석에게 "미쳤다"고 한 이유]]></title>
             <link>https://www.elle.co.kr/article/80456</link>
@@ -57,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/80420</guid>
             <pubDate>Wed, 06 Sep 2023 16:16:40 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e348adb1-c13e-40cc-abbb-0842e21ca19b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럽스타 주고 받는 커플, 유빈-권순우 근황.jpg]]></title>
-            <link>https://www.elle.co.kr/article/80418</link>
-            <guid>https://www.elle.co.kr/article/80418</guid>
-            <pubDate>Wed, 06 Sep 2023 11:10:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/5f71a9e7-1af8-4f7c-b35b-2e3b4965c408.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
