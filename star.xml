@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 10:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 11:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아이 러브 마이 바디' 화사, 건강한 체형 위해 절대 하지 않는 것 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/80463</link>
+            <guid>https://www.elle.co.kr/article/80463</guid>
+            <pubDate>Mon, 11 Sep 2023 11:11:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/4194c7f3-16a0-4446-a9ab-817e38b9c30e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이규한-유정, 두 번째 열애설 끝에 공개 연애 시작! (ft. 첫 만남 하트 시그널)]]></title>
             <link>https://www.elle.co.kr/article/80460</link>
@@ -57,13 +64,6 @@
             <pubDate>Thu, 07 Sep 2023 09:12:39 GMT</pubDate>
             <content:encoded><![CDATA["스스로 만족해 버리면 좋은 배우가 될 수 없겠다고 생각했어요. 그 마음으로 저를 다잡아요." ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/8321795b-12a5-4d18-a1d8-c3440875b0f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
-            <link>https://www.elle.co.kr/article/80420</link>
-            <guid>https://www.elle.co.kr/article/80420</guid>
-            <pubDate>Wed, 06 Sep 2023 16:16:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e348adb1-c13e-40cc-abbb-0842e21ca19b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
