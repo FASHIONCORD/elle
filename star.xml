@@ -1,68 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 04:16:08 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이찬혁이 만든 불후의 이별곡 '어사널사'의 숨겨진 비밀 (ft. 해병대)]]></title>
-            <link>https://www.elle.co.kr/article/80464</link>
-            <guid>https://www.elle.co.kr/article/80464</guid>
-            <pubDate>Tue, 12 Sep 2023 04:14:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/60316c8e-8534-40e9-97aa-0718727ff850.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이 러브 마이 바디' 화사, 건강한 체형 위해 절대 하지 않는 것 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80463</link>
-            <guid>https://www.elle.co.kr/article/80463</guid>
-            <pubDate>Mon, 11 Sep 2023 11:11:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/4194c7f3-16a0-4446-a9ab-817e38b9c30e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이규한-유정, 두 번째 열애설 끝에 공개 연애 시작! (ft. 첫 만남 하트 시그널)]]></title>
-            <link>https://www.elle.co.kr/article/80460</link>
-            <guid>https://www.elle.co.kr/article/80460</guid>
-            <pubDate>Mon, 11 Sep 2023 09:13:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/144ec93d-0e79-448d-a183-503fd390295c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박수홍이 '32년 인연' 유재석에게 "미쳤다"고 한 이유]]></title>
-            <link>https://www.elle.co.kr/article/80456</link>
-            <guid>https://www.elle.co.kr/article/80456</guid>
-            <pubDate>Mon, 11 Sep 2023 03:13:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/6c12249f-3abf-4fe8-97fe-76a8aa752035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다>]]></title>
-            <link>https://www.elle.co.kr/article/80437</link>
-            <guid>https://www.elle.co.kr/article/80437</guid>
-            <pubDate>Sat, 09 Sep 2023 01:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/877d6c4d-9846-46b3-9344-ef5ba0fc328b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장영란이 단 10일 만에 4.4kg 감량한 진짜 비결 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80447</link>
-            <guid>https://www.elle.co.kr/article/80447</guid>
-            <pubDate>Thu, 07 Sep 2023 12:22:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/54b768e1-7d75-4118-b6e1-a0bdc84116f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/80446</link>
-            <guid>https://www.elle.co.kr/article/80446</guid>
-            <pubDate>Thu, 07 Sep 2023 12:22:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/3ed654a0-65e7-4a4d-b87e-14e30486ed74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대호84' 김대호, MBC에 사표 낸 적 있다?! 프리 선언에 대한 솔직한 생각]]></title>
-            <link>https://www.elle.co.kr/article/80429</link>
-            <guid>https://www.elle.co.kr/article/80429</guid>
-            <pubDate>Thu, 07 Sep 2023 10:13:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/1d07a68a-39d7-486c-aef7-62ed4d4aec45.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-09-12T05:13:14.197Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬혁이 만든 불후의 이별곡 '어사널사'의 숨겨진 비밀 (ft. 해병대)]]></title>
+        <id>https://www.elle.co.kr/article/80464</id>
+        <link href="https://www.elle.co.kr/article/80464"/>
+        <updated>2023-09-12T04:14:45.663Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아이 러브 마이 바디' 화사, 건강한 체형 위해 절대 하지 않는 것 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80463</id>
+        <link href="https://www.elle.co.kr/article/80463"/>
+        <updated>2023-09-11T11:11:06.735Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이규한-유정, 두 번째 열애설 끝에 공개 연애 시작! (ft. 첫 만남 하트 시그널)]]></title>
+        <id>https://www.elle.co.kr/article/80460</id>
+        <link href="https://www.elle.co.kr/article/80460"/>
+        <updated>2023-09-11T09:13:49.692Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박수홍이 '32년 인연' 유재석에게 "미쳤다"고 한 이유]]></title>
+        <id>https://www.elle.co.kr/article/80456</id>
+        <link href="https://www.elle.co.kr/article/80456"/>
+        <updated>2023-09-11T03:13:49.328Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다>]]></title>
+        <id>https://www.elle.co.kr/article/80437</id>
+        <link href="https://www.elle.co.kr/article/80437"/>
+        <updated>2023-09-09T01:42:46.068Z</updated>
+        <content type="html"><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장영란이 단 10일 만에 4.4kg 감량한 진짜 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80447</id>
+        <link href="https://www.elle.co.kr/article/80447"/>
+        <updated>2023-09-07T12:22:30.818Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/80446</id>
+        <link href="https://www.elle.co.kr/article/80446"/>
+        <updated>2023-09-07T12:22:30.827Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대호84' 김대호, MBC에 사표 낸 적 있다?! 프리 선언에 대한 솔직한 생각]]></title>
+        <id>https://www.elle.co.kr/article/80429</id>
+        <link href="https://www.elle.co.kr/article/80429"/>
+        <updated>2023-09-07T10:13:02.055Z</updated>
+    </entry>
+</feed>
