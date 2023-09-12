@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-09-12T08:24:52.025Z</updated>
+    <updated>2023-09-12T09:13:15.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반짝이는 메탈릭 트렌드]]></title>
+        <id>https://www.elle.co.kr/article/80461</id>
+        <link href="https://www.elle.co.kr/article/80461"/>
+        <updated>2023-09-12T09:11:56.905Z</updated>
+        <content type="html"><![CDATA[짜릿한 메탈릭 파워.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핵심은 로라이즈! 요즘 맥시스커트 트렌드]]></title>
         <id>https://www.elle.co.kr/article/80498</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/80417"/>
         <updated>2023-09-08T09:11:52.142Z</updated>
         <content type="html"><![CDATA[2023년 선선해지는 계절에 새롭게 만나볼 브랜드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힙한 스타일을 위한 단 하나의 액세서리 #초커]]></title>
-        <id>https://www.elle.co.kr/article/80392</id>
-        <link href="https://www.elle.co.kr/article/80392"/>
-        <updated>2023-09-07T16:15:22.881Z</updated>
-        <content type="html"><![CDATA[제니부터 우기, 윈터까지! 식을 줄 모르는 초커 유행.]]></content>
     </entry>
 </feed>
