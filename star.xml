@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 03:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 04:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이찬혁이 만든 불후의 이별곡 '어사널사'의 숨겨진 비밀 (ft. 해병대)]]></title>
+            <link>https://www.elle.co.kr/article/80464</link>
+            <guid>https://www.elle.co.kr/article/80464</guid>
+            <pubDate>Tue, 12 Sep 2023 04:14:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/60316c8e-8534-40e9-97aa-0718727ff850.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아이 러브 마이 바디' 화사, 건강한 체형 위해 절대 하지 않는 것 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/80463</link>
@@ -56,14 +63,6 @@
             <guid>https://www.elle.co.kr/article/80429</guid>
             <pubDate>Thu, 07 Sep 2023 10:13:02 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/1d07a68a-39d7-486c-aef7-62ed4d4aec45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유정후가 배우를 꿈꾸는 이유]]></title>
-            <link>https://www.elle.co.kr/article/80422</link>
-            <guid>https://www.elle.co.kr/article/80422</guid>
-            <pubDate>Thu, 07 Sep 2023 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA["스스로 만족해 버리면 좋은 배우가 될 수 없겠다고 생각했어요. 그 마음으로 저를 다잡아요." ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/8321795b-12a5-4d18-a1d8-c3440875b0f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
