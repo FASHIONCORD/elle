@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-09-12T05:13:14.197Z</updated>
+    <updated>2023-09-12T06:16:30.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은퇴작 발표해 놓고 매일 회사 나온다는 미야자키 하야오 근황 (ft. 예고편X스틸컷)]]></title>
+        <id>https://www.elle.co.kr/article/80525</id>
+        <link href="https://www.elle.co.kr/article/80525"/>
+        <updated>2023-09-12T06:15:34.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데뷔 26년차 이효리가 제주 보컬 학원 주 3회 나가게 된 배경]]></title>
+        <id>https://www.elle.co.kr/article/80500</id>
+        <link href="https://www.elle.co.kr/article/80500"/>
+        <updated>2023-09-12T06:15:34.002Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이찬혁이 만든 불후의 이별곡 '어사널사'의 숨겨진 비밀 (ft. 해병대)]]></title>
         <id>https://www.elle.co.kr/article/80464</id>
@@ -41,17 +53,5 @@
         <id>https://www.elle.co.kr/article/80447</id>
         <link href="https://www.elle.co.kr/article/80447"/>
         <updated>2023-09-07T12:22:30.818Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/80446</id>
-        <link href="https://www.elle.co.kr/article/80446"/>
-        <updated>2023-09-07T12:22:30.827Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대호84' 김대호, MBC에 사표 낸 적 있다?! 프리 선언에 대한 솔직한 생각]]></title>
-        <id>https://www.elle.co.kr/article/80429</id>
-        <link href="https://www.elle.co.kr/article/80429"/>
-        <updated>2023-09-07T10:13:02.055Z</updated>
     </entry>
 </feed>
