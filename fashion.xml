@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 18:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 19:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅 백부터 실버 백, 호보백까지! 가을 맞이 데일리 가방 쇼핑리스트 8]]></title>
+            <link>https://www.elle.co.kr/article/80505</link>
+            <guid>https://www.elle.co.kr/article/80505</guid>
+            <pubDate>Tue, 12 Sep 2023 19:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[스타들은 무슨 가방 들까? ‘손민수’하고 싶은 가을을 위한 데일리 백.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/9749b3dc-9c4d-4ebc-8d4e-9d8ae95c6bb3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반짝이는 메탈릭 트렌드]]></title>
             <link>https://www.elle.co.kr/article/80461</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Sep 2023 19:09:43 GMT</pubDate>
             <content:encoded><![CDATA[트렌디한 발레코어 룩의 머스트 해브 아이템! 사랑스러운 메리제인 슈즈 구매 좌표를 눈여겨 보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/61c10873-cc41-4c42-921e-e0b188fd8c2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 블랙핑크 스타일리스트가 만든 패션 브랜드?]]></title>
-            <link>https://www.elle.co.kr/article/80417</link>
-            <guid>https://www.elle.co.kr/article/80417</guid>
-            <pubDate>Fri, 08 Sep 2023 09:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 선선해지는 계절에 새롭게 만나볼 브랜드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/8958eba1-b942-4c9e-966e-3203077396cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
