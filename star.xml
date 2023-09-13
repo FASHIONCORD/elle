@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 05:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 06:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원작과 결말 다르다고? 한국형 히어로물 '무빙' 인기 요인 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/80538</link>
+            <guid>https://www.elle.co.kr/article/80538</guid>
+            <pubDate>Wed, 13 Sep 2023 06:15:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/07f2d471-7ebf-4cf8-be30-bd107fcede72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은퇴작 발표해 놓고 매일 회사 나온다는 미야자키 하야오 근황 (ft. 예고편X스틸컷)]]></title>
             <link>https://www.elle.co.kr/article/80525</link>
@@ -56,13 +63,6 @@
             <pubDate>Sat, 09 Sep 2023 01:42:46 GMT</pubDate>
             <content:encoded><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/877d6c4d-9846-46b3-9344-ef5ba0fc328b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장영란이 단 10일 만에 4.4kg 감량한 진짜 비결 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80447</link>
-            <guid>https://www.elle.co.kr/article/80447</guid>
-            <pubDate>Thu, 07 Sep 2023 12:22:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/54b768e1-7d75-4118-b6e1-a0bdc84116f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

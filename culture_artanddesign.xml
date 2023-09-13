@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 05:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 06:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴쿠버에서 영화 CG 작업을 하는 프로 재택러 미르의 랜선 집들이 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/80591</link>
+            <guid>https://www.elle.co.kr/article/80591</guid>
+            <pubDate>Wed, 13 Sep 2023 06:16:36 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/7a31472c-7132-4eae-bb14-2788abad0b02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연예인이 더 즐겼다? 프리즈 2023]]></title>
             <link>https://www.elle.co.kr/article/80586</link>
@@ -37,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/80462</guid>
             <pubDate>Sat, 09 Sep 2023 15:12:41 GMT</pubDate>
             <content:encoded><![CDATA[호기심 많고 독립적이며 자신을 무한 긍정하는 사람들을 위해 디자인한 엉덩이 모양의 꽃병, 여...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/2eff4358-c932-4da8-a2c6-f7063deeeb7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤넬과 프리즈가 또 한 번 조우한 이유]]></title>
@@ -91,13 +97,6 @@
             <guid>https://www.elle.co.kr/article/80029</guid>
             <pubDate>Sat, 26 Aug 2023 16:14:16 GMT</pubDate>
             <content:encoded><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/80169</link>
-            <guid>https://www.elle.co.kr/article/80169</guid>
-            <pubDate>Fri, 25 Aug 2023 19:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content:encoded>
         </item>
     </channel>
 </rss>
