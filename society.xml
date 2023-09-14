@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-09-14T04:23:09.754Z</updated>
+    <updated>2023-09-14T05:12:56.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 나의 사랑스러운 털뭉치]]></title>
+        <id>https://www.elle.co.kr/ellevoice/essay/80423</id>
+        <link href="https://www.elle.co.kr/ellevoice/essay/80423"/>
+        <updated>2023-09-14T05:12:55.342Z</updated>
+        <content type="html"><![CDATA[정지음 작가에게는 사랑스러운 털뭉치가 있다. 출근하기 직전에는 앉혀놓고 타이르는 것도 잊지 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이번 추석은 6일 연휴! 10월 2일 임시 공휴일 확정 (ft. 미리 연차 쓴 사람)]]></title>
         <id>https://www.elle.co.kr/article/80316</id>
@@ -48,11 +55,5 @@
         <id>https://www.elle.co.kr/article/80125</id>
         <link href="https://www.elle.co.kr/article/80125"/>
         <updated>2023-08-31T01:47:20.640Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년엔 처서 매직 없다?! 2차 장마 시작된 현재 날씨 상황]]></title>
-        <id>https://www.elle.co.kr/article/80013</id>
-        <link href="https://www.elle.co.kr/article/80013"/>
-        <updated>2023-08-31T00:51:25.166Z</updated>
     </entry>
 </feed>
