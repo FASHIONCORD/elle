@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 14:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 15:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -809,6 +809,20 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTVfODIg/MDAxNjYzMjE2MTE1NjYz.WnSrcQtt3fKGoHNweSK-jiJW4o0gOCBC5bFeSSQcWTMg.ik0BcDYYOcHpTfh6uEW-CmkLLs-QsUH-oDcyS7iIfrEg.JPEG/IMh211zsvexR4mi7eJHXjIEu5dhA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자유분방한 카우걸로 변신! (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/80604</link>
+            <guid>https://www.elle.co.kr/article/80604</guid>
+            <pubDate>Thu, 14 Sep 2023 15:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[서부 영화 속 주인공처럼.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[클럽으로 변신한 피팅룸? 서울에 새롭게 문을 연 패션 스토어 3 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/80593</link>
+            <guid>https://www.elle.co.kr/article/80593</guid>
+            <pubDate>Thu, 14 Sep 2023 15:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[블랙핑크와 한소희가 선택한 그 브랜드!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연예인이 더 즐겼다? 프리즈 2023 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/80586</link>
             <guid>https://www.elle.co.kr/article/80586</guid>
@@ -849,20 +863,6 @@
             <guid>https://www.elle.co.kr/article/80534</guid>
             <pubDate>Mon, 11 Sep 2023 08:17:30 GMT</pubDate>
             <content:encoded><![CDATA[로우클래식, MCM, 디올이 마련한 특별한 이벤트.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빅 백부터 실버 백, 호보백까지! 가을 맞이 데일리 가방 쇼핑리스트 8 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/80505</link>
-            <guid>https://www.elle.co.kr/article/80505</guid>
-            <pubDate>Tue, 12 Sep 2023 19:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[스타들은 무슨 가방 들까? ‘손민수’하고 싶은 가을을 위한 데일리 백.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반짝이는 메탈릭 트렌드 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/80461</link>
-            <guid>https://www.elle.co.kr/article/80461</guid>
-            <pubDate>Tue, 12 Sep 2023 09:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[짜릿한 메탈릭 파워.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비누 비누, 예쁜 비누 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1106,6 +1106,7 @@
             <link>https://www.elle.co.kr/article/80614</link>
             <guid>https://www.elle.co.kr/article/80614</guid>
             <pubDate>Thu, 14 Sep 2023 09:12:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/ae5d3672-7cdc-44d9-b0da-2ec3b535ee52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투표 시작된 '스우파2' 메가 크루 영상 모음 (feat. 크루별 추가 미션?) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1113,18 +1114,21 @@
             <guid>https://www.elle.co.kr/article/80588</guid>
             <pubDate>Wed, 13 Sep 2023 05:12:38 GMT</pubDate>
             <content:encoded><![CDATA[첫 탈락 크루와 아쉬운 작별도.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/6957f53f-22ab-4e59-951e-ac41c6a7921c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원작과 결말 다르다고? 한국형 히어로물 '무빙' 인기 요인 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/80538</link>
             <guid>https://www.elle.co.kr/article/80538</guid>
             <pubDate>Mon, 11 Sep 2023 09:14:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/07f2d471-7ebf-4cf8-be30-bd107fcede72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은퇴작 발표해 놓고 매일 회사 나온다는 미야자키 하야오 근황 (ft. 예고편X스틸컷) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/80525</link>
             <guid>https://www.elle.co.kr/article/80525</guid>
             <pubDate>Mon, 11 Sep 2023 03:14:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/8eaee71e-69e5-407c-8996-c7a591bf2ef4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전설이 된 80년대 슈퍼모델들의 다큐멘터리 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1189,12 +1193,14 @@
             <link>https://www.elle.co.kr/article/80592</link>
             <guid>https://www.elle.co.kr/article/80592</guid>
             <pubDate>Wed, 13 Sep 2023 07:13:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/c074032e-793e-4208-a2ec-eb9e1ae8e284.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밴쿠버에서 영화 CG 작업을 하는 프로 재택러 미르의 랜선 집들이 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/80591</link>
             <guid>https://www.elle.co.kr/article/80591</guid>
             <pubDate>Wed, 13 Sep 2023 06:16:36 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/7a31472c-7132-4eae-bb14-2788abad0b02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연예인이 더 즐겼다? 프리즈 2023 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1202,6 +1208,7 @@
             <guid>https://www.elle.co.kr/article/80586</guid>
             <pubDate>Wed, 13 Sep 2023 03:14:15 GMT</pubDate>
             <content:encoded><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/02ba3f2f-4cfe-4c55-b3e4-86f377daaa23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트와 뷰티의 만남 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1209,6 +1216,7 @@
             <guid>https://www.elle.co.kr/article/80557</guid>
             <pubDate>Tue, 12 Sep 2023 15:13:38 GMT</pubDate>
             <content:encoded><![CDATA[아티스트와 협업을 통한 뷰티 브랜드의 색다른 시각 언어는 우리의 선택과 소비를 더욱 풍요롭게...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/4b1a421d-5252-4111-863b-cabe244ad5f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리즈가 끝나도 예술은 계속된다! 서울을 물들인 패션 전시 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
