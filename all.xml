@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 00:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 01:47:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1045,6 +1045,7 @@
             <link>https://www.elle.co.kr/article/80420</link>
             <guid>https://www.elle.co.kr/article/80420</guid>
             <pubDate>Tue, 05 Sep 2023 10:13:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e348adb1-c13e-40cc-abbb-0842e21ca19b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1052,18 +1053,21 @@
             <guid>https://www.elle.co.kr/article/79835</guid>
             <pubDate>Fri, 11 Aug 2023 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/74a7707e-fe94-4f04-9f0f-e87411fa65ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노엘 갤러거, 11월 내한 확정! 한국 팬들에게 던진 그 다운 한마디 (ft. South) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/79576</link>
             <guid>https://www.elle.co.kr/article/79576</guid>
             <pubDate>Sat, 29 Jul 2023 12:21:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/ea442e13-f0d9-454c-8afc-5c558fb6f3bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/79434</link>
             <guid>https://www.elle.co.kr/article/79434</guid>
             <pubDate>Tue, 25 Jul 2023 10:14:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/2a9887ca-816c-4ea6-90b0-fbc36ed50393.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양조위가 뉴진스 '쿨 위드 유' 뮤직비디오에 노 개런티 출연한 이유 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1129,18 +1133,21 @@
             <guid>https://www.elle.co.kr/article/80588</guid>
             <pubDate>Wed, 13 Sep 2023 05:12:38 GMT</pubDate>
             <content:encoded><![CDATA[첫 탈락 크루와 아쉬운 작별도.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/6957f53f-22ab-4e59-951e-ac41c6a7921c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원작과 결말 다르다고? 한국형 히어로물 '무빙' 인기 요인 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/80538</link>
             <guid>https://www.elle.co.kr/article/80538</guid>
             <pubDate>Mon, 11 Sep 2023 09:14:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/07f2d471-7ebf-4cf8-be30-bd107fcede72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은퇴작 발표해 놓고 매일 회사 나온다는 미야자키 하야오 근황 (ft. 예고편X스틸컷) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/80525</link>
             <guid>https://www.elle.co.kr/article/80525</guid>
             <pubDate>Mon, 11 Sep 2023 03:14:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/8eaee71e-69e5-407c-8996-c7a591bf2ef4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전설이 된 80년대 슈퍼모델들의 다큐멘터리 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1148,6 +1155,7 @@
             <guid>https://www.elle.co.kr/article/80441</guid>
             <pubDate>Thu, 07 Sep 2023 16:16:27 GMT</pubDate>
             <content:encoded><![CDATA[패션 아이콘이 된 4명의 슈퍼모델이 카메라 앞에 섰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/fe2dc9e1-5a77-4997-8890-f43d4da5202a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다> (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1302,12 +1310,14 @@
             <guid>https://www.elle.co.kr/article/80489</guid>
             <pubDate>Wed, 13 Sep 2023 08:16:29 GMT</pubDate>
             <content:encoded><![CDATA[아기자기 내가 좋아하는 것을 모으고 모아 간직하는 사랑스러운 소녀들의 방.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/aa7310a8-0b5c-4163-8182-18ee11ef9d8b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코스모스 꽃길, 산책 할까 라이딩 할까? 선선한 가을맞이 꽃축제 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/80499</link>
             <guid>https://www.elle.co.kr/article/80499</guid>
             <pubDate>Wed, 13 Sep 2023 06:16:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/e426b476-f091-4c2b-b399-0314e36c6e05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 도쿄의 라이프 스타일 숍 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1315,6 +1325,7 @@
             <guid>https://www.elle.co.kr/article/80487</guid>
             <pubDate>Tue, 12 Sep 2023 07:13:19 GMT</pubDate>
             <content:encoded><![CDATA[포근한 블랭킷이 생각나는 바야흐로 가을입니다. 새로운 계절을 맞아 내 공간을 재정비하고 싶다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/f49cde6c-a99c-4a03-8e6d-9ccc576ec218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오롯이 나에게 집중하는 시간! 혼자서 즐기는 차 한 잔의 여유 #마실마실 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1322,6 +1333,7 @@
             <guid>https://www.elle.co.kr/article/80479</guid>
             <pubDate>Mon, 11 Sep 2023 08:17:39 GMT</pubDate>
             <content:encoded><![CDATA[예약제로 운영되는 서울의 티룸 두 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/de562ccf-3073-468d-ae64-38ee941c730f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캐주얼 다이닝부터 유러피안 레스토랑까지! 경리 따라 맛집 투어 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1329,24 +1341,28 @@
             <guid>https://www.elle.co.kr/article/80469</guid>
             <pubDate>Mon, 11 Sep 2023 03:14:42 GMT</pubDate>
             <content:encoded><![CDATA[경리의 SNS 속 분위기 좋은 레스토랑은 어디? 이태원과 삼청동에서 맛있는 한 끼를 경험해 보...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/3997ab77-6dd4-40fe-abf7-08820f58dad6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브루클린 아파트의 삶을 누구보다 즐기는 이온스의 랜선 집들이 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/80457</link>
             <guid>https://www.elle.co.kr/article/80457</guid>
             <pubDate>Thu, 07 Sep 2023 10:14:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/af141a68-71a0-4a91-96b9-fde8ae8bbc24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통통한 대하부터 전어, 꽃게까지! '먹잘알' 바빠지는 가을 먹거리 축제 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/80410</link>
             <guid>https://www.elle.co.kr/article/80410</guid>
             <pubDate>Sat, 09 Sep 2023 01:43:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/276a584b-2b75-4398-ac95-9ed86fabd641.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스푸르스 마거스가 제안하는 가능한 세계들 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/80398</link>
             <guid>https://www.elle.co.kr/article/80398</guid>
             <pubDate>Tue, 05 Sep 2023 02:18:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/1cf44305-e043-4a29-9e3b-42a6fffa9354.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이번 추석은 6일 연휴! 10월 2일 임시 공휴일 확정 (ft. 미리 연차 쓴 사람) (엘르 코리아 ─ 소사이어티)]]></title>
