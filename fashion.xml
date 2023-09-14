@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 07:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 08:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연예인이 더 즐겼다? 프리즈 2023]]></title>
+            <link>https://www.elle.co.kr/article/80586</link>
+            <guid>https://www.elle.co.kr/article/80586</guid>
+            <pubDate>Thu, 14 Sep 2023 08:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/02ba3f2f-4cfe-4c55-b3e4-86f377daaa23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니가 셔츠를 활용하는 법! 셀럽의 오버사이즈 셔츠 스타일링 5]]></title>
             <link>https://www.elle.co.kr/article/80579</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Sep 2023 09:11:56 GMT</pubDate>
             <content:encoded><![CDATA[짜릿한 메탈릭 파워.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/d9179a05-d367-4926-8c5e-ccb65432b97a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핵심은 로라이즈! 요즘 맥시스커트 트렌드]]></title>
-            <link>https://www.elle.co.kr/article/80498</link>
-            <guid>https://www.elle.co.kr/article/80498</guid>
-            <pubDate>Mon, 11 Sep 2023 20:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[제니와 리사도 입었다! 길수록 트렌디한 맥시스커트 스타일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/c59f0ed5-80e3-41a8-897d-d2d1eb6a6d3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
