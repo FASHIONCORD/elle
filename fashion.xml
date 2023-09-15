@@ -4,15 +4,24 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 14:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 15:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자유분방한 카우걸로 변신!]]></title>
+            <link>https://www.elle.co.kr/article/80604</link>
+            <guid>https://www.elle.co.kr/article/80604</guid>
+            <pubDate>Fri, 15 Sep 2023 15:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[서부 영화 속 주인공처럼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/afc2d3d6-67b2-4e57-9451-2e09921ca990.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10초 만에 완성! 셀렙들이 푹 빠진 타투 스티커]]></title>
             <link>https://www.elle.co.kr/article/80602</link>
             <guid>https://www.elle.co.kr/article/80602</guid>
             <pubDate>Fri, 15 Sep 2023 10:13:15 GMT</pubDate>
             <content:encoded><![CDATA[한소희부터 르세라핌 허윤진도 반했다? 그 어떤 액세서리보다 '힙'한 셀프 타투 트렌드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/c248dbdf-cc0b-4cd0-bb2c-c02bab3d06a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클럽으로 변신한 피팅룸? 서울에 새롭게 문을 연 패션 스토어 3]]></title>
@@ -20,6 +29,7 @@
             <guid>https://www.elle.co.kr/article/80593</guid>
             <pubDate>Thu, 14 Sep 2023 15:12:56 GMT</pubDate>
             <content:encoded><![CDATA[블랙핑크와 한소희가 선택한 그 브랜드!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/27e87c81-016b-490f-95cb-81f24c1bbc8a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연예인이 더 즐겼다? 프리즈 2023]]></title>
@@ -27,6 +37,7 @@
             <guid>https://www.elle.co.kr/article/80586</guid>
             <pubDate>Thu, 14 Sep 2023 08:15:54 GMT</pubDate>
             <content:encoded><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/02ba3f2f-4cfe-4c55-b3e4-86f377daaa23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니가 셔츠를 활용하는 법! 셀럽의 오버사이즈 셔츠 스타일링 5]]></title>
@@ -59,14 +70,6 @@
             <pubDate>Wed, 13 Sep 2023 08:15:32 GMT</pubDate>
             <content:encoded><![CDATA[올드 머니 룩은 로열 레이디가 '찐'이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/71031597-9f27-49d1-b026-34d2792f4a59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리즈가 끝나도 예술은 계속된다! 서울을 물들인 패션 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/80534</link>
-            <guid>https://www.elle.co.kr/article/80534</guid>
-            <pubDate>Wed, 13 Sep 2023 03:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[로우클래식, MCM, 디올이 마련한 특별한 이벤트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/9ce25f7e-173c-4c5d-948b-3aaf35f9a137.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
