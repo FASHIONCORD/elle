@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 10:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 11:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양볼은 탱탱하게, 턱선은 날렵하게]]></title>
+            <link>https://www.elle.co.kr/article/80490</link>
+            <guid>https://www.elle.co.kr/article/80490</guid>
+            <pubDate>Fri, 15 Sep 2023 11:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[시간과 중력을 거슬러 양볼은 좀 더 탱탱하게, 턱 라인은 좀더 날렵하게 만들어 줄 탄력 업(U...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/56cdedf2-1638-4e3c-8272-86e74daa94cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비누 비누, 예쁜 비누]]></title>
             <link>https://www.elle.co.kr/article/80445</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/80325</guid>
             <pubDate>Thu, 07 Sep 2023 12:21:48 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/f9a48773-1002-4296-9ff6-3d7e350fded0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["베지테리언 아닌 플렉시테리언" 고백한 전효성, 완벽하지 않아도 괜찮아]]></title>
-            <link>https://www.elle.co.kr/article/80305</link>
-            <guid>https://www.elle.co.kr/article/80305</guid>
-            <pubDate>Wed, 06 Sep 2023 11:10:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c386e86a-a17c-4dad-90e7-f0996ed8f48f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
