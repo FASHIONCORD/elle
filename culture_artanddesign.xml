@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 00:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 01:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃부채를 펼친듯, 방 한켠을 화사하게 만드는 조명]]></title>
+            <link>https://www.elle.co.kr/article/80610</link>
+            <guid>https://www.elle.co.kr/article/80610</guid>
+            <pubDate>Fri, 15 Sep 2023 01:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스 디자이너 잉가 상페와 리버티 런던의 컬래버레이션]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/295070fb-aea7-446e-ad31-4284bde260ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진짜 미술 애호가, RM 덕에 만개하는 조선 왕실 최고급 예복 정보.txt]]></title>
             <link>https://www.elle.co.kr/article/80592</link>
@@ -35,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/80557</guid>
             <pubDate>Tue, 12 Sep 2023 15:13:38 GMT</pubDate>
             <content:encoded><![CDATA[아티스트와 협업을 통한 뷰티 브랜드의 색다른 시각 언어는 우리의 선택과 소비를 더욱 풍요롭게...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/4b1a421d-5252-4111-863b-cabe244ad5f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리즈가 끝나도 예술은 계속된다! 서울을 물들인 패션 전시 3]]></title>
@@ -90,12 +97,6 @@
             <guid>https://www.elle.co.kr/article/80211</guid>
             <pubDate>Wed, 30 Aug 2023 05:13:03 GMT</pubDate>
             <content:encoded><![CDATA[실비아헬스 고명진 대표를  앞으로 나아갈 수 있게 하는 힘.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[색채 수집이 빚어낸 향연, '아홉 개의 색, 아홉 개의 가구' 아뜰리에 에르메스 박미나 개인전 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/80218</link>
-            <guid>https://www.elle.co.kr/article/80218</guid>
-            <pubDate>Tue, 29 Aug 2023 02:48:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
