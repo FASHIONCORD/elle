@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 16:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 17:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -869,6 +869,7 @@
             <link>https://www.elle.co.kr/article/80601</link>
             <guid>https://www.elle.co.kr/article/80601</guid>
             <pubDate>Fri, 15 Sep 2023 00:51:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/4d5a1490-9dc2-4f3c-96b9-2aad3a315b0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뒤돌아보게 만드는 향기로운 샴푸.zip_선배’s 어드바이스 #184 (엘르 코리아 ─ 뷰티)]]></title>
@@ -876,6 +877,7 @@
             <guid>https://www.elle.co.kr/article/80521</guid>
             <pubDate>Fri, 15 Sep 2023 19:10:13 GMT</pubDate>
             <content:encoded><![CDATA[향수가 아니라 샴푸라고? 가을바람을 타고 은은하게 퍼지는 샴푸향!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/edfa906b-107b-4a70-af8b-10336ffb5354.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 당장 셀피 각! 전효성의 러블리 메이크업 튜토리얼 (엘르 코리아 ─ 뷰티)]]></title>
@@ -883,6 +885,7 @@
             <guid>https://www.elle.co.kr/article/80517</guid>
             <pubDate>Fri, 15 Sep 2023 15:12:08 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 &lt;셀러브리티&gt;의 인플루언서 오민혜 역을 맡은 전효성! 인플루언서가 되고 싶다면 그의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/a3d3a5b4-c790-49c9-9bf7-91ad27f4bf12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양볼은 탱탱하게, 턱선은 날렵하게 (엘르 코리아 ─ 뷰티)]]></title>
@@ -890,6 +893,7 @@
             <guid>https://www.elle.co.kr/article/80490</guid>
             <pubDate>Fri, 15 Sep 2023 11:10:36 GMT</pubDate>
             <content:encoded><![CDATA[시간과 중력을 거슬러 양볼은 좀 더 탱탱하게, 턱 라인은 좀더 날렵하게 만들어 줄 탄력 업(U...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/56cdedf2-1638-4e3c-8272-86e74daa94cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비누 비누, 예쁜 비누 (엘르 코리아 ─ 뷰티)]]></title>
@@ -897,18 +901,21 @@
             <guid>https://www.elle.co.kr/article/80445</guid>
             <pubDate>Thu, 14 Sep 2023 09:12:18 GMT</pubDate>
             <content:encoded><![CDATA['세정'이라는 본래의 용도를 차치하고 새로운 시선으로 응시한 비누. 일상 속 아름다움을 고양하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/29320c40-a4f4-407a-8928-cc2fcd2f05ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['아이 러브 마이 바디' 화사, 건강한 체형 위해 절대 하지 않는 것 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/80463</link>
             <guid>https://www.elle.co.kr/article/80463</guid>
             <pubDate>Mon, 11 Sep 2023 11:11:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/4194c7f3-16a0-4446-a9ab-817e38b9c30e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장영란이 단 10일 만에 4.4kg 감량한 진짜 비결 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/80447</link>
             <guid>https://www.elle.co.kr/article/80447</guid>
             <pubDate>Thu, 07 Sep 2023 12:22:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/54b768e1-7d75-4118-b6e1-a0bdc84116f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피부 타입별 환절기 고민 솔루션_선배’s 어드바이스 #183 (엘르 코리아 ─ 뷰티)]]></title>
@@ -916,6 +923,7 @@
             <guid>https://www.elle.co.kr/article/80372</guid>
             <pubDate>Sun, 10 Sep 2023 19:10:11 GMT</pubDate>
             <content:encoded><![CDATA['처서 매직’처럼 갑자기 달라진 피부 환경, 건강하게 적응하는 법은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/93c8725b-6f87-41a4-8fe9-6efef5588165.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강동원이 '늑대의 유혹' 레전드 등장 장면을 언급했다 (엘르 코리아 ─ 스타)]]></title>
@@ -1191,21 +1199,18 @@
             <guid>https://www.elle.co.kr/article/80610</guid>
             <pubDate>Fri, 15 Sep 2023 01:49:23 GMT</pubDate>
             <content:encoded><![CDATA[프랑스 디자이너 잉가 상페와 리버티 런던의 컬래버레이션]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/295070fb-aea7-446e-ad31-4284bde260ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 미술 애호가, RM 덕에 만개하는 조선 왕실 최고급 예복 정보.txt (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/80592</link>
             <guid>https://www.elle.co.kr/article/80592</guid>
             <pubDate>Wed, 13 Sep 2023 07:13:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/c074032e-793e-4208-a2ec-eb9e1ae8e284.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밴쿠버에서 영화 CG 작업을 하는 프로 재택러 미르의 랜선 집들이 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/80591</link>
             <guid>https://www.elle.co.kr/article/80591</guid>
             <pubDate>Wed, 13 Sep 2023 06:16:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/7a31472c-7132-4eae-bb14-2788abad0b02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연예인이 더 즐겼다? 프리즈 2023 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1213,7 +1218,6 @@
             <guid>https://www.elle.co.kr/article/80586</guid>
             <pubDate>Wed, 13 Sep 2023 03:14:15 GMT</pubDate>
             <content:encoded><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/02ba3f2f-4cfe-4c55-b3e4-86f377daaa23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트와 뷰티의 만남 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
