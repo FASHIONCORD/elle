@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 07:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 08:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴쿠버에서 영화 CG 작업을 하는 프로 재택러 미르의 랜선 집들이 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/80591</link>
+            <guid>https://www.elle.co.kr/article/80591</guid>
+            <pubDate>Mon, 18 Sep 2023 08:16:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/7a31472c-7132-4eae-bb14-2788abad0b02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투표 시작된 '스우파2' 메가 크루 영상 모음 (feat. 크루별 추가 미션?)]]></title>
             <link>https://www.elle.co.kr/article/80588</link>
@@ -60,14 +67,6 @@
             <pubDate>Wed, 13 Sep 2023 03:13:43 GMT</pubDate>
             <content:encoded><![CDATA[호기심 많고 독립적이며 자신을 무한 긍정하는 사람들을 위해 디자인한 엉덩이 모양의 꽃병, 여...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/2eff4358-c932-4da8-a2c6-f7063deeeb7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬과 프리즈가 또 한 번 조우한 이유]]></title>
-            <link>https://www.elle.co.kr/article/80488</link>
-            <guid>https://www.elle.co.kr/article/80488</guid>
-            <pubDate>Tue, 12 Sep 2023 15:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 신진 및 기성 현대 예술가들을 조명한 ‘나우 &amp; 넥스트’ 영상 시리즈를 통해 들여다보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/518ea917-51ab-41b1-bdb2-92e4e4c33da7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
