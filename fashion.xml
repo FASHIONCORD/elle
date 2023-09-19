@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-09-19T01:50:44.916Z</updated>
+    <updated>2023-09-19T02:21:07.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브라렛, 이제 꺼내 입어요]]></title>
+        <id>https://www.elle.co.kr/article/80645</id>
+        <link href="https://www.elle.co.kr/article/80645"/>
+        <updated>2023-09-19T02:20:01.320Z</updated>
+        <content type="html"><![CDATA[부끄러워하지 않아도 돼.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크부터 손흥민까지! 이번 주말, 놓쳐서는 안 될 팝업 스토어]]></title>
         <id>https://www.elle.co.kr/article/80639</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/80593"/>
         <updated>2023-09-14T15:12:56.620Z</updated>
         <content type="html"><![CDATA[블랙핑크와 한소희가 선택한 그 브랜드!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연예인이 더 즐겼다? 프리즈 2023]]></title>
-        <id>https://www.elle.co.kr/article/80586</id>
-        <link href="https://www.elle.co.kr/article/80586"/>
-        <updated>2023-09-14T08:15:54.490Z</updated>
-        <content type="html"><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content>
     </entry>
 </feed>
