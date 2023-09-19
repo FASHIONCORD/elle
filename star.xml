@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 22:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 23:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,12 +12,14 @@
             <link>https://www.elle.co.kr/article/80670</link>
             <guid>https://www.elle.co.kr/article/80670</guid>
             <pubDate>Tue, 19 Sep 2023 14:12:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/c643a009-b7b6-426b-8b6d-930c0d3da6c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데뷔 60년차, 충무로의 큰 어른 변희봉이 별세했다]]></title>
             <link>https://www.elle.co.kr/article/80669</link>
             <guid>https://www.elle.co.kr/article/80669</guid>
             <pubDate>Tue, 19 Sep 2023 03:13:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/972a3a73-73f0-462f-b99b-073288e8a2a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화사처럼 헤어 컬러 바꿔볼까? 가을에 어울리는 헤어 컬러 모음.zip]]></title>
