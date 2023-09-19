@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-09-19T02:21:07.582Z</updated>
+    <updated>2023-09-19T03:14:39.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데뷔 60년차, 충무로의 큰 어른 변희봉이 별세했다]]></title>
+        <id>https://www.elle.co.kr/article/80669</id>
+        <link href="https://www.elle.co.kr/article/80669"/>
+        <updated>2023-09-19T03:13:19.397Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화사처럼 헤어 컬러 바꿔볼까? 가을에 어울리는 헤어 컬러 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/80660</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/80608</id>
         <link href="https://www.elle.co.kr/article/80608"/>
         <updated>2023-09-15T19:10:25.099Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밍바오? 팡바오? 뒤집기 성공한 쌍둥바오의 이름 후보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/80607</id>
-        <link href="https://www.elle.co.kr/article/80607"/>
-        <updated>2023-09-15T08:16:00.326Z</updated>
     </entry>
 </feed>

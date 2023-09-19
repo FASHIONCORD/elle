@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 02:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 03:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로제부터 정호연까지! 실패 없는 블랙 원피스 코디 스타일 7]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36602875&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36602875&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 19 Sep 2023 03:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTlfMTc0/MDAxNjk1MDg5OTQ5NTU5.4BRHch4zOPkpVEwLI1N2V1dSCwx870hEFSC5vyhSkiQg.LohEJNa-3-dbs6yHriYOomW1s_xcVgnT9PFiqiiwClAg.JPEG/I9MPlPDQbt30Z3gJ8RxPIu0CTPRQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘만찢’ 비주얼을 연출하는 헤어 액세서리! 리본 묶는 방법]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36595974&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jul 2023 06:14:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjdfMjQw/MDAxNjkwNDI0NTk1MzY0.wtjAMzaBfypjLWRY1WygxUC-10bA1eUxzqctkxm4c98g.Y3zg6R_Yq5LVBPjEZ6OLJ-STuazN3c7HJuzP0KIrHKEg.JPEG/I7ynmzKilK9O_zW40992roPiMfuA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름을 위한 모자 스타일 모음.zip]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36308895&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36308895&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Wed, 26 Jul 2023 02:34:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjZfMjg1/MDAxNjkwMzMzMDY4ODkz.OOkJlH3uJACLB63ZE4yAKQ-paololjY1_vRG0ELDxsgg.PBfS-SYqQ9ykUgra1QVcMwr7yS052ymxpVF_3gy69Kkg.JPEG/ILnGYbQz91XTMBD1dD_P4solOndM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
