@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 23:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 00:52:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -862,6 +862,7 @@
             <guid>https://www.elle.co.kr/article/80605</guid>
             <pubDate>Sat, 16 Sep 2023 15:11:15 GMT</pubDate>
             <content:encoded><![CDATA[올가을 이 '발레 슈즈’만 있으면 누구나 트렌디한 스타일을 연출할 수 있어요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/b271b445-904b-43c0-a31d-66a151dc2972.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유이가 친언니와 건강하게 바디 프로필 찍은 비결 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -924,6 +925,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/54b768e1-7d75-4118-b6e1-a0bdc84116f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['순옥드'로 악역 도전한 황정음X조윤희의 '7인의 탈출'! 관전 포인트 2 #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/80675</link>
+            <guid>https://www.elle.co.kr/article/80675</guid>
+            <pubDate>Mon, 18 Sep 2023 08:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[임보라의 깜짝 등장으로도 화제가 됐던 '7인의 탈출'!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/2826c0f5-908c-4cc4-9a2f-dcaf39175d9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[휴 잭맨이 27주년 결혼기념일 2주 뒤에 이혼을 발표하며 남긴 말 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/80670</link>
             <guid>https://www.elle.co.kr/article/80670</guid>
@@ -976,17 +985,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/e346d8a1-b325-41c9-92ed-d11b1ca7d927.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강동원이 '늑대의 유혹' 레전드 등장 장면을 언급했다 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/80614</link>
-            <guid>https://www.elle.co.kr/article/80614</guid>
-            <pubDate>Thu, 14 Sep 2023 09:12:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/ae5d3672-7cdc-44d9-b0da-2ec3b535ee52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[강동원이 '늑대의 유혹' 레전드 등장 장면을 언급했다 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/80614</link>
             <guid>https://www.elle.co.kr/article/80614</guid>
             <pubDate>Thu, 14 Sep 2023 09:12:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/ae5d3672-7cdc-44d9-b0da-2ec3b535ee52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽃부채를 펼친듯, 방 한켠을 화사하게 만드는 조명 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -994,24 +997,28 @@
             <guid>https://www.elle.co.kr/article/80610</guid>
             <pubDate>Fri, 15 Sep 2023 01:49:23 GMT</pubDate>
             <content:encoded><![CDATA[프랑스 디자이너 잉가 상페와 리버티 런던의 컬래버레이션]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/295070fb-aea7-446e-ad31-4284bde260ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[360도 무대 확정! 호남평야 아니면 수용 못하는 임영웅 콘서트 예매 정보.txt (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/80608</link>
             <guid>https://www.elle.co.kr/article/80608</guid>
             <pubDate>Thu, 14 Sep 2023 03:13:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/47299bc7-8299-496f-a0d8-fc43f282c9e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 미술 애호가, RM 덕에 만개하는 조선 왕실 최고급 예복 정보.txt (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/80592</link>
             <guid>https://www.elle.co.kr/article/80592</guid>
             <pubDate>Wed, 13 Sep 2023 07:13:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/c074032e-793e-4208-a2ec-eb9e1ae8e284.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밴쿠버에서 영화 CG 작업을 하는 프로 재택러 미르의 랜선 집들이 #홈터뷰 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/80591</link>
             <guid>https://www.elle.co.kr/article/80591</guid>
             <pubDate>Wed, 13 Sep 2023 06:16:36 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/7a31472c-7132-4eae-bb14-2788abad0b02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투표 시작된 '스우파2' 메가 크루 영상 모음 (feat. 크루별 추가 미션?) (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1019,6 +1026,7 @@
             <guid>https://www.elle.co.kr/article/80588</guid>
             <pubDate>Wed, 13 Sep 2023 05:12:38 GMT</pubDate>
             <content:encoded><![CDATA[첫 탈락 크루와 아쉬운 작별도.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/6957f53f-22ab-4e59-951e-ac41c6a7921c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연예인이 더 즐겼다? 프리즈 2023 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1026,6 +1034,7 @@
             <guid>https://www.elle.co.kr/article/80586</guid>
             <pubDate>Wed, 13 Sep 2023 03:14:15 GMT</pubDate>
             <content:encoded><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/02ba3f2f-4cfe-4c55-b3e4-86f377daaa23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트와 뷰티의 만남 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1033,6 +1042,7 @@
             <guid>https://www.elle.co.kr/article/80557</guid>
             <pubDate>Tue, 12 Sep 2023 15:13:38 GMT</pubDate>
             <content:encoded><![CDATA[아티스트와 협업을 통한 뷰티 브랜드의 색다른 시각 언어는 우리의 선택과 소비를 더욱 풍요롭게...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/4b1a421d-5252-4111-863b-cabe244ad5f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 뷔-정국, 원곡 부른 이영지에 펭수까지 나선 '스모크' 챌린지 모음.zip (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1124,7 +1134,6 @@
             <link>https://www.elle.co.kr/article/80688</link>
             <guid>https://www.elle.co.kr/article/80688</guid>
             <pubDate>Tue, 19 Sep 2023 03:13:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/88052baf-8d7f-41a8-b83a-d85fd5e392a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['순옥드'로 악역 도전한 황정음X조윤희의 '7인의 탈출'! 관전 포인트 2 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1132,14 +1141,12 @@
             <guid>https://www.elle.co.kr/article/80675</guid>
             <pubDate>Mon, 18 Sep 2023 08:17:11 GMT</pubDate>
             <content:encoded><![CDATA[임보라의 깜짝 등장으로도 화제가 됐던 '7인의 탈출'!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/2826c0f5-908c-4cc4-9a2f-dcaf39175d9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강동원이 '늑대의 유혹' 레전드 등장 장면을 언급했다 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/80614</link>
             <guid>https://www.elle.co.kr/article/80614</guid>
             <pubDate>Thu, 14 Sep 2023 09:12:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/ae5d3672-7cdc-44d9-b0da-2ec3b535ee52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투표 시작된 '스우파2' 메가 크루 영상 모음 (feat. 크루별 추가 미션?) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1147,7 +1154,6 @@
             <guid>https://www.elle.co.kr/article/80588</guid>
             <pubDate>Wed, 13 Sep 2023 05:12:38 GMT</pubDate>
             <content:encoded><![CDATA[첫 탈락 크루와 아쉬운 작별도.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/6957f53f-22ab-4e59-951e-ac41c6a7921c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원작과 결말 다르다고? 한국형 히어로물 '무빙' 인기 요인 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1205,292 +1211,6 @@
             <link>https://www.elle.co.kr/article/80299</link>
             <guid>https://www.elle.co.kr/article/80299</guid>
             <pubDate>Wed, 30 Aug 2023 10:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['연인'의 유길채, 안은진의 또 다른 인생 캐릭터 3선 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/80203</link>
-            <guid>https://www.elle.co.kr/article/80203</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/80203">
-                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/8e03b7fb-2efd-4765-b7db-f7159ba75e17.jpg" alt="안은진 ">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/80203">
-                        '연인'의 유길채, 안은진의 또 다른 인생 캐릭터 3선 #요즘드라마                     </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['지옥만세' 임오정 감독은 왜 지옥을 꿈꾸는 소녀들에게 주목했을까 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/80163</link>
-            <guid>https://www.elle.co.kr/article/80163</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/80163">
-                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/c7d6b5d9-6ea7-40dc-ad07-b19f2fdd6123.jpg" alt="ㅇ">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/80163">
-                        '지옥만세' 임오정 감독은 왜 지옥을 꿈꾸는 소녀들에게 주목했을까                    </a>
-                </em>
-                <p class="excerpt">천국보단 지옥.</p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/80109</link>
-            <guid>https://www.elle.co.kr/article/80109</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/80109">
-                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/1d53bf08-6259-4423-872c-2273f08b6d43.jpg" alt="">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/80109">
-                        공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/80077</link>
-            <guid>https://www.elle.co.kr/article/80077</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/80077">
-                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/f003491a-3987-453b-bb38-396692bd112f.jpg" alt="ㅇ">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/80077">
-                        잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/80047</link>
-            <guid>https://www.elle.co.kr/article/80047</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/80047">
-                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ce21eea0-62d8-41b5-b757-d1c5044d5ff7.jpg" alt="마스크걸 ">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/80047">
-                        '마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/80021</link>
-            <guid>https://www.elle.co.kr/article/80021</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/80021">
-                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/d55de4da-b316-4c0e-a69f-31731e1a538e.jpg" alt="ㅇ">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/80021">
-                        안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/79995</link>
-            <guid>https://www.elle.co.kr/article/79995</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/79995">
-                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/5c8acf33-f83a-4eca-8404-9eee6ecae60e.jpg" alt="〈연인〉">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/79995">
-                        남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마                     </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 자컨이 대체 뭔데? 자컨 여행자를 위한 안내서 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/79917</link>
-            <guid>https://www.elle.co.kr/article/79917</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/79917">
-                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/37f78ff6-8b04-4c06-81a2-b5da8fcb8f74.jpg" alt="ㅇ">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/79917">
-                        아이돌 자컨이 대체 뭔데? 자컨 여행자를 위한 안내서                    </a>
-                </em>
-                <p class="excerpt">멤버들과 있을 때 내 아이돌은 어떨까? K팝 아티스트들의 필수 콘텐츠가 된 '자컨'의 세계. 그...</p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/79949</link>
-            <guid>https://www.elle.co.kr/article/79949</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/79949">
-                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/9e957bf5-6ede-49ff-b91f-268e667e8fe5.jpg" alt="ㅅ">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/79949">
-                        이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/79924</link>
-            <guid>https://www.elle.co.kr/article/79924</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/79924">
-                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/5937562d-2543-4225-9cfe-5b9a2913db7d.jpg" alt="ㅇ">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/79924">
-                        30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[드디어 '마스크걸' 완전체 공개! 마지막 김모미, 이한별은 누구? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/79905</link>
-            <guid>https://www.elle.co.kr/article/79905</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/79905">
-                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/564b91ee-b63b-428f-b884-461d93f3eca1.jpg" alt="">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/79905">
-                        드디어 '마스크걸' 완전체 공개! 마지막 김모미, 이한별은 누구?                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[첫 방송부터 대박! 박해진X박성웅X임지연의 '국민사형투표' 인기 요인 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/79871</link>
-            <guid>https://www.elle.co.kr/article/79871</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/79871">
-                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/ffeac689-9883-487d-88a2-8330e76a2916.jpg" alt="국민사형투표 ">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/79871">
-                        첫 방송부터 대박! 박해진X박성웅X임지연의 '국민사형투표' 인기 요인 총정리 #요즘드라마                     </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['민희진 감성' 어떻게 소화했을까? 뷔가 직접 전한 첫 솔로 앨범 소식 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/79791</link>
-            <guid>https://www.elle.co.kr/article/79791</guid>
-            <pubDate>Tue, 19 Sep 2023 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox">
-                <a href="/article/79791">
-                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/35db52cb-768b-4c69-9a4a-3aed33f49909.jpg" alt="ㅅ">
-                </a>
-            </div>
-            <div class="textbox">
-<!--                                <span class="menu">-->
-<!--                                    <a href="/article/--><!--">-->
-<!--                                        --><!--                                    </a>-->
-<!--                                </span>-->
-                <em class="title">
-                    <a href="/article/79791">
-                        '민희진 감성' 어떻게 소화했을까? 뷔가 직접 전한 첫 솔로 앨범 소식                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[넌 어느 별에서 왔니? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
