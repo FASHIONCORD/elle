@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-09-20T06:17:49.970Z</updated>
+    <updated>2023-09-20T07:14:22.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임정희의 6살 연하 예비 신랑 김희현은 누구? (ft. 신봉선 소개팅)]]></title>
+        <id>https://www.elle.co.kr/article/80676</id>
+        <link href="https://www.elle.co.kr/article/80676"/>
+        <updated>2023-09-20T07:12:54.978Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['순옥드'로 악역 도전한 황정음X조윤희의 '7인의 탈출'! 관전 포인트 2 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/80675</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/80623"/>
         <updated>2023-09-18T07:12:21.663Z</updated>
         <content type="html"><![CDATA[친근하면서도 낯선, 아이유의 얼굴이 엘르 10월호 커버를 장식했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유이가 친언니와 건강하게 바디 프로필 찍은 비결 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/80615</id>
-        <link href="https://www.elle.co.kr/article/80615"/>
-        <updated>2023-09-18T06:16:17.510Z</updated>
     </entry>
 </feed>
