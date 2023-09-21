@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-09-21T10:15:17.505Z</updated>
+    <updated>2023-09-21T11:12:23.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 시작은 사랑]]></title>
+        <id>https://www.elle.co.kr/ellevoice/essay/80442</id>
+        <link href="https://www.elle.co.kr/ellevoice/essay/80442"/>
+        <updated>2023-09-21T11:12:22.711Z</updated>
+        <content type="html"><![CDATA[우리 모두의 이야기의 시작에는 사랑이 존재한다. 소설가 성해나가 질문을 던지게 된 이유.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엘르보이스] 나의 사랑스러운 털뭉치]]></title>
         <id>https://www.elle.co.kr/ellevoice/essay/80423</id>
@@ -49,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/80001"/>
         <updated>2023-08-31T03:14:10.349Z</updated>
         <content type="html"><![CDATA[할 일은 태산인데•••. 멍하니 쇼츠와 릴스만 보며 죄책감을 쌓던 두 에디터는 결심했다. 딱 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음 편하게 투자할 수 있는 주식이 있다?_돈쓸신잡 #112]]></title>
-        <id>https://www.elle.co.kr/article/80125</id>
-        <link href="https://www.elle.co.kr/article/80125"/>
-        <updated>2023-08-31T01:47:20.640Z</updated>
     </entry>
 </feed>
