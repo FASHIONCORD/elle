@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 14:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 15:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데코 픽! 영감을 채워줄 신상 건축 & 디자인 이슈]]></title>
+            <link>https://www.elle.co.kr/article/80760</link>
+            <guid>https://www.elle.co.kr/article/80760</guid>
+            <pubDate>Thu, 21 Sep 2023 15:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[일상에 새로운 영감이 필요하다면 주목! 세계 곳곳에서 발견한 예술적인 공간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/885a01a3-9300-4ded-a3a7-8a548e5668df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고양이를 위해 복층으로 이사 가다! ‘집에가야돼’ 대표 부부의 랜선 집들이 #홈터뷰]]></title>
             <link>https://www.elle.co.kr/article/80777</link>
@@ -35,7 +43,6 @@
             <link>https://www.elle.co.kr/article/80704</link>
             <guid>https://www.elle.co.kr/article/80704</guid>
             <pubDate>Tue, 19 Sep 2023 09:13:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/63348d01-febb-41fe-85bc-9203cdd5b499.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽃부채를 펼친듯, 방 한켠을 화사하게 만드는 조명]]></title>
@@ -90,12 +97,6 @@
             <guid>https://www.elle.co.kr/article/80488</guid>
             <pubDate>Fri, 08 Sep 2023 09:12:58 GMT</pubDate>
             <content:encoded><![CDATA[한국의 신진 및 기성 현대 예술가들을 조명한 ‘나우 &amp; 넥스트’ 영상 시리즈를 통해 들여다보...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브루클린 아파트의 삶을 누구보다 즐기는 이온스의 랜선 집들이 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/80457</link>
-            <guid>https://www.elle.co.kr/article/80457</guid>
-            <pubDate>Thu, 07 Sep 2023 10:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

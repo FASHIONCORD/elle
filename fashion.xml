@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-09-21T14:14:14.983Z</updated>
+    <updated>2023-09-21T15:13:54.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넥타이 전성시대]]></title>
+        <id>https://www.elle.co.kr/article/80713</id>
+        <link href="https://www.elle.co.kr/article/80713"/>
+        <updated>2023-09-21T15:12:17.313Z</updated>
+        <content type="html"><![CDATA[편견을 깨고 강렬한 액세서리로 급부상한 넥타이의 전성시대.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김나영의 가을 백 스타일링 TIP]]></title>
         <id>https://www.elle.co.kr/article/80684</id>
@@ -52,12 +59,5 @@
         <id>https://www.elle.co.kr/article/80639</id>
         <link href="https://www.elle.co.kr/article/80639"/>
         <updated>2023-09-18T19:10:02.280Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[때로는 앙증맞게, 톱 핸들 백]]></title>
-        <id>https://www.elle.co.kr/article/80606</id>
-        <link href="https://www.elle.co.kr/article/80606"/>
-        <updated>2023-09-17T15:10:59.248Z</updated>
-        <content type="html"><![CDATA[두 손에 꼭 들고.]]></content>
     </entry>
 </feed>
