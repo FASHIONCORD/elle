@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 06:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 07:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 X...?! 일론 머스크가 X(트위터) 전면 유료화 계획 밝히며 한 말]]></title>
+            <link>https://www.elle.co.kr/article/80690</link>
+            <guid>https://www.elle.co.kr/article/80690</guid>
+            <pubDate>Fri, 22 Sep 2023 07:13:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/60c9f747-eb89-4218-86e9-c67ee3a8fc97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크부터 손흥민까지! 이번 주말, 놓쳐서는 안 될 팝업 스토어]]></title>
             <link>https://www.elle.co.kr/article/80639</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/80563</guid>
             <pubDate>Fri, 15 Sep 2023 09:13:14 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/07cc034f-6b3a-462c-b681-05393075c866.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리즈가 끝나도 예술은 계속된다! 서울을 물들인 패션 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/80534</link>
-            <guid>https://www.elle.co.kr/article/80534</guid>
-            <pubDate>Fri, 15 Sep 2023 08:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[로우클래식, MCM, 디올이 마련한 특별한 이벤트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/9ce25f7e-173c-4c5d-948b-3aaf35f9a137.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
