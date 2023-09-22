@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-09-22T10:22:09.494Z</updated>
+    <updated>2023-09-22T11:11:37.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니 코리아 사상 최고 흥행작 '무빙', 시즌2 언급 나왔다?]]></title>
+        <id>https://www.elle.co.kr/article/80823</id>
+        <link href="https://www.elle.co.kr/article/80823"/>
+        <updated>2023-09-22T11:11:06.270Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[덱스가 '솔로지옥'에 나갔던 이유와 '유퀴즈'에 나오기 싫었던 이유]]></title>
         <id>https://www.elle.co.kr/article/80759</id>
@@ -81,11 +87,5 @@
         <id>https://www.elle.co.kr/article/80382</id>
         <link href="https://www.elle.co.kr/article/80382"/>
         <updated>2023-09-04T09:13:37.264Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파트1 종영, 러브라인 힌트는? 설레고 애틋하고 다 하는 '연인' 명장면 3 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/80381</id>
-        <link href="https://www.elle.co.kr/article/80381"/>
-        <updated>2023-09-04T09:13:37.273Z</updated>
     </entry>
 </feed>
