@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 08:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 09:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그녀의 모든 순간]]></title>
+            <link>https://www.elle.co.kr/article/80044</link>
+            <guid>https://www.elle.co.kr/article/80044</guid>
+            <pubDate>Sat, 23 Sep 2023 09:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[낮과 밤을 아름답게 물들이는 세르지오 로시 2023 F/W 컬렉션과 스타일링 팁.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/e4647b5e-7c7d-4527-b6fa-e855d238f370.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[체인 액세서리 하나로 힙해지기!]]></title>
             <link>https://www.elle.co.kr/article/80775</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Sep 2023 19:11:02 GMT</pubDate>
             <content:encoded><![CDATA[김나영의 가방만 봐도 올가을 트렌드가 보인다?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/0f6a4d3d-f959-42d1-accd-8d5805b65899.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로제부터 정호연까지! 실패 없는 블랙 드레스 스타일 7]]></title>
-            <link>https://www.elle.co.kr/article/80678</link>
-            <guid>https://www.elle.co.kr/article/80678</guid>
-            <pubDate>Wed, 20 Sep 2023 08:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 날부터 일상을 위한 데일리룩까지 팔색조 같은 옷장 속 만능템! ‘멋쁨’하는 블랙 드레...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/db1c51e6-967a-49fd-ba90-68a5706299e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
