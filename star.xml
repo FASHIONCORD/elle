@@ -4,22 +4,27 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 18:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 19:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지창욱과 위하준의 느와르]]></title>
+            <link>https://www.elle.co.kr/article/80776</link>
+            <guid>https://www.elle.co.kr/article/80776</guid>
+            <pubDate>Sun, 24 Sep 2023 19:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;최악의 악&gt;으로 악의 한 가운데 조우한 두 남자.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[밥 대신 빵이 더 좋다는 오마이걸 미미, 체형 관리 노하우는? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/80764</link>
             <guid>https://www.elle.co.kr/article/80764</guid>
             <pubDate>Sun, 24 Sep 2023 15:12:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/5eb9ee52-178b-42b0-b05a-007b295dab2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤승아-김무열, 실루엣만 봐도 귀여운 아들 젬마 백일 사진 공개]]></title>
             <link>https://www.elle.co.kr/article/80762</link>
             <guid>https://www.elle.co.kr/article/80762</guid>
             <pubDate>Sun, 24 Sep 2023 09:11:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/5a3e8d79-97b4-4284-aea3-393cbfeb9958.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[덱스가 '솔로지옥'에 나갔던 이유와 '유퀴즈'에 나오기 싫었던 이유]]></title>
@@ -56,13 +61,6 @@
             <guid>https://www.elle.co.kr/article/80746</guid>
             <pubDate>Thu, 21 Sep 2023 07:12:02 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/e453e900-244c-4847-8e17-b68c6fc13bef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출산 후 -20kg! 배윤정이 체중 감량에서 강조한 3가지는? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80745</link>
-            <guid>https://www.elle.co.kr/article/80745</guid>
-            <pubDate>Thu, 21 Sep 2023 04:14:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/29c88ab9-9a2b-43d6-99d4-04c87e337d13.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
