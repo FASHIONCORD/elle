@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 14:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 15:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전에 없던 텍스처! 건조한 환절기에는 하이브리드 보디 제품_선배’s 어드바이스 #186]]></title>
+            <link>https://www.elle.co.kr/article/80668</link>
+            <guid>https://www.elle.co.kr/article/80668</guid>
+            <pubDate>Sun, 24 Sep 2023 15:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[다채롭게 활용 가능한 멀티 이펙트 보디 제품 모음.zip]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/f4f4cace-a665-4fd7-b510-84df04bfb61b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화사처럼 헤어 컬러 바꿔볼까? 가을에 어울리는 헤어 컬러 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/80660</link>
@@ -60,14 +68,6 @@
             <pubDate>Fri, 15 Sep 2023 19:10:13 GMT</pubDate>
             <content:encoded><![CDATA[향수가 아니라 샴푸라고? 가을바람을 타고 은은하게 퍼지는 샴푸향!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/edfa906b-107b-4a70-af8b-10336ffb5354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 당장 셀피 각! 전효성의 러블리 메이크업 튜토리얼]]></title>
-            <link>https://www.elle.co.kr/article/80517</link>
-            <guid>https://www.elle.co.kr/article/80517</guid>
-            <pubDate>Fri, 15 Sep 2023 15:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 &lt;셀러브리티&gt;의 인플루언서 오민혜 역을 맡은 전효성! 인플루언서가 되고 싶다면 그의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/a3d3a5b4-c790-49c9-9bf7-91ad27f4bf12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

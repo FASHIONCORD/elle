@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 14:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 15:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조르디 반 덴 뉴벤디크의 아트워크를 입은 알로소]]></title>
+            <link>https://www.elle.co.kr/article/80819</link>
+            <guid>https://www.elle.co.kr/article/80819</guid>
+            <pubDate>Sun, 24 Sep 2023 15:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[먹고 쉬고 사랑하라! 색색의 일상이 다채롭게 오버랩되는 알로소의 소파와 아티스트 조르디 반 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/4fdbc11f-4aff-4d55-b520-28626859f683.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니 코리아 사상 최고 흥행작 '무빙', 시즌2 언급 나왔다?]]></title>
             <link>https://www.elle.co.kr/article/80823</link>
@@ -58,13 +66,6 @@
             <pubDate>Thu, 21 Sep 2023 15:12:52 GMT</pubDate>
             <content:encoded><![CDATA[암체어와 스탠드 그리고 꽃과 일렉트릭 오브제가 만나 새로운 생명체가 탄생했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/a3d82ccd-3450-4de6-92fb-1c75d841a963.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아니쉬 카푸어의 크레센도 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/80704</link>
-            <guid>https://www.elle.co.kr/article/80704</guid>
-            <pubDate>Thu, 21 Sep 2023 11:11:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/63348d01-febb-41fe-85bc-9203cdd5b499.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
