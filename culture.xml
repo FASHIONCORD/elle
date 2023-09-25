@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 07:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 08:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도자 작가 이나영과 색색의 사물들]]></title>
+            <link>https://www.elle.co.kr/article/80811</link>
+            <guid>https://www.elle.co.kr/article/80811</guid>
+            <pubDate>Mon, 25 Sep 2023 08:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[손으로 지어 올린 대체불가능한 아름다움.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/1e8b8d84-21d0-46cc-b4e6-f3d9b2645618.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안도 타다오가 반세기 동안 증명해 온 것들 #디아이콘즈]]></title>
+            <link>https://www.elle.co.kr/article/80820</link>
+            <guid>https://www.elle.co.kr/article/80820</guid>
+            <pubDate>Mon, 25 Sep 2023 08:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[순도 높은 콘크리트와 기하학만으로 안도 타다오의 건축을 설명할 수는 없다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/723872c5-7481-436d-9ee7-c53ec123fe0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시끌벅적 '아톰 부츠'의 주인공, 미스치프가 대림미술관에 상륙한다?]]></title>
             <link>https://www.elle.co.kr/article/80837</link>
@@ -51,21 +67,6 @@
             <guid>https://www.elle.co.kr/article/80759</guid>
             <pubDate>Sat, 23 Sep 2023 09:11:25 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/1538a4a0-7350-4d2f-872a-ac23c3c97ba7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 전원 하이브와 두 번째 재계약! 완전체 볼 수 있는 시기는? (ft. 군 복무 스케줄)]]></title>
-            <link>https://www.elle.co.kr/article/80757</link>
-            <guid>https://www.elle.co.kr/article/80757</guid>
-            <pubDate>Fri, 22 Sep 2023 15:12:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/ebc6920a-6725-49c9-9f29-516ae3efec1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프렌치 럭셔리의 아이콘, 디자이너 피에르 요바노비치 #디아이콘즈]]></title>
-            <link>https://www.elle.co.kr/article/80740</link>
-            <guid>https://www.elle.co.kr/article/80740</guid>
-            <pubDate>Fri, 22 Sep 2023 11:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[공간의 볼륨과 비율에 대한 완벽한 이해. 유서 깊은 공간에 새 숨을 불어넣는 레너베이션에서 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/ef0b57a7-728a-4774-b4ae-dd641015d1a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

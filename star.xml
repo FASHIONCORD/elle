@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-09-25T07:13:23.017Z</updated>
+    <updated>2023-09-25T08:17:46.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드디어 나온 정종연 차기작 '데블스 플랜', PD가 직접 전한 12인 플레이어 소개.txt]]></title>
+        <id>https://www.elle.co.kr/article/80868</id>
+        <link href="https://www.elle.co.kr/article/80868"/>
+        <updated>2023-09-25T08:16:34.291Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[열 살은 어려보이게! 한혜진표 동안 메이크업 Tip]]></title>
+        <id>https://www.elle.co.kr/article/80848</id>
+        <link href="https://www.elle.co.kr/article/80848"/>
+        <updated>2023-09-25T08:16:34.291Z</updated>
+        <content type="html"><![CDATA[입체적인 페이스 라인과 도톰한 애교살이 포인트. 메이크업만으로 어려 보일 수 있는 톱모델의 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[함께 사는 세상을 위해 네 발로 뛰는 우리들]]></title>
+        <id>https://www.elle.co.kr/article/80830</id>
+        <link href="https://www.elle.co.kr/article/80830"/>
+        <updated>2023-09-25T08:16:34.292Z</updated>
+        <content type="html"><![CDATA[지구방위견!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[항저우 아시안게임 대한민국 첫 메달, 김선우가 활약한 '근대5종'은?]]></title>
+        <id>https://www.elle.co.kr/article/80845</id>
+        <link href="https://www.elle.co.kr/article/80845"/>
+        <updated>2023-09-25T08:16:34.295Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동갑 절친 이효리가 공개한 안혜경 결혼식 현장 (ft. 송중기가 사회 본 이유)]]></title>
         <id>https://www.elle.co.kr/article/80844</id>
@@ -29,30 +55,5 @@
         <id>https://www.elle.co.kr/article/80764</id>
         <link href="https://www.elle.co.kr/article/80764"/>
         <updated>2023-09-24T15:12:02.173Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤승아-김무열, 실루엣만 봐도 귀여운 아들 젬마 백일 사진 공개]]></title>
-        <id>https://www.elle.co.kr/article/80762</id>
-        <link href="https://www.elle.co.kr/article/80762"/>
-        <updated>2023-09-24T09:11:23.798Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덱스가 '솔로지옥'에 나갔던 이유와 '유퀴즈'에 나오기 싫었던 이유]]></title>
-        <id>https://www.elle.co.kr/article/80759</id>
-        <link href="https://www.elle.co.kr/article/80759"/>
-        <updated>2023-09-24T08:14:49.644Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 전원 하이브와 두 번째 재계약! 완전체 볼 수 있는 시기는? (ft. 군 복무 스케줄)]]></title>
-        <id>https://www.elle.co.kr/article/80757</id>
-        <link href="https://www.elle.co.kr/article/80757"/>
-        <updated>2023-09-22T11:10:37.899Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<무빙> 이정하의 멋진 비행]]></title>
-        <id>https://www.elle.co.kr/article/80748</id>
-        <link href="https://www.elle.co.kr/article/80748"/>
-        <updated>2023-09-22T00:52:01.226Z</updated>
-        <content type="html"><![CDATA[이토록 사랑스러울 수가! 무해한 소년, 이정하의 독보적 매력.]]></content>
     </entry>
 </feed>
