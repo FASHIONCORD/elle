@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 14:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 15:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -970,10 +970,19 @@
             <content:encoded><![CDATA[&lt;최악의 악&gt;으로 악의 한 가운데 조우한 두 남자.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[쓰리데이즈오브디자인에서 만난 뱅앤올룹슨 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/80821</link>
+            <guid>https://www.elle.co.kr/article/80821</guid>
+            <pubDate>Sun, 24 Sep 2023 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[장인의 손끝에서 탄생해 디자인이 감싸 안은 사운드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/5e80b033-dc1c-4dfb-bc19-22f142b3b361.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[항저우 아시안게임 대한민국 첫 메달, 김선우가 활약한 '근대5종'은? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/80845</link>
             <guid>https://www.elle.co.kr/article/80845</guid>
             <pubDate>Mon, 25 Sep 2023 08:16:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/12a71f1e-f5b2-4490-b01e-17e68c51b7e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도자 작가 이나영과 색색의 사물들 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -981,6 +990,7 @@
             <guid>https://www.elle.co.kr/article/80811</guid>
             <pubDate>Sat, 23 Sep 2023 15:12:25 GMT</pubDate>
             <content:encoded><![CDATA[손으로 지어 올린 대체불가능한 아름다움.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/1e8b8d84-21d0-46cc-b4e6-f3d9b2645618.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안도 타다오가 반세기 동안 증명해 온 것들 #디아이콘즈 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -988,6 +998,7 @@
             <guid>https://www.elle.co.kr/article/80820</guid>
             <pubDate>Sat, 23 Sep 2023 15:12:25 GMT</pubDate>
             <content:encoded><![CDATA[순도 높은 콘크리트와 기하학만으로 안도 타다오의 건축을 설명할 수는 없다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/723872c5-7481-436d-9ee7-c53ec123fe0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시끌벅적 '아톰 부츠'의 주인공, 미스치프가 대림미술관에 상륙한다? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -995,6 +1006,7 @@
             <guid>https://www.elle.co.kr/article/80837</guid>
             <pubDate>Sat, 23 Sep 2023 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/23/46774050-cbd9-4afb-8f3f-b1725bd94270.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조르디 반 덴 뉴벤디크의 아트워크를 입은 알로소 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1002,12 +1014,14 @@
             <guid>https://www.elle.co.kr/article/80819</guid>
             <pubDate>Fri, 22 Sep 2023 15:13:30 GMT</pubDate>
             <content:encoded><![CDATA[먹고 쉬고 사랑하라! 색색의 일상이 다채롭게 오버랩되는 알로소의 소파와 아티스트 조르디 반 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/4fdbc11f-4aff-4d55-b520-28626859f683.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니 코리아 사상 최고 흥행작 '무빙', 시즌2 언급 나왔다? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/80823</link>
             <guid>https://www.elle.co.kr/article/80823</guid>
             <pubDate>Fri, 22 Sep 2023 11:11:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/5df0ae06-8297-4f5d-ab4f-441b43a01ab7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데코 픽! 영감을 채워줄 신상 건축 & 디자인 이슈 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1015,12 +1029,7 @@
             <guid>https://www.elle.co.kr/article/80760</guid>
             <pubDate>Thu, 21 Sep 2023 15:13:18 GMT</pubDate>
             <content:encoded><![CDATA[일상에 새로운 영감이 필요하다면 주목! 세계 곳곳에서 발견한 예술적인 공간들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고양이를 위해 복층으로 이사 가다! ‘집에가야돼’ 대표 부부의 랜선 집들이 #홈터뷰 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/80777</link>
-            <guid>https://www.elle.co.kr/article/80777</guid>
-            <pubDate>Thu, 21 Sep 2023 11:12:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/885a01a3-9300-4ded-a3a7-8a548e5668df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 전원 하이브와 두 번째 재계약! 완전체 볼 수 있는 시기는? (ft. 군 복무 스케줄) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1107,24 +1116,28 @@
             <link>https://www.elle.co.kr/article/80874</link>
             <guid>https://www.elle.co.kr/article/80874</guid>
             <pubDate>Mon, 25 Sep 2023 08:17:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/4a759ca2-ada9-47a8-9a96-f94b446922cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드디어 나온 정종연 차기작 '데블스 플랜', PD가 직접 전한 12인 플레이어 소개.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/80868</link>
             <guid>https://www.elle.co.kr/article/80868</guid>
             <pubDate>Mon, 25 Sep 2023 06:18:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/a3b89693-25d8-4d1f-b37e-9399fe61c6d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니 코리아 사상 최고 흥행작 '무빙', 시즌2 언급 나왔다? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/80823</link>
             <guid>https://www.elle.co.kr/article/80823</guid>
             <pubDate>Fri, 22 Sep 2023 11:11:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/5df0ae06-8297-4f5d-ab4f-441b43a01ab7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[덱스가 '솔로지옥'에 나갔던 이유와 '유퀴즈'에 나오기 싫었던 이유 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/80759</link>
             <guid>https://www.elle.co.kr/article/80759</guid>
             <pubDate>Thu, 21 Sep 2023 04:15:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/1538a4a0-7350-4d2f-872a-ac23c3c97ba7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 뷔-정국, 원곡 부른 이영지에 펭수까지 나선 '스모크' 챌린지 모음.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1191,6 +1204,7 @@
             <guid>https://www.elle.co.kr/article/80821</guid>
             <pubDate>Sun, 24 Sep 2023 15:12:45 GMT</pubDate>
             <content:encoded><![CDATA[장인의 손끝에서 탄생해 디자인이 감싸 안은 사운드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/5e80b033-dc1c-4dfb-bc19-22f142b3b361.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안도 타다오가 반세기 동안 증명해 온 것들 #디아이콘즈 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1198,6 +1212,7 @@
             <guid>https://www.elle.co.kr/article/80820</guid>
             <pubDate>Sat, 23 Sep 2023 15:12:25 GMT</pubDate>
             <content:encoded><![CDATA[순도 높은 콘크리트와 기하학만으로 안도 타다오의 건축을 설명할 수는 없다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/723872c5-7481-436d-9ee7-c53ec123fe0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도자 작가 이나영과 색색의 사물들 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1205,6 +1220,7 @@
             <guid>https://www.elle.co.kr/article/80811</guid>
             <pubDate>Sat, 23 Sep 2023 15:12:25 GMT</pubDate>
             <content:encoded><![CDATA[손으로 지어 올린 대체불가능한 아름다움.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/1e8b8d84-21d0-46cc-b4e6-f3d9b2645618.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시끌벅적 '아톰 부츠'의 주인공, 미스치프가 대림미술관에 상륙한다? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1212,6 +1228,7 @@
             <guid>https://www.elle.co.kr/article/80837</guid>
             <pubDate>Sat, 23 Sep 2023 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/23/46774050-cbd9-4afb-8f3f-b1725bd94270.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조르디 반 덴 뉴벤디크의 아트워크를 입은 알로소 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
