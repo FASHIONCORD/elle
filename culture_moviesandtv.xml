@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 05:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 06:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 나온 정종연 차기작 '데블스 플랜', PD가 직접 전한 12인 플레이어 소개.txt]]></title>
+            <link>https://www.elle.co.kr/article/80868</link>
+            <guid>https://www.elle.co.kr/article/80868</guid>
+            <pubDate>Mon, 25 Sep 2023 06:18:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/a3b89693-25d8-4d1f-b37e-9399fe61c6d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니 코리아 사상 최고 흥행작 '무빙', 시즌2 언급 나왔다?]]></title>
             <link>https://www.elle.co.kr/article/80823</link>
@@ -34,7 +41,6 @@
             <guid>https://www.elle.co.kr/article/80675</guid>
             <pubDate>Mon, 18 Sep 2023 08:17:11 GMT</pubDate>
             <content:encoded><![CDATA[임보라의 깜짝 등장으로도 화제가 됐던 '7인의 탈출'!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/2826c0f5-908c-4cc4-9a2f-dcaf39175d9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강동원이 '늑대의 유혹' 레전드 등장 장면을 언급했다]]></title>
@@ -87,12 +93,6 @@
             <link>https://www.elle.co.kr/article/80446</link>
             <guid>https://www.elle.co.kr/article/80446</guid>
             <pubDate>Wed, 06 Sep 2023 10:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['경이로운 소문 2' 종영, 모든 악을 흡수한 진선규의 최후가 공개됐다]]></title>
-            <link>https://www.elle.co.kr/article/80382</link>
-            <guid>https://www.elle.co.kr/article/80382</guid>
-            <pubDate>Mon, 04 Sep 2023 09:13:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
