@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 18:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 19:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장미꽃부터 나비까지, 대자연의 숨결로 가득한 컬렉션 3]]></title>
+            <link>https://www.elle.co.kr/article/80847</link>
+            <guid>https://www.elle.co.kr/article/80847</guid>
+            <pubDate>Mon, 25 Sep 2023 19:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[이번 시즌 핵심 키워드는 마더 네이처?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/e91ef769-3f64-4047-b729-1510ca56796a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여행지부터 일상까지! 스타들의 사복 패션에 등장한 백팩 스타일 6]]></title>
             <link>https://www.elle.co.kr/article/80843</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 23 Sep 2023 15:11:18 GMT</pubDate>
             <content:encoded><![CDATA[패션 피플들이 트렌드의 흐름을 읽기 위해 자주 드나드는 도쿄. 그렇다면 개인적인 ‘득템’을 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/930eed9d-00ce-49b7-a5e6-babcab6a5372.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬더 드 까르띠에의 아우라]]></title>
-            <link>https://www.elle.co.kr/article/80812</link>
-            <guid>https://www.elle.co.kr/article/80812</guid>
-            <pubDate>Sat, 23 Sep 2023 10:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[강렬하고 우아하다. ‘팬더 드 까르띠에’가 발산하는 매혹적인 아우라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/d188b9c5-ceae-4807-b8c6-dacc7c86e6d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
