@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 08:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 09:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무려 6일 간의 추석 연휴, 하루쯤은 극장 나들이? 기대 가득 개봉작 3 #2023추석]]></title>
+            <link>https://www.elle.co.kr/article/80938</link>
+            <guid>https://www.elle.co.kr/article/80938</guid>
+            <pubDate>Tue, 26 Sep 2023 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[강동원부터 임시완, 송강호 열연이 기대되는 한국 영화 3편!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/4b700cbf-b3d8-4a0d-a7be-00ac1d299911.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한지민X이민기 티격태격 케미 속 미스터리까지? '힙하게' 인기 요인 총정리 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/80874</link>
@@ -33,7 +41,6 @@
             <link>https://www.elle.co.kr/article/80759</link>
             <guid>https://www.elle.co.kr/article/80759</guid>
             <pubDate>Thu, 21 Sep 2023 04:15:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/1538a4a0-7350-4d2f-872a-ac23c3c97ba7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 뷔-정국, 원곡 부른 이영지에 펭수까지 나선 '스모크' 챌린지 모음.zip]]></title>
@@ -86,13 +93,6 @@
             <guid>https://www.elle.co.kr/article/80437</guid>
             <pubDate>Wed, 06 Sep 2023 16:17:22 GMT</pubDate>
             <content:encoded><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리는 훨씬 끈질기다: 서울국제여성영화제]]></title>
-            <link>https://www.elle.co.kr/article/80440</link>
-            <guid>https://www.elle.co.kr/article/80440</guid>
-            <pubDate>Wed, 06 Sep 2023 16:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[여성 영화인들은 척박한 환경에서도 손을 맞잡고, 껴안고, 위로하며 뚜벅뚜벅 다양성의 길을 걸어...]]></content:encoded>
         </item>
     </channel>
 </rss>
