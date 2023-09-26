@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 09:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 10:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석 연휴 채널권 싸움이 필요 없는 이유, 아시안게임 축구X야구 일정 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/80881</link>
+            <guid>https://www.elle.co.kr/article/80881</guid>
+            <pubDate>Tue, 26 Sep 2023 10:14:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/8b34ca60-ee52-4094-961a-4a608a4c02f3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한지민X이민기 티격태격 케미 속 미스터리까지? '힙하게' 인기 요인 총정리 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/80874</link>
@@ -58,14 +65,6 @@
             <pubDate>Mon, 25 Sep 2023 08:16:50 GMT</pubDate>
             <content:encoded><![CDATA[순도 높은 콘크리트와 기하학만으로 안도 타다오의 건축을 설명할 수는 없다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/723872c5-7481-436d-9ee7-c53ec123fe0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시끌벅적 '아톰 부츠'의 주인공, 미스치프가 대림미술관에 상륙한다?]]></title>
-            <link>https://www.elle.co.kr/article/80837</link>
-            <guid>https://www.elle.co.kr/article/80837</guid>
-            <pubDate>Mon, 25 Sep 2023 06:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/23/46774050-cbd9-4afb-8f3f-b1725bd94270.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
