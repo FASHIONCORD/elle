@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-09-26T00:53:33.149Z</updated>
+    <updated>2023-09-26T01:51:19.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손흥민, 퍼렐 윌리엄스! 이 만남 칭찬해!]]></title>
+        <id>https://www.elle.co.kr/article/80855</id>
+        <link href="https://www.elle.co.kr/article/80855"/>
+        <updated>2023-09-26T01:48:52.844Z</updated>
+        <content type="html"><![CDATA[기다렸다, 이달의 패션 협업.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장미꽃부터 나비까지, 대자연의 숨결로 가득한 컬렉션 3]]></title>
         <id>https://www.elle.co.kr/article/80847</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/80802"/>
         <updated>2023-09-23T19:09:13.143Z</updated>
         <content type="html"><![CDATA[가을을 머금은 골드 워치.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타일리스트들이 즐겨 찾는 편집숍 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/80822</id>
-        <link href="https://www.elle.co.kr/article/80822"/>
-        <updated>2023-09-23T15:11:18.178Z</updated>
-        <content type="html"><![CDATA[패션 피플들이 트렌드의 흐름을 읽기 위해 자주 드나드는 도쿄. 그렇다면 개인적인 ‘득템’을 ...]]></content>
     </entry>
 </feed>
