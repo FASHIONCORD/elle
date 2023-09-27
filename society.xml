@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 14:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 15:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마을 하나가 순식간에 사라졌다: 120년 만의 모로코 강진 현재 상황]]></title>
+            <link>https://www.elle.co.kr/article/80518</link>
+            <guid>https://www.elle.co.kr/article/80518</guid>
+            <pubDate>Wed, 27 Sep 2023 15:15:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/345a290b-093a-4554-a366-a8eaa05e5a82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 우정의 확장]]></title>
             <link>https://www.elle.co.kr/article/80494</link>
@@ -58,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/80305</guid>
             <pubDate>Fri, 08 Sep 2023 04:14:58 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c386e86a-a17c-4dad-90e7-f0996ed8f48f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번에 놓치면 14년 기다려야 하는 슈퍼문+블루문! 소원 빌 수 있는 시간은?]]></title>
-            <link>https://www.elle.co.kr/article/80290</link>
-            <guid>https://www.elle.co.kr/article/80290</guid>
-            <pubDate>Thu, 07 Sep 2023 16:16:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/dfc08f81-04ff-485d-99d1-d0ca0803e920.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
