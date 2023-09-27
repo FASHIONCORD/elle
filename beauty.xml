@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 15:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 16:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://www.elle.co.kr/article/80764</link>
             <guid>https://www.elle.co.kr/article/80764</guid>
             <pubDate>Wed, 27 Sep 2023 03:13:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/5eb9ee52-178b-42b0-b05a-007b295dab2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 F/W 파운데이션 신상 라인업!]]></title>
