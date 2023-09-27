@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 18:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 19:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동시대 한옥을 짓는 연구소, 온지음 집공방]]></title>
+            <link>https://www.elle.co.kr/article/80877</link>
+            <guid>https://www.elle.co.kr/article/80877</guid>
+            <pubDate>Wed, 27 Sep 2023 19:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[온지음 집공방은 지금의 한옥을 설계할 수 있는 장인을 양성하는 설계집단이자 연구소다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/2214dfcb-235a-4834-8001-d5b0456ab838.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타일지음 박지선 대표의 취향]]></title>
             <link>https://www.elle.co.kr/article/80860</link>
@@ -61,13 +69,6 @@
             <pubDate>Tue, 26 Sep 2023 15:13:54 GMT</pubDate>
             <content:encoded><![CDATA[어쩌면 지금의 마음은 일시적인 걸지도 모른다. 관계에서 빠져나오고 싶은 당신에게.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/40bb9370-5a84-4a0c-8ff4-71f647c62713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 연휴 채널권 싸움이 필요 없는 이유, 아시안게임 축구X야구 일정 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/80881</link>
-            <guid>https://www.elle.co.kr/article/80881</guid>
-            <pubDate>Tue, 26 Sep 2023 10:14:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/8b34ca60-ee52-4094-961a-4a608a4c02f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
