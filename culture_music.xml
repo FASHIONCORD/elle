@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/music</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2023-09-27T03:13:59.654Z</updated>
+    <updated>2023-09-27T04:15:44.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석엔 안방 떼창! KBS 대기획 'ㅇㅁㄷ 지오디' 정보 (ft. 18년 만의 팬지 모집)]]></title>
+        <id>https://www.elle.co.kr/article/80968</id>
+        <link href="https://www.elle.co.kr/article/80968"/>
+        <updated>2023-09-27T04:15:05.951Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 전원 하이브와 두 번째 재계약! 완전체 볼 수 있는 시기는? (ft. 군 복무 스케줄)]]></title>
         <id>https://www.elle.co.kr/article/80757</id>
@@ -77,12 +83,5 @@
         <id>https://www.elle.co.kr/article/78463</id>
         <link href="https://www.elle.co.kr/article/78463"/>
         <updated>2023-06-19T08:17:26.707Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드]]></title>
-        <id>https://www.elle.co.kr/article/78460</id>
-        <link href="https://www.elle.co.kr/article/78460"/>
-        <updated>2023-06-19T08:17:26.716Z</updated>
-        <content type="html"><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 시티포레스티벌 2023의 기분 좋은 바이브]]></content>
     </entry>
 </feed>
