@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-09-27T08:17:40.328Z</updated>
+    <updated>2023-09-27T09:14:01.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 수영 폼 무엇?! 중국 꺾고 메달에 신기록까지 세운 아시안게임 수영 성적.txt]]></title>
+        <id>https://www.elle.co.kr/article/80942</id>
+        <link href="https://www.elle.co.kr/article/80942"/>
+        <updated>2023-09-27T09:12:52.536Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무려 6일 간의 추석 연휴, 하루쯤은 극장 나들이? 기대 가득 개봉작 3 #2023추석]]></title>
         <id>https://www.elle.co.kr/article/80938</id>
@@ -50,11 +56,5 @@
         <id>https://www.elle.co.kr/article/80871</id>
         <link href="https://www.elle.co.kr/article/80871"/>
         <updated>2023-09-25T16:16:26.312Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 나온 정종연 차기작 '데블스 플랜', PD가 직접 전한 12인 플레이어 소개.txt]]></title>
-        <id>https://www.elle.co.kr/article/80868</id>
-        <link href="https://www.elle.co.kr/article/80868"/>
-        <updated>2023-09-25T16:16:26.317Z</updated>
     </entry>
 </feed>
