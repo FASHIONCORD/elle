@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 14:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 15:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로낭 부홀렉의 디자인으로 다시 태어난 성당 '드 브라스파르']]></title>
+            <link>https://www.elle.co.kr/article/80956</link>
+            <guid>https://www.elle.co.kr/article/80956</guid>
+            <pubDate>Thu, 28 Sep 2023 15:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[간결하고 세련된 디자인이 고고한 아름다움과 절묘한 조화를 이룬다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/98c35e88-67f6-419e-a7fd-8288347077cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화이트 큐브 개관전에서 만난 이진주]]></title>
+            <link>https://www.elle.co.kr/article/80953</link>
+            <guid>https://www.elle.co.kr/article/80953</guid>
+            <pubDate>Thu, 28 Sep 2023 15:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[아시아 두 번째로 서울에 문을 연 화이트 큐브 개관전. 7인 아티스트 중에서 유일한 한국 여성...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/98ea7683-3a07-44ce-aab4-acfe9f944eb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회랑으로 이어진 벽돌의 도시, 볼로냐 #여행예술]]></title>
             <link>https://www.elle.co.kr/article/80879</link>
@@ -28,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/80860</guid>
             <pubDate>Tue, 26 Sep 2023 15:14:20 GMT</pubDate>
             <content:encoded><![CDATA[식물의 아름다움을 재발견하는, 스타일지음 대표 박지선.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/abcee328-841a-47f4-989e-308484bbc675.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리즈 서울에서 만난 패션 하우스의 통 큰 프로젝트]]></title>
@@ -36,7 +51,6 @@
             <guid>https://www.elle.co.kr/article/80884</guid>
             <pubDate>Tue, 26 Sep 2023 15:14:20 GMT</pubDate>
             <content:encoded><![CDATA[서울을 예술 도시로 발돋움하게 만든 '프리즈 서울'. 도시에 예술적 에너지가 흘러 넘치도록 패...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/7aa7a251-6e6e-427b-acb0-9cbb55964e17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동시대 한옥을 짓는 연구소, 온지음 집공방]]></title>
@@ -86,20 +100,6 @@
             <guid>https://www.elle.co.kr/article/80837</guid>
             <pubDate>Sat, 23 Sep 2023 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조르디 반 덴 뉴벤디크의 아트워크를 입은 알로소]]></title>
-            <link>https://www.elle.co.kr/article/80819</link>
-            <guid>https://www.elle.co.kr/article/80819</guid>
-            <pubDate>Fri, 22 Sep 2023 15:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[먹고 쉬고 사랑하라! 색색의 일상이 다채롭게 오버랩되는 알로소의 소파와 아티스트 조르디 반 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데코 픽! 영감을 채워줄 신상 건축 & 디자인 이슈]]></title>
-            <link>https://www.elle.co.kr/article/80760</link>
-            <guid>https://www.elle.co.kr/article/80760</guid>
-            <pubDate>Thu, 21 Sep 2023 15:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[일상에 새로운 영감이 필요하다면 주목! 세계 곳곳에서 발견한 예술적인 공간들.]]></content:encoded>
         </item>
     </channel>
 </rss>

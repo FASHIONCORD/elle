@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-09-28T14:14:18.896Z</updated>
+    <updated>2023-09-28T15:16:42.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이토록 아름다운 이솜]]></title>
+        <id>https://www.elle.co.kr/article/80878</id>
+        <link href="https://www.elle.co.kr/article/80878"/>
+        <updated>2023-09-28T15:13:28.343Z</updated>
+        <content type="html"><![CDATA[깃털처럼 우아하고, 하늘처럼 청명한 배우 이솜과 부쉐론의 랑데부.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 날씨 만능템! 스타의 스웨트셔츠 스타일 8]]></title>
         <id>https://www.elle.co.kr/article/80885</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/80843"/>
         <updated>2023-09-25T10:13:37.890Z</updated>
         <content type="html"><![CDATA[실용적인데 예쁘기까지 해! 느낌 있는 캐주얼 백팩의 매력에 빠져 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금은 펑크 시대]]></title>
-        <id>https://www.elle.co.kr/article/80828</id>
-        <link href="https://www.elle.co.kr/article/80828"/>
-        <updated>2023-09-25T06:17:11.019Z</updated>
-        <content type="html"><![CDATA[네오펑크가 왔다.]]></content>
     </entry>
 </feed>
