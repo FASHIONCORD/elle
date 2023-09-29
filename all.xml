@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 12:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 13:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -973,12 +973,14 @@
             <link>https://www.elle.co.kr/article/80998</link>
             <guid>https://www.elle.co.kr/article/80998</guid>
             <pubDate>Wed, 27 Sep 2023 09:13:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/1e185fbf-bd52-402e-a416-0e455e224aac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추석엔 안방 떼창! KBS 대기획 'ㅇㅁㄷ 지오디' 정보 (ft. 18년 만의 팬지 모집) (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/80968</link>
             <guid>https://www.elle.co.kr/article/80968</guid>
             <pubDate>Wed, 27 Sep 2023 04:15:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/ba73358c-d529-48f6-bc79-0827a2bb49c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동시대 한옥을 짓는 연구소, 온지음 집공방 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -986,6 +988,7 @@
             <guid>https://www.elle.co.kr/article/80877</guid>
             <pubDate>Tue, 26 Sep 2023 15:14:20 GMT</pubDate>
             <content:encoded><![CDATA[온지음 집공방은 지금의 한옥을 설계할 수 있는 장인을 양성하는 설계집단이자 연구소다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/2214dfcb-235a-4834-8001-d5b0456ab838.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타일지음 박지선 대표의 취향 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -993,6 +996,7 @@
             <guid>https://www.elle.co.kr/article/80860</guid>
             <pubDate>Tue, 26 Sep 2023 15:14:20 GMT</pubDate>
             <content:encoded><![CDATA[식물의 아름다움을 재발견하는, 스타일지음 대표 박지선.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/abcee328-841a-47f4-989e-308484bbc675.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리즈 서울에서 만난 패션 하우스의 통 큰 프로젝트 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1000,12 +1004,14 @@
             <guid>https://www.elle.co.kr/article/80884</guid>
             <pubDate>Tue, 26 Sep 2023 15:14:20 GMT</pubDate>
             <content:encoded><![CDATA[서울을 예술 도시로 발돋움하게 만든 '프리즈 서울'. 도시에 예술적 에너지가 흘러 넘치도록 패...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/7aa7a251-6e6e-427b-acb0-9cbb55964e17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 수영 폼 무엇?! 중국 꺾고 메달에 신기록까지 세운 아시안게임 수영 성적.txt (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/80942</link>
             <guid>https://www.elle.co.kr/article/80942</guid>
             <pubDate>Wed, 27 Sep 2023 09:12:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/e5f4d8f7-0940-4e33-86d2-f60807782abc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무려 6일 간의 추석 연휴, 하루쯤은 극장 나들이? 기대 가득 개봉작 3 #2023추석 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1013,6 +1019,7 @@
             <guid>https://www.elle.co.kr/article/80938</guid>
             <pubDate>Tue, 26 Sep 2023 09:14:03 GMT</pubDate>
             <content:encoded><![CDATA[강동원부터 임시완, 송강호 열연이 기대되는 한국 영화 3편!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/4b700cbf-b3d8-4a0d-a7be-00ac1d299911.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조경 디자이너 피트 아우돌프의 자연주의 정원 #디아이콘즈 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1020,34 +1027,31 @@
             <guid>https://www.elle.co.kr/article/80870</guid>
             <pubDate>Mon, 25 Sep 2023 16:16:53 GMT</pubDate>
             <content:encoded><![CDATA[자연주의 식재와 여러해살이풀 운동의 아이콘, 피트 아우돌프의 정원.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/0d0190eb-f616-4c4d-9aa0-b67ceb2cc871.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추석엔 안방 떼창! KBS 대기획 'ㅇㅁㄷ 지오디' 정보 (ft. 18년 만의 팬지 모집) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/80968</link>
             <guid>https://www.elle.co.kr/article/80968</guid>
             <pubDate>Wed, 27 Sep 2023 04:15:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/ba73358c-d529-48f6-bc79-0827a2bb49c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 전원 하이브와 두 번째 재계약! 완전체 볼 수 있는 시기는? (ft. 군 복무 스케줄) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/80757</link>
             <guid>https://www.elle.co.kr/article/80757</guid>
             <pubDate>Thu, 21 Sep 2023 00:51:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/ebc6920a-6725-49c9-9f29-516ae3efec1e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 뷔-정국, 원곡 부른 이영지에 펭수까지 나선 '스모크' 챌린지 모음.zip (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/80688</link>
             <guid>https://www.elle.co.kr/article/80688</guid>
             <pubDate>Tue, 19 Sep 2023 03:13:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/88052baf-8d7f-41a8-b83a-d85fd5e392a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[360도 무대 확정! 호남평야 아니면 수용 못하는 임영웅 콘서트 예매 정보.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/80608</link>
             <guid>https://www.elle.co.kr/article/80608</guid>
             <pubDate>Thu, 14 Sep 2023 03:13:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/47299bc7-8299-496f-a0d8-fc43f282c9e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1286,12 +1290,14 @@
             <guid>https://www.elle.co.kr/article/80837</guid>
             <pubDate>Sat, 23 Sep 2023 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/23/46774050-cbd9-4afb-8f3f-b1725bd94270.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먹거리에 볼거리까지! 북적북적 추석 맞고 싶다면? 전통시장 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/80824</link>
             <guid>https://www.elle.co.kr/article/80824</guid>
             <pubDate>Thu, 28 Sep 2023 19:12:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/e8378ffc-3d33-4f77-b3f2-278e71f2b38b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타일리스트들이 즐겨 찾는 편집숍 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1299,6 +1305,7 @@
             <guid>https://www.elle.co.kr/article/80822</guid>
             <pubDate>Wed, 27 Sep 2023 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[패션 피플들이 트렌드의 흐름을 읽기 위해 자주 드나드는 도쿄. 그렇다면 개인적인 ‘득템’을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/930eed9d-00ce-49b7-a5e6-babcab6a5372.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[늘 마시는 라떼 말고! 무궁무진한 라떼의 세계 #마실마실 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1306,6 +1313,7 @@
             <guid>https://www.elle.co.kr/article/80807</guid>
             <pubDate>Sun, 24 Sep 2023 15:13:01 GMT</pubDate>
             <content:encoded><![CDATA[우유를 베이스로 하는 음료 ‘라떼’의 논커피 메뉴를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/d4aab37f-d40d-4245-9c6a-2f94de31ad85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신상 와인바부터 홍콩 느낌 물씬나는 중식당까지! 안소희의 먹킷리스트 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1313,24 +1321,28 @@
             <guid>https://www.elle.co.kr/article/80783</guid>
             <pubDate>Sat, 23 Sep 2023 15:12:36 GMT</pubDate>
             <content:encoded><![CDATA[와인 바와 사천 요리 전문 중식당, 샤부샤부 파인 다이닝 등 안소희의 맛집 좌표가 궁금하다면...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/d157891b-c707-46bb-9a1f-b236bcb3f202.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고양이를 위해 복층으로 이사 가다! ‘집에가야돼’ 대표 부부의 랜선 집들이 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/80777</link>
             <guid>https://www.elle.co.kr/article/80777</guid>
             <pubDate>Thu, 21 Sep 2023 11:12:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/7dac8ac2-9c32-40b3-8396-ecd42b35fd2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[울긋불긋 단풍과 은빛 억새! 시각 만족 힐링에 좋은 가을 축제 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/80712</link>
             <guid>https://www.elle.co.kr/article/80712</guid>
             <pubDate>Fri, 22 Sep 2023 11:11:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/74d524c2-abd1-40aa-bc6b-92d140199928.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아니쉬 카푸어의 크레센도 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/80704</link>
             <guid>https://www.elle.co.kr/article/80704</guid>
             <pubDate>Tue, 19 Sep 2023 09:13:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/63348d01-febb-41fe-85bc-9203cdd5b499.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무라카미 하루키에게 가장 비싼 것_돈쓸신잡 #115 (엘르 코리아 ─ 소사이어티)]]></title>
