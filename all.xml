@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 11:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 12:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1123,6 +1123,7 @@
             <link>https://www.elle.co.kr/article/81029</link>
             <guid>https://www.elle.co.kr/article/81029</guid>
             <pubDate>Sat, 30 Sep 2023 00:50:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/a99f1522-4207-4b86-bb30-ca176103e6b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지창욱X위하준에 독립군 된 김남길까지! 추석 연휴 순삭할 주요 OTT 신작 4 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1354,14 +1355,12 @@
             <link>https://www.elle.co.kr/article/80611</link>
             <guid>https://www.elle.co.kr/article/80611</guid>
             <pubDate>Wed, 27 Sep 2023 21:13:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/eedbe0f0-9802-4870-a48b-9d052767ceff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마을 하나가 순식간에 사라졌다: 120년 만의 모로코 강진 현재 상황 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/80518</link>
             <guid>https://www.elle.co.kr/article/80518</guid>
             <pubDate>Wed, 27 Sep 2023 15:15:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/345a290b-093a-4554-a366-a8eaa05e5a82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 우정의 확장 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1369,14 +1368,12 @@
             <guid>https://www.elle.co.kr/article/80494</guid>
             <pubDate>Wed, 27 Sep 2023 03:13:58 GMT</pubDate>
             <content:encoded><![CDATA[우정의 범주는 어디까지일까? 황선우 작가가 발견한 귀여운 어른들의 세계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/15d0810a-6868-48a2-8545-0c17cf9e94cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그래도 내 집이 있었으면 좋겠다_돈쓸신잡 #114 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/80474</link>
             <guid>https://www.elle.co.kr/article/80474</guid>
             <pubDate>Mon, 25 Sep 2023 16:17:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/351c45c9-5085-4a2d-8b26-e17c252dbf1d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 시작은 사랑 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1384,7 +1381,6 @@
             <guid>https://www.elle.co.kr/ellevoice/essay/80442</guid>
             <pubDate>Thu, 21 Sep 2023 11:12:22 GMT</pubDate>
             <content:encoded><![CDATA[우리 모두의 이야기의 시작에는 사랑이 존재한다. 소설가 성해나가 질문을 던지게 된 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/6499ae43-7ec8-4519-a14e-428b5e31825a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 나의 사랑스러운 털뭉치 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1392,7 +1388,6 @@
             <guid>https://www.elle.co.kr/ellevoice/essay/80423</guid>
             <pubDate>Thu, 14 Sep 2023 05:12:55 GMT</pubDate>
             <content:encoded><![CDATA[정지음 작가에게는 사랑스러운 털뭉치가 있다. 출근하기 직전에는 앉혀놓고 타이르는 것도 잊지 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/e41bcc3f-3410-4088-a152-fe76a5d61fa4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이번 추석은 6일 연휴! 10월 2일 임시 공휴일 확정 (ft. 미리 연차 쓴 사람) (엘르 코리아 ─ 소사이어티)]]></title>
