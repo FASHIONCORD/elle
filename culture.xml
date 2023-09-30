@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 14:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 15:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 번째 프리즈 서울의 낮과 밤]]></title>
+            <link>https://www.elle.co.kr/article/81026</link>
+            <guid>https://www.elle.co.kr/article/81026</guid>
+            <pubDate>Sat, 30 Sep 2023 15:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[두 번째 프리즈 서울. 모두가 이야기했던 예술가와 떠들썩했던 서울의 낮과 밤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/8bd692f3-f086-4396-a474-41090cea176b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로낭 부홀렉의 디자인으로 다시 태어난 성당 '드 브라스파르']]></title>
             <link>https://www.elle.co.kr/article/80956</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/80968</guid>
             <pubDate>Thu, 28 Sep 2023 15:15:01 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/ba73358c-d529-48f6-bc79-0827a2bb49c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동시대 한옥을 짓는 연구소, 온지음 집공방]]></title>
-            <link>https://www.elle.co.kr/article/80877</link>
-            <guid>https://www.elle.co.kr/article/80877</guid>
-            <pubDate>Wed, 27 Sep 2023 19:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[온지음 집공방은 지금의 한옥을 설계할 수 있는 장인을 양성하는 설계집단이자 연구소다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/2214dfcb-235a-4834-8001-d5b0456ab838.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
