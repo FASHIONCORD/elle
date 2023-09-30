@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-09-30T03:14:12.029Z</updated>
+    <updated>2023-09-30T04:16:04.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로낭 부홀렉의 디자인으로 다시 태어난 성당 '드 브라스파르']]></title>
+        <id>https://www.elle.co.kr/article/80956</id>
+        <link href="https://www.elle.co.kr/article/80956"/>
+        <updated>2023-09-30T04:15:09.122Z</updated>
+        <content type="html"><![CDATA[간결하고 세련된 디자인이 고고한 아름다움과 절묘한 조화를 이룬다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화이트 큐브 개관전에서 만난 이진주]]></title>
         <id>https://www.elle.co.kr/article/80953</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/80877"/>
         <updated>2023-09-27T19:11:13.189Z</updated>
         <content type="html"><![CDATA[온지음 집공방은 지금의 한옥을 설계할 수 있는 장인을 양성하는 설계집단이자 연구소다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타일지음 박지선 대표의 취향]]></title>
-        <id>https://www.elle.co.kr/article/80860</id>
-        <link href="https://www.elle.co.kr/article/80860"/>
-        <updated>2023-09-27T15:14:09.089Z</updated>
-        <content type="html"><![CDATA[식물의 아름다움을 재발견하는, 스타일지음 대표 박지선.]]></content>
     </entry>
 </feed>
