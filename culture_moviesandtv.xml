@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 04:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 05:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://www.elle.co.kr/article/81029</link>
             <guid>https://www.elle.co.kr/article/81029</guid>
             <pubDate>Sat, 30 Sep 2023 00:50:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/a99f1522-4207-4b86-bb30-ca176103e6b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지창욱X위하준에 독립군 된 김남길까지! 추석 연휴 순삭할 주요 OTT 신작 4]]></title>
@@ -19,12 +20,14 @@
             <guid>https://www.elle.co.kr/article/81010</guid>
             <pubDate>Wed, 27 Sep 2023 19:11:31 GMT</pubDate>
             <content:encoded><![CDATA[추석 연휴 겨냥한 주요 OTT 신작들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/d18eec2e-9e62-4ea5-aaa6-a08f3d80caa5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['공조'부터 '헤어질 결심', '브로커'까지! 연휴 TV 최신 영화 편성표 #2023추석]]></title>
             <link>https://www.elle.co.kr/article/80999</link>
             <guid>https://www.elle.co.kr/article/80999</guid>
             <pubDate>Wed, 27 Sep 2023 10:13:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/55e42507-f9cd-4d93-b103-2fdde1527d9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무려 6일 간의 추석 연휴, 하루쯤은 극장 나들이? 기대 가득 개봉작 3 #2023추석]]></title>
