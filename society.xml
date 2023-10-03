@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 10:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 11:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://www.elle.co.kr/article/80611</link>
             <guid>https://www.elle.co.kr/article/80611</guid>
             <pubDate>Wed, 27 Sep 2023 21:13:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/eedbe0f0-9802-4870-a48b-9d052767ceff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마을 하나가 순식간에 사라졌다: 120년 만의 모로코 강진 현재 상황]]></title>
