@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-03T15:14:44.843Z</updated>
+    <updated>2023-10-03T16:17:03.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석 연휴 정주행 각! '나는 솔로' 16기 역대급 에피소드 3]]></title>
+        <id>https://www.elle.co.kr/article/81029</id>
+        <link href="https://www.elle.co.kr/article/81029"/>
+        <updated>2023-10-03T16:16:01.591Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석 연휴 시작 전 미리 저장 각! 한혜진의 2주 다이어트 Tip]]></title>
+        <id>https://www.elle.co.kr/article/81028</id>
+        <link href="https://www.elle.co.kr/article/81028"/>
+        <updated>2023-10-03T16:16:01.623Z</updated>
+        <content type="html"><![CDATA[건강하게 다이어트를 하고 싶다면 주목! 근육은 유지하고 체지방만 빼는 한혜진의 2주 다이어트.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꼬순내 가득! 따라해 보고 싶은 정재형의 추석 음식 레서피 5]]></title>
         <id>https://www.elle.co.kr/article/81017</id>
@@ -44,18 +57,5 @@
         <id>https://www.elle.co.kr/article/80992</id>
         <link href="https://www.elle.co.kr/article/80992"/>
         <updated>2023-09-28T19:11:14.046Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석엔 안방 떼창! KBS 대기획 'ㅇㅁㄷ 지오디' 정보 (ft. 18년 만의 팬지 모집)]]></title>
-        <id>https://www.elle.co.kr/article/80968</id>
-        <link href="https://www.elle.co.kr/article/80968"/>
-        <updated>2023-09-27T19:11:03.965Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 모두를 향한 아이유의 러브 송]]></title>
-        <id>https://www.elle.co.kr/article/80950</id>
-        <link href="https://www.elle.co.kr/article/80950"/>
-        <updated>2023-09-27T15:13:57.524Z</updated>
-        <content type="html"><![CDATA[단어는 음절이 되고, 음절은 노래가, 노래는 끝내 사랑이 되어 울려 퍼진다. 너랑 나 그리고 ...]]></content>
     </entry>
 </feed>
