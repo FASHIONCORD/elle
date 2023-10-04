@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-10-04T19:12:05.097Z</updated>
+    <updated>2023-10-04T20:14:42.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라의 웰비잉 순위는 세계 몇 위일까?]]></title>
+        <id>https://www.elle.co.kr/article/80966</id>
+        <link href="https://www.elle.co.kr/article/80966"/>
+        <updated>2023-10-04T20:14:41.829Z</updated>
+        <content type="html"><![CDATA[지금 전 세계는 웰비잉 딜레마! 룰루레몬의 2023 글로벌 웰비잉 리포트 읽기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고라니를 사랑하세요? 몸을 낮추자 보인 각각의 초상과 고유함]]></title>
         <id>https://www.elle.co.kr/article/80880</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/ellevoice/essay/80442"/>
         <updated>2023-09-21T11:12:22.711Z</updated>
         <content type="html"><![CDATA[우리 모두의 이야기의 시작에는 사랑이 존재한다. 소설가 성해나가 질문을 던지게 된 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 나의 사랑스러운 털뭉치]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/80423</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/80423"/>
-        <updated>2023-09-14T05:12:55.342Z</updated>
-        <content type="html"><![CDATA[정지음 작가에게는 사랑스러운 털뭉치가 있다. 출근하기 직전에는 앉혀놓고 타이르는 것도 잊지 ...]]></content>
     </entry>
 </feed>
