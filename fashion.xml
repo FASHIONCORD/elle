@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 06:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 07:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 시대 새로운 조형미에 대한 아름다운 고찰]]></title>
+            <link>https://www.elle.co.kr/article/80991</link>
+            <guid>https://www.elle.co.kr/article/80991</guid>
+            <pubDate>Wed, 04 Oct 2023 07:11:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/b27e8311-267e-4b99-af1b-cf602b6f0c11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알쓸옷잡]]></title>
             <link>https://www.elle.co.kr/article/81041</link>
@@ -62,14 +69,6 @@
             <pubDate>Sat, 30 Sep 2023 15:11:39 GMT</pubDate>
             <content:encoded><![CDATA[귀여움 포텐 터지는 데일리 룩부터 성숙함이 느껴지는 오버롤 팬츠 룩까지, 각자의 개성대로 소...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/1a47104a-e552-443c-a48d-47293ec7c1ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리즈 서울에서 만난 패션 하우스의 통 큰 프로젝트]]></title>
-            <link>https://www.elle.co.kr/article/80884</link>
-            <guid>https://www.elle.co.kr/article/80884</guid>
-            <pubDate>Sat, 30 Sep 2023 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[서울을 예술 도시로 발돋움하게 만든 '프리즈 서울'. 도시에 예술적 에너지가 흘러 넘치도록 패...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/7aa7a251-6e6e-427b-acb0-9cbb55964e17.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
