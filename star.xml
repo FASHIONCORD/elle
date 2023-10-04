@@ -1,72 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 18:17:13 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<도적:칼의 소리>의 언년이, 이호정]]></title>
-            <link>https://www.elle.co.kr/article/81006</link>
-            <guid>https://www.elle.co.kr/article/81006</guid>
-            <pubDate>Wed, 04 Oct 2023 15:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[쏜살같이 날아가는 총알처럼 날카롭다가도 어느새 장미처럼 다시 우아하게 피어나는 이호정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/92b1ce71-ffe2-49f4-944c-a3835cc3d5af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게만 하면 꿀피부 보장? 손태영의 홈 케어 루틴 공개!]]></title>
-            <link>https://www.elle.co.kr/article/81050</link>
-            <guid>https://www.elle.co.kr/article/81050</guid>
-            <pubDate>Wed, 04 Oct 2023 14:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[결점 없는 피부를 유지하기 위한 노력은 계속된다! 꼼꼼한 이중 세안부터 윤곽 관리까지, 손태영...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/ef7095ec-0f00-4c99-bee2-1b483b65952a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1996년 투팍 살인 사건 용의자, 27년 만에 체포된 후 꺼낸 진술]]></title>
-            <link>https://www.elle.co.kr/article/81031</link>
-            <guid>https://www.elle.co.kr/article/81031</guid>
-            <pubDate>Wed, 04 Oct 2023 09:14:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/b947e6d9-dae5-4cc2-91bc-3da59ccae7a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 음식 먹고 살찌기 전 저장! 윤은혜X한혜진X장영란의 '급찐급빠' 노하우 모음 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81030</link>
-            <guid>https://www.elle.co.kr/article/81030</guid>
-            <pubDate>Wed, 04 Oct 2023 09:14:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/5c8cf617-74bc-4923-9168-c43a91f2a77e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 연휴 정주행 각! '나는 솔로' 16기 역대급 에피소드 3]]></title>
-            <link>https://www.elle.co.kr/article/81029</link>
-            <guid>https://www.elle.co.kr/article/81029</guid>
-            <pubDate>Tue, 03 Oct 2023 16:16:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/a99f1522-4207-4b86-bb30-ca176103e6b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 연휴 시작 전 미리 저장 각! 한혜진의 2주 다이어트 Tip]]></title>
-            <link>https://www.elle.co.kr/article/81028</link>
-            <guid>https://www.elle.co.kr/article/81028</guid>
-            <pubDate>Tue, 03 Oct 2023 16:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[건강하게 다이어트를 하고 싶다면 주목! 근육은 유지하고 체지방만 빼는 한혜진의 2주 다이어트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/e58e3b5a-ac57-47f7-9cbf-feaec6877c47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼬순내 가득! 따라해 보고 싶은 정재형의 추석 음식 레서피 5]]></title>
-            <link>https://www.elle.co.kr/article/81017</link>
-            <guid>https://www.elle.co.kr/article/81017</guid>
-            <pubDate>Sun, 01 Oct 2023 19:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[‘요잘알’ 정재형이 맛있는 전 만드는 방법을 알려드립니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/3137dab7-644f-4e6b-8caf-5fb7e10034fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지창욱X위하준에 독립군 된 김남길까지! 추석 연휴 순삭할 주요 OTT 신작 4]]></title>
-            <link>https://www.elle.co.kr/article/81010</link>
-            <guid>https://www.elle.co.kr/article/81010</guid>
-            <pubDate>Sat, 30 Sep 2023 02:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[추석 연휴 겨냥한 주요 OTT 신작들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/d18eec2e-9e62-4ea5-aaa6-a08f3d80caa5.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-10-04T19:12:05.127Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<도적:칼의 소리>의 언년이, 이호정]]></title>
+        <id>https://www.elle.co.kr/article/81006</id>
+        <link href="https://www.elle.co.kr/article/81006"/>
+        <updated>2023-10-04T15:13:38.252Z</updated>
+        <content type="html"><![CDATA[쏜살같이 날아가는 총알처럼 날카롭다가도 어느새 장미처럼 다시 우아하게 피어나는 이호정.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이렇게만 하면 꿀피부 보장? 손태영의 홈 케어 루틴 공개!]]></title>
+        <id>https://www.elle.co.kr/article/81050</id>
+        <link href="https://www.elle.co.kr/article/81050"/>
+        <updated>2023-10-04T14:12:38.204Z</updated>
+        <content type="html"><![CDATA[결점 없는 피부를 유지하기 위한 노력은 계속된다! 꼼꼼한 이중 세안부터 윤곽 관리까지, 손태영...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1996년 투팍 살인 사건 용의자, 27년 만에 체포된 후 꺼낸 진술]]></title>
+        <id>https://www.elle.co.kr/article/81031</id>
+        <link href="https://www.elle.co.kr/article/81031"/>
+        <updated>2023-10-04T09:14:02.694Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석 음식 먹고 살찌기 전 저장! 윤은혜X한혜진X장영란의 '급찐급빠' 노하우 모음 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81030</id>
+        <link href="https://www.elle.co.kr/article/81030"/>
+        <updated>2023-10-04T09:14:02.697Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석 연휴 정주행 각! '나는 솔로' 16기 역대급 에피소드 3]]></title>
+        <id>https://www.elle.co.kr/article/81029</id>
+        <link href="https://www.elle.co.kr/article/81029"/>
+        <updated>2023-10-03T16:16:01.591Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석 연휴 시작 전 미리 저장 각! 한혜진의 2주 다이어트 Tip]]></title>
+        <id>https://www.elle.co.kr/article/81028</id>
+        <link href="https://www.elle.co.kr/article/81028"/>
+        <updated>2023-10-03T16:16:01.623Z</updated>
+        <content type="html"><![CDATA[건강하게 다이어트를 하고 싶다면 주목! 근육은 유지하고 체지방만 빼는 한혜진의 2주 다이어트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꼬순내 가득! 따라해 보고 싶은 정재형의 추석 음식 레서피 5]]></title>
+        <id>https://www.elle.co.kr/article/81017</id>
+        <link href="https://www.elle.co.kr/article/81017"/>
+        <updated>2023-10-01T19:10:32.682Z</updated>
+        <content type="html"><![CDATA[‘요잘알’ 정재형이 맛있는 전 만드는 방법을 알려드립니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지창욱X위하준에 독립군 된 김남길까지! 추석 연휴 순삭할 주요 OTT 신작 4]]></title>
+        <id>https://www.elle.co.kr/article/81010</id>
+        <link href="https://www.elle.co.kr/article/81010"/>
+        <updated>2023-09-30T02:16:46.851Z</updated>
+        <content type="html"><![CDATA[추석 연휴 겨냥한 주요 OTT 신작들.]]></content>
+    </entry>
+</feed>
