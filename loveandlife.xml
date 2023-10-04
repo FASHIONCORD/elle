@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 23:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 00:54:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쓰리데이즈오브디자인에서 만난 뱅앤올룹슨]]></title>
+            <link>https://www.elle.co.kr/article/80821</link>
+            <guid>https://www.elle.co.kr/article/80821</guid>
+            <pubDate>Wed, 04 Oct 2023 00:54:41 GMT</pubDate>
+            <content:encoded><![CDATA[장인의 손끝에서 탄생해 디자인이 감싸 안은 사운드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/5e80b033-dc1c-4dfb-bc19-22f142b3b361.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안도 타다오가 반세기 동안 증명해 온 것들 #디아이콘즈]]></title>
             <link>https://www.elle.co.kr/article/80820</link>
@@ -60,13 +68,6 @@
             <guid>https://www.elle.co.kr/article/80777</guid>
             <pubDate>Sat, 23 Sep 2023 09:12:09 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/7dac8ac2-9c32-40b3-8396-ecd42b35fd2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울긋불긋 단풍과 은빛 억새! 시각 만족 힐링에 좋은 가을 축제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/80712</link>
-            <guid>https://www.elle.co.kr/article/80712</guid>
-            <pubDate>Fri, 22 Sep 2023 11:11:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/74d524c2-abd1-40aa-bc6b-92d140199928.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
