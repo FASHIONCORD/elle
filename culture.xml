@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 14:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 15:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메달이 무려 22개! 애국심 차오르는 역대급 아시안게임 수영 성적 종합.ver]]></title>
+            <link>https://www.elle.co.kr/article/81054</link>
+            <guid>https://www.elle.co.kr/article/81054</guid>
+            <pubDate>Wed, 04 Oct 2023 15:13:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/f8cd1abc-4092-4790-a78b-0144f8edbba5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 건물이 달라졌어요]]></title>
+            <link>https://www.elle.co.kr/article/81040</link>
+            <guid>https://www.elle.co.kr/article/81040</guid>
+            <pubDate>Wed, 04 Oct 2023 15:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[건축물이 레너베이션을 통해 새롭게 태어났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/8d8461cf-406c-4740-a8f9-f3125e61a5c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['콜바넴' 속 그 집, 누가 디자인했을까? #디아이콘즈]]></title>
             <link>https://www.elle.co.kr/article/81024</link>
@@ -51,22 +66,6 @@
             <pubDate>Sat, 30 Sep 2023 15:12:15 GMT</pubDate>
             <content:encoded><![CDATA[두 번째 프리즈 서울. 모두가 이야기했던 예술가와 떠들썩했던 서울의 낮과 밤.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/8bd692f3-f086-4396-a474-41090cea176b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로낭 부홀렉의 디자인으로 다시 태어난 성당 '드 브라스파르']]></title>
-            <link>https://www.elle.co.kr/article/80956</link>
-            <guid>https://www.elle.co.kr/article/80956</guid>
-            <pubDate>Sat, 30 Sep 2023 04:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[간결하고 세련된 디자인이 고고한 아름다움과 절묘한 조화를 이룬다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/98c35e88-67f6-419e-a7fd-8288347077cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화이트 큐브 개관전에서 만난 이진주]]></title>
-            <link>https://www.elle.co.kr/article/80953</link>
-            <guid>https://www.elle.co.kr/article/80953</guid>
-            <pubDate>Sat, 30 Sep 2023 02:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[아시아 두 번째로 서울에 문을 연 화이트 큐브 개관전. 7인 아티스트 중에서 유일한 한국 여성...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/98ea7683-3a07-44ce-aab4-acfe9f944eb2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
