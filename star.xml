@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-05T18:17:15.699Z</updated>
+    <updated>2023-10-05T19:12:04.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제니부터 정국, 이효리까지! 올가을 귀 호강 예약 신보 소식.list]]></title>
+        <id>https://www.elle.co.kr/article/81125</id>
+        <link href="https://www.elle.co.kr/article/81125"/>
+        <updated>2023-10-05T19:10:54.616Z</updated>
+        <content type="html"><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최대 시청자 25만 명, 전설이 된 '나는 솔로' 16기 라방에서 나온 말들 (ft. 현커)]]></title>
         <id>https://www.elle.co.kr/article/81116</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/81006"/>
         <updated>2023-10-04T15:13:38.252Z</updated>
         <content type="html"><![CDATA[쏜살같이 날아가는 총알처럼 날카롭다가도 어느새 장미처럼 다시 우아하게 피어나는 이호정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이렇게만 하면 꿀피부 보장? 손태영의 홈 케어 루틴 공개!]]></title>
-        <id>https://www.elle.co.kr/article/81050</id>
-        <link href="https://www.elle.co.kr/article/81050"/>
-        <updated>2023-10-04T14:12:38.204Z</updated>
-        <content type="html"><![CDATA[결점 없는 피부를 유지하기 위한 노력은 계속된다! 꼼꼼한 이중 세안부터 윤곽 관리까지, 손태영...]]></content>
     </entry>
 </feed>
