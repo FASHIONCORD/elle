@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 14:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 15:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수라, 새만금 마지막 갯벌을 지키려는 사람들이 바치는 송가]]></title>
+            <link>https://www.elle.co.kr/article/80951</link>
+            <guid>https://www.elle.co.kr/article/80951</guid>
+            <pubDate>Thu, 05 Oct 2023 15:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[아름다움을 목도한 사람은 그 전으로 돌아갈 수 없다. 황윤 감독의 다큐멘터리 &lt;수라&gt;는 갯벌에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/c9dd25cd-6d5e-4c76-9cf2-f7adc847b86b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라의 웰비잉 순위는 세계 몇 위일까?]]></title>
             <link>https://www.elle.co.kr/article/80966</link>
@@ -58,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/80474</guid>
             <pubDate>Mon, 25 Sep 2023 16:17:26 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/351c45c9-5085-4a2d-8b26-e17c252dbf1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 시작은 사랑]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/80442</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/80442</guid>
-            <pubDate>Thu, 21 Sep 2023 11:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[우리 모두의 이야기의 시작에는 사랑이 존재한다. 소설가 성해나가 질문을 던지게 된 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/6499ae43-7ec8-4519-a14e-428b5e31825a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
