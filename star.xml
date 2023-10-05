@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 04:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 05:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크래비티 아홉 명이 보여준 명징한 세계]]></title>
+            <link>https://www.elle.co.kr/article/81106</link>
+            <guid>https://www.elle.co.kr/article/81106</guid>
+            <pubDate>Thu, 05 Oct 2023 05:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[제대로 달리는 법을 아는 아홉 명의 청춘들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/13cce5bf-2e8e-4c0c-ba14-428b6fff0b63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼스타 컴백! 이효리, 6년 만의 신곡 X 10년 만의 상업 광고 (ft. 행주)]]></title>
             <link>https://www.elle.co.kr/article/81109</link>
@@ -58,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/81031</guid>
             <pubDate>Wed, 04 Oct 2023 09:14:02 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/b947e6d9-dae5-4cc2-91bc-3da59ccae7a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 음식 먹고 살찌기 전 저장! 윤은혜X한혜진X장영란의 '급찐급빠' 노하우 모음 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81030</link>
-            <guid>https://www.elle.co.kr/article/81030</guid>
-            <pubDate>Wed, 04 Oct 2023 09:14:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/5c8cf617-74bc-4923-9168-c43a91f2a77e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

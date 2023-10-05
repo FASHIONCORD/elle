@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-10-05T04:15:08.776Z</updated>
+    <updated>2023-10-05T05:14:05.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전 국립중앙박물관장 혜곡 최순우의 옛집]]></title>
+        <id>https://www.elle.co.kr/article/81108</id>
+        <link href="https://www.elle.co.kr/article/81108"/>
+        <updated>2023-10-05T05:13:07.043Z</updated>
+        <content type="html"><![CDATA[한국미 전파에 힘쓴 전 국립중앙박물관장 혜곡 최순우의 안목과 멋, 예술혼이 배어 있는 한옥.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg]]></title>
         <id>https://www.elle.co.kr/article/81111</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/81024"/>
         <updated>2023-10-03T16:16:11.926Z</updated>
         <content type="html"><![CDATA[루카 구아다니노가 스크린 너머로 빚어낸 꿈의 공간들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이커의 LoL 대표팀 X 44세 김관우! 감동의 e스포츠 초대 챔피언들]]></title>
-        <id>https://www.elle.co.kr/article/81032</id>
-        <link href="https://www.elle.co.kr/article/81032"/>
-        <updated>2023-10-02T15:14:32.924Z</updated>
     </entry>
 </feed>
