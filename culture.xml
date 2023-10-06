@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 06:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 07:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[함정을 찾아라! 스타들의 AI 이어북 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/81130</link>
+            <guid>https://www.elle.co.kr/article/81130</guid>
+            <pubDate>Fri, 06 Oct 2023 07:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[설마 아직도 안 해본 건 아니죠?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/ea32496d-386d-4261-9c64-968b7e41757a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ 계정 공유 막고, 넷플릭스 가격 올린다? OTT 요금 및 정책 변경 정리]]></title>
             <link>https://www.elle.co.kr/article/81126</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 05 Oct 2023 03:13:17 GMT</pubDate>
             <content:encoded><![CDATA['제품과 작품의 경계에 있는 디자인'을 만드는 라이프스타일 브랜드 '세이투셰(Say Touché)'를 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/c6f52647-6986-48df-a0fe-c7157585ea5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강풀에게 이름을 빌려준 남자]]></title>
-            <link>https://www.elle.co.kr/article/81001</link>
-            <guid>https://www.elle.co.kr/article/81001</guid>
-            <pubDate>Thu, 05 Oct 2023 00:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;무빙&gt;의 빌런 '민용준' 차장과 내 이름이 같은 건 결코 우연이 아니다. 그 인연으로 더 샅샅...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/1450ab4c-d1ef-498c-9022-530910861925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
