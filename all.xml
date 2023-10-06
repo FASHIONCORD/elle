@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 01:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 02:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -814,6 +814,7 @@
             <guid>https://www.elle.co.kr/article/81064</guid>
             <pubDate>Fri, 06 Oct 2023 00:51:15 GMT</pubDate>
             <content:encoded><![CDATA[마주하는 순간 빠져든다. 극강의 반짝임을 가진 워치 &amp; 주얼리가 전하는 황홀경.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/34a1dec9-5ac9-408b-bfa9-c215e02cd807.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민니와 론진이 보여주는 쿨 애티튜드 (엘르 코리아 ─ 패션)]]></title>
@@ -821,6 +822,7 @@
             <guid>https://www.elle.co.kr/article/80988</guid>
             <pubDate>Thu, 05 Oct 2023 15:13:12 GMT</pubDate>
             <content:encoded><![CDATA[민니와 론진의 만남, 자신만의 속도로 나아가고 있는 민니의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/f4165adc-2816-46ec-8c67-a394f4682017.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올시즌 우리에게 꼭 필요한 건 무엇? 블랙 롱부츠 쇼핑 리스트 6 (엘르 코리아 ─ 패션)]]></title>
@@ -828,6 +830,7 @@
             <guid>https://www.elle.co.kr/article/81061</guid>
             <pubDate>Thu, 05 Oct 2023 15:13:12 GMT</pubDate>
             <content:encoded><![CDATA[돌아온 부츠의 계절! 신기만 해도 스타일 지수를 상승 시키는 블랙 롱부츠로 쿨한 아웃핏을 완...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/672b76d7-83c0-47a7-a784-b501f888a2aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을을 위한 가장 완벽한 신발 #로퍼 (엘르 코리아 ─ 패션)]]></title>
@@ -835,6 +838,7 @@
             <guid>https://www.elle.co.kr/article/81057</guid>
             <pubDate>Thu, 05 Oct 2023 01:52:30 GMT</pubDate>
             <content:encoded><![CDATA[로퍼를 신고 가을 멋쟁이로 거듭나보세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/b8f72c98-1672-481d-92d6-5628b387c583.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이힐이 왜 거기서 나와? (엘르 코리아 ─ 패션)]]></title>
@@ -842,12 +846,14 @@
             <guid>https://www.elle.co.kr/article/81048</guid>
             <pubDate>Wed, 04 Oct 2023 19:10:11 GMT</pubDate>
             <content:encoded><![CDATA[클러치부터 스타킹까지, 하이힐의 기묘한 변신.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/5572c767-3dc6-423c-82fb-e822066cc2c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 시대 새로운 조형미에 대한 아름다운 고찰 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/80991</link>
             <guid>https://www.elle.co.kr/article/80991</guid>
             <pubDate>Wed, 04 Oct 2023 07:11:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/b27e8311-267e-4b99-af1b-cf602b6f0c11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알쓸옷잡 (엘르 코리아 ─ 패션)]]></title>
@@ -855,6 +861,7 @@
             <guid>https://www.elle.co.kr/article/81041</guid>
             <pubDate>Wed, 04 Oct 2023 01:51:23 GMT</pubDate>
             <content:encoded><![CDATA[알고 보면 쓸데 있는 패션 탐구생활.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/568613b5-09de-4edb-b910-0f57a2d20d97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 방식으로 돌아온 50년대 (엘르 코리아 ─ 패션)]]></title>
@@ -862,6 +869,7 @@
             <guid>https://www.elle.co.kr/article/80975</guid>
             <pubDate>Tue, 03 Oct 2023 19:10:46 GMT</pubDate>
             <content:encoded><![CDATA[디자이너들이 50년대 클래식을 재해석하는 방식에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/6e6568ea-31d7-4afd-94f2-ad0327921d51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이렇게만 하면 꿀피부 보장? 손태영의 홈 케어 루틴 공개! (엘르 코리아 ─ 뷰티)]]></title>
@@ -1212,6 +1220,7 @@
             <guid>https://www.elle.co.kr/article/81146</guid>
             <pubDate>Thu, 05 Oct 2023 15:15:03 GMT</pubDate>
             <content:encoded><![CDATA[이탈리아 베로나에서 만난 20세기 건축가 카를로 스카르파.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/de15f2d9-ed4b-43d4-9387-7f8886f3e355.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피아니스트 선우예권 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1219,12 +1228,14 @@
             <guid>https://www.elle.co.kr/article/81124</guid>
             <pubDate>Thu, 05 Oct 2023 15:15:03 GMT</pubDate>
             <content:encoded><![CDATA[고요하다가 어느 순간 높은 파도로 거대해질지 모르는 잔잔한 물결 같은 선우예권의 선율.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/0cd1a0c8-29d2-4384-a591-1135e8ca1847.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1980년대 캘리포니아 주택을 사랑스러운 놀이터로 가꾼 워킹맘 브릴의 랜선 집들이 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/81132</link>
             <guid>https://www.elle.co.kr/article/81132</guid>
             <pubDate>Thu, 05 Oct 2023 05:13:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/4e5a4f43-e9d0-464d-95cd-f7a71bc8df18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 국립중앙박물관장 혜곡 최순우의 옛집 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1232,6 +1243,7 @@
             <guid>https://www.elle.co.kr/article/81108</guid>
             <pubDate>Wed, 04 Oct 2023 15:14:19 GMT</pubDate>
             <content:encoded><![CDATA[한국미 전파에 힘쓴 전 국립중앙박물관장 혜곡 최순우의 안목과 멋, 예술혼이 배어 있는 한옥.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/1fe02653-d172-4056-aefe-198caf8966d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1302,14 +1314,12 @@
             <guid>https://www.elle.co.kr/article/81017</guid>
             <pubDate>Thu, 05 Oct 2023 19:11:53 GMT</pubDate>
             <content:encoded><![CDATA[‘요잘알’ 정재형이 맛있는 전 만드는 방법을 알려드립니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/3137dab7-644f-4e6b-8caf-5fb7e10034fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포틀랜드에 사는 카피라이터 애비 모건의 1950년대 미드 센추리 모던 주택 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/80998</link>
             <guid>https://www.elle.co.kr/article/80998</guid>
             <pubDate>Wed, 27 Sep 2023 09:13:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/1e185fbf-bd52-402e-a416-0e455e224aac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쓰리데이즈오브디자인에서 만난 뱅앤올룹슨 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1317,7 +1327,6 @@
             <guid>https://www.elle.co.kr/article/80821</guid>
             <pubDate>Wed, 04 Oct 2023 00:54:41 GMT</pubDate>
             <content:encoded><![CDATA[장인의 손끝에서 탄생해 디자인이 감싸 안은 사운드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/5e80b033-dc1c-4dfb-bc19-22f142b3b361.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안도 타다오가 반세기 동안 증명해 온 것들 #디아이콘즈 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1325,7 +1334,6 @@
             <guid>https://www.elle.co.kr/article/80820</guid>
             <pubDate>Sat, 30 Sep 2023 19:10:29 GMT</pubDate>
             <content:encoded><![CDATA[순도 높은 콘크리트와 기하학만으로 안도 타다오의 건축을 설명할 수는 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/723872c5-7481-436d-9ee7-c53ec123fe0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시끌벅적 '아톰 부츠'의 주인공, 미스치프가 대림미술관에 상륙한다? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1333,14 +1341,12 @@
             <guid>https://www.elle.co.kr/article/80837</guid>
             <pubDate>Sat, 23 Sep 2023 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/23/46774050-cbd9-4afb-8f3f-b1725bd94270.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먹거리에 볼거리까지! 북적북적 추석 맞고 싶다면? 전통시장 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/80824</link>
             <guid>https://www.elle.co.kr/article/80824</guid>
             <pubDate>Thu, 28 Sep 2023 19:12:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/e8378ffc-3d33-4f77-b3f2-278e71f2b38b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타일리스트들이 즐겨 찾는 편집숍 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1348,7 +1354,6 @@
             <guid>https://www.elle.co.kr/article/80822</guid>
             <pubDate>Wed, 27 Sep 2023 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[패션 피플들이 트렌드의 흐름을 읽기 위해 자주 드나드는 도쿄. 그렇다면 개인적인 ‘득템’을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/930eed9d-00ce-49b7-a5e6-babcab6a5372.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[늘 마시는 라떼 말고! 무궁무진한 라떼의 세계 #마실마실 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1356,7 +1361,6 @@
             <guid>https://www.elle.co.kr/article/80807</guid>
             <pubDate>Sun, 24 Sep 2023 15:13:01 GMT</pubDate>
             <content:encoded><![CDATA[우유를 베이스로 하는 음료 ‘라떼’의 논커피 메뉴를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/d4aab37f-d40d-4245-9c6a-2f94de31ad85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수라, 새만금 마지막 갯벌을 지키려는 사람들이 바치는 송가 (엘르 코리아 ─ 소사이어티)]]></title>
