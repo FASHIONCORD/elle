@@ -4,9 +4,15 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 08:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 09:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석에 살쪘다면 주목! 남은 명절 음식으로 만드는 다이어트 레시피 3]]></title>
+            <link>https://www.elle.co.kr/article/81062</link>
+            <guid>https://www.elle.co.kr/article/81062</guid>
+            <pubDate>Fri, 06 Oct 2023 09:13:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[가을이 성큼! 제철을 맞은 무화과 디저트 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/81039</link>
@@ -60,13 +66,6 @@
             <pubDate>Fri, 29 Sep 2023 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/23/46774050-cbd9-4afb-8f3f-b1725bd94270.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹거리에 볼거리까지! 북적북적 추석 맞고 싶다면? 전통시장 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/80824</link>
-            <guid>https://www.elle.co.kr/article/80824</guid>
-            <pubDate>Thu, 28 Sep 2023 19:12:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/e8378ffc-3d33-4f77-b3f2-278e71f2b38b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
