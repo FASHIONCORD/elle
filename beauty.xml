@@ -4,14 +4,23 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 18:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 19:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오일 스킨케어에 대한 진실 7가지_선배’s 어드바이스 #188]]></title>
+            <link>https://www.elle.co.kr/article/81094</link>
+            <guid>https://www.elle.co.kr/article/81094</guid>
+            <pubDate>Fri, 06 Oct 2023 19:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[찢어질 듯한 피부를 구하러 온 해결사 오일, 여태 잘못 쓰고 있었다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/83204c90-110b-4207-a59f-d57c7c2b8ad6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추석에 살쪘다면 주목! 남은 명절 음식으로 만드는 다이어트 레시피 3]]></title>
             <link>https://www.elle.co.kr/article/81062</link>
             <guid>https://www.elle.co.kr/article/81062</guid>
             <pubDate>Fri, 06 Oct 2023 16:15:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/0522e753-2207-469b-896e-f73c64980988.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조용한 럭셔리의 본질]]></title>
@@ -19,6 +28,7 @@
             <guid>https://www.elle.co.kr/article/81059</guid>
             <pubDate>Fri, 06 Oct 2023 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[각기 다른 영역에서 저마다 견고한 입지를 구축한 네 명의 여성과의 대화.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/cc195fdd-64ad-48f6-8eed-1b8ed6c050af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이렇게만 하면 꿀피부 보장? 손태영의 홈 케어 루틴 공개!]]></title>
@@ -58,14 +68,6 @@
             <pubDate>Tue, 03 Oct 2023 16:15:51 GMT</pubDate>
             <content:encoded><![CDATA[지금 전 세계는 웰비잉 딜레마! 룰루레몬의 2023 글로벌 웰비잉 리포트 읽기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/088e1be0-e482-41bf-8489-da6454a91057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 피부 장벽을 지켜줄 pH 농도는?_선배’s 어드바이스 #187]]></title>
-            <link>https://www.elle.co.kr/article/80890</link>
-            <guid>https://www.elle.co.kr/article/80890</guid>
-            <pubDate>Sun, 01 Oct 2023 19:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[약산성, 미산성? 피부 건강과 직결된 pH! 간과하고 있었다면 주목.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/a19f02e0-01fd-4155-be6b-886aca44d86f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
