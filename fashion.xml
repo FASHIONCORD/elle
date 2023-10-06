@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 23:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 00:52:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반짝반짝 눈이 부셔!]]></title>
+            <link>https://www.elle.co.kr/article/81064</link>
+            <guid>https://www.elle.co.kr/article/81064</guid>
+            <pubDate>Fri, 06 Oct 2023 00:51:15 GMT</pubDate>
+            <content:encoded><![CDATA[마주하는 순간 빠져든다. 극강의 반짝임을 가진 워치 &amp; 주얼리가 전하는 황홀경.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/34a1dec9-5ac9-408b-bfa9-c215e02cd807.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민니와 론진이 보여주는 쿨 애티튜드]]></title>
             <link>https://www.elle.co.kr/article/80988</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 03 Oct 2023 19:10:46 GMT</pubDate>
             <content:encoded><![CDATA[디자이너들이 50년대 클래식을 재해석하는 방식에 대하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/6e6568ea-31d7-4afd-94f2-ad0327921d51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제대로 '입 터진' 순간들]]></title>
-            <link>https://www.elle.co.kr/article/81008</link>
-            <guid>https://www.elle.co.kr/article/81008</guid>
-            <pubDate>Mon, 02 Oct 2023 19:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[하늘은 높고 말은 살찌는 풍요의 계절!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/dac1ebae-659b-44f8-a691-1fb27dbefa11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

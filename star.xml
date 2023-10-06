@@ -1,71 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 23:14:25 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제니부터 정국, 이효리까지! 올가을 귀 호강 예약 신보 소식.list]]></title>
-            <link>https://www.elle.co.kr/article/81125</link>
-            <guid>https://www.elle.co.kr/article/81125</guid>
-            <pubDate>Thu, 05 Oct 2023 19:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/d124c00f-8c94-494e-a15c-d449e03e660d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최대 시청자 25만 명, 전설이 된 '나는 솔로' 16기 라방에서 나온 말들 (ft. 현커)]]></title>
-            <link>https://www.elle.co.kr/article/81116</link>
-            <guid>https://www.elle.co.kr/article/81116</guid>
-            <pubDate>Thu, 05 Oct 2023 09:13:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/b5aa5506-cf01-4d95-a591-2c0d6361ebf7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래비티 아홉 명이 보여준 명징한 세계]]></title>
-            <link>https://www.elle.co.kr/article/81106</link>
-            <guid>https://www.elle.co.kr/article/81106</guid>
-            <pubDate>Thu, 05 Oct 2023 05:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[제대로 달리는 법을 아는 아홉 명의 청춘들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/13cce5bf-2e8e-4c0c-ba14-428b6fff0b63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼스타 컴백! 이효리, 6년 만의 신곡 X 10년 만의 상업 광고 (ft. 행주)]]></title>
-            <link>https://www.elle.co.kr/article/81109</link>
-            <guid>https://www.elle.co.kr/article/81109</guid>
-            <pubDate>Thu, 05 Oct 2023 04:14:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/18ea6047-6737-4162-8f7d-7be5b3e70e33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우가팸부터 BTS 멤버들까지, 뷔가 직접 공개한 우정스타그램 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/81098</link>
-            <guid>https://www.elle.co.kr/article/81098</guid>
-            <pubDate>Thu, 05 Oct 2023 03:13:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/1a32313f-95d8-4a37-887d-768983588fa3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파2'의 '버석언니' 리아킴, 20대 못지 않은 체력 관리 루틴은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81097</link>
-            <guid>https://www.elle.co.kr/article/81097</guid>
-            <pubDate>Thu, 05 Oct 2023 03:13:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/d1eba455-b9c8-4fb4-9ff9-d44992f5570b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용한 럭셔리의 본질]]></title>
-            <link>https://www.elle.co.kr/article/81059</link>
-            <guid>https://www.elle.co.kr/article/81059</guid>
-            <pubDate>Thu, 05 Oct 2023 00:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[각기 다른 영역에서 저마다 견고한 입지를 구축한 네 명의 여성과의 대화.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/cc195fdd-64ad-48f6-8eed-1b8ed6c050af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<도적:칼의 소리>의 언년이, 이호정]]></title>
-            <link>https://www.elle.co.kr/article/81006</link>
-            <guid>https://www.elle.co.kr/article/81006</guid>
-            <pubDate>Wed, 04 Oct 2023 15:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[쏜살같이 날아가는 총알처럼 날카롭다가도 어느새 장미처럼 다시 우아하게 피어나는 이호정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/92b1ce71-ffe2-49f4-944c-a3835cc3d5af.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-10-06T00:52:21.719Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니+ 계정 공유 막고, 넷플릭스 가격 올린다? OTT 요금 및 정책 변경 정리]]></title>
+        <id>https://www.elle.co.kr/article/81126</id>
+        <link href="https://www.elle.co.kr/article/81126"/>
+        <updated>2023-10-06T00:51:32.261Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제니부터 정국, 이효리까지! 올가을 귀 호강 예약 신보 소식.list]]></title>
+        <id>https://www.elle.co.kr/article/81125</id>
+        <link href="https://www.elle.co.kr/article/81125"/>
+        <updated>2023-10-05T19:10:54.616Z</updated>
+        <content type="html"><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최대 시청자 25만 명, 전설이 된 '나는 솔로' 16기 라방에서 나온 말들 (ft. 현커)]]></title>
+        <id>https://www.elle.co.kr/article/81116</id>
+        <link href="https://www.elle.co.kr/article/81116"/>
+        <updated>2023-10-05T09:13:55.688Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래비티 아홉 명이 보여준 명징한 세계]]></title>
+        <id>https://www.elle.co.kr/article/81106</id>
+        <link href="https://www.elle.co.kr/article/81106"/>
+        <updated>2023-10-05T05:12:54.857Z</updated>
+        <content type="html"><![CDATA[제대로 달리는 법을 아는 아홉 명의 청춘들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼스타 컴백! 이효리, 6년 만의 신곡 X 10년 만의 상업 광고 (ft. 행주)]]></title>
+        <id>https://www.elle.co.kr/article/81109</id>
+        <link href="https://www.elle.co.kr/article/81109"/>
+        <updated>2023-10-05T04:14:18.805Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우가팸부터 BTS 멤버들까지, 뷔가 직접 공개한 우정스타그램 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/81098</id>
+        <link href="https://www.elle.co.kr/article/81098"/>
+        <updated>2023-10-05T03:13:06.978Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스우파2'의 '버석언니' 리아킴, 20대 못지 않은 체력 관리 루틴은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81097</id>
+        <link href="https://www.elle.co.kr/article/81097"/>
+        <updated>2023-10-05T03:13:06.979Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조용한 럭셔리의 본질]]></title>
+        <id>https://www.elle.co.kr/article/81059</id>
+        <link href="https://www.elle.co.kr/article/81059"/>
+        <updated>2023-10-05T00:52:19.713Z</updated>
+        <content type="html"><![CDATA[각기 다른 영역에서 저마다 견고한 입지를 구축한 네 명의 여성과의 대화.]]></content>
+    </entry>
+</feed>
