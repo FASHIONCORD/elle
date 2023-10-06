@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 04:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 05:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -814,6 +814,7 @@
             <guid>https://www.elle.co.kr/article/81064</guid>
             <pubDate>Fri, 06 Oct 2023 00:51:15 GMT</pubDate>
             <content:encoded><![CDATA[마주하는 순간 빠져든다. 극강의 반짝임을 가진 워치 &amp; 주얼리가 전하는 황홀경.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/34a1dec9-5ac9-408b-bfa9-c215e02cd807.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민니와 론진이 보여주는 쿨 애티튜드 (엘르 코리아 ─ 패션)]]></title>
@@ -821,6 +822,7 @@
             <guid>https://www.elle.co.kr/article/80988</guid>
             <pubDate>Thu, 05 Oct 2023 15:13:12 GMT</pubDate>
             <content:encoded><![CDATA[민니와 론진의 만남, 자신만의 속도로 나아가고 있는 민니의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/f4165adc-2816-46ec-8c67-a394f4682017.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올시즌 우리에게 꼭 필요한 건 무엇? 블랙 롱부츠 쇼핑 리스트 6 (엘르 코리아 ─ 패션)]]></title>
@@ -828,6 +830,7 @@
             <guid>https://www.elle.co.kr/article/81061</guid>
             <pubDate>Thu, 05 Oct 2023 15:13:12 GMT</pubDate>
             <content:encoded><![CDATA[돌아온 부츠의 계절! 신기만 해도 스타일 지수를 상승 시키는 블랙 롱부츠로 쿨한 아웃핏을 완...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/672b76d7-83c0-47a7-a784-b501f888a2aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을을 위한 가장 완벽한 신발 #로퍼 (엘르 코리아 ─ 패션)]]></title>
@@ -835,6 +838,7 @@
             <guid>https://www.elle.co.kr/article/81057</guid>
             <pubDate>Thu, 05 Oct 2023 01:52:30 GMT</pubDate>
             <content:encoded><![CDATA[로퍼를 신고 가을 멋쟁이로 거듭나보세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/b8f72c98-1672-481d-92d6-5628b387c583.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이힐이 왜 거기서 나와? (엘르 코리아 ─ 패션)]]></title>
@@ -842,12 +846,14 @@
             <guid>https://www.elle.co.kr/article/81048</guid>
             <pubDate>Wed, 04 Oct 2023 19:10:11 GMT</pubDate>
             <content:encoded><![CDATA[클러치부터 스타킹까지, 하이힐의 기묘한 변신.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/5572c767-3dc6-423c-82fb-e822066cc2c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 시대 새로운 조형미에 대한 아름다운 고찰 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/80991</link>
             <guid>https://www.elle.co.kr/article/80991</guid>
             <pubDate>Wed, 04 Oct 2023 07:11:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/b27e8311-267e-4b99-af1b-cf602b6f0c11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알쓸옷잡 (엘르 코리아 ─ 패션)]]></title>
@@ -855,6 +861,7 @@
             <guid>https://www.elle.co.kr/article/81041</guid>
             <pubDate>Wed, 04 Oct 2023 01:51:23 GMT</pubDate>
             <content:encoded><![CDATA[알고 보면 쓸데 있는 패션 탐구생활.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/568613b5-09de-4edb-b910-0f57a2d20d97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 방식으로 돌아온 50년대 (엘르 코리아 ─ 패션)]]></title>
@@ -862,6 +869,7 @@
             <guid>https://www.elle.co.kr/article/80975</guid>
             <pubDate>Tue, 03 Oct 2023 19:10:46 GMT</pubDate>
             <content:encoded><![CDATA[디자이너들이 50년대 클래식을 재해석하는 방식에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/6e6568ea-31d7-4afd-94f2-ad0327921d51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이렇게만 하면 꿀피부 보장? 손태영의 홈 케어 루틴 공개! (엘르 코리아 ─ 뷰티)]]></title>
@@ -1117,18 +1125,21 @@
             <guid>https://www.elle.co.kr/article/81130</guid>
             <pubDate>Thu, 05 Oct 2023 04:14:42 GMT</pubDate>
             <content:encoded><![CDATA[설마 아직도 안 해본 건 아니죠?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/ea32496d-386d-4261-9c64-968b7e41757a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니+ 계정 공유 막고, 넷플릭스 가격 올린다? OTT 요금 및 정책 변경 정리 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/81126</link>
             <guid>https://www.elle.co.kr/article/81126</guid>
             <pubDate>Thu, 05 Oct 2023 03:13:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/3a497f3c-7b74-424b-b0c7-5e2585460f56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최대 시청자 25만 명, 전설이 된 '나는 솔로' 16기 라방에서 나온 말들 (ft. 현커) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/81116</link>
             <guid>https://www.elle.co.kr/article/81116</guid>
             <pubDate>Thu, 05 Oct 2023 00:52:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/b5aa5506-cf01-4d95-a591-2c0d6361ebf7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1136,6 +1147,7 @@
             <guid>https://www.elle.co.kr/article/81111</guid>
             <pubDate>Wed, 04 Oct 2023 15:14:08 GMT</pubDate>
             <content:encoded><![CDATA[7년 만에 한국을 찾는 주인공은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/cdfc4cb0-05de-4968-b431-582fa748b4db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강풀에게 이름을 빌려준 남자 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
