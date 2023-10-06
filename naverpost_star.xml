@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ STAR</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 09:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 10:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정주행 맛집, [나는 솔로] 16기 역대급 서사 3]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36686668&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36686668&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 06 Oct 2023 10:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['연인'의 유길채, 안은진의 또 다른 인생 캐릭터 3선 #요즘드라마]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36490454&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 21 Nov 2022 10:17:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언제 어디서나 체력+체형 관리 가능! 정은지 추천 운동법 3]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34752302&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34752302&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 07 Nov 2022 23:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDhfMjYy/MDAxNjY3ODQ0MDcwNjM2.MYqKnQy8WQkTc0EhwVYrAU0UxNz9SXEMeCtMJizp3Oog.w-bTIvJeEtrp31OwHvb088bgsPViaqDeaahGsdb3suMg.JPEG/IDP6vLNEU10yHFdzI-it4n6Xe4q4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

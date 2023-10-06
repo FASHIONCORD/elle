@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 09:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 10:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로컬 맛집부터 쇼핑까지! 윤승아 따라 연희동 한 바퀴.list]]></title>
+            <link>https://www.elle.co.kr/article/81167</link>
+            <guid>https://www.elle.co.kr/article/81167</guid>
+            <pubDate>Fri, 06 Oct 2023 10:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말, 느긋하게 쇼핑하면서 커피 한 잔의 여유를 즐기고 싶다면 윤승아의 발자취를 따라 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/a5a2c129-2119-4e70-b7bc-2f0b811432ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부국제 레드카펫에서도 빛난 정수정, 요즘 푹 빠진 최애 운동은? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/81155</link>
@@ -58,13 +66,6 @@
             <pubDate>Thu, 05 Oct 2023 05:12:54 GMT</pubDate>
             <content:encoded><![CDATA[제대로 달리는 법을 아는 아홉 명의 청춘들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/13cce5bf-2e8e-4c0c-ba14-428b6fff0b63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼스타 컴백! 이효리, 6년 만의 신곡 X 10년 만의 상업 광고 (ft. 행주)]]></title>
-            <link>https://www.elle.co.kr/article/81109</link>
-            <guid>https://www.elle.co.kr/article/81109</guid>
-            <pubDate>Thu, 05 Oct 2023 04:14:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/18ea6047-6737-4162-8f7d-7be5b3e70e33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
