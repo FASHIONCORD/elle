@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-10-07T15:12:48.109Z</updated>
+    <updated>2023-10-07T16:15:01.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3회 연속 AG 금메달까지 단 한 걸음, 결승에서 만난 일본! 축구 한일전 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/81180</id>
+        <link href="https://www.elle.co.kr/article/81180"/>
+        <updated>2023-10-07T16:14:13.604Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['로미오와 줄리엣'의 배경이 된 장소, 베로나 #여행예술]]></title>
+        <id>https://www.elle.co.kr/article/81146</id>
+        <link href="https://www.elle.co.kr/article/81146"/>
+        <updated>2023-10-07T16:14:13.614Z</updated>
+        <content type="html"><![CDATA[이탈리아 베로나에서 만난 20세기 건축가 카를로 스카르파.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피아니스트 선우예권]]></title>
+        <id>https://www.elle.co.kr/article/81124</id>
+        <link href="https://www.elle.co.kr/article/81124"/>
+        <updated>2023-10-07T16:14:13.618Z</updated>
+        <content type="html"><![CDATA[고요하다가 어느 순간 높은 파도로 거대해질지 모르는 잔잔한 물결 같은 선우예권의 선율.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동물을 '본다'는 것, 동물원은 지금]]></title>
         <id>https://www.elle.co.kr/article/81121</id>
@@ -37,25 +57,5 @@
         <link href="https://www.elle.co.kr/article/81125"/>
         <updated>2023-10-05T15:13:52.670Z</updated>
         <content type="html"><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최대 시청자 25만 명, 전설이 된 '나는 솔로' 16기 라방에서 나온 말들 (ft. 현커)]]></title>
-        <id>https://www.elle.co.kr/article/81116</id>
-        <link href="https://www.elle.co.kr/article/81116"/>
-        <updated>2023-10-05T15:13:52.674Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 국립중앙박물관장 혜곡 최순우의 옛집]]></title>
-        <id>https://www.elle.co.kr/article/81108</id>
-        <link href="https://www.elle.co.kr/article/81108"/>
-        <updated>2023-10-05T05:13:07.043Z</updated>
-        <content type="html"><![CDATA[한국미 전파에 힘쓴 전 국립중앙박물관장 혜곡 최순우의 안목과 멋, 예술혼이 배어 있는 한옥.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg]]></title>
-        <id>https://www.elle.co.kr/article/81111</id>
-        <link href="https://www.elle.co.kr/article/81111"/>
-        <updated>2023-10-05T04:14:26.380Z</updated>
-        <content type="html"><![CDATA[7년 만에 한국을 찾는 주인공은?]]></content>
     </entry>
 </feed>
