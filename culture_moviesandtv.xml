@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 13:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 14:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,12 +13,14 @@
             <guid>https://www.elle.co.kr/article/81151</guid>
             <pubDate>Sat, 07 Oct 2023 16:14:31 GMT</pubDate>
             <content:encoded><![CDATA[좀 더 내밀한 이야기가 필요한 시기. 삭막한 도시에 다가선 고독을 껴안아 줄 여성들의 이야기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/29ed0074-8b8e-4fd4-b3be-d1c0739e2666.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭐지, 이 라인업? 유재석 새 예능 '아파트 404' 의외의 고정멤버 2]]></title>
             <link>https://www.elle.co.kr/article/81183</link>
             <guid>https://www.elle.co.kr/article/81183</guid>
             <pubDate>Fri, 06 Oct 2023 09:13:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/602c226f-c444-4423-9923-9a5346bb3eb2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함정을 찾아라! 스타들의 AI 이어북 모음.zip]]></title>
@@ -26,6 +28,7 @@
             <guid>https://www.elle.co.kr/article/81130</guid>
             <pubDate>Thu, 05 Oct 2023 04:14:42 GMT</pubDate>
             <content:encoded><![CDATA[설마 아직도 안 해본 건 아니죠?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/ea32496d-386d-4261-9c64-968b7e41757a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니+ 계정 공유 막고, 넷플릭스 가격 올린다? OTT 요금 및 정책 변경 정리]]></title>
