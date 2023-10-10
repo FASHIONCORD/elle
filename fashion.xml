@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-10T14:13:27.731Z</updated>
+    <updated>2023-10-10T15:14:34.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호, <엘르> 디 에디션(D Edition) 10월 커버 공개 #ELLE_D에디션]]></title>
+        <id>https://www.elle.co.kr/article/81168</id>
+        <link href="https://www.elle.co.kr/article/81168"/>
+        <updated>2023-10-10T15:13:06.759Z</updated>
+        <content type="html"><![CDATA[이준호, 새로운 남성미의 정립.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자신감 넘치는 모습으로 돌아온 80년대 여인들]]></title>
         <id>https://www.elle.co.kr/article/81165</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/81061"/>
         <updated>2023-10-05T15:13:12.817Z</updated>
         <content type="html"><![CDATA[돌아온 부츠의 계절! 신기만 해도 스타일 지수를 상승 시키는 블랙 롱부츠로 쿨한 아웃핏을 완...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을을 위한 가장 완벽한 신발 #로퍼]]></title>
-        <id>https://www.elle.co.kr/article/81057</id>
-        <link href="https://www.elle.co.kr/article/81057"/>
-        <updated>2023-10-05T01:52:30.127Z</updated>
-        <content type="html"><![CDATA[로퍼를 신고 가을 멋쟁이로 거듭나보세요!]]></content>
     </entry>
 </feed>
