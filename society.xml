@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 19:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 20:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg]]></title>
+            <link>https://www.elle.co.kr/article/81111</link>
+            <guid>https://www.elle.co.kr/article/81111</guid>
+            <pubDate>Wed, 11 Oct 2023 20:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[7년 만에 한국을 찾는 주인공은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/cdfc4cb0-05de-4968-b431-582fa748b4db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 모든 감정에 축복을]]></title>
             <link>https://www.elle.co.kr/article/81004</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/80611</guid>
             <pubDate>Wed, 27 Sep 2023 21:13:52 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/eedbe0f0-9802-4870-a48b-9d052767ceff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마을 하나가 순식간에 사라졌다: 120년 만의 모로코 강진 현재 상황]]></title>
-            <link>https://www.elle.co.kr/article/80518</link>
-            <guid>https://www.elle.co.kr/article/80518</guid>
-            <pubDate>Wed, 27 Sep 2023 15:15:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/345a290b-093a-4554-a366-a8eaa05e5a82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
