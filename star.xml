@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-11T09:14:01.817Z</updated>
+    <updated>2023-10-11T10:14:59.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세심 그 자체, RM이 활옷에 이어 법의학계에 1억 원 기부한 배경.txt]]></title>
+        <id>https://www.elle.co.kr/article/81253</id>
+        <link href="https://www.elle.co.kr/article/81253"/>
+        <updated>2023-10-11T10:13:41.136Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드디어 나오는 이효리 새 노래, '후디에 반바지' 콘셉트 포토.jpg]]></title>
         <id>https://www.elle.co.kr/article/81252</id>
@@ -50,11 +56,5 @@
         <id>https://www.elle.co.kr/article/81185</id>
         <link href="https://www.elle.co.kr/article/81185"/>
         <updated>2023-10-10T03:13:08.804Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭐지, 이 라인업? 유재석 새 예능 '아파트 404' 의외의 고정멤버 2]]></title>
-        <id>https://www.elle.co.kr/article/81183</id>
-        <link href="https://www.elle.co.kr/article/81183"/>
-        <updated>2023-10-09T20:12:31.157Z</updated>
     </entry>
 </feed>
