@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-10-12T09:14:45.315Z</updated>
+    <updated>2023-10-12T10:15:42.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소유의 '꾸안꾸' 데일리 메이크업 튜토리얼]]></title>
+        <id>https://www.elle.co.kr/article/81220</id>
+        <link href="https://www.elle.co.kr/article/81220"/>
+        <updated>2023-10-12T10:13:38.349Z</updated>
+        <content type="html"><![CDATA[한 듯 안한 듯 내추럴한 메이크업을 원한다면? 소유의 데일리 메이크업을 참고해 보세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유리알 같은 광택이 핵심! 탕후루 같은 글로시 립 메이크업]]></title>
         <id>https://www.elle.co.kr/article/81197</id>
@@ -50,12 +57,5 @@
         <id>https://www.elle.co.kr/article/81062</id>
         <link href="https://www.elle.co.kr/article/81062"/>
         <updated>2023-10-06T16:15:43.636Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조용한 럭셔리의 본질]]></title>
-        <id>https://www.elle.co.kr/article/81059</id>
-        <link href="https://www.elle.co.kr/article/81059"/>
-        <updated>2023-10-06T09:12:50.913Z</updated>
-        <content type="html"><![CDATA[각기 다른 영역에서 저마다 견고한 입지를 구축한 네 명의 여성과의 대화.]]></content>
     </entry>
 </feed>
