@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-12T18:17:42.207Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[패션위크를 즐기고 온 스타들]]></title>
-        <id>https://www.elle.co.kr/article/81230</id>
-        <link href="https://www.elle.co.kr/article/81230"/>
-        <updated>2023-10-12T01:44:14.041Z</updated>
-        <content type="html"><![CDATA[뉴욕부터 런던, 밀라노, 파리까지 패션위크를 찾은 스타들의 멋진 순간들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아제가 만든 환상의 앙상블]]></title>
-        <id>https://www.elle.co.kr/article/81218</id>
-        <link href="https://www.elle.co.kr/article/81218"/>
-        <updated>2023-10-11T19:10:37.699Z</updated>
-        <content type="html"><![CDATA[스틸과 핑크 골드가 완벽하게 어우러진 시계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조용히 빛을 발하는 올드머니 스타일]]></title>
-        <id>https://www.elle.co.kr/article/81153</id>
-        <link href="https://www.elle.co.kr/article/81153"/>
-        <updated>2023-10-11T07:11:58.208Z</updated>
-        <content type="html"><![CDATA[머리부터 발끝까지 고요한 우아함 속, 살며시 빛나는 워치&amp;주얼리를 주목할 것.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s JUNH O’ clock!(feat. 피아제) #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/81199</id>
-        <link href="https://www.elle.co.kr/article/81199"/>
-        <updated>2023-10-10T19:09:08.252Z</updated>
-        <content type="html"><![CDATA[잔잔하고 푸르게 흘러가는 시간. 피아제와 함께한 이준호의 ELLE D Edition.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, <엘르> 디 에디션(D Edition) 10월 커버 공개 #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/81168</id>
-        <link href="https://www.elle.co.kr/article/81168"/>
-        <updated>2023-10-10T15:13:06.759Z</updated>
-        <content type="html"><![CDATA[이준호, 새로운 남성미의 정립.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신감 넘치는 모습으로 돌아온 80년대 여인들]]></title>
-        <id>https://www.elle.co.kr/article/81165</id>
-        <link href="https://www.elle.co.kr/article/81165"/>
-        <updated>2023-10-09T19:10:07.957Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아니스트 선우예권]]></title>
-        <id>https://www.elle.co.kr/article/81124</id>
-        <link href="https://www.elle.co.kr/article/81124"/>
-        <updated>2023-10-08T15:11:19.796Z</updated>
-        <content type="html"><![CDATA[고요하다가 어느 순간 높은 파도로 거대해질지 모르는 잔잔한 물결 같은 선우예권의 선율.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿈처럼 빛나는 유아의 모먼트]]></title>
-        <id>https://www.elle.co.kr/article/80960</id>
-        <link href="https://www.elle.co.kr/article/80960"/>
-        <updated>2023-10-07T05:11:17.411Z</updated>
-        <content type="html"><![CDATA[불가리 ‘디바스 드림’ 컬렉션과 함께한 관능적 순간.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 12 Oct 2023 19:11:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션위크를 즐기고 온 스타들]]></title>
+            <link>https://www.elle.co.kr/article/81230</link>
+            <guid>https://www.elle.co.kr/article/81230</guid>
+            <pubDate>Thu, 12 Oct 2023 01:44:14 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕부터 런던, 밀라노, 파리까지 패션위크를 찾은 스타들의 멋진 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/281c24f8-39aa-458a-9870-a49d19498509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피아제가 만든 환상의 앙상블]]></title>
+            <link>https://www.elle.co.kr/article/81218</link>
+            <guid>https://www.elle.co.kr/article/81218</guid>
+            <pubDate>Wed, 11 Oct 2023 19:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[스틸과 핑크 골드가 완벽하게 어우러진 시계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/24fbcf3f-dcce-4348-8cec-4ee0bd7233a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용히 빛을 발하는 올드머니 스타일]]></title>
+            <link>https://www.elle.co.kr/article/81153</link>
+            <guid>https://www.elle.co.kr/article/81153</guid>
+            <pubDate>Wed, 11 Oct 2023 07:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[머리부터 발끝까지 고요한 우아함 속, 살며시 빛나는 워치&amp;주얼리를 주목할 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/b2fd2c27-8dd2-4281-8cf8-b95c6bedc149.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It’s JUNH O’ clock!(feat. 피아제) #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/81199</link>
+            <guid>https://www.elle.co.kr/article/81199</guid>
+            <pubDate>Tue, 10 Oct 2023 19:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[잔잔하고 푸르게 흘러가는 시간. 피아제와 함께한 이준호의 ELLE D Edition.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/11860be9-1f5e-4281-84e2-1d246621639c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준호, <엘르> 디 에디션(D Edition) 10월 커버 공개 #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/81168</link>
+            <guid>https://www.elle.co.kr/article/81168</guid>
+            <pubDate>Tue, 10 Oct 2023 15:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[이준호, 새로운 남성미의 정립.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/6ea16f20-f8db-4567-99d0-a154201edc23.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자신감 넘치는 모습으로 돌아온 80년대 여인들]]></title>
+            <link>https://www.elle.co.kr/article/81165</link>
+            <guid>https://www.elle.co.kr/article/81165</guid>
+            <pubDate>Mon, 09 Oct 2023 19:10:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/df9b2b96-5297-4bc2-a770-449518853a29.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피아니스트 선우예권]]></title>
+            <link>https://www.elle.co.kr/article/81124</link>
+            <guid>https://www.elle.co.kr/article/81124</guid>
+            <pubDate>Sun, 08 Oct 2023 15:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[고요하다가 어느 순간 높은 파도로 거대해질지 모르는 잔잔한 물결 같은 선우예권의 선율.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/0cd1a0c8-29d2-4384-a591-1135e8ca1847.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈처럼 빛나는 유아의 모먼트]]></title>
+            <link>https://www.elle.co.kr/article/80960</link>
+            <guid>https://www.elle.co.kr/article/80960</guid>
+            <pubDate>Sat, 07 Oct 2023 05:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[불가리 ‘디바스 드림’ 컬렉션과 함께한 관능적 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/56247e84-7388-45bb-b8cc-804d339ac7c1.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
