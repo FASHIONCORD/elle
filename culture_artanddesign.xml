@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 14:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 15:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공예와 예술로 채운 비밀스러운 숍, 월 한남]]></title>
+            <link>https://www.elle.co.kr/article/81305</link>
+            <guid>https://www.elle.co.kr/article/81305</guid>
+            <pubDate>Thu, 12 Oct 2023 15:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[월 한남점은 좁고 고요한 통로를 거쳐 벽처럼 생긴 책장 문을 힘껏 밀어야 비로소 드러난다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/87422365-101e-4523-975f-b085b95890d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가구 브랜드 아티클리에와 ATCR을 이끄는 구선모 대표의 랜선 집들이 #홈터뷰]]></title>
             <link>https://www.elle.co.kr/article/81313</link>
@@ -35,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/81219</guid>
             <pubDate>Tue, 10 Oct 2023 15:14:10 GMT</pubDate>
             <content:encoded><![CDATA[약과부터 양갱까지. 한국 전통 디저트 신에 새롭게 등장한 얼굴을 찾았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/583b3588-f31d-4de4-909e-0bc669addc4f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['덴스크' 대표 김효진의 리빙룸 #나의거실은]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.elle.co.kr/article/81132</link>
             <guid>https://www.elle.co.kr/article/81132</guid>
             <pubDate>Thu, 05 Oct 2023 05:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[전 국립중앙박물관장 혜곡 최순우의 옛집]]></title>
-            <link>https://www.elle.co.kr/article/81108</link>
-            <guid>https://www.elle.co.kr/article/81108</guid>
-            <pubDate>Wed, 04 Oct 2023 15:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[한국미 전파에 힘쓴 전 국립중앙박물관장 혜곡 최순우의 안목과 멋, 예술혼이 배어 있는 한옥.]]></content:encoded>
         </item>
     </channel>
 </rss>

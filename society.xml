@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 14:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 15:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부자가 되려면 당장 '이것'부터 바꿔라_돈쓸신잡 #118]]></title>
+            <link>https://www.elle.co.kr/article/81115</link>
+            <guid>https://www.elle.co.kr/article/81115</guid>
+            <pubDate>Thu, 12 Oct 2023 15:14:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/de7200f4-892b-47e2-acb3-b57fdbc37b2f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg]]></title>
             <link>https://www.elle.co.kr/article/81111</link>
@@ -60,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/80778</guid>
             <pubDate>Tue, 03 Oct 2023 16:17:02 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/374bef19-16b0-4482-9ebb-5046d745894b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무라카미 하루키에게 가장 비싼 것_돈쓸신잡 #115]]></title>
-            <link>https://www.elle.co.kr/article/80611</link>
-            <guid>https://www.elle.co.kr/article/80611</guid>
-            <pubDate>Wed, 27 Sep 2023 21:13:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/eedbe0f0-9802-4870-a48b-9d052767ceff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
