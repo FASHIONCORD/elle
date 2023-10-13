@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 14:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 15:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매 회차가 레전드, 허파 디비지는 '나는 솔로' 16기 유행어 5]]></title>
+            <link>https://www.elle.co.kr/article/81303</link>
+            <guid>https://www.elle.co.kr/article/81303</guid>
+            <pubDate>Fri, 13 Oct 2023 15:13:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/5a88df50-903e-4e6a-bcb0-e07b35545676.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성신여자대학교에 벨리곰이 떴다?]]></title>
             <link>https://www.elle.co.kr/article/81264</link>
@@ -61,14 +68,6 @@
             <pubDate>Tue, 10 Oct 2023 15:13:38 GMT</pubDate>
             <content:encoded><![CDATA[카다시안 절친 사이먼 허크가 공개한 그의 신혼집.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/00de2f62-744e-4884-8bda-10b30f4de6f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을을 감싸줄 두 편의 이야기]]></title>
-            <link>https://www.elle.co.kr/article/81151</link>
-            <guid>https://www.elle.co.kr/article/81151</guid>
-            <pubDate>Tue, 10 Oct 2023 15:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[좀 더 내밀한 이야기가 필요한 시기. 삭막한 도시에 다가선 고독을 껴안아 줄 여성들의 이야기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/29ed0074-8b8e-4fd4-b3be-d1c0739e2666.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
