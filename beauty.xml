@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-10-14T09:12:41.829Z</updated>
+    <updated>2023-10-14T10:13:42.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후각과 시각을 모두 만족시켜주는 신상 디퓨저 7]]></title>
+        <id>https://www.elle.co.kr/article/81174</id>
+        <link href="https://www.elle.co.kr/article/81174"/>
+        <updated>2023-10-14T10:11:53.896Z</updated>
+        <content type="html"><![CDATA['센테리어' 디퓨저.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소유의 '꾸안꾸' 데일리 메이크업 튜토리얼]]></title>
         <id>https://www.elle.co.kr/article/81220</id>
@@ -51,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/81094"/>
         <updated>2023-10-06T19:10:40.842Z</updated>
         <content type="html"><![CDATA[찢어질 듯한 피부를 구하러 온 해결사 오일, 여태 잘못 쓰고 있었다면?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석에 살쪘다면 주목! 남은 명절 음식으로 만드는 다이어트 레시피 3]]></title>
-        <id>https://www.elle.co.kr/article/81062</id>
-        <link href="https://www.elle.co.kr/article/81062"/>
-        <updated>2023-10-06T16:15:43.636Z</updated>
     </entry>
 </feed>
