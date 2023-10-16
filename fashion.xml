@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 14:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 15:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진리의 화이트 다이아몬드]]></title>
+            <link>https://www.elle.co.kr/article/81341</link>
+            <guid>https://www.elle.co.kr/article/81341</guid>
+            <pubDate>Mon, 16 Oct 2023 15:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[어둠 속에서 진가를 드러내는 화이트 다이아몬드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/87d40fc1-f7f3-440b-ab26-8e8e6a2f00df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌과 루이 비통의 반가운 조우]]></title>
             <link>https://www.elle.co.kr/article/81360</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 13 Oct 2023 19:10:22 GMT</pubDate>
             <content:encoded><![CDATA[남다른 센스와 대담함으로 워치 &amp; 주얼리의 세상을 평정한 남자들. 경계를 허물고 자신만의 색...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/97238721-93d3-4e31-8f1a-0f814de18868.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷장 속 잠자고 있던 '이것'을 꺼내야 할 시기! 레더 재킷 멋스럽게 소화하는 법 5]]></title>
-            <link>https://www.elle.co.kr/article/81258</link>
-            <guid>https://www.elle.co.kr/article/81258</guid>
-            <pubDate>Fri, 13 Oct 2023 15:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[패션 감각 좋은 스타들에게서 실패 없는 레더 재킷 스타일링 팁을 배워보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/015f2c95-d2f7-4f6e-8e1b-4720830ad7c0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
