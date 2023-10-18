@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 20:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 21:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>https://www.elle.co.kr/article/81302</guid>
             <pubDate>Wed, 18 Oct 2023 15:14:11 GMT</pubDate>
             <content:encoded><![CDATA[10월의 뷰티 신상과 함께 완연한 가을의 푸르름을 만끽하길.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/576c8af1-c7e0-4e66-976a-ab35017ba12b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피부가 마시는 우유]]></title>
@@ -20,6 +21,7 @@
             <guid>https://www.elle.co.kr/article/81299</guid>
             <pubDate>Wed, 18 Oct 2023 15:14:11 GMT</pubDate>
             <content:encoded><![CDATA[우유 한 잔 주세요, 피부가 좋아하는 우유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/771edd6b-e7da-40c3-9c75-bb9ba525b822.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이건 먹어도 돼! 유지어트를 위한 외식 가이드 #다이어터디터]]></title>
