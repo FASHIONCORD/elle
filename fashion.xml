@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-18T09:21:57.877Z</updated>
+    <updated>2023-10-18T10:15:44.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #8 스타일리스트 김영진]]></title>
+        <id>https://www.elle.co.kr/article/81377</id>
+        <link href="https://www.elle.co.kr/article/81377"/>
+        <updated>2023-10-18T10:13:42.029Z</updated>
+        <content type="html"><![CDATA[고작 900원? BTS 스타일리스트 김영진이 애정하는 물건.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알 쓸 신 작]]></title>
         <id>https://www.elle.co.kr/article/81311</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/81296"/>
         <updated>2023-10-14T19:09:24.162Z</updated>
         <content type="html"><![CDATA[갖고 싶어, 그 빗!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 레전드 워치]]></title>
-        <id>https://www.elle.co.kr/article/81277</id>
-        <link href="https://www.elle.co.kr/article/81277"/>
-        <updated>2023-10-14T16:13:51.485Z</updated>
-        <content type="html"><![CDATA[전설은 계속된다. 원형 시계의 미학적 코드를 계승함과 동시에 현대적 기술력을 더해 다시금 우...]]></content>
     </entry>
 </feed>
