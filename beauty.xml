@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-10-18T14:15:05.969Z</updated>
+    <updated>2023-10-18T15:15:31.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반드시 '겟'해야 할 10의 뷰티 신상]]></title>
+        <id>https://www.elle.co.kr/article/81302</id>
+        <link href="https://www.elle.co.kr/article/81302"/>
+        <updated>2023-10-18T15:14:11.984Z</updated>
+        <content type="html"><![CDATA[10월의 뷰티 신상과 함께 완연한 가을의 푸르름을 만끽하길.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피부가 마시는 우유]]></title>
+        <id>https://www.elle.co.kr/article/81299</id>
+        <link href="https://www.elle.co.kr/article/81299"/>
+        <updated>2023-10-18T15:14:11.988Z</updated>
+        <content type="html"><![CDATA[우유 한 잔 주세요, 피부가 좋아하는 우유.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이건 먹어도 돼! 유지어트를 위한 외식 가이드 #다이어터디터]]></title>
         <id>https://www.elle.co.kr/article/81364</id>
@@ -45,19 +59,5 @@
         <link href="https://www.elle.co.kr/article/81174"/>
         <updated>2023-10-14T10:11:53.896Z</updated>
         <content type="html"><![CDATA['센테리어' 디퓨저.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소유의 '꾸안꾸' 데일리 메이크업 튜토리얼]]></title>
-        <id>https://www.elle.co.kr/article/81220</id>
-        <link href="https://www.elle.co.kr/article/81220"/>
-        <updated>2023-10-12T10:13:38.349Z</updated>
-        <content type="html"><![CDATA[한 듯 안한 듯 내추럴한 메이크업을 원한다면? 소유의 데일리 메이크업을 참고해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유리알 같은 광택이 핵심! 탕후루 같은 글로시 립 메이크업]]></title>
-        <id>https://www.elle.co.kr/article/81197</id>
-        <link href="https://www.elle.co.kr/article/81197"/>
-        <updated>2023-10-11T15:12:51.120Z</updated>
-        <content type="html"><![CDATA[탕후루의 유행이 입술까지?! 나나처럼 매끈하게 빛나는 글로시 립 연출하는 법.]]></content>
     </entry>
 </feed>
