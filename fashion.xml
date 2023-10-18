@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-18T18:17:01.979Z</updated>
+    <updated>2023-10-18T19:11:39.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보기만 해도 탄성을 자아내는 고양이 모티프 아이템]]></title>
+        <id>https://www.elle.co.kr/article/81389</id>
+        <link href="https://www.elle.co.kr/article/81389"/>
+        <updated>2023-10-18T19:10:34.125Z</updated>
+        <content type="html"><![CDATA[고양이를 부탁해!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #8 스타일리스트 김영진]]></title>
         <id>https://www.elle.co.kr/article/81377</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/81356"/>
         <updated>2023-10-16T01:52:05.013Z</updated>
         <content type="html"><![CDATA[멋있는 언니들은 스타킹을 신지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보기 좋은 '빗'이 '빗기도' 좋다]]></title>
-        <id>https://www.elle.co.kr/article/81296</id>
-        <link href="https://www.elle.co.kr/article/81296"/>
-        <updated>2023-10-14T19:09:24.162Z</updated>
-        <content type="html"><![CDATA[갖고 싶어, 그 빗!]]></content>
     </entry>
 </feed>
