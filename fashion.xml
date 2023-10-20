@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 00:53:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 01:49:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출근룩부터 데이트룩까지! 블랙 재킷 하나로 일주일 돌려 입기]]></title>
+            <link>https://www.elle.co.kr/article/81449</link>
+            <guid>https://www.elle.co.kr/article/81449</guid>
+            <pubDate>Fri, 20 Oct 2023 01:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[노윤서, 크리스탈, 로제처럼 블랙 테일러드 재킷으로 다양한 스타일을 즐겨보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/f25ab7e3-3933-4777-9761-79206d1a10b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의외의 홍현희]]></title>
             <link>https://www.elle.co.kr/article/81442</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 18 Oct 2023 05:12:12 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 쓸데 있는 신비한 작품 속 시계와 주얼리들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/0113d587-48da-49bb-9b06-5dda587e6b59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들이 데님을 즐기는 방법 #청청패션]]></title>
-            <link>https://www.elle.co.kr/article/81367</link>
-            <guid>https://www.elle.co.kr/article/81367</guid>
-            <pubDate>Tue, 17 Oct 2023 19:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[대충 입어도 멋있다! 로제부터 전소미까지 스타일리시한 데님 패션의 모든 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/aa7baf81-315b-4ccb-9be2-27b6a85ccb33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
