@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 23:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 00:53:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리]]></title>
+            <link>https://www.elle.co.kr/article/81452</link>
+            <guid>https://www.elle.co.kr/article/81452</guid>
+            <pubDate>Fri, 20 Oct 2023 00:52:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/448be69e-3c82-426a-b189-d07e60a9e6d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세일러문' 작가가 직접 그린 블랙핑크 제니! '유앤미' 공식 MD 비주얼]]></title>
             <link>https://www.elle.co.kr/article/81451</link>
@@ -57,13 +64,6 @@
             <pubDate>Wed, 18 Oct 2023 23:12:47 GMT</pubDate>
             <content:encoded><![CDATA[힐링드라마 반짝이는 워터멜론의 두 사람, 려운과 최현욱의 케미.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/0b9d376c-cce4-4914-8f0d-4b3640ca5b3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7년 만에 돌아오는 '아수라' 콤비 황정민X정우성, '서울의 봄' 개봉 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/81414</link>
-            <guid>https://www.elle.co.kr/article/81414</guid>
-            <pubDate>Wed, 18 Oct 2023 10:14:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/4e3dcaaf-9cf1-4ee5-9df3-76c05b2fc579.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
