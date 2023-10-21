@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 18:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 19:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑을 찾아 나선 꿀벌의 비행]]></title>
+            <link>https://www.elle.co.kr/article/81480</link>
+            <guid>https://www.elle.co.kr/article/81480</guid>
+            <pubDate>Sat, 21 Oct 2023 19:10:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/fc639d1d-a1e3-4799-aece-73ba87f1e5e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈트 재킷의 품격]]></title>
             <link>https://www.elle.co.kr/article/81459</link>
@@ -62,14 +69,6 @@
             <pubDate>Thu, 19 Oct 2023 06:16:36 GMT</pubDate>
             <content:encoded><![CDATA[핫한 언니들이 애정하는 아이템, 유니크한 매력을 뿜어내는 비니로 스타일리시한 데일리 룩을 완...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/9c64bcdf-0db4-4bfc-911c-03ffdbd97442.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금이 지닌 가치에 대하여]]></title>
-            <link>https://www.elle.co.kr/article/81343</link>
-            <guid>https://www.elle.co.kr/article/81343</guid>
-            <pubDate>Thu, 19 Oct 2023 01:48:29 GMT</pubDate>
-            <content:encoded><![CDATA[금테크 호황기에 진입한 지금, 2명의 오피니언 리더에게 물었다. 우리가 지금 골드에 열광하는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/112794dc-2c09-4444-b19e-d4ce1b31730b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
