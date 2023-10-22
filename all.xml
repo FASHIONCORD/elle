@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 17:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 18:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -813,6 +813,7 @@
             <link>https://www.elle.co.kr/article/81471</link>
             <guid>https://www.elle.co.kr/article/81471</guid>
             <pubDate>Sun, 22 Oct 2023 15:11:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/c340701a-741d-41a8-ad2f-e4ca66d5de76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[거울 같은 실버 백 (엘르 코리아 ─ 패션)]]></title>
@@ -820,6 +821,7 @@
             <guid>https://www.elle.co.kr/article/81465</guid>
             <pubDate>Sun, 22 Oct 2023 15:11:01 GMT</pubDate>
             <content:encoded><![CDATA[거울아 거울아, 세상에서 누가 제일 예쁘니?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/9682c7f8-4920-48ac-b44b-11a982515f29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을 낮의 위스키 바 (엘르 코리아 ─ 패션)]]></title>
@@ -827,6 +829,7 @@
             <guid>https://www.elle.co.kr/article/81394</guid>
             <pubDate>Sun, 22 Oct 2023 07:10:42 GMT</pubDate>
             <content:encoded><![CDATA[고요하고 감미롭게. 골드 워치와 함께한 위스키 바에서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/260cf81d-aabb-436b-bea3-70bbb15ba577.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두 에디터의 반지 원정기 (엘르 코리아 ─ 패션)]]></title>
@@ -834,12 +837,14 @@
             <guid>https://www.elle.co.kr/article/81455</guid>
             <pubDate>Sun, 22 Oct 2023 06:14:54 GMT</pubDate>
             <content:encoded><![CDATA[이제 막 파인 주얼리에 눈을 뜬 입문자들을 위해, 손가락 마디가 닳도록 반지를 껴본 두 에디...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/075646d7-6c61-4835-9b9b-80c0b15d3696.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑을 찾아 나선 꿀벌의 비행 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/81480</link>
             <guid>https://www.elle.co.kr/article/81480</guid>
             <pubDate>Sat, 21 Oct 2023 19:10:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/fc639d1d-a1e3-4799-aece-73ba87f1e5e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈트 재킷의 품격 (엘르 코리아 ─ 패션)]]></title>
@@ -847,6 +852,7 @@
             <guid>https://www.elle.co.kr/article/81459</guid>
             <pubDate>Sat, 21 Oct 2023 15:10:51 GMT</pubDate>
             <content:encoded><![CDATA[고요하고 우아하게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/395cab21-a669-46b9-9025-86acc2cfa7b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최애 디자이너를 덕질하는 특별한 방법? (엘르 코리아 ─ 패션)]]></title>
@@ -854,6 +860,7 @@
             <guid>https://www.elle.co.kr/article/81466</guid>
             <pubDate>Thu, 19 Oct 2023 06:17:38 GMT</pubDate>
             <content:encoded><![CDATA[릭 오웬스, 랄프 로렌, 자크뮈스의 영감을 담아낸 아트북을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/870de5b8-f774-4d8c-9c42-ed0257678e88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예술과 마주한 조각들 (엘르 코리아 ─ 패션)]]></title>
@@ -861,6 +868,7 @@
             <guid>https://www.elle.co.kr/article/81261</guid>
             <pubDate>Sat, 21 Oct 2023 05:11:44 GMT</pubDate>
             <content:encoded><![CDATA[지구의 탄생, 생명력을 지닌 동식물, 사람들이 모여 만든 문화와 전통, 개인이 사랑하는 그 무...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/986207a7-542d-4e9b-b967-8b10c7053440.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['뷰티 보부상' 린의 가방 속 뷰티 아이템 10 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1022,7 +1030,6 @@
             <link>https://www.elle.co.kr/article/81432</link>
             <guid>https://www.elle.co.kr/article/81432</guid>
             <pubDate>Wed, 18 Oct 2023 06:17:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/d6acb932-ef29-451e-84b5-c0b39b521a29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[작지만 결코 작지 않은, 타이니 데스크 코리아의 시작 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1030,14 +1037,12 @@
             <guid>https://www.elle.co.kr/article/81322</guid>
             <pubDate>Tue, 17 Oct 2023 15:14:10 GMT</pubDate>
             <content:encoded><![CDATA[타이니 데스크 코리아는 K팝이 주도하는 지금의 음악 씬에 어떤 변화를 선사할 수 있을까]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/b9ce2ee2-4938-4ef2-a5cb-52c62baa6341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙핑크 이후 7년 만의 YG 걸그룹! 베이비몬스터, 데뷔 2개월 밀린 이유 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/81346</link>
             <guid>https://www.elle.co.kr/article/81346</guid>
             <pubDate>Fri, 13 Oct 2023 10:13:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/815d0375-b0a8-4ac3-97c3-893de928d073.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니부터 정국, 이효리까지! 올가을 귀 호강 예약 신보 소식.list (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1045,7 +1050,6 @@
             <guid>https://www.elle.co.kr/article/81125</guid>
             <pubDate>Thu, 05 Oct 2023 03:13:28 GMT</pubDate>
             <content:encoded><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/d124c00f-8c94-494e-a15c-d449e03e660d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1996년 투팍 살인 사건 용의자, 27년 만에 체포된 후 꺼낸 진술 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1337,7 +1341,6 @@
             <guid>https://www.elle.co.kr/article/81139</guid>
             <pubDate>Thu, 19 Oct 2023 02:21:14 GMT</pubDate>
             <content:encoded><![CDATA[아나운서 임현주가 전하는 엄마가 된다는 것의 생생한 체험.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/5c418d8b-45de-4d67-a0df-977489ac6ded.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동물을 '본다'는 것, 동물원은 지금 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1345,14 +1348,12 @@
             <guid>https://www.elle.co.kr/article/81121</guid>
             <pubDate>Sun, 15 Oct 2023 13:14:31 GMT</pubDate>
             <content:encoded><![CDATA[우리를 탈출한 사자 '사순이'는 한 시간 만에 사살됐다. '푸바오'의 엄마 '아이바오'는 축복 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/e8625f53-c228-4721-9131-06ee91e95ba8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부자가 되려면 당장 '이것'부터 바꿔라_돈쓸신잡 #118 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/81115</link>
             <guid>https://www.elle.co.kr/article/81115</guid>
             <pubDate>Thu, 12 Oct 2023 15:14:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/de7200f4-892b-47e2-acb3-b57fdbc37b2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1360,7 +1361,6 @@
             <guid>https://www.elle.co.kr/article/81111</guid>
             <pubDate>Wed, 04 Oct 2023 15:14:08 GMT</pubDate>
             <content:encoded><![CDATA[7년 만에 한국을 찾는 주인공은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/cdfc4cb0-05de-4968-b431-582fa748b4db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 모든 감정에 축복을 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1368,14 +1368,12 @@
             <guid>https://www.elle.co.kr/article/81004</guid>
             <pubDate>Mon, 09 Oct 2023 15:14:47 GMT</pubDate>
             <content:encoded><![CDATA[우리가 모든 감정을 껴안아야 하는 이유에 대한 김사월의 사유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/6a4520f5-084c-427a-892c-9a88903ea6b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해외 ETF vs. 국내 ETF, 어디에 투자해야 할까?_돈쓸신잡 #117 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/81011</link>
             <guid>https://www.elle.co.kr/article/81011</guid>
             <pubDate>Fri, 06 Oct 2023 16:17:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/657779f0-b97e-4784-992a-bd6533191de3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수라, 새만금 마지막 갯벌을 지키려는 사람들이 바치는 송가 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1383,7 +1381,6 @@
             <guid>https://www.elle.co.kr/article/80951</guid>
             <pubDate>Thu, 05 Oct 2023 15:15:22 GMT</pubDate>
             <content:encoded><![CDATA[아름다움을 목도한 사람은 그 전으로 돌아갈 수 없다. 황윤 감독의 다큐멘터리 &lt;수라&gt;는 갯벌에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/c9dd25cd-6d5e-4c76-9cf2-f7adc847b86b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리나라의 웰비잉 순위는 세계 몇 위일까? (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1391,7 +1388,6 @@
             <guid>https://www.elle.co.kr/article/80966</guid>
             <pubDate>Tue, 03 Oct 2023 16:15:51 GMT</pubDate>
             <content:encoded><![CDATA[지금 전 세계는 웰비잉 딜레마! 룰루레몬의 2023 글로벌 웰비잉 리포트 읽기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/088e1be0-e482-41bf-8489-da6454a91057.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
