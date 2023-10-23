@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-23T08:17:44.826Z</updated>
+    <updated>2023-10-23T09:14:14.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진짜 극비리 결혼! 다니엘 헤니의 14세 연하 아내 루 쿠마가이 사진 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/81509</id>
+        <link href="https://www.elle.co.kr/article/81509"/>
+        <updated>2023-10-23T09:13:13.900Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교가 배우 절친들과 홈파티에서 입은 팀복.jpg]]></title>
         <id>https://www.elle.co.kr/article/81507</id>
@@ -49,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/81429"/>
         <updated>2023-10-20T10:13:28.591Z</updated>
         <content type="html"><![CDATA[미니앨범 〈Howl〉로 돌아온 츄의 발랄한 엘르 화보.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리]]></title>
-        <id>https://www.elle.co.kr/article/81452</id>
-        <link href="https://www.elle.co.kr/article/81452"/>
-        <updated>2023-10-20T00:52:46.492Z</updated>
     </entry>
 </feed>
