@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 04:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 05:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송혜교가 배우 절친들과 홈파티에서 입은 팀복.jpg]]></title>
+            <link>https://www.elle.co.kr/article/81507</link>
+            <guid>https://www.elle.co.kr/article/81507</guid>
+            <pubDate>Mon, 23 Oct 2023 05:12:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/139e0fee-627e-4189-b0b1-ef20eececfc7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["전 날개는 없지만 부리는 있어요" BTS 지민의 귀여움 가득 담은 인터뷰]]></title>
             <link>https://www.elle.co.kr/article/81506</link>
@@ -58,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/81452</guid>
             <pubDate>Fri, 20 Oct 2023 00:52:46 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/448be69e-3c82-426a-b189-d07e60a9e6d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['세일러문' 작가가 직접 그린 블랙핑크 제니! '유앤미' 공식 MD 비주얼]]></title>
-            <link>https://www.elle.co.kr/article/81451</link>
-            <guid>https://www.elle.co.kr/article/81451</guid>
-            <pubDate>Thu, 19 Oct 2023 13:15:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/8d9f09ed-ac54-440b-a763-2bc723487ed7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
