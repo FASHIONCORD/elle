@@ -4,15 +4,24 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 18:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 19:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환절기 피부 걱정 끝! 이나연의 '꿀피부' 만드는 법]]></title>
+            <link>https://www.elle.co.kr/article/81391</link>
+            <guid>https://www.elle.co.kr/article/81391</guid>
+            <pubDate>Mon, 23 Oct 2023 19:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[빛나는 피부를 가진 이나연이 홈케어로 꿀피부 만드는 비법을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/18153c3b-311a-4ba9-8bb0-fe349a99a64e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쩍쩍 갈라진 입술엔? 탕후루 수분 폭탄 립 케어 아이템!_선배’s 어드바이스 #190]]></title>
             <link>https://www.elle.co.kr/article/81374</link>
             <guid>https://www.elle.co.kr/article/81374</guid>
             <pubDate>Sun, 22 Oct 2023 19:10:45 GMT</pubDate>
             <content:encoded><![CDATA[안티에이징과 메이크업을 한 번에 끝내줄 업그레이드 립 케어 아이템을 한데 모았습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/4dd172b0-19ba-4a9d-9eba-1a77f0a6d54f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['뷰티 보부상' 린의 가방 속 뷰티 아이템 10]]></title>
@@ -20,6 +29,7 @@
             <guid>https://www.elle.co.kr/article/81372</guid>
             <pubDate>Thu, 19 Oct 2023 14:12:43 GMT</pubDate>
             <content:encoded><![CDATA[린이 매일 챙겨 다니는 아이템들은 무엇? N차 구매하는 헤어 스타일링 제품부터 최근에 푹 빠...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/e7b066c2-ca22-428e-8397-ec0bf852b4bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반드시 '겟'해야 할 10의 뷰티 신상]]></title>
@@ -27,6 +37,7 @@
             <guid>https://www.elle.co.kr/article/81302</guid>
             <pubDate>Wed, 18 Oct 2023 15:14:11 GMT</pubDate>
             <content:encoded><![CDATA[10월의 뷰티 신상과 함께 완연한 가을의 푸르름을 만끽하길.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/576c8af1-c7e0-4e66-976a-ab35017ba12b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피부가 마시는 우유]]></title>
@@ -58,14 +69,6 @@
             <pubDate>Sun, 15 Oct 2023 19:10:23 GMT</pubDate>
             <content:encoded><![CDATA[반짝반짝 광채 나는 피부 표현이 인기다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/75fa8f59-095e-4abc-bdff-bcfa9cee3bf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성신여자대학교에 벨리곰이 떴다?]]></title>
-            <link>https://www.elle.co.kr/article/81264</link>
-            <guid>https://www.elle.co.kr/article/81264</guid>
-            <pubDate>Sun, 15 Oct 2023 15:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[엘르보이스 일일 셀러브리티로 변신한 벨리곰 B4의 깜짝 공연!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/7804e0ec-6d3e-4dee-8f70-48b44ddba621.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
