@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 05:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 06:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -876,6 +876,7 @@
             <guid>https://www.elle.co.kr/article/81374</guid>
             <pubDate>Sun, 22 Oct 2023 19:10:45 GMT</pubDate>
             <content:encoded><![CDATA[안티에이징과 메이크업을 한 번에 끝내줄 업그레이드 립 케어 아이템을 한데 모았습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/4dd172b0-19ba-4a9d-9eba-1a77f0a6d54f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['뷰티 보부상' 린의 가방 속 뷰티 아이템 10 (엘르 코리아 ─ 뷰티)]]></title>
@@ -883,6 +884,7 @@
             <guid>https://www.elle.co.kr/article/81372</guid>
             <pubDate>Thu, 19 Oct 2023 14:12:43 GMT</pubDate>
             <content:encoded><![CDATA[린이 매일 챙겨 다니는 아이템들은 무엇? N차 구매하는 헤어 스타일링 제품부터 최근에 푹 빠...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/e7b066c2-ca22-428e-8397-ec0bf852b4bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반드시 '겟'해야 할 10의 뷰티 신상 (엘르 코리아 ─ 뷰티)]]></title>
@@ -890,6 +892,7 @@
             <guid>https://www.elle.co.kr/article/81302</guid>
             <pubDate>Wed, 18 Oct 2023 15:14:11 GMT</pubDate>
             <content:encoded><![CDATA[10월의 뷰티 신상과 함께 완연한 가을의 푸르름을 만끽하길.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/576c8af1-c7e0-4e66-976a-ab35017ba12b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피부가 마시는 우유 (엘르 코리아 ─ 뷰티)]]></title>
@@ -897,6 +900,7 @@
             <guid>https://www.elle.co.kr/article/81299</guid>
             <pubDate>Wed, 18 Oct 2023 15:14:11 GMT</pubDate>
             <content:encoded><![CDATA[우유 한 잔 주세요, 피부가 좋아하는 우유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/771edd6b-e7da-40c3-9c75-bb9ba525b822.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이건 먹어도 돼! 유지어트를 위한 외식 가이드 #다이어터디터 (엘르 코리아 ─ 뷰티)]]></title>
@@ -904,12 +908,14 @@
             <guid>https://www.elle.co.kr/article/81364</guid>
             <pubDate>Mon, 16 Oct 2023 19:10:40 GMT</pubDate>
             <content:encoded><![CDATA[-22kg 감량 에디터, 이렇게 유지어터 중!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/8af49c3c-6827-4a0b-8dcf-ed47672f4dfa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안혜경이 신혼여행 다녀오자마자 달려간 곳은? 건강 체형 유지 비결 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/81329</link>
             <guid>https://www.elle.co.kr/article/81329</guid>
             <pubDate>Fri, 13 Oct 2023 14:12:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/3e2f5edf-b485-440e-bffb-8d513c38db91.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['글레이즈 스킨' '듀이 스킨' '베어 스킨' 이거 하나면 OK! (엘르 코리아 ─ 뷰티)]]></title>
@@ -917,6 +923,7 @@
             <guid>https://www.elle.co.kr/article/81285</guid>
             <pubDate>Sun, 15 Oct 2023 19:10:23 GMT</pubDate>
             <content:encoded><![CDATA[반짝반짝 광채 나는 피부 표현이 인기다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/75fa8f59-095e-4abc-bdff-bcfa9cee3bf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성신여자대학교에 벨리곰이 떴다? (엘르 코리아 ─ 뷰티)]]></title>
@@ -924,13 +931,13 @@
             <guid>https://www.elle.co.kr/article/81264</guid>
             <pubDate>Wed, 11 Oct 2023 03:14:31 GMT</pubDate>
             <content:encoded><![CDATA[엘르보이스 일일 셀러브리티로 변신한 벨리곰 B4의 깜짝 공연!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/7804e0ec-6d3e-4dee-8f70-48b44ddba621.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송혜교가 배우 절친들과 홈파티에서 입은 팀복.jpg (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/81507</link>
             <guid>https://www.elle.co.kr/article/81507</guid>
             <pubDate>Mon, 23 Oct 2023 05:12:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/139e0fee-627e-4189-b0b1-ef20eececfc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["전 날개는 없지만 부리는 있어요" BTS 지민의 귀여움 가득 담은 인터뷰 (엘르 코리아 ─ 스타)]]></title>
@@ -938,7 +945,6 @@
             <guid>https://www.elle.co.kr/article/81506</guid>
             <pubDate>Mon, 23 Oct 2023 00:52:11 GMT</pubDate>
             <content:encoded><![CDATA[진지한 듯 안 진지한, 현장감 가득 인터뷰]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/94f86700-5392-46bb-843a-bade8adfb182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쟈스민 꽃보다 박서준, 독보적 아우라! (엘르 코리아 ─ 스타)]]></title>
@@ -946,28 +952,24 @@
             <guid>https://www.elle.co.kr/article/81440</guid>
             <pubDate>Mon, 23 Oct 2023 00:52:11 GMT</pubDate>
             <content:encoded><![CDATA[신이 만든 쟈스민 향기와 인간이 창조한 샤넬 N°5. 그 사이에서 공명하는 수많은 사람들의 이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/b57944ae-e49c-4a2c-a009-2b313923056c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서동주가 67kg에서 52kg까지 감량한 방법 #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/81478</link>
             <guid>https://www.elle.co.kr/article/81478</guid>
             <pubDate>Sun, 22 Oct 2023 07:10:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/19363892-2249-4708-8ebc-5916995728a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이키가 최초 공개한 '북한산 뷰' 복층 하우스 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/81477</link>
             <guid>https://www.elle.co.kr/article/81477</guid>
             <pubDate>Fri, 20 Oct 2023 12:22:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/c8ceb3f9-92f6-4cd0-9f1c-45b0cbfed22e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/81468</link>
             <guid>https://www.elle.co.kr/article/81468</guid>
             <pubDate>Thu, 19 Oct 2023 07:12:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/a8d37d79-5dff-4aeb-be13-c6c098a5e9cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싱그러운 츄의 아침! (엘르 코리아 ─ 스타)]]></title>
@@ -975,7 +977,6 @@
             <guid>https://www.elle.co.kr/article/81429</guid>
             <pubDate>Fri, 20 Oct 2023 10:13:28 GMT</pubDate>
             <content:encoded><![CDATA[미니앨범 〈Howl〉로 돌아온 츄의 발랄한 엘르 화보.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/142bd873-faab-4a23-b481-6a21b6cb2a45.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리 (엘르 코리아 ─ 스타)]]></title>
@@ -990,35 +991,30 @@
             <guid>https://www.elle.co.kr/article/81466</guid>
             <pubDate>Thu, 19 Oct 2023 06:17:38 GMT</pubDate>
             <content:encoded><![CDATA[릭 오웬스, 랄프 로렌, 자크뮈스의 영감을 담아낸 아트북을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/870de5b8-f774-4d8c-9c42-ed0257678e88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싱가포르에 사는 리빙 크리에이터 아드리아노의 열차 뷰 아파트 #홈터뷰 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/81454</link>
             <guid>https://www.elle.co.kr/article/81454</guid>
             <pubDate>Thu, 19 Oct 2023 01:49:17 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/d970d4d3-9969-4967-8422-89cf0071fc80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/81452</link>
             <guid>https://www.elle.co.kr/article/81452</guid>
             <pubDate>Thu, 19 Oct 2023 00:52:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/448be69e-3c82-426a-b189-d07e60a9e6d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[16기 영자, 3개월 만에 10kg 감량? '나솔' 출연자들의 체중 감량 비법 총정리 #스타다이어트 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/81450</link>
             <guid>https://www.elle.co.kr/article/81450</guid>
             <pubDate>Wed, 18 Oct 2023 23:13:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/b6bac912-2849-44f0-8c3c-451976efa8e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베트남 친선경기에서 또 잔뜩 제조한 손흥민 미담.txt (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/81446</link>
             <guid>https://www.elle.co.kr/article/81446</guid>
             <pubDate>Thu, 19 Oct 2023 07:11:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/de7fe776-2ac7-44bd-b00d-87a8e8bec609.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의외의 홍현희 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1026,14 +1022,12 @@
             <guid>https://www.elle.co.kr/article/81442</guid>
             <pubDate>Wed, 18 Oct 2023 10:14:39 GMT</pubDate>
             <content:encoded><![CDATA["저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/326108a8-f68e-42c1-80f4-cc498e81035a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샘 스미스 내한, 킹 스미스도 '내돈내산' 관람 확정? (ft. 송파구 샤라웃) (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/81432</link>
             <guid>https://www.elle.co.kr/article/81432</guid>
             <pubDate>Wed, 18 Oct 2023 06:17:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/d6acb932-ef29-451e-84b5-c0b39b521a29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[취미는 ‘적게 갖기’라 하네 #비움라이프 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1041,7 +1035,6 @@
             <guid>https://www.elle.co.kr/article/81320</guid>
             <pubDate>Tue, 17 Oct 2023 15:14:30 GMT</pubDate>
             <content:encoded><![CDATA[전 &lt;엘르&gt; 패션 에디터 김미강에게 미니멀라이프에 대해 물었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/980e58f8-855a-4b63-916f-840b9687ffe0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샘 스미스 내한, 킹 스미스도 '내돈내산' 관람 확정? (ft. 송파구 샤라웃) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1133,24 +1126,28 @@
             <link>https://www.elle.co.kr/article/81528</link>
             <guid>https://www.elle.co.kr/article/81528</guid>
             <pubDate>Mon, 23 Oct 2023 00:52:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c2d42304-9e32-4bf2-bf70-078084f1cb4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/81468</link>
             <guid>https://www.elle.co.kr/article/81468</guid>
             <pubDate>Thu, 19 Oct 2023 07:12:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/a8d37d79-5dff-4aeb-be13-c6c098a5e9cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/81452</link>
             <guid>https://www.elle.co.kr/article/81452</guid>
             <pubDate>Thu, 19 Oct 2023 00:52:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/448be69e-3c82-426a-b189-d07e60a9e6d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[16기 영자, 3개월 만에 10kg 감량? '나솔' 출연자들의 체중 감량 비법 총정리 #스타다이어트 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/81450</link>
             <guid>https://www.elle.co.kr/article/81450</guid>
             <pubDate>Wed, 18 Oct 2023 23:13:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/b6bac912-2849-44f0-8c3c-451976efa8e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의외의 홍현희 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
