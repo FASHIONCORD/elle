@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 14:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 15:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[열 살이 된 '테디베어 코트'라는 아이콘]]></title>
+            <link>https://www.elle.co.kr/article/81562</link>
+            <guid>https://www.elle.co.kr/article/81562</guid>
+            <pubDate>Tue, 24 Oct 2023 15:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[우연을 믿고 거리로 나섰다. 10주년 밖에 지나지 않았다는 것이 낯설게 느껴지는 클래식 아이콘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/369f52e6-45aa-442c-bf41-3058ad1fb76f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GD가 뿌리는 향수, 이다희가 찾는 주얼리?]]></title>
             <link>https://www.elle.co.kr/article/81535</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/81471</guid>
             <pubDate>Sun, 22 Oct 2023 15:11:01 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/c340701a-741d-41a8-ad2f-e4ca66d5de76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거울 같은 실버 백]]></title>
-            <link>https://www.elle.co.kr/article/81465</link>
-            <guid>https://www.elle.co.kr/article/81465</guid>
-            <pubDate>Sun, 22 Oct 2023 15:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[거울아 거울아, 세상에서 누가 제일 예쁘니?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/9682c7f8-4920-48ac-b44b-11a982515f29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
