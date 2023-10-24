@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-10-24T07:13:45.263Z</updated>
+    <updated>2023-10-24T08:18:18.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은은한 단맛이 취향 저격! 가을 한정판 밤 디저트 맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/81514</id>
+        <link href="https://www.elle.co.kr/article/81514"/>
+        <updated>2023-10-24T08:18:07.356Z</updated>
+        <content type="html"><![CDATA[가을의 밤을 좋아하세요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찬란한 유등 빛과 화려한 불꽃쇼 즐기기! 가을밤 정취 더하는 축제 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/81508</id>
@@ -49,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/81371"/>
         <updated>2023-10-20T09:13:54.771Z</updated>
         <content type="html"><![CDATA[금빛 글씨 입은 '광화문' 석 자와 돌아온 월대.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선선한 가을밤 정취와 가볍게 한잔 하기 딱! 전국 주류 축제 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/81347</id>
-        <link href="https://www.elle.co.kr/article/81347"/>
-        <updated>2023-10-19T19:11:02.618Z</updated>
     </entry>
 </feed>
