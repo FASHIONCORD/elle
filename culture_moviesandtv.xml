@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 06:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 07:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list]]></title>
+            <link>https://www.elle.co.kr/article/81640</link>
+            <guid>https://www.elle.co.kr/article/81640</guid>
+            <pubDate>Wed, 25 Oct 2023 07:12:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6e1852e-0e89-4b7d-9cd1-853fcafe9342.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남궁민X안은진 멜로 케미 반짝반짝! '연인' 파트2 인기 요인 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/81557</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/81452</link>
             <guid>https://www.elle.co.kr/article/81452</guid>
             <pubDate>Thu, 19 Oct 2023 00:52:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/448be69e-3c82-426a-b189-d07e60a9e6d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[16기 영자, 3개월 만에 10kg 감량? '나솔' 출연자들의 체중 감량 비법 총정리 #스타다이어트]]></title>
@@ -84,13 +90,6 @@
             <link>https://www.elle.co.kr/article/81183</link>
             <guid>https://www.elle.co.kr/article/81183</guid>
             <pubDate>Fri, 06 Oct 2023 09:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[함정을 찾아라! 스타들의 AI 이어북 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/81130</link>
-            <guid>https://www.elle.co.kr/article/81130</guid>
-            <pubDate>Thu, 05 Oct 2023 04:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[설마 아직도 안 해본 건 아니죠?]]></content:encoded>
         </item>
     </channel>
 </rss>
