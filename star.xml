@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-24T23:13:52.488Z</updated>
+    <updated>2023-10-25T00:52:40.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두 딸 아빠 된 엑소 첸, 혼인신고 3년 만에 치른 결혼식은 어디서?]]></title>
+        <id>https://www.elle.co.kr/article/81543</id>
+        <link href="https://www.elle.co.kr/article/81543"/>
+        <updated>2023-10-25T00:51:40.881Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소민이 6년 반 만에 '런닝맨'에서 하차하는 이유]]></title>
         <id>https://www.elle.co.kr/article/81528</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/81440"/>
         <updated>2023-10-23T00:52:11.179Z</updated>
         <content type="html"><![CDATA[신이 만든 쟈스민 향기와 인간이 창조한 샤넬 N°5. 그 사이에서 공명하는 수많은 사람들의 이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서동주가 67kg에서 52kg까지 감량한 방법 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81478</id>
-        <link href="https://www.elle.co.kr/article/81478"/>
-        <updated>2023-10-22T07:10:59.252Z</updated>
     </entry>
 </feed>
