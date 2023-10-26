@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 05:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 06:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전소민이 6년 반 만에 '런닝맨'에서 하차하는 이유]]></title>
+            <link>https://www.elle.co.kr/article/81528</link>
+            <guid>https://www.elle.co.kr/article/81528</guid>
+            <pubDate>Thu, 26 Oct 2023 06:16:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c2d42304-9e32-4bf2-bf70-078084f1cb4a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['소백' 박민아 대표의 취향 리스트 #나의거실은]]></title>
             <link>https://www.elle.co.kr/article/81462</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/81452</guid>
             <pubDate>Fri, 20 Oct 2023 15:12:36 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/448be69e-3c82-426a-b189-d07e60a9e6d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[16기 영자, 3개월 만에 10kg 감량? '나솔' 출연자들의 체중 감량 비법 총정리 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81450</link>
-            <guid>https://www.elle.co.kr/article/81450</guid>
-            <pubDate>Thu, 19 Oct 2023 15:14:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/b6bac912-2849-44f0-8c3c-451976efa8e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
