@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 23:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 00:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤은혜 픽! 가을에 뿌리기 좋은 향수 10가지.list]]></title>
+            <link>https://www.elle.co.kr/article/81566</link>
+            <guid>https://www.elle.co.kr/article/81566</guid>
+            <pubDate>Thu, 26 Oct 2023 00:50:47 GMT</pubDate>
+            <content:encoded><![CDATA[가을 겨울에 뿌리면 제격! 사심을 담은 윤은혜 추천 향수들을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/f82fb194-db6e-42ea-86c6-2ffc1d07b978.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우아함의 정석! 가을 무드 충만한 '라떼 메이크업' 튜토리얼]]></title>
             <link>https://www.elle.co.kr/article/81527</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 19 Oct 2023 14:12:43 GMT</pubDate>
             <content:encoded><![CDATA[린이 매일 챙겨 다니는 아이템들은 무엇? N차 구매하는 헤어 스타일링 제품부터 최근에 푹 빠...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/e7b066c2-ca22-428e-8397-ec0bf852b4bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반드시 '겟'해야 할 10의 뷰티 신상]]></title>
-            <link>https://www.elle.co.kr/article/81302</link>
-            <guid>https://www.elle.co.kr/article/81302</guid>
-            <pubDate>Wed, 18 Oct 2023 15:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[10월의 뷰티 신상과 함께 완연한 가을의 푸르름을 만끽하길.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/576c8af1-c7e0-4e66-976a-ab35017ba12b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
