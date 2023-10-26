@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 07:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 08:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -814,6 +814,7 @@
             <guid>https://www.elle.co.kr/article/81593</guid>
             <pubDate>Thu, 26 Oct 2023 06:16:05 GMT</pubDate>
             <content:encoded><![CDATA[셀린느가 파리 국립 도서관을 런웨이로 만들었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/79869d32-c298-4091-8e84-c55c9b1f59ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스톡홀름에서 추천하는 쇼핑 스폿 (엘르 코리아 ─ 패션)]]></title>
@@ -1211,12 +1212,14 @@
             <link>https://www.elle.co.kr/article/81673</link>
             <guid>https://www.elle.co.kr/article/81673</guid>
             <pubDate>Thu, 26 Oct 2023 06:17:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/d44c9540-69d5-4673-91e8-7dc572293050.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마크 로스코: 색채가 스며든 음률을 마주하다 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/81594</link>
             <guid>https://www.elle.co.kr/article/81594</guid>
             <pubDate>Tue, 24 Oct 2023 08:17:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/f8d3a8bb-6e73-4ce0-8c2b-061def464512.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커피 한 잔 할까요 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1224,6 +1227,7 @@
             <guid>https://www.elle.co.kr/article/81548</guid>
             <pubDate>Mon, 23 Oct 2023 15:14:06 GMT</pubDate>
             <content:encoded><![CDATA[여섯 개의 커피 테이블과 친밀한 사물들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/77ed5772-8b87-4bce-9d45-4b06d8c92796.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['소백' 박민아 대표의 취향 리스트 #나의거실은 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1231,6 +1235,7 @@
             <guid>https://www.elle.co.kr/article/81462</guid>
             <pubDate>Sun, 22 Oct 2023 15:12:08 GMT</pubDate>
             <content:encoded><![CDATA[한국적 미니멀리즘을 근간으로 한국인의 의식주를 미학적으로 표현하는 브랜드 ‘소백(So_back)’의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/93e657bf-d2d6-4c13-8e87-3070f08e1d67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오브제일까, 조명일까? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
