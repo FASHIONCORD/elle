@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 14:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome To Gingerbread Land! 조 말론 런던 프레그런스 디렉터, 셀린 루와의 대화]]></title>
+            <link>https://www.elle.co.kr/article/81656</link>
+            <guid>https://www.elle.co.kr/article/81656</guid>
+            <pubDate>Fri, 27 Oct 2023 15:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스의 추억 속 즐거움을 전하는 마법 같은 향기. '진저 비스킷 코롱' 출시를 앞두고 조...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/71f66b8c-6c9d-444b-96aa-64e9f3572f3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물살을 가르는 남자들, 백인철 김건우]]></title>
             <link>https://www.elle.co.kr/article/81686</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/81658</guid>
             <pubDate>Thu, 26 Oct 2023 13:15:49 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/67bb8352-e8f7-45fc-82e2-83b14e59d607.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list]]></title>
-            <link>https://www.elle.co.kr/article/81640</link>
-            <guid>https://www.elle.co.kr/article/81640</guid>
-            <pubDate>Thu, 26 Oct 2023 00:50:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6e1852e-0e89-4b7d-9cd1-853fcafe9342.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
