@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 09:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 10:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물살을 가르는 남자들, 백인철 김건우]]></title>
+            <link>https://www.elle.co.kr/article/81686</link>
+            <guid>https://www.elle.co.kr/article/81686</guid>
+            <pubDate>Fri, 27 Oct 2023 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 수영 최고 전성기라 불리는 지금. 그 물살을 가장 날렵하게 가르는 두 남자를 만났다. 항...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/10dbc18a-1736-41ba-8a49-140680fea51a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심형탁 부인 사야가 직접 공개한 탁구 선수 시절 사진.jpg]]></title>
+            <link>https://www.elle.co.kr/article/81687</link>
+            <guid>https://www.elle.co.kr/article/81687</guid>
+            <pubDate>Fri, 27 Oct 2023 10:13:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/e87bc496-ffc2-4a2f-9f34-5eb665e2e5d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이성경 + 시세이도 + 레드 = 갓벽]]></title>
             <link>https://www.elle.co.kr/article/81584</link>
@@ -51,21 +66,6 @@
             <guid>https://www.elle.co.kr/article/81640</guid>
             <pubDate>Thu, 26 Oct 2023 00:50:58 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6e1852e-0e89-4b7d-9cd1-853fcafe9342.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도인 다 된 조인성, 선행 연예인상 탔다! 직접 밝힌 상금 2000만 원의 용처는?]]></title>
-            <link>https://www.elle.co.kr/article/81628</link>
-            <guid>https://www.elle.co.kr/article/81628</guid>
-            <pubDate>Wed, 25 Oct 2023 15:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[그가 봉사와 기부를 이어가고 있는 뜻밖의 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/09e433b0-b485-4e95-b6b6-fb3824a8d886.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재결합한 '환승연애2' 현커, 이젠 공식 축구 커플?! 희두X나연 근황.txt]]></title>
-            <link>https://www.elle.co.kr/article/81617</link>
-            <guid>https://www.elle.co.kr/article/81617</guid>
-            <pubDate>Wed, 25 Oct 2023 15:13:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/71958acb-f8dc-4e71-bfc1-f86dfcd1e7bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
