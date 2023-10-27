@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 06:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 07:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패딩백으로 볼륨을 높여요]]></title>
+            <link>https://www.elle.co.kr/article/81545</link>
+            <guid>https://www.elle.co.kr/article/81545</guid>
+            <pubDate>Fri, 27 Oct 2023 07:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[꼭 껴안고 다니고 싶은 패딩 백]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/28cca718-e8ae-4e21-a927-18a2a91346c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀린느의 도서관 패션?]]></title>
             <link>https://www.elle.co.kr/article/81593</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 24 Oct 2023 06:16:21 GMT</pubDate>
             <content:encoded><![CDATA[자신감을 장착한 글러브의 화려한 귀환]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/6dfab39a-97d7-48f2-9ed9-7e7c40ab2837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[할머니 옷장 속 카디건]]></title>
-            <link>https://www.elle.co.kr/article/81526</link>
-            <guid>https://www.elle.co.kr/article/81526</guid>
-            <pubDate>Mon, 23 Oct 2023 15:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[그리운 할머니의 품 속으로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/358f1a42-4b10-4277-9324-28c03007da86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
