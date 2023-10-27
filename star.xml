@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 02:20:58 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이성경 + 시세이도 + 레드 = 갓벽]]></title>
-            <link>https://www.elle.co.kr/article/81584</link>
-            <guid>https://www.elle.co.kr/article/81584</guid>
-            <pubDate>Fri, 27 Oct 2023 00:50:51 GMT</pubDate>
-            <content:encoded><![CDATA[활력, 에너지, 사랑, 삶... 피부 활력 에너지를 선사하는 시세이도 '얼티뮨 파워 세럼'과 이성...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/247d7b71-0484-4603-b379-31c8331cad39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[츄의 솔로서기]]></title>
-            <link>https://www.elle.co.kr/article/81647</link>
-            <guid>https://www.elle.co.kr/article/81647</guid>
-            <pubDate>Thu, 26 Oct 2023 19:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[첫 번째 미니 앨범 〈Howl〉로 돌아온 츄. 홀로 당당히 나설 채비를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/ef0890ca-6498-41ad-983c-39759737c238.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코펜하겐에 자리 잡은 한국 브랜드 '비롯']]></title>
-            <link>https://www.elle.co.kr/article/81550</link>
-            <guid>https://www.elle.co.kr/article/81550</guid>
-            <pubDate>Thu, 26 Oct 2023 15:12:48 GMT</pubDate>
-            <content:encoded><![CDATA['비롯'이 개척하고 있는 새로운 세상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/5a0d9602-bdb1-46d0-a3fc-d69b42a8d5cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국에서 육아 중인 안영미, 직접 올린 아들 100일 자축 상황극.avi]]></title>
-            <link>https://www.elle.co.kr/article/81659</link>
-            <guid>https://www.elle.co.kr/article/81659</guid>
-            <pubDate>Thu, 26 Oct 2023 15:12:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/8c94bc9e-9406-42d4-8118-6820bc8d2ff7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 뺨 치는 칼군무 소화하는 임영웅의 피지컬 완성 루틴 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81658</link>
-            <guid>https://www.elle.co.kr/article/81658</guid>
-            <pubDate>Thu, 26 Oct 2023 13:15:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/67bb8352-e8f7-45fc-82e2-83b14e59d607.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list]]></title>
-            <link>https://www.elle.co.kr/article/81640</link>
-            <guid>https://www.elle.co.kr/article/81640</guid>
-            <pubDate>Thu, 26 Oct 2023 00:50:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6e1852e-0e89-4b7d-9cd1-853fcafe9342.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도인 다 된 조인성, 선행 연예인상 탔다! 직접 밝힌 상금 2000만 원의 용처는?]]></title>
-            <link>https://www.elle.co.kr/article/81628</link>
-            <guid>https://www.elle.co.kr/article/81628</guid>
-            <pubDate>Wed, 25 Oct 2023 15:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[그가 봉사와 기부를 이어가고 있는 뜻밖의 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/09e433b0-b485-4e95-b6b6-fb3824a8d886.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재결합한 '환승연애2' 현커, 이젠 공식 축구 커플?! 희두X나연 근황.txt]]></title>
-            <link>https://www.elle.co.kr/article/81617</link>
-            <guid>https://www.elle.co.kr/article/81617</guid>
-            <pubDate>Wed, 25 Oct 2023 15:13:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/71958acb-f8dc-4e71-bfc1-f86dfcd1e7bf.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-10-27T03:14:49.863Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성경 + 시세이도 + 레드 = 갓벽]]></title>
+        <id>https://www.elle.co.kr/article/81584</id>
+        <link href="https://www.elle.co.kr/article/81584"/>
+        <updated>2023-10-27T00:50:51.149Z</updated>
+        <content type="html"><![CDATA[활력, 에너지, 사랑, 삶... 피부 활력 에너지를 선사하는 시세이도 '얼티뮨 파워 세럼'과 이성...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[츄의 솔로서기]]></title>
+        <id>https://www.elle.co.kr/article/81647</id>
+        <link href="https://www.elle.co.kr/article/81647"/>
+        <updated>2023-10-26T19:11:47.272Z</updated>
+        <content type="html"><![CDATA[첫 번째 미니 앨범 〈Howl〉로 돌아온 츄. 홀로 당당히 나설 채비를 시작한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코펜하겐에 자리 잡은 한국 브랜드 '비롯']]></title>
+        <id>https://www.elle.co.kr/article/81550</id>
+        <link href="https://www.elle.co.kr/article/81550"/>
+        <updated>2023-10-26T15:12:48.190Z</updated>
+        <content type="html"><![CDATA['비롯'이 개척하고 있는 새로운 세상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국에서 육아 중인 안영미, 직접 올린 아들 100일 자축 상황극.avi]]></title>
+        <id>https://www.elle.co.kr/article/81659</id>
+        <link href="https://www.elle.co.kr/article/81659"/>
+        <updated>2023-10-26T15:12:48.193Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이돌 뺨 치는 칼군무 소화하는 임영웅의 피지컬 완성 루틴 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81658</id>
+        <link href="https://www.elle.co.kr/article/81658"/>
+        <updated>2023-10-26T13:15:49.625Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list]]></title>
+        <id>https://www.elle.co.kr/article/81640</id>
+        <link href="https://www.elle.co.kr/article/81640"/>
+        <updated>2023-10-26T00:50:58.266Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도인 다 된 조인성, 선행 연예인상 탔다! 직접 밝힌 상금 2000만 원의 용처는?]]></title>
+        <id>https://www.elle.co.kr/article/81628</id>
+        <link href="https://www.elle.co.kr/article/81628"/>
+        <updated>2023-10-25T15:13:06.383Z</updated>
+        <content type="html"><![CDATA[그가 봉사와 기부를 이어가고 있는 뜻밖의 이유.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재결합한 '환승연애2' 현커, 이젠 공식 축구 커플?! 희두X나연 근황.txt]]></title>
+        <id>https://www.elle.co.kr/article/81617</id>
+        <link href="https://www.elle.co.kr/article/81617"/>
+        <updated>2023-10-25T15:13:06.386Z</updated>
+    </entry>
+</feed>
