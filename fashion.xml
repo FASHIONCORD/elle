@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 04:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 05:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타들의 가을 룩 최애 조합은? 스웨터와 미니스커트 5]]></title>
+            <link>https://www.elle.co.kr/article/81600</link>
+            <guid>https://www.elle.co.kr/article/81600</guid>
+            <pubDate>Sat, 28 Oct 2023 05:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[실패 없는 스타일링의 공식! 포근한 스웨터와 발랄한 미니스커트로 스타일리시한 데일리 룩을 완...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/965a3199-9398-4c3d-969a-e05d4e0ae1c3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패딩백으로 볼륨을 높여요]]></title>
             <link>https://www.elle.co.kr/article/81545</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 24 Oct 2023 08:16:32 GMT</pubDate>
             <content:encoded><![CDATA[가을엔 프렌치 감성이 필요해! 따끈따끈하게 새로 오픈한 매장 2곳에서 프랑스 분위기 완충 가능...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/83d40732-89a5-42b3-925a-adaf9a981f51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존재감있는 신상 글러브 아이템]]></title>
-            <link>https://www.elle.co.kr/article/81504</link>
-            <guid>https://www.elle.co.kr/article/81504</guid>
-            <pubDate>Tue, 24 Oct 2023 06:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[자신감을 장착한 글러브의 화려한 귀환]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/6dfab39a-97d7-48f2-9ed9-7e7c40ab2837.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
