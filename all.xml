@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 21:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 22:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -918,6 +918,7 @@
             <guid>https://www.elle.co.kr/article/81327</guid>
             <pubDate>Tue, 24 Oct 2023 02:20:22 GMT</pubDate>
             <content:encoded><![CDATA['귀염 뽀짝'한 디자인은 기본, 화장품 기능까지 겸비한 실용성 만점 코스메틱 키 링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/0110b708-115d-4df6-837a-f45dd4f4bf9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['힘쎈여자 강남순' 엄마 김정은의 탄탄 복근 유지 비결 #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
@@ -977,7 +978,6 @@
             <link>https://www.elle.co.kr/article/81594</link>
             <guid>https://www.elle.co.kr/article/81594</guid>
             <pubDate>Tue, 24 Oct 2023 08:17:41 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/f8d3a8bb-6e73-4ce0-8c2b-061def464512.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커피 한 잔 할까요 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -985,21 +985,18 @@
             <guid>https://www.elle.co.kr/article/81548</guid>
             <pubDate>Mon, 23 Oct 2023 15:14:06 GMT</pubDate>
             <content:encoded><![CDATA[여섯 개의 커피 테이블과 친밀한 사물들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/77ed5772-8b87-4bce-9d45-4b06d8c92796.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남궁민X안은진 멜로 케미 반짝반짝! '연인' 파트2 인기 요인 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/81557</link>
             <guid>https://www.elle.co.kr/article/81557</guid>
             <pubDate>Mon, 23 Oct 2023 09:13:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c0328db0-381f-4437-8db1-c5d4f29cbf67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전소민이 6년 반 만에 '런닝맨'에서 하차하는 이유 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/81528</link>
             <guid>https://www.elle.co.kr/article/81528</guid>
             <pubDate>Mon, 23 Oct 2023 00:52:34 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c2d42304-9e32-4bf2-bf70-078084f1cb4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['소백' 박민아 대표의 취향 리스트 #나의거실은 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1007,7 +1004,6 @@
             <guid>https://www.elle.co.kr/article/81462</guid>
             <pubDate>Sun, 22 Oct 2023 15:12:08 GMT</pubDate>
             <content:encoded><![CDATA[한국적 미니멀리즘을 근간으로 한국인의 의식주를 미학적으로 표현하는 브랜드 ‘소백(So_back)’의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/93e657bf-d2d6-4c13-8e87-3070f08e1d67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오브제일까, 조명일까? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1015,7 +1011,6 @@
             <guid>https://www.elle.co.kr/article/81467</guid>
             <pubDate>Fri, 20 Oct 2023 15:13:19 GMT</pubDate>
             <content:encoded><![CDATA[호기심과 정성으로 빚어낸 테이블 램프들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/1d239174-fa7b-434d-bb4d-1e61c770e7d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세 명의 사진가가 포착한 도시 정원 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1023,14 +1018,12 @@
             <guid>https://www.elle.co.kr/article/81463</guid>
             <pubDate>Thu, 19 Oct 2023 15:14:59 GMT</pubDate>
             <content:encoded><![CDATA[최용준, 김선익, 홍기웅. 3인의 사진가 눈에 든 도시 정원들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/f99d99e0-818a-4ef5-9540-73dd9738bb16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/81468</link>
             <guid>https://www.elle.co.kr/article/81468</guid>
             <pubDate>Thu, 19 Oct 2023 07:12:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/a8d37d79-5dff-4aeb-be13-c6c098a5e9cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샘 스미스 내한, 킹 스미스도 '내돈내산' 관람 확정? (ft. 송파구 샤라웃) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1119,28 +1112,24 @@
             <guid>https://www.elle.co.kr/article/81703</guid>
             <pubDate>Fri, 27 Oct 2023 04:15:03 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;그대들은 어떻게 살 것인가&gt;, 웹툰 &lt;어린이집 다니는 구나&gt;, 예능 &lt;장사천재 백사장 2&gt;.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/6ff5b0e6-dd2b-4cdd-9762-770eac183b6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/81640</link>
             <guid>https://www.elle.co.kr/article/81640</guid>
             <pubDate>Wed, 25 Oct 2023 07:12:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6e1852e-0e89-4b7d-9cd1-853fcafe9342.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남궁민X안은진 멜로 케미 반짝반짝! '연인' 파트2 인기 요인 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/81557</link>
             <guid>https://www.elle.co.kr/article/81557</guid>
             <pubDate>Mon, 23 Oct 2023 09:13:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c0328db0-381f-4437-8db1-c5d4f29cbf67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전소민이 6년 반 만에 '런닝맨'에서 하차하는 이유 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/81528</link>
             <guid>https://www.elle.co.kr/article/81528</guid>
             <pubDate>Mon, 23 Oct 2023 00:52:34 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c2d42304-9e32-4bf2-bf70-078084f1cb4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1356,14 +1345,12 @@
             <guid>https://www.elle.co.kr/article/81332</guid>
             <pubDate>Thu, 26 Oct 2023 07:14:03 GMT</pubDate>
             <content:encoded><![CDATA[말에는 힘이 있다. 운동 코치 에리카가 말하는 불행 예방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/60cac557-2ab1-4a06-89b1-3e0fa38df902.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청춘 파산이 무섭게 늘어나는 이유_돈쓸신잡 #119 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/81309</link>
             <guid>https://www.elle.co.kr/article/81309</guid>
             <pubDate>Wed, 25 Oct 2023 15:14:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/9e348f9f-032c-4624-a648-cff99c03f900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 똥개 언니의 편지 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1371,7 +1358,6 @@
             <guid>https://www.elle.co.kr/article/81173</guid>
             <pubDate>Mon, 23 Oct 2023 02:22:03 GMT</pubDate>
             <content:encoded><![CDATA[누가 봐도 똥개 비주얼, 사랑스러운 정원이와 함께 하는 비혼세의 일상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/61b1a1af-deea-4a61-b7df-2c2603438901.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 안녕, 작은 인간 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1379,7 +1365,6 @@
             <guid>https://www.elle.co.kr/article/81139</guid>
             <pubDate>Thu, 19 Oct 2023 02:21:14 GMT</pubDate>
             <content:encoded><![CDATA[아나운서 임현주가 전하는 엄마가 된다는 것의 생생한 체험.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/5c418d8b-45de-4d67-a0df-977489ac6ded.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동물을 '본다'는 것, 동물원은 지금 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1387,14 +1372,12 @@
             <guid>https://www.elle.co.kr/article/81121</guid>
             <pubDate>Sun, 15 Oct 2023 13:14:31 GMT</pubDate>
             <content:encoded><![CDATA[우리를 탈출한 사자 '사순이'는 한 시간 만에 사살됐다. '푸바오'의 엄마 '아이바오'는 축복 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/e8625f53-c228-4721-9131-06ee91e95ba8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부자가 되려면 당장 '이것'부터 바꿔라_돈쓸신잡 #118 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/81115</link>
             <guid>https://www.elle.co.kr/article/81115</guid>
             <pubDate>Thu, 12 Oct 2023 15:14:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/de7200f4-892b-47e2-acb3-b57fdbc37b2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1402,7 +1385,6 @@
             <guid>https://www.elle.co.kr/article/81111</guid>
             <pubDate>Wed, 04 Oct 2023 15:14:08 GMT</pubDate>
             <content:encoded><![CDATA[7년 만에 한국을 찾는 주인공은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/cdfc4cb0-05de-4968-b431-582fa748b4db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 모든 감정에 축복을 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1410,7 +1392,6 @@
             <guid>https://www.elle.co.kr/article/81004</guid>
             <pubDate>Mon, 09 Oct 2023 15:14:47 GMT</pubDate>
             <content:encoded><![CDATA[우리가 모든 감정을 껴안아야 하는 이유에 대한 김사월의 사유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/6a4520f5-084c-427a-892c-9a88903ea6b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
