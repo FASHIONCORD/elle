@@ -4,9 +4,32 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 15:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 16:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샌드위치부터 스팸 무스비까지! 초간단 주말 나들이 도시락 레서피 3]]></title>
+            <link>https://www.elle.co.kr/article/81731</link>
+            <guid>https://www.elle.co.kr/article/81731</guid>
+            <pubDate>Sun, 29 Oct 2023 16:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말엔 예쁘게 도시락 싸서 소풍 가볼까요? 스타들이 소개한 피크닉 도시락 레서피를 참고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/cca9722c-2fee-4166-ba3a-14cc5d5cdabd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사진가 목정욱의 새 전시, 이번에는 친구와 함께다]]></title>
+            <link>https://www.elle.co.kr/article/81697</link>
+            <guid>https://www.elle.co.kr/article/81697</guid>
+            <pubDate>Sun, 29 Oct 2023 16:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[목정욱 사진예술의 지속 가능한 아름다움을 경험하는 기회가 될 새 전시가 10월 27일, WWF에서...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/f9a59fca-391a-433c-8f4f-8dd7a3796d44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왜 청춘은 이토록 반짝일까? 달콤한 두 남자, 려운과 최현욱]]></title>
+            <link>https://www.elle.co.kr/article/81621</link>
+            <guid>https://www.elle.co.kr/article/81621</guid>
+            <pubDate>Sun, 29 Oct 2023 16:16:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/7d800986-cfa2-4603-82b5-bd6956821283.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연애 세포 자극! 사랑한다면 이들처럼]]></title>
             <link>https://www.elle.co.kr/article/81727</link>
@@ -44,30 +67,6 @@
             <pubDate>Sat, 28 Oct 2023 15:12:41 GMT</pubDate>
             <content:encoded><![CDATA[올가을 최고의 멜로기대작! 사랑한다고 말해줘의 두 사람.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/bacf18a9-6733-4bd4-8af2-06f0e50bc889.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타가 다녀간 가을 감성 전시회 3]]></title>
-            <link>https://www.elle.co.kr/article/81694</link>
-            <guid>https://www.elle.co.kr/article/81694</guid>
-            <pubDate>Fri, 27 Oct 2023 19:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[태양이 영감 받은 전시부터 엄정화가 다녀온 화이트 갤러리 개관전 등 촉촉한 가을 감성을 자극...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/2d239524-af36-4acf-aa1a-ca7502aca90a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Welcome To Gingerbread Land! 조 말론 런던 프레그런스 디렉터, 셀린 루와의 대화]]></title>
-            <link>https://www.elle.co.kr/article/81656</link>
-            <guid>https://www.elle.co.kr/article/81656</guid>
-            <pubDate>Fri, 27 Oct 2023 15:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스의 추억 속 즐거움을 전하는 마법 같은 향기. '진저 비스킷 코롱' 출시를 앞두고 조...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/71f66b8c-6c9d-444b-96aa-64e9f3572f3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물살을 가르는 남자들, 백인철 김건우]]></title>
-            <link>https://www.elle.co.kr/article/81686</link>
-            <guid>https://www.elle.co.kr/article/81686</guid>
-            <pubDate>Fri, 27 Oct 2023 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국 수영 최고 전성기라 불리는 지금. 그 물살을 가장 날렵하게 가르는 두 남자를 만났다. 항...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/10dbc18a-1736-41ba-8a49-140680fea51a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
