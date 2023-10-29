@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 05:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 06:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테일러 스위프트의 억만장자 등극이 더욱 특별한 이유는?]]></title>
+            <link>https://www.elle.co.kr/article/81733</link>
+            <guid>https://www.elle.co.kr/article/81733</guid>
+            <pubDate>Sun, 29 Oct 2023 06:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/71ccf5c1-5363-463a-b922-331b3fe8ba58.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샘 스미스 내한, 킹 스미스도 '내돈내산' 관람 확정? (ft. 송파구 샤라웃)]]></title>
             <link>https://www.elle.co.kr/article/81432</link>
@@ -35,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/81125</guid>
             <pubDate>Thu, 05 Oct 2023 03:13:28 GMT</pubDate>
             <content:encoded><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/d124c00f-8c94-494e-a15c-d449e03e660d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1996년 투팍 살인 사건 용의자, 27년 만에 체포된 후 꺼낸 진술]]></title>
@@ -85,12 +92,6 @@
             <link>https://www.elle.co.kr/article/79576</link>
             <guid>https://www.elle.co.kr/article/79576</guid>
             <pubDate>Sat, 29 Jul 2023 12:21:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79434</link>
-            <guid>https://www.elle.co.kr/article/79434</guid>
-            <pubDate>Tue, 25 Jul 2023 10:14:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
