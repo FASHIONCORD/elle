@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 19:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 21:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베를린 신국립미술관이 담아낸 60년 동안의 게르하르트 리히터 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/81769</link>
+            <guid>https://www.elle.co.kr/article/81769</guid>
+            <pubDate>Mon, 30 Oct 2023 21:12:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/4878c073-8a1c-4569-8e35-fcf9822ecb83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몸에도 미니멀리즘 #비움라이프]]></title>
             <link>https://www.elle.co.kr/article/81704</link>
@@ -36,7 +43,6 @@
             <link>https://www.elle.co.kr/article/81673</link>
             <guid>https://www.elle.co.kr/article/81673</guid>
             <pubDate>Thu, 26 Oct 2023 06:17:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/d44c9540-69d5-4673-91e8-7dc572293050.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마크 로스코: 색채가 스며든 음률을 마주하다 #요즘전시]]></title>
@@ -91,12 +97,6 @@
             <guid>https://www.elle.co.kr/article/81320</guid>
             <pubDate>Tue, 17 Oct 2023 15:14:30 GMT</pubDate>
             <content:encoded><![CDATA[전 &lt;엘르&gt; 패션 에디터 김미강에게 미니멀라이프에 대해 물었다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사람을 위한 디자인을 지향하는, 르모듈러 대표 권희숙]]></title>
-            <link>https://www.elle.co.kr/article/81323</link>
-            <guid>https://www.elle.co.kr/article/81323</guid>
-            <pubDate>Sun, 15 Oct 2023 15:12:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
