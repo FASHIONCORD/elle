@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-31T09:14:29.047Z</updated>
+    <updated>2023-10-31T10:15:24.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래]]></title>
+        <id>https://www.elle.co.kr/article/81734</id>
+        <link href="https://www.elle.co.kr/article/81734"/>
+        <updated>2023-10-31T10:14:05.089Z</updated>
+        <content type="html"><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양세종이라는 다정한 우주]]></title>
         <id>https://www.elle.co.kr/article/81635</id>
@@ -52,12 +59,5 @@
         <id>https://www.elle.co.kr/article/81621</id>
         <link href="https://www.elle.co.kr/article/81621"/>
         <updated>2023-10-29T16:16:04.844Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연애 세포 자극! 사랑한다면 이들처럼]]></title>
-        <id>https://www.elle.co.kr/article/81727</id>
-        <link href="https://www.elle.co.kr/article/81727"/>
-        <updated>2023-10-29T06:15:23.446Z</updated>
-        <content type="html"><![CDATA[옆구리 시린 계절, 보기만 해도 부러운 아름다운 세기의 커플들.]]></content>
     </entry>
 </feed>
