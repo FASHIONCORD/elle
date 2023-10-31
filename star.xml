@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-31T14:14:33.314Z</updated>
+    <updated>2023-10-31T15:14:08.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[형형색색 물든 단풍잎처럼! 스타의 NEW 헤어 컬러]]></title>
+        <id>https://www.elle.co.kr/article/81735</id>
+        <link href="https://www.elle.co.kr/article/81735"/>
+        <updated>2023-10-31T15:13:06.208Z</updated>
+        <content type="html"><![CDATA[확실한 분위기 전환을 원한다면 염색이 정답! 있지 유나, 마마무 휘인, 전소미 등 가을산처럼 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래]]></title>
         <id>https://www.elle.co.kr/article/81734</id>
@@ -53,11 +60,5 @@
         <link href="https://www.elle.co.kr/article/81697"/>
         <updated>2023-10-29T16:16:04.836Z</updated>
         <content type="html"><![CDATA[목정욱 사진예술의 지속 가능한 아름다움을 경험하는 기회가 될 새 전시가 10월 27일, WWF에서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 청춘은 이토록 반짝일까? 달콤한 두 남자, 려운과 최현욱]]></title>
-        <id>https://www.elle.co.kr/article/81621</id>
-        <link href="https://www.elle.co.kr/article/81621"/>
-        <updated>2023-10-29T16:16:04.844Z</updated>
     </entry>
 </feed>
