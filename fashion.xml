@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-31T02:23:20.366Z</updated>
+    <updated>2023-10-31T03:14:40.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당당하고 경쾌한 여덟 번의 순간]]></title>
+        <id>https://www.elle.co.kr/article/81483</id>
+        <link href="https://www.elle.co.kr/article/81483"/>
+        <updated>2023-10-31T03:13:00.835Z</updated>
+        <content type="html"><![CDATA[반짝임을 따라, 시선이 가는대로.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타들의 가을 룩 최애 조합은? 스웨터와 미니스커트 5]]></title>
         <id>https://www.elle.co.kr/article/81600</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/81562"/>
         <updated>2023-10-24T15:13:49.970Z</updated>
         <content type="html"><![CDATA[우연을 믿고 거리로 나섰다. 10주년 밖에 지나지 않았다는 것이 낯설게 느껴지는 클래식 아이콘...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GD가 뿌리는 향수, 이다희가 찾는 주얼리?]]></title>
-        <id>https://www.elle.co.kr/article/81535</id>
-        <link href="https://www.elle.co.kr/article/81535"/>
-        <updated>2023-10-24T08:16:32.406Z</updated>
-        <content type="html"><![CDATA[가을엔 프렌치 감성이 필요해! 따끈따끈하게 새로 오픈한 매장 2곳에서 프랑스 분위기 완충 가능...]]></content>
     </entry>
 </feed>
