@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 09:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 10:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수지X양세종 케미에 진한 여운 선사한 '이두나!' 인기 요인 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/81766</link>
+            <guid>https://www.elle.co.kr/article/81766</guid>
+            <pubDate>Wed, 01 Nov 2023 10:13:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/86d9aad4-1e47-47fa-a3fe-13fda011d38a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이제이 번쩍 들어올린 줄리엔강! 꿀 떨어지는 웨딩 화보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/81765</link>
+            <guid>https://www.elle.co.kr/article/81765</guid>
+            <pubDate>Wed, 01 Nov 2023 10:13:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/699bc79b-3cb9-4cbe-a936-b1cf2284f872.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[형형색색 물든 단풍잎처럼! 스타의 NEW 헤어 컬러]]></title>
             <link>https://www.elle.co.kr/article/81735</link>
@@ -54,22 +68,6 @@
             <pubDate>Sun, 29 Oct 2023 19:09:51 GMT</pubDate>
             <content:encoded><![CDATA[약물 중독을 호소한 지 꼭 1년 만에.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/fbd4951c-fee3-40a5-a64c-6243342c3a7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샌드위치부터 스팸 무스비까지! 초간단 주말 나들이 도시락 레서피 3]]></title>
-            <link>https://www.elle.co.kr/article/81731</link>
-            <guid>https://www.elle.co.kr/article/81731</guid>
-            <pubDate>Sun, 29 Oct 2023 16:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주말엔 예쁘게 도시락 싸서 소풍 가볼까요? 스타들이 소개한 피크닉 도시락 레서피를 참고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/cca9722c-2fee-4166-ba3a-14cc5d5cdabd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진가 목정욱의 새 전시, 이번에는 친구와 함께다]]></title>
-            <link>https://www.elle.co.kr/article/81697</link>
-            <guid>https://www.elle.co.kr/article/81697</guid>
-            <pubDate>Sun, 29 Oct 2023 16:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[목정욱 사진예술의 지속 가능한 아름다움을 경험하는 기회가 될 새 전시가 10월 27일, WWF에서...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/f9a59fca-391a-433c-8f4f-8dd7a3796d44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
