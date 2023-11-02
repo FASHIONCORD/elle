@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 07:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 08:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/81862</link>
+            <guid>https://www.elle.co.kr/article/81862</guid>
+            <pubDate>Thu, 02 Nov 2023 08:16:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/29bd3c7d-1b4e-4b83-8d60-d66e66d7cbe3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베를린 신국립미술관이 담아낸 60년 동안의 게르하르트 리히터 #요즘전시]]></title>
             <link>https://www.elle.co.kr/article/81769</link>
@@ -36,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/81591</guid>
             <pubDate>Thu, 26 Oct 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[네오고딕 양식과 파괴적인 멤피스 디자인이 극적으로 공존하는 마테오 툰의 베네치아 저택.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/fad91bd2-b982-47fb-95e1-32e1aaf80b57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네덜란드에서 도서관 사서로 일하는 지아 살바지오의 책방 같은 집 #홈터뷰]]></title>
@@ -90,13 +96,6 @@
             <link>https://www.elle.co.kr/article/81454</link>
             <guid>https://www.elle.co.kr/article/81454</guid>
             <pubDate>Thu, 19 Oct 2023 01:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[취미는 ‘적게 갖기’라 하네 #비움라이프]]></title>
-            <link>https://www.elle.co.kr/article/81320</link>
-            <guid>https://www.elle.co.kr/article/81320</guid>
-            <pubDate>Tue, 17 Oct 2023 15:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[전 &lt;엘르&gt; 패션 에디터 김미강에게 미니멀라이프에 대해 물었다.]]></content:encoded>
         </item>
     </channel>
 </rss>
