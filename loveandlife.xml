@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 07:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 08:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베를린 신국립미술관이 담아낸 60년 동안의 게르하르트 리히터 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/81769</link>
+            <guid>https://www.elle.co.kr/article/81769</guid>
+            <pubDate>Fri, 03 Nov 2023 08:16:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/4878c073-8a1c-4569-8e35-fcf9822ecb83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제철이 왔어요!]]></title>
             <link>https://www.elle.co.kr/article/81692</link>
@@ -57,14 +64,6 @@
             <guid>https://www.elle.co.kr/article/81594</guid>
             <pubDate>Sat, 28 Oct 2023 19:10:43 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/f8d3a8bb-6e73-4ce0-8c2b-061def464512.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스톡홀름에서 추천하는 쇼핑 스폿]]></title>
-            <link>https://www.elle.co.kr/article/81588</link>
-            <guid>https://www.elle.co.kr/article/81588</guid>
-            <pubDate>Fri, 27 Oct 2023 09:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[이케아 말고도 기억할 곳이 이렇게나 많습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/e9948960-35d7-4ad9-ae56-3be1dc5bb61f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
