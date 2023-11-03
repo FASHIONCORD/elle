@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-03T01:50:47.141Z</updated>
+    <updated>2023-11-03T02:23:08.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[31 Women Who Inspire Us 2]]></title>
+        <id>https://www.elle.co.kr/article/81800</id>
+        <link href="https://www.elle.co.kr/article/81800"/>
+        <updated>2023-11-03T02:22:07.094Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미미가 공개한 천둥과의 웨딩화보 촬영 현장 (ft. 시누이)]]></title>
         <id>https://www.elle.co.kr/article/81825</id>
@@ -47,12 +53,5 @@
         <id>https://www.elle.co.kr/article/81765</id>
         <link href="https://www.elle.co.kr/article/81765"/>
         <updated>2023-11-01T10:13:23.441Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[형형색색 물든 단풍잎처럼! 스타의 NEW 헤어 컬러]]></title>
-        <id>https://www.elle.co.kr/article/81735</id>
-        <link href="https://www.elle.co.kr/article/81735"/>
-        <updated>2023-10-31T15:13:06.208Z</updated>
-        <content type="html"><![CDATA[확실한 분위기 전환을 원한다면 염색이 정답! 있지 유나, 마마무 휘인, 전소미 등 가을산처럼 ...]]></content>
     </entry>
 </feed>
