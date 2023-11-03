@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 09:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 10:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ALL DAY 나 홀로 생일 밥상!]]></title>
+            <link>https://www.elle.co.kr/article/81813</link>
+            <guid>https://www.elle.co.kr/article/81813</guid>
+            <pubDate>Fri, 03 Nov 2023 10:15:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/966f8acd-b1f4-4b73-9c33-ab51bf15035e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰]]></title>
             <link>https://www.elle.co.kr/article/81862</link>
@@ -57,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/81688</guid>
             <pubDate>Tue, 31 Oct 2023 10:15:05 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/4eca1391-f51d-49c6-b42e-6950651d4118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네덜란드에서 도서관 사서로 일하는 지아 살바지오의 책방 같은 집 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/81673</link>
-            <guid>https://www.elle.co.kr/article/81673</guid>
-            <pubDate>Mon, 30 Oct 2023 21:12:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/d44c9540-69d5-4673-91e8-7dc572293050.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

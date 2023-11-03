@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-03T09:15:31.042Z</updated>
+    <updated>2023-11-03T10:15:49.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K-헤어와 주얼리의 믹스&매치]]></title>
+        <id>https://www.elle.co.kr/article/81552</id>
+        <link href="https://www.elle.co.kr/article/81552"/>
+        <updated>2023-11-03T10:13:36.443Z</updated>
+        <content type="html"><![CDATA[‘Daenggi’, ‘Jokduri’가 레드 카펫을 밟고 구글링되는 세상. 전통 헤어스타일에서 영감받은 K...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구찌의 영원한 상징, 홀스빗 1953 로퍼 70주년]]></title>
         <id>https://www.elle.co.kr/article/81701</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/81593"/>
         <updated>2023-10-26T06:16:05.616Z</updated>
         <content type="html"><![CDATA[셀린느가 파리 국립 도서관을 런웨이로 만들었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스톡홀름에서 추천하는 쇼핑 스폿]]></title>
-        <id>https://www.elle.co.kr/article/81588</id>
-        <link href="https://www.elle.co.kr/article/81588"/>
-        <updated>2023-10-25T19:10:38.075Z</updated>
-        <content type="html"><![CDATA[이케아 말고도 기억할 곳이 이렇게나 많습니다.]]></content>
     </entry>
 </feed>

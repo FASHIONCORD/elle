@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-11-03T09:15:31.021Z</updated>
+    <updated>2023-11-03T10:15:49.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래]]></title>
+        <id>https://www.elle.co.kr/article/81734</id>
+        <link href="https://www.elle.co.kr/article/81734"/>
+        <updated>2023-11-03T10:14:36.628Z</updated>
+        <content type="html"><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몸에도 미니멀리즘]]></title>
         <id>https://www.elle.co.kr/article/81704</id>
@@ -52,11 +59,5 @@
         <id>https://www.elle.co.kr/article/81673</id>
         <link href="https://www.elle.co.kr/article/81673"/>
         <updated>2023-10-29T06:15:39.745Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list]]></title>
-        <id>https://www.elle.co.kr/article/81640</id>
-        <link href="https://www.elle.co.kr/article/81640"/>
-        <updated>2023-10-29T05:12:07.655Z</updated>
     </entry>
 </feed>
