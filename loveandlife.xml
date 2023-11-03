@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 08:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 09:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/81862</link>
+            <guid>https://www.elle.co.kr/article/81862</guid>
+            <pubDate>Fri, 03 Nov 2023 09:14:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/29bd3c7d-1b4e-4b83-8d60-d66e66d7cbe3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국판 '블프' 광군제에서 득템하려면? 정보 총정리 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/81810</link>
+            <guid>https://www.elle.co.kr/article/81810</guid>
+            <pubDate>Fri, 03 Nov 2023 09:14:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/b633d2bc-df9e-44b2-b799-ec97337b39ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베를린 신국립미술관이 담아낸 60년 동안의 게르하르트 리히터 #요즘전시]]></title>
             <link>https://www.elle.co.kr/article/81769</link>
@@ -50,20 +64,6 @@
             <guid>https://www.elle.co.kr/article/81673</guid>
             <pubDate>Mon, 30 Oct 2023 21:12:31 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/d44c9540-69d5-4673-91e8-7dc572293050.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울긋불긋 단풍과 함께, 온천에 호수 뷰까지 있는 가을 캠핑 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/81602</link>
-            <guid>https://www.elle.co.kr/article/81602</guid>
-            <pubDate>Sun, 29 Oct 2023 16:17:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/8db1cda8-0a0d-4731-9c8e-ab30bd1cc2c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크 로스코: 색채가 스며든 음률을 마주하다 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/81594</link>
-            <guid>https://www.elle.co.kr/article/81594</guid>
-            <pubDate>Sat, 28 Oct 2023 19:10:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/f8d3a8bb-6e73-4ce0-8c2b-061def464512.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
