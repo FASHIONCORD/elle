@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 02:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 03:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1029,6 +1029,7 @@
             <guid>https://www.elle.co.kr/article/81734</guid>
             <pubDate>Sun, 29 Oct 2023 16:16:27 GMT</pubDate>
             <content:encoded><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/df885a18-cc61-471c-950e-0cbc9ea1f7d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테일러 스위프트의 억만장자 등극이 더욱 특별한 이유는? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1036,12 +1037,14 @@
             <guid>https://www.elle.co.kr/article/81733</guid>
             <pubDate>Sun, 29 Oct 2023 06:15:49 GMT</pubDate>
             <content:encoded><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/71ccf5c1-5363-463a-b922-331b3fe8ba58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샘 스미스 내한, 킹 스미스도 '내돈내산' 관람 확정? (ft. 송파구 샤라웃) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/81432</link>
             <guid>https://www.elle.co.kr/article/81432</guid>
             <pubDate>Wed, 18 Oct 2023 06:17:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/d6acb932-ef29-451e-84b5-c0b39b521a29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[작지만 결코 작지 않은, 타이니 데스크 코리아의 시작 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1049,6 +1052,7 @@
             <guid>https://www.elle.co.kr/article/81322</guid>
             <pubDate>Tue, 17 Oct 2023 15:14:10 GMT</pubDate>
             <content:encoded><![CDATA[타이니 데스크 코리아는 K팝이 주도하는 지금의 음악 씬에 어떤 변화를 선사할 수 있을까]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/b9ce2ee2-4938-4ef2-a5cb-52c62baa6341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙핑크 이후 7년 만의 YG 걸그룹! 베이비몬스터, 데뷔 2개월 밀린 이유 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1197,18 +1201,21 @@
             <guid>https://www.elle.co.kr/article/81716</guid>
             <pubDate>Thu, 02 Nov 2023 16:16:50 GMT</pubDate>
             <content:encoded><![CDATA[AI 창작물의 홍수 속에 태어난 크래프트 몬스터들. 장인의 손은 무엇보다 독창적이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/04947429-2aa4-4e2c-a8b3-8f78817fdb3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/81862</link>
             <guid>https://www.elle.co.kr/article/81862</guid>
             <pubDate>Thu, 02 Nov 2023 08:16:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/29bd3c7d-1b4e-4b83-8d60-d66e66d7cbe3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린 신국립미술관이 담아낸 60년 동안의 게르하르트 리히터 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/81769</link>
             <guid>https://www.elle.co.kr/article/81769</guid>
             <pubDate>Mon, 30 Oct 2023 21:12:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/4878c073-8a1c-4569-8e35-fcf9822ecb83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몸에도 미니멀리즘 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1216,6 +1223,7 @@
             <guid>https://www.elle.co.kr/article/81704</guid>
             <pubDate>Sun, 29 Oct 2023 16:16:49 GMT</pubDate>
             <content:encoded><![CDATA[&lt;작고 단순한 삶에 진심입니다&gt;의 저자이자 유튜브 채널 '단순한 진심'을 운영하고 있는 최현우...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/62a14839-f899-422c-b477-3186d2a3db0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타가 다녀간 가을 감성 전시회 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1284,36 +1292,42 @@
             <guid>https://www.elle.co.kr/article/81874</guid>
             <pubDate>Fri, 03 Nov 2023 15:14:13 GMT</pubDate>
             <content:encoded><![CDATA[요즘 뜨는 디저트 맛집 모아보기! 소문난 푸딩 맛집부터 초콜릿 디저트 카페까지, 주우재가 다녀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/7b462ec6-6efa-4d33-9b30-315466060454.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ALL DAY 나 홀로 생일 밥상! (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/81813</link>
             <guid>https://www.elle.co.kr/article/81813</guid>
             <pubDate>Fri, 03 Nov 2023 10:15:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/966f8acd-b1f4-4b73-9c33-ab51bf15035e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/81862</link>
             <guid>https://www.elle.co.kr/article/81862</guid>
             <pubDate>Thu, 02 Nov 2023 08:16:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/29bd3c7d-1b4e-4b83-8d60-d66e66d7cbe3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중국판 '블프' 광군제에서 득템하려면? 정보 총정리 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/81810</link>
             <guid>https://www.elle.co.kr/article/81810</guid>
             <pubDate>Fri, 03 Nov 2023 09:14:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/b633d2bc-df9e-44b2-b799-ec97337b39ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린 신국립미술관이 담아낸 60년 동안의 게르하르트 리히터 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/81769</link>
             <guid>https://www.elle.co.kr/article/81769</guid>
             <pubDate>Mon, 30 Oct 2023 21:12:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/4878c073-8a1c-4569-8e35-fcf9822ecb83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제철이 왔어요! (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/81692</link>
             <guid>https://www.elle.co.kr/article/81692</guid>
             <pubDate>Thu, 02 Nov 2023 19:12:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/d15a70d1-3f73-4746-ba4c-88e2d2e06424.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샌드위치부터 스팸 무스비까지! 초간단 주말 나들이 도시락 레서피 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1321,6 +1335,7 @@
             <guid>https://www.elle.co.kr/article/81731</guid>
             <pubDate>Thu, 02 Nov 2023 16:16:57 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말엔 예쁘게 도시락 싸서 소풍 가볼까요? 스타들이 소개한 피크닉 도시락 레서피를 참고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/cca9722c-2fee-4166-ba3a-14cc5d5cdabd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도쿄 근교에 이런 곳이? 아름다운 호수부터 이색 박물관까지! #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1328,6 +1343,7 @@
             <guid>https://www.elle.co.kr/article/81722</guid>
             <pubDate>Thu, 02 Nov 2023 08:16:56 GMT</pubDate>
             <content:encoded><![CDATA[쇼핑과 맛집 투어만으로도 늘 일정이 빠듯한 도쿄 여행. 하지만 도심에서 1시간만 이동하면 상상...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/00c213a6-e7b5-42e1-b14d-68d96e00b45d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부캐가 내 인생을 바꿔준다고?_돈쓸신잡 #120 (엘르 코리아 ─ 소사이어티)]]></title>
