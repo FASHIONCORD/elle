@@ -1,96 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 09:12:17 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[진짜로 시작된 넷플릭스 공유비의 시대, 공유 금지 조건 총정리.txt]]></title>
-            <link>https://www.elle.co.kr/article/81904</link>
-            <guid>https://www.elle.co.kr/article/81904</guid>
-            <pubDate>Fri, 03 Nov 2023 10:15:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/b16f191b-4f48-4495-b6c1-166e3853be42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수지X양세종 케미에 진한 여운 선사한 '이두나!' 인기 요인 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/81766</link>
-            <guid>https://www.elle.co.kr/article/81766</guid>
-            <pubDate>Mon, 30 Oct 2023 09:14:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/86d9aad4-1e47-47fa-a3fe-13fda011d38a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘프렌즈’ 매튜 페리가 세상을 떠났다]]></title>
-            <link>https://www.elle.co.kr/article/81732</link>
-            <guid>https://www.elle.co.kr/article/81732</guid>
-            <pubDate>Sun, 29 Oct 2023 05:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[약물 중독을 호소한 지 꼭 1년 만에.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/fbd4951c-fee3-40a5-a64c-6243342c3a7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미야자키 하야오와 백종원이 돌아온 10월 마지막주 #신작이OnAir]]></title>
-            <link>https://www.elle.co.kr/article/81703</link>
-            <guid>https://www.elle.co.kr/article/81703</guid>
-            <pubDate>Fri, 27 Oct 2023 04:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;그대들은 어떻게 살 것인가&gt;, 웹툰 &lt;어린이집 다니는 구나&gt;, 예능 &lt;장사천재 백사장 2&gt;.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/6ff5b0e6-dd2b-4cdd-9762-770eac183b6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list]]></title>
-            <link>https://www.elle.co.kr/article/81640</link>
-            <guid>https://www.elle.co.kr/article/81640</guid>
-            <pubDate>Wed, 25 Oct 2023 07:12:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[남궁민X안은진 멜로 케미 반짝반짝! '연인' 파트2 인기 요인 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/81557</link>
-            <guid>https://www.elle.co.kr/article/81557</guid>
-            <pubDate>Mon, 23 Oct 2023 09:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[전소민이 6년 반 만에 '런닝맨'에서 하차하는 이유]]></title>
-            <link>https://www.elle.co.kr/article/81528</link>
-            <guid>https://www.elle.co.kr/article/81528</guid>
-            <pubDate>Mon, 23 Oct 2023 00:52:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능]]></title>
-            <link>https://www.elle.co.kr/article/81468</link>
-            <guid>https://www.elle.co.kr/article/81468</guid>
-            <pubDate>Thu, 19 Oct 2023 07:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리]]></title>
-            <link>https://www.elle.co.kr/article/81452</link>
-            <guid>https://www.elle.co.kr/article/81452</guid>
-            <pubDate>Thu, 19 Oct 2023 00:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[16기 영자, 3개월 만에 10kg 감량? '나솔' 출연자들의 체중 감량 비법 총정리 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81450</link>
-            <guid>https://www.elle.co.kr/article/81450</guid>
-            <pubDate>Wed, 18 Oct 2023 23:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[의외의 홍현희]]></title>
-            <link>https://www.elle.co.kr/article/81442</link>
-            <guid>https://www.elle.co.kr/article/81442</guid>
-            <pubDate>Wed, 18 Oct 2023 10:14:39 GMT</pubDate>
-            <content:encoded><![CDATA["저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[7년 만에 돌아오는 '아수라' 콤비 황정민X정우성, '서울의 봄' 개봉 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/81414</link>
-            <guid>https://www.elle.co.kr/article/81414</guid>
-            <pubDate>Tue, 17 Oct 2023 12:23:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[여성 히어로의 풋풋한 로맨스! 대박 난 '힘쎈여자 강남순' 인기 요인 총정리 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/81384</link>
-            <guid>https://www.elle.co.kr/article/81384</guid>
-            <pubDate>Mon, 16 Oct 2023 09:15:46 GMT</pubDate>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/moviesandtv</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+    <updated>2023-11-04T10:13:20.883Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진짜로 시작된 넷플릭스 공유비의 시대, 공유 금지 조건 총정리.txt]]></title>
+        <id>https://www.elle.co.kr/article/81904</id>
+        <link href="https://www.elle.co.kr/article/81904"/>
+        <updated>2023-11-03T10:15:10.655Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지X양세종 케미에 진한 여운 선사한 '이두나!' 인기 요인 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/81766</id>
+        <link href="https://www.elle.co.kr/article/81766"/>
+        <updated>2023-10-30T09:14:43.782Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘프렌즈’ 매튜 페리가 세상을 떠났다]]></title>
+        <id>https://www.elle.co.kr/article/81732</id>
+        <link href="https://www.elle.co.kr/article/81732"/>
+        <updated>2023-10-29T05:12:34.791Z</updated>
+        <content type="html"><![CDATA[약물 중독을 호소한 지 꼭 1년 만에.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미야자키 하야오와 백종원이 돌아온 10월 마지막주 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/81703</id>
+        <link href="https://www.elle.co.kr/article/81703"/>
+        <updated>2023-10-27T04:15:03.192Z</updated>
+        <content type="html"><![CDATA[영화 &lt;그대들은 어떻게 살 것인가&gt;, 웹툰 &lt;어린이집 다니는 구나&gt;, 예능 &lt;장사천재 백사장 2&gt;.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list]]></title>
+        <id>https://www.elle.co.kr/article/81640</id>
+        <link href="https://www.elle.co.kr/article/81640"/>
+        <updated>2023-10-25T07:12:52.890Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남궁민X안은진 멜로 케미 반짝반짝! '연인' 파트2 인기 요인 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/81557</id>
+        <link href="https://www.elle.co.kr/article/81557"/>
+        <updated>2023-10-23T09:13:44.472Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전소민이 6년 반 만에 '런닝맨'에서 하차하는 이유]]></title>
+        <id>https://www.elle.co.kr/article/81528</id>
+        <link href="https://www.elle.co.kr/article/81528"/>
+        <updated>2023-10-23T00:52:34.885Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능]]></title>
+        <id>https://www.elle.co.kr/article/81468</id>
+        <link href="https://www.elle.co.kr/article/81468"/>
+        <updated>2023-10-19T07:12:04.189Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리]]></title>
+        <id>https://www.elle.co.kr/article/81452</id>
+        <link href="https://www.elle.co.kr/article/81452"/>
+        <updated>2023-10-19T00:52:06.948Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16기 영자, 3개월 만에 10kg 감량? '나솔' 출연자들의 체중 감량 비법 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81450</id>
+        <link href="https://www.elle.co.kr/article/81450"/>
+        <updated>2023-10-18T23:13:25.158Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의외의 홍현희]]></title>
+        <id>https://www.elle.co.kr/article/81442</id>
+        <link href="https://www.elle.co.kr/article/81442"/>
+        <updated>2023-10-18T10:14:39.841Z</updated>
+        <content type="html"><![CDATA["저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7년 만에 돌아오는 '아수라' 콤비 황정민X정우성, '서울의 봄' 개봉 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/81414</id>
+        <link href="https://www.elle.co.kr/article/81414"/>
+        <updated>2023-10-17T12:23:47.984Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여성 히어로의 풋풋한 로맨스! 대박 난 '힘쎈여자 강남순' 인기 요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/81384</id>
+        <link href="https://www.elle.co.kr/article/81384"/>
+        <updated>2023-10-16T09:15:46.533Z</updated>
+    </entry>
+</feed>
