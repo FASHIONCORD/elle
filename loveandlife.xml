@@ -1,70 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 13:14:44 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[푸딩부터 초콜릿까지! 주우재 따라 연남동 디저트 투어 3]]></title>
-            <link>https://www.elle.co.kr/article/81874</link>
-            <guid>https://www.elle.co.kr/article/81874</guid>
-            <pubDate>Sat, 04 Nov 2023 02:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 뜨는 디저트 맛집 모아보기! 소문난 푸딩 맛집부터 초콜릿 디저트 카페까지, 주우재가 다녀...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/7b462ec6-6efa-4d33-9b30-315466060454.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALL DAY 나 홀로 생일 밥상!]]></title>
-            <link>https://www.elle.co.kr/article/81813</link>
-            <guid>https://www.elle.co.kr/article/81813</guid>
-            <pubDate>Fri, 03 Nov 2023 10:15:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/966f8acd-b1f4-4b73-9c33-ab51bf15035e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/81862</link>
-            <guid>https://www.elle.co.kr/article/81862</guid>
-            <pubDate>Fri, 03 Nov 2023 09:14:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/29bd3c7d-1b4e-4b83-8d60-d66e66d7cbe3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국판 '블프' 광군제에서 득템하려면? 정보 총정리 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/81810</link>
-            <guid>https://www.elle.co.kr/article/81810</guid>
-            <pubDate>Fri, 03 Nov 2023 09:14:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/b633d2bc-df9e-44b2-b799-ec97337b39ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베를린 신국립미술관이 담아낸 60년 동안의 게르하르트 리히터 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/81769</link>
-            <guid>https://www.elle.co.kr/article/81769</guid>
-            <pubDate>Fri, 03 Nov 2023 08:16:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/4878c073-8a1c-4569-8e35-fcf9822ecb83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제철이 왔어요!]]></title>
-            <link>https://www.elle.co.kr/article/81692</link>
-            <guid>https://www.elle.co.kr/article/81692</guid>
-            <pubDate>Thu, 02 Nov 2023 19:12:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/d15a70d1-3f73-4746-ba4c-88e2d2e06424.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샌드위치부터 스팸 무스비까지! 초간단 주말 나들이 도시락 레서피 3]]></title>
-            <link>https://www.elle.co.kr/article/81731</link>
-            <guid>https://www.elle.co.kr/article/81731</guid>
-            <pubDate>Thu, 02 Nov 2023 16:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주말엔 예쁘게 도시락 싸서 소풍 가볼까요? 스타들이 소개한 피크닉 도시락 레서피를 참고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/cca9722c-2fee-4166-ba3a-14cc5d5cdabd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄 근교에 이런 곳이? 아름다운 호수부터 이색 박물관까지! #도쿄핫플]]></title>
-            <link>https://www.elle.co.kr/article/81722</link>
-            <guid>https://www.elle.co.kr/article/81722</guid>
-            <pubDate>Thu, 02 Nov 2023 08:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[쇼핑과 맛집 투어만으로도 늘 일정이 빠듯한 도쿄 여행. 하지만 도심에서 1시간만 이동하면 상상...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/00c213a6-e7b5-42e1-b14d-68d96e00b45d.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2023-11-04T14:12:38.351Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[푸딩부터 초콜릿까지! 주우재 따라 연남동 디저트 투어 3]]></title>
+        <id>https://www.elle.co.kr/article/81874</id>
+        <link href="https://www.elle.co.kr/article/81874"/>
+        <updated>2023-11-04T02:20:01.447Z</updated>
+        <content type="html"><![CDATA[요즘 뜨는 디저트 맛집 모아보기! 소문난 푸딩 맛집부터 초콜릿 디저트 카페까지, 주우재가 다녀...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALL DAY 나 홀로 생일 밥상!]]></title>
+        <id>https://www.elle.co.kr/article/81813</id>
+        <link href="https://www.elle.co.kr/article/81813"/>
+        <updated>2023-11-03T10:15:37.906Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/81862</id>
+        <link href="https://www.elle.co.kr/article/81862"/>
+        <updated>2023-11-03T09:14:46.173Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국판 '블프' 광군제에서 득템하려면? 정보 총정리 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/81810</id>
+        <link href="https://www.elle.co.kr/article/81810"/>
+        <updated>2023-11-03T09:14:46.174Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베를린 신국립미술관이 담아낸 60년 동안의 게르하르트 리히터 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/81769</id>
+        <link href="https://www.elle.co.kr/article/81769"/>
+        <updated>2023-11-03T08:16:40.560Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제철이 왔어요!]]></title>
+        <id>https://www.elle.co.kr/article/81692</id>
+        <link href="https://www.elle.co.kr/article/81692"/>
+        <updated>2023-11-02T19:12:03.169Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샌드위치부터 스팸 무스비까지! 초간단 주말 나들이 도시락 레서피 3]]></title>
+        <id>https://www.elle.co.kr/article/81731</id>
+        <link href="https://www.elle.co.kr/article/81731"/>
+        <updated>2023-11-02T16:16:57.887Z</updated>
+        <content type="html"><![CDATA[이번 주말엔 예쁘게 도시락 싸서 소풍 가볼까요? 스타들이 소개한 피크닉 도시락 레서피를 참고...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도쿄 근교에 이런 곳이? 아름다운 호수부터 이색 박물관까지! #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/81722</id>
+        <link href="https://www.elle.co.kr/article/81722"/>
+        <updated>2023-11-02T08:16:56.207Z</updated>
+        <content type="html"><![CDATA[쇼핑과 맛집 투어만으로도 늘 일정이 빠듯한 도쿄 여행. 하지만 도심에서 1시간만 이동하면 상상...]]></content>
+    </entry>
+</feed>
