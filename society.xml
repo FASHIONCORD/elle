@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 13:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 14:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://www.elle.co.kr/article/81456</link>
             <guid>https://www.elle.co.kr/article/81456</guid>
             <pubDate>Thu, 02 Nov 2023 08:17:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/b50fead6-b9bb-4284-a293-c5e2cced1db8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마지막 순간까지 선을 긋던 박서보 화백이 세상을 떠났다]]></title>
@@ -19,6 +20,7 @@
             <guid>https://www.elle.co.kr/article/81370</guid>
             <pubDate>Sun, 29 Oct 2023 06:16:32 GMT</pubDate>
             <content:encoded><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/c8a973b1-1c7e-4d1e-96cf-265729935522.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 불행을 예습하지 말자]]></title>
@@ -26,12 +28,14 @@
             <guid>https://www.elle.co.kr/article/81332</guid>
             <pubDate>Thu, 26 Oct 2023 07:14:03 GMT</pubDate>
             <content:encoded><![CDATA[말에는 힘이 있다. 운동 코치 에리카가 말하는 불행 예방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/60cac557-2ab1-4a06-89b1-3e0fa38df902.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청춘 파산이 무섭게 늘어나는 이유_돈쓸신잡 #119]]></title>
             <link>https://www.elle.co.kr/article/81309</link>
             <guid>https://www.elle.co.kr/article/81309</guid>
             <pubDate>Wed, 25 Oct 2023 15:14:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/9e348f9f-032c-4624-a648-cff99c03f900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 똥개 언니의 편지]]></title>
