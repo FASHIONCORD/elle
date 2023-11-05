@@ -1,69 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 08:16:34 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[애프터스쿨 레이나, '저평가된 가수'에서 홀로서기 성공?]]></title>
-            <link>https://www.elle.co.kr/article/81894</link>
-            <guid>https://www.elle.co.kr/article/81894</guid>
-            <pubDate>Sat, 04 Nov 2023 15:11:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/62122a6e-f407-4c1c-8ff1-b6635bda1264.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[31 Women Who Inspire Us 3]]></title>
-            <link>https://www.elle.co.kr/article/81876</link>
-            <guid>https://www.elle.co.kr/article/81876</guid>
-            <pubDate>Sat, 04 Nov 2023 02:18:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/f4936258-fb3f-43f5-81c1-8da0141af758.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸딩부터 초콜릿까지! 주우재 따라 연남동 디저트 투어 3]]></title>
-            <link>https://www.elle.co.kr/article/81874</link>
-            <guid>https://www.elle.co.kr/article/81874</guid>
-            <pubDate>Fri, 03 Nov 2023 15:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 뜨는 디저트 맛집 모아보기! 소문난 푸딩 맛집부터 초콜릿 디저트 카페까지, 주우재가 다녀...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/7b462ec6-6efa-4d33-9b30-315466060454.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11kg 감량한 유지어터, 코요태 신지의 관리 비법 총정리 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81869</link>
-            <guid>https://www.elle.co.kr/article/81869</guid>
-            <pubDate>Fri, 03 Nov 2023 10:14:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/813a395e-c8c7-4a71-b045-002d4c6c8b4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리X이상순의 최신 럽스타그램 (ft.성유리)]]></title>
-            <link>https://www.elle.co.kr/article/81864</link>
-            <guid>https://www.elle.co.kr/article/81864</guid>
-            <pubDate>Fri, 03 Nov 2023 09:13:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/1a24b414-4c79-4a34-b65c-e4e60f4c0bc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자기관리 끝판왕! 진서연의 모닝 루틴과 건강 식단은?]]></title>
-            <link>https://www.elle.co.kr/article/81830</link>
-            <guid>https://www.elle.co.kr/article/81830</guid>
-            <pubDate>Fri, 03 Nov 2023 08:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[자기 관리 잘하기로 소문난 진서연의 건강 유지 비법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/6ed22823-fc48-435b-bafe-9e6baccb28c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[31 Women Who Inspire Us 2]]></title>
-            <link>https://www.elle.co.kr/article/81800</link>
-            <guid>https://www.elle.co.kr/article/81800</guid>
-            <pubDate>Fri, 03 Nov 2023 02:22:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/14f9298e-7110-4ea1-b58b-361e986c1427.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미미가 공개한 천둥과의 웨딩화보 촬영 현장 (ft. 시누이)]]></title>
-            <link>https://www.elle.co.kr/article/81825</link>
-            <guid>https://www.elle.co.kr/article/81825</guid>
-            <pubDate>Thu, 02 Nov 2023 20:12:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/29091869-3156-485d-b875-2b2464aa0f92.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-11-05T09:13:31.353Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애프터스쿨 레이나, '저평가된 가수'에서 홀로서기 성공?]]></title>
+        <id>https://www.elle.co.kr/article/81894</id>
+        <link href="https://www.elle.co.kr/article/81894"/>
+        <updated>2023-11-04T15:11:47.078Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[31 Women Who Inspire Us 3]]></title>
+        <id>https://www.elle.co.kr/article/81876</id>
+        <link href="https://www.elle.co.kr/article/81876"/>
+        <updated>2023-11-04T02:18:55.501Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸딩부터 초콜릿까지! 주우재 따라 연남동 디저트 투어 3]]></title>
+        <id>https://www.elle.co.kr/article/81874</id>
+        <link href="https://www.elle.co.kr/article/81874"/>
+        <updated>2023-11-03T15:14:13.577Z</updated>
+        <content type="html"><![CDATA[요즘 뜨는 디저트 맛집 모아보기! 소문난 푸딩 맛집부터 초콜릿 디저트 카페까지, 주우재가 다녀...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11kg 감량한 유지어터, 코요태 신지의 관리 비법 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81869</id>
+        <link href="https://www.elle.co.kr/article/81869"/>
+        <updated>2023-11-03T10:14:27.545Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이효리X이상순의 최신 럽스타그램 (ft.성유리)]]></title>
+        <id>https://www.elle.co.kr/article/81864</id>
+        <link href="https://www.elle.co.kr/article/81864"/>
+        <updated>2023-11-03T09:13:12.424Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자기관리 끝판왕! 진서연의 모닝 루틴과 건강 식단은?]]></title>
+        <id>https://www.elle.co.kr/article/81830</id>
+        <link href="https://www.elle.co.kr/article/81830"/>
+        <updated>2023-11-03T08:15:44.469Z</updated>
+        <content type="html"><![CDATA[자기 관리 잘하기로 소문난 진서연의 건강 유지 비법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[31 Women Who Inspire Us 2]]></title>
+        <id>https://www.elle.co.kr/article/81800</id>
+        <link href="https://www.elle.co.kr/article/81800"/>
+        <updated>2023-11-03T02:22:07.094Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미미가 공개한 천둥과의 웨딩화보 촬영 현장 (ft. 시누이)]]></title>
+        <id>https://www.elle.co.kr/article/81825</id>
+        <link href="https://www.elle.co.kr/article/81825"/>
+        <updated>2023-11-02T20:12:39.993Z</updated>
+    </entry>
+</feed>
