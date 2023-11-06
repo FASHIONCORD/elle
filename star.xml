@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-06T10:14:45.141Z</updated>
+    <updated>2023-11-06T11:13:02.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이브의 역대급 프로젝트 < 더 데뷔: 드림 아카데미 >]]></title>
+        <id>https://www.elle.co.kr/article/81868</id>
+        <link href="https://www.elle.co.kr/article/81868"/>
+        <updated>2023-11-06T11:11:22.337Z</updated>
+        <content type="html"><![CDATA[소녀들은 믿는다. 피부색과 종교, 언어와 국가, 성장 환경과 문화적 뿌리를 뛰어넘어 감동시킬 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초대형 생일 케이크가 반겨주는 섬이 있다?! 작가 김신지의 #취향일지도]]></title>
         <id>https://www.elle.co.kr/article/81909</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/81874"/>
         <updated>2023-11-03T15:14:13.577Z</updated>
         <content type="html"><![CDATA[요즘 뜨는 디저트 맛집 모아보기! 소문난 푸딩 맛집부터 초콜릿 디저트 카페까지, 주우재가 다녀...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11kg 감량한 유지어터, 코요태 신지의 관리 비법 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81869</id>
-        <link href="https://www.elle.co.kr/article/81869"/>
-        <updated>2023-11-03T10:14:27.545Z</updated>
     </entry>
 </feed>
