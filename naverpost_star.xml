@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ STAR</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 07:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 08:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36846813&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36846813&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 07 Nov 2023 08:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDdfMjg4/MDAxNjk5MzQyMzgzNTk3.6ezM97_v_FwQCPOc8bDLLiBmT3c7IZ14snwFx6W-oC0g.HmX848uqbtUwjWf-65CULyp-7Uv-75iqneIW157XjrEg.JPEG/Iv8tKBxi6pQVlL08_ibVYenTi7as.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정주행 맛집, [나는 솔로] 16기 역대급 서사 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36686668&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 20 Nov 2022 23:15:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMThfMjUg/MDAxNjY4NzY4Nzc2MjY3.6joNiipEX52aY_FfP5OYO28JOjU5v2ooCLZXhNnoVSkg.ghSzPt305KvHVsmsbEnaL8I3DYgAScTcJK2xKeeycQYg.JPEG/IGZFsTHN-VN-10Xepsgw0o1IFQ48.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#세젤예 르세라핌 김채원과 카즈하 #인생화보]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34813937&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34813937&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 21 Nov 2022 10:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
