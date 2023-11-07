@@ -1,61 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-07T00:54:05.156Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[하이브의 역대급 프로젝트 < 더 데뷔: 드림 아카데미 >]]></title>
-        <id>https://www.elle.co.kr/article/81868</id>
-        <link href="https://www.elle.co.kr/article/81868"/>
-        <updated>2023-11-06T11:11:22.337Z</updated>
-        <content type="html"><![CDATA[소녀들은 믿는다. 피부색과 종교, 언어와 국가, 성장 환경과 문화적 뿌리를 뛰어넘어 감동시킬 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초대형 생일 케이크가 반겨주는 섬이 있다?! 작가 김신지의 #취향일지도]]></title>
-        <id>https://www.elle.co.kr/article/81909</id>
-        <link href="https://www.elle.co.kr/article/81909"/>
-        <updated>2023-11-06T09:13:27.555Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성과 신현빈이 서로를 응시하던 순간]]></title>
-        <id>https://www.elle.co.kr/article/81846</id>
-        <link href="https://www.elle.co.kr/article/81846"/>
-        <updated>2023-11-06T09:13:27.558Z</updated>
-        <content type="html"><![CDATA[침묵이 재잘대는 소리로 남는 세계에 진입한 정우성과 신현빈, 그 둘만의 언어.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카일리 제너의 새로운 브랜드 ‘Khy’가 기대를 모으는 이유]]></title>
-        <id>https://www.elle.co.kr/article/81903</id>
-        <link href="https://www.elle.co.kr/article/81903"/>
-        <updated>2023-11-06T09:13:27.558Z</updated>
-        <content type="html"><![CDATA[지난날의 실패는 잊어주세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 3대 아인슈페너? 예인과 함께 걷는 청운효자동 플레이스 4 #엘르동]]></title>
-        <id>https://www.elle.co.kr/article/81897</id>
-        <link href="https://www.elle.co.kr/article/81897"/>
-        <updated>2023-11-05T15:11:27.177Z</updated>
-        <content type="html"><![CDATA[청와대와 북악산의 호방한 기개를 간직한 ‘맑은 구름이 걸린 동네’.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애프터스쿨 레이나, '저평가된 가수'에서 홀로서기 성공?]]></title>
-        <id>https://www.elle.co.kr/article/81894</id>
-        <link href="https://www.elle.co.kr/article/81894"/>
-        <updated>2023-11-04T15:11:47.078Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[31 Women Who Inspire Us 3]]></title>
-        <id>https://www.elle.co.kr/article/81876</id>
-        <link href="https://www.elle.co.kr/article/81876"/>
-        <updated>2023-11-04T02:18:55.501Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸딩부터 초콜릿까지! 주우재 따라 연남동 디저트 투어 3]]></title>
-        <id>https://www.elle.co.kr/article/81874</id>
-        <link href="https://www.elle.co.kr/article/81874"/>
-        <updated>2023-11-03T15:14:13.577Z</updated>
-        <content type="html"><![CDATA[요즘 뜨는 디저트 맛집 모아보기! 소문난 푸딩 맛집부터 초콜릿 디저트 카페까지, 주우재가 다녀...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 07 Nov 2023 01:54:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이브의 역대급 프로젝트 < 더 데뷔: 드림 아카데미 >]]></title>
+            <link>https://www.elle.co.kr/article/81868</link>
+            <guid>https://www.elle.co.kr/article/81868</guid>
+            <pubDate>Mon, 06 Nov 2023 11:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[소녀들은 믿는다. 피부색과 종교, 언어와 국가, 성장 환경과 문화적 뿌리를 뛰어넘어 감동시킬 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/05/681d1678-7e65-40cb-8dea-2fc41228ce70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초대형 생일 케이크가 반겨주는 섬이 있다?! 작가 김신지의 #취향일지도]]></title>
+            <link>https://www.elle.co.kr/article/81909</link>
+            <guid>https://www.elle.co.kr/article/81909</guid>
+            <pubDate>Mon, 06 Nov 2023 09:13:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/04/a808843a-ca62-4f97-9d14-f161c52fd453.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정우성과 신현빈이 서로를 응시하던 순간]]></title>
+            <link>https://www.elle.co.kr/article/81846</link>
+            <guid>https://www.elle.co.kr/article/81846</guid>
+            <pubDate>Mon, 06 Nov 2023 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[침묵이 재잘대는 소리로 남는 세계에 진입한 정우성과 신현빈, 그 둘만의 언어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/4bcef94d-e7e4-4473-8561-9cdda930515b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카일리 제너의 새로운 브랜드 ‘Khy’가 기대를 모으는 이유]]></title>
+            <link>https://www.elle.co.kr/article/81903</link>
+            <guid>https://www.elle.co.kr/article/81903</guid>
+            <pubDate>Mon, 06 Nov 2023 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[지난날의 실패는 잊어주세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/154a097e-fb9b-4fc2-b82c-ed27740be89d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 3대 아인슈페너? 예인과 함께 걷는 청운효자동 플레이스 4 #엘르동]]></title>
+            <link>https://www.elle.co.kr/article/81897</link>
+            <guid>https://www.elle.co.kr/article/81897</guid>
+            <pubDate>Sun, 05 Nov 2023 15:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[청와대와 북악산의 호방한 기개를 간직한 ‘맑은 구름이 걸린 동네’.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/383f938f-5a20-4487-8668-d1f5d0a2e6c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애프터스쿨 레이나, '저평가된 가수'에서 홀로서기 성공?]]></title>
+            <link>https://www.elle.co.kr/article/81894</link>
+            <guid>https://www.elle.co.kr/article/81894</guid>
+            <pubDate>Sat, 04 Nov 2023 15:11:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/62122a6e-f407-4c1c-8ff1-b6635bda1264.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[31 Women Who Inspire Us 3]]></title>
+            <link>https://www.elle.co.kr/article/81876</link>
+            <guid>https://www.elle.co.kr/article/81876</guid>
+            <pubDate>Sat, 04 Nov 2023 02:18:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/f4936258-fb3f-43f5-81c1-8da0141af758.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸딩부터 초콜릿까지! 주우재 따라 연남동 디저트 투어 3]]></title>
+            <link>https://www.elle.co.kr/article/81874</link>
+            <guid>https://www.elle.co.kr/article/81874</guid>
+            <pubDate>Fri, 03 Nov 2023 15:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 디저트 맛집 모아보기! 소문난 푸딩 맛집부터 초콜릿 디저트 카페까지, 주우재가 다녀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/7b462ec6-6efa-4d33-9b30-315466060454.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
