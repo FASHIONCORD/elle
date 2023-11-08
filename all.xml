@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 22:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 23:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1023,6 +1023,7 @@
             <guid>https://www.elle.co.kr/article/81945</guid>
             <pubDate>Tue, 07 Nov 2023 07:13:01 GMT</pubDate>
             <content:encoded><![CDATA[이제야 맞춰지는 퍼즐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/4757db54-1993-458c-8dec-be799957d4c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1030,6 +1031,7 @@
             <guid>https://www.elle.co.kr/article/81734</guid>
             <pubDate>Sun, 29 Oct 2023 16:16:27 GMT</pubDate>
             <content:encoded><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/df885a18-cc61-471c-950e-0cbc9ea1f7d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테일러 스위프트의 억만장자 등극이 더욱 특별한 이유는? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1037,12 +1039,14 @@
             <guid>https://www.elle.co.kr/article/81733</guid>
             <pubDate>Sun, 29 Oct 2023 06:15:49 GMT</pubDate>
             <content:encoded><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/71ccf5c1-5363-463a-b922-331b3fe8ba58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샘 스미스 내한, 킹 스미스도 '내돈내산' 관람 확정? (ft. 송파구 샤라웃) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/81432</link>
             <guid>https://www.elle.co.kr/article/81432</guid>
             <pubDate>Wed, 18 Oct 2023 06:17:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/d6acb932-ef29-451e-84b5-c0b39b521a29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[작지만 결코 작지 않은, 타이니 데스크 코리아의 시작 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1105,24 +1109,28 @@
             <link>https://www.elle.co.kr/article/81954</link>
             <guid>https://www.elle.co.kr/article/81954</guid>
             <pubDate>Tue, 07 Nov 2023 11:11:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/1b90b475-97e0-4aff-b4e5-6b5ddb17cec5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이번엔 겨울에 돌아오는 '환승연애3' 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/81952</link>
             <guid>https://www.elle.co.kr/article/81952</guid>
             <pubDate>Tue, 07 Nov 2023 09:12:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/c459d662-fe96-4021-a464-f6a23d7423a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[황정민 연기 인생 최대 변신?! 눈을 의심케 하는 헤어스타일의 비밀 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/81934</link>
             <guid>https://www.elle.co.kr/article/81934</guid>
             <pubDate>Mon, 06 Nov 2023 11:12:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/1e7b5d55-e895-4fa3-8abd-fe83446cba40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3대 모녀 VS 빌런의 본격 대결! '힘쎈여자 강남순' 후반부 관전포인트 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/81932</link>
             <guid>https://www.elle.co.kr/article/81932</guid>
             <pubDate>Mon, 06 Nov 2023 09:13:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/7c55ac43-863c-4c3c-a5ee-5a1ff5945a30.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판빙빙X이주영과 박보영! 여성 콘텐츠가 강세인 11월 첫주 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1322,12 +1330,14 @@
             <link>https://www.elle.co.kr/article/81674</link>
             <guid>https://www.elle.co.kr/article/81674</guid>
             <pubDate>Wed, 08 Nov 2023 10:14:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/d4ff70b5-7ae6-4bd3-9070-2ef7f6160503.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숏폼, 그 참을 수 없는 짧음에 대하여 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/81613</link>
             <guid>https://www.elle.co.kr/article/81613</guid>
             <pubDate>Mon, 06 Nov 2023 15:14:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/9d71540c-c55b-4df9-97e4-e4475fb8c140.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023년 할로윈, 그리고 이태원 참사 1주기를 앞둔 전국 분위기 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1335,12 +1345,14 @@
             <guid>https://www.elle.co.kr/article/81533</guid>
             <pubDate>Sun, 05 Nov 2023 15:13:12 GMT</pubDate>
             <content:encoded><![CDATA[이태원이 안되면 홍대로 몰린다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/e94c323f-2bf9-41e8-be13-e2646abb5ea3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부캐가 내 인생을 바꿔준다고?_돈쓸신잡 #120 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/81456</link>
             <guid>https://www.elle.co.kr/article/81456</guid>
             <pubDate>Thu, 02 Nov 2023 08:17:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/b50fead6-b9bb-4284-a293-c5e2cced1db8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마지막 순간까지 선을 긋던 박서보 화백이 세상을 떠났다 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1348,6 +1360,7 @@
             <guid>https://www.elle.co.kr/article/81370</guid>
             <pubDate>Sun, 29 Oct 2023 06:16:32 GMT</pubDate>
             <content:encoded><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/c8a973b1-1c7e-4d1e-96cf-265729935522.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 불행을 예습하지 말자 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1355,12 +1368,14 @@
             <guid>https://www.elle.co.kr/article/81332</guid>
             <pubDate>Thu, 26 Oct 2023 07:14:03 GMT</pubDate>
             <content:encoded><![CDATA[말에는 힘이 있다. 운동 코치 에리카가 말하는 불행 예방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/60cac557-2ab1-4a06-89b1-3e0fa38df902.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청춘 파산이 무섭게 늘어나는 이유_돈쓸신잡 #119 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/81309</link>
             <guid>https://www.elle.co.kr/article/81309</guid>
             <pubDate>Wed, 25 Oct 2023 15:14:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/9e348f9f-032c-4624-a648-cff99c03f900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 똥개 언니의 편지 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1368,6 +1383,7 @@
             <guid>https://www.elle.co.kr/article/81173</guid>
             <pubDate>Mon, 23 Oct 2023 02:22:03 GMT</pubDate>
             <content:encoded><![CDATA[누가 봐도 똥개 비주얼, 사랑스러운 정원이와 함께 하는 비혼세의 일상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/61b1a1af-deea-4a61-b7df-2c2603438901.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
