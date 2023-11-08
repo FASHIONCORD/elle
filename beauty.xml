@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-08T09:13:20.757Z</updated>
+    <updated>2023-11-08T10:15:00.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[COLOR IT, SHAPE IT! 텅장 주의, 11월의 뷰티 신상]]></title>
+        <id>https://www.elle.co.kr/article/81860</id>
+        <link href="https://www.elle.co.kr/article/81860"/>
+        <updated>2023-11-08T10:13:43.064Z</updated>
+        <content type="html"><![CDATA[형형색색의 뷰티 신상 그리고 기하학적 패턴의 오브제처럼 다채로움으로 가득한 11월을 보내길.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11kg 감량한 유지어터, 코요태 신지의 관리 비법 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/81869</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/81735"/>
         <updated>2023-11-02T08:15:27.404Z</updated>
         <content type="html"><![CDATA[확실한 분위기 전환을 원한다면 염색이 정답! 있지 유나, 마마무 휘인, 전소미 등 가을산처럼 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힘쎈여자 강남순' 엄마 김정은의 탄탄 복근 유지 비결 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81725</id>
-        <link href="https://www.elle.co.kr/article/81725"/>
-        <updated>2023-11-01T19:10:24.141Z</updated>
     </entry>
 </feed>
