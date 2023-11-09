@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-11-09T14:12:46.293Z</updated>
+    <updated>2023-11-09T15:13:16.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 나의 추하고 아름다운 실패들]]></title>
+        <id>https://www.elle.co.kr/article/81877</id>
+        <link href="https://www.elle.co.kr/article/81877"/>
+        <updated>2023-11-09T15:13:15.631Z</updated>
+        <content type="html"><![CDATA[정지음은 말한다. 이 실패는 그래도 온전히 나의 것이라고.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무료료 돈 버는 법을 알려준다? 99.99% 확률로 '이것'입니다_돈쓸신잡 #122]]></title>
         <id>https://www.elle.co.kr/article/81861</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/81370"/>
         <updated>2023-10-29T06:16:32.921Z</updated>
         <content type="html"><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 불행을 예습하지 말자]]></title>
-        <id>https://www.elle.co.kr/article/81332</id>
-        <link href="https://www.elle.co.kr/article/81332"/>
-        <updated>2023-10-26T07:14:03.914Z</updated>
-        <content type="html"><![CDATA[말에는 힘이 있다. 운동 코치 에리카가 말하는 불행 예방법.]]></content>
     </entry>
 </feed>
