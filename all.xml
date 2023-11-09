@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 07:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 08:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -868,6 +868,7 @@
             <guid>https://www.elle.co.kr/article/81850</guid>
             <pubDate>Wed, 08 Nov 2023 15:13:12 GMT</pubDate>
             <content:encoded><![CDATA[에르메스 뷰티 아이 메이크업 컬렉션, '르 르가르 에르메스'가 론칭을 앞두고 있다. 파리에서 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/05/46f3ad69-97a4-4755-9b9c-2c2cd8fb4439.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[COLOR IT, SHAPE IT! 텅장 주의, 11월의 뷰티 신상 (엘르 코리아 ─ 뷰티)]]></title>
@@ -875,18 +876,21 @@
             <guid>https://www.elle.co.kr/article/81860</guid>
             <pubDate>Wed, 08 Nov 2023 10:13:43 GMT</pubDate>
             <content:encoded><![CDATA[형형색색의 뷰티 신상 그리고 기하학적 패턴의 오브제처럼 다채로움으로 가득한 11월을 보내길.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/04/c74dd9b8-95ef-4d37-ac2a-510901cf6035.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[11kg 감량한 유지어터, 코요태 신지의 관리 비법 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/81869</link>
             <guid>https://www.elle.co.kr/article/81869</guid>
             <pubDate>Wed, 08 Nov 2023 08:16:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/813a395e-c8c7-4a71-b045-002d4c6c8b4c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이효리X이상순의 최신 럽스타그램 (ft.성유리) (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/81864</link>
             <guid>https://www.elle.co.kr/article/81864</guid>
             <pubDate>Wed, 08 Nov 2023 01:52:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/1a24b414-4c79-4a34-b65c-e4e60f4c0bc5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자기관리 끝판왕! 진서연의 모닝 루틴과 건강 식단은? (엘르 코리아 ─ 뷰티)]]></title>
@@ -894,12 +898,14 @@
             <guid>https://www.elle.co.kr/article/81830</guid>
             <pubDate>Fri, 03 Nov 2023 08:15:44 GMT</pubDate>
             <content:encoded><![CDATA[자기 관리 잘하기로 소문난 진서연의 건강 유지 비법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/6ed22823-fc48-435b-bafe-9e6baccb28c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일상에서 실천하는 조인성의 피지컬 유지 루틴은? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/81824</link>
             <guid>https://www.elle.co.kr/article/81824</guid>
             <pubDate>Thu, 02 Nov 2023 09:12:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/a1847cd3-a91b-41b9-bbde-32a5979dc210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대지의 쟈스민이 N°5가 되기까지, 박서준이 만난 사람들 (엘르 코리아 ─ 뷰티)]]></title>
@@ -907,6 +913,7 @@
             <guid>https://www.elle.co.kr/article/81700</guid>
             <pubDate>Fri, 03 Nov 2023 15:14:01 GMT</pubDate>
             <content:encoded><![CDATA[샤넬 향수의 독보적 위상과 헤리티지를 경험한 샤넬 앰배서더 박서준. 샤넬과 파트너십을 맺은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/bea0f712-d1a7-41d0-be41-3abca3f0530c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영롱 그 자체! 글로 메이크업이 돌아왔다_선배’s 어드바이스 #192 (엘르 코리아 ─ 뷰티)]]></title>
@@ -914,6 +921,13 @@
             <guid>https://www.elle.co.kr/article/81751</guid>
             <pubDate>Thu, 02 Nov 2023 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[탕후루 광부터 오로라 광, 세럼 광까지! 반짝임의 화려한 귀환.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/4a3ada4e-65ab-44ef-8338-802c31c13ad6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전현무X박나래X이장우의 두 번째 해외 팜유 세미나 현장.jpg (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/81957</link>
+            <guid>https://www.elle.co.kr/article/81957</guid>
+            <pubDate>Thu, 09 Nov 2023 08:15:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[아이언맨은 다시 MCU로 돌아올까 (엘르 코리아 ─ 스타)]]></title>
@@ -960,10 +974,10 @@
             <content:encoded><![CDATA[믿고 듣는 태연. 5번째 미니 앨범으로 컴백.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼 보러 왔어요 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/81858</link>
-            <guid>https://www.elle.co.kr/article/81858</guid>
-            <pubDate>Tue, 07 Nov 2023 07:11:50 GMT</pubDate>
+            <title><![CDATA[이번엔 겨울에 돌아오는 '환승연애3' 정보.txt (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/81952</link>
+            <guid>https://www.elle.co.kr/article/81952</guid>
+            <pubDate>Tue, 07 Nov 2023 09:12:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1011,10 +1025,11 @@
             <content:encoded><![CDATA[AI 창작물의 홍수 속에 태어난 크래프트 몬스터들. 장인의 손은 무엇보다 독창적이다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/81862</link>
-            <guid>https://www.elle.co.kr/article/81862</guid>
-            <pubDate>Thu, 02 Nov 2023 08:16:45 GMT</pubDate>
+            <title><![CDATA[현아&던 다시 볼 수 있을까? 전 남친 소속사 합류한 현아의 파격 프로필 모음 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
+            <link>https://www.elle.co.kr/article/82004</link>
+            <guid>https://www.elle.co.kr/article/82004</guid>
+            <pubDate>Thu, 09 Nov 2023 08:15:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/c7a09b40-94b9-422e-9489-27cc0bcc366d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1022,6 +1037,7 @@
             <guid>https://www.elle.co.kr/article/81945</guid>
             <pubDate>Tue, 07 Nov 2023 07:13:01 GMT</pubDate>
             <content:encoded><![CDATA[이제야 맞춰지는 퍼즐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/4757db54-1993-458c-8dec-be799957d4c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1029,6 +1045,7 @@
             <guid>https://www.elle.co.kr/article/81734</guid>
             <pubDate>Sun, 29 Oct 2023 16:16:27 GMT</pubDate>
             <content:encoded><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/df885a18-cc61-471c-950e-0cbc9ea1f7d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테일러 스위프트의 억만장자 등극이 더욱 특별한 이유는? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1036,6 +1053,7 @@
             <guid>https://www.elle.co.kr/article/81733</guid>
             <pubDate>Sun, 29 Oct 2023 06:15:49 GMT</pubDate>
             <content:encoded><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/71ccf5c1-5363-463a-b922-331b3fe8ba58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샘 스미스 내한, 킹 스미스도 '내돈내산' 관람 확정? (ft. 송파구 샤라웃) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1092,12 +1110,6 @@
             <link>https://www.elle.co.kr/article/80608</link>
             <guid>https://www.elle.co.kr/article/80608</guid>
             <pubDate>Thu, 14 Sep 2023 03:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
-            <link>https://www.elle.co.kr/article/80420</link>
-            <guid>https://www.elle.co.kr/article/80420</guid>
-            <pubDate>Tue, 05 Sep 2023 10:13:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[이순신 3부작의 끝, '노량'에서 마지막 대결하는 김윤석X백윤식 미리보기.jpg (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
