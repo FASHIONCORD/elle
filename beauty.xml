@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 08:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 09:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톱모델 송경아의 욕실 속 뷰티 아이템 9]]></title>
+            <link>https://www.elle.co.kr/article/81916</link>
+            <guid>https://www.elle.co.kr/article/81916</guid>
+            <pubDate>Thu, 09 Nov 2023 09:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[24시간 관리를 소홀히 하지 않는 송경아의 욕실은? 피부 트러블을 잠재워 주는 패드부터 촉촉한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/3ae6898d-1e4d-4eff-86ec-294c87ec83f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에르메스의 시선]]></title>
             <link>https://www.elle.co.kr/article/81850</link>
@@ -59,14 +67,6 @@
             <pubDate>Fri, 03 Nov 2023 15:14:01 GMT</pubDate>
             <content:encoded><![CDATA[샤넬 향수의 독보적 위상과 헤리티지를 경험한 샤넬 앰배서더 박서준. 샤넬과 파트너십을 맺은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/bea0f712-d1a7-41d0-be41-3abca3f0530c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영롱 그 자체! 글로 메이크업이 돌아왔다_선배’s 어드바이스 #192]]></title>
-            <link>https://www.elle.co.kr/article/81751</link>
-            <guid>https://www.elle.co.kr/article/81751</guid>
-            <pubDate>Thu, 02 Nov 2023 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[탕후루 광부터 오로라 광, 세럼 광까지! 반짝임의 화려한 귀환.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/4a3ada4e-65ab-44ef-8338-802c31c13ad6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

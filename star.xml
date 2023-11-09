@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-09T08:16:40.219Z</updated>
+    <updated>2023-11-09T09:13:30.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기안84보다 빨리 마라톤 풀코스 완주한 임세미의 피지컬 유지 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81980</id>
+        <link href="https://www.elle.co.kr/article/81980"/>
+        <updated>2023-11-09T09:12:32.449Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연기자 도전한다는 강경준 아들 정안! 사극 명장면 재연 모습은?]]></title>
+        <id>https://www.elle.co.kr/article/81979</id>
+        <link href="https://www.elle.co.kr/article/81979"/>
+        <updated>2023-11-09T09:12:32.451Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전현무X박나래X이장우의 두 번째 해외 팜유 세미나 현장.jpg]]></title>
         <id>https://www.elle.co.kr/article/81957</id>
@@ -41,18 +53,5 @@
         <id>https://www.elle.co.kr/article/81932</id>
         <link href="https://www.elle.co.kr/article/81932"/>
         <updated>2023-11-07T11:11:25.866Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하니X양재웅 커플의 1000일 기념 럽스타그램.jpg]]></title>
-        <id>https://www.elle.co.kr/article/81931</id>
-        <link href="https://www.elle.co.kr/article/81931"/>
-        <updated>2023-11-07T11:11:25.868Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믿듣탱이 본업으로 돌아온다고?]]></title>
-        <id>https://www.elle.co.kr/article/81930</id>
-        <link href="https://www.elle.co.kr/article/81930"/>
-        <updated>2023-11-07T09:12:18.061Z</updated>
-        <content type="html"><![CDATA[믿고 듣는 태연. 5번째 미니 앨범으로 컴백.]]></content>
     </entry>
 </feed>
