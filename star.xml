@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-10T09:13:15.539Z</updated>
+    <updated>2023-11-10T10:15:14.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이순신 3부작의 끝, '노량'에서 마지막 대결하는 김윤석X백윤식 미리보기.jpg]]></title>
+        <id>https://www.elle.co.kr/article/82003</id>
+        <link href="https://www.elle.co.kr/article/82003"/>
+        <updated>2023-11-10T10:13:45.939Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아기 성별 살짝 공개? 이민정 둘째 베이비샤워 현장.jpg]]></title>
         <id>https://www.elle.co.kr/article/81983</id>
@@ -47,11 +53,5 @@
         <link href="https://www.elle.co.kr/article/81945"/>
         <updated>2023-11-08T08:16:39.211Z</updated>
         <content type="html"><![CDATA[이제야 맞춰지는 퍼즐.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민 연기 인생 최대 변신?! 눈을 의심케 하는 헤어스타일의 비밀]]></title>
-        <id>https://www.elle.co.kr/article/81934</id>
-        <link href="https://www.elle.co.kr/article/81934"/>
-        <updated>2023-11-08T08:16:39.213Z</updated>
     </entry>
 </feed>
