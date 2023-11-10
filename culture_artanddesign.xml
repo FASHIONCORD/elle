@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 03:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 04:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앙투안 부르델의 조각 박물관 #조각뮤지엄]]></title>
+            <link>https://www.elle.co.kr/article/81889</link>
+            <guid>https://www.elle.co.kr/article/81889</guid>
+            <pubDate>Fri, 10 Nov 2023 04:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[파리 14구 중심부의 조용한 골목. 15년간 로댕의 어시스턴트로 일한 뒤, 끝내 자신의 작품세계를...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/5d807e68-195e-4e36-985f-479ba62fae50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강릉살이를 꿈꾸게 하는 프리랜서 부부의 감나무 주택 #홈터뷰]]></title>
             <link>https://www.elle.co.kr/article/81999</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/81716</guid>
             <pubDate>Thu, 02 Nov 2023 16:16:50 GMT</pubDate>
             <content:encoded><![CDATA[AI 창작물의 홍수 속에 태어난 크래프트 몬스터들. 장인의 손은 무엇보다 독창적이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/04947429-2aa4-4e2c-a8b3-8f78817fdb3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰]]></title>
@@ -89,13 +96,6 @@
             <guid>https://www.elle.co.kr/article/81548</guid>
             <pubDate>Mon, 23 Oct 2023 15:14:06 GMT</pubDate>
             <content:encoded><![CDATA[여섯 개의 커피 테이블과 친밀한 사물들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['소백' 박민아 대표의 취향 리스트 #나의거실은]]></title>
-            <link>https://www.elle.co.kr/article/81462</link>
-            <guid>https://www.elle.co.kr/article/81462</guid>
-            <pubDate>Sun, 22 Oct 2023 15:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[한국적 미니멀리즘을 근간으로 한국인의 의식주를 미학적으로 표현하는 브랜드 ‘소백(So_back)’의...]]></content:encoded>
         </item>
     </channel>
 </rss>
