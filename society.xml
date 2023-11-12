@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-11-12T17:11:16.765Z</updated>
+    <updated>2023-11-12T18:14:57.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제 한국도 베드버그 청정지대 아니다? 빈대 출몰 오해와 진실 (ft. 방제법)]]></title>
+        <id>https://www.elle.co.kr/article/81988</id>
+        <link href="https://www.elle.co.kr/article/81988"/>
+        <updated>2023-11-12T18:14:57.126Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엘르보이스] 잘하고 계신 것 같은데요!]]></title>
         <id>https://www.elle.co.kr/article/81878</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/81533"/>
         <updated>2023-11-05T15:13:12.716Z</updated>
         <content type="html"><![CDATA[이태원이 안되면 홍대로 몰린다?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부캐가 내 인생을 바꿔준다고?_돈쓸신잡 #120]]></title>
-        <id>https://www.elle.co.kr/article/81456</id>
-        <link href="https://www.elle.co.kr/article/81456"/>
-        <updated>2023-11-02T08:17:06.681Z</updated>
     </entry>
 </feed>

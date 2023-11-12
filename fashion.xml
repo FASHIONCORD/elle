@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-12T17:11:16.760Z</updated>
+    <updated>2023-11-12T18:14:57.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한번 더 백년]]></title>
+        <id>https://www.elle.co.kr/article/82019</id>
+        <link href="https://www.elle.co.kr/article/82019"/>
+        <updated>2023-11-12T18:13:43.834Z</updated>
+        <content type="html"><![CDATA[창립 100주년을 맞아 선보인 전시를 성대하게 치러낸 아크리스. 하우스를 이끄는 알버트 크리믈러...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가을밤을 위한 캔들 홀더]]></title>
         <id>https://www.elle.co.kr/article/82010</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/81953"/>
         <updated>2023-11-10T15:13:10.318Z</updated>
         <content type="html"><![CDATA[구찌의 새 수장 사바토 데 사르노가 전하는 사랑의 노래.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동화 같은 호수 섬에서 펼쳐진 니콜라 제스키에르의 물빛 판타지]]></title>
-        <id>https://www.elle.co.kr/article/81946</id>
-        <link href="https://www.elle.co.kr/article/81946"/>
-        <updated>2023-11-09T15:12:11.831Z</updated>
     </entry>
 </feed>
