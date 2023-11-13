@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-11-13T14:13:41.452Z</updated>
+    <updated>2023-11-13T15:14:26.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마블표 팀업 무비부터 3년 만에 돌아온 '개콘'이 있는 11월 둘째 주 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/82034</id>
+        <link href="https://www.elle.co.kr/article/82034"/>
+        <updated>2023-11-13T15:13:32.435Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앙투안 부르델의 조각 박물관 #조각뮤지엄]]></title>
         <id>https://www.elle.co.kr/article/81889</id>
@@ -48,12 +54,5 @@
         <id>https://www.elle.co.kr/article/81952</id>
         <link href="https://www.elle.co.kr/article/81952"/>
         <updated>2023-11-09T08:15:45.153Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는?]]></title>
-        <id>https://www.elle.co.kr/article/81945</id>
-        <link href="https://www.elle.co.kr/article/81945"/>
-        <updated>2023-11-09T07:12:02.083Z</updated>
-        <content type="html"><![CDATA[이제야 맞춰지는 퍼즐.]]></content>
     </entry>
 </feed>

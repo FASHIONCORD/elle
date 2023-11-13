@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 14:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 15:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -966,6 +966,12 @@
             <pubDate>Thu, 09 Nov 2023 07:12:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[마블표 팀업 무비부터 3년 만에 돌아온 '개콘'이 있는 11월 둘째 주 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/82034</link>
+            <guid>https://www.elle.co.kr/article/82034</guid>
+            <pubDate>Fri, 10 Nov 2023 07:11:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[앙투안 부르델의 조각 박물관 #조각뮤지엄 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/81889</link>
             <guid>https://www.elle.co.kr/article/81889</guid>
@@ -1008,13 +1014,6 @@
             <link>https://www.elle.co.kr/article/81952</link>
             <guid>https://www.elle.co.kr/article/81952</guid>
             <pubDate>Tue, 07 Nov 2023 09:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는? (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/81945</link>
-            <guid>https://www.elle.co.kr/article/81945</guid>
-            <pubDate>Tue, 07 Nov 2023 07:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[이제야 맞춰지는 퍼즐.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사이버 가수? AI? 무려 4년 6개월 만에 컴백하는 딘 신곡 정보.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1180,6 +1179,13 @@
             <pubDate>Wed, 25 Oct 2023 07:12:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[더 나은 공공건축, 신아키텍츠 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/81898</link>
+            <guid>https://www.elle.co.kr/article/81898</guid>
+            <pubDate>Mon, 13 Nov 2023 15:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[신아키텍츠가 꿈꾸는 공공건축의 힘과 미래.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[옷에 붙이는 스마트폰이 등장했다? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82064</link>
             <guid>https://www.elle.co.kr/article/82064</guid>
@@ -1260,12 +1266,6 @@
             <content:encoded><![CDATA[네오고딕 양식과 파괴적인 멤피스 디자인이 극적으로 공존하는 마테오 툰의 베네치아 저택.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네덜란드에서 도서관 사서로 일하는 지아 살바지오의 책방 같은 집 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/81673</link>
-            <guid>https://www.elle.co.kr/article/81673</guid>
-            <pubDate>Thu, 26 Oct 2023 06:17:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[초대형 생일 케이크가 반겨주는 섬이 있다?! 작가 김신지의 #취향일지도 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/81909</link>
             <guid>https://www.elle.co.kr/article/81909</guid>
@@ -1317,6 +1317,18 @@
             <pubDate>Thu, 02 Nov 2023 08:16:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[사회초년생이 고물가 시대에서 살아남는 법_돈쓸신잡 #123 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82001</link>
+            <guid>https://www.elle.co.kr/article/82001</guid>
+            <pubDate>Mon, 13 Nov 2023 15:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[카페 종이 빨대, 진짜 사라질까? (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82000</link>
+            <guid>https://www.elle.co.kr/article/82000</guid>
+            <pubDate>Mon, 13 Nov 2023 15:14:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[이제 한국도 베드버그 청정지대 아니다? 빈대 출몰 오해와 진실 (ft. 방제법) (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/81988</link>
             <guid>https://www.elle.co.kr/article/81988</guid>
@@ -1354,19 +1366,6 @@
             <link>https://www.elle.co.kr/article/81674</link>
             <guid>https://www.elle.co.kr/article/81674</guid>
             <pubDate>Wed, 08 Nov 2023 10:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[숏폼, 그 참을 수 없는 짧음에 대하여 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/81613</link>
-            <guid>https://www.elle.co.kr/article/81613</guid>
-            <pubDate>Mon, 06 Nov 2023 15:14:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2023년 할로윈, 그리고 이태원 참사 1주기를 앞둔 전국 분위기 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/81533</link>
-            <guid>https://www.elle.co.kr/article/81533</guid>
-            <pubDate>Sun, 05 Nov 2023 15:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[이태원이 안되면 홍대로 몰린다?]]></content:encoded>
         </item>
     </channel>
 </rss>
