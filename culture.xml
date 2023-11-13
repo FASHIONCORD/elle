@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 09:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 10:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현아&던 다시 볼 수 있을까? 전 남친 소속사 합류한 현아의 파격 프로필 모음]]></title>
+            <link>https://www.elle.co.kr/article/82004</link>
+            <guid>https://www.elle.co.kr/article/82004</guid>
+            <pubDate>Mon, 13 Nov 2023 10:14:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/c7a09b40-94b9-422e-9489-27cc0bcc366d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이순신 3부작의 끝, '노량'에서 마지막 대결하는 김윤석X백윤식 미리보기.jpg]]></title>
             <link>https://www.elle.co.kr/article/82003</link>
@@ -57,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/81934</guid>
             <pubDate>Thu, 09 Nov 2023 06:16:48 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/1e7b5d55-e895-4fa3-8abd-fe83446cba40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3대 모녀 VS 빌런의 본격 대결! '힘쎈여자 강남순' 후반부 관전포인트 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/81932</link>
-            <guid>https://www.elle.co.kr/article/81932</guid>
-            <pubDate>Thu, 09 Nov 2023 05:14:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/7c55ac43-863c-4c3c-a5ee-5a1ff5945a30.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
