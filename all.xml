@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 18:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 19:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -809,6 +809,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연말 파티 룩, 뭐 입지? (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/82059</link>
+            <guid>https://www.elle.co.kr/article/82059</guid>
+            <pubDate>Tue, 14 Nov 2023 19:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[홀리데이 무드 가득한 최신 협업 아이템을 참고해 보세요.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[새하얀 런웨이에 담은 40th 히스토리 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/82040</link>
             <guid>https://www.elle.co.kr/article/82040</guid>
@@ -854,13 +861,6 @@
             <link>https://www.elle.co.kr/article/82002</link>
             <guid>https://www.elle.co.kr/article/82002</guid>
             <pubDate>Sat, 11 Nov 2023 15:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[보테가 베네타의 새로운 항해 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82008</link>
-            <guid>https://www.elle.co.kr/article/82008</guid>
-            <pubDate>Fri, 10 Nov 2023 15:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[무엇이든 될 수 있는 마티유 블라지의 무한한 세계.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한혜진이 ‘나’를 사랑하는 법! #나이트루틴 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1185,14 +1185,12 @@
             <guid>https://www.elle.co.kr/article/82094</guid>
             <pubDate>Tue, 14 Nov 2023 15:13:43 GMT</pubDate>
             <content:encoded><![CDATA[비주얼의 정점. 웨스 앤더슨 영화 속 다채로운 컬러와 리듬.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/15/d7d90a33-bd7c-46ab-9058-89ef4eb58c66.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이비드 호크니의 그림 속으로 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82095</link>
             <guid>https://www.elle.co.kr/article/82095</guid>
             <pubDate>Tue, 14 Nov 2023 03:13:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/d8114ee5-50a9-4ffc-a208-ff7c45ddb618.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 나은 공공건축, 신아키텍츠 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1200,7 +1198,6 @@
             <guid>https://www.elle.co.kr/article/81898</guid>
             <pubDate>Mon, 13 Nov 2023 15:14:08 GMT</pubDate>
             <content:encoded><![CDATA[신아키텍츠가 꿈꾸는 공공건축의 힘과 미래.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/9f645cb7-ebd8-4dda-beb7-4b7dea1826d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옷에 붙이는 스마트폰이 등장했다? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1208,7 +1205,6 @@
             <guid>https://www.elle.co.kr/article/82064</guid>
             <pubDate>Sun, 12 Nov 2023 18:14:40 GMT</pubDate>
             <content:encoded><![CDATA[코페르니 런웨이에도 등장한 바로 그 기계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/04e753ad-27d3-4a82-b30a-7a1bcc63b7e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1960년대 연립주택에 사는 엘르 데코 스웨덴 에디터의 집 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
