@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-11-14T14:13:02.847Z</updated>
+    <updated>2023-11-14T15:14:15.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[닭 특수 부위부터 한우 맡김차림까지, 강남 고깃집 3]]></title>
+        <id>https://www.elle.co.kr/article/82017</id>
+        <link href="https://www.elle.co.kr/article/82017"/>
+        <updated>2023-11-14T15:14:06.290Z</updated>
+        <content type="html"><![CDATA[고기 러버 집중! ‘먹잘알’ 스타들이 다녀간 강남구 고기 맛집을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강릉살이를 꿈꾸게 하는 프리랜서 부부의 감나무 주택 #홈터뷰]]></title>
         <id>https://www.elle.co.kr/article/81999</id>
@@ -48,12 +55,5 @@
         <id>https://www.elle.co.kr/article/81892</id>
         <link href="https://www.elle.co.kr/article/81892"/>
         <updated>2023-11-07T11:12:24.239Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸딩부터 초콜릿까지! 주우재 따라 연남동 디저트 투어 3]]></title>
-        <id>https://www.elle.co.kr/article/81874</id>
-        <link href="https://www.elle.co.kr/article/81874"/>
-        <updated>2023-11-04T02:20:01.447Z</updated>
-        <content type="html"><![CDATA[요즘 뜨는 디저트 맛집 모아보기! 소문난 푸딩 맛집부터 초콜릿 디저트 카페까지, 주우재가 다녀...]]></content>
     </entry>
 </feed>
