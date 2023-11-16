@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 12:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 13:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1183,6 +1183,7 @@
             <link>https://www.elle.co.kr/article/82171</link>
             <guid>https://www.elle.co.kr/article/82171</guid>
             <pubDate>Thu, 16 Nov 2023 09:13:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/16/b331da02-82ae-4753-9a97-9e3b98109c94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨스 앤더슨 영화 속 컬러 팔레트 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1190,12 +1191,14 @@
             <guid>https://www.elle.co.kr/article/82094</guid>
             <pubDate>Tue, 14 Nov 2023 15:13:43 GMT</pubDate>
             <content:encoded><![CDATA[비주얼의 정점. 웨스 앤더슨 영화 속 다채로운 컬러와 리듬.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/15/d7d90a33-bd7c-46ab-9058-89ef4eb58c66.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이비드 호크니의 그림 속으로 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82095</link>
             <guid>https://www.elle.co.kr/article/82095</guid>
             <pubDate>Tue, 14 Nov 2023 03:13:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/d8114ee5-50a9-4ffc-a208-ff7c45ddb618.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 나은 공공건축, 신아키텍츠 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1203,6 +1206,7 @@
             <guid>https://www.elle.co.kr/article/81898</guid>
             <pubDate>Mon, 13 Nov 2023 15:14:08 GMT</pubDate>
             <content:encoded><![CDATA[신아키텍츠가 꿈꾸는 공공건축의 힘과 미래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/9f645cb7-ebd8-4dda-beb7-4b7dea1826d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옷에 붙이는 스마트폰이 등장했다? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
