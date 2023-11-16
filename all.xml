@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 09:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 10:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1315,6 +1315,13 @@
             <content:encoded><![CDATA[청와대와 북악산의 호방한 기개를 간직한 ‘맑은 구름이 걸린 동네’.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[삼표가 있던 땅에서 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82022</link>
+            <guid>https://www.elle.co.kr/article/82022</guid>
+            <pubDate>Thu, 16 Nov 2023 10:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[성수동1가 683번지를 44년간 지켰던 삼표레미콘이 성수동을 떠났다. 개발이 잠시 유예된 찰나를 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스] 30년 전, <엘르>를 읽던 엄마가 사라졌다. (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/81879</link>
             <guid>https://www.elle.co.kr/article/81879</guid>
@@ -1358,13 +1365,6 @@
             <link>https://www.elle.co.kr/article/81861</link>
             <guid>https://www.elle.co.kr/article/81861</guid>
             <pubDate>Thu, 09 Nov 2023 06:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[테일러 스위프트의 억만장자 등극이 더욱 특별한 이유는? (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/81733</link>
-            <guid>https://www.elle.co.kr/article/81733</guid>
-            <pubDate>Sun, 29 Oct 2023 06:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content:encoded>
         </item>
     </channel>
 </rss>
