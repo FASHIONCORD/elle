@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-17T09:13:44.765Z</updated>
+    <updated>2023-11-17T10:14:47.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20kg 감량 유지어터 강소라, 둘째 임신 후 관리 비결 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/82169</id>
+        <link href="https://www.elle.co.kr/article/82169"/>
+        <updated>2023-11-17T10:13:38.899Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 대종상을 싹쓸이 한 '콘크리트 유토피아'! 이병헌X김선영 수상 소감은?]]></title>
         <id>https://www.elle.co.kr/article/82168</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/82123</id>
         <link href="https://www.elle.co.kr/article/82123"/>
         <updated>2023-11-16T00:54:41.437Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29년 만의 한국시리즈 제패에 난리 난 LG 트윈스 골수팬 셀럽들 (ft. 롤렉스의 행방)]]></title>
-        <id>https://www.elle.co.kr/article/82119</id>
-        <link href="https://www.elle.co.kr/article/82119"/>
-        <updated>2023-11-15T16:16:33.456Z</updated>
     </entry>
 </feed>
