@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 18:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 19:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -919,6 +919,13 @@
             <content:encoded><![CDATA[내 입술 위에 꾸덕한 초콜릿! 기분 좋은 달콤함이 번지는 '코코아' 립글로스 7.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[동화 속 문가영 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/82177</link>
+            <guid>https://www.elle.co.kr/article/82177</guid>
+            <pubDate>Fri, 17 Nov 2023 19:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[“새로운 곳에 놓인 내 또 다른 모습들. 심장이 긴장해서 뛰는 건지, 마냥 좋아서 뛰는 건지 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[괜히 뭉클해지는 마이큐의 새 사랑 노래와 김나영의 따뜻한 홍보 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/82178</link>
             <guid>https://www.elle.co.kr/article/82178</guid>
@@ -959,12 +966,6 @@
             <title><![CDATA[이효리와 공효진이 직접 올린 남편 사진.jpg (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/82132</link>
             <guid>https://www.elle.co.kr/article/82132</guid>
-            <pubDate>Thu, 16 Nov 2023 09:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[30년 지킨 청룡영화상을 떠나는 김혜수의 마지막 말 (ft. 최후의 파트너) (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/82131</link>
-            <guid>https://www.elle.co.kr/article/82131</guid>
             <pubDate>Thu, 16 Nov 2023 09:12:46 GMT</pubDate>
         </item>
         <item>
