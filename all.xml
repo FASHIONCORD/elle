@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 13:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 15:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -809,6 +809,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연말을 빛낼 하이주얼리 전시 3 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/82209</link>
+            <guid>https://www.elle.co.kr/article/82209</guid>
+            <pubDate>Fri, 17 Nov 2023 18:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[반클리프 아펠, 부쉐론, 프레드에 담긴 영롱한 서사.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[잘가요 그리고 반가워요 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/82102</link>
             <guid>https://www.elle.co.kr/article/82102</guid>
@@ -855,13 +862,6 @@
             <guid>https://www.elle.co.kr/article/82090</guid>
             <pubDate>Fri, 17 Nov 2023 10:13:19 GMT</pubDate>
             <content:encoded><![CDATA[클래식한 재킷부터 스트리트 무드 가득한 점퍼까지 스타들이 선택한 아우터를 참고해 보세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[해리 스타일스의 스타일리스트가 구멍이 나도 절대 못 버리는 티셔츠? 사물(사람과 물건) 인터뷰 #10 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82068</link>
-            <guid>https://www.elle.co.kr/article/82068</guid>
-            <pubDate>Thu, 16 Nov 2023 15:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[해리 스타일스의 스타일은 그의 손에서! 패션 스타일리스트 해리 램버트가 애정하는 물건.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[20kg 감량 유지어터 강소라, 둘째 임신 후 관리 비결 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -968,6 +968,20 @@
             <pubDate>Fri, 17 Nov 2023 10:13:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[다정한 귀여움으로 채운 일상, 블루아워 대표 이상희 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/82104</link>
+            <guid>https://www.elle.co.kr/article/82104</guid>
+            <pubDate>Sat, 18 Nov 2023 15:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[색색깔의 아름다움이 깃든 이상희의 취향.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연말을 빛낼 하이주얼리 전시 3 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/82209</link>
+            <guid>https://www.elle.co.kr/article/82209</guid>
+            <pubDate>Fri, 17 Nov 2023 18:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[반클리프 아펠, 부쉐론, 프레드에 담긴 영롱한 서사.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[세상 밖으로 나온 우주선 인테리어 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/82155</link>
             <guid>https://www.elle.co.kr/article/82155</guid>
@@ -1004,19 +1018,6 @@
             <link>https://www.elle.co.kr/article/82171</link>
             <guid>https://www.elle.co.kr/article/82171</guid>
             <pubDate>Thu, 16 Nov 2023 09:13:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[웨스 앤더슨 영화 속 컬러 팔레트 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/82094</link>
-            <guid>https://www.elle.co.kr/article/82094</guid>
-            <pubDate>Tue, 14 Nov 2023 15:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[비주얼의 정점. 웨스 앤더슨 영화 속 다채로운 컬러와 리듬.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[29년 만의 한국시리즈 제패에 난리 난 LG 트윈스 골수팬 셀럽들 (ft. 롤렉스의 행방) (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/82119</link>
-            <guid>https://www.elle.co.kr/article/82119</guid>
-            <pubDate>Wed, 15 Nov 2023 16:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1181,6 +1182,13 @@
             <pubDate>Mon, 30 Oct 2023 09:14:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[땅의 이야기를 품는, 네임리스건축 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/82158</link>
+            <guid>https://www.elle.co.kr/article/82158</guid>
+            <pubDate>Mon, 20 Nov 2023 15:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[네임리스건축은 지형과 재료에 집중해 자연의 진가를 포착한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아일랜드 식탁 논쟁을 아시나요 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82109</link>
             <guid>https://www.elle.co.kr/article/82109</guid>
@@ -1260,12 +1268,6 @@
             <guid>https://www.elle.co.kr/article/81889</guid>
             <pubDate>Fri, 10 Nov 2023 04:16:23 GMT</pubDate>
             <content:encoded><![CDATA[파리 14구 중심부의 조용한 골목. 15년간 로댕의 어시스턴트로 일한 뒤, 끝내 자신의 작품세계를...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강릉살이를 꿈꾸게 하는 프리랜서 부부의 감나무 주택 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/81999</link>
-            <guid>https://www.elle.co.kr/article/81999</guid>
-            <pubDate>Thu, 09 Nov 2023 06:17:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[셀러브리티가 찾은 맛집은? 분위기 있는 저녁을 위한 공간 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
