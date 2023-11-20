@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-20T11:12:38.533Z</updated>
+    <updated>2023-11-20T12:24:11.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이 조합 찬성! '찐친' 모먼트 보여준 스타 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/82210</id>
+        <link href="https://www.elle.co.kr/article/82210"/>
+        <updated>2023-11-20T12:23:19.399Z</updated>
+        <content type="html"><![CDATA[송혜교X김혜수부터 사나X미연까지, 스타의 절친은 스타!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG는 29년 만의 기적, 김혜수는 30년 만의 작별? 11월 3주차 #이번주요약]]></title>
         <id>https://www.elle.co.kr/article/82207</id>
@@ -47,11 +54,5 @@
         <id>https://www.elle.co.kr/article/82169</id>
         <link href="https://www.elle.co.kr/article/82169"/>
         <updated>2023-11-17T10:13:38.899Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 대종상을 싹쓸이 한 '콘크리트 유토피아'! 이병헌X김선영 수상 소감은?]]></title>
-        <id>https://www.elle.co.kr/article/82168</id>
-        <link href="https://www.elle.co.kr/article/82168"/>
-        <updated>2023-11-17T09:12:38.340Z</updated>
     </entry>
 </feed>
