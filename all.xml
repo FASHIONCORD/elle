@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 02:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 03:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,13 @@
             <pubDate>Fri, 17 Nov 2023 13:15:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[아일랜드 식탁 논쟁을 아시나요 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/82109</link>
+            <guid>https://www.elle.co.kr/article/82109</guid>
+            <pubDate>Sun, 19 Nov 2023 15:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[주방 인테리어에서 가장 의견이 분분한 아일랜드 식탁. 갖느냐 마느냐, 그것이 문제로다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[다정한 귀여움으로 채운 일상, 블루아워 대표 이상희 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/82104</link>
             <guid>https://www.elle.co.kr/article/82104</guid>
@@ -1013,12 +1020,6 @@
             <guid>https://www.elle.co.kr/article/82097</guid>
             <pubDate>Thu, 16 Nov 2023 15:14:05 GMT</pubDate>
             <content:encoded><![CDATA[칼 엘드의 취향과 작업으로 가득한 아틀리에가 1963년부터 대중에게 개방됐다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[두바이에서 홈쿡 계정을 운영하며 '채소 식탁'을 펴낸 테이블민의 집 #홈터뷰 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/82171</link>
-            <guid>https://www.elle.co.kr/article/82171</guid>
-            <pubDate>Thu, 16 Nov 2023 09:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1183,6 +1184,13 @@
             <pubDate>Mon, 30 Oct 2023 09:14:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[동화가 살아 숨 쉬는 편집 숍, 세실 앤 세드릭 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/81870</link>
+            <guid>https://www.elle.co.kr/article/81870</guid>
+            <pubDate>Tue, 21 Nov 2023 03:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[빈티지 컬렉터 세실, 가드닝과 캠핑을 좋아하는 세드릭. 상상 속 커플이 함께 숍을 차린 공간.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[땅의 이야기를 품는, 네임리스건축 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82158</link>
             <guid>https://www.elle.co.kr/article/82158</guid>
@@ -1262,13 +1270,6 @@
             <link>https://www.elle.co.kr/article/82037</link>
             <guid>https://www.elle.co.kr/article/82037</guid>
             <pubDate>Sat, 11 Nov 2023 15:11:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[앙투안 부르델의 조각 박물관 #조각뮤지엄 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/81889</link>
-            <guid>https://www.elle.co.kr/article/81889</guid>
-            <pubDate>Fri, 10 Nov 2023 04:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[파리 14구 중심부의 조용한 골목. 15년간 로댕의 어시스턴트로 일한 뒤, 끝내 자신의 작품세계를...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[찬 바람 불면 더욱 생각나는! 달콤한 팬케이크 한 판 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
