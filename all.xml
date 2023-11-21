@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 18:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 19:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -809,6 +809,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[옷 잘 입는 스타들이 픽한 겨울 아이템은? #스웨터 패션 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/82217</link>
+            <guid>https://www.elle.co.kr/article/82217</guid>
+            <pubDate>Tue, 21 Nov 2023 19:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[눈 내리는 계절엔 포근한 스웨터가 제격!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[관능으로 무장한 레이디 블랙 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/82166</link>
             <guid>https://www.elle.co.kr/article/82166</guid>
@@ -854,13 +861,6 @@
             <link>https://www.elle.co.kr/article/82108</link>
             <guid>https://www.elle.co.kr/article/82108</guid>
             <pubDate>Fri, 17 Nov 2023 18:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[겨울 필수 아이템, 신발장 속 잠자고 있던 ‘어그’를 꺼내야 할 때! (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82125</link>
-            <guid>https://www.elle.co.kr/article/82125</guid>
-            <pubDate>Fri, 17 Nov 2023 15:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[급격하게 추워진 날씨에 투박한 어그 부츠를 꺼내 신은 스타들을 소개합니다. 유행을 넘어 겨울...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박제니, 조효진, 진절미의 '찐' 파우치 아이템! <엘르>에만 공개합니다 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1026,24 +1026,28 @@
             <guid>https://www.elle.co.kr/article/82219</guid>
             <pubDate>Sun, 19 Nov 2023 17:10:49 GMT</pubDate>
             <content:encoded><![CDATA[최고, 최초의 타이틀로 가득한 역대급 경기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/25b683ef-a102-405a-be1b-d436bbec1557.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단 두 곡으로 가요계 제패한 레전드 유닛, 씨스타19 11년 만의 컴백 정보.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82204</link>
             <guid>https://www.elle.co.kr/article/82204</guid>
             <pubDate>Fri, 17 Nov 2023 10:13:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/29b88d6a-0f6b-4ff3-9c4a-28b5c8931968.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 가수? AI? 무려 4년 6개월 만에 컴백하는 딘 신곡 정보.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82086</link>
             <guid>https://www.elle.co.kr/article/82086</guid>
             <pubDate>Mon, 13 Nov 2023 11:11:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/b66aa2b7-fb9b-485d-a391-c6459ed7d175.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현아&던 다시 볼 수 있을까? 전 남친 소속사 합류한 현아의 파격 프로필 모음 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82004</link>
             <guid>https://www.elle.co.kr/article/82004</guid>
             <pubDate>Thu, 09 Nov 2023 08:15:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/c7a09b40-94b9-422e-9489-27cc0bcc366d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
