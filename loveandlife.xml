@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-11-21T14:13:39.681Z</updated>
+    <updated>2023-11-21T15:14:11.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말을 빛낼 하이주얼리 전시 3]]></title>
+        <id>https://www.elle.co.kr/article/82209</id>
+        <link href="https://www.elle.co.kr/article/82209"/>
+        <updated>2023-11-21T15:13:48.788Z</updated>
+        <content type="html"><![CDATA[반클리프 아펠, 부쉐론, 프레드에 담긴 영롱한 서사.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 수능 끝! 수험 스트레스 날리고 힐링하기 딱인 전국 불빛축제 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/82198</id>
@@ -49,11 +56,5 @@
         <id>https://www.elle.co.kr/article/82095</id>
         <link href="https://www.elle.co.kr/article/82095"/>
         <updated>2023-11-17T09:13:33.383Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춘식이부터 도라에몽까지! 캐릭터로 물든 편의점 '빼빼로데이' 상품 모음 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/82046</id>
-        <link href="https://www.elle.co.kr/article/82046"/>
-        <updated>2023-11-16T19:09:43.461Z</updated>
     </entry>
 </feed>
