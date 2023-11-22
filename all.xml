@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 05:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 06:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,13 @@
             <pubDate>Fri, 17 Nov 2023 13:16:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[해방을 맞은 작가 김진향의 눈부신 순간 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/82252</link>
+            <guid>https://www.elle.co.kr/article/82252</guid>
+            <pubDate>Wed, 22 Nov 2023 06:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[비로소 내면의 틀을 깨고 해방을 맞은 작가 김진향의 눈부신 순간.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[땅의 이야기를 품는, 네임리스건축 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/82158</link>
             <guid>https://www.elle.co.kr/article/82158</guid>
@@ -1014,12 +1021,6 @@
             <guid>https://www.elle.co.kr/article/82155</guid>
             <pubDate>Fri, 17 Nov 2023 15:13:13 GMT</pubDate>
             <content:encoded><![CDATA[압도적인 풍경을 누릴, 무한한 가능성을 향해 떠나는 우주여행.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LG는 29년 만의 기적, 김혜수는 30년 만의 작별? 11월 3주차 #이번주요약 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/82207</link>
-            <guid>https://www.elle.co.kr/article/82207</guid>
-            <pubDate>Fri, 17 Nov 2023 13:16:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1184,6 +1185,12 @@
             <pubDate>Mon, 30 Oct 2023 09:14:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['나 홀로 집에' 케빈의 집처럼 사랑스러운 미아 모텐슨의 덴마크 하우스 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/82310</link>
+            <guid>https://www.elle.co.kr/article/82310</guid>
+            <pubDate>Wed, 22 Nov 2023 06:17:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[나의 소중한 동물 친구들 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82142</link>
             <guid>https://www.elle.co.kr/article/82142</guid>
@@ -1266,11 +1273,11 @@
             <content:encoded><![CDATA[신아키텍츠가 꿈꾸는 공공건축의 힘과 미래.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[옷에 붙이는 스마트폰이 등장했다? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/82064</link>
-            <guid>https://www.elle.co.kr/article/82064</guid>
-            <pubDate>Sun, 12 Nov 2023 18:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[코페르니 런웨이에도 등장한 바로 그 기계.]]></content:encoded>
+            <title><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/82219</link>
+            <guid>https://www.elle.co.kr/article/82219</guid>
+            <pubDate>Sun, 19 Nov 2023 17:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[최고, 최초의 타이틀로 가득한 역대급 경기.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연말을 빛낼 하이주얼리 전시 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1317,12 +1324,6 @@
             <link>https://www.elle.co.kr/article/82122</link>
             <guid>https://www.elle.co.kr/article/82122</guid>
             <pubDate>Fri, 17 Nov 2023 09:13:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[데이비드 호크니의 그림 속으로 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/82095</link>
-            <guid>https://www.elle.co.kr/article/82095</guid>
-            <pubDate>Tue, 14 Nov 2023 03:13:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[옷에 붙이는 스마트폰이 등장했다? (엘르 코리아 ─ 소사이어티)]]></title>
