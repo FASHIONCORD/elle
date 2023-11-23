@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 04:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 05:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,7 +1323,13 @@
             <link>https://www.elle.co.kr/article/82122</link>
             <guid>https://www.elle.co.kr/article/82122</guid>
             <pubDate>Fri, 17 Nov 2023 09:13:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/9b7476e7-617f-4335-bac9-493fa836295e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 틀림없는 내 편 만들기 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/81880</link>
+            <guid>https://www.elle.co.kr/article/81880</guid>
+            <pubDate>Thu, 23 Nov 2023 05:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 계속계속계속 말해야 하는 이유]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[옷에 붙이는 스마트폰이 등장했다? (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1370,13 +1376,6 @@
             <guid>https://www.elle.co.kr/article/81878</guid>
             <pubDate>Fri, 10 Nov 2023 15:15:20 GMT</pubDate>
             <content:encoded><![CDATA[황효진 작가가 뜻밖에도 초등학생의 말에 위안을 얻은 이유]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 나의 추하고 아름다운 실패들 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/81877</link>
-            <guid>https://www.elle.co.kr/article/81877</guid>
-            <pubDate>Thu, 09 Nov 2023 15:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[정지음은 말한다. 이 실패는 그래도 온전히 나의 것이라고.]]></content:encoded>
         </item>
     </channel>
 </rss>
