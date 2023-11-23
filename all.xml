@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 18:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 19:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,13 @@
             <content:encoded><![CDATA[비주얼의 정점. 웨스 앤더슨 영화 속 다채로운 컬러와 리듬.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제주에서 만나는 샤넬의 팝업 부티크 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/82227</link>
+            <guid>https://www.elle.co.kr/article/82227</guid>
+            <pubDate>Wed, 22 Nov 2023 15:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[이로써 제주에 가야할 이유가 또 하나 생겼습니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/82219</link>
             <guid>https://www.elle.co.kr/article/82219</guid>
@@ -1314,12 +1321,6 @@
             <guid>https://www.elle.co.kr/article/82074</guid>
             <pubDate>Fri, 17 Nov 2023 18:17:01 GMT</pubDate>
             <content:encoded><![CDATA[파츄코 파라다이스 &amp; 약수터.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 수능 끝나고 놀이동산 고? 놓치면 아쉬운 '수험생 할인 혜택' 총정리 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/82122</link>
-            <guid>https://www.elle.co.kr/article/82122</guid>
-            <pubDate>Fri, 17 Nov 2023 09:13:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 틀림없는 내 편 만들기 (엘르 코리아 ─ 소사이어티)]]></title>
