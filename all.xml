@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 23:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 00:53:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -965,6 +965,13 @@
             <pubDate>Wed, 22 Nov 2023 09:13:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[나의 소중한 동물 친구들 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/82142</link>
+            <guid>https://www.elle.co.kr/article/82142</guid>
+            <pubDate>Tue, 21 Nov 2023 15:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[사랑과 경애, 존중의 마음을 담아. 나의 소중한 동물 친구들을 소개합니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[피겨 스타 하뉴 유즈루, 결혼 3개월 만의 이혼 결정이 씁쓸한 이유 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/82289</link>
             <guid>https://www.elle.co.kr/article/82289</guid>
@@ -1009,13 +1016,6 @@
             <guid>https://www.elle.co.kr/article/82219</guid>
             <pubDate>Sun, 19 Nov 2023 17:10:49 GMT</pubDate>
             <content:encoded><![CDATA[최고, 최초의 타이틀로 가득한 역대급 경기.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아일랜드 식탁 논쟁을 아시나요 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/82109</link>
-            <guid>https://www.elle.co.kr/article/82109</guid>
-            <pubDate>Sun, 19 Nov 2023 15:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[주방 인테리어에서 가장 의견이 분분한 아일랜드 식탁. 갖느냐 마느냐, 그것이 문제로다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1102,6 +1102,12 @@
             <pubDate>Wed, 27 Sep 2023 04:15:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[59억 걸린 현실판 '오겜'부터 푸바오와의 작별 인사까지, 11월 4주차 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/82378</link>
+            <guid>https://www.elle.co.kr/article/82378</guid>
+            <pubDate>Fri, 24 Nov 2023 00:53:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[술 못 끊는 사람 주목! 오은영의 금주 서바이벌 '알콜지옥' 내용.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/82374</link>
             <guid>https://www.elle.co.kr/article/82374</guid>
@@ -1172,12 +1178,6 @@
             <link>https://www.elle.co.kr/article/81913</link>
             <guid>https://www.elle.co.kr/article/81913</guid>
             <pubDate>Sun, 05 Nov 2023 15:12:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[진짜로 시작된 넷플릭스 공유비의 시대, 공유 금지 조건 총정리.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/81904</link>
-            <guid>https://www.elle.co.kr/article/81904</guid>
-            <pubDate>Fri, 03 Nov 2023 10:15:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[작품 못지 않네! 판타스틱 전시장 디자인 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
