@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 03:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 04:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1123,6 +1123,7 @@
             <link>https://www.elle.co.kr/article/82207</link>
             <guid>https://www.elle.co.kr/article/82207</guid>
             <pubDate>Fri, 17 Nov 2023 13:16:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/23275a7e-bfcd-4d48-92a4-0beacf25276d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설리 유작과 김장하 다큐, 우리가 몰랐던 이야기가 있는 11월 3주차 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
