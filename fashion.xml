@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-25T14:11:13.693Z</updated>
+    <updated>2023-11-25T15:12:34.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[05:00PM 해질 무렵 시작된 이청아의 시간]]></title>
+        <id>https://www.elle.co.kr/article/82316</id>
+        <link href="https://www.elle.co.kr/article/82316"/>
+        <updated>2023-11-25T15:11:15.752Z</updated>
+        <content type="html"><![CDATA[낮과 밤, 블랙과 화이트의 간극에서 게임이 시작된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙 코트의 유혹]]></title>
         <id>https://www.elle.co.kr/article/82235</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/82170"/>
         <updated>2023-11-22T09:12:53.371Z</updated>
         <content type="html"><![CDATA[잠에 취한 채.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옷 잘 입는 스타들이 픽한 겨울 아이템은? #스웨터 패션]]></title>
-        <id>https://www.elle.co.kr/article/82217</id>
-        <link href="https://www.elle.co.kr/article/82217"/>
-        <updated>2023-11-21T19:10:30.398Z</updated>
-        <content type="html"><![CDATA[눈 내리는 계절엔 포근한 스웨터가 제격!]]></content>
     </entry>
 </feed>
