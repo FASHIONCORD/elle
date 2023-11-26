@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-26T18:15:15.656Z</updated>
+    <updated>2023-11-26T19:11:03.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[술 못 끊는 사람 주목! 오은영의 금주 서바이벌 '알콜지옥' 내용.txt]]></title>
+        <id>https://www.elle.co.kr/article/82374</id>
+        <link href="https://www.elle.co.kr/article/82374"/>
+        <updated>2023-11-26T19:09:57.148Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무인도의 디바' 김효진이 출산 후 4개월 만에 18kg 감량한 비결 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/82373</id>
@@ -48,12 +54,5 @@
         <id>https://www.elle.co.kr/article/82338</id>
         <link href="https://www.elle.co.kr/article/82338"/>
         <updated>2023-11-23T11:10:51.543Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K팝 대세! 새로운 비주얼로 돌아온 앤팀의 첫 국내 화보]]></title>
-        <id>https://www.elle.co.kr/article/82297</id>
-        <link href="https://www.elle.co.kr/article/82297"/>
-        <updated>2023-11-23T00:53:54.243Z</updated>
-        <content type="html"><![CDATA[앤팀의 세 소년 의주, 케이, 조가 엘르와 처음으로 만났다.]]></content>
     </entry>
 </feed>
