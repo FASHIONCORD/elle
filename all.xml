@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 01:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 02:28:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -809,6 +809,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[수영부터 금새록, 고민시까지! 스타들의 각양각색 코트 패션 6 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/82346</link>
+            <guid>https://www.elle.co.kr/article/82346</guid>
+            <pubDate>Sun, 26 Nov 2023 02:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[겨울은 코트의 계절. 클래식하고 차분한 매력의 코트를 꺼내 입을 타이밍입니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[05:00PM 해질 무렵 시작된 이청아의 시간 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/82316</link>
             <guid>https://www.elle.co.kr/article/82316</guid>
@@ -855,13 +862,6 @@
             <guid>https://www.elle.co.kr/article/82227</guid>
             <pubDate>Wed, 22 Nov 2023 15:12:50 GMT</pubDate>
             <content:encoded><![CDATA[이로써 제주에 가야할 이유가 또 하나 생겼습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밀라노 거리 한복판에서 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82170</link>
-            <guid>https://www.elle.co.kr/article/82170</guid>
-            <pubDate>Wed, 22 Nov 2023 09:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[잠에 취한 채.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[집에서도 피부 관리 받은 것처럼! 앰풀 200% 활용법_선배’s 어드바이스 #195 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1351,28 +1351,24 @@
             <guid>https://www.elle.co.kr/article/81879</guid>
             <pubDate>Tue, 14 Nov 2023 03:13:37 GMT</pubDate>
             <content:encoded><![CDATA[엄마와 나, 어쩌면 조카까지? 비혼세 작가와 엘르의 애틋한 인연]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/d3b4f8cb-f463-425b-827f-8aa372cb9f42.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사회초년생이 고물가 시대에서 살아남는 법_돈쓸신잡 #123 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82001</link>
             <guid>https://www.elle.co.kr/article/82001</guid>
             <pubDate>Mon, 13 Nov 2023 15:14:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/6206d6e1-4c0b-462d-928a-8e6be097caf3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카페 종이 빨대, 진짜 사라질까? (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82000</link>
             <guid>https://www.elle.co.kr/article/82000</guid>
             <pubDate>Mon, 13 Nov 2023 15:14:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/d236bc23-5e17-4e68-bc0e-5b820fb906c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제 한국도 베드버그 청정지대 아니다? 빈대 출몰 오해와 진실 (ft. 방제법) (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/81988</link>
             <guid>https://www.elle.co.kr/article/81988</guid>
             <pubDate>Sat, 11 Nov 2023 15:11:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/617b6ed2-440c-4f26-b6f1-b12db17abf51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 잘하고 계신 것 같은데요! (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1380,7 +1376,6 @@
             <guid>https://www.elle.co.kr/article/81878</guid>
             <pubDate>Fri, 10 Nov 2023 15:15:20 GMT</pubDate>
             <content:encoded><![CDATA[황효진 작가가 뜻밖에도 초등학생의 말에 위안을 얻은 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/8a98d5fb-4612-40f3-b503-91a66324e98e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
