@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 12:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 13:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1025,24 +1025,28 @@
             <guid>https://www.elle.co.kr/article/82219</guid>
             <pubDate>Sun, 19 Nov 2023 17:10:49 GMT</pubDate>
             <content:encoded><![CDATA[최고, 최초의 타이틀로 가득한 역대급 경기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/25b683ef-a102-405a-be1b-d436bbec1557.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단 두 곡으로 가요계 제패한 레전드 유닛, 씨스타19 11년 만의 컴백 정보.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82204</link>
             <guid>https://www.elle.co.kr/article/82204</guid>
             <pubDate>Fri, 17 Nov 2023 10:13:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/29b88d6a-0f6b-4ff3-9c4a-28b5c8931968.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 가수? AI? 무려 4년 6개월 만에 컴백하는 딘 신곡 정보.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82086</link>
             <guid>https://www.elle.co.kr/article/82086</guid>
             <pubDate>Mon, 13 Nov 2023 11:11:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/b66aa2b7-fb9b-485d-a391-c6459ed7d175.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현아&던 다시 볼 수 있을까? 전 남친 소속사 합류한 현아의 파격 프로필 모음 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82004</link>
             <guid>https://www.elle.co.kr/article/82004</guid>
             <pubDate>Thu, 09 Nov 2023 08:15:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/c7a09b40-94b9-422e-9489-27cc0bcc366d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
