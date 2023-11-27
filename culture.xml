@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-11-27T11:12:19.219Z</updated>
+    <updated>2023-11-27T12:24:26.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백남준은 현재진행형이다]]></title>
+        <id>https://www.elle.co.kr/article/82411</id>
+        <link href="https://www.elle.co.kr/article/82411"/>
+        <updated>2023-11-27T12:23:44.493Z</updated>
+        <content type="html"><![CDATA[숱하게 들어본 이름 '비디오아트'의 백남준. 하지만 우리는 진짜 그를 얼만큼 알고 있을까.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비누, 오브제가 되다]]></title>
         <id>https://www.elle.co.kr/article/82390</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/82142"/>
         <updated>2023-11-24T00:53:16.110Z</updated>
         <content type="html"><![CDATA[사랑과 경애, 존중의 마음을 담아. 나의 소중한 동물 친구들을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피겨 스타 하뉴 유즈루, 결혼 3개월 만의 이혼 결정이 씁쓸한 이유]]></title>
-        <id>https://www.elle.co.kr/article/82289</id>
-        <link href="https://www.elle.co.kr/article/82289"/>
-        <updated>2023-11-23T15:12:52.270Z</updated>
     </entry>
 </feed>
