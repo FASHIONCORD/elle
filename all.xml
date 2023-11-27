@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 14:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 15:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -969,6 +969,13 @@
             <pubDate>Sun, 26 Nov 2023 15:11:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['서울의 봄'이 쏘아 올린 기상천외한 챌린지가 뭐길래? (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/82426</link>
+            <guid>https://www.elle.co.kr/article/82426</guid>
+            <pubDate>Sun, 26 Nov 2023 17:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[스트레스 지수, 누가 누가 더 높나.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[백남준은 현재진행형이다 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/82411</link>
             <guid>https://www.elle.co.kr/article/82411</guid>
@@ -1013,13 +1020,6 @@
             <link>https://www.elle.co.kr/article/82310</link>
             <guid>https://www.elle.co.kr/article/82310</guid>
             <pubDate>Wed, 22 Nov 2023 06:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[나의 소중한 동물 친구들 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/82142</link>
-            <guid>https://www.elle.co.kr/article/82142</guid>
-            <pubDate>Tue, 21 Nov 2023 15:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[사랑과 경애, 존중의 마음을 담아. 나의 소중한 동물 친구들을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1187,6 +1187,13 @@
             <pubDate>Fri, 10 Nov 2023 07:11:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[엘르 데코의 거실로 놀러와! (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/82457</link>
+            <guid>https://www.elle.co.kr/article/82457</guid>
+            <pubDate>Mon, 27 Nov 2023 15:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[이상하고도 아름다운 리빙룸으로의 초대.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[백남준은 현재진행형이다 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82411</link>
             <guid>https://www.elle.co.kr/article/82411</guid>
@@ -1268,13 +1275,6 @@
             <guid>https://www.elle.co.kr/article/82155</guid>
             <pubDate>Fri, 17 Nov 2023 15:13:13 GMT</pubDate>
             <content:encoded><![CDATA[압도적인 풍경을 누릴, 무한한 가능성을 향해 떠나는 우주여행.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지엄으로 재탄생한 칼 엘드의 아틀리에 #조각뮤지엄 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/82097</link>
-            <guid>https://www.elle.co.kr/article/82097</guid>
-            <pubDate>Thu, 16 Nov 2023 15:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[칼 엘드의 취향과 작업으로 가득한 아틀리에가 1963년부터 대중에게 개방됐다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[재방문을 부르는 화덕피자부터 추억의 맛까지! 모델 오지영이 애정하는 서울 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
