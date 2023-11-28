@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-28T09:14:01.372Z</updated>
+    <updated>2023-11-28T10:14:41.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평단X대중 호평 다 잡고 단숨에 200만 관객 찍은'서울의 봄' 특별출연 스틸컷.jpg]]></title>
+        <id>https://www.elle.co.kr/article/82454</id>
+        <link href="https://www.elle.co.kr/article/82454"/>
+        <updated>2023-11-28T10:13:49.556Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가장 영화다운 이별, 김혜수의 마지막 청룡영화상 이야기 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/82453</id>
@@ -50,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/82420"/>
         <updated>2023-11-27T07:12:10.826Z</updated>
         <content type="html"><![CDATA[텐트 안에 거실과 침실이? 없는 게 없는 프로 캠퍼 김숙의 새로운 겨울 보금자리를 공개합니다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일주일만에 사라진 뱃살!? 이나연의 다이어트 Tip]]></title>
-        <id>https://www.elle.co.kr/article/82418</id>
-        <link href="https://www.elle.co.kr/article/82418"/>
-        <updated>2023-11-27T05:12:46.093Z</updated>
-        <content type="html"><![CDATA[긴장감을 늦출 수 없는 겨울 다이어트를 위해! 이나연이 일주일 동안 식단과 운동을 병행하며 ...]]></content>
     </entry>
 </feed>
