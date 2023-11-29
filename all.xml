@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 00:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 01:56:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1017,6 +1017,7 @@
             <link>https://www.elle.co.kr/article/82374</link>
             <guid>https://www.elle.co.kr/article/82374</guid>
             <pubDate>Thu, 23 Nov 2023 11:11:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/23/adc0a528-37ad-47f5-b843-4880aa9ea785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1107,21 +1108,18 @@
             <link>https://www.elle.co.kr/article/82455</link>
             <guid>https://www.elle.co.kr/article/82455</guid>
             <pubDate>Mon, 27 Nov 2023 12:24:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/e12979db-5ba3-454c-8ac2-fe6046a76f8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[평단X대중 호평 다 잡고 단숨에 200만 관객 찍은'서울의 봄' 특별출연 스틸컷.jpg (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/82454</link>
             <guid>https://www.elle.co.kr/article/82454</guid>
             <pubDate>Mon, 27 Nov 2023 11:11:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/70fed922-2db9-4fe0-b74c-cec174cf1bd4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가장 영화다운 이별, 김혜수의 마지막 청룡영화상 이야기 모음.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/82453</link>
             <guid>https://www.elle.co.kr/article/82453</guid>
             <pubDate>Mon, 27 Nov 2023 11:11:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/a36506aa-d05d-4ce9-808d-3df8548f36b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dear my blue (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1129,7 +1127,6 @@
             <guid>https://www.elle.co.kr/article/82435</guid>
             <pubDate>Mon, 27 Nov 2023 04:16:08 GMT</pubDate>
             <content:encoded><![CDATA[나의 서늘한 불안과 공포에게. &lt;나의 피투성이 연인&gt;의 감독 유지영은 끊임없이 질문을 던진다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/beba42fc-fdf4-4109-a808-1846ef1b78a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['서울의 봄'이 쏘아 올린 기상천외한 챌린지가 뭐길래? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
