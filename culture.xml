@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-11-30T05:13:21.554Z</updated>
+    <updated>2023-11-30T06:17:22.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘르 데코의 거실로 놀러와!]]></title>
+        <id>https://www.elle.co.kr/article/82457</id>
+        <link href="https://www.elle.co.kr/article/82457"/>
+        <updated>2023-11-30T06:16:34.901Z</updated>
+        <content type="html"><![CDATA[이상하고도 아름다운 리빙룸으로의 초대.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혹시... 다음 시즌 있나요? 자체 최고 시청률로 종영한 '강남순' 명장면 총정리 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/82455</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/82390"/>
         <updated>2023-11-27T11:11:05.902Z</updated>
         <content type="html"><![CDATA['세정'이라는 본래의 용도를 차지하고 새로운 시선으로 응시한 비누.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[59억 걸린 현실판 '오겜'부터 푸바오와의 작별 인사까지, 11월 4주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/82378</id>
-        <link href="https://www.elle.co.kr/article/82378"/>
-        <updated>2023-11-27T11:11:05.904Z</updated>
     </entry>
 </feed>
