@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 13:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 14:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -866,6 +866,13 @@
             <content:encoded><![CDATA[견고하고 입체적인 네모의 세상.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나도 도전해 볼까? 단발병 유발하는 셀러브리티 5 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/82427</link>
+            <guid>https://www.elle.co.kr/article/82427</guid>
+            <pubDate>Thu, 30 Nov 2023 14:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[아이브 안유진부터 (여자)아이들 우기, 윤은혜 등 단발머리 뽐뿌 제대로 불러일으키는 스타들의 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아이의, 아이에 의한, 아이를 위한 컬렉션? (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/82425</link>
             <guid>https://www.elle.co.kr/article/82425</guid>
@@ -911,13 +918,6 @@
             <guid>https://www.elle.co.kr/article/82247</guid>
             <pubDate>Sat, 25 Nov 2023 09:10:59 GMT</pubDate>
             <content:encoded><![CDATA[시간과 비용은 DOWN, 효과는 UP!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SNS에서 본 그 메이크업! 김나영이 공개한 데일리 메이크업 튜토리얼 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/82220</link>
-            <guid>https://www.elle.co.kr/article/82220</guid>
-            <pubDate>Thu, 23 Nov 2023 15:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[투명한 피부 표현부터 발그레한 치크 연출법까지. 자연스러워서 더 매력적인 김나영의 초간단 데...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[20kg 뺀 유지어터, 선명한 근육 뽐내는 조여정의 관리법 총정리 #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
