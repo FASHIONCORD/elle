@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 04:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 05:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[완벽한 홀리데이를 위한 
+가장 완벽한 쿠션.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36971054&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36971054&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 01 Dec 2023 05:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[목욕 그 이상의 즐거움, 
 더바디샵과 함께하는 배쓰타임.]]></title>
@@ -161,14 +170,6 @@
             <pubDate>Mon, 12 Dec 2022 02:47:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTJfMzEg/MDAxNjcwODExNTA3NzU1.lqQZKCYU3COuANH4U_5fojn9o_YmSH5pjosxSmF9jHcg.tfcaje_78-7zT5dUAT4yvtym5QwO1Bv5DHEHViKbLJUg.JPEG/IfVtvkDDCzFC8FXBcgG88q99l0SA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조 말론 런던과 함께]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34923348&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34923348&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Fri, 09 Dec 2022 08:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjlfMTQ1/MDAxNjY5NzA5MDE3OTU1.l49jUAMwJ8-IATiGQiH7rvMhbKRWT6UJSnYmCMOf3Jcg.LQYYPL98z7XB6O3K1VlXRSEcVMJlHxhme7gS5Bm2vWYg.JPEG/Iy0RvoEVBm0EbMNv55QwqzydsWt4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
