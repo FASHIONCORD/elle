@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 18:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 19:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -816,6 +816,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에디슬리먼의 백일몽 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/82563</link>
+            <guid>https://www.elle.co.kr/article/82563</guid>
+            <pubDate>Fri, 01 Dec 2023 19:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[셀린느가 남성 서머 24를 공개했다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[사복 센스 좋은 셀러브리티들의 겨울 액세서리! 10만원 이하 모자 구매 좌표 5 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/82515</link>
             <guid>https://www.elle.co.kr/article/82515</guid>
@@ -862,13 +869,6 @@
             <guid>https://www.elle.co.kr/article/82349</guid>
             <pubDate>Mon, 27 Nov 2023 11:10:57 GMT</pubDate>
             <content:encoded><![CDATA[턴테이블에서 흘러나오는 음악이 나만의 시간을 가득 메운다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[겨울 아이의 니트 아이템 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82421</link>
-            <guid>https://www.elle.co.kr/article/82421</guid>
-            <pubDate>Tue, 28 Nov 2023 01:55:47 GMT</pubDate>
-            <content:encoded><![CDATA[빼앗길 수 없는 포근함.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나도 도전해 볼까? 단발병 유발하는 셀러브리티 5 (엘르 코리아 ─ 뷰티)]]></title>
