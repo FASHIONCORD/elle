@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 17:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 18:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1030,18 +1030,21 @@
             <link>https://www.elle.co.kr/article/82600</link>
             <guid>https://www.elle.co.kr/article/82600</guid>
             <pubDate>Thu, 30 Nov 2023 07:12:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/30/20f4479e-306c-46f1-b1ea-191efb5ae1ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['조교' 진과 '훈련병' 지민X정국, 만날 가능성은? BTS 4인 입대 관련 정보.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82593</link>
             <guid>https://www.elle.co.kr/article/82593</guid>
             <pubDate>Thu, 30 Nov 2023 06:16:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/30/3bb44df8-98ba-400b-8d59-9ef9693c74f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[또 MAMA 같이 나온 11년차 공개 연인 수영X정경호.jpg (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82577</link>
             <guid>https://www.elle.co.kr/article/82577</guid>
             <pubDate>Thu, 30 Nov 2023 02:26:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/30/c9d17637-dd67-4907-ac1b-7e76a47711dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1049,6 +1052,7 @@
             <guid>https://www.elle.co.kr/article/82219</guid>
             <pubDate>Sun, 19 Nov 2023 17:10:49 GMT</pubDate>
             <content:encoded><![CDATA[최고, 최초의 타이틀로 가득한 역대급 경기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/25b683ef-a102-405a-be1b-d436bbec1557.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단 두 곡으로 가요계 제패한 레전드 유닛, 씨스타19 11년 만의 컴백 정보.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1119,21 +1123,18 @@
             <link>https://www.elle.co.kr/article/82554</link>
             <guid>https://www.elle.co.kr/article/82554</guid>
             <pubDate>Wed, 29 Nov 2023 08:16:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/29/b153624e-4330-444a-a5b2-cd886c5cd55e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[혹시... 다음 시즌 있나요? 자체 최고 시청률로 종영한 '강남순' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/82455</link>
             <guid>https://www.elle.co.kr/article/82455</guid>
             <pubDate>Mon, 27 Nov 2023 12:24:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/e12979db-5ba3-454c-8ac2-fe6046a76f8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[평단X대중 호평 다 잡고 단숨에 200만 관객 찍은'서울의 봄' 특별출연 스틸컷.jpg (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/82454</link>
             <guid>https://www.elle.co.kr/article/82454</guid>
             <pubDate>Mon, 27 Nov 2023 11:11:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/70fed922-2db9-4fe0-b74c-cec174cf1bd4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가장 영화다운 이별, 김혜수의 마지막 청룡영화상 이야기 모음.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
