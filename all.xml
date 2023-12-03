@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 14:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 15:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -816,6 +816,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에디 슬리먼이 사랑한 뉴욕 미술계의 별은? (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/82625</link>
+            <guid>https://www.elle.co.kr/article/82625</guid>
+            <pubDate>Fri, 01 Dec 2023 02:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[플래그십 스토어에도 그를 위한 공간을 만들었다고.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[고윤정, 엘르 디 에디션(D Edition) 커버 공개 #ELLE_D에디션 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/82624</link>
             <guid>https://www.elle.co.kr/article/82624</guid>
@@ -864,11 +871,11 @@
             <pubDate>Wed, 29 Nov 2023 15:13:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[사무실에서 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82448</link>
-            <guid>https://www.elle.co.kr/article/82448</guid>
-            <pubDate>Wed, 29 Nov 2023 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[익숙한듯 낯선 펜디를 입은 오피스 우먼.]]></content:encoded>
+            <title><![CDATA[로맨틱 무드 뿜뿜, 12월의 뷰티 신상! (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/82525</link>
+            <guid>https://www.elle.co.kr/article/82525</guid>
+            <pubDate>Sun, 03 Dec 2023 15:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[새하얀 눈이 내리는 마법 같은 순간, 춥지만 겨울이 주는 포근한 분위기.... 12월의 뷰티 신상...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[20kg 뺀 유지어터, 선명한 근육 뽐내는 조여정의 관리법 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -915,13 +922,6 @@
             <link>https://www.elle.co.kr/article/82343</link>
             <guid>https://www.elle.co.kr/article/82343</guid>
             <pubDate>Thu, 23 Nov 2023 11:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[서울 여자의 립스틱 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/82100</link>
-            <guid>https://www.elle.co.kr/article/82100</guid>
-            <pubDate>Sun, 26 Nov 2023 15:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[서울 여자의 일상 속 언제나 함께하는 3CE 블러 매트 립스틱.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정우성이 13년 전 판권 산 드라마에 더 스케일 커진 ‘스홈2’까지! 12월 첫 주 #신작이OnAir (엘르 코리아 ─ 스타)]]></title>
@@ -1329,6 +1329,12 @@
             <pubDate>Wed, 22 Nov 2023 06:17:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[다시는 예·적금을 무시하지 말라_돈쓸신잡 #125 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82354</link>
+            <guid>https://www.elle.co.kr/article/82354</guid>
+            <pubDate>Sun, 03 Dec 2023 15:12:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스] 의도적인 접점이 필요할 때 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82230</link>
             <guid>https://www.elle.co.kr/article/82230</guid>
@@ -1374,13 +1380,6 @@
             <guid>https://www.elle.co.kr/article/82022</guid>
             <pubDate>Thu, 16 Nov 2023 10:14:33 GMT</pubDate>
             <content:encoded><![CDATA[성수동1가 683번지를 44년간 지켰던 삼표레미콘이 성수동을 떠났다. 개발이 잠시 유예된 찰나를 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 30년 전, <엘르>를 읽던 엄마가 사라졌다. (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/81879</link>
-            <guid>https://www.elle.co.kr/article/81879</guid>
-            <pubDate>Tue, 14 Nov 2023 03:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[엄마와 나, 어쩌면 조카까지? 비혼세 작가와 엘르의 애틋한 인연]]></content:encoded>
         </item>
     </channel>
 </rss>
