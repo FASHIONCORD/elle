@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 03:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 04:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1314,6 +1314,7 @@
             <guid>https://www.elle.co.kr/article/82402</guid>
             <pubDate>Tue, 28 Nov 2023 10:14:32 GMT</pubDate>
             <content:encoded><![CDATA[감동적인 퍼포먼스를 보여주는 티 오마카세부터 평생 사용할 도구를 판매하는 숍까지, ‘차’를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/29/c14c0ec5-d20e-4b99-9bde-87db9b27ab00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재방문을 부르는 화덕피자부터 추억의 맛까지! 모델 오지영이 애정하는 서울 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1321,12 +1322,14 @@
             <guid>https://www.elle.co.kr/article/82376</guid>
             <pubDate>Mon, 27 Nov 2023 05:13:30 GMT</pubDate>
             <content:encoded><![CDATA[해외에서 생활하는 모델 오지영이 한국에 방문할 때마다 잊지 않고 방문하는 서울 맛집 리스트를...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/24/7ca35e41-6b27-4488-ab46-c22a0e533a6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['나 홀로 집에' 케빈의 집처럼 사랑스러운 미아 모텐슨의 덴마크 하우스 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/82310</link>
             <guid>https://www.elle.co.kr/article/82310</guid>
             <pubDate>Wed, 22 Nov 2023 06:17:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/22/65718d3f-baca-4c48-908f-48413d3f4f18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 의도적인 접점이 필요할 때 (엘르 코리아 ─ 소사이어티)]]></title>
