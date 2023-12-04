@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 08:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 09:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -981,6 +981,12 @@
             <pubDate>Thu, 30 Nov 2023 06:16:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[일본 가나가와 현 15평 아파트에 사는 카호의 집 풍경 #홈터뷰 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/82621</link>
+            <guid>https://www.elle.co.kr/article/82621</guid>
+            <pubDate>Thu, 30 Nov 2023 15:12:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[올해의 작가상 2023: 4인 4색 예술세계 #요즘전시 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/82619</link>
             <guid>https://www.elle.co.kr/article/82619</guid>
@@ -1022,13 +1028,6 @@
             <guid>https://www.elle.co.kr/article/82445</guid>
             <pubDate>Tue, 28 Nov 2023 00:56:05 GMT</pubDate>
             <content:encoded><![CDATA[가구 디자이너 윤순의 시선이 향한 곳.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엘르 데코의 거실로 놀러와! (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/82457</link>
-            <guid>https://www.elle.co.kr/article/82457</guid>
-            <pubDate>Mon, 27 Nov 2023 15:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[이상하고도 아름다운 리빙룸으로의 초대.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[눈물 어린 세븐틴 승관의 '2023 마마 어워즈' 대상 수상 소감 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1196,6 +1195,13 @@
             <pubDate>Fri, 17 Nov 2023 13:16:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[런던 아이보다 크다! 서울 상암동에 상륙하는 초대형 대관람차 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/82689</link>
+            <guid>https://www.elle.co.kr/article/82689</guid>
+            <pubDate>Mon, 04 Dec 2023 09:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[모노레일까지 생긴다고?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[에디 슬리먼이 사랑한 뉴욕 미술계의 별은? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82625</link>
             <guid>https://www.elle.co.kr/article/82625</guid>
@@ -1276,11 +1282,10 @@
             <content:encoded><![CDATA[사랑과 경애, 존중의 마음을 담아. 나의 소중한 동물 친구들을 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[동화가 살아 숨 쉬는 편집 숍, 세실 앤 세드릭 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/81870</link>
-            <guid>https://www.elle.co.kr/article/81870</guid>
-            <pubDate>Tue, 21 Nov 2023 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[빈티지 컬렉터 세실, 가드닝과 캠핑을 좋아하는 세드릭. 상상 속 커플이 함께 숍을 차린 공간.]]></content:encoded>
+            <title><![CDATA[올해의 작가상 2023: 4인 4색 예술세계 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/82619</link>
+            <guid>https://www.elle.co.kr/article/82619</guid>
+            <pubDate>Thu, 30 Nov 2023 15:12:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[춥고 건조한 날씨, 피로 해소하기 좋은 국내 온천 명소 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1327,12 +1332,6 @@
             <guid>https://www.elle.co.kr/article/82376</guid>
             <pubDate>Mon, 27 Nov 2023 05:13:30 GMT</pubDate>
             <content:encoded><![CDATA[해외에서 생활하는 모델 오지영이 한국에 방문할 때마다 잊지 않고 방문하는 서울 맛집 리스트를...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['나 홀로 집에' 케빈의 집처럼 사랑스러운 미아 모텐슨의 덴마크 하우스 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/82310</link>
-            <guid>https://www.elle.co.kr/article/82310</guid>
-            <pubDate>Wed, 22 Nov 2023 06:17:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[다시는 예·적금을 무시하지 말라_돈쓸신잡 #125 (엘르 코리아 ─ 소사이어티)]]></title>
