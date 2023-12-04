@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 09:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 10:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1200,6 +1200,7 @@
             <guid>https://www.elle.co.kr/article/82689</guid>
             <pubDate>Mon, 04 Dec 2023 09:15:21 GMT</pubDate>
             <content:encoded><![CDATA[모노레일까지 생긴다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/04/bbbfd9e3-c79e-42cd-8566-f09402cb5961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에디 슬리먼이 사랑한 뉴욕 미술계의 별은? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1207,18 +1208,21 @@
             <guid>https://www.elle.co.kr/article/82625</guid>
             <pubDate>Fri, 01 Dec 2023 02:03:51 GMT</pubDate>
             <content:encoded><![CDATA[플래그십 스토어에도 그를 위한 공간을 만들었다고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/01/4a1b1764-3fae-47bd-90a6-f8a933828faa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 가나가와 현 15평 아파트에 사는 카호의 집 풍경 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82621</link>
             <guid>https://www.elle.co.kr/article/82621</guid>
             <pubDate>Thu, 30 Nov 2023 15:12:48 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/30/f721e0aa-b8dc-4e9b-b3fa-1106a51c10d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해의 작가상 2023: 4인 4색 예술세계 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82619</link>
             <guid>https://www.elle.co.kr/article/82619</guid>
             <pubDate>Thu, 30 Nov 2023 15:12:48 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/03/d5dd6b3b-3124-46f4-8295-567e800a7688.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예술이 '살아 있는' 거실, <데코 데코: 리빙룸 아케이드> (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
