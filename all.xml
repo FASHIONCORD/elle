@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 16:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 17:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1119,12 +1119,14 @@
             <link>https://www.elle.co.kr/article/82691</link>
             <guid>https://www.elle.co.kr/article/82691</guid>
             <pubDate>Mon, 04 Dec 2023 11:12:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/17fb9866-2237-49b1-a14b-0f34a079eef1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스로 간 '약한 영웅' 시즌2 출연진.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/82690</link>
             <guid>https://www.elle.co.kr/article/82690</guid>
             <pubDate>Mon, 04 Dec 2023 11:12:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/04/a0a73d4b-e1e4-4038-adf1-c7bcc002edd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['나 홀로 집에' 케빈, 30년 만에 엄마와 눈물의 재회? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1132,12 +1134,14 @@
             <guid>https://www.elle.co.kr/article/82659</guid>
             <pubDate>Sun, 03 Dec 2023 14:10:49 GMT</pubDate>
             <content:encoded><![CDATA[두 사람의 만남이 더욱 특별한 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/04/fbc461f4-471f-4e7f-a283-97c6b5855060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정우성이 13년 전 판권 산 드라마에 더 스케일 커진 ‘스홈2’까지! 12월 첫 주 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/82635</link>
             <guid>https://www.elle.co.kr/article/82635</guid>
             <pubDate>Fri, 01 Dec 2023 05:13:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/01/c589a003-48c9-4fbf-b0c1-0a73a6834d0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[37kg 독한 감량에 '환승연애' 등장까지? 2024년에 처음 볼 박민영 변신.jpg (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1320,21 +1324,18 @@
             <link>https://www.elle.co.kr/article/82509</link>
             <guid>https://www.elle.co.kr/article/82509</guid>
             <pubDate>Sat, 02 Dec 2023 17:26:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/28/7fed8088-00a2-4f75-8562-75a6879a79b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[치즈 덕후가 바르셀로나에서 천국을 발견한 사연은? 작가 김민철의 #취향일지도 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/82439</link>
             <guid>https://www.elle.co.kr/article/82439</guid>
             <pubDate>Fri, 01 Dec 2023 09:13:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/29ffa5f8-1751-488f-96c4-79c08d1d64f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찬바람 불고 군고구마 생각날 때 딱 좋은 겨울철 디저트 카페 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/82422</link>
             <guid>https://www.elle.co.kr/article/82422</guid>
             <pubDate>Thu, 30 Nov 2023 19:10:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/26/da1b655a-e751-4c53-bb73-7222d23d6c1a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 다정한 내 친구들에게 (엘르 코리아 ─ 소사이어티)]]></title>
