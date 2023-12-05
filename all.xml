@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 10:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 11:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -983,6 +983,13 @@
             <content:encoded><![CDATA[조금 돌아가더라도 언젠가 목적지에 도착할 것이라는 확신을 갖고 고윤정은 나아간다. 자신에게 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['나 홀로 집에' 케빈, 30년 만에 엄마와 눈물의 재회? (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/82659</link>
+            <guid>https://www.elle.co.kr/article/82659</guid>
+            <pubDate>Sun, 03 Dec 2023 14:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[두 사람의 만남이 더욱 특별한 이유.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[부러움에 솔직하고 완벽하게 지는 법 #여자읽는여자 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/82657</link>
             <guid>https://www.elle.co.kr/article/82657</guid>
@@ -1024,12 +1031,6 @@
             <link>https://www.elle.co.kr/article/82593</link>
             <guid>https://www.elle.co.kr/article/82593</guid>
             <pubDate>Thu, 30 Nov 2023 06:16:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[또 MAMA 같이 나온 11년차 공개 연인 수영X정경호.jpg (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/82577</link>
-            <guid>https://www.elle.co.kr/article/82577</guid>
-            <pubDate>Thu, 30 Nov 2023 02:26:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[진짜 '뉴스룸' 뜬 노엘 갤러거, '여권 훔치겠다'는 팬 보고 든 생각.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1197,6 +1198,13 @@
             <pubDate>Thu, 23 Nov 2023 11:11:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[인류를 덮친 기후 위기, 샤넬 컬처 펀드와 리움미술관의 ‘아이디어 뮤지엄’에서 답을 모색하다 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/82734</link>
+            <guid>https://www.elle.co.kr/article/82734</guid>
+            <pubDate>Tue, 05 Dec 2023 11:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[생태적 전환, 그러면 무엇을 알아야 할까?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[런던 아이보다 크다! 서울 상암동에 상륙하는 초대형 대관람차 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82689</link>
             <guid>https://www.elle.co.kr/article/82689</guid>
@@ -1277,11 +1285,11 @@
             <pubDate>Wed, 22 Nov 2023 06:17:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[나의 소중한 동물 친구들 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/82142</link>
-            <guid>https://www.elle.co.kr/article/82142</guid>
-            <pubDate>Tue, 21 Nov 2023 15:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[사랑과 경애, 존중의 마음을 담아. 나의 소중한 동물 친구들을 소개합니다.]]></content:encoded>
+            <title><![CDATA[겨울 한정 음료부터 스테디 간식까지! 편의점에서 행복 찾기 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/82649</link>
+            <guid>https://www.elle.co.kr/article/82649</guid>
+            <pubDate>Tue, 05 Dec 2023 11:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[생필품은 물론 동시대적이고 합리적인 디저트 메뉴까지 갖춘 일본의 편의점, 연말에 일본 여행을...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[감각적인 테이블 웨어부터 해외에서 공수한 공예품까지! 김나영의 서촌 인테리어 소품숍 투어 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1328,11 +1336,10 @@
             <content:encoded><![CDATA[텐트 안에 거실과 침실이? 없는 게 없는 프로 캠퍼 김숙의 새로운 겨울 보금자리를 공개합니다...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[노아부터 탬버린즈까지! 서울에 새롭게 문을 연 플래그십 스토어 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/82419</link>
-            <guid>https://www.elle.co.kr/article/82419</guid>
-            <pubDate>Tue, 28 Nov 2023 00:55:04 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕의 럭셔리한 휴양지를 본뜬 이곳은 어디?]]></content:encoded>
+            <title><![CDATA[[엘르보이스] 다정한 내 친구들에게 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82446</link>
+            <guid>https://www.elle.co.kr/article/82446</guid>
+            <pubDate>Tue, 05 Dec 2023 11:12:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dear my blue (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1379,13 +1386,6 @@
             <guid>https://www.elle.co.kr/article/81880</guid>
             <pubDate>Thu, 23 Nov 2023 05:12:59 GMT</pubDate>
             <content:encoded><![CDATA[우리가 계속계속계속 말해야 하는 이유]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[옷에 붙이는 스마트폰이 등장했다? (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82064</link>
-            <guid>https://www.elle.co.kr/article/82064</guid>
-            <pubDate>Sun, 12 Nov 2023 18:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[코페르니 런웨이에도 등장한 바로 그 기계.]]></content:encoded>
         </item>
     </channel>
 </rss>
