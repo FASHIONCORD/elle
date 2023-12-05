@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 06:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 07:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -931,6 +931,12 @@
             <content:encoded><![CDATA[심플하게만 느껴졌던 '화이트'의 색다른 변신.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[진짜 '뉴스룸' 뜬 노엘 갤러거, '여권 훔치겠다'는 팬 보고 든 생각.txt (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/82692</link>
+            <guid>https://www.elle.co.kr/article/82692</guid>
+            <pubDate>Mon, 04 Dec 2023 11:11:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[꽉 닫힌 해피엔딩, '무인도의 디바' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/82691</link>
             <guid>https://www.elle.co.kr/article/82691</guid>
@@ -974,13 +980,6 @@
             <guid>https://www.elle.co.kr/article/82598</guid>
             <pubDate>Mon, 04 Dec 2023 11:11:40 GMT</pubDate>
             <content:encoded><![CDATA[조금 돌아가더라도 언젠가 목적지에 도착할 것이라는 확신을 갖고 고윤정은 나아간다. 자신에게 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서로가 서로를 구원 할 <마이데몬> 의 두 사람, 김유정과 송강 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/82616</link>
-            <guid>https://www.elle.co.kr/article/82616</guid>
-            <pubDate>Mon, 04 Dec 2023 02:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[서로의 죄까지 껴안기로 결심한 연인을 막을 수 있는 건 이 세상에 없다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부러움에 솔직하고 완벽하게 지는 법 #여자읽는여자 (엘르 코리아 ─ 컬쳐)]]></title>
