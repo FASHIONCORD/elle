@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 15:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 16:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1320,18 +1320,21 @@
             <link>https://www.elle.co.kr/article/82509</link>
             <guid>https://www.elle.co.kr/article/82509</guid>
             <pubDate>Sat, 02 Dec 2023 17:26:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/28/7fed8088-00a2-4f75-8562-75a6879a79b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[치즈 덕후가 바르셀로나에서 천국을 발견한 사연은? 작가 김민철의 #취향일지도 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/82439</link>
             <guid>https://www.elle.co.kr/article/82439</guid>
             <pubDate>Fri, 01 Dec 2023 09:13:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/29ffa5f8-1751-488f-96c4-79c08d1d64f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찬바람 불고 군고구마 생각날 때 딱 좋은 겨울철 디저트 카페 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/82422</link>
             <guid>https://www.elle.co.kr/article/82422</guid>
             <pubDate>Thu, 30 Nov 2023 19:10:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/26/da1b655a-e751-4c53-bb73-7222d23d6c1a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 다정한 내 친구들에게 (엘르 코리아 ─ 소사이어티)]]></title>
