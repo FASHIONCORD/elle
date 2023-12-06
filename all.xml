@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 01:57:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 02:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1285,6 +1285,13 @@
             <pubDate>Wed, 22 Nov 2023 06:17:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[런던 아이보다 크다! 서울 상암동에 상륙하는 초대형 대관람차 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/82689</link>
+            <guid>https://www.elle.co.kr/article/82689</guid>
+            <pubDate>Mon, 04 Dec 2023 09:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[모노레일까지 생긴다고?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쫄깃한 식감에 씹을수록 고소한 맛! 제철 맞은 겨울 방어 전국 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/82655</link>
             <guid>https://www.elle.co.kr/article/82655</guid>
@@ -1327,12 +1334,6 @@
             <link>https://www.elle.co.kr/article/82439</link>
             <guid>https://www.elle.co.kr/article/82439</guid>
             <pubDate>Fri, 01 Dec 2023 09:13:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[찬바람 불고 군고구마 생각날 때 딱 좋은 겨울철 디저트 카페 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/82422</link>
-            <guid>https://www.elle.co.kr/article/82422</guid>
-            <pubDate>Thu, 30 Nov 2023 19:10:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 다정한 내 친구들에게 (엘르 코리아 ─ 소사이어티)]]></title>
