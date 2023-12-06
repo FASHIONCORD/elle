@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 14:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 15:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1339,6 +1339,12 @@
             <pubDate>Sat, 02 Dec 2023 17:26:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[국밥 1만 원 시대, 건강하게 식비 아끼는 법_돈쓸신잡 #126 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82622</link>
+            <guid>https://www.elle.co.kr/article/82622</guid>
+            <pubDate>Wed, 06 Dec 2023 15:14:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스] 다정한 내 친구들에게 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82446</link>
             <guid>https://www.elle.co.kr/article/82446</guid>
@@ -1382,13 +1388,6 @@
             <guid>https://www.elle.co.kr/article/82089</guid>
             <pubDate>Mon, 27 Nov 2023 04:16:36 GMT</pubDate>
             <content:encoded><![CDATA[말벗이 돼주고 일과를 챙기는 반려 로봇 '효순이'가 인간의 삶에 스며든 장면.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 틀림없는 내 편 만들기 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/81880</link>
-            <guid>https://www.elle.co.kr/article/81880</guid>
-            <pubDate>Thu, 23 Nov 2023 05:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 계속계속계속 말해야 하는 이유]]></content:encoded>
         </item>
     </channel>
 </rss>
