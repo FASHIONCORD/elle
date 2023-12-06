@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 06:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 07:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1286,6 +1286,13 @@
             <pubDate>Wed, 22 Nov 2023 06:17:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[여행자가 자연을 껴안는 방법, 아만풀로에서 보낸 일주일 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/82717</link>
+            <guid>https://www.elle.co.kr/article/82717</guid>
+            <pubDate>Wed, 06 Dec 2023 07:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[바다와 하늘, 생명과의 조우로 충만했던 필리핀 '아만풀로(Amanpulo)']]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[런던 아이보다 크다! 서울 상암동에 상륙하는 초대형 대관람차 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/82689</link>
             <guid>https://www.elle.co.kr/article/82689</guid>
@@ -1329,12 +1336,6 @@
             <link>https://www.elle.co.kr/article/82509</link>
             <guid>https://www.elle.co.kr/article/82509</guid>
             <pubDate>Sat, 02 Dec 2023 17:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[치즈 덕후가 바르셀로나에서 천국을 발견한 사연은? 작가 김민철의 #취향일지도 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/82439</link>
-            <guid>https://www.elle.co.kr/article/82439</guid>
-            <pubDate>Fri, 01 Dec 2023 09:13:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 다정한 내 친구들에게 (엘르 코리아 ─ 소사이어티)]]></title>
