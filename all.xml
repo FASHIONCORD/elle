@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 19:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 20:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1381,6 +1381,7 @@
             <link>https://www.elle.co.kr/article/82098</link>
             <guid>https://www.elle.co.kr/article/82098</guid>
             <pubDate>Tue, 28 Nov 2023 00:56:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/f140afa6-0dca-4149-8253-48a637cdf15e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인간의 삶에 스며든 반려 로봇 '효순이' (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1388,6 +1389,7 @@
             <guid>https://www.elle.co.kr/article/82089</guid>
             <pubDate>Mon, 27 Nov 2023 04:16:36 GMT</pubDate>
             <content:encoded><![CDATA[말벗이 돼주고 일과를 챙기는 반려 로봇 '효순이'가 인간의 삶에 스며든 장면.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/ccc4f74f-1266-4eca-908a-40eaa9b8a464.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
