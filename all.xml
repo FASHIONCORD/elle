@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 02:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 03:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -933,6 +933,13 @@
             <content:encoded><![CDATA[자크뮈스 최초의 키즈 컬렉션부터 아기를 위한 디올의 스킨케어 컬렉션까지.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[<홈그라운드> 권아람 감독의 세계 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/82637</link>
+            <guid>https://www.elle.co.kr/article/82637</guid>
+            <pubDate>Wed, 06 Dec 2023 03:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[권아람 감독은 다큐멘터리 &lt;홈그라운드&gt;로 숨겨진 공간을 세상 밖으로 꺼냈다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[세 아이 부모, 최민환과 율희가 5년 만에 이혼했다 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/82693</link>
             <guid>https://www.elle.co.kr/article/82693</guid>
@@ -974,13 +981,6 @@
             <link>https://www.elle.co.kr/article/82656</link>
             <guid>https://www.elle.co.kr/article/82656</guid>
             <pubDate>Mon, 04 Dec 2023 11:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[있지 채령의 쿨한 시선 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/82632</link>
-            <guid>https://www.elle.co.kr/article/82632</guid>
-            <pubDate>Mon, 04 Dec 2023 11:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[새로이 발견한 있지 채령의 서늘한 매력.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['나 홀로 집에' 케빈, 30년 만에 엄마와 눈물의 재회? (엘르 코리아 ─ 컬쳐)]]></title>
