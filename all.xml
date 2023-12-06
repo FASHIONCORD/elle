@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 16:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 17:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1122,18 +1122,21 @@
             <link>https://www.elle.co.kr/article/82784</link>
             <guid>https://www.elle.co.kr/article/82784</guid>
             <pubDate>Wed, 06 Dec 2023 11:11:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/b2ad8754-b6b7-4dfa-870a-1125bd1e4b06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽉 닫힌 해피엔딩, '무인도의 디바' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/82691</link>
             <guid>https://www.elle.co.kr/article/82691</guid>
             <pubDate>Mon, 04 Dec 2023 11:12:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/17fb9866-2237-49b1-a14b-0f34a079eef1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스로 간 '약한 영웅' 시즌2 출연진.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/82690</link>
             <guid>https://www.elle.co.kr/article/82690</guid>
             <pubDate>Mon, 04 Dec 2023 11:12:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/04/a0a73d4b-e1e4-4038-adf1-c7bcc002edd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['나 홀로 집에' 케빈, 30년 만에 엄마와 눈물의 재회? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1141,6 +1144,7 @@
             <guid>https://www.elle.co.kr/article/82659</guid>
             <pubDate>Sun, 03 Dec 2023 14:10:49 GMT</pubDate>
             <content:encoded><![CDATA[두 사람의 만남이 더욱 특별한 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/04/fbc461f4-471f-4e7f-a283-97c6b5855060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정우성이 13년 전 판권 산 드라마에 더 스케일 커진 ‘스홈2’까지! 12월 첫 주 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
