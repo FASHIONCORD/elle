@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-06T09:14:27.157Z</updated>
+    <updated>2023-12-06T10:14:28.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고백담 밝힌 전종서 X 결혼할 사람 있다는 이장우! 공개 연인 언급한 스타 2]]></title>
+        <id>https://www.elle.co.kr/article/82714</id>
+        <link href="https://www.elle.co.kr/article/82714"/>
+        <updated>2023-12-06T10:13:35.776Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<홈그라운드> 권아람 감독의 세계]]></title>
         <id>https://www.elle.co.kr/article/82637</id>
@@ -48,11 +54,5 @@
         <link href="https://www.elle.co.kr/article/82659"/>
         <updated>2023-12-04T12:22:43.946Z</updated>
         <content type="html"><![CDATA[두 사람의 만남이 더욱 특별한 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지하철 타고 방 탈출까지? 지연X황재균의 꿀 떨어지는 일상 데이트]]></title>
-        <id>https://www.elle.co.kr/article/82656</id>
-        <link href="https://www.elle.co.kr/article/82656"/>
-        <updated>2023-12-04T11:11:40.549Z</updated>
     </entry>
 </feed>
