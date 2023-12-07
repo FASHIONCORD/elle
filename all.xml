@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 09:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 10:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -882,6 +882,13 @@
             <content:encoded><![CDATA[플래그십 스토어에도 그를 위한 공간을 만들었다고.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[단 10분 만에 분위기 변신! 유인영의 초스피드 메이크업 HOW TO (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/82663</link>
+            <guid>https://www.elle.co.kr/article/82663</guid>
+            <pubDate>Thu, 07 Dec 2023 10:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[피부 표현은 자연스럽게, 립 메이크업은 강렬하게! 유인영을 따라 도회적인 분위기 연출해 보세요...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[신상 아이섀도 탐구 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/82596</link>
             <guid>https://www.elle.co.kr/article/82596</guid>
@@ -929,11 +936,16 @@
             <pubDate>Thu, 30 Nov 2023 07:12:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[나도 도전해 볼까? 단발병 유발하는 셀러브리티 5 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/82427</link>
-            <guid>https://www.elle.co.kr/article/82427</guid>
-            <pubDate>Thu, 30 Nov 2023 14:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[아이브 안유진부터 (여자)아이들 우기, 윤은혜 등 단발머리 뽐뿌 제대로 불러일으키는 스타들의 ...]]></content:encoded>
+            <title><![CDATA['서울의 봄' 촬영지, 정우성도 인증샷 찍은 이곳! (ft.500만 돌파) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/82784</link>
+            <guid>https://www.elle.co.kr/article/82784</guid>
+            <pubDate>Wed, 06 Dec 2023 11:11:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[모델 중의 모델, 이소라가 20년 넘게 변치 않는 체형 유지하는 방법 #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/82783</link>
+            <guid>https://www.elle.co.kr/article/82783</guid>
+            <pubDate>Thu, 07 Dec 2023 10:13:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[특명: 소진을 속여라! 걸스데이가 준비한 깜짝 브라이덜 샤워 현장.jpg (엘르 코리아 ─ 스타)]]></title>
@@ -971,18 +983,6 @@
             <guid>https://www.elle.co.kr/article/82637</guid>
             <pubDate>Wed, 06 Dec 2023 03:13:28 GMT</pubDate>
             <content:encoded><![CDATA[권아람 감독은 다큐멘터리 &lt;홈그라운드&gt;로 숨겨진 공간을 세상 밖으로 꺼냈다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세 아이 부모, 최민환과 율희가 5년 만에 이혼했다 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/82693</link>
-            <guid>https://www.elle.co.kr/article/82693</guid>
-            <pubDate>Tue, 05 Dec 2023 13:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[진짜 '뉴스룸' 뜬 노엘 갤러거, '여권 훔치겠다'는 팬 보고 든 생각.txt (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/82692</link>
-            <guid>https://www.elle.co.kr/article/82692</guid>
-            <pubDate>Mon, 04 Dec 2023 11:11:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[런던 아이보다 크다! 서울 상암동에 상륙하는 초대형 대관람차 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1206,7 +1206,6 @@
             <guid>https://www.elle.co.kr/article/82734</guid>
             <pubDate>Tue, 05 Dec 2023 11:11:47 GMT</pubDate>
             <content:encoded><![CDATA[생태적 전환, 그러면 무엇을 알아야 할까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/68f425a1-3dec-472a-8590-4214a87e90a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[런던 아이보다 크다! 서울 상암동에 상륙하는 초대형 대관람차 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1214,7 +1213,6 @@
             <guid>https://www.elle.co.kr/article/82689</guid>
             <pubDate>Mon, 04 Dec 2023 09:15:21 GMT</pubDate>
             <content:encoded><![CDATA[모노레일까지 생긴다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/bbbfd9e3-c79e-42cd-8566-f09402cb5961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에디 슬리먼이 사랑한 뉴욕 미술계의 별은? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1222,14 +1220,12 @@
             <guid>https://www.elle.co.kr/article/82625</guid>
             <pubDate>Fri, 01 Dec 2023 02:03:51 GMT</pubDate>
             <content:encoded><![CDATA[플래그십 스토어에도 그를 위한 공간을 만들었다고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/4a1b1764-3fae-47bd-90a6-f8a933828faa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 가나가와 현 15평 아파트에 사는 카호의 집 풍경 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82621</link>
             <guid>https://www.elle.co.kr/article/82621</guid>
             <pubDate>Thu, 30 Nov 2023 15:12:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/30/f721e0aa-b8dc-4e9b-b3fa-1106a51c10d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해의 작가상 2023: 4인 4색 예술세계 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
