@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 13:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 14:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1013,6 +1013,7 @@
             <link>https://www.elle.co.kr/article/82690</link>
             <guid>https://www.elle.co.kr/article/82690</guid>
             <pubDate>Mon, 04 Dec 2023 11:12:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/04/a0a73d4b-e1e4-4038-adf1-c7bcc002edd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[런던 아이보다 크다! 서울 상암동에 상륙하는 초대형 대관람차 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1020,6 +1021,7 @@
             <guid>https://www.elle.co.kr/article/82689</guid>
             <pubDate>Mon, 04 Dec 2023 09:15:21 GMT</pubDate>
             <content:encoded><![CDATA[모노레일까지 생긴다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/bbbfd9e3-c79e-42cd-8566-f09402cb5961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['나 홀로 집에' 케빈, 30년 만에 엄마와 눈물의 재회? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1027,18 +1029,21 @@
             <guid>https://www.elle.co.kr/article/82659</guid>
             <pubDate>Sun, 03 Dec 2023 14:10:49 GMT</pubDate>
             <content:encoded><![CDATA[두 사람의 만남이 더욱 특별한 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/04/fbc461f4-471f-4e7f-a283-97c6b5855060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부러움에 솔직하고 완벽하게 지는 법 #여자읽는여자 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/82657</link>
             <guid>https://www.elle.co.kr/article/82657</guid>
             <pubDate>Mon, 04 Dec 2023 11:11:48 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/b0be43ca-54e5-4435-b48c-7f3d909a6905.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정우성이 13년 전 판권 산 드라마에 더 스케일 커진 ‘스홈2’까지! 12월 첫 주 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/82635</link>
             <guid>https://www.elle.co.kr/article/82635</guid>
             <pubDate>Fri, 01 Dec 2023 05:13:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/01/c589a003-48c9-4fbf-b0c1-0a73a6834d0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 '뉴스룸' 뜬 노엘 갤러거, '여권 훔치겠다'는 팬 보고 든 생각.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
