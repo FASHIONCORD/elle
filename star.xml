@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-08T02:27:49.788Z</updated>
+    <updated>2023-12-08T03:14:58.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국, 입대 앞두고 달라진 헤어스타일 공개하며 던진 농담.txt]]></title>
+        <id>https://www.elle.co.kr/article/82816</id>
+        <link href="https://www.elle.co.kr/article/82816"/>
+        <updated>2023-12-08T03:13:25.880Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데뷔 이래 가장 짧은 머리한 뷔, 입대 전 마지막 스케줄은 아이유와?]]></title>
         <id>https://www.elle.co.kr/article/82792</id>
@@ -48,11 +54,5 @@
         <id>https://www.elle.co.kr/article/82737</id>
         <link href="https://www.elle.co.kr/article/82737"/>
         <updated>2023-12-07T00:54:37.432Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미노이의 애장템에 '킹받는' 이름을 붙여본다면?]]></title>
-        <id>https://www.elle.co.kr/article/82721</id>
-        <link href="https://www.elle.co.kr/article/82721"/>
-        <updated>2023-12-06T19:10:41.466Z</updated>
     </entry>
 </feed>
