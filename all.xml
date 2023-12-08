@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 16:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 17:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -883,6 +883,13 @@
             <content:encoded><![CDATA[발끝까지 따뜻한 겨울을 위해! 스타들의 방한 부츠 패션부터 쇼핑 리스트까지 한번에 모았습니다...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[윈터의 새 헤어 컬러는? 요즘 눈에 띄는 #레드 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/82697</link>
+            <guid>https://www.elle.co.kr/article/82697</guid>
+            <pubDate>Thu, 07 Dec 2023 00:54:18 GMT</pubDate>
+            <content:encoded><![CDATA[빨간 머리에서 뿜어져 나오는 화려함과 에너지를 느껴보시길!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[단 10분 만에 분위기 변신! 유인영의 초스피드 메이크업 HOW TO (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/82663</link>
             <guid>https://www.elle.co.kr/article/82663</guid>
@@ -929,14 +936,6 @@
             <guid>https://www.elle.co.kr/article/82525</guid>
             <pubDate>Sun, 03 Dec 2023 15:11:37 GMT</pubDate>
             <content:encoded><![CDATA[새하얀 눈이 내리는 마법 같은 순간, 춥지만 겨울이 주는 포근한 분위기.... 12월의 뷰티 신상...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/b791d088-6ab7-4bf4-92f4-8578e41c1dfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20kg 뺀 유지어터, 선명한 근육 뽐내는 조여정의 관리법 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/82556</link>
-            <guid>https://www.elle.co.kr/article/82556</guid>
-            <pubDate>Thu, 30 Nov 2023 07:12:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/29/5f76872f-1aa3-4e9b-816d-2399610a3b26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마에스트라가 된 이영애가 지휘봉을 높게 들었다 (엘르 코리아 ─ 스타)]]></title>
