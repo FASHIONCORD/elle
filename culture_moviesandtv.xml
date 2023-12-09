@@ -1,88 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/moviesandtv</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-12-09T22:13:00.396Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[워터밤 여신 권은비의 배우 데뷔작 정보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/82859</id>
-        <link href="https://www.elle.co.kr/article/82859"/>
-        <updated>2023-12-08T12:22:57.527Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민X정우성 신경전 돋보인 장면을 여기서? '서울의 봄' 촬영지 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/82857</id>
-        <link href="https://www.elle.co.kr/article/82857"/>
-        <updated>2023-12-08T12:22:57.530Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목숨 건 마피아 게임과 보기만 해도 짠한 모녀 케미가 빛난 12월 2주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/82836</id>
-        <link href="https://www.elle.co.kr/article/82836"/>
-        <updated>2023-12-08T03:14:01.702Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 촬영지, 정우성도 인증샷 찍은 이곳! (ft.500만 돌파)]]></title>
-        <id>https://www.elle.co.kr/article/82784</id>
-        <link href="https://www.elle.co.kr/article/82784"/>
-        <updated>2023-12-06T11:11:37.890Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽉 닫힌 해피엔딩, '무인도의 디바' 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/82691</id>
-        <link href="https://www.elle.co.kr/article/82691"/>
-        <updated>2023-12-04T11:12:19.940Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스로 간 '약한 영웅' 시즌2 출연진.list]]></title>
-        <id>https://www.elle.co.kr/article/82690</id>
-        <link href="https://www.elle.co.kr/article/82690"/>
-        <updated>2023-12-04T11:12:19.941Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나 홀로 집에' 케빈, 30년 만에 엄마와 눈물의 재회?]]></title>
-        <id>https://www.elle.co.kr/article/82659</id>
-        <link href="https://www.elle.co.kr/article/82659"/>
-        <updated>2023-12-03T14:10:49.749Z</updated>
-        <content type="html"><![CDATA[두 사람의 만남이 더욱 특별한 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성이 13년 전 판권 산 드라마에 더 스케일 커진 ‘스홈2’까지! 12월 첫 주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/82635</id>
-        <link href="https://www.elle.co.kr/article/82635"/>
-        <updated>2023-12-01T05:13:13.704Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[37kg 독한 감량에 '환승연애' 등장까지? 2024년에 처음 볼 박민영 변신.jpg]]></title>
-        <id>https://www.elle.co.kr/article/82554</id>
-        <link href="https://www.elle.co.kr/article/82554"/>
-        <updated>2023-11-29T08:16:53.354Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혹시... 다음 시즌 있나요? 자체 최고 시청률로 종영한 '강남순' 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/82455</id>
-        <link href="https://www.elle.co.kr/article/82455"/>
-        <updated>2023-11-27T12:24:00.658Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평단X대중 호평 다 잡고 단숨에 200만 관객 찍은'서울의 봄' 특별출연 스틸컷.jpg]]></title>
-        <id>https://www.elle.co.kr/article/82454</id>
-        <link href="https://www.elle.co.kr/article/82454"/>
-        <updated>2023-11-27T11:11:53.121Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 영화다운 이별, 김혜수의 마지막 청룡영화상 이야기 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/82453</id>
-        <link href="https://www.elle.co.kr/article/82453"/>
-        <updated>2023-11-27T11:11:53.121Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dear my blue]]></title>
-        <id>https://www.elle.co.kr/article/82435</id>
-        <link href="https://www.elle.co.kr/article/82435"/>
-        <updated>2023-11-27T04:16:08.404Z</updated>
-        <content type="html"><![CDATA[나의 서늘한 불안과 공포에게. &lt;나의 피투성이 연인&gt;의 감독 유지영은 끊임없이 질문을 던진다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 09 Dec 2023 23:13:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워터밤 여신 권은비의 배우 데뷔작 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/82859</link>
+            <guid>https://www.elle.co.kr/article/82859</guid>
+            <pubDate>Fri, 08 Dec 2023 12:22:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/49687a29-c639-4cb5-9847-e4a602c63dba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황정민X정우성 신경전 돋보인 장면을 여기서? '서울의 봄' 촬영지 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/82857</link>
+            <guid>https://www.elle.co.kr/article/82857</guid>
+            <pubDate>Fri, 08 Dec 2023 12:22:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/ee73bccd-6804-4571-a031-54c6e341e5b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[목숨 건 마피아 게임과 보기만 해도 짠한 모녀 케미가 빛난 12월 2주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/82836</link>
+            <guid>https://www.elle.co.kr/article/82836</guid>
+            <pubDate>Fri, 08 Dec 2023 03:14:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/afc9eb25-35c8-48b8-9fc6-cb699d9cb59d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['서울의 봄' 촬영지, 정우성도 인증샷 찍은 이곳! (ft.500만 돌파)]]></title>
+            <link>https://www.elle.co.kr/article/82784</link>
+            <guid>https://www.elle.co.kr/article/82784</guid>
+            <pubDate>Wed, 06 Dec 2023 11:11:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/b2ad8754-b6b7-4dfa-870a-1125bd1e4b06.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽉 닫힌 해피엔딩, '무인도의 디바' 명장면 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/82691</link>
+            <guid>https://www.elle.co.kr/article/82691</guid>
+            <pubDate>Mon, 04 Dec 2023 11:12:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스로 간 '약한 영웅' 시즌2 출연진.list]]></title>
+            <link>https://www.elle.co.kr/article/82690</link>
+            <guid>https://www.elle.co.kr/article/82690</guid>
+            <pubDate>Mon, 04 Dec 2023 11:12:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['나 홀로 집에' 케빈, 30년 만에 엄마와 눈물의 재회?]]></title>
+            <link>https://www.elle.co.kr/article/82659</link>
+            <guid>https://www.elle.co.kr/article/82659</guid>
+            <pubDate>Sun, 03 Dec 2023 14:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[두 사람의 만남이 더욱 특별한 이유.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정우성이 13년 전 판권 산 드라마에 더 스케일 커진 ‘스홈2’까지! 12월 첫 주 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/82635</link>
+            <guid>https://www.elle.co.kr/article/82635</guid>
+            <pubDate>Fri, 01 Dec 2023 05:13:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37kg 독한 감량에 '환승연애' 등장까지? 2024년에 처음 볼 박민영 변신.jpg]]></title>
+            <link>https://www.elle.co.kr/article/82554</link>
+            <guid>https://www.elle.co.kr/article/82554</guid>
+            <pubDate>Wed, 29 Nov 2023 08:16:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[혹시... 다음 시즌 있나요? 자체 최고 시청률로 종영한 '강남순' 명장면 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/82455</link>
+            <guid>https://www.elle.co.kr/article/82455</guid>
+            <pubDate>Mon, 27 Nov 2023 12:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[평단X대중 호평 다 잡고 단숨에 200만 관객 찍은'서울의 봄' 특별출연 스틸컷.jpg]]></title>
+            <link>https://www.elle.co.kr/article/82454</link>
+            <guid>https://www.elle.co.kr/article/82454</guid>
+            <pubDate>Mon, 27 Nov 2023 11:11:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[가장 영화다운 이별, 김혜수의 마지막 청룡영화상 이야기 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/82453</link>
+            <guid>https://www.elle.co.kr/article/82453</guid>
+            <pubDate>Mon, 27 Nov 2023 11:11:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dear my blue]]></title>
+            <link>https://www.elle.co.kr/article/82435</link>
+            <guid>https://www.elle.co.kr/article/82435</guid>
+            <pubDate>Mon, 27 Nov 2023 04:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[나의 서늘한 불안과 공포에게. &lt;나의 피투성이 연인&gt;의 감독 유지영은 끊임없이 질문을 던진다.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
