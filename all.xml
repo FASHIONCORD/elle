@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 07:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 08:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1210,6 +1210,7 @@
             <link>https://www.elle.co.kr/article/82844</link>
             <guid>https://www.elle.co.kr/article/82844</guid>
             <pubDate>Fri, 08 Dec 2023 07:12:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/1158d9e4-93b2-4ff1-b369-04a2376099d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인류를 덮친 기후 위기, 샤넬 컬처 펀드와 리움미술관의 ‘아이디어 뮤지엄’에서 답을 모색하다 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1217,6 +1218,7 @@
             <guid>https://www.elle.co.kr/article/82734</guid>
             <pubDate>Tue, 05 Dec 2023 11:11:47 GMT</pubDate>
             <content:encoded><![CDATA[생태적 전환, 그러면 무엇을 알아야 할까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/68f425a1-3dec-472a-8590-4214a87e90a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[런던 아이보다 크다! 서울 상암동에 상륙하는 초대형 대관람차 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1224,6 +1226,7 @@
             <guid>https://www.elle.co.kr/article/82689</guid>
             <pubDate>Mon, 04 Dec 2023 09:15:21 GMT</pubDate>
             <content:encoded><![CDATA[모노레일까지 생긴다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/bbbfd9e3-c79e-42cd-8566-f09402cb5961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에디 슬리먼이 사랑한 뉴욕 미술계의 별은? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1231,6 +1234,7 @@
             <guid>https://www.elle.co.kr/article/82625</guid>
             <pubDate>Fri, 01 Dec 2023 02:03:51 GMT</pubDate>
             <content:encoded><![CDATA[플래그십 스토어에도 그를 위한 공간을 만들었다고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/4a1b1764-3fae-47bd-90a6-f8a933828faa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 가나가와 현 15평 아파트에 사는 카호의 집 풍경 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
