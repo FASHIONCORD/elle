@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-10T22:12:11.319Z</updated>
+    <updated>2023-12-10T23:13:16.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타들이 네 컷으로 추억을 남기는 법 #포토부스 #즉석사진]]></title>
+        <id>https://www.elle.co.kr/article/82791</id>
+        <link href="https://www.elle.co.kr/article/82791"/>
+        <updated>2023-12-10T23:11:51.150Z</updated>
+        <content type="html"><![CDATA[친구들이랑 모이면 즉석 사진은 국룰! 올해 추억을 하나라도 더 남기고 싶다면 이렇게 찍어보세...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭닥폭닥해! 겨울이면 생각나는 터틀넥 스웨터 6]]></title>
         <id>https://www.elle.co.kr/article/82743</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/82658"/>
         <updated>2023-12-05T15:13:37.745Z</updated>
         <content type="html"><![CDATA[귀여운 심볼이 돋보이는 코위찬 카디건의 매력에 빠져보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고윤정의 재발견 #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/82598</id>
-        <link href="https://www.elle.co.kr/article/82598"/>
-        <updated>2023-12-05T06:16:03.028Z</updated>
-        <content type="html"><![CDATA[조금 돌아가더라도 언젠가 목적지에 도착할 것이라는 확신을 갖고 고윤정은 나아간다. 자신에게 ...]]></content>
     </entry>
 </feed>
