@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 18:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 19:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -883,6 +883,13 @@
             <content:encoded><![CDATA[조금 돌아가더라도 언젠가 목적지에 도착할 것이라는 확신을 갖고 고윤정은 나아간다. 자신에게 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2024 어드벤트 캘린더 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/82640</link>
+            <guid>https://www.elle.co.kr/article/82640</guid>
+            <pubDate>Sun, 10 Dec 2023 19:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[뷰티 브랜드의 베스트셀러를 다채롭게 경험할 수 있는 어드벤트 캘린더.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윈터의 새 헤어 컬러는? 요즘 눈에 띄는 #레드 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/82697</link>
             <guid>https://www.elle.co.kr/article/82697</guid>
@@ -929,13 +936,6 @@
             <guid>https://www.elle.co.kr/article/82567</guid>
             <pubDate>Sun, 03 Dec 2023 19:30:39 GMT</pubDate>
             <content:encoded><![CDATA[추운 겨울을 건강하게 보내기 위해 필요한 건 면역력! 이너뷰티에 진심인 채정안이 추천하는 8가...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱 무드 뿜뿜, 12월의 뷰티 신상! (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/82525</link>
-            <guid>https://www.elle.co.kr/article/82525</guid>
-            <pubDate>Sun, 03 Dec 2023 15:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[새하얀 눈이 내리는 마법 같은 순간, 춥지만 겨울이 주는 포근한 분위기.... 12월의 뷰티 신상...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해린이 피어나는 순간 #ELLE_D에디션 (엘르 코리아 ─ 스타)]]></title>
