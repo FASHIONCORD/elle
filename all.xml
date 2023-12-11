@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 15:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 16:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -831,6 +831,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해린이 피어나는 순간 #ELLE_D에디션 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/82828</link>
+            <guid>https://www.elle.co.kr/article/82828</guid>
+            <pubDate>Sat, 09 Dec 2023 19:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[피어나는 꽃, 그리고 그 꽃망울을 지키려 돋은 가시처럼. 순수하고 맑은 얼굴과 차가운 눈빛이 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[해린의 눈맞춤 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/82739</link>
             <guid>https://www.elle.co.kr/article/82739</guid>
@@ -877,13 +884,6 @@
             <guid>https://www.elle.co.kr/article/82672</guid>
             <pubDate>Wed, 06 Dec 2023 19:10:25 GMT</pubDate>
             <content:encoded><![CDATA[소중한 사람에게 주고 싶은 룰루레몬의 윈터 화이트 홀리데이 컬렉션.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 화려하게, 더 유쾌하게! (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82634</link>
-            <guid>https://www.elle.co.kr/article/82634</guid>
-            <pubDate>Tue, 05 Dec 2023 19:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[끊임없이 확장하는 부쉐론 하이 주얼리.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 어드벤트 캘린더 (엘르 코리아 ─ 뷰티)]]></title>
