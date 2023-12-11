@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-12-11T22:13:09.195Z</updated>
+    <updated>2023-12-11T23:14:08.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번에도 케미 대박! 이세영 사극 '계약결혼뎐' 인기 요인 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/82913</id>
+        <link href="https://www.elle.co.kr/article/82913"/>
+        <updated>2023-12-11T23:13:22.333Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워터밤 여신 권은비의 배우 데뷔작 정보 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/82859</id>
@@ -77,12 +83,5 @@
         <id>https://www.elle.co.kr/article/82453</id>
         <link href="https://www.elle.co.kr/article/82453"/>
         <updated>2023-11-27T11:11:53.121Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dear my blue]]></title>
-        <id>https://www.elle.co.kr/article/82435</id>
-        <link href="https://www.elle.co.kr/article/82435"/>
-        <updated>2023-11-27T04:16:08.404Z</updated>
-        <content type="html"><![CDATA[나의 서늘한 불안과 공포에게. &lt;나의 피투성이 연인&gt;의 감독 유지영은 끊임없이 질문을 던진다.]]></content>
     </entry>
 </feed>
