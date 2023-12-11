@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 07:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 08:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새하얀 눈밭 위에 피워낸 
+마르게리타의 반짝임]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37021495&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37021495&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 11 Dec 2023 08:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[챠밍함으로 완전 무장한 
 마르니의 겨울]]></title>
@@ -170,14 +179,6 @@
             <pubDate>Fri, 27 Oct 2023 09:11:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjdfMjYz/MDAxNjk4Mzk2NDY3MTMx.ZYtd34fDl53WTUbGjDw3ri83z18JKSf1jYTwt2u1VYsg.WW85UDaDymwvzl5VinTDK05a5-2ilJ5NYNi7a67_oiEg.JPEG/I-HGyPjlUTiUVwyaGBAIusaCrwxM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을이 가기 전에! 여자 트렌치코트 코디 5]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36766231&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36766231&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 23 Oct 2023 01:49:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjNfMTEg/MDAxNjk4MDI0Njc0MjU5.CDjpyJMU1FmGxPuXkeQWU-G471BCCP42dSsn4rj1FZUg.flyCH2bele-bGE6Q-Uo_CsfLthvfWlSHO9QtqwfgQX0g.JPEG/IYiP8pmxIOj4AMY_n5LURsKFow50.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
