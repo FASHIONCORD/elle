@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 05:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 06:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한겨울에도 끄덕없는 
+라부르켓 뷰티 리추얼]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37020189&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37020189&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 11 Dec 2023 06:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘리케이의 마법같은 
 타임 리버스 크림]]></title>
@@ -165,14 +174,6 @@
             <pubDate>Mon, 13 Mar 2023 02:37:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTNfMjk5/MDAxNjc4NjczNjI3OTIy.kXRC958DmnW88Z8fJUAFQJ6FaBKQfELvtind2DKnUTwg.5Lha3hZJWpJfXnt9AWA2y0c52vzOL2VEVNeqiXWhC6Yg.JPEG/I1AckAZ69JVkN8tkkmDgg1RFkKxY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남자사람 선물 어떻게 고르나요? 남자친구를 위한 밸런타인 선물 추천 5]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35336142&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35336142&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Fri, 03 Feb 2023 07:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDNfMTY0/MDAxNjc1NDA2NzQ0MTQy.fcvWJjVn9SA-iFVRen_yjA_Rprh9hYh-VEXNfKmCkFUg.-NSqlNTxokWTVRRls2kK601BXFBQ7NAYgHMhjDsRc3Ig.JPEG/IayvIe7qkn2jdJeBWt7WFEIGNM_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
