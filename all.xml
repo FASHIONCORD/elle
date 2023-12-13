@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 09:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 10:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -832,6 +832,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[막스 마라의 스톡홀름 여정 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/82910</link>
+            <guid>https://www.elle.co.kr/article/82910</guid>
+            <pubDate>Wed, 13 Dec 2023 10:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[스톡홀름에서 열린 막스 마라의 리조트 컬렉션은 동화 같은 미드소마 페스티벌과 낭만주의 건축양...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우리집 댕댕이를 위한 연말 선물? (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/82883</link>
             <guid>https://www.elle.co.kr/article/82883</guid>
@@ -879,13 +886,6 @@
             <guid>https://www.elle.co.kr/article/82791</guid>
             <pubDate>Thu, 07 Dec 2023 16:16:22 GMT</pubDate>
             <content:encoded><![CDATA[친구들이랑 모이면 즉석 사진은 국룰! 올해 추억을 하나라도 더 남기고 싶다면 이렇게 찍어보세...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폭닥폭닥해! 겨울이면 생각나는 터틀넥 스웨터 6 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82743</link>
-            <guid>https://www.elle.co.kr/article/82743</guid>
-            <pubDate>Fri, 08 Dec 2023 19:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[이너로도 좋고, 레이어드 아이템으로도 훌륭한 터틀넥 스웨터 스타일링을 확인해 보세요.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악건성은 주목! 피부를 구원해 줄 겨울철 보디 모이스처라이저.zip_선배’s 어드바이스 #197 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1344,6 +1344,13 @@
             <content:encoded><![CDATA[딱딱하게 굳어 있던 정신과 육체를 말랑하게 풀어줘야 할 때. 일본 교토 ‘두짓 타니 교토(Dus...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[편의점에서 런웨이가 왜 나와? (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82719</link>
+            <guid>https://www.elle.co.kr/article/82719</guid>
+            <pubDate>Wed, 13 Dec 2023 10:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[라면이랑 가디건 하나 주세요.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[단돈 2만 원이면 인스타그램 ‘파란 배지’ 달 수 있다? (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82660</link>
             <guid>https://www.elle.co.kr/article/82660</guid>
@@ -1387,12 +1394,6 @@
             <guid>https://www.elle.co.kr/article/82230</guid>
             <pubDate>Sat, 02 Dec 2023 17:26:38 GMT</pubDate>
             <content:encoded><![CDATA[안주하지 않는 도현영 대표가 깨달은 다섯 가지 도전정신]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[점점 더 가난해지는 사람의 특징은?_돈쓸신잡 #124 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82173</link>
-            <guid>https://www.elle.co.kr/article/82173</guid>
-            <pubDate>Thu, 30 Nov 2023 15:13:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
