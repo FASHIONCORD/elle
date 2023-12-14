@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-12-14T07:13:04.391Z</updated>
+    <updated>2023-12-14T08:16:56.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번에도 케미 대박! 이세영 사극 '계약결혼뎐' 인기 요인 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/82913</id>
+        <link href="https://www.elle.co.kr/article/82913"/>
+        <updated>2023-12-14T08:15:56.152Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몸값 9200억, 오타니 쇼헤이의 LA다저스 첫 무대가 서울 고척돔?!]]></title>
         <id>https://www.elle.co.kr/article/82894</id>
@@ -46,11 +52,5 @@
         <id>https://www.elle.co.kr/article/82844</id>
         <link href="https://www.elle.co.kr/article/82844"/>
         <updated>2023-12-11T01:56:25.868Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목숨 건 마피아 게임과 보기만 해도 짠한 모녀 케미가 빛난 12월 2주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/82836</id>
-        <link href="https://www.elle.co.kr/article/82836"/>
-        <updated>2023-12-11T01:56:25.871Z</updated>
     </entry>
 </feed>
