@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 08:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 09:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1343,6 +1343,13 @@
             <content:encoded><![CDATA[생태적 전환, 그러면 무엇을 알아야 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스]어느덧 21세기를 더 오래 산 사람 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82789</link>
+            <guid>https://www.elle.co.kr/article/82789</guid>
+            <pubDate>Thu, 14 Dec 2023 09:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[20세기와 21세기의 중간에서]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[인류를 덮친 기후 위기, 샤넬 컬처 펀드와 리움미술관의 ‘아이디어 뮤지엄’에서 답을 모색하다 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82734</link>
             <guid>https://www.elle.co.kr/article/82734</guid>
@@ -1387,12 +1394,6 @@
             <guid>https://www.elle.co.kr/article/82435</guid>
             <pubDate>Mon, 27 Nov 2023 04:16:08 GMT</pubDate>
             <content:encoded><![CDATA[나의 서늘한 불안과 공포에게. &lt;나의 피투성이 연인&gt;의 감독 유지영은 끊임없이 질문을 던진다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다시는 예·적금을 무시하지 말라_돈쓸신잡 #125 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82354</link>
-            <guid>https://www.elle.co.kr/article/82354</guid>
-            <pubDate>Sun, 03 Dec 2023 15:12:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
