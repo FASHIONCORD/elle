@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 09:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 10:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -834,6 +834,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[탐스러운 레드 백 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/82942</link>
+            <guid>https://www.elle.co.kr/article/82942</guid>
+            <pubDate>Thu, 14 Dec 2023 10:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[빨갛게 빨갛게 물들었네.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[무겁게 즐기는 XXL 코트 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/82941</link>
             <guid>https://www.elle.co.kr/article/82941</guid>
@@ -883,13 +890,6 @@
             <content:encoded><![CDATA[활짝 피어나.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[해린이 피어나는 순간 #ELLE_D에디션 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82828</link>
-            <guid>https://www.elle.co.kr/article/82828</guid>
-            <pubDate>Sat, 09 Dec 2023 19:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[피어나는 꽃, 그리고 그 꽃망울을 지키려 돋은 가시처럼. 순수하고 맑은 얼굴과 차가운 눈빛이 ...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[모델 중의 모델, 이소라가 20년 넘게 변치 않는 체형 유지하는 방법 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/82783</link>
             <guid>https://www.elle.co.kr/article/82783</guid>
@@ -910,7 +910,7 @@
             <content:encoded><![CDATA[뷰티 브랜드의 베스트셀러를 다채롭게 경험할 수 있는 어드벤트 캘린더.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윈터의 새 헤어 컬러는? 요즘 눈에 띄는 #레드 (엘르 코리아 ─ 뷰티)]]></title>
+            <title><![CDATA[요즘 눈에 띄는 헤어 컬러 #레드 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/82697</link>
             <guid>https://www.elle.co.kr/article/82697</guid>
             <pubDate>Thu, 07 Dec 2023 00:54:18 GMT</pubDate>
