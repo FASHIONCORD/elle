@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 01:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 02:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -946,6 +946,12 @@
             <content:encoded><![CDATA[시선을 뗄 수 없을걸?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[270만 명이 즐긴 비욘세 월드 투어 공연 CGV 단독 개봉 정보.txt (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/82971</link>
+            <guid>https://www.elle.co.kr/article/82971</guid>
+            <pubDate>Wed, 13 Dec 2023 15:14:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[운동 마니아 강민경! 하루 4-5끼 챙겨 먹는 이유는 벌크업? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/82970</link>
             <guid>https://www.elle.co.kr/article/82970</guid>
@@ -986,12 +992,6 @@
             <link>https://www.elle.co.kr/article/82884</link>
             <guid>https://www.elle.co.kr/article/82884</guid>
             <pubDate>Wed, 13 Dec 2023 03:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[txt와 jpg의 차이?! 성격 따라 확 갈리는 RM과 뷔의 입대 소감 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/82876</link>
-            <guid>https://www.elle.co.kr/article/82876</guid>
-            <pubDate>Tue, 12 Dec 2023 11:11:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[270만 명이 즐긴 비욘세 월드 투어 공연 CGV 단독 개봉 정보.txt (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1040,6 +1040,7 @@
             <link>https://www.elle.co.kr/article/82859</link>
             <guid>https://www.elle.co.kr/article/82859</guid>
             <pubDate>Fri, 08 Dec 2023 12:22:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/49687a29-c639-4cb5-9847-e4a602c63dba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (2) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1292,6 +1293,12 @@
             <content:encoded><![CDATA[숱하게 들어본 이름 '비디오아트'의 백남준. 하지만 우리는 진짜 그를 얼만큼 알고 있을까.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[빙어-송어-산천어까지! 겨울철 낚시 축제 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/82939</link>
+            <guid>https://www.elle.co.kr/article/82939</guid>
+            <pubDate>Sat, 16 Dec 2023 02:25:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[셰프 피에르 에르메가 선사하는 베지터블 디저트의 세계 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/82911</link>
             <guid>https://www.elle.co.kr/article/82911</guid>
@@ -1335,13 +1342,6 @@
             <guid>https://www.elle.co.kr/article/82757</guid>
             <pubDate>Mon, 11 Dec 2023 01:57:08 GMT</pubDate>
             <content:encoded><![CDATA[사랑스러운 연말 선물을 준비할 시간이 찾아왔다!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국 최고의 피자부터 '진짜' 핸드드립 커피까지, 합정동 플레이스 4 #엘르동 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/82769</link>
-            <guid>https://www.elle.co.kr/article/82769</guid>
-            <pubDate>Fri, 08 Dec 2023 12:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[여기 다 알면 은둔 고수 인정.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[엘르보이스]어느덧 21세기를 더 오래 산 사람 (엘르 코리아 ─ 소사이어티)]]></title>
