@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 08:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 09:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1047,7 +1047,6 @@
             <guid>https://www.elle.co.kr/article/83009</guid>
             <pubDate>Thu, 14 Dec 2023 18:16:43 GMT</pubDate>
             <content:encoded><![CDATA[나이들어가는 것에 대한 아름다움, 그리고 우리가 조금 더 소리높여 자꾸 말하고 싶은 것들에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/15/0eb3915c-b4dc-46ad-a26a-6b0aced6fc96.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (1) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1055,21 +1054,18 @@
             <guid>https://www.elle.co.kr/article/82981</guid>
             <pubDate>Thu, 14 Dec 2023 05:12:45 GMT</pubDate>
             <content:encoded><![CDATA[커플화보 홍수부터 더글로리를 대하는 엘르의 방식, 그리고 BTS와의 조우까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/b3905508-c454-497b-8034-62c7162df6af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 '뉴스룸' 뜬 노엘 갤러거, '여권 훔치겠다'는 팬 보고 든 생각.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82692</link>
             <guid>https://www.elle.co.kr/article/82692</guid>
             <pubDate>Mon, 04 Dec 2023 11:11:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/d9ac4bef-c24b-48db-a39f-c04fb1d89b75.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈물 어린 세븐틴 승관의 '2023 마마 어워즈' 대상 수상 소감 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82600</link>
             <guid>https://www.elle.co.kr/article/82600</guid>
             <pubDate>Thu, 30 Nov 2023 07:12:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/11/20f4479e-306c-46f1-b1ea-191efb5ae1ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['조교' 진과 '훈련병' 지민X정국, 만날 가능성은? BTS 4인 입대 관련 정보.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1215,6 +1211,7 @@
             <link>https://www.elle.co.kr/article/82997</link>
             <guid>https://www.elle.co.kr/article/82997</guid>
             <pubDate>Thu, 14 Dec 2023 08:16:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/b862c048-b1dc-45df-8c43-54fdcb64fee0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신이 아는 ‘암컷’에 관한 사실은 전부 틀렸다! 여성의 진짜 이야기를 그려낸 책 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1222,18 +1219,21 @@
             <guid>https://www.elle.co.kr/article/82994</guid>
             <pubDate>Thu, 14 Dec 2023 07:12:46 GMT</pubDate>
             <content:encoded><![CDATA[암에 걸린 아들을 위한 엄마의 레시피부터 가부장적 진화생물학에 반기를 든 과학책까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/d30e0505-029c-4f09-93ad-b2350097acd7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데코데코 리빙룸 아케이드: 삶을 짓는 공간을 조명하다 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82886</link>
             <guid>https://www.elle.co.kr/article/82886</guid>
             <pubDate>Mon, 11 Dec 2023 01:57:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/11/ea480b76-d698-4467-b927-3eac7912aceb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주살이에 반해 서귀포에 정착한 세컨드뮤지오 대표 김지윤의 주택 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/82844</link>
             <guid>https://www.elle.co.kr/article/82844</guid>
             <pubDate>Fri, 08 Dec 2023 07:12:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/1158d9e4-93b2-4ff1-b369-04a2376099d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인류를 덮친 기후 위기, 샤넬 컬처 펀드와 리움미술관의 ‘아이디어 뮤지엄’에서 답을 모색하다 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
