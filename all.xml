@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 14:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 15:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -835,6 +835,20 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[홀리데이 무드 200% 끌어 올리는 스타들의 반짝이 패션 6 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/83039</link>
+            <guid>https://www.elle.co.kr/article/83039</guid>
+            <pubDate>Sun, 17 Dec 2023 15:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[글리터 룩으로 파티의 주인공이 되어 보세요.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랙 스완 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/83036</link>
+            <guid>https://www.elle.co.kr/article/83036</guid>
+            <pubDate>Sun, 17 Dec 2023 15:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[흑심을 품은 백조.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[눈밭을 뛰어놀아도 거뜬한 패딩 아이템 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/83014</link>
             <guid>https://www.elle.co.kr/article/83014</guid>
@@ -868,6 +882,7 @@
             <guid>https://www.elle.co.kr/article/82969</guid>
             <pubDate>Fri, 15 Dec 2023 18:15:07 GMT</pubDate>
             <content:encoded><![CDATA[육아도, 반려견 콜롬보도, 패션도 놓칠 수 없어!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/766426ec-0da3-4427-bbb2-99af63f99ac1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말에만 가질 수 있어! (엘르 코리아 ─ 패션)]]></title>
@@ -875,20 +890,7 @@
             <guid>https://www.elle.co.kr/article/82968</guid>
             <pubDate>Fri, 15 Dec 2023 00:55:41 GMT</pubDate>
             <content:encoded><![CDATA[올해가 가기 전 확인해야할 협업 모음.zip]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘떡볶이 단추’로 불리는 귀여운 토글 버튼이 포인트! 스타가 선택한 아우터 5 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82943</link>
-            <guid>https://www.elle.co.kr/article/82943</guid>
-            <pubDate>Fri, 15 Dec 2023 00:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[토글 버튼으로 분위기 반전을 노리는 스타들의 아우터를 구경해 보세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[탐스러운 레드 백 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82942</link>
-            <guid>https://www.elle.co.kr/article/82942</guid>
-            <pubDate>Thu, 14 Dec 2023 10:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[빨갛게 빨갛게 물들었네.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/13/e43e975f-2d17-4769-b31d-56eada8c4fc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울엔 오일 (엘르 코리아 ─ 뷰티)]]></title>
