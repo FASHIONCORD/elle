@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 15:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 16:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -882,7 +882,6 @@
             <guid>https://www.elle.co.kr/article/82969</guid>
             <pubDate>Fri, 15 Dec 2023 18:15:07 GMT</pubDate>
             <content:encoded><![CDATA[육아도, 반려견 콜롬보도, 패션도 놓칠 수 없어!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/766426ec-0da3-4427-bbb2-99af63f99ac1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말에만 가질 수 있어! (엘르 코리아 ─ 패션)]]></title>
@@ -890,7 +889,6 @@
             <guid>https://www.elle.co.kr/article/82968</guid>
             <pubDate>Fri, 15 Dec 2023 00:55:41 GMT</pubDate>
             <content:encoded><![CDATA[올해가 가기 전 확인해야할 협업 모음.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/13/e43e975f-2d17-4769-b31d-56eada8c4fc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울엔 오일 (엘르 코리아 ─ 뷰티)]]></title>
