@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-18T10:15:43.054Z</updated>
+    <updated>2023-12-18T11:12:56.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고유명사 '한복수지'! 엘르 1월호 커버스타 등극]]></title>
+        <id>https://www.elle.co.kr/article/83004</id>
+        <link href="https://www.elle.co.kr/article/83004"/>
+        <updated>2023-12-18T11:11:34.597Z</updated>
+        <content type="html"><![CDATA[한복을 곱게 차려입은 수지. 그 6개의 초상이 &lt;엘르&gt;의 2024년 새해 첫 커버를 장식했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[체지방률 8.9%! 이시영의 근육질 체형 유지 비결 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/83012</id>
@@ -46,11 +53,5 @@
         <id>https://www.elle.co.kr/article/82914</id>
         <link href="https://www.elle.co.kr/article/82914"/>
         <updated>2023-12-14T22:12:11.180Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번에도 케미 대박! 이세영 사극 '계약결혼뎐' 인기 요인 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/82913</id>
-        <link href="https://www.elle.co.kr/article/82913"/>
-        <updated>2023-12-13T15:14:01.869Z</updated>
     </entry>
 </feed>
