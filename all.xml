@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 11:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 12:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -948,6 +948,12 @@
             <content:encoded><![CDATA[빨간 머리에서 뿜어져 나오는 화려함과 에너지를 느껴보시길!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나만의 작업실부터 워케이션 숙소까지! 4년차 프리워커 정혜윤의 #취향일지도 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/83040</link>
+            <guid>https://www.elle.co.kr/article/83040</guid>
+            <pubDate>Tue, 19 Dec 2023 12:22:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[롤드컵 직관한 박보영, 직접 공개한 페이커와의 인증샷은? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83032</link>
             <guid>https://www.elle.co.kr/article/83032</guid>
@@ -989,12 +995,6 @@
             <link>https://www.elle.co.kr/article/82956</link>
             <guid>https://www.elle.co.kr/article/82956</guid>
             <pubDate>Thu, 14 Dec 2023 23:13:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[제이홉과 슈가도 함께! 밤톨이 그 자체인 지민X정국 입대 근황.jpg (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/82937</link>
-            <guid>https://www.elle.co.kr/article/82937</guid>
-            <pubDate>Thu, 14 Dec 2023 22:12:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[당신이 아는 ‘암컷’에 관한 사실은 전부 틀렸다! 여성의 진짜 이야기를 그려낸 책 3 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1295,6 +1295,12 @@
             <content:encoded><![CDATA[이상하고도 아름다운 리빙룸으로의 초대.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인테리어 스튜디오 라이크라이크홈 대표 손명희가 손수 고친 아파트 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/82997</link>
+            <guid>https://www.elle.co.kr/article/82997</guid>
+            <pubDate>Thu, 14 Dec 2023 08:16:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[빙어-송어-산천어까지! 겨울철 낚시 축제 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/82939</link>
             <guid>https://www.elle.co.kr/article/82939</guid>
@@ -1337,13 +1343,6 @@
             <guid>https://www.elle.co.kr/article/82827</guid>
             <pubDate>Sat, 09 Dec 2023 15:12:23 GMT</pubDate>
             <content:encoded><![CDATA[소금빵 플렉스를 부르는 카페부터 천연발효종 베이커리까지, 스타가 방문 인증한 빵집을 지금 공...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[감도 높은 신상 기프트 숍 두 군데. (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/82757</link>
-            <guid>https://www.elle.co.kr/article/82757</guid>
-            <pubDate>Mon, 11 Dec 2023 01:57:08 GMT</pubDate>
-            <content:encoded><![CDATA[사랑스러운 연말 선물을 준비할 시간이 찾아왔다!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[엘르보이스]어느덧 21세기를 더 오래 산 사람 (엘르 코리아 ─ 소사이어티)]]></title>
