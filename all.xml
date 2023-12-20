@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 06:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 07:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -837,6 +837,12 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이 신인 모델을 주목하세요! (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/83055</link>
+            <guid>https://www.elle.co.kr/article/83055</guid>
+            <pubDate>Wed, 20 Dec 2023 07:09:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[스웨이드 슈즈의 두 가지 면모 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/83049</link>
             <guid>https://www.elle.co.kr/article/83049</guid>
@@ -884,13 +890,6 @@
             <guid>https://www.elle.co.kr/article/83013</guid>
             <pubDate>Sat, 16 Dec 2023 19:09:32 GMT</pubDate>
             <content:encoded><![CDATA[누구나 산타는 될 수 있어!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안경 사러 갈 때 이것만 보고 가세요 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/83003</link>
-            <guid>https://www.elle.co.kr/article/83003</guid>
-            <pubDate>Sat, 16 Dec 2023 15:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[유재석의 스타일링을 완성하는 건 안경? 국민 MC의 스타일리스트 이주은과 함께 하는 안경 토크...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[꿈의 안티에이징 성분, 펩타이드의 모든 것_선배’s 어드바이스 #198 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1347,6 +1346,12 @@
             <pubDate>Fri, 08 Dec 2023 07:12:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[워런 버핏의 영원한 단짝, 찰리 멍거가 남긴 어록 4_돈쓸신잡 #127 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82823</link>
+            <guid>https://www.elle.co.kr/article/82823</guid>
+            <pubDate>Wed, 20 Dec 2023 07:11:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스]어느덧 21세기를 더 오래 산 사람 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82789</link>
             <guid>https://www.elle.co.kr/article/82789</guid>
@@ -1391,13 +1396,6 @@
             <link>https://www.elle.co.kr/article/82446</link>
             <guid>https://www.elle.co.kr/article/82446</guid>
             <pubDate>Tue, 05 Dec 2023 11:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dear my blue (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82435</link>
-            <guid>https://www.elle.co.kr/article/82435</guid>
-            <pubDate>Mon, 27 Nov 2023 04:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[나의 서늘한 불안과 공포에게. &lt;나의 피투성이 연인&gt;의 감독 유지영은 끊임없이 질문을 던진다.]]></content:encoded>
         </item>
     </channel>
 </rss>
