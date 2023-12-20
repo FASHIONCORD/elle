@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-20T18:16:10.620Z</updated>
+    <updated>2023-12-20T19:10:16.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[딸 로아와 손 꼭 잡고 일본 여행 떠난 조윤희 근황.jpg]]></title>
+        <id>https://www.elle.co.kr/article/83118</id>
+        <link href="https://www.elle.co.kr/article/83118"/>
+        <updated>2023-12-20T19:09:16.705Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금새록과 노상현이 다시 만난 날]]></title>
         <id>https://www.elle.co.kr/article/83096</id>
@@ -49,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/83004"/>
         <updated>2023-12-18T11:11:34.597Z</updated>
         <content type="html"><![CDATA[한복을 곱게 차려입은 수지. 그 6개의 초상이 &lt;엘르&gt;의 2024년 새해 첫 커버를 장식했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체지방률 8.9%! 이시영의 근육질 체형 유지 비결 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83012</id>
-        <link href="https://www.elle.co.kr/article/83012"/>
-        <updated>2023-12-18T10:14:26.391Z</updated>
     </entry>
 </feed>
