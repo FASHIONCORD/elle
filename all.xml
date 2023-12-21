@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 01:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 02:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1345,6 +1345,13 @@
             <pubDate>Fri, 08 Dec 2023 07:12:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스]지구가 태양을 한 바퀴 도는 시간 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82824</link>
+            <guid>https://www.elle.co.kr/article/82824</guid>
+            <pubDate>Thu, 21 Dec 2023 02:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[누구나 새해를 맞이하는 의식이 있을 것이다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[워런 버핏의 영원한 단짝, 찰리 멍거가 남긴 어록 4_돈쓸신잡 #127 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82823</link>
             <guid>https://www.elle.co.kr/article/82823</guid>
@@ -1389,12 +1396,6 @@
             <link>https://www.elle.co.kr/article/82622</link>
             <guid>https://www.elle.co.kr/article/82622</guid>
             <pubDate>Wed, 06 Dec 2023 15:14:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 다정한 내 친구들에게 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82446</link>
-            <guid>https://www.elle.co.kr/article/82446</guid>
-            <pubDate>Tue, 05 Dec 2023 11:12:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
