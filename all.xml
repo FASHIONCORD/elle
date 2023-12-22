@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 12:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 13:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -997,6 +997,13 @@
             <content:encoded><![CDATA[여기저기 선물할 곳이 많아지는 연말, 레이디제인이 꼽은 가성비와 가심비를 모두 잡은 선물 리...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[사랑에 이름을 붙이는 작가 단춤과 <이달의 마음> (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/83170</link>
+            <guid>https://www.elle.co.kr/article/83170</guid>
+            <pubDate>Fri, 22 Dec 2023 13:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[그녀가 계절을 바라보는 애정 어린 시선에 대한 이야기.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[사랑스러운 홀리데이 모멘트! (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/83123</link>
             <guid>https://www.elle.co.kr/article/83123</guid>
@@ -1040,13 +1047,6 @@
             <link>https://www.elle.co.kr/article/82997</link>
             <guid>https://www.elle.co.kr/article/82997</guid>
             <pubDate>Thu, 14 Dec 2023 08:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[당신이 아는 ‘암컷’에 관한 사실은 전부 틀렸다! 여성의 진짜 이야기를 그려낸 책 3 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/82994</link>
-            <guid>https://www.elle.co.kr/article/82994</guid>
-            <pubDate>Thu, 14 Dec 2023 07:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[암에 걸린 아들을 위한 엄마의 레시피부터 가부장적 진화생물학에 반기를 든 과학책까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (2) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1349,6 +1349,13 @@
             <content:encoded><![CDATA[셰프 피에르 에르메의 시그너처 디저트가 식물성 재료로 재탄생한다면? 그의 과감하고 새로운 레...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[남들은 어떻게 연애하고 살아요? 틴더가 공개한 2023 데이팅 트렌드 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82967</link>
+            <guid>https://www.elle.co.kr/article/82967</guid>
+            <pubDate>Fri, 22 Dec 2023 13:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[데이트도 유행을 탑니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스]지구가 태양을 한 바퀴 도는 시간 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82824</link>
             <guid>https://www.elle.co.kr/article/82824</guid>
@@ -1394,12 +1401,6 @@
             <link>https://www.elle.co.kr/article/82657</link>
             <guid>https://www.elle.co.kr/article/82657</guid>
             <pubDate>Mon, 04 Dec 2023 11:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[국밥 1만 원 시대, 건강하게 식비 아끼는 법_돈쓸신잡 #126 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82622</link>
-            <guid>https://www.elle.co.kr/article/82622</guid>
-            <pubDate>Wed, 06 Dec 2023 15:14:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
