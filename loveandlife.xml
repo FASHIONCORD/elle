@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-12-25T11:11:44.744Z</updated>
+    <updated>2023-12-25T12:22:33.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 최초로 먹을 수 있는 전시가 등장했다?]]></title>
+        <id>https://www.elle.co.kr/article/83228</id>
+        <link href="https://www.elle.co.kr/article/83228"/>
+        <updated>2023-12-25T12:22:25.937Z</updated>
+        <content type="html"><![CDATA[지금부터 작품을 부수고 먹어 치워 주세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말 선물 고민이라면? 10만원대 이하 선물 Best 8 (ft.레이디제인)]]></title>
         <id>https://www.elle.co.kr/article/83124</id>
@@ -48,11 +55,5 @@
         <id>https://www.elle.co.kr/article/82997</id>
         <link href="https://www.elle.co.kr/article/82997"/>
         <updated>2023-12-19T12:23:24.807Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빙어-송어-산천어까지! 겨울철 낚시 축제 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/82939</id>
-        <link href="https://www.elle.co.kr/article/82939"/>
-        <updated>2023-12-16T02:25:09.710Z</updated>
     </entry>
 </feed>
