@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 04:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 05:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1053,6 +1053,7 @@
             <guid>https://www.elle.co.kr/article/83310</guid>
             <pubDate>Tue, 26 Dec 2023 21:11:33 GMT</pubDate>
             <content:encoded><![CDATA[2023 MAMA AWARDS의 최전선을 &lt;엘르&gt;가 뒤좇았다. 도쿄 돔의 가장 뜨거운 공간부터 마지막에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/28/2297d190-7be9-4cb6-ad91-be9f156bdc3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (2) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1060,6 +1061,7 @@
             <guid>https://www.elle.co.kr/article/83009</guid>
             <pubDate>Thu, 14 Dec 2023 18:16:43 GMT</pubDate>
             <content:encoded><![CDATA[나이들어가는 것에 대한 아름다움, 그리고 우리가 조금 더 소리높여 자꾸 말하고 싶은 것들에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/15/0eb3915c-b4dc-46ad-a26a-6b0aced6fc96.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (1) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1067,12 +1069,14 @@
             <guid>https://www.elle.co.kr/article/82981</guid>
             <pubDate>Thu, 14 Dec 2023 05:12:45 GMT</pubDate>
             <content:encoded><![CDATA[커플화보 홍수부터 더글로리를 대하는 엘르의 방식, 그리고 BTS와의 조우까지]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/b3905508-c454-497b-8034-62c7162df6af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 '뉴스룸' 뜬 노엘 갤러거, '여권 훔치겠다'는 팬 보고 든 생각.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82692</link>
             <guid>https://www.elle.co.kr/article/82692</guid>
             <pubDate>Mon, 04 Dec 2023 11:11:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/d9ac4bef-c24b-48db-a39f-c04fb1d89b75.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈물 어린 세븐틴 승관의 '2023 마마 어워즈' 대상 수상 소감 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
