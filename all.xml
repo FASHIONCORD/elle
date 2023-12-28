@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 10:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 11:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -993,6 +993,7 @@
             <link>https://www.elle.co.kr/article/83238</link>
             <guid>https://www.elle.co.kr/article/83238</guid>
             <pubDate>Fri, 22 Dec 2023 04:15:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/f6282e67-10a5-4cf9-9507-32861a82b1d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워킹맘이 말하는 '엄마의 자격'과 '타협할 용기' #여자읽는여자 (엘르 코리아 ─ 컬쳐)]]></title>
