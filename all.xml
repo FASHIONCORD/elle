@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 13:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 14:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1049,6 +1049,7 @@
             <guid>https://www.elle.co.kr/article/83121</guid>
             <pubDate>Tue, 19 Dec 2023 15:13:36 GMT</pubDate>
             <content:encoded><![CDATA[8세 신예 디자이너로 떠오른 앤드류 권은 순수한 열정으로 가득 차 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/20/d32c4992-f9ac-4b0d-a09e-c5fc3854547b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 MAMA 땡큐파티와 레드카펫 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
