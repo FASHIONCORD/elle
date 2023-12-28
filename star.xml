@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-28T18:16:36.949Z</updated>
+    <updated>2023-12-28T19:11:13.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시크릿 출신 송지은이 직접 전한 남자친구 위라클과의 첫 만남.story]]></title>
+        <id>https://www.elle.co.kr/article/83326</id>
+        <link href="https://www.elle.co.kr/article/83326"/>
+        <updated>2023-12-28T19:10:07.882Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세상 둘도 없는 삼촌과 조카, 이동욱과 김혜준]]></title>
         <id>https://www.elle.co.kr/article/83311</id>
@@ -52,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/83276"/>
         <updated>2023-12-26T19:10:00.897Z</updated>
         <content type="html"><![CDATA[피어싱도 이젠 패션의 일부! 눈 밑부터 입술 옆, 콧볼까지 과감한 피어싱 스타일로 개성을 드러...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼식 당일에 공개된 김동욱 아내, 모두가 놀란 의외의 친분.jpg]]></title>
-        <id>https://www.elle.co.kr/article/83270</id>
-        <link href="https://www.elle.co.kr/article/83270"/>
-        <updated>2023-12-26T12:22:06.004Z</updated>
     </entry>
 </feed>
