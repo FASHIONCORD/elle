@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 18:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 19:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1137,6 +1137,7 @@
             <link>https://www.elle.co.kr/article/83347</link>
             <guid>https://www.elle.co.kr/article/83347</guid>
             <pubDate>Fri, 29 Dec 2023 02:19:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/29/c0bd5a87-1c40-4ae1-8434-eff19cc5a543.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 MAMA 땡큐파티와 레드카펫 비하인드 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1144,18 +1145,21 @@
             <guid>https://www.elle.co.kr/article/83310</guid>
             <pubDate>Tue, 26 Dec 2023 21:11:33 GMT</pubDate>
             <content:encoded><![CDATA[2023 MAMA AWARDS의 최전선을 &lt;엘르&gt;가 뒤좇았다. 도쿄 돔의 가장 뜨거운 공간부터 마지막에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/28/2297d190-7be9-4cb6-ad91-be9f156bdc3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노량 앞바다로 간 김윤석과 경성으로 간 박서준X한소희! 시대극 꽃핀 12월 4주차 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/83238</link>
             <guid>https://www.elle.co.kr/article/83238</guid>
             <pubDate>Fri, 22 Dec 2023 04:15:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/f6282e67-10a5-4cf9-9507-32861a82b1d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신혜선X지창욱 청정 로맨스, '웰컴투 삼달리' 인기 요인 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/83091</link>
             <guid>https://www.elle.co.kr/article/83091</guid>
             <pubDate>Mon, 18 Dec 2023 11:12:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/18/1cbd9b5f-5319-437b-be1d-40830cbce173.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열 두 번 죽었다 살아난 남자와 브로맨스 사극이 있는 12월 3주차 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1299,6 +1303,13 @@
             <pubDate>Mon, 11 Dec 2023 01:57:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[요즘, 성수 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83344</link>
+            <guid>https://www.elle.co.kr/article/83344</guid>
+            <pubDate>Fri, 29 Dec 2023 19:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[70년대 산업화의 흔적이 고스란히 남아 있어 날것 그대로의 이미지로 각인됐던 성수동에 뷰티 팝...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['숲세권' 아파트의 삶을 담아내는 아륜홈의 새로운 시도, 세컨 하우스 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83332</link>
             <guid>https://www.elle.co.kr/article/83332</guid>
@@ -1342,12 +1353,6 @@
             <link>https://www.elle.co.kr/article/83268</link>
             <guid>https://www.elle.co.kr/article/83268</guid>
             <pubDate>Wed, 27 Dec 2023 04:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[깃사텐, 과거로 떠나는 여행 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83263</link>
-            <guid>https://www.elle.co.kr/article/83263</guid>
-            <pubDate>Tue, 26 Dec 2023 12:23:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[당신이 아는 ‘암컷’에 관한 사실은 전부 틀렸다! 여성의 진짜 이야기를 그려낸 책 3 (엘르 코리아 ─ 소사이어티)]]></title>
