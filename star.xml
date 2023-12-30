@@ -1,61 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-30T13:14:19.564Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[시아의 시야]]></title>
-        <id>https://www.elle.co.kr/article/83323</id>
-        <link href="https://www.elle.co.kr/article/83323"/>
-        <updated>2023-12-29T14:11:40.502Z</updated>
-        <content type="html"><![CDATA[이제 열여섯 살. 배우 김시아의 눈에 들어온 이야기, 그가 그려나가고 싶은 것들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이어트 안 했는데 3kg이 쏙?! 사유리 감량 비결 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83327</id>
-        <link href="https://www.elle.co.kr/article/83327"/>
-        <updated>2023-12-29T02:18:44.004Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿 출신 송지은이 직접 전한 남자친구 위라클과의 첫 만남.story]]></title>
-        <id>https://www.elle.co.kr/article/83326</id>
-        <link href="https://www.elle.co.kr/article/83326"/>
-        <updated>2023-12-28T19:10:07.882Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상 둘도 없는 삼촌과 조카, 이동욱과 김혜준]]></title>
-        <id>https://www.elle.co.kr/article/83311</id>
-        <link href="https://www.elle.co.kr/article/83311"/>
-        <updated>2023-12-28T13:13:45.658Z</updated>
-        <content type="html"><![CDATA[&lt;킬러들의 쇼핑몰&gt;로 마주한 두 사람의 '킬링' 케미스트리.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메이크업도 레드가 트렌드?! 아이키의 데일리 메이크업 Tip]]></title>
-        <id>https://www.elle.co.kr/article/83309</id>
-        <link href="https://www.elle.co.kr/article/83309"/>
-        <updated>2023-12-28T12:22:15.394Z</updated>
-        <content type="html"><![CDATA[빨간 머리가 시그니처인 댄서 아이키가 아이와 치크, 립까지 붉게 물들인 유니크한 메이크업을 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천둥이 예비신부 미미에게 선사한 프러포즈 현장 영상.avi]]></title>
-        <id>https://www.elle.co.kr/article/83302</id>
-        <link href="https://www.elle.co.kr/article/83302"/>
-        <updated>2023-12-27T15:12:15.491Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닮은 꼴 두 사람, 김민하와 세리나]]></title>
-        <id>https://www.elle.co.kr/article/83174</id>
-        <link href="https://www.elle.co.kr/article/83174"/>
-        <updated>2023-12-27T12:21:11.487Z</updated>
-        <content type="html"><![CDATA[마침내 만났다! 주근깨가 매력적인 김민하와 세리나 모토라가 공존하는 순간.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘르 최초 한복 커버! 2024년 새해를 여는 수지, 그리고 한복]]></title>
-        <id>https://www.elle.co.kr/article/83221</id>
-        <link href="https://www.elle.co.kr/article/83221"/>
-        <updated>2023-12-27T11:11:25.823Z</updated>
-        <content type="html"><![CDATA[이미 먼 길을 항해해 온 수지가 지금 고요하게 닻을 내리고 응시하는 마음.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 30 Dec 2023 14:11:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시아의 시야]]></title>
+            <link>https://www.elle.co.kr/article/83323</link>
+            <guid>https://www.elle.co.kr/article/83323</guid>
+            <pubDate>Fri, 29 Dec 2023 14:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[이제 열여섯 살. 배우 김시아의 눈에 들어온 이야기, 그가 그려나가고 싶은 것들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/29/90d11e71-304e-4460-8e6a-610808b69975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이어트 안 했는데 3kg이 쏙?! 사유리 감량 비결 총정리 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/83327</link>
+            <guid>https://www.elle.co.kr/article/83327</guid>
+            <pubDate>Fri, 29 Dec 2023 02:18:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/28/60f9d3bc-f637-440d-8044-c7a0e3791024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크릿 출신 송지은이 직접 전한 남자친구 위라클과의 첫 만남.story]]></title>
+            <link>https://www.elle.co.kr/article/83326</link>
+            <guid>https://www.elle.co.kr/article/83326</guid>
+            <pubDate>Thu, 28 Dec 2023 19:10:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/28/658766c6-4f16-416f-a92e-08d62d9b863b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상 둘도 없는 삼촌과 조카, 이동욱과 김혜준]]></title>
+            <link>https://www.elle.co.kr/article/83311</link>
+            <guid>https://www.elle.co.kr/article/83311</guid>
+            <pubDate>Thu, 28 Dec 2023 13:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;킬러들의 쇼핑몰&gt;로 마주한 두 사람의 '킬링' 케미스트리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/27/36335a0a-1640-416e-bf3b-12fa1854d247.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메이크업도 레드가 트렌드?! 아이키의 데일리 메이크업 Tip]]></title>
+            <link>https://www.elle.co.kr/article/83309</link>
+            <guid>https://www.elle.co.kr/article/83309</guid>
+            <pubDate>Thu, 28 Dec 2023 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[빨간 머리가 시그니처인 댄서 아이키가 아이와 치크, 립까지 붉게 물들인 유니크한 메이크업을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/27/fcec946c-f29a-4e54-86a0-14a17a08653d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천둥이 예비신부 미미에게 선사한 프러포즈 현장 영상.avi]]></title>
+            <link>https://www.elle.co.kr/article/83302</link>
+            <guid>https://www.elle.co.kr/article/83302</guid>
+            <pubDate>Wed, 27 Dec 2023 15:12:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/26/96f87416-d117-4d80-8c82-23c1297f8183.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닮은 꼴 두 사람, 김민하와 세리나]]></title>
+            <link>https://www.elle.co.kr/article/83174</link>
+            <guid>https://www.elle.co.kr/article/83174</guid>
+            <pubDate>Wed, 27 Dec 2023 12:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[마침내 만났다! 주근깨가 매력적인 김민하와 세리나 모토라가 공존하는 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/26/118b4e61-1f08-4045-8919-f68b2a58bca6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘르 최초 한복 커버! 2024년 새해를 여는 수지, 그리고 한복]]></title>
+            <link>https://www.elle.co.kr/article/83221</link>
+            <guid>https://www.elle.co.kr/article/83221</guid>
+            <pubDate>Wed, 27 Dec 2023 11:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[이미 먼 길을 항해해 온 수지가 지금 고요하게 닻을 내리고 응시하는 마음.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/26/8a96fbb2-599c-438e-9ec2-50fe573814ba.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
