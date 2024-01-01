@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 05:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 06:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -837,6 +837,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[갤러리에서 만나요 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/83329</link>
+            <guid>https://www.elle.co.kr/article/83329</guid>
+            <pubDate>Mon, 01 Jan 2024 06:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 왜 이렇게 전시를 좋아하게 됐을까?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[수지의 한복이 뉴욕 타임스퀘어에 걸렸다! 함께한 6개의 브랜드 인터뷰 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/83308</link>
             <guid>https://www.elle.co.kr/article/83308</guid>
@@ -882,13 +889,6 @@
             <link>https://www.elle.co.kr/article/83273</link>
             <guid>https://www.elle.co.kr/article/83273</guid>
             <pubDate>Tue, 26 Dec 2023 01:50:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[기이한 볼륨 드레싱 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/83272</link>
-            <guid>https://www.elle.co.kr/article/83272</guid>
-            <pubDate>Mon, 25 Dec 2023 15:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[빵빵한 아이디어로 완성한 두 디자이너의 패션세계.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메이크업도 레드가 트렌드?! 아이키의 데일리 메이크업 Tip (엘르 코리아 ─ 뷰티)]]></title>
@@ -1053,6 +1053,7 @@
             <link>https://www.elle.co.kr/article/83364</link>
             <guid>https://www.elle.co.kr/article/83364</guid>
             <pubDate>Fri, 29 Dec 2023 14:12:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/29/5534dd85-3c83-4dc5-9eb0-035444f0d5b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 MAMA 땡큐파티와 레드카펫 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1060,6 +1061,7 @@
             <guid>https://www.elle.co.kr/article/83310</guid>
             <pubDate>Tue, 26 Dec 2023 21:11:33 GMT</pubDate>
             <content:encoded><![CDATA[2023 MAMA AWARDS의 최전선을 &lt;엘르&gt;가 뒤좇았다. 도쿄 돔의 가장 뜨거운 공간부터 마지막에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/28/2297d190-7be9-4cb6-ad91-be9f156bdc3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (2) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1067,6 +1069,7 @@
             <guid>https://www.elle.co.kr/article/83009</guid>
             <pubDate>Thu, 14 Dec 2023 18:16:43 GMT</pubDate>
             <content:encoded><![CDATA[나이들어가는 것에 대한 아름다움, 그리고 우리가 조금 더 소리높여 자꾸 말하고 싶은 것들에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/15/0eb3915c-b4dc-46ad-a26a-6b0aced6fc96.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (1) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1074,6 +1077,7 @@
             <guid>https://www.elle.co.kr/article/82981</guid>
             <pubDate>Thu, 14 Dec 2023 05:12:45 GMT</pubDate>
             <content:encoded><![CDATA[커플화보 홍수부터 더글로리를 대하는 엘르의 방식, 그리고 BTS와의 조우까지]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/b3905508-c454-497b-8034-62c7162df6af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 '뉴스룸' 뜬 노엘 갤러거, '여권 훔치겠다'는 팬 보고 든 생각.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
