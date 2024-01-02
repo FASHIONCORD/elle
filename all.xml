@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 15:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 16:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -943,6 +943,12 @@
             <content:encoded><![CDATA[후각을 위한 디저트! 겨울과 더없이 어울리는 구어망드 향의 모든 것.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[훈련소에서도 늠름 그 자체인 뷔XRM 근황.jpg (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/83363</link>
+            <guid>https://www.elle.co.kr/article/83363</guid>
+            <pubDate>Tue, 02 Jan 2024 16:14:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[청춘의 ‘찐’ 연애 스토리와 ‘종이의 집’ 속편이 있는 12월 마지막 주 #신작이OnAir (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83347</link>
             <guid>https://www.elle.co.kr/article/83347</guid>
@@ -985,13 +991,6 @@
             <link>https://www.elle.co.kr/article/83326</link>
             <guid>https://www.elle.co.kr/article/83326</guid>
             <pubDate>Thu, 28 Dec 2023 19:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[세상 둘도 없는 삼촌과 조카, 이동욱과 김혜준 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/83311</link>
-            <guid>https://www.elle.co.kr/article/83311</guid>
-            <pubDate>Thu, 28 Dec 2023 13:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;킬러들의 쇼핑몰&gt;로 마주한 두 사람의 '킬링' 케미스트리.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[결함에서 출발하는 예술 (엘르 코리아 ─ 컬쳐)]]></title>
