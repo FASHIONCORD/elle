@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 15:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 16:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -943,6 +943,13 @@
             <content:encoded><![CDATA[소이현처럼 촉촉하고 빛나는 피부가 갖고 싶다면 주목!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[새해, 새출발! 제2막을 향해 첫발을 내디딘 스타 3 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/83417</link>
+            <guid>https://www.elle.co.kr/article/83417</guid>
+            <pubDate>Wed, 03 Jan 2024 16:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[제니와 지수의 레이블부터 미즈하라 키코의 브랜드까지!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이동욱과 김혜준이 만났을 때 벌어지는 일 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83357</link>
             <guid>https://www.elle.co.kr/article/83357</guid>
@@ -986,13 +993,6 @@
             <link>https://www.elle.co.kr/article/83341</link>
             <guid>https://www.elle.co.kr/article/83341</guid>
             <pubDate>Sat, 30 Dec 2023 15:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[시아의 시야 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/83323</link>
-            <guid>https://www.elle.co.kr/article/83323</guid>
-            <pubDate>Fri, 29 Dec 2023 14:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[이제 열여섯 살. 배우 김시아의 눈에 들어온 이야기, 그가 그려나가고 싶은 것들.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리가 모여 산을 이루는 이야기 #요즘전시 (엘르 코리아 ─ 컬쳐)]]></title>
