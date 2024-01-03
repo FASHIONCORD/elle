@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 07:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 08:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -837,6 +837,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[찬 바람 불 땐 발라클라바 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/83383</link>
+            <guid>https://www.elle.co.kr/article/83383</guid>
+            <pubDate>Wed, 03 Jan 2024 08:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[매서운 겨울바람을 멋지게 맞서는 방법! 여전히 유효한 발라클라바 스타일.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[팬톤이 선정한 올해의 컬러는? 발그레한 복숭아를 떠올리는 '피치 퍼즈'! (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/83353</link>
             <guid>https://www.elle.co.kr/article/83353</guid>
@@ -884,11 +891,11 @@
             <content:encoded><![CDATA[한복을 짓는 마음, 전통을 잇는 마음. 수지가 함께한 2023 한복웨이브의 여정, 그 비하인드.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포근한 매력의 시어링 백 스타일 #쇼핑리스트 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/83289</link>
-            <guid>https://www.elle.co.kr/article/83289</guid>
-            <pubDate>Sat, 30 Dec 2023 15:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[보는 것만으로도 체온 상승! 제철을 맞은 복슬복슬 시어링 백 스타일.]]></content:encoded>
+            <title><![CDATA[세수가 두려워? 오아시스처럼 촉촉한 클렌저 모음.zip_선배’s 어드바이스 #200 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/83330</link>
+            <guid>https://www.elle.co.kr/article/83330</guid>
+            <pubDate>Wed, 03 Jan 2024 08:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[악건성 주목! 피부 장벽을 회복시켜 줄 단비 같은 클렌저를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다이어트 안 했는데 3kg이 쏙?! 사유리 감량 비결 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -934,13 +941,6 @@
             <link>https://www.elle.co.kr/article/83167</link>
             <guid>https://www.elle.co.kr/article/83167</guid>
             <pubDate>Tue, 26 Dec 2023 19:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[먹지 마세요, 코에 양보하세요! 달콤한 구어망드 향 아이템.zip_선배’s 어드바이스 #199 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/83086</link>
-            <guid>https://www.elle.co.kr/article/83086</guid>
-            <pubDate>Sun, 24 Dec 2023 15:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[후각을 위한 디저트! 겨울과 더없이 어울리는 구어망드 향의 모든 것.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[훈련소에서도 늠름 그 자체인 뷔XRM 근황.jpg (엘르 코리아 ─ 스타)]]></title>
@@ -993,6 +993,12 @@
             <pubDate>Thu, 28 Dec 2023 19:10:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[우리가 모여 산을 이루는 이야기 #요즘전시 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/83287</link>
+            <guid>https://www.elle.co.kr/article/83287</guid>
+            <pubDate>Mon, 25 Dec 2023 12:22:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[결함에서 출발하는 예술 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/83281</link>
             <guid>https://www.elle.co.kr/article/83281</guid>
@@ -1037,13 +1043,6 @@
             <guid>https://www.elle.co.kr/article/83228</guid>
             <pubDate>Thu, 21 Dec 2023 10:14:01 GMT</pubDate>
             <content:encoded><![CDATA[지금부터 작품을 부수고 먹어 치워 주세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 이름을 붙이는 작가 단춤과 <이달의 마음> (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/83170</link>
-            <guid>https://www.elle.co.kr/article/83170</guid>
-            <pubDate>Fri, 22 Dec 2023 13:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[그녀가 계절을 바라보는 애정 어린 시선에 대한 이야기.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 연말에는 푸바오X성시경X페이커가 있다?! 2023 연말 이벤트 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
