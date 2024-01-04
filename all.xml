@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 06:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 07:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1346,6 +1346,13 @@
             <content:encoded><![CDATA[비슷비슷한 선물용 와인 리스트에 질렸다면]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[경복궁 2차 낙서범, 지난달엔 ‘이 전시’에서 물건 훔쳤다? (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/83142</link>
+            <guid>https://www.elle.co.kr/article/83142</guid>
+            <pubDate>Thu, 04 Jan 2024 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA['아톰 부츠'가 여기서 왜 나와?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[결국 ‘외유내강’이 돈을 번다_돈쓸신잡 #128 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82999</link>
             <guid>https://www.elle.co.kr/article/82999</guid>
@@ -1391,13 +1398,6 @@
             <guid>https://www.elle.co.kr/article/82734</guid>
             <pubDate>Tue, 05 Dec 2023 11:11:47 GMT</pubDate>
             <content:encoded><![CDATA[생태적 전환, 그러면 무엇을 알아야 할까?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[편의점에서 런웨이가 왜 나와? (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82719</link>
-            <guid>https://www.elle.co.kr/article/82719</guid>
-            <pubDate>Wed, 13 Dec 2023 10:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[라면이랑 가디건 하나 주세요.]]></content:encoded>
         </item>
     </channel>
 </rss>
