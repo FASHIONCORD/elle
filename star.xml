@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-03T23:14:43.725Z</updated>
+    <updated>2024-01-04T00:55:18.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박서함의 눈부신 내일]]></title>
+        <id>https://www.elle.co.kr/article/83422</id>
+        <link href="https://www.elle.co.kr/article/83422"/>
+        <updated>2024-01-04T00:54:26.069Z</updated>
+        <content type="html"><![CDATA["언젠가는 분명 더 좋은 날이 온다는 걸 알아요." 박서함은 모든 채비를 끝마쳤다. 그가 믿어 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다니엘 헤니X루 쿠마가이, 결혼 후 처음 공개한 럽스타.jpg]]></title>
         <id>https://www.elle.co.kr/article/83419</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/83346"/>
         <updated>2024-01-02T11:10:44.029Z</updated>
         <content type="html"><![CDATA[시티뷰 야경을 조망할 수 있는 이탈리안 레스토랑부터 분위기에 취하는 와인 바까지! 사랑하는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건강미 넘치는 부부 추성훈X야노시호의 관리 비결 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83342</id>
-        <link href="https://www.elle.co.kr/article/83342"/>
-        <updated>2024-01-01T15:12:38.829Z</updated>
     </entry>
 </feed>
