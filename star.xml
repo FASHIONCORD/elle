@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-05T13:16:22.275Z</updated>
+    <updated>2024-01-05T14:12:50.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소집해제 후 첫 등장! 박서함의 애정템 최초공개]]></title>
+        <id>https://www.elle.co.kr/article/83482</id>
+        <link href="https://www.elle.co.kr/article/83482"/>
+        <updated>2024-01-05T14:11:58.845Z</updated>
+        <content type="html"><![CDATA[2년 간의 기다림 끝에 드디어 등장한 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[관능의 아이콘, 파멜라 앤더슨이 더 이상 화장을 하지 않는 이유?]]></title>
         <id>https://www.elle.co.kr/article/83481</id>
@@ -50,11 +57,5 @@
         <id>https://www.elle.co.kr/article/83456</id>
         <link href="https://www.elle.co.kr/article/83456"/>
         <updated>2024-01-04T04:15:14.468Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고민시의 꼿꼿한 자세와 체형 유지 비결! 그의 최애 운동은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83455</id>
-        <link href="https://www.elle.co.kr/article/83455"/>
-        <updated>2024-01-04T01:53:49.912Z</updated>
     </entry>
 </feed>
