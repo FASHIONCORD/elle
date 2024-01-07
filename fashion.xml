@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-07T14:12:01.029Z</updated>
+    <updated>2024-01-07T15:13:26.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맨체스터를 수놓은 샤넬 공방 컬렉션]]></title>
+        <id>https://www.elle.co.kr/article/83451</id>
+        <link href="https://www.elle.co.kr/article/83451"/>
+        <updated>2024-01-07T15:12:10.798Z</updated>
+        <content type="html"><![CDATA[섬세한 아름다움과 강렬한 저항 정신이 부드럽게 충돌했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[집이 우선? 인테리어에 푹 빠진 패션 하우스!]]></title>
         <id>https://www.elle.co.kr/article/83446</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/83351"/>
         <updated>2024-01-02T19:09:56.031Z</updated>
         <content type="html"><![CDATA[2024년은 청룡의 해.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신년운세가 궁금해? 엘르가 알려주는 2024년 새해운세]]></title>
-        <id>https://www.elle.co.kr/article/83336</id>
-        <link href="https://www.elle.co.kr/article/83336"/>
-        <updated>2024-01-02T11:10:25.090Z</updated>
-        <content type="html"><![CDATA[2024년 모든 별자리는 명왕성이 가져오는 변화를 피할 수 없다.]]></content>
     </entry>
 </feed>
