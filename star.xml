@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-08T06:18:34.635Z</updated>
+    <updated>2024-01-08T07:14:20.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공연계 플미 거래 아웃?! 예매 전체 취소시킨 장범준의 콘서트 정보]]></title>
+        <id>https://www.elle.co.kr/article/83518</id>
+        <link href="https://www.elle.co.kr/article/83518"/>
+        <updated>2024-01-08T07:12:59.576Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이장우, 수상 소감에 여자친구 언급! 조혜원이 보인 의외의 반응.txt]]></title>
         <id>https://www.elle.co.kr/article/83516</id>
@@ -50,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/83482"/>
         <updated>2024-01-05T14:11:58.845Z</updated>
         <content type="html"><![CDATA[2년 간의 기다림 끝에 드디어 등장한 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관능의 아이콘, 파멜라 앤더슨이 더 이상 화장을 하지 않는 이유?]]></title>
-        <id>https://www.elle.co.kr/article/83481</id>
-        <link href="https://www.elle.co.kr/article/83481"/>
-        <updated>2024-01-05T08:16:19.242Z</updated>
-        <content type="html"><![CDATA[“어느 순간 사람들이 전부 화려한 메이크업을 하고 있다는 사실을 깨달았다."]]></content>
     </entry>
 </feed>
