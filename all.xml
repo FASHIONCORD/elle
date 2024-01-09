@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 14:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 15:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1352,6 +1352,12 @@
             <content:encoded><![CDATA[70년대 산업화의 흔적이 고스란히 남아 있어 날것 그대로의 이미지로 각인됐던 성수동에 뷰티 팝...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스] 새해에는 귀를 열고, 마음을 열고 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/83421</link>
+            <guid>https://www.elle.co.kr/article/83421</guid>
+            <pubDate>Tue, 09 Jan 2024 15:14:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[키워드로 살펴보는 올해의 경제 이슈 4_돈쓸신잡 #130 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/83331</link>
             <guid>https://www.elle.co.kr/article/83331</guid>
@@ -1395,13 +1401,6 @@
             <guid>https://www.elle.co.kr/article/82967</guid>
             <pubDate>Fri, 22 Dec 2023 13:16:34 GMT</pubDate>
             <content:encoded><![CDATA[데이트도 유행을 탑니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스]지구가 태양을 한 바퀴 도는 시간 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82824</link>
-            <guid>https://www.elle.co.kr/article/82824</guid>
-            <pubDate>Thu, 21 Dec 2023 02:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[누구나 새해를 맞이하는 의식이 있을 것이다.]]></content:encoded>
         </item>
     </channel>
 </rss>
