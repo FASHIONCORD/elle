@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-10T11:13:03.450Z</updated>
+    <updated>2024-01-10T12:23:21.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 골든글로브 남주상 탄 스티븐 연의 뭉클 수상 소감.txt]]></title>
+        <id>https://www.elle.co.kr/article/83557</id>
+        <link href="https://www.elle.co.kr/article/83557"/>
+        <updated>2024-01-10T12:22:31.731Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제81회 골든글로브 시상식을 빛낸 베스트 드레서는?]]></title>
         <id>https://www.elle.co.kr/article/83548</id>
@@ -49,12 +55,5 @@
         <id>https://www.elle.co.kr/article/83516</id>
         <link href="https://www.elle.co.kr/article/83516"/>
         <updated>2024-01-08T01:57:16.748Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번엔 안은진의 손편지와 선물?! 송혜교 최신 #우정스타그램]]></title>
-        <id>https://www.elle.co.kr/article/83504</id>
-        <link href="https://www.elle.co.kr/article/83504"/>
-        <updated>2024-01-08T00:55:46.207Z</updated>
-        <content type="html"><![CDATA[한소희에 이어 이번엔 안은진과의 우정스타그램으로 화제!]]></content>
     </entry>
 </feed>

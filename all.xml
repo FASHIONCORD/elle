@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 11:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 12:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -931,7 +931,6 @@
             <link>https://www.elle.co.kr/article/83490</link>
             <guid>https://www.elle.co.kr/article/83490</guid>
             <pubDate>Sat, 06 Jan 2024 19:09:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/98c66e52-2d6b-4d4e-a97f-b9dd5ad8e097.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엘르> 뷰티 어워즈 2024 - 지난 한해를 빛낸 최고의 스킨케어 제품은? (엘르 코리아 ─ 뷰티)]]></title>
@@ -939,7 +938,6 @@
             <guid>https://www.elle.co.kr/article/83486</guid>
             <pubDate>Sun, 07 Jan 2024 15:12:18 GMT</pubDate>
             <content:encoded><![CDATA[농밀한 텍스처를 손에 덜어 피부를 부드럽게 쓰다듬는 행위를 통해 스스로를 가꾸고 있다는 자존...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/0bbd4e81-f145-452c-866c-aec1586edc54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NEW 뷰티 브랜드 론칭 소식 (엘르 코리아 ─ 뷰티)]]></title>
@@ -947,7 +945,12 @@
             <guid>https://www.elle.co.kr/article/83484</guid>
             <pubDate>Sat, 06 Jan 2024 19:09:41 GMT</pubDate>
             <content:encoded><![CDATA[드.디.어. 수잔 카프만!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/0ffbf9de-178e-4c2d-bf2d-e00a3bf5d4c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 골든글로브 남주상 탄 스티븐 연의 뭉클 수상 소감.txt (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/83557</link>
+            <guid>https://www.elle.co.kr/article/83557</guid>
+            <pubDate>Mon, 08 Jan 2024 15:13:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[제81회 골든글로브 시상식을 빛낸 베스트 드레서는? (엘르 코리아 ─ 스타)]]></title>
@@ -995,11 +998,10 @@
             <pubDate>Mon, 08 Jan 2024 01:57:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[이번엔 안은진의 손편지와 선물?! 송혜교 최신 #우정스타그램 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/83504</link>
-            <guid>https://www.elle.co.kr/article/83504</guid>
-            <pubDate>Mon, 08 Jan 2024 00:55:46 GMT</pubDate>
-            <content:encoded><![CDATA[한소희에 이어 이번엔 안은진과의 우정스타그램으로 화제!]]></content:encoded>
+            <title><![CDATA[미국 골든글로브 남주상 탄 스티븐 연의 뭉클 수상 소감.txt (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/83557</link>
+            <guid>https://www.elle.co.kr/article/83557</guid>
+            <pubDate>Mon, 08 Jan 2024 15:13:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[공연계 플미 거래 아웃?! 예매 전체 취소시킨 장범준의 콘서트 정보 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1047,31 +1049,22 @@
             <content:encoded><![CDATA[전 세계에 행복과 평등, 사랑을 전파하는 설치미술 작가 플로렌틴 호프만. 그가 누구든 환영받는...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소울메이트 디자이너 부부가 일궈낸 가평의 아시 하우스 #홈터뷰 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/83447</link>
-            <guid>https://www.elle.co.kr/article/83447</guid>
-            <pubDate>Wed, 03 Jan 2024 07:12:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[공연계 플미 거래 아웃?! 예매 전체 취소시킨 장범준의 콘서트 정보 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83518</link>
             <guid>https://www.elle.co.kr/article/83518</guid>
             <pubDate>Sat, 06 Jan 2024 17:11:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/07/65ddd40a-74ad-4045-b64e-c31189d172fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악방송 MC 데뷔하는 이효리의 '레드카펫' 첫 게스트 라인업.list (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83465</link>
             <guid>https://www.elle.co.kr/article/83465</guid>
             <pubDate>Thu, 04 Jan 2024 01:54:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/04/f1cf342e-d02a-458a-b85e-994e3b676f7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 연말에는 푸바오X성시경X페이커가 있다?! 2023 연말 이벤트 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83364</link>
             <guid>https://www.elle.co.kr/article/83364</guid>
             <pubDate>Fri, 29 Dec 2023 14:12:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/29/5534dd85-3c83-4dc5-9eb0-035444f0d5b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 MAMA 땡큐파티와 레드카펫 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1079,7 +1072,6 @@
             <guid>https://www.elle.co.kr/article/83310</guid>
             <pubDate>Tue, 26 Dec 2023 21:11:33 GMT</pubDate>
             <content:encoded><![CDATA[2023 MAMA AWARDS의 최전선을 &lt;엘르&gt;가 뒤좇았다. 도쿄 돔의 가장 뜨거운 공간부터 마지막에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/28/2297d190-7be9-4cb6-ad91-be9f156bdc3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (2) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1137,6 +1129,12 @@
             <link>https://www.elle.co.kr/article/82086</link>
             <guid>https://www.elle.co.kr/article/82086</guid>
             <pubDate>Mon, 13 Nov 2023 11:11:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[허니제이 딸 정러브, 생후 8개월 만에 TV 데뷔? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/83602</link>
+            <guid>https://www.elle.co.kr/article/83602</guid>
+            <pubDate>Wed, 10 Jan 2024 12:22:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[신혜선X지창욱 로맨스의 향방은? '웰컴투 삼달리' 후반부 관전 포인트 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1212,12 +1210,6 @@
             <guid>https://www.elle.co.kr/article/82981</guid>
             <pubDate>Thu, 14 Dec 2023 05:12:45 GMT</pubDate>
             <content:encoded><![CDATA[커플화보 홍수부터 더글로리를 대하는 엘르의 방식, 그리고 BTS와의 조우까지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[270만 명이 즐긴 비욘세 월드 투어 공연 CGV 단독 개봉 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/82971</link>
-            <guid>https://www.elle.co.kr/article/82971</guid>
-            <pubDate>Wed, 13 Dec 2023 15:14:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[가게가 예뻐야 지갑 열 맛이 난다면 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
