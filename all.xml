@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 10:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 11:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -931,6 +931,7 @@
             <link>https://www.elle.co.kr/article/83490</link>
             <guid>https://www.elle.co.kr/article/83490</guid>
             <pubDate>Sat, 06 Jan 2024 19:09:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/98c66e52-2d6b-4d4e-a97f-b9dd5ad8e097.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엘르> 뷰티 어워즈 2024 - 지난 한해를 빛낸 최고의 스킨케어 제품은? (엘르 코리아 ─ 뷰티)]]></title>
@@ -938,6 +939,7 @@
             <guid>https://www.elle.co.kr/article/83486</guid>
             <pubDate>Sun, 07 Jan 2024 15:12:18 GMT</pubDate>
             <content:encoded><![CDATA[농밀한 텍스처를 손에 덜어 피부를 부드럽게 쓰다듬는 행위를 통해 스스로를 가꾸고 있다는 자존...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/0bbd4e81-f145-452c-866c-aec1586edc54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NEW 뷰티 브랜드 론칭 소식 (엘르 코리아 ─ 뷰티)]]></title>
@@ -945,6 +947,7 @@
             <guid>https://www.elle.co.kr/article/83484</guid>
             <pubDate>Sat, 06 Jan 2024 19:09:41 GMT</pubDate>
             <content:encoded><![CDATA[드.디.어. 수잔 카프만!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/0ffbf9de-178e-4c2d-bf2d-e00a3bf5d4c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제81회 골든글로브 시상식을 빛낸 베스트 드레서는? (엘르 코리아 ─ 스타)]]></title>
@@ -1054,18 +1057,21 @@
             <link>https://www.elle.co.kr/article/83518</link>
             <guid>https://www.elle.co.kr/article/83518</guid>
             <pubDate>Sat, 06 Jan 2024 17:11:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/07/65ddd40a-74ad-4045-b64e-c31189d172fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악방송 MC 데뷔하는 이효리의 '레드카펫' 첫 게스트 라인업.list (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83465</link>
             <guid>https://www.elle.co.kr/article/83465</guid>
             <pubDate>Thu, 04 Jan 2024 01:54:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/04/f1cf342e-d02a-458a-b85e-994e3b676f7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 연말에는 푸바오X성시경X페이커가 있다?! 2023 연말 이벤트 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83364</link>
             <guid>https://www.elle.co.kr/article/83364</guid>
             <pubDate>Fri, 29 Dec 2023 14:12:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/29/5534dd85-3c83-4dc5-9eb0-035444f0d5b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 MAMA 땡큐파티와 레드카펫 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1073,6 +1079,7 @@
             <guid>https://www.elle.co.kr/article/83310</guid>
             <pubDate>Tue, 26 Dec 2023 21:11:33 GMT</pubDate>
             <content:encoded><![CDATA[2023 MAMA AWARDS의 최전선을 &lt;엘르&gt;가 뒤좇았다. 도쿄 돔의 가장 뜨거운 공간부터 마지막에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/28/2297d190-7be9-4cb6-ad91-be9f156bdc3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (2) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
