@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 05:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 06:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1298,6 +1298,12 @@
             <content:encoded><![CDATA[“당신의 사랑스러운 홀리데이 모멘트를 보여주세요!” 미국 라스베이거스, 인도 고아, 호주 멜버...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아자부다이 힐스를 즐기는 다섯 가지 방법 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83500</link>
+            <guid>https://www.elle.co.kr/article/83500</guid>
+            <pubDate>Wed, 10 Jan 2024 06:18:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[간판 없는 원테이블 레스토랑부터 바베큐 맛집까지! 지연 & 황재균 부부의 미식 투어 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83487</link>
             <guid>https://www.elle.co.kr/article/83487</guid>
@@ -1344,11 +1350,10 @@
             <content:encoded><![CDATA[시티뷰 야경을 조망할 수 있는 이탈리안 레스토랑부터 분위기에 취하는 와인 바까지! 사랑하는 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코덕이라면 '성수'에 가세요 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83344</link>
-            <guid>https://www.elle.co.kr/article/83344</guid>
-            <pubDate>Fri, 29 Dec 2023 19:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[70년대 산업화의 흔적이 고스란히 남아 있어 날것 그대로의 이미지로 각인됐던 성수동에 뷰티 팝...]]></content:encoded>
+            <title><![CDATA[고급 취향은 진짜 ‘고급’일까? #돈쓸신잡 131 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/83468</link>
+            <guid>https://www.elle.co.kr/article/83468</guid>
+            <pubDate>Wed, 10 Jan 2024 06:18:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 새해에는 귀를 열고, 마음을 열고 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1393,13 +1398,6 @@
             <guid>https://www.elle.co.kr/article/82994</guid>
             <pubDate>Thu, 14 Dec 2023 07:12:46 GMT</pubDate>
             <content:encoded><![CDATA[암에 걸린 아들을 위한 엄마의 레시피부터 가부장적 진화생물학에 반기를 든 과학책까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[남들은 어떻게 연애하고 살아요? 틴더가 공개한 2023 데이팅 트렌드 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82967</link>
-            <guid>https://www.elle.co.kr/article/82967</guid>
-            <pubDate>Fri, 22 Dec 2023 13:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[데이트도 유행을 탑니다.]]></content:encoded>
         </item>
     </channel>
 </rss>
