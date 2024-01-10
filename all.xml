@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 12:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 13:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1350,6 +1350,12 @@
             <content:encoded><![CDATA[시티뷰 야경을 조망할 수 있는 이탈리안 레스토랑부터 분위기에 취하는 와인 바까지! 사랑하는 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[고급 취향은 진짜 ‘고급’일까? #돈쓸신잡 131 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/83468</link>
+            <guid>https://www.elle.co.kr/article/83468</guid>
+            <pubDate>Wed, 10 Jan 2024 13:17:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스] 새해에는 귀를 열고, 마음을 열고 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/83421</link>
             <guid>https://www.elle.co.kr/article/83421</guid>
@@ -1392,13 +1398,6 @@
             <guid>https://www.elle.co.kr/article/82994</guid>
             <pubDate>Thu, 14 Dec 2023 07:12:46 GMT</pubDate>
             <content:encoded><![CDATA[암에 걸린 아들을 위한 엄마의 레시피부터 가부장적 진화생물학에 반기를 든 과학책까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[남들은 어떻게 연애하고 살아요? 틴더가 공개한 2023 데이팅 트렌드 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82967</link>
-            <guid>https://www.elle.co.kr/article/82967</guid>
-            <pubDate>Wed, 10 Jan 2024 09:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[데이트도 유행을 탑니다.]]></content:encoded>
         </item>
     </channel>
 </rss>
