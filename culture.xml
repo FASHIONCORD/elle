@@ -1,58 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-01-11T03:14:56.704Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[온라인에서 프로야구 보려면 돈 내야 하는 시대 온다?! (ft. 티빙)]]></title>
-        <id>https://www.elle.co.kr/article/83563</id>
-        <link href="https://www.elle.co.kr/article/83563"/>
-        <updated>2024-01-11T01:56:56.186Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선X지창욱 로맨스의 향방은? '웰컴투 삼달리' 후반부 관전 포인트 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/83558</id>
-        <link href="https://www.elle.co.kr/article/83558"/>
-        <updated>2024-01-10T15:13:31.987Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 골든글로브 남주상 탄 스티븐 연의 뭉클 수상 소감.txt]]></title>
-        <id>https://www.elle.co.kr/article/83557</id>
-        <link href="https://www.elle.co.kr/article/83557"/>
-        <updated>2024-01-10T12:22:41.789Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공연계 플미 거래 아웃?! 예매 전체 취소시킨 장범준의 콘서트 정보]]></title>
-        <id>https://www.elle.co.kr/article/83518</id>
-        <link href="https://www.elle.co.kr/article/83518"/>
-        <updated>2024-01-09T10:13:55.919Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재회한 이효리와 베베 바다부터 박민영의 타임 슬립 복수극까지! 1월 첫째주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83498</id>
-        <link href="https://www.elle.co.kr/article/83498"/>
-        <updated>2024-01-09T02:28:12.703Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 박스오피스에서 '서울의 봄'과 '노량' 제친 영화는?]]></title>
-        <id>https://www.elle.co.kr/article/83489</id>
-        <link href="https://www.elle.co.kr/article/83489"/>
-        <updated>2024-01-09T00:56:21.680Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믿을 수 없이 가깝고 엄청나게 소란스러운 거실의 여정, <데코·데코: 리빙룸 아케이드>]]></title>
-        <id>https://www.elle.co.kr/article/83485</id>
-        <link href="https://www.elle.co.kr/article/83485"/>
-        <updated>2024-01-08T15:13:10.191Z</updated>
-        <content type="html"><![CDATA[&lt;엘르 데코&gt;의 첫 디자인 전시 &lt;데코, 데코: 리빙룸 아케이드&gt;가 탐색한 지금 우리 시대의 거실...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSG 입성 6개월 만에 프랑스 슈퍼컵 우승 주역 된 이강인 (feat. MVP)]]></title>
-        <id>https://www.elle.co.kr/article/83466</id>
-        <link href="https://www.elle.co.kr/article/83466"/>
-        <updated>2024-01-08T15:13:10.192Z</updated>
-        <content type="html"><![CDATA[신년 벽두부터 최고 화제의 인물 등극!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 11 Jan 2024 04:17:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온라인에서 프로야구 보려면 돈 내야 하는 시대 온다?! (ft. 티빙)]]></title>
+            <link>https://www.elle.co.kr/article/83563</link>
+            <guid>https://www.elle.co.kr/article/83563</guid>
+            <pubDate>Thu, 11 Jan 2024 01:56:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/872f4f87-e9a5-438d-b40b-dddb80d1cd28.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신혜선X지창욱 로맨스의 향방은? '웰컴투 삼달리' 후반부 관전 포인트 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/83558</link>
+            <guid>https://www.elle.co.kr/article/83558</guid>
+            <pubDate>Wed, 10 Jan 2024 15:13:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/08/f211bfcd-9e1b-4036-8c2c-4b49dd957946.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 골든글로브 남주상 탄 스티븐 연의 뭉클 수상 소감.txt]]></title>
+            <link>https://www.elle.co.kr/article/83557</link>
+            <guid>https://www.elle.co.kr/article/83557</guid>
+            <pubDate>Wed, 10 Jan 2024 12:22:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/08/ede9ab7f-853e-4b73-b0e4-cb349afc5feb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공연계 플미 거래 아웃?! 예매 전체 취소시킨 장범준의 콘서트 정보]]></title>
+            <link>https://www.elle.co.kr/article/83518</link>
+            <guid>https://www.elle.co.kr/article/83518</guid>
+            <pubDate>Tue, 09 Jan 2024 10:13:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/07/65ddd40a-74ad-4045-b64e-c31189d172fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재회한 이효리와 베베 바다부터 박민영의 타임 슬립 복수극까지! 1월 첫째주 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/83498</link>
+            <guid>https://www.elle.co.kr/article/83498</guid>
+            <pubDate>Tue, 09 Jan 2024 02:28:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/b2be944a-1676-4a01-9699-e48c68158cbd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 박스오피스에서 '서울의 봄'과 '노량' 제친 영화는?]]></title>
+            <link>https://www.elle.co.kr/article/83489</link>
+            <guid>https://www.elle.co.kr/article/83489</guid>
+            <pubDate>Tue, 09 Jan 2024 00:56:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/f15c366e-ebf4-4839-83e6-0daa6d1d6eea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[믿을 수 없이 가깝고 엄청나게 소란스러운 거실의 여정, <데코·데코: 리빙룸 아케이드>]]></title>
+            <link>https://www.elle.co.kr/article/83485</link>
+            <guid>https://www.elle.co.kr/article/83485</guid>
+            <pubDate>Mon, 08 Jan 2024 15:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르 데코&gt;의 첫 디자인 전시 &lt;데코, 데코: 리빙룸 아케이드&gt;가 탐색한 지금 우리 시대의 거실...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/6198a731-c34b-41bf-8d2e-ccb8e13c8b64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PSG 입성 6개월 만에 프랑스 슈퍼컵 우승 주역 된 이강인 (feat. MVP)]]></title>
+            <link>https://www.elle.co.kr/article/83466</link>
+            <guid>https://www.elle.co.kr/article/83466</guid>
+            <pubDate>Mon, 08 Jan 2024 15:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[신년 벽두부터 최고 화제의 인물 등극!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/04/806efa26-76fb-4d50-9835-4cd13b464873.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
