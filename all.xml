@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 10:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 11:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1344,6 +1344,12 @@
             <content:encoded><![CDATA[한겨울의 오두막집.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[유기견을 입양했다. 내 세계와 그의 세계가 뒤섞인 약 한 달간의 기록 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/83559</link>
+            <guid>https://www.elle.co.kr/article/83559</guid>
+            <pubDate>Fri, 12 Jan 2024 11:12:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스] 3차원의 세계에서 발견! (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/83522</link>
             <guid>https://www.elle.co.kr/article/83522</guid>
@@ -1386,13 +1392,6 @@
             <link>https://www.elle.co.kr/article/83179</link>
             <guid>https://www.elle.co.kr/article/83179</guid>
             <pubDate>Fri, 05 Jan 2024 15:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[경복궁 2차 낙서범, 지난달엔 ‘이 전시’에서 물건 훔쳤다? (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/83142</link>
-            <guid>https://www.elle.co.kr/article/83142</guid>
-            <pubDate>Thu, 04 Jan 2024 07:12:56 GMT</pubDate>
-            <content:encoded><![CDATA['아톰 부츠'가 여기서 왜 나와?]]></content:encoded>
         </item>
     </channel>
 </rss>
