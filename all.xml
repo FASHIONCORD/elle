@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 11:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 12:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1291,6 +1291,12 @@
             <content:encoded><![CDATA[아티스트 주연수가 자연 위에 쌓아 올린 말들.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[한국인이라면 새해에 무조건 먹어야 할 떡국 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83584</link>
+            <guid>https://www.elle.co.kr/article/83584</guid>
+            <pubDate>Fri, 12 Jan 2024 12:23:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[가게가 예뻐야 지갑 열 맛이 난다면 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83583</link>
             <guid>https://www.elle.co.kr/article/83583</guid>
@@ -1335,13 +1341,6 @@
             <guid>https://www.elle.co.kr/article/83368</guid>
             <pubDate>Tue, 09 Jan 2024 10:14:33 GMT</pubDate>
             <content:encoded><![CDATA[이곳이 바로 홈스토랑! 홈 파티를 준비하고 있다면, 비주얼부터 눈길을 사로잡는 기은세의 레서피...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[따스하고 평온한 신상 카페 두 곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83338</link>
-            <guid>https://www.elle.co.kr/article/83338</guid>
-            <pubDate>Fri, 05 Jan 2024 14:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[한겨울의 오두막집.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유기견을 입양했다. 내 세계와 그의 세계가 뒤섞인 약 한 달간의 기록 (엘르 코리아 ─ 소사이어티)]]></title>
