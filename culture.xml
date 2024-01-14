@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-01-14T07:13:03.025Z</updated>
+    <updated>2024-01-14T08:16:23.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화를 사랑한다면? 겨울에는 파주로]]></title>
+        <id>https://www.elle.co.kr/article/83605</id>
+        <link href="https://www.elle.co.kr/article/83605"/>
+        <updated>2024-01-14T08:15:44.803Z</updated>
+        <content type="html"><![CDATA[한국영화계의 가장 든든한 이름, 명필름 아트센터의 변신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허니제이 딸 정러브, 생후 8개월 만에 TV 데뷔?]]></title>
         <id>https://www.elle.co.kr/article/83602</id>
@@ -47,11 +54,5 @@
         <id>https://www.elle.co.kr/article/83518</id>
         <link href="https://www.elle.co.kr/article/83518"/>
         <updated>2024-01-09T10:13:55.919Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재회한 이효리와 베베 바다부터 박민영의 타임 슬립 복수극까지! 1월 첫째주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83498</id>
-        <link href="https://www.elle.co.kr/article/83498"/>
-        <updated>2024-01-09T02:28:12.703Z</updated>
     </entry>
 </feed>
