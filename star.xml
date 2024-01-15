@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-15T10:16:07.014Z</updated>
+    <updated>2024-01-15T11:12:46.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핑크 헤어 아이유 셀카 실시간으로 따라한 박재범X김민수의 손민수샷.jpg]]></title>
+        <id>https://www.elle.co.kr/article/83635</id>
+        <link href="https://www.elle.co.kr/article/83635"/>
+        <updated>2024-01-15T11:11:51.765Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘정의로운 과부’ 이하늬X외계인과 싸우는 김태리! 매력있는 여성 캐릭터에 빠질 1월 둘째주 #신작이OnAir]]></title>
         <id>https://www.elle.co.kr/article/83628</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/83600</id>
         <link href="https://www.elle.co.kr/article/83600"/>
         <updated>2024-01-11T19:10:41.488Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역주행 부담감에 극단적 체중 감량? 고충 토로했던 브브걸 근황 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83599</id>
-        <link href="https://www.elle.co.kr/article/83599"/>
-        <updated>2024-01-11T11:11:33.512Z</updated>
     </entry>
 </feed>
