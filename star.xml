@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-15T08:18:07.768Z</updated>
+    <updated>2024-01-15T09:14:24.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매콤한 수프 카레부터 인생 라멘까지! 혜리의 삿포로 맛집 탐방 3]]></title>
+        <id>https://www.elle.co.kr/article/83627</id>
+        <link href="https://www.elle.co.kr/article/83627"/>
+        <updated>2024-01-15T09:13:37.443Z</updated>
+        <content type="html"><![CDATA[혜리가 ‘먹도장’ 찍고 온 삿포로의 맛집 리스트를 놓치지 마세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신작 준비하며 건강하게 7kg 증량한 박지현의 최애 운동은? #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/83624</id>
@@ -46,11 +53,5 @@
         <id>https://www.elle.co.kr/article/83585</id>
         <link href="https://www.elle.co.kr/article/83585"/>
         <updated>2024-01-11T11:11:33.515Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선X지창욱 로맨스의 향방은? '웰컴투 삼달리' 후반부 관전 포인트 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/83558</id>
-        <link href="https://www.elle.co.kr/article/83558"/>
-        <updated>2024-01-11T01:56:48.915Z</updated>
     </entry>
 </feed>

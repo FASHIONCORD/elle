@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-01-15T08:18:07.750Z</updated>
+    <updated>2024-01-15T09:14:24.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐스팅 확정 후 1년 반 만에 공개되는 넷플릭스 기대작 '살인자ㅇ난감' 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/83668</id>
+        <link href="https://www.elle.co.kr/article/83668"/>
+        <updated>2024-01-15T09:14:01.489Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘정의로운 과부’ 이하늬X외계인과 싸우는 김태리! 매력있는 여성 캐릭터에 빠질 1월 둘째주 #신작이OnAir]]></title>
         <id>https://www.elle.co.kr/article/83628</id>
@@ -77,11 +83,5 @@
         <id>https://www.elle.co.kr/article/83091</id>
         <link href="https://www.elle.co.kr/article/83091"/>
         <updated>2023-12-18T11:12:11.785Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열 두 번 죽었다 살아난 남자와 브로맨스 사극이 있는 12월 3주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83035</id>
-        <link href="https://www.elle.co.kr/article/83035"/>
-        <updated>2023-12-15T11:12:05.384Z</updated>
     </entry>
 </feed>
