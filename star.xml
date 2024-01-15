@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-15T11:12:46.292Z</updated>
+    <updated>2024-01-15T12:24:26.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역대 최강 전력, 64년 만의 정상 도전? 아시안컵 축구 대표팀 일정 총정리]]></title>
+        <id>https://www.elle.co.kr/article/83638</id>
+        <link href="https://www.elle.co.kr/article/83638"/>
+        <updated>2024-01-15T12:23:24.649Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핑크 헤어 아이유 셀카 실시간으로 따라한 박재범X김민수의 손민수샷.jpg]]></title>
         <id>https://www.elle.co.kr/article/83635</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/83602</id>
         <link href="https://www.elle.co.kr/article/83602"/>
         <updated>2024-01-12T07:12:00.838Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이장우, 우동집에 이어 순댓국집 오픈! 여자친구 조혜원의 방문 인증샷.jpg]]></title>
-        <id>https://www.elle.co.kr/article/83600</id>
-        <link href="https://www.elle.co.kr/article/83600"/>
-        <updated>2024-01-11T19:10:41.488Z</updated>
     </entry>
 </feed>
