@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 02:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 03:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1291,6 +1291,13 @@
             <content:encoded><![CDATA[아티스트 주연수가 자연 위에 쌓아 올린 말들.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[<프렌즈> 레이첼이 사는 동네가 15분 도시? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83597</link>
+            <guid>https://www.elle.co.kr/article/83597</guid>
+            <pubDate>Mon, 15 Jan 2024 03:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[아, 15분 도시가 뭐냐 하면요.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한국인이라면 새해에 무조건 먹어야 할 떡국 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83584</link>
             <guid>https://www.elle.co.kr/article/83584</guid>
@@ -1334,13 +1341,6 @@
             <link>https://www.elle.co.kr/article/83420</link>
             <guid>https://www.elle.co.kr/article/83420</guid>
             <pubDate>Tue, 09 Jan 2024 10:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[고급 레스토랑 부럽지 않아! 기은세의 홈 파티 레서피 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83368</link>
-            <guid>https://www.elle.co.kr/article/83368</guid>
-            <pubDate>Tue, 09 Jan 2024 10:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[이곳이 바로 홈스토랑! 홈 파티를 준비하고 있다면, 비주얼부터 눈길을 사로잡는 기은세의 레서피...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 신묘한 육아의 세계 (엘르 코리아 ─ 소사이어티)]]></title>
