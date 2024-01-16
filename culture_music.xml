@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/music</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2024-01-16T01:57:42.360Z</updated>
+    <updated>2024-01-16T02:29:14.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것]]></title>
+        <id>https://www.elle.co.kr/article/83684</id>
+        <link href="https://www.elle.co.kr/article/83684"/>
+        <updated>2024-01-16T02:28:09.980Z</updated>
+        <content type="html"><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공연계 플미 거래 아웃?! 예매 전체 취소시킨 장범준의 콘서트 정보]]></title>
         <id>https://www.elle.co.kr/article/83518</id>
@@ -80,11 +87,5 @@
         <id>https://www.elle.co.kr/article/82204</id>
         <link href="https://www.elle.co.kr/article/82204"/>
         <updated>2024-01-14T06:16:39.121Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버 가수? AI? 무려 4년 6개월 만에 컴백하는 딘 신곡 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/82086</id>
-        <link href="https://www.elle.co.kr/article/82086"/>
-        <updated>2024-01-14T06:16:39.124Z</updated>
     </entry>
 </feed>
