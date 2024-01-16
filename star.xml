@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-16T07:13:21.197Z</updated>
+    <updated>2024-01-16T08:18:37.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뉴스룸' 깜짝 등장한 '화가' 박신양의 고백에 팬들 오열한 이유]]></title>
+        <id>https://www.elle.co.kr/article/83669</id>
+        <link href="https://www.elle.co.kr/article/83669"/>
+        <updated>2024-01-16T08:16:59.526Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐스팅 확정 후 1년 반 만에 공개되는 넷플릭스 기대작 '살인자ㅇ난감' 정보.txt]]></title>
         <id>https://www.elle.co.kr/article/83668</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/83624</id>
         <link href="https://www.elle.co.kr/article/83624"/>
         <updated>2024-01-14T08:15:35.759Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜가 출산 후 3년 만에 돌아온다]]></title>
-        <id>https://www.elle.co.kr/article/83623</id>
-        <link href="https://www.elle.co.kr/article/83623"/>
-        <updated>2024-01-12T10:14:08.680Z</updated>
     </entry>
 </feed>
