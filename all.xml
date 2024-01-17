@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 02:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 03:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1312,12 +1312,14 @@
             <guid>https://www.elle.co.kr/article/83597</guid>
             <pubDate>Mon, 15 Jan 2024 03:15:17 GMT</pubDate>
             <content:encoded><![CDATA[아, 15분 도시가 뭐냐 하면요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/24e17b07-771b-48b3-9836-711172c8c3d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국인이라면 새해에 무조건 먹어야 할 떡국 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83584</link>
             <guid>https://www.elle.co.kr/article/83584</guid>
             <pubDate>Fri, 12 Jan 2024 12:23:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/ee99d06f-ff74-41e1-8e88-c7e78350fbd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가게가 예뻐야 지갑 열 맛이 난다면 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1325,6 +1327,7 @@
             <guid>https://www.elle.co.kr/article/83583</guid>
             <pubDate>Tue, 09 Jan 2024 10:14:23 GMT</pubDate>
             <content:encoded><![CDATA[헤더윅 스튜디오가 디자인한 중국의 쇼핑 명소.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/07b5db42-7731-4d7e-bfb3-64e67da4dbb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[괴근식물 들이고, 인생 포카치아 먹고! 한강로동 플레이스 4 #엘르동 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1332,18 +1335,21 @@
             <guid>https://www.elle.co.kr/article/83582</guid>
             <pubDate>Fri, 12 Jan 2024 09:14:09 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말은 삼각지네, 삼각지야.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/df0e5d5c-d74e-489c-a68d-d9d954379ecb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[암벽 타고 승천한 용 보러 가자! 2024 청룡의 해, 인생샷 찍기 좋은 명소 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83505</link>
             <guid>https://www.elle.co.kr/article/83505</guid>
             <pubDate>Thu, 11 Jan 2024 19:11:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/3f5acf01-3560-4638-9ff5-2f877ea25362.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아자부다이 힐스를 즐기는 다섯 가지 방법 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83500</link>
             <guid>https://www.elle.co.kr/article/83500</guid>
             <pubDate>Wed, 10 Jan 2024 06:18:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/e0ccbb59-c113-4e44-96a0-5b91507aacaf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 신묘한 육아의 세계 (엘르 코리아 ─ 소사이어티)]]></title>
