@@ -1,57 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-17T03:15:08.061Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[10살 연하 남친부터 인간관계 이야기까지, 한예슬이 직접 밝힌 근황 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/83673</id>
-        <link href="https://www.elle.co.kr/article/83673"/>
-        <updated>2024-01-16T09:13:15.104Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뉴스룸' 깜짝 등장한 '화가' 박신양의 고백에 팬들 오열한 이유]]></title>
-        <id>https://www.elle.co.kr/article/83669</id>
-        <link href="https://www.elle.co.kr/article/83669"/>
-        <updated>2024-01-16T08:16:59.526Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐스팅 확정 후 1년 반 만에 공개되는 넷플릭스 기대작 '살인자ㅇ난감' 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/83668</id>
-        <link href="https://www.elle.co.kr/article/83668"/>
-        <updated>2024-01-16T07:12:30.956Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최강 축구 대표팀의 아시안컵 일정부터 개고기 금지법 통과까지 #이번주요약]]></title>
-        <id>https://www.elle.co.kr/article/83649</id>
-        <link href="https://www.elle.co.kr/article/83649"/>
-        <updated>2024-01-16T00:55:08.879Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 최강 전력, 64년 만의 정상 도전? 아시안컵 축구 대표팀 일정 총정리]]></title>
-        <id>https://www.elle.co.kr/article/83638</id>
-        <link href="https://www.elle.co.kr/article/83638"/>
-        <updated>2024-01-15T12:23:24.649Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핑크 헤어 아이유 셀카 실시간으로 따라한 박재범X김민수의 손민수샷.jpg]]></title>
-        <id>https://www.elle.co.kr/article/83635</id>
-        <link href="https://www.elle.co.kr/article/83635"/>
-        <updated>2024-01-15T11:11:51.765Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘정의로운 과부’ 이하늬X외계인과 싸우는 김태리! 매력있는 여성 캐릭터에 빠질 1월 둘째주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83628</id>
-        <link href="https://www.elle.co.kr/article/83628"/>
-        <updated>2024-01-15T10:14:48.635Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매콤한 수프 카레부터 인생 라멘까지! 혜리의 삿포로 맛집 탐방 3]]></title>
-        <id>https://www.elle.co.kr/article/83627</id>
-        <link href="https://www.elle.co.kr/article/83627"/>
-        <updated>2024-01-15T09:13:37.443Z</updated>
-        <content type="html"><![CDATA[혜리가 ‘먹도장’ 찍고 온 삿포로의 맛집 리스트를 놓치지 마세요.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 17 Jan 2024 04:17:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10살 연하 남친부터 인간관계 이야기까지, 한예슬이 직접 밝힌 근황 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/83673</link>
+            <guid>https://www.elle.co.kr/article/83673</guid>
+            <pubDate>Tue, 16 Jan 2024 09:13:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/b76a0042-e5e3-4e00-9729-cb422489ab4b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뉴스룸' 깜짝 등장한 '화가' 박신양의 고백에 팬들 오열한 이유]]></title>
+            <link>https://www.elle.co.kr/article/83669</link>
+            <guid>https://www.elle.co.kr/article/83669</guid>
+            <pubDate>Tue, 16 Jan 2024 08:16:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/51c8eba0-9a7a-41e0-b2de-9603d0161474.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캐스팅 확정 후 1년 반 만에 공개되는 넷플릭스 기대작 '살인자ㅇ난감' 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/83668</link>
+            <guid>https://www.elle.co.kr/article/83668</guid>
+            <pubDate>Tue, 16 Jan 2024 07:12:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/7ea45f86-0be5-4822-b8a0-58c6905973d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최강 축구 대표팀의 아시안컵 일정부터 개고기 금지법 통과까지 #이번주요약]]></title>
+            <link>https://www.elle.co.kr/article/83649</link>
+            <guid>https://www.elle.co.kr/article/83649</guid>
+            <pubDate>Tue, 16 Jan 2024 00:55:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/14/a4ce3ab9-3c38-41ba-96ee-2751163cd2f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역대 최강 전력, 64년 만의 정상 도전? 아시안컵 축구 대표팀 일정 총정리]]></title>
+            <link>https://www.elle.co.kr/article/83638</link>
+            <guid>https://www.elle.co.kr/article/83638</guid>
+            <pubDate>Mon, 15 Jan 2024 12:23:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/509f9a5b-5bab-44be-b5d9-d93d5f253517.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핑크 헤어 아이유 셀카 실시간으로 따라한 박재범X김민수의 손민수샷.jpg]]></title>
+            <link>https://www.elle.co.kr/article/83635</link>
+            <guid>https://www.elle.co.kr/article/83635</guid>
+            <pubDate>Mon, 15 Jan 2024 11:11:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/9aa2d3a1-306c-4aa8-b607-0879829519f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘정의로운 과부’ 이하늬X외계인과 싸우는 김태리! 매력있는 여성 캐릭터에 빠질 1월 둘째주 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/83628</link>
+            <guid>https://www.elle.co.kr/article/83628</guid>
+            <pubDate>Mon, 15 Jan 2024 10:14:48 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/dc4c4b64-d3d4-4153-9408-65f6ce372c53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매콤한 수프 카레부터 인생 라멘까지! 혜리의 삿포로 맛집 탐방 3]]></title>
+            <link>https://www.elle.co.kr/article/83627</link>
+            <guid>https://www.elle.co.kr/article/83627</guid>
+            <pubDate>Mon, 15 Jan 2024 09:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[혜리가 ‘먹도장’ 찍고 온 삿포로의 맛집 리스트를 놓치지 마세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/3b05a132-3d29-4d1a-b5f4-e144110e58fe.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
