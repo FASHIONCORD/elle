@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-17T18:17:41.377Z</updated>
+    <updated>2024-01-17T19:12:00.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[군대에서도 최고! 최정예훈련병 된 RM X 뷔 (ft. RM 신병수료식 연설)]]></title>
+        <id>https://www.elle.co.kr/article/83689</id>
+        <link href="https://www.elle.co.kr/article/83689"/>
+        <updated>2024-01-17T19:11:07.344Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여전히 보여주고 싶은 색깔이 많은 한소희가 엘르 카메라 앞에 섰다.]]></title>
         <id>https://www.elle.co.kr/article/83676</id>
@@ -46,11 +52,5 @@
         <id>https://www.elle.co.kr/article/83638</id>
         <link href="https://www.elle.co.kr/article/83638"/>
         <updated>2024-01-15T12:23:24.649Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핑크 헤어 아이유 셀카 실시간으로 따라한 박재범X김민수의 손민수샷.jpg]]></title>
-        <id>https://www.elle.co.kr/article/83635</id>
-        <link href="https://www.elle.co.kr/article/83635"/>
-        <updated>2024-01-15T11:11:51.765Z</updated>
     </entry>
 </feed>
