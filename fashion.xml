@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-17T05:14:12.691Z</updated>
+    <updated>2024-01-17T06:17:27.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해리 스타일스가 투자한 패션 브랜드]]></title>
+        <id>https://www.elle.co.kr/article/83664</id>
+        <link href="https://www.elle.co.kr/article/83664"/>
+        <updated>2024-01-17T06:16:22.997Z</updated>
+        <content type="html"><![CDATA[일단 화제성은 상한가! 스티븐 스토키 달리가 만든 S.S.달리.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시, 구찌]]></title>
         <id>https://www.elle.co.kr/article/83663</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/83609"/>
         <updated>2024-01-14T15:11:26.165Z</updated>
         <content type="html"><![CDATA[예쁘고 느낌 있는 스키복 입으면 기분이 좋거든요~ 설원 위 인생 사진을 위해 스타들의 스키장...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생 로랑과 에르메스, 다이아몬드? 에스실 대표 김영실이 앤데믹을 대하는 법!]]></title>
-        <id>https://www.elle.co.kr/article/83594</id>
-        <link href="https://www.elle.co.kr/article/83594"/>
-        <updated>2024-01-14T08:15:21.867Z</updated>
-        <content type="html"><![CDATA[사물(사람과 물건) 인터뷰 #11 에스실 대표 김영실]]></content>
     </entry>
 </feed>

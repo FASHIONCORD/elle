@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 05:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 06:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해리 스타일스가 투자한 패션 브랜드 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/83664</link>
+            <guid>https://www.elle.co.kr/article/83664</guid>
+            <pubDate>Wed, 17 Jan 2024 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[일단 화제성은 상한가! 스티븐 스토키 달리가 만든 S.S.달리.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[다시, 구찌 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/83663</link>
             <guid>https://www.elle.co.kr/article/83663</guid>
@@ -885,13 +892,6 @@
             <guid>https://www.elle.co.kr/article/83609</guid>
             <pubDate>Sun, 14 Jan 2024 15:11:26 GMT</pubDate>
             <content:encoded><![CDATA[예쁘고 느낌 있는 스키복 입으면 기분이 좋거든요~ 설원 위 인생 사진을 위해 스타들의 스키장...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[생 로랑과 에르메스, 다이아몬드? 에스실 대표 김영실이 앤데믹을 대하는 법! (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/83594</link>
-            <guid>https://www.elle.co.kr/article/83594</guid>
-            <pubDate>Sun, 14 Jan 2024 08:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[사물(사람과 물건) 인터뷰 #11 에스실 대표 김영실]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지난해 국내 뷰티시장을 이끈 K뷰티 리더 제품은? #엘르뷰티어워즈2024 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1213,12 +1213,14 @@
             <guid>https://www.elle.co.kr/article/83684</guid>
             <pubDate>Tue, 16 Jan 2024 02:28:09 GMT</pubDate>
             <content:encoded><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/d6543b20-b945-4109-8eae-d25350119eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흔적으로 지은 덩어리: 정현 개인전 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/83683</link>
             <guid>https://www.elle.co.kr/article/83683</guid>
             <pubDate>Tue, 16 Jan 2024 02:28:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/f0a730ca-d635-4714-a4f4-471ea3d29bb5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소파가 된 몽클레르의 블랙 다운 재킷 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1226,6 +1228,7 @@
             <guid>https://www.elle.co.kr/article/83572</guid>
             <pubDate>Thu, 11 Jan 2024 15:13:53 GMT</pubDate>
             <content:encoded><![CDATA[작가 연진영과 몽클레르가 함께 완성한, 순환하는 검은 거실.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/b67a7dc5-453c-4bcf-87ce-a1f469426fd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화를 사랑한다면? 겨울에는 파주로 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1233,6 +1236,7 @@
             <guid>https://www.elle.co.kr/article/83605</guid>
             <pubDate>Wed, 10 Jan 2024 15:14:12 GMT</pubDate>
             <content:encoded><![CDATA[한국영화계의 가장 든든한 이름, 명필름 아트센터의 변신]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/11/87bee5ab-12a0-4e73-9b45-133900ecf089.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가게가 예뻐야 지갑 열 맛이 난다면 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1294,6 +1298,12 @@
             <content:encoded><![CDATA[수많은 문장을 따라 다져온 김수진의 취향.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뷔페부터 애프터눈 티세트까지! 제철 딸기 활용한 호텔 디저트 추천 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83634</link>
+            <guid>https://www.elle.co.kr/article/83634</guid>
+            <pubDate>Wed, 17 Jan 2024 06:17:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[아자부다이 힐스 디저트 원정대 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83633</link>
             <guid>https://www.elle.co.kr/article/83633</guid>
@@ -1338,12 +1348,6 @@
             <link>https://www.elle.co.kr/article/83505</link>
             <guid>https://www.elle.co.kr/article/83505</guid>
             <pubDate>Thu, 11 Jan 2024 19:11:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[아자부다이 힐스를 즐기는 다섯 가지 방법 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83500</link>
-            <guid>https://www.elle.co.kr/article/83500</guid>
-            <pubDate>Wed, 10 Jan 2024 06:18:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 신묘한 육아의 세계 (엘르 코리아 ─ 소사이어티)]]></title>
