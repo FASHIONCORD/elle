@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 04:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 05:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다시, 구찌 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/83663</link>
+            <guid>https://www.elle.co.kr/article/83663</guid>
+            <pubDate>Wed, 17 Jan 2024 05:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[사바토 데 사르노가 2024 가을-겨울 남성복 컬렉션을 공개했다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[작고 소중한 키 링 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/83655</link>
             <guid>https://www.elle.co.kr/article/83655</guid>
@@ -885,13 +892,6 @@
             <guid>https://www.elle.co.kr/article/83594</guid>
             <pubDate>Sun, 14 Jan 2024 08:15:21 GMT</pubDate>
             <content:encoded><![CDATA[사물(사람과 물건) 인터뷰 #11 에스실 대표 김영실]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한파도 두렵지 않은 머플러 스타일링 5 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/83590</link>
-            <guid>https://www.elle.co.kr/article/83590</guid>
-            <pubDate>Sat, 13 Jan 2024 19:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[매서운 겨울 바람을 막아주면서 스타일까지 챙겨 주는 기특한 아이템! 셀러브리티의 윈터 룩에서...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지난해 국내 뷰티시장을 이끈 K뷰티 리더 제품은? #엘르뷰티어워즈2024 (엘르 코리아 ─ 뷰티)]]></title>
@@ -952,49 +952,42 @@
             <link>https://www.elle.co.kr/article/83673</link>
             <guid>https://www.elle.co.kr/article/83673</guid>
             <pubDate>Tue, 16 Jan 2024 09:13:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/b76a0042-e5e3-4e00-9729-cb422489ab4b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['뉴스룸' 깜짝 등장한 '화가' 박신양의 고백에 팬들 오열한 이유 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83669</link>
             <guid>https://www.elle.co.kr/article/83669</guid>
             <pubDate>Tue, 16 Jan 2024 08:16:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/51c8eba0-9a7a-41e0-b2de-9603d0161474.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캐스팅 확정 후 1년 반 만에 공개되는 넷플릭스 기대작 '살인자ㅇ난감' 정보.txt (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83668</link>
             <guid>https://www.elle.co.kr/article/83668</guid>
             <pubDate>Mon, 15 Jan 2024 09:14:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/7ea45f86-0be5-4822-b8a0-58c6905973d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최강 축구 대표팀의 아시안컵 일정부터 개고기 금지법 통과까지 #이번주요약 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83649</link>
             <guid>https://www.elle.co.kr/article/83649</guid>
             <pubDate>Tue, 16 Jan 2024 00:55:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/14/a4ce3ab9-3c38-41ba-96ee-2751163cd2f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역대 최강 전력, 64년 만의 정상 도전? 아시안컵 축구 대표팀 일정 총정리 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83638</link>
             <guid>https://www.elle.co.kr/article/83638</guid>
             <pubDate>Mon, 15 Jan 2024 12:23:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/509f9a5b-5bab-44be-b5d9-d93d5f253517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핑크 헤어 아이유 셀카 실시간으로 따라한 박재범X김민수의 손민수샷.jpg (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83635</link>
             <guid>https://www.elle.co.kr/article/83635</guid>
             <pubDate>Mon, 15 Jan 2024 11:11:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/9aa2d3a1-306c-4aa8-b607-0879829519f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘정의로운 과부’ 이하늬X외계인과 싸우는 김태리! 매력있는 여성 캐릭터에 빠질 1월 둘째주 #신작이OnAir (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83628</link>
             <guid>https://www.elle.co.kr/article/83628</guid>
             <pubDate>Fri, 12 Jan 2024 07:12:28 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/dc4c4b64-d3d4-4153-9408-65f6ce372c53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매콤한 수프 카레부터 인생 라멘까지! 혜리의 삿포로 맛집 탐방 3 (엘르 코리아 ─ 스타)]]></title>
@@ -1002,7 +995,6 @@
             <guid>https://www.elle.co.kr/article/83627</guid>
             <pubDate>Mon, 15 Jan 2024 09:13:37 GMT</pubDate>
             <content:encoded><![CDATA[혜리가 ‘먹도장’ 찍고 온 삿포로의 맛집 리스트를 놓치지 마세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/3b05a132-3d29-4d1a-b5f4-e144110e58fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진한 여운과 함께 종영한 '마에스트라' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
