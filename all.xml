@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 12:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 13:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -997,6 +997,13 @@
             <pubDate>Mon, 15 Jan 2024 11:11:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/83684</link>
+            <guid>https://www.elle.co.kr/article/83684</guid>
+            <pubDate>Tue, 16 Jan 2024 02:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[흔적으로 지은 덩어리: 정현 개인전 #요즘전시 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/83683</link>
             <guid>https://www.elle.co.kr/article/83683</guid>
@@ -1037,13 +1044,6 @@
             <link>https://www.elle.co.kr/article/83628</link>
             <guid>https://www.elle.co.kr/article/83628</guid>
             <pubDate>Fri, 12 Jan 2024 07:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[소파가 된 몽클레르의 블랙 다운 재킷 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/83572</link>
-            <guid>https://www.elle.co.kr/article/83572</guid>
-            <pubDate>Thu, 11 Jan 2024 15:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[작가 연진영과 몽클레르가 함께 완성한, 순환하는 검은 거실.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내 남자친구가 라이즈처럼 데님 입어주면 좋겠다 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1209,6 +1209,12 @@
             <pubDate>Thu, 04 Jan 2024 01:54:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[아파트에서 타운하우스로 이사 간 갤러리 이목화랑 대표 부부의 4층 주택 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83725</link>
+            <guid>https://www.elle.co.kr/article/83725</guid>
+            <pubDate>Wed, 17 Jan 2024 13:16:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/83684</link>
             <guid>https://www.elle.co.kr/article/83684</guid>
@@ -1286,13 +1292,6 @@
             <guid>https://www.elle.co.kr/article/83281</guid>
             <pubDate>Sun, 24 Dec 2023 15:11:52 GMT</pubDate>
             <content:encoded><![CDATA[낡고 부서진 것을 향해 가는 수선가들의 이야기.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우연과 상상의 힘, 어쩌다 책방 디렉터 김수진 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/83279</link>
-            <guid>https://www.elle.co.kr/article/83279</guid>
-            <pubDate>Sat, 23 Dec 2023 16:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[수많은 문장을 따라 다져온 김수진의 취향.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뷔페부터 애프터눈 티세트까지! 제철 딸기 활용한 호텔 디저트 추천 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
