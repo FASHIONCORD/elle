@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 08:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 09:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1347,6 +1347,12 @@
             <pubDate>Thu, 11 Jan 2024 19:11:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[2027년, 개고기가 한국에서 사라진다 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/83604</link>
+            <guid>https://www.elle.co.kr/article/83604</guid>
+            <pubDate>Thu, 18 Jan 2024 09:14:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스] 신묘한 육아의 세계 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/83587</link>
             <guid>https://www.elle.co.kr/article/83587</guid>
@@ -1390,12 +1396,6 @@
             <link>https://www.elle.co.kr/article/83331</link>
             <guid>https://www.elle.co.kr/article/83331</guid>
             <pubDate>Mon, 08 Jan 2024 15:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[워킹맘이 말하는 '엄마의 자격'과 '타협할 용기' #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/83269</link>
-            <guid>https://www.elle.co.kr/article/83269</guid>
-            <pubDate>Sun, 07 Jan 2024 15:13:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
