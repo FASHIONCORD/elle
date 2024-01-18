@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 23:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 00:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1039,12 +1039,14 @@
             <link>https://www.elle.co.kr/article/83638</link>
             <guid>https://www.elle.co.kr/article/83638</guid>
             <pubDate>Mon, 15 Jan 2024 12:23:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/509f9a5b-5bab-44be-b5d9-d93d5f253517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘정의로운 과부’ 이하늬X외계인과 싸우는 김태리! 매력있는 여성 캐릭터에 빠질 1월 둘째주 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/83628</link>
             <guid>https://www.elle.co.kr/article/83628</guid>
             <pubDate>Fri, 12 Jan 2024 07:12:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/dc4c4b64-d3d4-4153-9408-65f6ce372c53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 남자친구가 라이즈처럼 데님 입어주면 좋겠다 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
