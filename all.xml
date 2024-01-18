@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 17:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 18:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1214,6 +1214,7 @@
             <link>https://www.elle.co.kr/article/83729</link>
             <guid>https://www.elle.co.kr/article/83729</guid>
             <pubDate>Thu, 18 Jan 2024 01:57:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/61d36af4-dd40-422f-9a8c-96c73bf1995a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리츠한센의 첫 로킹 홀스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1221,6 +1222,7 @@
             <guid>https://www.elle.co.kr/article/83715</guid>
             <pubDate>Wed, 17 Jan 2024 15:13:47 GMT</pubDate>
             <content:encoded><![CDATA[어느 날 프리츠한센 헤리티지 팀이 발견한 1946년의 비밀스러운 사진 두 장.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/60026085-b358-45b0-bf83-73a81da40354.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1228,12 +1230,14 @@
             <guid>https://www.elle.co.kr/article/83684</guid>
             <pubDate>Tue, 16 Jan 2024 02:28:09 GMT</pubDate>
             <content:encoded><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/d6543b20-b945-4109-8eae-d25350119eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흔적으로 지은 덩어리: 정현 개인전 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/83683</link>
             <guid>https://www.elle.co.kr/article/83683</guid>
             <pubDate>Tue, 16 Jan 2024 02:28:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/f0a730ca-d635-4714-a4f4-471ea3d29bb5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소파가 된 몽클레르의 블랙 다운 재킷 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
