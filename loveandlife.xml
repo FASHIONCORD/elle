@@ -1,61 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/loveandlife</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-01-18T20:14:43.656Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[TV 보다가 출출해지면 한 숟갈 퍼먹는 소파]]></title>
-        <id>https://www.elle.co.kr/article/83662</id>
-        <link href="https://www.elle.co.kr/article/83662"/>
-        <updated>2024-01-18T19:11:55.879Z</updated>
-        <content type="html"><![CDATA[보기 좋은 가구가 먹기도 좋다?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스키 타고 출입할 수 있는 해외 숙소 3]]></title>
-        <id>https://www.elle.co.kr/article/83641</id>
-        <link href="https://www.elle.co.kr/article/83641"/>
-        <updated>2024-01-18T10:14:36.149Z</updated>
-        <content type="html"><![CDATA[아직도 집에 들어갈 때 스키 부츠 벗는 사람?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷔페부터 애프터눈 티세트까지! 제철 딸기 활용한 호텔 디저트 추천 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/83634</id>
-        <link href="https://www.elle.co.kr/article/83634"/>
-        <updated>2024-01-17T06:17:18.504Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아자부다이 힐스 디저트 원정대 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/83633</id>
-        <link href="https://www.elle.co.kr/article/83633"/>
-        <updated>2024-01-16T09:14:14.836Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매콤한 수프 카레부터 인생 라멘까지! 혜리의 삿포로 맛집 탐방 3]]></title>
-        <id>https://www.elle.co.kr/article/83627</id>
-        <link href="https://www.elle.co.kr/article/83627"/>
-        <updated>2024-01-16T02:29:05.863Z</updated>
-        <content type="html"><![CDATA[혜리가 ‘먹도장’ 찍고 온 삿포로의 맛집 리스트를 놓치지 마세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<프렌즈> 레이첼이 사는 동네가 15분 도시?]]></title>
-        <id>https://www.elle.co.kr/article/83597</id>
-        <link href="https://www.elle.co.kr/article/83597"/>
-        <updated>2024-01-15T03:15:17.092Z</updated>
-        <content type="html"><![CDATA[아, 15분 도시가 뭐냐 하면요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인이라면 새해에 무조건 먹어야 할 떡국 맛집 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/83584</id>
-        <link href="https://www.elle.co.kr/article/83584"/>
-        <updated>2024-01-12T12:23:35.469Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가게가 예뻐야 지갑 열 맛이 난다면]]></title>
-        <id>https://www.elle.co.kr/article/83583</id>
-        <link href="https://www.elle.co.kr/article/83583"/>
-        <updated>2024-01-12T09:14:09.408Z</updated>
-        <content type="html"><![CDATA[헤더윅 스튜디오가 디자인한 중국의 쇼핑 명소.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 18 Jan 2024 21:12:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TV 보다가 출출해지면 한 숟갈 퍼먹는 소파]]></title>
+            <link>https://www.elle.co.kr/article/83662</link>
+            <guid>https://www.elle.co.kr/article/83662</guid>
+            <pubDate>Thu, 18 Jan 2024 19:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[보기 좋은 가구가 먹기도 좋다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/6a4d868a-e68c-4bd5-8a33-bdc690847d92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스키 타고 출입할 수 있는 해외 숙소 3]]></title>
+            <link>https://www.elle.co.kr/article/83641</link>
+            <guid>https://www.elle.co.kr/article/83641</guid>
+            <pubDate>Thu, 18 Jan 2024 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[아직도 집에 들어갈 때 스키 부츠 벗는 사람?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/7f963507-019e-4968-ae45-975f707c8037.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뷔페부터 애프터눈 티세트까지! 제철 딸기 활용한 호텔 디저트 추천 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/83634</link>
+            <guid>https://www.elle.co.kr/article/83634</guid>
+            <pubDate>Wed, 17 Jan 2024 06:17:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/c83d66c0-dc1c-4ca3-ac4f-18d72f6be0e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아자부다이 힐스 디저트 원정대 #도쿄핫플]]></title>
+            <link>https://www.elle.co.kr/article/83633</link>
+            <guid>https://www.elle.co.kr/article/83633</guid>
+            <pubDate>Tue, 16 Jan 2024 09:14:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/f5a4c129-7d58-478a-81ae-2801122e530c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매콤한 수프 카레부터 인생 라멘까지! 혜리의 삿포로 맛집 탐방 3]]></title>
+            <link>https://www.elle.co.kr/article/83627</link>
+            <guid>https://www.elle.co.kr/article/83627</guid>
+            <pubDate>Tue, 16 Jan 2024 02:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[혜리가 ‘먹도장’ 찍고 온 삿포로의 맛집 리스트를 놓치지 마세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/3b05a132-3d29-4d1a-b5f4-e144110e58fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<프렌즈> 레이첼이 사는 동네가 15분 도시?]]></title>
+            <link>https://www.elle.co.kr/article/83597</link>
+            <guid>https://www.elle.co.kr/article/83597</guid>
+            <pubDate>Mon, 15 Jan 2024 03:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[아, 15분 도시가 뭐냐 하면요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/24e17b07-771b-48b3-9836-711172c8c3d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국인이라면 새해에 무조건 먹어야 할 떡국 맛집 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/83584</link>
+            <guid>https://www.elle.co.kr/article/83584</guid>
+            <pubDate>Fri, 12 Jan 2024 12:23:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/ee99d06f-ff74-41e1-8e88-c7e78350fbd2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가게가 예뻐야 지갑 열 맛이 난다면]]></title>
+            <link>https://www.elle.co.kr/article/83583</link>
+            <guid>https://www.elle.co.kr/article/83583</guid>
+            <pubDate>Fri, 12 Jan 2024 09:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[헤더윅 스튜디오가 디자인한 중국의 쇼핑 명소.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/07b5db42-7731-4d7e-bfb3-64e67da4dbb0.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

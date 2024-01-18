@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 20:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 21:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1002,6 +1002,7 @@
             <link>https://www.elle.co.kr/article/83691</link>
             <guid>https://www.elle.co.kr/article/83691</guid>
             <pubDate>Thu, 18 Jan 2024 01:56:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/42bfe63f-46d1-4cea-9c93-bb33a7be725b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1009,42 +1010,49 @@
             <guid>https://www.elle.co.kr/article/83684</guid>
             <pubDate>Tue, 16 Jan 2024 02:28:09 GMT</pubDate>
             <content:encoded><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/d6543b20-b945-4109-8eae-d25350119eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흔적으로 지은 덩어리: 정현 개인전 #요즘전시 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/83683</link>
             <guid>https://www.elle.co.kr/article/83683</guid>
             <pubDate>Tue, 16 Jan 2024 02:28:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/f0a730ca-d635-4714-a4f4-471ea3d29bb5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진한 여운과 함께 종영한 '마에스트라' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/83674</link>
             <guid>https://www.elle.co.kr/article/83674</guid>
             <pubDate>Mon, 15 Jan 2024 12:23:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/59bffc1d-763e-4b74-af7c-b0157fff8058.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드디어 남자 아시안컵에도 첫 여자 심판이 등장했다 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/83672</link>
             <guid>https://www.elle.co.kr/article/83672</guid>
             <pubDate>Tue, 16 Jan 2024 09:13:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/71d58cb0-7c90-4979-a05d-fb3238dc00df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캐스팅 확정 후 1년 반 만에 공개되는 넷플릭스 기대작 '살인자ㅇ난감' 정보.txt (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/83668</link>
             <guid>https://www.elle.co.kr/article/83668</guid>
             <pubDate>Mon, 15 Jan 2024 09:14:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/7ea45f86-0be5-4822-b8a0-58c6905973d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최강 축구 대표팀의 아시안컵 일정부터 개고기 금지법 통과까지 #이번주요약 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/83649</link>
             <guid>https://www.elle.co.kr/article/83649</guid>
             <pubDate>Tue, 16 Jan 2024 00:55:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/14/a4ce3ab9-3c38-41ba-96ee-2751163cd2f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역대 최강 전력, 64년 만의 정상 도전? 아시안컵 축구 대표팀 일정 총정리 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/83638</link>
             <guid>https://www.elle.co.kr/article/83638</guid>
             <pubDate>Mon, 15 Jan 2024 12:23:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/509f9a5b-5bab-44be-b5d9-d93d5f253517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 남자친구가 라이즈처럼 데님 입어주면 좋겠다 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1052,6 +1060,7 @@
             <guid>https://www.elle.co.kr/article/83723</guid>
             <pubDate>Wed, 17 Jan 2024 11:11:29 GMT</pubDate>
             <content:encoded><![CDATA[남자친구가 이렇게 입어주길. 라이즈의 파리 OOTD에서 살펴본 데님 스타일링!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/7efb0356-5d44-4756-913c-22b50cbb8e47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1059,18 +1068,21 @@
             <guid>https://www.elle.co.kr/article/83684</guid>
             <pubDate>Tue, 16 Jan 2024 02:28:09 GMT</pubDate>
             <content:encoded><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/d6543b20-b945-4109-8eae-d25350119eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공연계 플미 거래 아웃?! 예매 전체 취소시킨 장범준의 콘서트 정보 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83518</link>
             <guid>https://www.elle.co.kr/article/83518</guid>
             <pubDate>Sat, 06 Jan 2024 17:11:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/07/65ddd40a-74ad-4045-b64e-c31189d172fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악방송 MC 데뷔하는 이효리의 '레드카펫' 첫 게스트 라인업.list (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83465</link>
             <guid>https://www.elle.co.kr/article/83465</guid>
             <pubDate>Thu, 04 Jan 2024 01:54:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/04/f1cf342e-d02a-458a-b85e-994e3b676f7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 연말에는 푸바오X성시경X페이커가 있다?! 2023 연말 이벤트 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1300,6 +1312,7 @@
             <guid>https://www.elle.co.kr/article/83662</guid>
             <pubDate>Thu, 18 Jan 2024 19:11:55 GMT</pubDate>
             <content:encoded><![CDATA[보기 좋은 가구가 먹기도 좋다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/6a4d868a-e68c-4bd5-8a33-bdc690847d92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스키 타고 출입할 수 있는 해외 숙소 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1307,18 +1320,21 @@
             <guid>https://www.elle.co.kr/article/83641</guid>
             <pubDate>Thu, 18 Jan 2024 10:14:36 GMT</pubDate>
             <content:encoded><![CDATA[아직도 집에 들어갈 때 스키 부츠 벗는 사람?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/7f963507-019e-4968-ae45-975f707c8037.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뷔페부터 애프터눈 티세트까지! 제철 딸기 활용한 호텔 디저트 추천 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83634</link>
             <guid>https://www.elle.co.kr/article/83634</guid>
             <pubDate>Wed, 17 Jan 2024 06:17:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/c83d66c0-dc1c-4ca3-ac4f-18d72f6be0e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아자부다이 힐스 디저트 원정대 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83633</link>
             <guid>https://www.elle.co.kr/article/83633</guid>
             <pubDate>Tue, 16 Jan 2024 09:14:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/f5a4c129-7d58-478a-81ae-2801122e530c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매콤한 수프 카레부터 인생 라멘까지! 혜리의 삿포로 맛집 탐방 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1326,6 +1342,7 @@
             <guid>https://www.elle.co.kr/article/83627</guid>
             <pubDate>Mon, 15 Jan 2024 09:13:37 GMT</pubDate>
             <content:encoded><![CDATA[혜리가 ‘먹도장’ 찍고 온 삿포로의 맛집 리스트를 놓치지 마세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/3b05a132-3d29-4d1a-b5f4-e144110e58fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<프렌즈> 레이첼이 사는 동네가 15분 도시? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1333,12 +1350,14 @@
             <guid>https://www.elle.co.kr/article/83597</guid>
             <pubDate>Mon, 15 Jan 2024 03:15:17 GMT</pubDate>
             <content:encoded><![CDATA[아, 15분 도시가 뭐냐 하면요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/24e17b07-771b-48b3-9836-711172c8c3d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국인이라면 새해에 무조건 먹어야 할 떡국 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83584</link>
             <guid>https://www.elle.co.kr/article/83584</guid>
             <pubDate>Fri, 12 Jan 2024 12:23:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/ee99d06f-ff74-41e1-8e88-c7e78350fbd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가게가 예뻐야 지갑 열 맛이 난다면 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1346,6 +1365,7 @@
             <guid>https://www.elle.co.kr/article/83583</guid>
             <pubDate>Tue, 09 Jan 2024 10:14:23 GMT</pubDate>
             <content:encoded><![CDATA[헤더윅 스튜디오가 디자인한 중국의 쇼핑 명소.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/07b5db42-7731-4d7e-bfb3-64e67da4dbb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2027년, 개고기가 한국에서 사라진다 (엘르 코리아 ─ 소사이어티)]]></title>
