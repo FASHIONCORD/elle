@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-19T13:16:14.359Z</updated>
+    <updated>2024-01-19T14:13:28.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김윤지의 제 2막]]></title>
+        <id>https://www.elle.co.kr/article/83776</id>
+        <link href="https://www.elle.co.kr/article/83776"/>
+        <updated>2024-01-19T14:12:35.854Z</updated>
+        <content type="html"><![CDATA[꿈꿔온 일이 현실로 눈앞에 펼쳐진 지금, 김윤지의 두 번째 챕터가 시작된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두 번째 공개 연애 vs 홍보?! 현아X용준형 커플 사진 기습 공개에 나온 소속사 입장]]></title>
         <id>https://www.elle.co.kr/article/83761</id>
@@ -48,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/83727"/>
         <updated>2024-01-19T02:29:42.510Z</updated>
         <content type="html"><![CDATA[자기 관리에 철저한 이들을 보며 동기부여를 해보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽시양X임현주, 커플룩 입고 보낸 생일 여행.jpg #럽스타그램]]></title>
-        <id>https://www.elle.co.kr/article/83721</id>
-        <link href="https://www.elle.co.kr/article/83721"/>
-        <updated>2024-01-18T10:13:56.860Z</updated>
     </entry>
 </feed>
