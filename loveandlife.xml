@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-01-19T14:13:28.128Z</updated>
+    <updated>2024-01-19T15:14:57.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[25세 농부 청년 줄리어스 로버츠의 제철 레서피]]></title>
+        <id>https://www.elle.co.kr/article/83710</id>
+        <link href="https://www.elle.co.kr/article/83710"/>
+        <updated>2024-01-19T15:14:47.155Z</updated>
+        <content type="html"><![CDATA[소셜 미디어 속 스타 요리사이자 25세 농부 청년 줄리어스 로버츠가 말하는, 믿을 수 없을 정...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼달리' 지창욱X신혜선 로맨스가 이곳에서? 드라마 촬영 명소 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/83698</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/83627"/>
         <updated>2024-01-16T02:29:05.863Z</updated>
         <content type="html"><![CDATA[혜리가 ‘먹도장’ 찍고 온 삿포로의 맛집 리스트를 놓치지 마세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<프렌즈> 레이첼이 사는 동네가 15분 도시?]]></title>
-        <id>https://www.elle.co.kr/article/83597</id>
-        <link href="https://www.elle.co.kr/article/83597"/>
-        <updated>2024-01-15T03:15:17.092Z</updated>
-        <content type="html"><![CDATA[아, 15분 도시가 뭐냐 하면요.]]></content>
     </entry>
 </feed>

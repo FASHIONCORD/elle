@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-19T14:13:28.119Z</updated>
+    <updated>2024-01-19T15:14:57.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웅장하고 아름다운 너의 실루엣]]></title>
+        <id>https://www.elle.co.kr/article/83713</id>
+        <link href="https://www.elle.co.kr/article/83713"/>
+        <updated>2024-01-19T15:13:38.425Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 한 번 화이트]]></title>
         <id>https://www.elle.co.kr/article/83708</id>
@@ -52,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/83655"/>
         <updated>2024-01-16T19:10:35.496Z</updated>
         <content type="html"><![CDATA[주렁주렁.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼렐 윌리엄스, 니고와 한솥밥 먹는다?]]></title>
-        <id>https://www.elle.co.kr/article/83651</id>
-        <link href="https://www.elle.co.kr/article/83651"/>
-        <updated>2024-01-16T11:11:22.502Z</updated>
-        <content type="html"><![CDATA[20년도 넘은 이들의 끈끈한 우정!]]></content>
     </entry>
 </feed>

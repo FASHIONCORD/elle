@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 14:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 15:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,12 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[웅장하고 아름다운 너의 실루엣 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/83713</link>
+            <guid>https://www.elle.co.kr/article/83713</guid>
+            <pubDate>Fri, 19 Jan 2024 15:13:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[다시 한 번 화이트 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/83708</link>
             <guid>https://www.elle.co.kr/article/83708</guid>
@@ -885,13 +891,6 @@
             <guid>https://www.elle.co.kr/article/83655</guid>
             <pubDate>Tue, 16 Jan 2024 19:10:35 GMT</pubDate>
             <content:encoded><![CDATA[주렁주렁.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[퍼렐 윌리엄스, 니고와 한솥밥 먹는다? (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/83651</link>
-            <guid>https://www.elle.co.kr/article/83651</guid>
-            <pubDate>Tue, 16 Jan 2024 11:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[20년도 넘은 이들의 끈끈한 우정!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[황신혜의 이너 뷰티를 책임지는 영양제.list (엘르 코리아 ─ 뷰티)]]></title>
@@ -1136,18 +1135,21 @@
             <link>https://www.elle.co.kr/article/83759</link>
             <guid>https://www.elle.co.kr/article/83759</guid>
             <pubDate>Fri, 19 Jan 2024 02:30:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/fb0bf489-a2fc-4776-af48-27291be5d4ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역대 박스오피스 10위 올라 선 '서울의 봄' 제작사 차기작 모음.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/83702</link>
             <guid>https://www.elle.co.kr/article/83702</guid>
             <pubDate>Wed, 17 Jan 2024 01:57:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/ac1cf2ee-ce18-4032-891b-44ce823057eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['삼달리' 지창욱X신혜선 로맨스가 이곳에서? 드라마 촬영 명소 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/83698</link>
             <guid>https://www.elle.co.kr/article/83698</guid>
             <pubDate>Tue, 16 Jan 2024 09:13:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/1dbe2479-fb94-4f18-9fe4-adccbe45c1fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1155,6 +1157,7 @@
             <guid>https://www.elle.co.kr/article/83684</guid>
             <pubDate>Tue, 16 Jan 2024 02:28:09 GMT</pubDate>
             <content:encoded><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/d6543b20-b945-4109-8eae-d25350119eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진한 여운과 함께 종영한 '마에스트라' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1296,6 +1299,13 @@
             <pubDate>Mon, 25 Dec 2023 12:22:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[25세 농부 청년 줄리어스 로버츠의 제철 레서피 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83710</link>
+            <guid>https://www.elle.co.kr/article/83710</guid>
+            <pubDate>Fri, 19 Jan 2024 15:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[소셜 미디어 속 스타 요리사이자 25세 농부 청년 줄리어스 로버츠가 말하는, 믿을 수 없을 정...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['삼달리' 지창욱X신혜선 로맨스가 이곳에서? 드라마 촬영 명소 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83698</link>
             <guid>https://www.elle.co.kr/article/83698</guid>
@@ -1339,13 +1349,6 @@
             <guid>https://www.elle.co.kr/article/83627</guid>
             <pubDate>Mon, 15 Jan 2024 09:13:37 GMT</pubDate>
             <content:encoded><![CDATA[혜리가 ‘먹도장’ 찍고 온 삿포로의 맛집 리스트를 놓치지 마세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<프렌즈> 레이첼이 사는 동네가 15분 도시? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83597</link>
-            <guid>https://www.elle.co.kr/article/83597</guid>
-            <pubDate>Mon, 15 Jan 2024 03:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[아, 15분 도시가 뭐냐 하면요.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2027년, 개고기가 한국에서 사라진다 (엘르 코리아 ─ 소사이어티)]]></title>
