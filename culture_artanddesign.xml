@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2024-01-21T16:17:03.394Z</updated>
+    <updated>2024-01-21T17:12:17.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건축에 관한 지극히 사적인 기록]]></title>
+        <id>https://www.elle.co.kr/article/83798</id>
+        <link href="https://www.elle.co.kr/article/83798"/>
+        <updated>2024-01-21T17:12:00.886Z</updated>
+        <content type="html"><![CDATA[건축 위에 성실하게 지어낸 세 권의 책. 그 목소리에 귀 기울여봤다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아파트에서 타운하우스로 이사 간 갤러리 이목화랑 대표 부부의 4층 주택 #홈터뷰]]></title>
         <id>https://www.elle.co.kr/article/83729</id>
@@ -83,11 +90,5 @@
         <id>https://www.elle.co.kr/article/83332</id>
         <link href="https://www.elle.co.kr/article/83332"/>
         <updated>2023-12-27T17:11:16.959Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 모여 산을 이루는 이야기 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/83287</id>
-        <link href="https://www.elle.co.kr/article/83287"/>
-        <updated>2023-12-25T12:22:18.552Z</updated>
     </entry>
 </feed>
