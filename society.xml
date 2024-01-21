@@ -1,59 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/society</id>
-    <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-01-21T06:17:21.535Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2027년, 개고기가 한국에서 사라진다]]></title>
-        <id>https://www.elle.co.kr/article/83604</id>
-        <link href="https://www.elle.co.kr/article/83604"/>
-        <updated>2024-01-18T09:14:11.296Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 신묘한 육아의 세계]]></title>
-        <id>https://www.elle.co.kr/article/83587</id>
-        <link href="https://www.elle.co.kr/article/83587"/>
-        <updated>2024-01-14T08:16:23.177Z</updated>
-        <content type="html"><![CDATA[엄마가 되었습니다! 임현주 아나운서가 중독된 고되고 보람찬 육아의 세계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유기견을 입양했다. 내 세계와 그의 세계가 뒤섞인 약 한 달간의 기록]]></title>
-        <id>https://www.elle.co.kr/article/83559</id>
-        <link href="https://www.elle.co.kr/article/83559"/>
-        <updated>2024-01-12T11:12:25.907Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 3차원의 세계에서 발견!]]></title>
-        <id>https://www.elle.co.kr/article/83522</id>
-        <link href="https://www.elle.co.kr/article/83522"/>
-        <updated>2024-01-12T09:14:17.894Z</updated>
-        <content type="html"><![CDATA[11년 차 운동 코치 에리카가 푹 빠진 운동, 불가리안백의 매력!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 기꺼이 먼저 연결되기]]></title>
-        <id>https://www.elle.co.kr/article/83507</id>
-        <link href="https://www.elle.co.kr/article/83507"/>
-        <updated>2024-01-11T08:17:45.622Z</updated>
-        <content type="html"><![CDATA[새해 우리에게 필요한 것은 느슨한 연결. 어쩌면 내가 만들 수 있을지도?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고급 취향은 진짜 ‘고급’일까? #돈쓸신잡 131]]></title>
-        <id>https://www.elle.co.kr/article/83468</id>
-        <link href="https://www.elle.co.kr/article/83468"/>
-        <updated>2024-01-10T13:17:49.533Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 새해에는 귀를 열고, 마음을 열고]]></title>
-        <id>https://www.elle.co.kr/article/83421</id>
-        <link href="https://www.elle.co.kr/article/83421"/>
-        <updated>2024-01-09T15:14:59.497Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키워드로 살펴보는 올해의 경제 이슈 4_돈쓸신잡 #130]]></title>
-        <id>https://www.elle.co.kr/article/83331</id>
-        <link href="https://www.elle.co.kr/article/83331"/>
-        <updated>2024-01-08T15:13:55.850Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 소사이어티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 21 Jan 2024 07:13:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2027년, 개고기가 한국에서 사라진다]]></title>
+            <link>https://www.elle.co.kr/article/83604</link>
+            <guid>https://www.elle.co.kr/article/83604</guid>
+            <pubDate>Thu, 18 Jan 2024 09:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 신묘한 육아의 세계]]></title>
+            <link>https://www.elle.co.kr/article/83587</link>
+            <guid>https://www.elle.co.kr/article/83587</guid>
+            <pubDate>Sun, 14 Jan 2024 08:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[엄마가 되었습니다! 임현주 아나운서가 중독된 고되고 보람찬 육아의 세계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유기견을 입양했다. 내 세계와 그의 세계가 뒤섞인 약 한 달간의 기록]]></title>
+            <link>https://www.elle.co.kr/article/83559</link>
+            <guid>https://www.elle.co.kr/article/83559</guid>
+            <pubDate>Fri, 12 Jan 2024 11:12:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 3차원의 세계에서 발견!]]></title>
+            <link>https://www.elle.co.kr/article/83522</link>
+            <guid>https://www.elle.co.kr/article/83522</guid>
+            <pubDate>Fri, 12 Jan 2024 09:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[11년 차 운동 코치 에리카가 푹 빠진 운동, 불가리안백의 매력!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 기꺼이 먼저 연결되기]]></title>
+            <link>https://www.elle.co.kr/article/83507</link>
+            <guid>https://www.elle.co.kr/article/83507</guid>
+            <pubDate>Thu, 11 Jan 2024 08:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[새해 우리에게 필요한 것은 느슨한 연결. 어쩌면 내가 만들 수 있을지도?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고급 취향은 진짜 ‘고급’일까? #돈쓸신잡 131]]></title>
+            <link>https://www.elle.co.kr/article/83468</link>
+            <guid>https://www.elle.co.kr/article/83468</guid>
+            <pubDate>Wed, 10 Jan 2024 13:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 새해에는 귀를 열고, 마음을 열고]]></title>
+            <link>https://www.elle.co.kr/article/83421</link>
+            <guid>https://www.elle.co.kr/article/83421</guid>
+            <pubDate>Tue, 09 Jan 2024 15:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[키워드로 살펴보는 올해의 경제 이슈 4_돈쓸신잡 #130]]></title>
+            <link>https://www.elle.co.kr/article/83331</link>
+            <guid>https://www.elle.co.kr/article/83331</guid>
+            <pubDate>Mon, 08 Jan 2024 15:13:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/28/9e6b0670-01a0-4627-9d7d-21337d9b05fa.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
