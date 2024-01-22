@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 04:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 05:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1296,6 +1296,13 @@
             <pubDate>Wed, 27 Dec 2023 17:11:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[AI가 말아주는 내 방 인테리어 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83749</link>
+            <guid>https://www.elle.co.kr/article/83749</guid>
+            <pubDate>Mon, 22 Jan 2024 05:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[소파 색깔? 말만 해]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[25세 농부 청년 줄리어스 로버츠의 제철 레서피 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83710</link>
             <guid>https://www.elle.co.kr/article/83710</guid>
@@ -1339,13 +1346,6 @@
             <link>https://www.elle.co.kr/article/83633</link>
             <guid>https://www.elle.co.kr/article/83633</guid>
             <pubDate>Tue, 16 Jan 2024 09:14:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[매콤한 수프 카레부터 인생 라멘까지! 혜리의 삿포로 맛집 탐방 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83627</link>
-            <guid>https://www.elle.co.kr/article/83627</guid>
-            <pubDate>Mon, 15 Jan 2024 09:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[혜리가 ‘먹도장’ 찍고 온 삿포로의 맛집 리스트를 놓치지 마세요.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2027년, 개고기가 한국에서 사라진다 (엘르 코리아 ─ 소사이어티)]]></title>
