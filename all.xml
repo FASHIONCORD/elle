@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 23:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 00:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -947,6 +947,13 @@
             <content:encoded><![CDATA[트렌디한 감각과 명확한 컨셉트, 탁월한 제품력으로 전 세계 '코덕'들의 마음을 매료시키고 있는...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[밀라노가 떠들썩했던 이유, 이들 때문이라고? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/83795</link>
+            <guid>https://www.elle.co.kr/article/83795</guid>
+            <pubDate>Tue, 23 Jan 2024 00:56:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024 FW 밀라노 남성복 패션위크를 찾은 K-셀러브리티.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[사랑스러운 케미스트리! <닥터슬럼프> 박신혜, 박형식 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83791</link>
             <guid>https://www.elle.co.kr/article/83791</guid>
@@ -991,12 +998,6 @@
             <link>https://www.elle.co.kr/article/83761</link>
             <guid>https://www.elle.co.kr/article/83761</guid>
             <pubDate>Fri, 19 Jan 2024 12:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/83759</link>
-            <guid>https://www.elle.co.kr/article/83759</guid>
-            <pubDate>Fri, 19 Jan 2024 02:30:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[아파트에서 타운하우스로 이사 간 갤러리 이목화랑 대표 부부의 4층 주택 #홈터뷰 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1217,6 +1218,7 @@
             <guid>https://www.elle.co.kr/article/83824</guid>
             <pubDate>Mon, 22 Jan 2024 17:13:47 GMT</pubDate>
             <content:encoded><![CDATA[일상 속 예술을 향한 열기로 '후끈' 달아오른 &lt;엘르 데코&gt; 전시 오프닝 현장.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/a29fab98-1cdd-4407-a12a-b455fa5a99dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건축에 관한 지극히 사적인 기록 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1224,12 +1226,14 @@
             <guid>https://www.elle.co.kr/article/83798</guid>
             <pubDate>Sun, 21 Jan 2024 17:12:00 GMT</pubDate>
             <content:encoded><![CDATA[건축 위에 성실하게 지어낸 세 권의 책. 그 목소리에 귀 기울여봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/71d89539-07af-494f-a957-3a4254768e8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아파트에서 타운하우스로 이사 간 갤러리 이목화랑 대표 부부의 4층 주택 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/83729</link>
             <guid>https://www.elle.co.kr/article/83729</guid>
             <pubDate>Thu, 18 Jan 2024 01:57:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/61d36af4-dd40-422f-9a8c-96c73bf1995a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리츠한센의 첫 로킹 홀스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1237,6 +1241,7 @@
             <guid>https://www.elle.co.kr/article/83715</guid>
             <pubDate>Wed, 17 Jan 2024 15:13:47 GMT</pubDate>
             <content:encoded><![CDATA[어느 날 프리츠한센 헤리티지 팀이 발견한 1946년의 비밀스러운 사진 두 장.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/60026085-b358-45b0-bf83-73a81da40354.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
