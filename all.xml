@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 14:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 15:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1302,6 +1302,12 @@
             <pubDate>Wed, 03 Jan 2024 07:12:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[잠자기 위한 여행을 떠나는 사람들 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83792</link>
+            <guid>https://www.elle.co.kr/article/83792</guid>
+            <pubDate>Tue, 23 Jan 2024 15:13:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[오사카 옆 나라 여행, 사슴 공원 말고 여긴 어때? #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83783</link>
             <guid>https://www.elle.co.kr/article/83783</guid>
@@ -1345,13 +1351,6 @@
             <link>https://www.elle.co.kr/article/83683</link>
             <guid>https://www.elle.co.kr/article/83683</guid>
             <pubDate>Tue, 16 Jan 2024 02:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TV 보다가 출출해지면 한 숟갈 퍼먹는 소파 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83662</link>
-            <guid>https://www.elle.co.kr/article/83662</guid>
-            <pubDate>Thu, 18 Jan 2024 19:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[보기 좋은 가구가 먹기도 좋다?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2027년, 개고기가 한국에서 사라진다 (엘르 코리아 ─ 소사이어티)]]></title>
