@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-23T11:12:33.496Z</updated>
+    <updated>2024-01-23T12:25:23.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[속세의 맛 다 먹고도 6kg 뺐다?! 규현의 다이어트 잡채밥 레시피]]></title>
+        <id>https://www.elle.co.kr/article/83820</id>
+        <link href="https://www.elle.co.kr/article/83820"/>
+        <updated>2024-01-23T12:23:40.811Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일과 사랑 다 잡은 지창욱X신혜선, '웰컴투 삼달리' 명장면 총정리 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/83809</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/83788"/>
         <updated>2024-01-22T08:17:22.843Z</updated>
         <content type="html"><![CDATA[매일 매고 다니는 가방, SNS에서 찾고 찾다 만난 인생템까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정은지와 '싱어게인3' 소수빈이 찐친이었다고?! (ft. 파이널 결과)]]></title>
-        <id>https://www.elle.co.kr/article/83781</id>
-        <link href="https://www.elle.co.kr/article/83781"/>
-        <updated>2024-01-20T17:11:16.612Z</updated>
     </entry>
 </feed>
