@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 18:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 19:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘얼죽숏’에게 꼭 필요한 레깅스 스타일링 5 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/83861</link>
+            <guid>https://www.elle.co.kr/article/83861</guid>
+            <pubDate>Thu, 25 Jan 2024 19:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[한겨울에도 하의 실종 룩을 연출하고 싶다면 레깅스가 정답! 셀러브리티들이 즐긴 무궁무진한 레...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[니트 드레스의 반전 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/83838</link>
             <guid>https://www.elle.co.kr/article/83838</guid>
@@ -886,13 +893,6 @@
             <guid>https://www.elle.co.kr/article/83796</guid>
             <pubDate>Tue, 23 Jan 2024 07:12:50 GMT</pubDate>
             <content:encoded><![CDATA[레이어드 하기 좋은 카디건 스타일을 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밀라노가 떠들썩했던 이유, 이들 때문이라고? (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/83795</link>
-            <guid>https://www.elle.co.kr/article/83795</guid>
-            <pubDate>Tue, 23 Jan 2024 00:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024 FW 밀라노 남성복 패션위크를 찾은 K-셀러브리티.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새해 목표가 작심삼일이 되지 않길 바란다면! 스타들의 운동 생활 4 (엘르 코리아 ─ 뷰티)]]></title>
@@ -950,6 +950,12 @@
             <content:encoded><![CDATA[&lt;엘르&gt; 뷰티 어워즈 2024’ K뷰티 리더 부문 코리아 위너에 빛나는 '어뮤즈 젤핏 틴트’. 마치...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/83870</link>
+            <guid>https://www.elle.co.kr/article/83870</guid>
+            <pubDate>Wed, 24 Jan 2024 05:13:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[감동의 눈물바다! 산다라박이 결혼 앞둔 천둥X미미 커플에게 건넨 진심 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83857</link>
             <guid>https://www.elle.co.kr/article/83857</guid>
@@ -993,12 +999,6 @@
             <link>https://www.elle.co.kr/article/83809</link>
             <guid>https://www.elle.co.kr/article/83809</guid>
             <pubDate>Mon, 22 Jan 2024 08:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[공개 연애 시작한 '프로 불참러' 조세호, 결혼식 참석 선언한 셀럽은? (ft. 연애 스토리) (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/83807</link>
-            <guid>https://www.elle.co.kr/article/83807</guid>
-            <pubDate>Tue, 23 Jan 2024 04:15:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[아이유가 2년 만의 신곡 제목을 바꾼 이유와 그 의미 (ft. 손편지) (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1055,12 +1055,14 @@
             <link>https://www.elle.co.kr/article/83870</link>
             <guid>https://www.elle.co.kr/article/83870</guid>
             <pubDate>Wed, 24 Jan 2024 05:13:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/196f13d2-3198-457d-b167-0d75db11c320.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유가 2년 만의 신곡 제목을 바꾼 이유와 그 의미 (ft. 손편지) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83789</link>
             <guid>https://www.elle.co.kr/article/83789</guid>
             <pubDate>Fri, 19 Jan 2024 11:11:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/8a7c2100-58e5-4db6-81f6-da63c7c4220d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 남자친구가 라이즈처럼 데님 입어주면 좋겠다 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1068,6 +1070,7 @@
             <guid>https://www.elle.co.kr/article/83723</guid>
             <pubDate>Wed, 17 Jan 2024 11:11:29 GMT</pubDate>
             <content:encoded><![CDATA[남자친구가 이렇게 입어주길. 라이즈의 파리 OOTD에서 살펴본 데님 스타일링!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/7efb0356-5d44-4756-913c-22b50cbb8e47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1075,6 +1078,7 @@
             <guid>https://www.elle.co.kr/article/83684</guid>
             <pubDate>Tue, 16 Jan 2024 02:28:09 GMT</pubDate>
             <content:encoded><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/d6543b20-b945-4109-8eae-d25350119eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공연계 플미 거래 아웃?! 예매 전체 취소시킨 장범준의 콘서트 정보 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1300,6 +1304,13 @@
             <pubDate>Wed, 03 Jan 2024 07:12:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[‘센스 있다’ 소리 듣게 해줄 설 선물용 디저트 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83802</link>
+            <guid>https://www.elle.co.kr/article/83802</guid>
+            <pubDate>Thu, 25 Jan 2024 19:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[Taste of Seoul 2023 엄선 리스트]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[잠자기 위한 여행을 떠나는 사람들 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83792</link>
             <guid>https://www.elle.co.kr/article/83792</guid>
@@ -1343,12 +1354,6 @@
             <link>https://www.elle.co.kr/article/83698</link>
             <guid>https://www.elle.co.kr/article/83698</guid>
             <pubDate>Tue, 16 Jan 2024 09:13:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[흔적으로 지은 덩어리: 정현 개인전 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83683</link>
-            <guid>https://www.elle.co.kr/article/83683</guid>
-            <pubDate>Tue, 16 Jan 2024 02:28:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['스마트폰'은 옛말? 올해 주목해야 할 기술 빅3 #돈쓸신잡 132 (엘르 코리아 ─ 소사이어티)]]></title>
