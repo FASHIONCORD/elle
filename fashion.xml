@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-26T09:14:04.125Z</updated>
+    <updated>2024-01-26T10:13:45.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보머 부츠를 신고 뛰어보자!]]></title>
+        <id>https://www.elle.co.kr/article/83882</id>
+        <link href="https://www.elle.co.kr/article/83882"/>
+        <updated>2024-01-26T10:12:34.186Z</updated>
+        <content type="html"><![CDATA[하얀 눈이 내릴 때면 더욱 생각나는.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[향초 vs 스피커, 독자가 꼽은 주말 아침 아이템은? #취향의발견_2]]></title>
         <id>https://www.elle.co.kr/article/83875</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/83823"/>
         <updated>2024-01-23T19:10:37.607Z</updated>
         <content type="html"><![CDATA[가지런한 마음가짐으로.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 누가 더 크나, 빅 백]]></title>
-        <id>https://www.elle.co.kr/article/83797</id>
-        <link href="https://www.elle.co.kr/article/83797"/>
-        <updated>2024-01-23T07:12:50.560Z</updated>
-        <content type="html"><![CDATA[빅 백을 들고 '쿨'하게 걷는 거리의 보부상.]]></content>
     </entry>
 </feed>
