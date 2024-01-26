@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-01-26T11:11:25.022Z</updated>
+    <updated>2024-01-26T12:21:31.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워치보다 나을까? 삼성의 스마트 반지 '갤럭시링' 출시 관련 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/83821</id>
+        <link href="https://www.elle.co.kr/article/83821"/>
+        <updated>2024-01-26T12:21:21.049Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[속세의 맛 다 먹고도 6kg 뺐다?! 규현의 다이어트 잡채밥 레시피]]></title>
         <id>https://www.elle.co.kr/article/83820</id>
@@ -49,12 +55,5 @@
         <link href="https://www.elle.co.kr/article/83749"/>
         <updated>2024-01-22T05:14:24.310Z</updated>
         <content type="html"><![CDATA[소파 색깔? 말만 해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25세 농부 청년 줄리어스 로버츠의 제철 레서피]]></title>
-        <id>https://www.elle.co.kr/article/83710</id>
-        <link href="https://www.elle.co.kr/article/83710"/>
-        <updated>2024-01-19T15:14:47.155Z</updated>
-        <content type="html"><![CDATA[소셜 미디어 속 스타 요리사이자 25세 농부 청년 줄리어스 로버츠가 말하는, 믿을 수 없을 정...]]></content>
     </entry>
 </feed>
