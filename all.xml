@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 02:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 03:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1054,12 +1054,14 @@
             <link>https://www.elle.co.kr/article/83870</link>
             <guid>https://www.elle.co.kr/article/83870</guid>
             <pubDate>Wed, 24 Jan 2024 05:13:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/196f13d2-3198-457d-b167-0d75db11c320.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유가 2년 만의 신곡 제목을 바꾼 이유와 그 의미 (ft. 손편지) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83789</link>
             <guid>https://www.elle.co.kr/article/83789</guid>
             <pubDate>Fri, 19 Jan 2024 11:11:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/8a7c2100-58e5-4db6-81f6-da63c7c4220d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 남자친구가 라이즈처럼 데님 입어주면 좋겠다 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1067,6 +1069,7 @@
             <guid>https://www.elle.co.kr/article/83723</guid>
             <pubDate>Wed, 17 Jan 2024 11:11:29 GMT</pubDate>
             <content:encoded><![CDATA[남자친구가 이렇게 입어주길. 라이즈의 파리 OOTD에서 살펴본 데님 스타일링!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/7efb0356-5d44-4756-913c-22b50cbb8e47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1074,6 +1077,7 @@
             <guid>https://www.elle.co.kr/article/83684</guid>
             <pubDate>Tue, 16 Jan 2024 02:28:09 GMT</pubDate>
             <content:encoded><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/d6543b20-b945-4109-8eae-d25350119eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공연계 플미 거래 아웃?! 예매 전체 취소시킨 장범준의 콘서트 정보 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1137,28 +1141,24 @@
             <link>https://www.elle.co.kr/article/83853</link>
             <guid>https://www.elle.co.kr/article/83853</guid>
             <pubDate>Tue, 23 Jan 2024 10:14:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/32991a5c-0a08-46af-aa89-7afc1c1678de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일과 사랑 다 잡은 지창욱X신혜선, '웰컴투 삼달리' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/83809</link>
             <guid>https://www.elle.co.kr/article/83809</guid>
             <pubDate>Mon, 22 Jan 2024 08:18:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/59ba9d1c-221f-4605-b2eb-8d48dc8b2145.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/83759</link>
             <guid>https://www.elle.co.kr/article/83759</guid>
             <pubDate>Fri, 19 Jan 2024 02:30:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/fb0bf489-a2fc-4776-af48-27291be5d4ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역대 박스오피스 10위 올라 선 '서울의 봄' 제작사 차기작 모음.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/83702</link>
             <guid>https://www.elle.co.kr/article/83702</guid>
             <pubDate>Wed, 17 Jan 2024 01:57:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/ac1cf2ee-ce18-4032-891b-44ce823057eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['삼달리' 지창욱X신혜선 로맨스가 이곳에서? 드라마 촬영 명소 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
