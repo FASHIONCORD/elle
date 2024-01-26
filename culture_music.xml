@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/music</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2024-01-26T12:21:31.138Z</updated>
+    <updated>2024-01-26T13:14:08.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷]]></title>
+        <id>https://www.elle.co.kr/article/83944</id>
+        <link href="https://www.elle.co.kr/article/83944"/>
+        <updated>2024-01-26T13:13:27.167Z</updated>
+        <content type="html"><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg]]></title>
         <id>https://www.elle.co.kr/article/83870</id>
@@ -81,11 +88,5 @@
         <id>https://www.elle.co.kr/article/82600</id>
         <link href="https://www.elle.co.kr/article/82600"/>
         <updated>2024-01-14T06:16:39.113Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조교' 진과 '훈련병' 지민X정국, 만날 가능성은? BTS 4인 입대 관련 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/82593</id>
-        <link href="https://www.elle.co.kr/article/82593"/>
-        <updated>2024-01-14T06:16:39.119Z</updated>
     </entry>
 </feed>
