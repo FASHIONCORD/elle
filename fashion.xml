@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-26T01:49:16.036Z</updated>
+    <updated>2024-01-26T02:21:35.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[향초 vs 스피커, 독자가 꼽은 주말 아침 아이템은? #취향의발견_2]]></title>
+        <id>https://www.elle.co.kr/article/83875</id>
+        <link href="https://www.elle.co.kr/article/83875"/>
+        <updated>2024-01-26T02:20:21.132Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘얼죽숏’에게 꼭 필요한 레깅스 스타일링 5]]></title>
         <id>https://www.elle.co.kr/article/83861</id>
@@ -53,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/83797"/>
         <updated>2024-01-23T07:12:50.560Z</updated>
         <content type="html"><![CDATA[빅 백을 들고 '쿨'하게 걷는 거리의 보부상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 아우터 안에 쏙! 스타들의 카디건 스타일 5]]></title>
-        <id>https://www.elle.co.kr/article/83796</id>
-        <link href="https://www.elle.co.kr/article/83796"/>
-        <updated>2024-01-23T07:12:50.568Z</updated>
-        <content type="html"><![CDATA[레이어드 하기 좋은 카디건 스타일을 소개합니다.]]></content>
     </entry>
 </feed>
