@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-27T01:43:47.758Z</updated>
+    <updated>2024-01-27T02:17:32.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금 바로 있지 #ELLE_D에디션]]></title>
+        <id>https://www.elle.co.kr/article/83935</id>
+        <link href="https://www.elle.co.kr/article/83935"/>
+        <updated>2024-01-27T02:16:02.160Z</updated>
+        <content type="html"><![CDATA[그저 자신들을 믿고 사랑하는 있지의 단단하고 강렬한 마음.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미니 8집 으로 돌아온 있지(ITZY)]]></title>
         <id>https://www.elle.co.kr/article/83922</id>
@@ -48,11 +55,5 @@
         <id>https://www.elle.co.kr/article/83870</id>
         <link href="https://www.elle.co.kr/article/83870"/>
         <updated>2024-01-25T19:10:49.078Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감동의 눈물바다! 산다라박이 결혼 앞둔 천둥X미미 커플에게 건넨 진심]]></title>
-        <id>https://www.elle.co.kr/article/83857</id>
-        <link href="https://www.elle.co.kr/article/83857"/>
-        <updated>2024-01-25T13:16:20.088Z</updated>
     </entry>
 </feed>
