@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 14:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 15:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1351,6 +1351,12 @@
             <pubDate>Tue, 23 Jan 2024 11:12:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[집으로 돌아가지 못하는 사람들 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/83631</link>
+            <guid>https://www.elle.co.kr/article/83631</guid>
+            <pubDate>Sun, 28 Jan 2024 15:12:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['스마트폰'은 옛말? 올해 주목해야 할 기술 빅3 #돈쓸신잡 132 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/83619</link>
             <guid>https://www.elle.co.kr/article/83619</guid>
@@ -1374,6 +1380,7 @@
             <link>https://www.elle.co.kr/article/83559</link>
             <guid>https://www.elle.co.kr/article/83559</guid>
             <pubDate>Fri, 12 Jan 2024 11:12:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/0c2b45f3-f35b-4272-b9fa-e16d7dfc3623.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 3차원의 세계에서 발견! (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1381,6 +1388,7 @@
             <guid>https://www.elle.co.kr/article/83522</guid>
             <pubDate>Fri, 12 Jan 2024 09:14:17 GMT</pubDate>
             <content:encoded><![CDATA[11년 차 운동 코치 에리카가 푹 빠진 운동, 불가리안백의 매력!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/08/0bb394ac-4c5c-4deb-aaff-ddd54d9fede7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 기꺼이 먼저 연결되기 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1388,18 +1396,14 @@
             <guid>https://www.elle.co.kr/article/83507</guid>
             <pubDate>Thu, 11 Jan 2024 08:17:45 GMT</pubDate>
             <content:encoded><![CDATA[새해 우리에게 필요한 것은 느슨한 연결. 어쩌면 내가 만들 수 있을지도?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/06/61bd69c2-2c88-45aa-988c-423a1acffc8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고급 취향은 진짜 ‘고급’일까? #돈쓸신잡 131 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/83468</link>
             <guid>https://www.elle.co.kr/article/83468</guid>
             <pubDate>Wed, 10 Jan 2024 13:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 새해에는 귀를 열고, 마음을 열고 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/83421</link>
-            <guid>https://www.elle.co.kr/article/83421</guid>
-            <pubDate>Tue, 09 Jan 2024 15:14:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/04/21eca1c2-a27e-408f-a76b-1835ab43a66b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
