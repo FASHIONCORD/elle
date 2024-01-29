@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-29T12:22:03.546Z</updated>
+    <updated>2024-01-29T13:14:21.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신상 카페 대신 오래된 다방으로! 유행에 휩쓸리지 않는 김규림의 #취향일지도]]></title>
+        <id>https://www.elle.co.kr/article/83951</id>
+        <link href="https://www.elle.co.kr/article/83951"/>
+        <updated>2024-01-29T13:12:56.104Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷]]></title>
+        <id>https://www.elle.co.kr/article/83944</id>
+        <link href="https://www.elle.co.kr/article/83944"/>
+        <updated>2024-01-29T13:12:56.106Z</updated>
+        <content type="html"><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[션이 두 아들에게 물려준 것 #근황스타그램]]></title>
         <id>https://www.elle.co.kr/article/83941</id>
@@ -43,17 +56,5 @@
         <link href="https://www.elle.co.kr/article/83919"/>
         <updated>2024-01-26T10:12:51.871Z</updated>
         <content type="html"><![CDATA[즉흥적으로 제주 여행길에 오른 윤보미의 여행 컨셉은 '먹'기행! 갈치구이와 보말 칼국수, 전복...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태희가 신혜선에게 "멜로 한 번 하자" 제안했다고?!]]></title>
-        <id>https://www.elle.co.kr/article/83916</id>
-        <link href="https://www.elle.co.kr/article/83916"/>
-        <updated>2024-01-26T09:12:51.318Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모래꽃' 위해 14kg 찌운 장동윤이 순식간에 원래 체형으로 돌아간 비결 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83915</id>
-        <link href="https://www.elle.co.kr/article/83915"/>
-        <updated>2024-01-26T08:15:25.149Z</updated>
     </entry>
 </feed>
