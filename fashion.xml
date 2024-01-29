@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-29T01:46:39.614Z</updated>
+    <updated>2024-01-29T02:19:26.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GD도 반했다! CES2024에서 발견한 흥미로운 AI 집템 3]]></title>
+        <id>https://www.elle.co.kr/article/83940</id>
+        <link href="https://www.elle.co.kr/article/83940"/>
+        <updated>2024-01-29T02:18:02.764Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파리에 도착한 단추]]></title>
         <id>https://www.elle.co.kr/article/83924</id>
@@ -52,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/83861"/>
         <updated>2024-01-25T19:10:30.431Z</updated>
         <content type="html"><![CDATA[한겨울에도 하의 실종 룩을 연출하고 싶다면 레깅스가 정답! 셀러브리티들이 즐긴 무궁무진한 레...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[니트 드레스의 반전]]></title>
-        <id>https://www.elle.co.kr/article/83838</id>
-        <link href="https://www.elle.co.kr/article/83838"/>
-        <updated>2024-01-25T09:12:49.921Z</updated>
-        <content type="html"><![CDATA[언제까지 '코지'할 줄 알았니?]]></content>
     </entry>
 </feed>
