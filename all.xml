@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 11:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 12:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1297,6 +1297,12 @@
             <content:encoded><![CDATA[전 세계에 행복과 평등, 사랑을 전파하는 설치미술 작가 플로렌틴 호프만. 그가 누구든 환영받는...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[추운 겨울, 마음까지 녹이는 따뜻한 수프 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83942</link>
+            <guid>https://www.elle.co.kr/article/83942</guid>
+            <pubDate>Mon, 29 Jan 2024 12:21:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[빈티지 헌터를 위한 가구 & 소품 숍 4 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83939</link>
             <guid>https://www.elle.co.kr/article/83939</guid>
@@ -1341,12 +1347,6 @@
             <guid>https://www.elle.co.kr/article/83802</guid>
             <pubDate>Thu, 25 Jan 2024 19:11:47 GMT</pubDate>
             <content:encoded><![CDATA[Taste of Seoul 2023 엄선 리스트]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[잠자기 위한 여행을 떠나는 사람들 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83792</link>
-            <guid>https://www.elle.co.kr/article/83792</guid>
-            <pubDate>Tue, 23 Jan 2024 15:13:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[피할 수 없다면, 운전공포증에서 벗어나는 법 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
