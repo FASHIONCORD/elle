@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 19:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 20:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1397,6 +1397,7 @@
             <link>https://www.elle.co.kr/article/83559</link>
             <guid>https://www.elle.co.kr/article/83559</guid>
             <pubDate>Fri, 12 Jan 2024 11:12:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/0c2b45f3-f35b-4272-b9fa-e16d7dfc3623.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
