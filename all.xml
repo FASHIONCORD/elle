@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 09:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 10:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -945,6 +945,12 @@
             <content:encoded><![CDATA[생크림 질감에 유∙수분 밸런스, 안티에이징, 브라이트닝, 진정 효과까지!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[결혼부터 발표한 김기리-문지인 커플의 열애 시그널들 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/83981</link>
+            <guid>https://www.elle.co.kr/article/83981</guid>
+            <pubDate>Tue, 30 Jan 2024 10:13:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[이하늬가 끓인 코믹 김치찌개, '밤에 피는 꽃' 인기요인 총정리 #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83979</link>
             <guid>https://www.elle.co.kr/article/83979</guid>
@@ -987,12 +993,6 @@
             <link>https://www.elle.co.kr/article/83938</link>
             <guid>https://www.elle.co.kr/article/83938</guid>
             <pubDate>Mon, 29 Jan 2024 11:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/83937</link>
-            <guid>https://www.elle.co.kr/article/83937</guid>
-            <pubDate>Fri, 26 Jan 2024 08:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1049,6 +1049,7 @@
             <link>https://www.elle.co.kr/article/83982</link>
             <guid>https://www.elle.co.kr/article/83982</guid>
             <pubDate>Mon, 29 Jan 2024 13:13:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/34b19afb-3a29-416c-8293-f685fe03367e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1056,18 +1057,21 @@
             <guid>https://www.elle.co.kr/article/83944</guid>
             <pubDate>Fri, 26 Jan 2024 13:13:27 GMT</pubDate>
             <content:encoded><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/be7e9b03-7a95-45bc-90f2-fd1b36c27ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83870</link>
             <guid>https://www.elle.co.kr/article/83870</guid>
             <pubDate>Wed, 24 Jan 2024 05:13:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/196f13d2-3198-457d-b167-0d75db11c320.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유가 2년 만의 신곡 제목을 바꾼 이유와 그 의미 (ft. 손편지) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83789</link>
             <guid>https://www.elle.co.kr/article/83789</guid>
             <pubDate>Fri, 19 Jan 2024 11:11:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/8a7c2100-58e5-4db6-81f6-da63c7c4220d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 남자친구가 라이즈처럼 데님 입어주면 좋겠다 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1295,6 +1299,19 @@
             <content:encoded><![CDATA[전 세계에 행복과 평등, 사랑을 전파하는 설치미술 작가 플로렌틴 호프만. 그가 누구든 환영받는...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[신상 카페 대신 오래된 다방으로! 유행에 휩쓸리지 않는 김규림의 #취향일지도 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83951</link>
+            <guid>https://www.elle.co.kr/article/83951</guid>
+            <pubDate>Mon, 29 Jan 2024 13:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[마세라티 그레칼레와 함께한 하루 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/83947</link>
+            <guid>https://www.elle.co.kr/article/83947</guid>
+            <pubDate>Tue, 30 Jan 2024 10:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[청명한 도쿄 하늘 아래 마세라티 그레칼레를 오감으로 경험하다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[추운 겨울, 마음까지 녹이는 따뜻한 수프 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83942</link>
             <guid>https://www.elle.co.kr/article/83942</guid>
@@ -1332,19 +1349,6 @@
             <link>https://www.elle.co.kr/article/83821</link>
             <guid>https://www.elle.co.kr/article/83821</guid>
             <pubDate>Fri, 26 Jan 2024 12:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[속세의 맛 다 먹고도 6kg 뺐다?! 규현의 다이어트 잡채밥 레시피 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83820</link>
-            <guid>https://www.elle.co.kr/article/83820</guid>
-            <pubDate>Fri, 26 Jan 2024 09:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘센스 있다’ 소리 듣게 해줄 설 선물용 디저트 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83802</link>
-            <guid>https://www.elle.co.kr/article/83802</guid>
-            <pubDate>Thu, 25 Jan 2024 19:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[Taste of Seoul 2023 엄선 리스트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비트코인이 돌아왔다 #돈쓸신잡 133 (엘르 코리아 ─ 소사이어티)]]></title>
