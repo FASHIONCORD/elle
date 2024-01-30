@@ -1,58 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-01-30T06:18:00.054Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83937</id>
-        <link href="https://www.elle.co.kr/article/83937"/>
-        <updated>2024-01-29T13:13:05.130Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg]]></title>
-        <id>https://www.elle.co.kr/article/83870</id>
-        <link href="https://www.elle.co.kr/article/83870"/>
-        <updated>2024-01-29T11:11:02.316Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번엔 풍수사X장의사X무속인! 오컬트 외길 인생 장재현 신작 '파묘' 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/83853</id>
-        <link href="https://www.elle.co.kr/article/83853"/>
-        <updated>2024-01-29T08:15:13.227Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집과 예술을 사랑하는 모두가 한자리에!]]></title>
-        <id>https://www.elle.co.kr/article/83824</id>
-        <link href="https://www.elle.co.kr/article/83824"/>
-        <updated>2024-01-29T03:13:20.170Z</updated>
-        <content type="html"><![CDATA[일상 속 예술을 향한 열기로 '후끈' 달아오른 &lt;엘르 데코&gt; 전시 오프닝 현장.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일과 사랑 다 잡은 지창욱X신혜선, '웰컴투 삼달리' 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/83809</id>
-        <link href="https://www.elle.co.kr/article/83809"/>
-        <updated>2024-01-26T13:13:18.693Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건축에 관한 지극히 사적인 기록]]></title>
-        <id>https://www.elle.co.kr/article/83798</id>
-        <link href="https://www.elle.co.kr/article/83798"/>
-        <updated>2024-01-26T08:15:32.911Z</updated>
-        <content type="html"><![CDATA[건축 위에 성실하게 지어낸 세 권의 책. 그 목소리에 귀 기울여봤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유가 2년 만의 신곡 제목을 바꾼 이유와 그 의미 (ft. 손편지)]]></title>
-        <id>https://www.elle.co.kr/article/83789</id>
-        <link href="https://www.elle.co.kr/article/83789"/>
-        <updated>2024-01-24T05:13:16.638Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83759</id>
-        <link href="https://www.elle.co.kr/article/83759"/>
-        <updated>2024-01-23T10:14:13.929Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 30 Jan 2024 07:13:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/83937</link>
+            <guid>https://www.elle.co.kr/article/83937</guid>
+            <pubDate>Mon, 29 Jan 2024 13:13:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg]]></title>
+            <link>https://www.elle.co.kr/article/83870</link>
+            <guid>https://www.elle.co.kr/article/83870</guid>
+            <pubDate>Mon, 29 Jan 2024 11:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[이번엔 풍수사X장의사X무속인! 오컬트 외길 인생 장재현 신작 '파묘' 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/83853</link>
+            <guid>https://www.elle.co.kr/article/83853</guid>
+            <pubDate>Mon, 29 Jan 2024 08:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[집과 예술을 사랑하는 모두가 한자리에!]]></title>
+            <link>https://www.elle.co.kr/article/83824</link>
+            <guid>https://www.elle.co.kr/article/83824</guid>
+            <pubDate>Mon, 29 Jan 2024 03:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[일상 속 예술을 향한 열기로 '후끈' 달아오른 &lt;엘르 데코&gt; 전시 오프닝 현장.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일과 사랑 다 잡은 지창욱X신혜선, '웰컴투 삼달리' 명장면 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/83809</link>
+            <guid>https://www.elle.co.kr/article/83809</guid>
+            <pubDate>Fri, 26 Jan 2024 13:13:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/59ba9d1c-221f-4605-b2eb-8d48dc8b2145.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건축에 관한 지극히 사적인 기록]]></title>
+            <link>https://www.elle.co.kr/article/83798</link>
+            <guid>https://www.elle.co.kr/article/83798</guid>
+            <pubDate>Fri, 26 Jan 2024 08:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[건축 위에 성실하게 지어낸 세 권의 책. 그 목소리에 귀 기울여봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/71d89539-07af-494f-a957-3a4254768e8d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유가 2년 만의 신곡 제목을 바꾼 이유와 그 의미 (ft. 손편지)]]></title>
+            <link>https://www.elle.co.kr/article/83789</link>
+            <guid>https://www.elle.co.kr/article/83789</guid>
+            <pubDate>Wed, 24 Jan 2024 05:13:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/8a7c2100-58e5-4db6-81f6-da63c7c4220d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/83759</link>
+            <guid>https://www.elle.co.kr/article/83759</guid>
+            <pubDate>Tue, 23 Jan 2024 10:14:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/fb0bf489-a2fc-4776-af48-27291be5d4ef.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
