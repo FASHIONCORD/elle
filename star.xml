@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-30T03:13:57.240Z</updated>
+    <updated>2024-01-30T04:15:03.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하늬가 끓인 코믹 김치찌개, '밤에 피는 꽃' 인기요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/83979</id>
+        <link href="https://www.elle.co.kr/article/83979"/>
+        <updated>2024-01-30T04:14:00.139Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Love wins all' 뮤비 세계관 과몰입한 뷔의 한 마디.txt]]></title>
         <id>https://www.elle.co.kr/article/83978</id>
@@ -48,12 +54,5 @@
         <id>https://www.elle.co.kr/article/83937</id>
         <link href="https://www.elle.co.kr/article/83937"/>
         <updated>2024-01-29T03:12:55.401Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 바로 있지 #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/83935</id>
-        <link href="https://www.elle.co.kr/article/83935"/>
-        <updated>2024-01-27T02:16:02.160Z</updated>
-        <content type="html"><![CDATA[그저 자신들을 믿고 사랑하는 있지의 단단하고 강렬한 마음.]]></content>
     </entry>
 </feed>
