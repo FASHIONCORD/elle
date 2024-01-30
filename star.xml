@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-30T10:14:46.336Z</updated>
+    <updated>2024-01-30T11:12:02.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뽀드윅이 8년 만에 돌아온다]]></title>
+        <id>https://www.elle.co.kr/article/83983</id>
+        <link href="https://www.elle.co.kr/article/83983"/>
+        <updated>2024-01-30T11:10:51.733Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차은우와 LA에서 데이트한 의외의 인물]]></title>
+        <id>https://www.elle.co.kr/article/83982</id>
+        <link href="https://www.elle.co.kr/article/83982"/>
+        <updated>2024-01-30T11:10:51.733Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결혼부터 발표한 김기리-문지인 커플의 열애 시그널들]]></title>
         <id>https://www.elle.co.kr/article/83981</id>
@@ -42,17 +54,5 @@
         <link href="https://www.elle.co.kr/article/83944"/>
         <updated>2024-01-29T13:12:56.106Z</updated>
         <content type="html"><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[션이 두 아들에게 물려준 것 #근황스타그램]]></title>
-        <id>https://www.elle.co.kr/article/83941</id>
-        <link href="https://www.elle.co.kr/article/83941"/>
-        <updated>2024-01-29T11:10:53.603Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기성용이 36번째 생일에 딸에게 받은 뜻밖의 선물 (ft. 손편지)]]></title>
-        <id>https://www.elle.co.kr/article/83938</id>
-        <link href="https://www.elle.co.kr/article/83938"/>
-        <updated>2024-01-29T11:10:53.608Z</updated>
     </entry>
 </feed>

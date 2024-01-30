@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 10:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 11:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -945,6 +945,18 @@
             <content:encoded><![CDATA[생크림 질감에 유∙수분 밸런스, 안티에이징, 브라이트닝, 진정 효과까지!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뽀드윅이 8년 만에 돌아온다 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/83983</link>
+            <guid>https://www.elle.co.kr/article/83983</guid>
+            <pubDate>Tue, 30 Jan 2024 11:10:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[차은우와 LA에서 데이트한 의외의 인물 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/83982</link>
+            <guid>https://www.elle.co.kr/article/83982</guid>
+            <pubDate>Mon, 29 Jan 2024 13:13:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[결혼부터 발표한 김기리-문지인 커플의 열애 시그널들 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/83981</link>
             <guid>https://www.elle.co.kr/article/83981</guid>
@@ -983,16 +995,11 @@
             <content:encoded><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[션이 두 아들에게 물려준 것 #근황스타그램 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/83941</link>
-            <guid>https://www.elle.co.kr/article/83941</guid>
-            <pubDate>Mon, 29 Jan 2024 11:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[기성용이 36번째 생일에 딸에게 받은 뜻밖의 선물 (ft. 손편지) (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/83938</link>
-            <guid>https://www.elle.co.kr/article/83938</guid>
-            <pubDate>Mon, 29 Jan 2024 11:10:53 GMT</pubDate>
+            <title><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/83944</link>
+            <guid>https://www.elle.co.kr/article/83944</guid>
+            <pubDate>Fri, 26 Jan 2024 13:13:27 GMT</pubDate>
+            <content:encoded><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1039,17 +1046,10 @@
             <pubDate>Fri, 19 Jan 2024 11:11:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/83759</link>
-            <guid>https://www.elle.co.kr/article/83759</guid>
-            <pubDate>Fri, 19 Jan 2024 02:30:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[차은우와 LA에서 데이트한 의외의 인물 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83982</link>
             <guid>https://www.elle.co.kr/article/83982</guid>
             <pubDate>Mon, 29 Jan 2024 13:13:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/34b19afb-3a29-416c-8293-f685fe03367e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1057,21 +1057,18 @@
             <guid>https://www.elle.co.kr/article/83944</guid>
             <pubDate>Fri, 26 Jan 2024 13:13:27 GMT</pubDate>
             <content:encoded><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/be7e9b03-7a95-45bc-90f2-fd1b36c27ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83870</link>
             <guid>https://www.elle.co.kr/article/83870</guid>
             <pubDate>Wed, 24 Jan 2024 05:13:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/196f13d2-3198-457d-b167-0d75db11c320.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유가 2년 만의 신곡 제목을 바꾼 이유와 그 의미 (ft. 손편지) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83789</link>
             <guid>https://www.elle.co.kr/article/83789</guid>
             <pubDate>Fri, 19 Jan 2024 11:11:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/8a7c2100-58e5-4db6-81f6-da63c7c4220d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 남자친구가 라이즈처럼 데님 입어주면 좋겠다 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1131,6 +1128,12 @@
             <link>https://www.elle.co.kr/article/82692</link>
             <guid>https://www.elle.co.kr/article/82692</guid>
             <pubDate>Mon, 04 Dec 2023 11:11:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[요리사 '대장금'이 20년 만에 의사로 돌아온다 (ft. 캐스팅) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/84021</link>
+            <guid>https://www.elle.co.kr/article/84021</guid>
+            <pubDate>Tue, 30 Jan 2024 11:11:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[이하늬가 끓인 코믹 김치찌개, '밤에 피는 꽃' 인기요인 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1204,12 +1207,6 @@
             <link>https://www.elle.co.kr/article/83610</link>
             <guid>https://www.elle.co.kr/article/83610</guid>
             <pubDate>Thu, 11 Jan 2024 01:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[허니제이 딸 정러브, 생후 8개월 만에 TV 데뷔? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/83602</link>
-            <guid>https://www.elle.co.kr/article/83602</guid>
-            <pubDate>Wed, 10 Jan 2024 12:22:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[한국 여성 화가 7인의 추상회화를 조명하다 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
