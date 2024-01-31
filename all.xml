@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 21:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 22:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -924,6 +924,7 @@
             <link>https://www.elle.co.kr/article/83751</link>
             <guid>https://www.elle.co.kr/article/83751</guid>
             <pubDate>Sat, 27 Jan 2024 19:10:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/8354ce87-d0f5-4a6f-9d31-ec9ad61d4323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새해 목표가 작심삼일이 되지 않길 바란다면! 스타들의 운동 생활 4 (엘르 코리아 ─ 뷰티)]]></title>
@@ -931,12 +932,14 @@
             <guid>https://www.elle.co.kr/article/83727</guid>
             <pubDate>Thu, 25 Jan 2024 13:16:10 GMT</pubDate>
             <content:encoded><![CDATA[자기 관리에 철저한 이들을 보며 동기부여를 해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/0e2935df-79ad-40c9-a309-d840b637492a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[20kg 감량 후 요요 없이 유지어터! '서준맘' 박세미의 최애 음식 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/83720</link>
             <guid>https://www.elle.co.kr/article/83720</guid>
             <pubDate>Wed, 24 Jan 2024 14:12:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/c1c56d31-8639-496a-ba61-3b08596c87e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TAG ME! 센스 넘치는 프래이그런스 태그 5. (엘르 코리아 ─ 뷰티)]]></title>
@@ -944,6 +947,7 @@
             <guid>https://www.elle.co.kr/article/83354</guid>
             <pubDate>Mon, 22 Jan 2024 07:12:56 GMT</pubDate>
             <content:encoded><![CDATA[무심하게 툭! 걸어 두기만 해도 멋스럽고, 공간 구석구석 섬세한 향까지 채워주는 프래이그런스 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/2be97b5c-0e72-488b-94de-b85d2192972b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강기영의 이상한 사무실 (엘르 코리아 ─ 스타)]]></title>
