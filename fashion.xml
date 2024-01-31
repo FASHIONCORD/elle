@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-31T04:15:53.489Z</updated>
+    <updated>2024-01-31T05:14:10.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어디까지 짧아지는 거예요? #마이크로쇼츠]]></title>
+        <id>https://www.elle.co.kr/article/83985</id>
+        <link href="https://www.elle.co.kr/article/83985"/>
+        <updated>2024-01-31T05:13:02.247Z</updated>
+        <content type="html"><![CDATA[핫팬츠보다 더 짧은 마이크로 쇼츠 트렌드. 마치 입지 않은 것처럼 보이는 것이 핵심!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#내돈내산 죽은 스케치도 살려주는 1천5백원 짜리 붓펜?]]></title>
         <id>https://www.elle.co.kr/article/83964</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/83924"/>
         <updated>2024-01-28T19:09:07.977Z</updated>
         <content type="html"><![CDATA[그랑 팔레에서 공개된 샤넬 24 SS 쿠튀르 컬렉션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[날카롭고 예리한 시선으로, 메탈 프레임 안경]]></title>
-        <id>https://www.elle.co.kr/article/83918</id>
-        <link href="https://www.elle.co.kr/article/83918"/>
-        <updated>2024-01-27T19:10:14.124Z</updated>
-        <content type="html"><![CDATA[안경 선배 처럼.]]></content>
     </entry>
 </feed>
