@@ -1,70 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 05:14:10 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이하늬가 끓인 코믹 김치찌개, '밤에 피는 꽃' 인기요인 총정리 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/83979</link>
-            <guid>https://www.elle.co.kr/article/83979</guid>
-            <pubDate>Wed, 31 Jan 2024 04:14:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/d0ff13dc-1dab-4e24-8fbe-0237d625c435.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 여성 화가 7인의 추상회화를 조명하다 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/83974</link>
-            <guid>https://www.elle.co.kr/article/83974</guid>
-            <pubDate>Wed, 31 Jan 2024 00:52:41 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/2ec27f09-7f57-4f55-bdb9-6e3bbc509037.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조예은이 좇는 신기루]]></title>
-            <link>https://www.elle.co.kr/article/83968</link>
-            <guid>https://www.elle.co.kr/article/83968</guid>
-            <pubDate>Tue, 30 Jan 2024 15:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[신간 &lt;꿰맨 눈의 마을&gt;에서 그녀가 직조해낸 아름답고 환상적인 세계를 따라가보았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/3b67c5e5-529f-44ed-bdfc-331b44e8c50f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷]]></title>
-            <link>https://www.elle.co.kr/article/83944</link>
-            <guid>https://www.elle.co.kr/article/83944</guid>
-            <pubDate>Tue, 30 Jan 2024 11:10:59 GMT</pubDate>
-            <content:encoded><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/be7e9b03-7a95-45bc-90f2-fd1b36c27ca0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir]]></title>
-            <link>https://www.elle.co.kr/article/83937</link>
-            <guid>https://www.elle.co.kr/article/83937</guid>
-            <pubDate>Mon, 29 Jan 2024 13:13:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/307d0177-1963-4acb-983b-16f865f3632c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg]]></title>
-            <link>https://www.elle.co.kr/article/83870</link>
-            <guid>https://www.elle.co.kr/article/83870</guid>
-            <pubDate>Mon, 29 Jan 2024 11:11:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/196f13d2-3198-457d-b167-0d75db11c320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번엔 풍수사X장의사X무속인! 오컬트 외길 인생 장재현 신작 '파묘' 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/83853</link>
-            <guid>https://www.elle.co.kr/article/83853</guid>
-            <pubDate>Mon, 29 Jan 2024 08:15:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/32991a5c-0a08-46af-aa89-7afc1c1678de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집과 예술을 사랑하는 모두가 한자리에!]]></title>
-            <link>https://www.elle.co.kr/article/83824</link>
-            <guid>https://www.elle.co.kr/article/83824</guid>
-            <pubDate>Mon, 29 Jan 2024 03:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[일상 속 예술을 향한 열기로 '후끈' 달아오른 &lt;엘르 데코&gt; 전시 오프닝 현장.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/a29fab98-1cdd-4407-a12a-b455fa5a99dd.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2024-01-31T06:16:41.515Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하늬가 끓인 코믹 김치찌개, '밤에 피는 꽃' 인기요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/83979</id>
+        <link href="https://www.elle.co.kr/article/83979"/>
+        <updated>2024-01-31T04:14:53.954Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 여성 화가 7인의 추상회화를 조명하다 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/83974</id>
+        <link href="https://www.elle.co.kr/article/83974"/>
+        <updated>2024-01-31T00:52:41.820Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조예은이 좇는 신기루]]></title>
+        <id>https://www.elle.co.kr/article/83968</id>
+        <link href="https://www.elle.co.kr/article/83968"/>
+        <updated>2024-01-30T15:12:36.095Z</updated>
+        <content type="html"><![CDATA[신간 &lt;꿰맨 눈의 마을&gt;에서 그녀가 직조해낸 아름답고 환상적인 세계를 따라가보았다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷]]></title>
+        <id>https://www.elle.co.kr/article/83944</id>
+        <link href="https://www.elle.co.kr/article/83944"/>
+        <updated>2024-01-30T11:10:59.647Z</updated>
+        <content type="html"><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/83937</id>
+        <link href="https://www.elle.co.kr/article/83937"/>
+        <updated>2024-01-29T13:13:05.130Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg]]></title>
+        <id>https://www.elle.co.kr/article/83870</id>
+        <link href="https://www.elle.co.kr/article/83870"/>
+        <updated>2024-01-29T11:11:02.316Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번엔 풍수사X장의사X무속인! 오컬트 외길 인생 장재현 신작 '파묘' 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/83853</id>
+        <link href="https://www.elle.co.kr/article/83853"/>
+        <updated>2024-01-29T08:15:13.227Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집과 예술을 사랑하는 모두가 한자리에!]]></title>
+        <id>https://www.elle.co.kr/article/83824</id>
+        <link href="https://www.elle.co.kr/article/83824"/>
+        <updated>2024-01-29T03:13:20.170Z</updated>
+        <content type="html"><![CDATA[일상 속 예술을 향한 열기로 '후끈' 달아오른 &lt;엘르 데코&gt; 전시 오프닝 현장.]]></content>
+    </entry>
+</feed>
