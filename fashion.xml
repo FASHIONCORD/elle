@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-01T06:17:25.207Z</updated>
+    <updated>2024-02-01T07:13:35.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홈슬리퍼 vs 컵, 독자가 꼽은 손님 초대용 필수품? #취향의발견_3]]></title>
+        <id>https://www.elle.co.kr/article/84047</id>
+        <link href="https://www.elle.co.kr/article/84047"/>
+        <updated>2024-02-01T07:12:00.622Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금 알렉산더 맥퀸에 주목해야 하는 이유]]></title>
         <id>https://www.elle.co.kr/article/84035</id>
@@ -53,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/83964"/>
         <updated>2024-01-31T00:51:55.498Z</updated>
         <content type="html"><![CDATA[#사람과물건 인터뷰 012 굼허 디렉터 허금연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해피 뉴 헤어! 새해 맞이 헤어 변신한 스타 5]]></title>
-        <id>https://www.elle.co.kr/article/83959</id>
-        <link href="https://www.elle.co.kr/article/83959"/>
-        <updated>2024-01-30T19:10:22.719Z</updated>
-        <content type="html"><![CDATA[아이유와 한예슬, 아이브의 가을까지! 확실한 이미지 변신을 원한다면 헤어 스타일을 바꿔보세요.]]></content>
     </entry>
 </feed>
