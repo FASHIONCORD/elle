@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 04:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 05:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1349,6 +1349,7 @@
             <link>https://www.elle.co.kr/article/83856</link>
             <guid>https://www.elle.co.kr/article/83856</guid>
             <pubDate>Fri, 26 Jan 2024 15:14:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/d9337ca1-911c-4e7e-9ee3-70efff0a15d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기후동행카드, 꼭 사야 하는 사람과 살 필요 없는 사람은? (엘르 코리아 ─ 소사이어티)]]></title>
