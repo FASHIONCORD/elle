@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 18:16:49 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[섬유 디자이너가 향신료를 만든 이유]]></title>
-            <link>https://www.elle.co.kr/article/84017</link>
-            <guid>https://www.elle.co.kr/article/84017</guid>
-            <pubDate>Fri, 02 Feb 2024 11:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[캐나다 디자인 페스티벌에서 가장 주목받은 그 작품]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/51bc1cc0-7379-469f-aec3-74e6e688f6d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스테이크부터 장어까지, 든든하고 따끈한 솥밥 맛집 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/84014</link>
-            <guid>https://www.elle.co.kr/article/84014</guid>
-            <pubDate>Fri, 02 Feb 2024 10:14:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/8161b981-f537-4c22-a43b-fabca30b39c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역사로 가득한 암스트레담 거리에 우뚝 선 3D 프린팅 건물]]></title>
-            <link>https://www.elle.co.kr/article/83980</link>
-            <guid>https://www.elle.co.kr/article/83980</guid>
-            <pubDate>Thu, 01 Feb 2024 06:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[건축도 디지털이 대세.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/c8669020-a494-4101-81ff-a685f3c89eea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 여성 화가 7인의 추상회화를 조명하다 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/83974</link>
-            <guid>https://www.elle.co.kr/article/83974</guid>
-            <pubDate>Thu, 01 Feb 2024 06:17:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/2ec27f09-7f57-4f55-bdb9-6e3bbc509037.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹는 맛, 보는 맛, 듣는 맛을 한 번에 즐길 수 있는 신상 카페 2]]></title>
-            <link>https://www.elle.co.kr/article/83920</link>
-            <guid>https://www.elle.co.kr/article/83920</guid>
-            <pubDate>Thu, 01 Feb 2024 03:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[밀도 높은 사운드부터 키치한 의류 브랜드 제품까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/28/9492e50b-0fcf-45dd-87c0-e93b20906a78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신상 카페 대신 오래된 다방으로! 유행에 휩쓸리지 않는 김규림의 #취향일지도]]></title>
-            <link>https://www.elle.co.kr/article/83951</link>
-            <guid>https://www.elle.co.kr/article/83951</guid>
-            <pubDate>Tue, 30 Jan 2024 10:14:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/27/9ff3583a-51da-4c54-9501-622bca4419f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마세라티 그레칼레와 함께한 하루]]></title>
-            <link>https://www.elle.co.kr/article/83947</link>
-            <guid>https://www.elle.co.kr/article/83947</guid>
-            <pubDate>Tue, 30 Jan 2024 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[청명한 도쿄 하늘 아래 마세라티 그레칼레를 오감으로 경험하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/27/a494b0aa-ce70-4fd3-b4d8-85027eb1b953.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추운 겨울, 마음까지 녹이는 따뜻한 수프 맛집 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/83942</link>
-            <guid>https://www.elle.co.kr/article/83942</guid>
-            <pubDate>Mon, 29 Jan 2024 12:21:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/62409724-d602-4234-b29e-d7090d8e8dac.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2024-02-02T19:13:00.986Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[섬유 디자이너가 향신료를 만든 이유]]></title>
+        <id>https://www.elle.co.kr/article/84017</id>
+        <link href="https://www.elle.co.kr/article/84017"/>
+        <updated>2024-02-02T11:12:01.957Z</updated>
+        <content type="html"><![CDATA[캐나다 디자인 페스티벌에서 가장 주목받은 그 작품]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이크부터 장어까지, 든든하고 따끈한 솥밥 맛집 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84014</id>
+        <link href="https://www.elle.co.kr/article/84014"/>
+        <updated>2024-02-02T10:14:09.765Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역사로 가득한 암스트레담 거리에 우뚝 선 3D 프린팅 건물]]></title>
+        <id>https://www.elle.co.kr/article/83980</id>
+        <link href="https://www.elle.co.kr/article/83980"/>
+        <updated>2024-02-01T06:17:05.380Z</updated>
+        <content type="html"><![CDATA[건축도 디지털이 대세.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 여성 화가 7인의 추상회화를 조명하다 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/83974</id>
+        <link href="https://www.elle.co.kr/article/83974"/>
+        <updated>2024-02-01T06:17:05.382Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먹는 맛, 보는 맛, 듣는 맛을 한 번에 즐길 수 있는 신상 카페 2]]></title>
+        <id>https://www.elle.co.kr/article/83920</id>
+        <link href="https://www.elle.co.kr/article/83920"/>
+        <updated>2024-02-01T03:14:54.974Z</updated>
+        <content type="html"><![CDATA[밀도 높은 사운드부터 키치한 의류 브랜드 제품까지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신상 카페 대신 오래된 다방으로! 유행에 휩쓸리지 않는 김규림의 #취향일지도]]></title>
+        <id>https://www.elle.co.kr/article/83951</id>
+        <link href="https://www.elle.co.kr/article/83951"/>
+        <updated>2024-01-30T10:14:35.679Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마세라티 그레칼레와 함께한 하루]]></title>
+        <id>https://www.elle.co.kr/article/83947</id>
+        <link href="https://www.elle.co.kr/article/83947"/>
+        <updated>2024-01-30T10:14:35.683Z</updated>
+        <content type="html"><![CDATA[청명한 도쿄 하늘 아래 마세라티 그레칼레를 오감으로 경험하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추운 겨울, 마음까지 녹이는 따뜻한 수프 맛집 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/83942</id>
+        <link href="https://www.elle.co.kr/article/83942"/>
+        <updated>2024-01-29T12:21:55.090Z</updated>
+    </entry>
+</feed>
