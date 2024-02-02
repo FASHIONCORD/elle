@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-02-02T09:14:25.613Z</updated>
+    <updated>2024-02-02T10:14:22.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이크부터 장어까지, 든든하고 따끈한 솥밥 맛집 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84014</id>
+        <link href="https://www.elle.co.kr/article/84014"/>
+        <updated>2024-02-02T10:14:09.765Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역사로 가득한 암스트레담 거리에 우뚝 선 3D 프린팅 건물]]></title>
         <id>https://www.elle.co.kr/article/83980</id>
@@ -50,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/83939"/>
         <updated>2024-01-29T07:13:32.456Z</updated>
         <content type="html"><![CDATA[오래된 것들의 가치를 찾아 느긋하게 떠나보는 여행! 눈호강하기 좋은 도쿄의 주옥 같은 빈티지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바다 내음 가득! 윤보미의 제주도 식도락 여행 3]]></title>
-        <id>https://www.elle.co.kr/article/83919</id>
-        <link href="https://www.elle.co.kr/article/83919"/>
-        <updated>2024-01-27T15:11:53.828Z</updated>
-        <content type="html"><![CDATA[즉흥적으로 제주 여행길에 오른 윤보미의 여행 컨셉은 '먹'기행! 갈치구이와 보말 칼국수, 전복...]]></content>
     </entry>
 </feed>
