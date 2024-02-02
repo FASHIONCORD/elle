@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 10:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 11:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1300,6 +1300,13 @@
             <pubDate>Tue, 09 Jan 2024 02:28:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[섬유 디자이너가 향신료를 만든 이유 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/84017</link>
+            <guid>https://www.elle.co.kr/article/84017</guid>
+            <pubDate>Fri, 02 Feb 2024 11:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[캐나다 디자인 페스티벌에서 가장 주목받은 그 작품]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스테이크부터 장어까지, 든든하고 따끈한 솥밥 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84014</link>
             <guid>https://www.elle.co.kr/article/84014</guid>
@@ -1343,13 +1350,6 @@
             <link>https://www.elle.co.kr/article/83942</link>
             <guid>https://www.elle.co.kr/article/83942</guid>
             <pubDate>Mon, 29 Jan 2024 12:21:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[빈티지 헌터를 위한 가구 & 소품 숍 4 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/83939</link>
-            <guid>https://www.elle.co.kr/article/83939</guid>
-            <pubDate>Mon, 29 Jan 2024 07:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[오래된 것들의 가치를 찾아 느긋하게 떠나보는 여행! 눈호강하기 좋은 도쿄의 주옥 같은 빈티지...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[끊임없이 고통받는 모나리자, 이번엔 수프 테러 당했다? (엘르 코리아 ─ 소사이어티)]]></title>
