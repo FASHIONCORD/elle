@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 17:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 18:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1220,7 +1220,6 @@
             <guid>https://www.elle.co.kr/article/84096</guid>
             <pubDate>Fri, 02 Feb 2024 09:14:06 GMT</pubDate>
             <content:encoded><![CDATA[보석 같은 아티스트의 작품만 감상하러 미술관에 가는 건 아니잖아요? 건축적인 아름다움과 그림...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/2e572376-8da7-4101-ac10-3363ebe0212d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 꼭 봐야 할 패션 시리즈 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1228,14 +1227,12 @@
             <guid>https://www.elle.co.kr/article/84076</guid>
             <pubDate>Thu, 01 Feb 2024 07:12:49 GMT</pubDate>
             <content:encoded><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/187cba9e-63c4-470e-910e-d289676cac40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 여성 화가 7인의 추상회화를 조명하다 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/83974</link>
             <guid>https://www.elle.co.kr/article/83974</guid>
             <pubDate>Mon, 29 Jan 2024 07:13:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/2ec27f09-7f57-4f55-bdb9-6e3bbc509037.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[집과 예술을 사랑하는 모두가 한자리에! (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1243,7 +1240,6 @@
             <guid>https://www.elle.co.kr/article/83824</guid>
             <pubDate>Mon, 22 Jan 2024 17:13:47 GMT</pubDate>
             <content:encoded><![CDATA[일상 속 예술을 향한 열기로 '후끈' 달아오른 &lt;엘르 데코&gt; 전시 오프닝 현장.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/a29fab98-1cdd-4407-a12a-b455fa5a99dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건축에 관한 지극히 사적인 기록 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
