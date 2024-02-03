@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 03:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 04:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -894,6 +894,13 @@
             <pubDate>Thu, 01 Feb 2024 07:12:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[뷰러 끝판왕 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/83995</link>
+            <guid>https://www.elle.co.kr/article/83995</guid>
+            <pubDate>Sat, 03 Feb 2024 04:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[세상에서 가장 럭셔리한 아이래시컬러의 등장]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[작지만 강한 미니 향수_선배’s 어드바이스 #205 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/83965</link>
             <guid>https://www.elle.co.kr/article/83965</guid>
@@ -938,12 +945,6 @@
             <link>https://www.elle.co.kr/article/83799</link>
             <guid>https://www.elle.co.kr/article/83799</guid>
             <pubDate>Sun, 28 Jan 2024 19:09:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1시간 만에 -2.2kg! 군살 하나 없는 근육질 김혜선의 최애 운동은? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/83751</link>
-            <guid>https://www.elle.co.kr/article/83751</guid>
-            <pubDate>Sat, 27 Jan 2024 19:10:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[손예진이 베이비박스를 직접 찾은 사연 (엘르 코리아 ─ 스타)]]></title>
@@ -1352,6 +1353,12 @@
             <pubDate>Mon, 29 Jan 2024 12:21:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스] 그래도 미래를 향해 걸어야 한다면 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/83949</link>
+            <guid>https://www.elle.co.kr/article/83949</guid>
+            <pubDate>Sat, 03 Feb 2024 04:14:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[돈 모으는 것도 재능일까? #돈쓸신잡 134 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/83967</link>
             <guid>https://www.elle.co.kr/article/83967</guid>
@@ -1393,12 +1400,6 @@
             <link>https://www.elle.co.kr/article/83631</link>
             <guid>https://www.elle.co.kr/article/83631</guid>
             <pubDate>Sun, 28 Jan 2024 15:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['스마트폰'은 옛말? 올해 주목해야 할 기술 빅3 #돈쓸신잡 132 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/83619</link>
-            <guid>https://www.elle.co.kr/article/83619</guid>
-            <pubDate>Wed, 24 Jan 2024 06:18:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
