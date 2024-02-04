@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 00:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 01:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1139,12 +1139,14 @@
             <link>https://www.elle.co.kr/article/84104</link>
             <guid>https://www.elle.co.kr/article/84104</guid>
             <pubDate>Fri, 02 Feb 2024 13:13:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/1cd947c0-a338-4c73-8b3b-6f86cebb08f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 남친과 동업 가능?! 이지아X강기영의 케미가 기대되는 2월 1주차 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84092</link>
             <guid>https://www.elle.co.kr/article/84092</guid>
             <pubDate>Fri, 02 Feb 2024 08:15:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/2c5988ca-1353-4960-aabc-e89896f4f1a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 꼭 봐야 할 패션 시리즈 3 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1152,12 +1154,14 @@
             <guid>https://www.elle.co.kr/article/84076</guid>
             <pubDate>Thu, 01 Feb 2024 07:12:49 GMT</pubDate>
             <content:encoded><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/187cba9e-63c4-470e-910e-d289676cac40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김태희부터 박해수까지, 할리우드로 가는 한국 배우 3 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84043</link>
             <guid>https://www.elle.co.kr/article/84043</guid>
             <pubDate>Wed, 31 Jan 2024 09:12:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/605ee447-1442-4737-be59-626fd142e0a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요리사 '대장금'이 20년 만에 의사로 돌아온다 (ft. 캐스팅) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1395,12 +1399,14 @@
             <link>https://www.elle.co.kr/article/83639</link>
             <guid>https://www.elle.co.kr/article/83639</guid>
             <pubDate>Mon, 29 Jan 2024 03:14:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/c1c32f04-0697-4cc7-8542-135b400a5343.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[집으로 돌아가지 못하는 사람들 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/83631</link>
             <guid>https://www.elle.co.kr/article/83631</guid>
             <pubDate>Sun, 28 Jan 2024 15:12:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/b7f816d4-8568-4bf7-a8bb-d2a338dc977a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
