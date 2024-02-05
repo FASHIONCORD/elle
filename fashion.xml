@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-05T18:16:41.161Z</updated>
+    <updated>2024-02-05T19:12:42.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[골목길 풍경]]></title>
+        <id>https://www.elle.co.kr/article/84062</id>
+        <link href="https://www.elle.co.kr/article/84062"/>
+        <updated>2024-02-05T19:11:28.365Z</updated>
+        <content type="html"><![CDATA[익숙한 듯 생경한 골목길에서.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정윤기와 마르니의 조이풀 협업]]></title>
         <id>https://www.elle.co.kr/article/84061</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84067"/>
         <updated>2024-02-01T19:11:06.053Z</updated>
         <content type="html"><![CDATA[AI 회사의 예술가 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긱시크의 정석은 여기서!]]></title>
-        <id>https://www.elle.co.kr/article/84059</id>
-        <link href="https://www.elle.co.kr/article/84059"/>
-        <updated>2024-02-01T16:15:04.880Z</updated>
-        <content type="html"><![CDATA[제멋대로 자유분방한 스쿨 걸이 나타났다.]]></content>
     </entry>
 </feed>
