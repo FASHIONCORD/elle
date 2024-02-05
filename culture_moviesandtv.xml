@@ -1,87 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/moviesandtv</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-02-05T12:22:42.954Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['고거전' 원정왕후가 '미스터 션샤인' 유진 초이 엄마? 이시아 인생캐 3선 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/84136</id>
-        <link href="https://www.elle.co.kr/article/84136"/>
-        <updated>2024-02-05T11:11:19.468Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5년 만에 한국 오는 티모시 샬라메 내한 일정]]></title>
-        <id>https://www.elle.co.kr/article/84135</id>
-        <link href="https://www.elle.co.kr/article/84135"/>
-        <updated>2024-02-05T11:11:19.470Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 만에 돌아오는 '오징어 게임' 시즌2 정보]]></title>
-        <id>https://www.elle.co.kr/article/84122</id>
-        <link href="https://www.elle.co.kr/article/84122"/>
-        <updated>2024-02-04T20:13:17.901Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본인도 깜짝 놀란 유튜버 랄랄의 결혼할 결심 (ft. 예비신랑은 누구?)]]></title>
-        <id>https://www.elle.co.kr/article/84104</id>
-        <link href="https://www.elle.co.kr/article/84104"/>
-        <updated>2024-02-02T13:13:56.178Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 남친과 동업 가능?! 이지아X강기영의 케미가 기대되는 2월 1주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/84092</id>
-        <link href="https://www.elle.co.kr/article/84092"/>
-        <updated>2024-02-02T08:15:59.521Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 꼭 봐야 할 패션 시리즈 3]]></title>
-        <id>https://www.elle.co.kr/article/84076</id>
-        <link href="https://www.elle.co.kr/article/84076"/>
-        <updated>2024-02-01T07:12:49.223Z</updated>
-        <content type="html"><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태희부터 박해수까지, 할리우드로 가는 한국 배우 3]]></title>
-        <id>https://www.elle.co.kr/article/84043</id>
-        <link href="https://www.elle.co.kr/article/84043"/>
-        <updated>2024-01-31T09:12:33.403Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요리사 '대장금'이 20년 만에 의사로 돌아온다 (ft. 캐스팅)]]></title>
-        <id>https://www.elle.co.kr/article/84021</id>
-        <link href="https://www.elle.co.kr/article/84021"/>
-        <updated>2024-01-30T11:11:17.692Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬가 끓인 코믹 김치찌개, '밤에 피는 꽃' 인기요인 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/83979</id>
-        <link href="https://www.elle.co.kr/article/83979"/>
-        <updated>2024-01-29T11:11:19.830Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83937</id>
-        <link href="https://www.elle.co.kr/article/83937"/>
-        <updated>2024-01-26T08:16:00.660Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번엔 풍수사X장의사X무속인! 오컬트 외길 인생 장재현 신작 '파묘' 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/83853</id>
-        <link href="https://www.elle.co.kr/article/83853"/>
-        <updated>2024-01-23T10:14:46.861Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일과 사랑 다 잡은 지창욱X신혜선, '웰컴투 삼달리' 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/83809</id>
-        <link href="https://www.elle.co.kr/article/83809"/>
-        <updated>2024-01-22T08:18:00.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83759</id>
-        <link href="https://www.elle.co.kr/article/83759"/>
-        <updated>2024-01-19T02:30:24.739Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 05 Feb 2024 13:14:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['고거전' 원정왕후가 '미스터 션샤인' 유진 초이 엄마? 이시아 인생캐 3선 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/84136</link>
+            <guid>https://www.elle.co.kr/article/84136</guid>
+            <pubDate>Mon, 05 Feb 2024 11:11:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/c3f6cdde-be74-4c0f-b990-1d21ac59c7ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5년 만에 한국 오는 티모시 샬라메 내한 일정]]></title>
+            <link>https://www.elle.co.kr/article/84135</link>
+            <guid>https://www.elle.co.kr/article/84135</guid>
+            <pubDate>Mon, 05 Feb 2024 11:11:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/eca66b55-65b6-471b-97f4-7732eb27d5a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3년 만에 돌아오는 '오징어 게임' 시즌2 정보]]></title>
+            <link>https://www.elle.co.kr/article/84122</link>
+            <guid>https://www.elle.co.kr/article/84122</guid>
+            <pubDate>Sun, 04 Feb 2024 20:13:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/ef6473d9-b018-4ac5-acb1-d7382af171fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본인도 깜짝 놀란 유튜버 랄랄의 결혼할 결심 (ft. 예비신랑은 누구?)]]></title>
+            <link>https://www.elle.co.kr/article/84104</link>
+            <guid>https://www.elle.co.kr/article/84104</guid>
+            <pubDate>Fri, 02 Feb 2024 13:13:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/1cd947c0-a338-4c73-8b3b-6f86cebb08f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 남친과 동업 가능?! 이지아X강기영의 케미가 기대되는 2월 1주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/84092</link>
+            <guid>https://www.elle.co.kr/article/84092</guid>
+            <pubDate>Fri, 02 Feb 2024 08:15:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[올해 꼭 봐야 할 패션 시리즈 3]]></title>
+            <link>https://www.elle.co.kr/article/84076</link>
+            <guid>https://www.elle.co.kr/article/84076</guid>
+            <pubDate>Thu, 01 Feb 2024 07:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김태희부터 박해수까지, 할리우드로 가는 한국 배우 3]]></title>
+            <link>https://www.elle.co.kr/article/84043</link>
+            <guid>https://www.elle.co.kr/article/84043</guid>
+            <pubDate>Wed, 31 Jan 2024 09:12:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[요리사 '대장금'이 20년 만에 의사로 돌아온다 (ft. 캐스팅)]]></title>
+            <link>https://www.elle.co.kr/article/84021</link>
+            <guid>https://www.elle.co.kr/article/84021</guid>
+            <pubDate>Tue, 30 Jan 2024 11:11:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[이하늬가 끓인 코믹 김치찌개, '밤에 피는 꽃' 인기요인 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/83979</link>
+            <guid>https://www.elle.co.kr/article/83979</guid>
+            <pubDate>Mon, 29 Jan 2024 11:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/83937</link>
+            <guid>https://www.elle.co.kr/article/83937</guid>
+            <pubDate>Fri, 26 Jan 2024 08:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[이번엔 풍수사X장의사X무속인! 오컬트 외길 인생 장재현 신작 '파묘' 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/83853</link>
+            <guid>https://www.elle.co.kr/article/83853</guid>
+            <pubDate>Tue, 23 Jan 2024 10:14:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[일과 사랑 다 잡은 지창욱X신혜선, '웰컴투 삼달리' 명장면 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/83809</link>
+            <guid>https://www.elle.co.kr/article/83809</guid>
+            <pubDate>Mon, 22 Jan 2024 08:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/83759</link>
+            <guid>https://www.elle.co.kr/article/83759</guid>
+            <pubDate>Fri, 19 Jan 2024 02:30:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
