@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 07:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 08:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://www.elle.co.kr/article/84101</link>
             <guid>https://www.elle.co.kr/article/84101</guid>
             <pubDate>Sun, 04 Feb 2024 22:11:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/aff2e4e1-3bf3-4f27-9206-7deb0e8f8bbf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭔가 다른 미술관 #도쿄핫플]]></title>
