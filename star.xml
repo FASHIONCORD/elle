@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-06T12:22:41.897Z</updated>
+    <updated>2024-02-06T13:16:00.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5년 만에 한국 오는 티모시 샬라메 내한 일정]]></title>
+        <id>https://www.elle.co.kr/article/84135</id>
+        <link href="https://www.elle.co.kr/article/84135"/>
+        <updated>2024-02-06T13:14:55.948Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['맨유 성골'이자 '잉글랜드 국대', 제시 린가드 한국행의 배경 (ft. 여행 아님)]]></title>
         <id>https://www.elle.co.kr/article/84123</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/84079</id>
         <link href="https://www.elle.co.kr/article/84079"/>
         <updated>2024-02-04T20:12:02.563Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손예진이 베이비박스를 직접 찾은 사연]]></title>
-        <id>https://www.elle.co.kr/article/84078</id>
-        <link href="https://www.elle.co.kr/article/84078"/>
-        <updated>2024-02-02T15:13:01.328Z</updated>
     </entry>
 </feed>
