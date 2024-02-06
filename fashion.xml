@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-06T08:16:15.555Z</updated>
+    <updated>2024-02-06T09:13:08.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[담백한 맛, 화이트 셔츠]]></title>
+        <id>https://www.elle.co.kr/article/84113</id>
+        <link href="https://www.elle.co.kr/article/84113"/>
+        <updated>2024-02-06T09:11:55.002Z</updated>
+        <content type="html"><![CDATA[공들여 꾸미지 않고도 우아한 스타일은 화이트 셔츠로 완성된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한겨울에도 코트를 포기할 수 없다면! '얼죽코'를 위한 스타일링 tip]]></title>
         <id>https://www.elle.co.kr/article/84110</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84089"/>
         <updated>2024-02-02T15:12:45.123Z</updated>
         <content type="html"><![CDATA[패션계의 히스토리를 담은 드라마가 연이어 공개될 예정이다. 두 편 모두 '각 잡고 만든' 웰메...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 꼭 봐야 할 패션 시리즈 3]]></title>
-        <id>https://www.elle.co.kr/article/84076</id>
-        <link href="https://www.elle.co.kr/article/84076"/>
-        <updated>2024-02-02T15:12:45.132Z</updated>
-        <content type="html"><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content>
     </entry>
 </feed>

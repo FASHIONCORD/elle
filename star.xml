@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-06T08:16:15.548Z</updated>
+    <updated>2024-02-06T09:13:08.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정윤기와 마르니의 조이풀 협업]]></title>
+        <id>https://www.elle.co.kr/article/84061</id>
+        <link href="https://www.elle.co.kr/article/84061"/>
+        <updated>2024-02-06T09:12:13.021Z</updated>
+        <content type="html"><![CDATA[스타일리스트 정윤기와 마르니가 협업한 캡슐 컬렉션이 발표됐다. 즐거운 아이디어와 유쾌한 바이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손흥민X이강인X조규성의 추천 맛집 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/84101</id>
@@ -47,11 +54,5 @@
         <id>https://www.elle.co.kr/article/84046</id>
         <link href="https://www.elle.co.kr/article/84046"/>
         <updated>2024-02-02T12:20:52.909Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹받는 연기 속에서도 돋보이는 피지컬! 이이경의 관리 비결 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84044</id>
-        <link href="https://www.elle.co.kr/article/84044"/>
-        <updated>2024-02-02T08:15:35.093Z</updated>
     </entry>
 </feed>
