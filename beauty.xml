@@ -1,62 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/beauty</id>
-    <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-06T11:12:02.344Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[SO ICY! 여돌들이 푹 빠진 이 메이크업은?]]></title>
-        <id>https://www.elle.co.kr/article/84107</id>
-        <link href="https://www.elle.co.kr/article/84107"/>
-        <updated>2024-02-06T03:13:32.874Z</updated>
-        <content type="html"><![CDATA['여돌'들의 메이크업은 여전히 겨울!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소사모들 모여라! 한소희의 레전드 갱신 립스틱 화보 (with 크리스챤 디올 뷰티)]]></title>
-        <id>https://www.elle.co.kr/article/84060</id>
-        <link href="https://www.elle.co.kr/article/84060"/>
-        <updated>2024-02-05T15:12:02.097Z</updated>
-        <content type="html"><![CDATA[오늘도 한소희는 레전드를 갱신합니다. 크리스챤 디올 뷰티 2024 NEW 루즈 디올을 바르고 &lt;엘...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸을 때마다 이걸 신경 쓴다고? 있지 유나의 특별한 관리법  #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84079</id>
-        <link href="https://www.elle.co.kr/article/84079"/>
-        <updated>2024-02-04T19:10:56.654Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹받는 연기 속에서도 돋보이는 피지컬! 이이경의 관리 비결 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84044</id>
-        <link href="https://www.elle.co.kr/article/84044"/>
-        <updated>2024-02-04T15:11:02.200Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰러 끝판왕]]></title>
-        <id>https://www.elle.co.kr/article/83995</id>
-        <link href="https://www.elle.co.kr/article/83995"/>
-        <updated>2024-02-03T04:13:28.167Z</updated>
-        <content type="html"><![CDATA[세상에서 가장 럭셔리한 아이래시컬러의 등장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작지만 강한 미니 향수_선배’s 어드바이스 #205]]></title>
-        <id>https://www.elle.co.kr/article/83965</id>
-        <link href="https://www.elle.co.kr/article/83965"/>
-        <updated>2024-02-02T15:12:53.142Z</updated>
-        <content type="html"><![CDATA[가벼운 지갑도 환영! 소용량 스틱부터 밤, 롤온, 오일, 펜, 네일 퍼퓸까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해피 뉴 헤어! 새해 맞이 헤어 변신한 스타 5]]></title>
-        <id>https://www.elle.co.kr/article/83959</id>
-        <link href="https://www.elle.co.kr/article/83959"/>
-        <updated>2024-02-01T16:15:13.569Z</updated>
-        <content type="html"><![CDATA[아이유와 한예슬, 아이브의 가을까지! 확실한 이미지 변신을 원한다면 헤어 스타일을 바꿔보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손끝까지 반짝반짝! 스타들의 네일 아트 5]]></title>
-        <id>https://www.elle.co.kr/article/83954</id>
-        <link href="https://www.elle.co.kr/article/83954"/>
-        <updated>2024-02-01T08:15:31.904Z</updated>
-        <content type="html"><![CDATA[네일 숍 가기 전 참고하세요.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 06 Feb 2024 12:22:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SO ICY! 여돌들이 푹 빠진 이 메이크업은?]]></title>
+            <link>https://www.elle.co.kr/article/84107</link>
+            <guid>https://www.elle.co.kr/article/84107</guid>
+            <pubDate>Tue, 06 Feb 2024 03:13:32 GMT</pubDate>
+            <content:encoded><![CDATA['여돌'들의 메이크업은 여전히 겨울!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소사모들 모여라! 한소희의 레전드 갱신 립스틱 화보 (with 크리스챤 디올 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84060</link>
+            <guid>https://www.elle.co.kr/article/84060</guid>
+            <pubDate>Mon, 05 Feb 2024 15:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[오늘도 한소희는 레전드를 갱신합니다. 크리스챤 디올 뷰티 2024 NEW 루즈 디올을 바르고 &lt;엘...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[걸을 때마다 이걸 신경 쓴다고? 있지 유나의 특별한 관리법  #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/84079</link>
+            <guid>https://www.elle.co.kr/article/84079</guid>
+            <pubDate>Sun, 04 Feb 2024 19:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[킹받는 연기 속에서도 돋보이는 피지컬! 이이경의 관리 비결 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/84044</link>
+            <guid>https://www.elle.co.kr/article/84044</guid>
+            <pubDate>Sun, 04 Feb 2024 15:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[뷰러 끝판왕]]></title>
+            <link>https://www.elle.co.kr/article/83995</link>
+            <guid>https://www.elle.co.kr/article/83995</guid>
+            <pubDate>Sat, 03 Feb 2024 04:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[세상에서 가장 럭셔리한 아이래시컬러의 등장]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/f93df3da-8045-4255-990c-6d9db87b952c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작지만 강한 미니 향수_선배’s 어드바이스 #205]]></title>
+            <link>https://www.elle.co.kr/article/83965</link>
+            <guid>https://www.elle.co.kr/article/83965</guid>
+            <pubDate>Fri, 02 Feb 2024 15:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[가벼운 지갑도 환영! 소용량 스틱부터 밤, 롤온, 오일, 펜, 네일 퍼퓸까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/f910c9ab-0331-45a6-a9d2-817b7e9a04c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해피 뉴 헤어! 새해 맞이 헤어 변신한 스타 5]]></title>
+            <link>https://www.elle.co.kr/article/83959</link>
+            <guid>https://www.elle.co.kr/article/83959</guid>
+            <pubDate>Thu, 01 Feb 2024 16:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[아이유와 한예슬, 아이브의 가을까지! 확실한 이미지 변신을 원한다면 헤어 스타일을 바꿔보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/d55c42f5-246e-4282-8b3c-2d314db3cccb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손끝까지 반짝반짝! 스타들의 네일 아트 5]]></title>
+            <link>https://www.elle.co.kr/article/83954</link>
+            <guid>https://www.elle.co.kr/article/83954</guid>
+            <pubDate>Thu, 01 Feb 2024 08:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[네일 숍 가기 전 참고하세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/152c20ef-5f96-4e4b-8d6a-f34576404860.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
