@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 06:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 07:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -893,6 +893,7 @@
             <guid>https://www.elle.co.kr/article/84061</guid>
             <pubDate>Sun, 04 Feb 2024 15:10:53 GMT</pubDate>
             <content:encoded><![CDATA[스타일리스트 정윤기와 마르니가 협업한 캡슐 컬렉션이 발표됐다. 즐거운 아이디어와 유쾌한 바이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/03/175ec3e9-cf6f-4423-b8ed-bedc302d5644.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[욕실의 품격 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1138,24 +1139,28 @@
             <link>https://www.elle.co.kr/article/84163</link>
             <guid>https://www.elle.co.kr/article/84163</guid>
             <pubDate>Tue, 06 Feb 2024 13:15:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/a5ed22ee-5e36-4cf2-9035-d9890d66c1fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['고거전' 원정왕후가 '미스터 션샤인' 유진 초이 엄마? 이시아 인생캐 3선 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84136</link>
             <guid>https://www.elle.co.kr/article/84136</guid>
             <pubDate>Mon, 05 Feb 2024 11:11:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/c3f6cdde-be74-4c0f-b990-1d21ac59c7ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5년 만에 한국 오는 티모시 샬라메 내한 일정 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84135</link>
             <guid>https://www.elle.co.kr/article/84135</guid>
             <pubDate>Mon, 05 Feb 2024 11:11:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/eca66b55-65b6-471b-97f4-7732eb27d5a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3년 만에 돌아오는 '오징어 게임' 시즌2 정보 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84122</link>
             <guid>https://www.elle.co.kr/article/84122</guid>
             <pubDate>Sun, 04 Feb 2024 20:13:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/ef6473d9-b018-4ac5-acb1-d7382af171fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[본인도 깜짝 놀란 유튜버 랄랄의 결혼할 결심 (ft. 예비신랑은 누구?) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1218,6 +1223,7 @@
             <guid>https://www.elle.co.kr/article/84148</guid>
             <pubDate>Tue, 06 Feb 2024 06:17:14 GMT</pubDate>
             <content:encoded><![CDATA[&lt;반클리프 아펠: 시간, 자연, 사랑&gt; 전시 디렉터 알렉산드린 마비엘 소네와 나눈 대화.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/5831c5b1-f7c2-4a81-9870-7d06e5b52bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭔가 다른 미술관 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1225,6 +1231,7 @@
             <guid>https://www.elle.co.kr/article/84096</guid>
             <pubDate>Fri, 02 Feb 2024 09:14:06 GMT</pubDate>
             <content:encoded><![CDATA[보석 같은 아티스트의 작품만 감상하러 미술관에 가는 건 아니잖아요? 건축적인 아름다움과 그림...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/2e572376-8da7-4101-ac10-3363ebe0212d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 꼭 봐야 할 패션 시리즈 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1232,12 +1239,14 @@
             <guid>https://www.elle.co.kr/article/84076</guid>
             <pubDate>Thu, 01 Feb 2024 07:12:49 GMT</pubDate>
             <content:encoded><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/187cba9e-63c4-470e-910e-d289676cac40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 여성 화가 7인의 추상회화를 조명하다 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/83974</link>
             <guid>https://www.elle.co.kr/article/83974</guid>
             <pubDate>Mon, 29 Jan 2024 07:13:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/2ec27f09-7f57-4f55-bdb9-6e3bbc509037.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[집과 예술을 사랑하는 모두가 한자리에! (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
