@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 05:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 06:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -895,6 +895,13 @@
             <content:encoded><![CDATA[스타일리스트 정윤기와 마르니가 협업한 캡슐 컬렉션이 발표됐다. 즐거운 아이디어와 유쾌한 바이...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[욕실의 품격 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84119</link>
+            <guid>https://www.elle.co.kr/article/84119</guid>
+            <pubDate>Wed, 07 Feb 2024 06:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[손이 가요 손이 가]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[숨, 그리고 연결. 나이키가 서울에서 이야기한 진짜 웰니스 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/84111</link>
             <guid>https://www.elle.co.kr/article/84111</guid>
@@ -940,13 +947,6 @@
             <guid>https://www.elle.co.kr/article/83965</guid>
             <pubDate>Fri, 02 Feb 2024 15:12:53 GMT</pubDate>
             <content:encoded><![CDATA[가벼운 지갑도 환영! 소용량 스틱부터 밤, 롤온, 오일, 펜, 네일 퍼퓸까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[해피 뉴 헤어! 새해 맞이 헤어 변신한 스타 5 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/83959</link>
-            <guid>https://www.elle.co.kr/article/83959</guid>
-            <pubDate>Thu, 01 Feb 2024 16:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[아이유와 한예슬, 아이브의 가을까지! 확실한 이미지 변신을 원한다면 헤어 스타일을 바꿔보세요.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5년 만에 한국 오는 티모시 샬라메 내한 일정 (엘르 코리아 ─ 스타)]]></title>
