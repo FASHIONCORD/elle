@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 09:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 10:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -895,6 +895,13 @@
             <content:encoded><![CDATA[익숙한 듯 생경한 골목길에서.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나만 알고 싶은 윤혜진의 피부 비결은? 스팀 타월 세안법 HOW TO (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84121</link>
+            <guid>https://www.elle.co.kr/article/84121</guid>
+            <pubDate>Wed, 07 Feb 2024 10:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 외부 자극으로부터 지친 피부를 건강하게 유지하기 위한 윤혜진의 클렌징 루틴을 따라 해...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[욕실의 품격 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/84119</link>
             <guid>https://www.elle.co.kr/article/84119</guid>
@@ -942,11 +949,23 @@
             <content:encoded><![CDATA[세상에서 가장 럭셔리한 아이래시컬러의 등장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[작지만 강한 미니 향수_선배’s 어드바이스 #205 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/83965</link>
-            <guid>https://www.elle.co.kr/article/83965</guid>
-            <pubDate>Fri, 02 Feb 2024 15:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[가벼운 지갑도 환영! 소용량 스틱부터 밤, 롤온, 오일, 펜, 네일 퍼퓸까지.]]></content:encoded>
+            <title><![CDATA[보아가 '내 남편과 결혼해 줘'에 등장한 이유 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84159</link>
+            <guid>https://www.elle.co.kr/article/84159</guid>
+            <pubDate>Wed, 07 Feb 2024 10:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[그래미 어워드 본상 수상자는 레드카펫 룩도 남다를까? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84154</link>
+            <guid>https://www.elle.co.kr/article/84154</guid>
+            <pubDate>Wed, 07 Feb 2024 08:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[무려 675시간에 걸쳐 완성된 드레스의 주인공은?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['고거전' 원정왕후가 '미스터 션샤인' 유진 초이 엄마? 이시아 인생캐 3선 #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84136</link>
+            <guid>https://www.elle.co.kr/article/84136</guid>
+            <pubDate>Mon, 05 Feb 2024 11:11:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5년 만에 한국 오는 티모시 샬라메 내한 일정 (엘르 코리아 ─ 스타)]]></title>
@@ -978,24 +997,6 @@
             <link>https://www.elle.co.kr/article/84101</link>
             <guid>https://www.elle.co.kr/article/84101</guid>
             <pubDate>Sun, 04 Feb 2024 22:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[옛 연인 신동엽X이소라가 두 번째로 재회하는 뜻밖의 장소 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84100</link>
-            <guid>https://www.elle.co.kr/article/84100</guid>
-            <pubDate>Mon, 05 Feb 2024 11:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[전 남친과 동업 가능?! 이지아X강기영의 케미가 기대되는 2월 1주차 #신작이OnAir (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84092</link>
-            <guid>https://www.elle.co.kr/article/84092</guid>
-            <pubDate>Fri, 02 Feb 2024 08:15:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[걸을 때마다 이걸 신경 쓴다고? 있지 유나의 특별한 관리법  #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84079</link>
-            <guid>https://www.elle.co.kr/article/84079</guid>
-            <pubDate>Sun, 04 Feb 2024 19:10:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['맨유 성골'이자 '잉글랜드 국대', 제시 린가드 한국행의 배경 (ft. 여행 아님) (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1054,6 +1055,7 @@
             <guid>https://www.elle.co.kr/article/84026</guid>
             <pubDate>Wed, 31 Jan 2024 00:52:50 GMT</pubDate>
             <content:encoded><![CDATA[오직 노래를 향한 진심으로 함께 한 일곱 명이 엘르 카메라 앞에 모였다. 그 축제 같은 순간...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/ba99a043-2510-4ff3-b157-6417fbede34c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드레스의 정규 1집 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1061,12 +1063,14 @@
             <guid>https://www.elle.co.kr/article/83996</guid>
             <pubDate>Tue, 30 Jan 2024 15:12:44 GMT</pubDate>
             <content:encoded><![CDATA[드레스의 정규 1집 앨범에 담긴 연애 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/0f304903-5e5a-47d4-a544-e015c053ab26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차은우와 LA에서 데이트한 의외의 인물 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83982</link>
             <guid>https://www.elle.co.kr/article/83982</guid>
             <pubDate>Mon, 29 Jan 2024 13:13:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/34b19afb-3a29-416c-8293-f685fe03367e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1074,6 +1078,7 @@
             <guid>https://www.elle.co.kr/article/83944</guid>
             <pubDate>Fri, 26 Jan 2024 13:13:27 GMT</pubDate>
             <content:encoded><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/be7e9b03-7a95-45bc-90f2-fd1b36c27ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
