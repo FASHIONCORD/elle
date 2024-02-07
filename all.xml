@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 18:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 19:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영원히 함께할 커플 링 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84160</link>
+            <guid>https://www.elle.co.kr/article/84160</guid>
+            <pubDate>Wed, 07 Feb 2024 19:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[두 손에 꼭.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[함께 있을 때 더 빛나는 '환상의 커플' (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84156</link>
             <guid>https://www.elle.co.kr/article/84156</guid>
@@ -886,13 +893,6 @@
             <guid>https://www.elle.co.kr/article/84113</guid>
             <pubDate>Tue, 06 Feb 2024 09:11:55 GMT</pubDate>
             <content:encoded><![CDATA[공들여 꾸미지 않고도 우아한 스타일은 화이트 셔츠로 완성된다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한겨울에도 코트를 포기할 수 없다면! '얼죽코'를 위한 스타일링 tip (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84110</link>
-            <guid>https://www.elle.co.kr/article/84110</guid>
-            <pubDate>Tue, 06 Feb 2024 03:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[카리나부터 손나은까지 옷 잘 입는 스타들의 한겨울 멋있는 코트 스타일.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 윤혜진의 피부 비결은? 스팀 타월 세안법 HOW TO (엘르 코리아 ─ 뷰티)]]></title>
@@ -1218,6 +1218,7 @@
             <guid>https://www.elle.co.kr/article/84148</guid>
             <pubDate>Tue, 06 Feb 2024 06:17:14 GMT</pubDate>
             <content:encoded><![CDATA[&lt;반클리프 아펠: 시간, 자연, 사랑&gt; 전시 디렉터 알렉산드린 마비엘 소네와 나눈 대화.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/5831c5b1-f7c2-4a81-9870-7d06e5b52bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭔가 다른 미술관 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1225,6 +1226,7 @@
             <guid>https://www.elle.co.kr/article/84096</guid>
             <pubDate>Fri, 02 Feb 2024 09:14:06 GMT</pubDate>
             <content:encoded><![CDATA[보석 같은 아티스트의 작품만 감상하러 미술관에 가는 건 아니잖아요? 건축적인 아름다움과 그림...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/2e572376-8da7-4101-ac10-3363ebe0212d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 꼭 봐야 할 패션 시리즈 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1232,12 +1234,14 @@
             <guid>https://www.elle.co.kr/article/84076</guid>
             <pubDate>Thu, 01 Feb 2024 07:12:49 GMT</pubDate>
             <content:encoded><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/187cba9e-63c4-470e-910e-d289676cac40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 여성 화가 7인의 추상회화를 조명하다 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/83974</link>
             <guid>https://www.elle.co.kr/article/83974</guid>
             <pubDate>Mon, 29 Jan 2024 07:13:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/2ec27f09-7f57-4f55-bdb9-6e3bbc509037.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[집과 예술을 사랑하는 모두가 한자리에! (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
