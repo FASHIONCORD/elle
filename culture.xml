@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 15:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 16:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,6 +49,7 @@
             <link>https://www.elle.co.kr/article/84104</link>
             <guid>https://www.elle.co.kr/article/84104</guid>
             <pubDate>Mon, 05 Feb 2024 11:11:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/1cd947c0-a338-4c73-8b3b-6f86cebb08f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부모님과 가족 여행할 때 먹어야 할 마음가짐 #여자읽는여자]]></title>
