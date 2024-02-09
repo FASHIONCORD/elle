@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 04:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 05:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1305,12 +1305,14 @@
             <guid>https://www.elle.co.kr/article/84066</guid>
             <pubDate>Thu, 08 Feb 2024 19:11:43 GMT</pubDate>
             <content:encoded><![CDATA[당신께 고운 마음으로 건넬 맛있는 설날 선물 여섯 가지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/b7ac35c1-cd2e-4199-a020-39c3831eeac9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손흥민X이강인X조규성의 추천 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84101</link>
             <guid>https://www.elle.co.kr/article/84101</guid>
             <pubDate>Sun, 04 Feb 2024 22:11:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/aff2e4e1-3bf3-4f27-9206-7deb0e8f8bbf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭔가 다른 미술관 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1318,6 +1320,7 @@
             <guid>https://www.elle.co.kr/article/84096</guid>
             <pubDate>Fri, 02 Feb 2024 09:14:06 GMT</pubDate>
             <content:encoded><![CDATA[보석 같은 아티스트의 작품만 감상하러 미술관에 가는 건 아니잖아요? 건축적인 아름다움과 그림...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/2e572376-8da7-4101-ac10-3363ebe0212d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오픈AI에 취직한 예술가는 한 달간 무엇을 했을까? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1325,12 +1328,14 @@
             <guid>https://www.elle.co.kr/article/84067</guid>
             <pubDate>Tue, 06 Feb 2024 11:11:52 GMT</pubDate>
             <content:encoded><![CDATA[AI 회사의 예술가 1]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/02520777-9924-4050-99ef-73654c00b3cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오톡 무료 '이모지'가 13년 만에 사라지는 이유 [업데이트] (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84065</link>
             <guid>https://www.elle.co.kr/article/84065</guid>
             <pubDate>Mon, 05 Feb 2024 15:13:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/cf6d1d39-2731-4428-bf8d-4e1ed9724eb9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왜 다들 발리를 좋아해? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1338,6 +1343,7 @@
             <guid>https://www.elle.co.kr/article/84057</guid>
             <pubDate>Sun, 04 Feb 2024 15:12:18 GMT</pubDate>
             <content:encoded><![CDATA[패션 에디터와 패션 PR, 패션 콘텐츠 디렉터, 패션사 대표가 발리에 빠진 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/c4f30e01-37c0-4f00-97f3-72fdd90d9366.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[섬유 디자이너가 향신료를 만든 이유 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1345,12 +1351,14 @@
             <guid>https://www.elle.co.kr/article/84017</guid>
             <pubDate>Fri, 02 Feb 2024 11:12:01 GMT</pubDate>
             <content:encoded><![CDATA[캐나다 디자인 페스티벌에서 가장 주목받은 그 작품]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/51bc1cc0-7379-469f-aec3-74e6e688f6d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스테이크부터 장어까지, 든든하고 따끈한 솥밥 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84014</link>
             <guid>https://www.elle.co.kr/article/84014</guid>
             <pubDate>Fri, 02 Feb 2024 10:14:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/8161b981-f537-4c22-a43b-fabca30b39c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['틱톡 핫템' 스탠리 텀블러 대유행에 찬물? (엘르 코리아 ─ 소사이어티)]]></title>
