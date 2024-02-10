@@ -1,61 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/loveandlife</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-02-10T15:12:18.713Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2024 설 4일 연휴, 그저 푹 쉬고 싶은 사람이라면? 호캉스 추천 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/84158</id>
-        <link href="https://www.elle.co.kr/article/84158"/>
-        <updated>2024-02-09T09:14:22.601Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호텔에도 영혼이 있다면, 자누도쿄]]></title>
-        <id>https://www.elle.co.kr/article/84137</id>
-        <link href="https://www.elle.co.kr/article/84137"/>
-        <updated>2024-02-09T06:16:43.889Z</updated>
-        <content type="html"><![CDATA[어쩌면 우리가 호텔에 바라는 건, 품격 있는 평화일지도 모른다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맛있는 설 선물 6가지]]></title>
-        <id>https://www.elle.co.kr/article/84066</id>
-        <link href="https://www.elle.co.kr/article/84066"/>
-        <updated>2024-02-08T19:11:43.858Z</updated>
-        <content type="html"><![CDATA[당신께 고운 마음으로 건넬 맛있는 설날 선물 여섯 가지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손흥민X이강인X조규성의 추천 맛집 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/84101</id>
-        <link href="https://www.elle.co.kr/article/84101"/>
-        <updated>2024-02-08T10:14:10.729Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭔가 다른 미술관 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/84096</id>
-        <link href="https://www.elle.co.kr/article/84096"/>
-        <updated>2024-02-08T10:14:10.730Z</updated>
-        <content type="html"><![CDATA[보석 같은 아티스트의 작품만 감상하러 미술관에 가는 건 아니잖아요? 건축적인 아름다움과 그림...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈AI에 취직한 예술가는 한 달간 무엇을 했을까?]]></title>
-        <id>https://www.elle.co.kr/article/84067</id>
-        <link href="https://www.elle.co.kr/article/84067"/>
-        <updated>2024-02-06T11:11:52.572Z</updated>
-        <content type="html"><![CDATA[AI 회사의 예술가 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오톡 무료 '이모지'가 13년 만에 사라지는 이유 [업데이트]]]></title>
-        <id>https://www.elle.co.kr/article/84065</id>
-        <link href="https://www.elle.co.kr/article/84065"/>
-        <updated>2024-02-05T15:13:19.219Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 다들 발리를 좋아해?]]></title>
-        <id>https://www.elle.co.kr/article/84057</id>
-        <link href="https://www.elle.co.kr/article/84057"/>
-        <updated>2024-02-04T15:12:18.164Z</updated>
-        <content type="html"><![CDATA[패션 에디터와 패션 PR, 패션 콘텐츠 디렉터, 패션사 대표가 발리에 빠진 이유.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 10 Feb 2024 16:15:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 설 4일 연휴, 그저 푹 쉬고 싶은 사람이라면? 호캉스 추천 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/84158</link>
+            <guid>https://www.elle.co.kr/article/84158</guid>
+            <pubDate>Fri, 09 Feb 2024 09:14:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/8c613997-7622-4fd1-aa90-38a85e2e4f3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호텔에도 영혼이 있다면, 자누도쿄]]></title>
+            <link>https://www.elle.co.kr/article/84137</link>
+            <guid>https://www.elle.co.kr/article/84137</guid>
+            <pubDate>Fri, 09 Feb 2024 06:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[어쩌면 우리가 호텔에 바라는 건, 품격 있는 평화일지도 모른다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/eb884ba5-6621-42dc-9966-27f39afa6057.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맛있는 설 선물 6가지]]></title>
+            <link>https://www.elle.co.kr/article/84066</link>
+            <guid>https://www.elle.co.kr/article/84066</guid>
+            <pubDate>Thu, 08 Feb 2024 19:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[당신께 고운 마음으로 건넬 맛있는 설날 선물 여섯 가지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/b7ac35c1-cd2e-4199-a020-39c3831eeac9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손흥민X이강인X조규성의 추천 맛집 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/84101</link>
+            <guid>https://www.elle.co.kr/article/84101</guid>
+            <pubDate>Thu, 08 Feb 2024 10:14:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/aff2e4e1-3bf3-4f27-9206-7deb0e8f8bbf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭔가 다른 미술관 #도쿄핫플]]></title>
+            <link>https://www.elle.co.kr/article/84096</link>
+            <guid>https://www.elle.co.kr/article/84096</guid>
+            <pubDate>Thu, 08 Feb 2024 10:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[보석 같은 아티스트의 작품만 감상하러 미술관에 가는 건 아니잖아요? 건축적인 아름다움과 그림...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/2e572376-8da7-4101-ac10-3363ebe0212d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈AI에 취직한 예술가는 한 달간 무엇을 했을까?]]></title>
+            <link>https://www.elle.co.kr/article/84067</link>
+            <guid>https://www.elle.co.kr/article/84067</guid>
+            <pubDate>Tue, 06 Feb 2024 11:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[AI 회사의 예술가 1]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/02520777-9924-4050-99ef-73654c00b3cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오톡 무료 '이모지'가 13년 만에 사라지는 이유 [업데이트]]]></title>
+            <link>https://www.elle.co.kr/article/84065</link>
+            <guid>https://www.elle.co.kr/article/84065</guid>
+            <pubDate>Mon, 05 Feb 2024 15:13:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/cf6d1d39-2731-4428-bf8d-4e1ed9724eb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왜 다들 발리를 좋아해?]]></title>
+            <link>https://www.elle.co.kr/article/84057</link>
+            <guid>https://www.elle.co.kr/article/84057</guid>
+            <pubDate>Sun, 04 Feb 2024 15:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[패션 에디터와 패션 PR, 패션 콘텐츠 디렉터, 패션사 대표가 발리에 빠진 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/c4f30e01-37c0-4f00-97f3-72fdd90d9366.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
