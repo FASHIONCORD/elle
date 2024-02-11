@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 18:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 19:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -894,6 +894,13 @@
             <content:encoded><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[추운 마음까지 녹여줄 2월의 뷰티 신상 10 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84180</link>
+            <guid>https://www.elle.co.kr/article/84180</guid>
+            <pubDate>Sun, 11 Feb 2024 19:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[아직은 춥고 공허한 2월, 따스한 봄을 기다리며 메마른 피부에 꽃을 피워줄 2월의 뷰티 신상.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['힙'하게 치카치카 타임! 예쁜데 맛도 좋은 요즘 치약 4 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/84167</link>
             <guid>https://www.elle.co.kr/article/84167</guid>
@@ -941,13 +948,6 @@
             <guid>https://www.elle.co.kr/article/84107</guid>
             <pubDate>Tue, 06 Feb 2024 03:13:32 GMT</pubDate>
             <content:encoded><![CDATA['여돌'들의 메이크업은 여전히 겨울!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소사모들 모여라! 한소희의 레전드 갱신 립스틱 화보 (with 크리스챤 디올 뷰티) (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/84060</link>
-            <guid>https://www.elle.co.kr/article/84060</guid>
-            <pubDate>Mon, 05 Feb 2024 15:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[오늘도 한소희는 레전드를 갱신합니다. 크리스챤 디올 뷰티 2024 NEW 루즈 디올을 바르고 &lt;엘...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[깊은 밤 설산에서 펼쳐진 몽클레르 그레노블 컬렉션이 화제인 이유 (엘르 코리아 ─ 스타)]]></title>
@@ -1053,7 +1053,6 @@
             <guid>https://www.elle.co.kr/article/84026</guid>
             <pubDate>Wed, 31 Jan 2024 00:52:50 GMT</pubDate>
             <content:encoded><![CDATA[오직 노래를 향한 진심으로 함께 한 일곱 명이 엘르 카메라 앞에 모였다. 그 축제 같은 순간...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/ba99a043-2510-4ff3-b157-6417fbede34c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드레스의 정규 1집 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1061,14 +1060,12 @@
             <guid>https://www.elle.co.kr/article/83996</guid>
             <pubDate>Tue, 30 Jan 2024 15:12:44 GMT</pubDate>
             <content:encoded><![CDATA[드레스의 정규 1집 앨범에 담긴 연애 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/0f304903-5e5a-47d4-a544-e015c053ab26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차은우와 LA에서 데이트한 의외의 인물 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83982</link>
             <guid>https://www.elle.co.kr/article/83982</guid>
             <pubDate>Mon, 29 Jan 2024 13:13:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/34b19afb-3a29-416c-8293-f685fe03367e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1076,7 +1073,6 @@
             <guid>https://www.elle.co.kr/article/83944</guid>
             <pubDate>Fri, 26 Jan 2024 13:13:27 GMT</pubDate>
             <content:encoded><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/be7e9b03-7a95-45bc-90f2-fd1b36c27ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1160,7 +1156,6 @@
             <link>https://www.elle.co.kr/article/84194</link>
             <guid>https://www.elle.co.kr/article/84194</guid>
             <pubDate>Wed, 07 Feb 2024 12:20:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/3757b0cc-e679-4e4e-add4-ceb308b98a66.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이거지...!!! 채종협이 일본에서 말아주는 대형견 연하남 로코 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
