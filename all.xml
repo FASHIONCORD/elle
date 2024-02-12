@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 10:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 11:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1239,6 +1239,7 @@
             <guid>https://www.elle.co.kr/article/84076</guid>
             <pubDate>Thu, 01 Feb 2024 07:12:49 GMT</pubDate>
             <content:encoded><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/187cba9e-63c4-470e-910e-d289676cac40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 여성 화가 7인의 추상회화를 조명하다 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
