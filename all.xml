@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 11:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 12:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1355,6 +1355,13 @@
             <content:encoded><![CDATA[AI 회사의 예술가 1]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[부모님과 가족 여행할 때 먹어야 할 마음가짐 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/84102</link>
+            <guid>https://www.elle.co.kr/article/84102</guid>
+            <pubDate>Tue, 13 Feb 2024 12:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[이 사랑은 결코 당연하지 않다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아직도 연말정산이 헷갈리는 당신에게 #돈쓸신잡 135 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84068</link>
             <guid>https://www.elle.co.kr/article/84068</guid>
@@ -1397,12 +1404,6 @@
             <link>https://www.elle.co.kr/article/83871</link>
             <guid>https://www.elle.co.kr/article/83871</guid>
             <pubDate>Thu, 01 Feb 2024 01:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[비트코인이 돌아왔다 #돈쓸신잡 133 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/83747</link>
-            <guid>https://www.elle.co.kr/article/83747</guid>
-            <pubDate>Mon, 29 Jan 2024 15:13:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
