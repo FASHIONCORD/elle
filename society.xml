@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-02-13T15:12:58.633Z</updated>
+    <updated>2024-02-13T16:16:44.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[숨, 그리고 연결. 나이키가 서울에서 이야기한 진짜 웰니스]]></title>
+        <id>https://www.elle.co.kr/article/84111</id>
+        <link href="https://www.elle.co.kr/article/84111"/>
+        <updated>2024-02-13T16:16:43.557Z</updated>
+        <content type="html"><![CDATA[나만의 느낌을 찾는 여정. 나이키 웰 콜렉티브와 함께한 하루]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부모님과 가족 여행할 때 먹어야 할 마음가짐 #여자읽는여자]]></title>
         <id>https://www.elle.co.kr/article/84102</id>
@@ -49,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/83955"/>
         <updated>2024-02-01T06:17:24.429Z</updated>
         <content type="html"><![CDATA['이것' 덕분에 직접적인 피해를 보진 않았다고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후동행카드, 꼭 사야 하는 사람과 살 필요 없는 사람은?]]></title>
-        <id>https://www.elle.co.kr/article/83871</id>
-        <link href="https://www.elle.co.kr/article/83871"/>
-        <updated>2024-02-01T01:53:37.703Z</updated>
     </entry>
 </feed>
