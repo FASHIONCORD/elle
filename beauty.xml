@@ -1,62 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/beauty</id>
-    <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-14T15:14:08.039Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['봄웜' 찰떡! 올해의 컬러 '피치 퍼즈' 뷰티템 모음ZIP]]></title>
-        <id>https://www.elle.co.kr/article/84224</id>
-        <link href="https://www.elle.co.kr/article/84224"/>
-        <updated>2024-02-14T12:21:03.194Z</updated>
-        <content type="html"><![CDATA[포용과 조화, 연결의 의미를 담은 2024 팬톤 올해의 컬러 '피치 퍼츠(Peach Puzz).' 우리에게 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떡국부터 잡채까지, 설 음식 맘껏 먹고도 살 안 찌는 방법 #명절다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84210</id>
-        <link href="https://www.elle.co.kr/article/84210"/>
-        <updated>2024-02-14T11:11:35.047Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설 연휴 급하게 찐 살 급하게 빼려면? 스타들의 스피드 감량 식단 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84190</id>
-        <link href="https://www.elle.co.kr/article/84190"/>
-        <updated>2024-02-13T06:17:08.714Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추운 마음까지 녹여줄 2월의 뷰티 신상 10]]></title>
-        <id>https://www.elle.co.kr/article/84180</id>
-        <link href="https://www.elle.co.kr/article/84180"/>
-        <updated>2024-02-11T19:10:03.722Z</updated>
-        <content type="html"><![CDATA[아직은 춥고 공허한 2월, 따스한 봄을 기다리며 메마른 피부에 꽃을 피워줄 2월의 뷰티 신상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힙'하게 치카치카 타임! 예쁜데 맛도 좋은 요즘 치약 4]]></title>
-        <id>https://www.elle.co.kr/article/84167</id>
-        <link href="https://www.elle.co.kr/article/84167"/>
-        <updated>2024-02-11T15:12:33.697Z</updated>
-        <content type="html"><![CDATA[치약은 효과만 확실하면 된다는 구시대적 발상은 그만!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남성 화장품의 모든 것_선배’s 어드바이스 #206]]></title>
-        <id>https://www.elle.co.kr/article/84146</id>
-        <link href="https://www.elle.co.kr/article/84146"/>
-        <updated>2024-02-09T15:11:42.694Z</updated>
-        <content type="html"><![CDATA[투명하게 빛나는 남배우 피부, 비결이 궁금해?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달라진 뷰티 업계의 新리더들]]></title>
-        <id>https://www.elle.co.kr/article/84138</id>
-        <link href="https://www.elle.co.kr/article/84138"/>
-        <updated>2024-02-08T10:13:06.794Z</updated>
-        <content type="html"><![CDATA[코로나19 이후 달라진 뷰티 업계의 변화를 이끄는 국내 대표 온라인 플랫폼 관계자들과 그 안에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나만 알고 싶은 윤혜진의 피부 비결은? 스팀 타월 세안법 HOW TO]]></title>
-        <id>https://www.elle.co.kr/article/84121</id>
-        <link href="https://www.elle.co.kr/article/84121"/>
-        <updated>2024-02-07T10:13:18.744Z</updated>
-        <content type="html"><![CDATA[다양한 외부 자극으로부터 지친 피부를 건강하게 유지하기 위한 윤혜진의 클렌징 루틴을 따라 해...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 14 Feb 2024 16:16:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['봄웜' 찰떡! 올해의 컬러 '피치 퍼즈' 뷰티템 모음ZIP]]></title>
+            <link>https://www.elle.co.kr/article/84224</link>
+            <guid>https://www.elle.co.kr/article/84224</guid>
+            <pubDate>Wed, 14 Feb 2024 12:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[포용과 조화, 연결의 의미를 담은 2024 팬톤 올해의 컬러 '피치 퍼츠(Peach Puzz).' 우리에게 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[떡국부터 잡채까지, 설 음식 맘껏 먹고도 살 안 찌는 방법 #명절다이어트]]></title>
+            <link>https://www.elle.co.kr/article/84210</link>
+            <guid>https://www.elle.co.kr/article/84210</guid>
+            <pubDate>Wed, 14 Feb 2024 11:11:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[설 연휴 급하게 찐 살 급하게 빼려면? 스타들의 스피드 감량 식단 총정리 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/84190</link>
+            <guid>https://www.elle.co.kr/article/84190</guid>
+            <pubDate>Tue, 13 Feb 2024 06:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[추운 마음까지 녹여줄 2월의 뷰티 신상 10]]></title>
+            <link>https://www.elle.co.kr/article/84180</link>
+            <guid>https://www.elle.co.kr/article/84180</guid>
+            <pubDate>Sun, 11 Feb 2024 19:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[아직은 춥고 공허한 2월, 따스한 봄을 기다리며 메마른 피부에 꽃을 피워줄 2월의 뷰티 신상.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['힙'하게 치카치카 타임! 예쁜데 맛도 좋은 요즘 치약 4]]></title>
+            <link>https://www.elle.co.kr/article/84167</link>
+            <guid>https://www.elle.co.kr/article/84167</guid>
+            <pubDate>Sun, 11 Feb 2024 15:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[치약은 효과만 확실하면 된다는 구시대적 발상은 그만!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/544db3b5-1f1c-4b31-8383-a193b2ab2114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남성 화장품의 모든 것_선배’s 어드바이스 #206]]></title>
+            <link>https://www.elle.co.kr/article/84146</link>
+            <guid>https://www.elle.co.kr/article/84146</guid>
+            <pubDate>Fri, 09 Feb 2024 15:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[투명하게 빛나는 남배우 피부, 비결이 궁금해?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/fd65c716-e166-48e3-8904-423bf79de2a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달라진 뷰티 업계의 新리더들]]></title>
+            <link>https://www.elle.co.kr/article/84138</link>
+            <guid>https://www.elle.co.kr/article/84138</guid>
+            <pubDate>Thu, 08 Feb 2024 10:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 이후 달라진 뷰티 업계의 변화를 이끄는 국내 대표 온라인 플랫폼 관계자들과 그 안에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/a28ed584-676b-4dd6-af1d-fa8b059589dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고 싶은 윤혜진의 피부 비결은? 스팀 타월 세안법 HOW TO]]></title>
+            <link>https://www.elle.co.kr/article/84121</link>
+            <guid>https://www.elle.co.kr/article/84121</guid>
+            <pubDate>Wed, 07 Feb 2024 10:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 외부 자극으로부터 지친 피부를 건강하게 유지하기 위한 윤혜진의 클렌징 루틴을 따라 해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/74500111-9f27-4f74-9db8-86db553d3d7c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
