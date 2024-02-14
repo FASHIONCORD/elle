@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-14T11:12:49.390Z</updated>
+    <updated>2024-02-14T12:22:09.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[친근 그 자체인 이효리의 설날 풍경.jpg]]></title>
+        <id>https://www.elle.co.kr/article/84248</id>
+        <link href="https://www.elle.co.kr/article/84248"/>
+        <updated>2024-02-14T12:21:11.658Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다음 연휴엔 휴양지로? 따뜻한 나라로 떠난 스타들 5]]></title>
         <id>https://www.elle.co.kr/article/84238</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/84212</id>
         <link href="https://www.elle.co.kr/article/84212"/>
         <updated>2024-02-10T03:13:48.168Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유가 인스타 개설 때부터 바꾼 적 없던 프사를 변경한 배경]]></title>
-        <id>https://www.elle.co.kr/article/84208</id>
-        <link href="https://www.elle.co.kr/article/84208"/>
-        <updated>2024-02-10T03:13:48.170Z</updated>
     </entry>
 </feed>

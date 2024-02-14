@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-14T11:12:49.388Z</updated>
+    <updated>2024-02-14T12:22:09.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['봄웜' 찰떡! 올해의 컬러 '피치 퍼즈' 뷰티템 모음ZIP]]></title>
+        <id>https://www.elle.co.kr/article/84224</id>
+        <link href="https://www.elle.co.kr/article/84224"/>
+        <updated>2024-02-14T12:21:03.194Z</updated>
+        <content type="html"><![CDATA[포용과 조화, 연결의 의미를 담은 2024 팬톤 올해의 컬러 '피치 퍼츠(Peach Puzz).' 우리에게 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[떡국부터 잡채까지, 설 음식 맘껏 먹고도 살 안 찌는 방법 #명절다이어트]]></title>
         <id>https://www.elle.co.kr/article/84210</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84121"/>
         <updated>2024-02-07T10:13:18.744Z</updated>
         <content type="html"><![CDATA[다양한 외부 자극으로부터 지친 피부를 건강하게 유지하기 위한 윤혜진의 클렌징 루틴을 따라 해...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[욕실의 품격]]></title>
-        <id>https://www.elle.co.kr/article/84119</id>
-        <link href="https://www.elle.co.kr/article/84119"/>
-        <updated>2024-02-07T06:15:08.182Z</updated>
-        <content type="html"><![CDATA[손이 가요 손이 가]]></content>
     </entry>
 </feed>
