@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 16:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 17:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1332,7 +1332,6 @@
             <link>https://www.elle.co.kr/article/84210</link>
             <guid>https://www.elle.co.kr/article/84210</guid>
             <pubDate>Tue, 13 Feb 2024 08:16:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/d428342f-9eff-4bc3-bd2a-57b0c6be7eda.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 없었다면 보지 못했을 '웡카'의 세트장 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1340,14 +1339,12 @@
             <guid>https://www.elle.co.kr/article/84209</guid>
             <pubDate>Thu, 08 Feb 2024 10:13:55 GMT</pubDate>
             <content:encoded><![CDATA[이번 설에 직접 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/2a00b835-7f58-480e-afa9-b7952774bd94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 설 4일 연휴, 그저 푹 쉬고 싶은 사람이라면? 호캉스 추천 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84158</link>
             <guid>https://www.elle.co.kr/article/84158</guid>
             <pubDate>Fri, 09 Feb 2024 09:14:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/8c613997-7622-4fd1-aa90-38a85e2e4f3c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호텔에도 영혼이 있다면, 자누도쿄 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1355,7 +1352,6 @@
             <guid>https://www.elle.co.kr/article/84137</guid>
             <pubDate>Fri, 09 Feb 2024 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[어쩌면 우리가 호텔에 바라는 건, 품격 있는 평화일지도 모른다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/eb884ba5-6621-42dc-9966-27f39afa6057.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르 보이스] 21세기 밸런스 게임 (엘르 코리아 ─ 소사이어티)]]></title>
