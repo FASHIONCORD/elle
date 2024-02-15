@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 05:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 06:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이제는 필수템이자 클래식 액세서리, 실버백 쇼핑 리스트 7 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84247</link>
+            <guid>https://www.elle.co.kr/article/84247</guid>
+            <pubDate>Thu, 15 Feb 2024 06:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[실버 이즈 뉴 블랙!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[자유로운 영혼 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84230</link>
             <guid>https://www.elle.co.kr/article/84230</guid>
@@ -885,13 +892,6 @@
             <link>https://www.elle.co.kr/article/84220</link>
             <guid>https://www.elle.co.kr/article/84220</guid>
             <pubDate>Sun, 11 Feb 2024 15:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[반짝이는 것이 좋아! (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84181</link>
-            <guid>https://www.elle.co.kr/article/84181</guid>
-            <pubDate>Sat, 10 Feb 2024 15:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[별빛처럼 빛나는.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[핑쿠 핑쿠해! 뷰덕들이 홀릭하는 '에이오유' 사과밤의 탄생 비하인드는? (엘르 코리아 ─ 뷰티)]]></title>

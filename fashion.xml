@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-15T05:14:42.503Z</updated>
+    <updated>2024-02-15T06:17:03.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제는 필수템이자 클래식 액세서리, 실버백 쇼핑 리스트 7]]></title>
+        <id>https://www.elle.co.kr/article/84247</id>
+        <link href="https://www.elle.co.kr/article/84247"/>
+        <updated>2024-02-15T06:15:24.092Z</updated>
+        <content type="html"><![CDATA[실버 이즈 뉴 블랙!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자유로운 영혼]]></title>
         <id>https://www.elle.co.kr/article/84230</id>
@@ -52,12 +59,5 @@
         <id>https://www.elle.co.kr/article/84220</id>
         <link href="https://www.elle.co.kr/article/84220"/>
         <updated>2024-02-11T15:12:23.024Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반짝이는 것이 좋아!]]></title>
-        <id>https://www.elle.co.kr/article/84181</id>
-        <link href="https://www.elle.co.kr/article/84181"/>
-        <updated>2024-02-10T15:10:51.156Z</updated>
-        <content type="html"><![CDATA[별빛처럼 빛나는.]]></content>
     </entry>
 </feed>
