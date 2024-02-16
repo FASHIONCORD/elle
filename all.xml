@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 05:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 06:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -998,6 +998,13 @@
             <pubDate>Sat, 10 Feb 2024 03:14:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[쿠킹 북 vs 앞치마, 나의 요리 세포를 깨우는 아이템은? #취향의발견_5 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/84275</link>
+            <guid>https://www.elle.co.kr/article/84275</guid>
+            <pubDate>Fri, 16 Feb 2024 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이케아가 영감을 받았다는 그 아티스트 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84258</link>
             <guid>https://www.elle.co.kr/article/84258</guid>
@@ -1043,17 +1050,12 @@
             <pubDate>Wed, 07 Feb 2024 12:20:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[이거지...!!! 채종협이 일본에서 말아주는 대형견 연하남 로코 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/84163</link>
-            <guid>https://www.elle.co.kr/article/84163</guid>
-            <pubDate>Tue, 06 Feb 2024 13:15:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[화려한 여정, <싱어게인3> Top7의 우리 어느 기쁜날 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/84026</link>
             <guid>https://www.elle.co.kr/article/84026</guid>
             <pubDate>Wed, 31 Jan 2024 00:52:50 GMT</pubDate>
             <content:encoded><![CDATA[오직 노래를 향한 진심으로 함께 한 일곱 명이 엘르 카메라 앞에 모였다. 그 축제 같은 순간...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/ba99a043-2510-4ff3-b157-6417fbede34c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드레스의 정규 1집 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1061,12 +1063,14 @@
             <guid>https://www.elle.co.kr/article/83996</guid>
             <pubDate>Tue, 30 Jan 2024 15:12:44 GMT</pubDate>
             <content:encoded><![CDATA[드레스의 정규 1집 앨범에 담긴 연애 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/0f304903-5e5a-47d4-a544-e015c053ab26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차은우와 LA에서 데이트한 의외의 인물 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83982</link>
             <guid>https://www.elle.co.kr/article/83982</guid>
             <pubDate>Mon, 29 Jan 2024 13:13:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/34b19afb-3a29-416c-8293-f685fe03367e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1074,6 +1078,7 @@
             <guid>https://www.elle.co.kr/article/83944</guid>
             <pubDate>Fri, 26 Jan 2024 13:13:27 GMT</pubDate>
             <content:encoded><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/be7e9b03-7a95-45bc-90f2-fd1b36c27ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
