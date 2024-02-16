@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-02-16T10:15:16.017Z</updated>
+    <updated>2024-02-16T11:11:46.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 파리 하계 올림픽 메달에 숨겨진 비밀]]></title>
+        <id>https://www.elle.co.kr/article/84285</id>
+        <link href="https://www.elle.co.kr/article/84285"/>
+        <updated>2024-02-16T11:10:02.655Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠킹 북 vs 앞치마, 나의 요리 세포를 깨우는 아이템은? #취향의발견_5]]></title>
         <id>https://www.elle.co.kr/article/84275</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/84202"/>
         <updated>2024-02-13T08:16:23.227Z</updated>
         <content type="html"><![CDATA[사랑하고 싶은 사람, 개성 찾고 싶은 사람 모여라. 루이자비아로마에서 골라보는 새해 선물 리스...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 상반기 넷플릭스, 새 시즌 컴백 드라마와 웹툰 원작 오리지널 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/84194</id>
-        <link href="https://www.elle.co.kr/article/84194"/>
-        <updated>2024-02-10T03:14:11.977Z</updated>
     </entry>
 </feed>

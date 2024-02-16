@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-02-16T10:15:16.009Z</updated>
+    <updated>2024-02-16T11:11:46.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['검은 사제들' 속편 '검은 수녀들', 워맨스 장인 송혜교는 누구와 만날까?]]></title>
+        <id>https://www.elle.co.kr/article/84321</id>
+        <link href="https://www.elle.co.kr/article/84321"/>
+        <updated>2024-02-16T11:10:20.403Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조커X할리퀸 투샷이 공개됐다]]></title>
         <id>https://www.elle.co.kr/article/84306</id>
@@ -78,11 +84,5 @@
         <link href="https://www.elle.co.kr/article/84076"/>
         <updated>2024-02-01T07:12:49.223Z</updated>
         <content type="html"><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태희부터 박해수까지, 할리우드로 가는 한국 배우 3]]></title>
-        <id>https://www.elle.co.kr/article/84043</id>
-        <link href="https://www.elle.co.kr/article/84043"/>
-        <updated>2024-01-31T09:12:33.403Z</updated>
     </entry>
 </feed>
