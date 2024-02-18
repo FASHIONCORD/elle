@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 18:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 19:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -894,6 +894,13 @@
             <content:encoded><![CDATA[모든 물건과 취향이 빠르게 쏟아지고 빠르게 사라지는 시대,  오래도록 사랑받은 물건에서 찾은...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[다이어트 간식부터 장거리 이동 꿀템까지, 한혜진의 가방 속이 궁금해! (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84291</link>
+            <guid>https://www.elle.co.kr/article/84291</guid>
+            <pubDate>Fri, 16 Feb 2024 11:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[한혜진의 가방 속 ‘찐템’을 모아모아!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[럽!럽!럽! (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/84286</link>
             <guid>https://www.elle.co.kr/article/84286</guid>
@@ -939,12 +946,6 @@
             <link>https://www.elle.co.kr/article/84210</link>
             <guid>https://www.elle.co.kr/article/84210</guid>
             <pubDate>Tue, 13 Feb 2024 08:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[설 연휴 급하게 찐 살 급하게 빼려면? 스타들의 스피드 감량 식단 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/84190</link>
-            <guid>https://www.elle.co.kr/article/84190</guid>
-            <pubDate>Thu, 08 Feb 2024 11:10:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['천국의 계단'을 무려 1000개나? 손나은의 관리 비결 총정리 #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
