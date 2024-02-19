@@ -1,63 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-19T14:13:24.459Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[패션위크를 색다르게 즐기는 방법, 서울패션위크 오프쇼]]></title>
-        <id>https://www.elle.co.kr/article/84277</id>
-        <link href="https://www.elle.co.kr/article/84277"/>
-        <updated>2024-02-18T17:10:02.992Z</updated>
-        <content type="html"><![CDATA[서울패션위크에서 선사하는 또 하나의 패션 축제, 2024 F/W 서울패션위크 오프쇼가 펼쳐졌다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선]]></title>
-        <id>https://www.elle.co.kr/article/84315</id>
-        <link href="https://www.elle.co.kr/article/84315"/>
-        <updated>2024-02-18T15:13:16.865Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유머러스한 플라워 트렌드]]></title>
-        <id>https://www.elle.co.kr/article/84293</id>
-        <link href="https://www.elle.co.kr/article/84293"/>
-        <updated>2024-02-17T15:11:44.704Z</updated>
-        <content type="html"><![CDATA[옷차림으로 즐기는 가드닝 코드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미리 만나는 션 맥기르의 알렉산더 맥퀸]]></title>
-        <id>https://www.elle.co.kr/article/84297</id>
-        <link href="https://www.elle.co.kr/article/84297"/>
-        <updated>2024-02-16T19:11:25.705Z</updated>
-        <content type="html"><![CDATA[새로운 크리에이티브 디렉터 션 맥기르와 함께한 캠페인을 공개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탐험가의 정신으로]]></title>
-        <id>https://www.elle.co.kr/article/84292</id>
-        <link href="https://www.elle.co.kr/article/84292"/>
-        <updated>2024-02-16T15:12:37.562Z</updated>
-        <content type="html"><![CDATA[큼직한 아웃포켓, 카키 컬러로 도심을 탐험해보자.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비드 컬러 무브]]></title>
-        <id>https://www.elle.co.kr/article/84280</id>
-        <link href="https://www.elle.co.kr/article/84280"/>
-        <updated>2024-02-16T01:43:48.742Z</updated>
-        <content type="html"><![CDATA[형형색색의 액세서리 군단.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금부터 봄까지 기억해야 할 단어, ‘비즈니스 코어’]]></title>
-        <id>https://www.elle.co.kr/article/84262</id>
-        <link href="https://www.elle.co.kr/article/84262"/>
-        <updated>2024-02-16T01:43:48.743Z</updated>
-        <content type="html"><![CDATA[새로운 시즌의 시작을 앞둔 지금, 테일러링에 기반한 메가 트렌드 '비즈니스 코어'를 일상에서 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30년 된 램프부터, 전열 테이프로 칭칭 감은 카메라까지. 엘르편집부의 오래된 취향]]></title>
-        <id>https://www.elle.co.kr/article/84261</id>
-        <link href="https://www.elle.co.kr/article/84261"/>
-        <updated>2024-02-15T15:11:58.735Z</updated>
-        <content type="html"><![CDATA[모든 물건과 취향이 빠르게 쏟아지고 빠르게 사라지는 시대,  오래도록 사랑받은 물건에서 찾은...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 19 Feb 2024 15:13:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션위크를 색다르게 즐기는 방법, 서울패션위크 오프쇼]]></title>
+            <link>https://www.elle.co.kr/article/84277</link>
+            <guid>https://www.elle.co.kr/article/84277</guid>
+            <pubDate>Sun, 18 Feb 2024 17:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[서울패션위크에서 선사하는 또 하나의 패션 축제, 2024 F/W 서울패션위크 오프쇼가 펼쳐졌다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선]]></title>
+            <link>https://www.elle.co.kr/article/84315</link>
+            <guid>https://www.elle.co.kr/article/84315</guid>
+            <pubDate>Sun, 18 Feb 2024 15:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[유머러스한 플라워 트렌드]]></title>
+            <link>https://www.elle.co.kr/article/84293</link>
+            <guid>https://www.elle.co.kr/article/84293</guid>
+            <pubDate>Sat, 17 Feb 2024 15:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[옷차림으로 즐기는 가드닝 코드.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미리 만나는 션 맥기르의 알렉산더 맥퀸]]></title>
+            <link>https://www.elle.co.kr/article/84297</link>
+            <guid>https://www.elle.co.kr/article/84297</guid>
+            <pubDate>Fri, 16 Feb 2024 19:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 크리에이티브 디렉터 션 맥기르와 함께한 캠페인을 공개한다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[탐험가의 정신으로]]></title>
+            <link>https://www.elle.co.kr/article/84292</link>
+            <guid>https://www.elle.co.kr/article/84292</guid>
+            <pubDate>Fri, 16 Feb 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[큼직한 아웃포켓, 카키 컬러로 도심을 탐험해보자.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비비드 컬러 무브]]></title>
+            <link>https://www.elle.co.kr/article/84280</link>
+            <guid>https://www.elle.co.kr/article/84280</guid>
+            <pubDate>Fri, 16 Feb 2024 01:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[형형색색의 액세서리 군단.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지금부터 봄까지 기억해야 할 단어, ‘비즈니스 코어’]]></title>
+            <link>https://www.elle.co.kr/article/84262</link>
+            <guid>https://www.elle.co.kr/article/84262</guid>
+            <pubDate>Fri, 16 Feb 2024 01:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 시즌의 시작을 앞둔 지금, 테일러링에 기반한 메가 트렌드 '비즈니스 코어'를 일상에서 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/9b207d7a-52de-4b66-b35b-bc2252afb776.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30년 된 램프부터, 전열 테이프로 칭칭 감은 카메라까지. 엘르편집부의 오래된 취향]]></title>
+            <link>https://www.elle.co.kr/article/84261</link>
+            <guid>https://www.elle.co.kr/article/84261</guid>
+            <pubDate>Thu, 15 Feb 2024 15:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[모든 물건과 취향이 빠르게 쏟아지고 빠르게 사라지는 시대,  오래도록 사랑받은 물건에서 찾은...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/688a52f5-0a3f-4261-8d9a-75e7955eadde.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
