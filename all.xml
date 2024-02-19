@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 05:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 06:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1299,6 +1299,12 @@
             <content:encoded><![CDATA[어느 날 프리츠한센 헤리티지 팀이 발견한 1946년의 비밀스러운 사진 두 장.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[동물 보호소로 마실 갈 사람? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/84309</link>
+            <guid>https://www.elle.co.kr/article/84309</guid>
+            <pubDate>Mon, 19 Feb 2024 06:17:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84308</link>
             <guid>https://www.elle.co.kr/article/84308</guid>
@@ -1343,13 +1349,6 @@
             <link>https://www.elle.co.kr/article/84223</link>
             <guid>https://www.elle.co.kr/article/84223</guid>
             <pubDate>Wed, 14 Feb 2024 11:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[신세경이 알려주는 구움과자 레서피 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/84218</link>
-            <guid>https://www.elle.co.kr/article/84218</guid>
-            <pubDate>Tue, 13 Feb 2024 01:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[연휴에 베이킹 어때요? 여유롭게 집에서 만들어 먹기에도, 설 선물로도 좋은 신세경표 구움과자...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국 기업 후려치기? '코리아 디스카운트'가 뭐길래 #돈쓸신잡 136 (엘르 코리아 ─ 소사이어티)]]></title>
