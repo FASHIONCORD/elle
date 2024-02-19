@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 15:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 16:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자체발광 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84295</link>
+            <guid>https://www.elle.co.kr/article/84295</guid>
+            <pubDate>Mon, 19 Feb 2024 16:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[메타릭 트렌드는 늘 유효하니까.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[패션위크를 색다르게 즐기는 방법, 서울패션위크 오프쇼 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84277</link>
             <guid>https://www.elle.co.kr/article/84277</guid>
@@ -885,15 +892,6 @@
             <guid>https://www.elle.co.kr/article/84262</guid>
             <pubDate>Fri, 16 Feb 2024 01:43:48 GMT</pubDate>
             <content:encoded><![CDATA[새로운 시즌의 시작을 앞둔 지금, 테일러링에 기반한 메가 트렌드 '비즈니스 코어'를 일상에서 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/9b207d7a-52de-4b66-b35b-bc2252afb776.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[30년 된 램프부터, 전열 테이프로 칭칭 감은 카메라까지. 엘르편집부의 오래된 취향 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84261</link>
-            <guid>https://www.elle.co.kr/article/84261</guid>
-            <pubDate>Thu, 15 Feb 2024 15:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[모든 물건과 취향이 빠르게 쏟아지고 빠르게 사라지는 시대,  오래도록 사랑받은 물건에서 찾은...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/688a52f5-0a3f-4261-8d9a-75e7955eadde.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다이어트 간식부터 장거리 이동 꿀템까지, 한혜진의 가방 속이 궁금해! (엘르 코리아 ─ 뷰티)]]></title>
@@ -1063,12 +1061,14 @@
             <guid>https://www.elle.co.kr/article/83996</guid>
             <pubDate>Tue, 30 Jan 2024 15:12:44 GMT</pubDate>
             <content:encoded><![CDATA[드레스의 정규 1집 앨범에 담긴 연애 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/0f304903-5e5a-47d4-a544-e015c053ab26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차은우와 LA에서 데이트한 의외의 인물 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83982</link>
             <guid>https://www.elle.co.kr/article/83982</guid>
             <pubDate>Mon, 29 Jan 2024 13:13:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/34b19afb-3a29-416c-8293-f685fe03367e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1076,6 +1076,7 @@
             <guid>https://www.elle.co.kr/article/83944</guid>
             <pubDate>Fri, 26 Jan 2024 13:13:27 GMT</pubDate>
             <content:encoded><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/be7e9b03-7a95-45bc-90f2-fd1b36c27ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
