@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 09:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 10:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -948,6 +948,12 @@
             <content:encoded><![CDATA[포용과 조화, 연결의 의미를 담은 2024 팬톤 올해의 컬러 '피치 퍼츠(Peach Puzz).' 우리에게 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[한가인이 최초로 공개한 아들 사진.jpg (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84342</link>
+            <guid>https://www.elle.co.kr/article/84342</guid>
+            <pubDate>Tue, 20 Feb 2024 10:12:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[젠데이아가 사이보그로 변신했다? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84329</link>
             <guid>https://www.elle.co.kr/article/84329</guid>
@@ -991,13 +997,6 @@
             <link>https://www.elle.co.kr/article/84306</link>
             <guid>https://www.elle.co.kr/article/84306</guid>
             <pubDate>Thu, 15 Feb 2024 10:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 간식부터 장거리 이동 꿀템까지, 한혜진의 가방 속이 궁금해! (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84291</link>
-            <guid>https://www.elle.co.kr/article/84291</guid>
-            <pubDate>Fri, 16 Feb 2024 11:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[한혜진의 가방 속 ‘찐템’을 모아모아!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['내 발로는 안 나가' 일관하던 클린스만이 결국 잘렸다 (ft. 경질 스포) (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1307,21 +1306,18 @@
             <guid>https://www.elle.co.kr/article/84318</guid>
             <pubDate>Tue, 20 Feb 2024 09:13:40 GMT</pubDate>
             <content:encoded><![CDATA[일본 여행의 묘미는 뭐니뭐니해도 캐릭터 아이템 쇼핑 아닐까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/85679e35-59b6-4e3f-b7c8-4d12e84a0196.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동물 보호소로 마실 갈 사람? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84309</link>
             <guid>https://www.elle.co.kr/article/84309</guid>
             <pubDate>Mon, 19 Feb 2024 06:17:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/15/fbdf7725-3d58-4241-b912-661820926582.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84308</link>
             <guid>https://www.elle.co.kr/article/84308</guid>
             <pubDate>Thu, 15 Feb 2024 11:11:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/78d23888-2c47-4010-8621-667b0f01095d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그리운 식사 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1329,7 +1325,6 @@
             <guid>https://www.elle.co.kr/article/84284</guid>
             <pubDate>Fri, 16 Feb 2024 11:11:06 GMT</pubDate>
             <content:encoded><![CDATA[아홉 명의 미식가가 말하는, 오랜 추억이 담긴 식당에 관한 이야기. 사라진 곳에는 경의를, 굳...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/27cfc6ac-7c73-4d73-bb6a-81dd77d7b27e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠킹 북 vs 앞치마, 나의 요리 세포를 깨우는 아이템은? #취향의발견_5 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1337,14 +1332,12 @@
             <guid>https://www.elle.co.kr/article/84275</guid>
             <pubDate>Fri, 16 Feb 2024 06:16:22 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/dd2b0add-79de-4841-b1ac-8d5ccab5ea21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 발렌타인데이 데이트 장소로 딱! 달콤 수제 초콜릿 카페 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84257</link>
             <guid>https://www.elle.co.kr/article/84257</guid>
             <pubDate>Fri, 16 Feb 2024 09:13:34 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/13/781d825f-477c-4600-a339-f014e4a4c7de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다음 연휴엔 휴양지로? 따뜻한 나라로 떠난 스타들 5 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1352,7 +1345,6 @@
             <guid>https://www.elle.co.kr/article/84238</guid>
             <pubDate>Wed, 14 Feb 2024 11:11:42 GMT</pubDate>
             <content:encoded><![CDATA[랜선 여행으로 여러분을 초대합니다. 발리, 하와이, 태국 등 지금 당장 비행기 티켓 끊고 싶게...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/11/35ff5cd1-c341-4096-be9b-2dca3edc1e3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낭만의 스케이트 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1360,7 +1352,6 @@
             <guid>https://www.elle.co.kr/article/84229</guid>
             <pubDate>Thu, 15 Feb 2024 11:11:54 GMT</pubDate>
             <content:encoded><![CDATA[겨울 도쿄 여행에서 맛집 투어, 쇼핑도 좋지만 조금 더 몽글몽글하고 따뜻한 기억을 남기고 싶...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/09/88652b49-4817-4dde-ab11-26b3b4beb05e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 기업 후려치기? '코리아 디스카운트'가 뭐길래 #돈쓸신잡 136 (엘르 코리아 ─ 소사이어티)]]></title>
