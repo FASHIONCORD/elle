@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-20T11:13:04.869Z</updated>
+    <updated>2024-02-20T12:22:16.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 눈 앞에 둔 '내남결', 박민영과 송하윤X이이경이 맞을 결말은? #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/84343</id>
+        <link href="https://www.elle.co.kr/article/84343"/>
+        <updated>2024-02-20T12:20:59.221Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한가인이 최초로 공개한 아들 사진.jpg]]></title>
         <id>https://www.elle.co.kr/article/84342</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/84307</id>
         <link href="https://www.elle.co.kr/article/84307"/>
         <updated>2024-02-18T17:10:18.145Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조커X할리퀸 투샷이 공개됐다]]></title>
-        <id>https://www.elle.co.kr/article/84306</id>
-        <link href="https://www.elle.co.kr/article/84306"/>
-        <updated>2024-02-17T02:17:41.377Z</updated>
     </entry>
 </feed>
