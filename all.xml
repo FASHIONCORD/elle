@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 18:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 19:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[젠데이아가 사이보그로 변신했다? (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84329</link>
+            <guid>https://www.elle.co.kr/article/84329</guid>
+            <pubDate>Sun, 18 Feb 2024 17:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[샤넬 그 자체인 시계 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84302</link>
             <guid>https://www.elle.co.kr/article/84302</guid>
@@ -885,13 +892,6 @@
             <guid>https://www.elle.co.kr/article/84293</guid>
             <pubDate>Sat, 17 Feb 2024 15:11:44 GMT</pubDate>
             <content:encoded><![CDATA[옷차림으로 즐기는 가드닝 코드.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미리 만나는 션 맥기르의 알렉산더 맥퀸 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84297</link>
-            <guid>https://www.elle.co.kr/article/84297</guid>
-            <pubDate>Fri, 16 Feb 2024 19:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 크리에이티브 디렉터 션 맥기르와 함께한 캠페인을 공개한다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['천국의 계단'을 무려 1000개나? 손나은의 관리 비결 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
