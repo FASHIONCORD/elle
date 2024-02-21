@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-21T07:13:06.901Z</updated>
+    <updated>2024-02-21T08:16:48.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FT아일랜드 송승현이 연예계 은퇴를 선언한 이유]]></title>
+        <id>https://www.elle.co.kr/article/84384</id>
+        <link href="https://www.elle.co.kr/article/84384"/>
+        <updated>2024-02-21T08:15:53.699Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이젠 진짜 안녕, 푸바오의 중국 반환 일정]]></title>
         <id>https://www.elle.co.kr/article/84380</id>
@@ -49,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/84329"/>
         <updated>2024-02-20T09:12:31.111Z</updated>
         <content type="html"><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상의 조각을 작품으로! ‘컬래버 장인’ 아티스트 사키의 #취향일지도]]></title>
-        <id>https://www.elle.co.kr/article/84324</id>
-        <link href="https://www.elle.co.kr/article/84324"/>
-        <updated>2024-02-20T04:16:25.503Z</updated>
     </entry>
 </feed>
