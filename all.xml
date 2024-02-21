@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 03:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 04:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -948,6 +948,12 @@
             <content:encoded><![CDATA[포용과 조화, 연결의 의미를 담은 2024 팬톤 올해의 컬러 '피치 퍼츠(Peach Puzz).' 우리에게 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[첫 아들 품에 안은 손연재가 출산 후 한 일 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84377</link>
+            <guid>https://www.elle.co.kr/article/84377</guid>
+            <pubDate>Wed, 21 Feb 2024 04:14:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[4월 컴백 예고한 옆집소년들, 보이넥스트도어가 엘르를 찾아왔다 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84341</link>
             <guid>https://www.elle.co.kr/article/84341</guid>
@@ -991,13 +997,6 @@
             <link>https://www.elle.co.kr/article/84321</link>
             <guid>https://www.elle.co.kr/article/84321</guid>
             <pubDate>Fri, 16 Feb 2024 11:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[이정재의 하프 타임 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84314</link>
-            <guid>https://www.elle.co.kr/article/84314</guid>
-            <pubDate>Mon, 19 Feb 2024 09:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르&gt; 3월호 커버를 장식한 이정재. 맹렬히 달려가는 시간 뒤편 포착한 그의 여유로운 시간.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['내 발로는 안 나가' 일관하던 클린스만이 결국 잘렸다 (ft. 경질 스포) (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1055,7 +1054,6 @@
             <guid>https://www.elle.co.kr/article/84026</guid>
             <pubDate>Wed, 31 Jan 2024 00:52:50 GMT</pubDate>
             <content:encoded><![CDATA[오직 노래를 향한 진심으로 함께 한 일곱 명이 엘르 카메라 앞에 모였다. 그 축제 같은 순간...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/ba99a043-2510-4ff3-b157-6417fbede34c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드레스의 정규 1집 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1063,14 +1061,12 @@
             <guid>https://www.elle.co.kr/article/83996</guid>
             <pubDate>Tue, 30 Jan 2024 15:12:44 GMT</pubDate>
             <content:encoded><![CDATA[드레스의 정규 1집 앨범에 담긴 연애 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/0f304903-5e5a-47d4-a544-e015c053ab26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차은우와 LA에서 데이트한 의외의 인물 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/83982</link>
             <guid>https://www.elle.co.kr/article/83982</guid>
             <pubDate>Mon, 29 Jan 2024 13:13:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/34b19afb-3a29-416c-8293-f685fe03367e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1078,7 +1074,6 @@
             <guid>https://www.elle.co.kr/article/83944</guid>
             <pubDate>Fri, 26 Jan 2024 13:13:27 GMT</pubDate>
             <content:encoded><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/be7e9b03-7a95-45bc-90f2-fd1b36c27ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
