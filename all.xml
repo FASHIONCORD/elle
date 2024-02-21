@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 14:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 15:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트윈 데스티니 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84354</link>
+            <guid>https://www.elle.co.kr/article/84354</guid>
+            <pubDate>Wed, 21 Feb 2024 15:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[운명 공동체, 쌍둥이 로라와 마리의 만남.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[데님에 데님에 데님을 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84353</link>
             <guid>https://www.elle.co.kr/article/84353</guid>
@@ -886,12 +893,6 @@
             <guid>https://www.elle.co.kr/article/84277</guid>
             <pubDate>Sun, 18 Feb 2024 17:10:02 GMT</pubDate>
             <content:encoded><![CDATA[서울패션위크에서 선사하는 또 하나의 패션 축제, 2024 F/W 서울패션위크 오프쇼가 펼쳐졌다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84315</link>
-            <guid>https://www.elle.co.kr/article/84315</guid>
-            <pubDate>Fri, 16 Feb 2024 01:44:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[발레 입문자를 위한 채정안의 잇템 6 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1360,7 +1361,6 @@
             <link>https://www.elle.co.kr/article/84201</link>
             <guid>https://www.elle.co.kr/article/84201</guid>
             <pubDate>Sun, 18 Feb 2024 15:14:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/4e97efe1-882f-4280-b691-912744b0a8da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르 보이스] 21세기 밸런스 게임 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1368,7 +1368,6 @@
             <guid>https://www.elle.co.kr/article/84139</guid>
             <pubDate>Thu, 15 Feb 2024 11:12:03 GMT</pubDate>
             <content:encoded><![CDATA[상상하지 못했다고 해서 미래를 포기하지 말기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/bb369f25-d697-4ed0-a753-e3be29b44d5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숨, 그리고 연결. 나이키가 서울에서 이야기한 진짜 웰니스 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1376,7 +1375,6 @@
             <guid>https://www.elle.co.kr/article/84111</guid>
             <pubDate>Tue, 06 Feb 2024 15:12:09 GMT</pubDate>
             <content:encoded><![CDATA[나만의 느낌을 찾는 여정. 나이키 웰 콜렉티브와 함께한 하루]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/03/81a45438-f8a8-4b02-b1f7-eab005a67a83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부모님과 가족 여행할 때 먹어야 할 마음가짐 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1384,21 +1382,18 @@
             <guid>https://www.elle.co.kr/article/84102</guid>
             <pubDate>Tue, 13 Feb 2024 12:21:25 GMT</pubDate>
             <content:encoded><![CDATA[이 사랑은 결코 당연하지 않다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/487b1dd5-31e7-4980-b348-0660b5925ce4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아직도 연말정산이 헷갈리는 당신에게 #돈쓸신잡 135 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84068</link>
             <guid>https://www.elle.co.kr/article/84068</guid>
             <pubDate>Sun, 11 Feb 2024 15:13:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/0ada885b-32ed-444e-9c29-9662b2c2f492.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['틱톡 핫템' 스탠리 텀블러 대유행에 찬물? (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84052</link>
             <guid>https://www.elle.co.kr/article/84052</guid>
             <pubDate>Thu, 08 Feb 2024 03:14:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/cd850aec-7142-49c4-a6b6-5eae909d2337.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시골진도와 살고 있습니다 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1406,14 +1401,12 @@
             <guid>https://www.elle.co.kr/article/83950</guid>
             <pubDate>Mon, 05 Feb 2024 15:13:26 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 사람 나이로 아흔 살이 된 우리집 소리의 견생.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/722eb036-53f6-4aa7-98e6-5a413aff2dc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 그래도 미래를 향해 걸어야 한다면 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/83949</link>
             <guid>https://www.elle.co.kr/article/83949</guid>
             <pubDate>Sat, 03 Feb 2024 04:14:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/7f3083e3-8dbd-4928-8444-45963e2e77a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
