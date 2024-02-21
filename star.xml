@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-21T15:13:55.260Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이무생의 느와르]]></title>
-        <id>https://www.elle.co.kr/article/84381</id>
-        <link href="https://www.elle.co.kr/article/84381"/>
-        <updated>2024-02-21T11:10:33.521Z</updated>
-        <content type="html"><![CDATA[&lt;마에스트라&gt;로 또한번 인생캐릭터 경신한 이무생.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매혹적이고 우아한, 로운]]></title>
-        <id>https://www.elle.co.kr/article/84362</id>
-        <link href="https://www.elle.co.kr/article/84362"/>
-        <updated>2024-02-21T11:10:33.522Z</updated>
-        <content type="html"><![CDATA[밀라노에 등장한 로운의 이토록 다양한 면면.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위태롭게 일렁이다가 금세 단단하고 아름다워지는 하현상]]></title>
-        <id>https://www.elle.co.kr/article/84355</id>
-        <link href="https://www.elle.co.kr/article/84355"/>
-        <updated>2024-02-21T11:10:33.535Z</updated>
-        <content type="html"><![CDATA[EP 4집 <with all="" my="" heart="">로 돌아온 그를 만나 보았다.                                     </with>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FT아일랜드 송승현이 연예계 은퇴를 선언한 이유]]></title>
-        <id>https://www.elle.co.kr/article/84384</id>
-        <link href="https://www.elle.co.kr/article/84384"/>
-        <updated>2024-02-21T08:15:53.699Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이젠 진짜 안녕, 푸바오의 중국 반환 일정]]></title>
-        <id>https://www.elle.co.kr/article/84380</id>
-        <link href="https://www.elle.co.kr/article/84380"/>
-        <updated>2024-02-21T07:11:58.740Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 아들 품에 안은 손연재가 출산 후 한 일]]></title>
-        <id>https://www.elle.co.kr/article/84377</id>
-        <link href="https://www.elle.co.kr/article/84377"/>
-        <updated>2024-02-21T04:14:11.350Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4월 컴백 예고한 옆집소년들, 보이넥스트도어가 엘르를 찾아왔다]]></title>
-        <id>https://www.elle.co.kr/article/84341</id>
-        <link href="https://www.elle.co.kr/article/84341"/>
-        <updated>2024-02-21T00:51:54.116Z</updated>
-        <content type="html"><![CDATA[가장 빠르고 명확하게 본인들의 무대를 구축 중인 6명의 소년들. BOYNEXTDOOR.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21세기로 귀환한 이인! <세작 - 매혹된 자들> 조정석 엘르와 조우]]></title>
-        <id>https://www.elle.co.kr/article/84340</id>
-        <link href="https://www.elle.co.kr/article/84340"/>
-        <updated>2024-02-20T23:11:34.052Z</updated>
-        <content type="html"><![CDATA[조정석이 진지한 얼굴로 엘르 카메라 앞에 섰다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 21 Feb 2024 16:17:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이무생의 느와르]]></title>
+            <link>https://www.elle.co.kr/article/84381</link>
+            <guid>https://www.elle.co.kr/article/84381</guid>
+            <pubDate>Wed, 21 Feb 2024 11:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;마에스트라&gt;로 또한번 인생캐릭터 경신한 이무생.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매혹적이고 우아한, 로운]]></title>
+            <link>https://www.elle.co.kr/article/84362</link>
+            <guid>https://www.elle.co.kr/article/84362</guid>
+            <pubDate>Wed, 21 Feb 2024 11:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[밀라노에 등장한 로운의 이토록 다양한 면면.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[위태롭게 일렁이다가 금세 단단하고 아름다워지는 하현상]]></title>
+            <link>https://www.elle.co.kr/article/84355</link>
+            <guid>https://www.elle.co.kr/article/84355</guid>
+            <pubDate>Wed, 21 Feb 2024 11:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[EP 4집 <with all="" my="" heart="">로 돌아온 그를 만나 보았다.                                     </with>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[FT아일랜드 송승현이 연예계 은퇴를 선언한 이유]]></title>
+            <link>https://www.elle.co.kr/article/84384</link>
+            <guid>https://www.elle.co.kr/article/84384</guid>
+            <pubDate>Wed, 21 Feb 2024 08:15:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[이젠 진짜 안녕, 푸바오의 중국 반환 일정]]></title>
+            <link>https://www.elle.co.kr/article/84380</link>
+            <guid>https://www.elle.co.kr/article/84380</guid>
+            <pubDate>Wed, 21 Feb 2024 07:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[첫 아들 품에 안은 손연재가 출산 후 한 일]]></title>
+            <link>https://www.elle.co.kr/article/84377</link>
+            <guid>https://www.elle.co.kr/article/84377</guid>
+            <pubDate>Wed, 21 Feb 2024 04:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4월 컴백 예고한 옆집소년들, 보이넥스트도어가 엘르를 찾아왔다]]></title>
+            <link>https://www.elle.co.kr/article/84341</link>
+            <guid>https://www.elle.co.kr/article/84341</guid>
+            <pubDate>Wed, 21 Feb 2024 00:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[가장 빠르고 명확하게 본인들의 무대를 구축 중인 6명의 소년들. BOYNEXTDOOR.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/177b7126-f1a3-4e2b-ba6e-591551e0e179.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21세기로 귀환한 이인! <세작 - 매혹된 자들> 조정석 엘르와 조우]]></title>
+            <link>https://www.elle.co.kr/article/84340</link>
+            <guid>https://www.elle.co.kr/article/84340</guid>
+            <pubDate>Tue, 20 Feb 2024 23:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[조정석이 진지한 얼굴로 엘르 카메라 앞에 섰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/e189f1bb-bde6-4721-bb65-d1f41dafa951.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
