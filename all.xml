@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 18:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 19:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김나영부터 차정원, 한지민까지! 봄맞이 컬러플 스니커즈 3 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84356</link>
+            <guid>https://www.elle.co.kr/article/84356</guid>
+            <pubDate>Wed, 21 Feb 2024 19:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[올봄엔 날렵한 실루엣의 스니커즈를 신어보세요.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[트윈 데스티니 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84354</link>
             <guid>https://www.elle.co.kr/article/84354</guid>
@@ -886,13 +893,6 @@
             <guid>https://www.elle.co.kr/article/84295</guid>
             <pubDate>Mon, 19 Feb 2024 16:16:03 GMT</pubDate>
             <content:encoded><![CDATA[메타릭 트렌드는 늘 유효하니까.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[패션위크를 색다르게 즐기는 방법, 서울패션위크 오프쇼 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84277</link>
-            <guid>https://www.elle.co.kr/article/84277</guid>
-            <pubDate>Sun, 18 Feb 2024 17:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[서울패션위크에서 선사하는 또 하나의 패션 축제, 2024 F/W 서울패션위크 오프쇼가 펼쳐졌다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[발레 입문자를 위한 채정안의 잇템 6 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1141,7 +1141,6 @@
             <link>https://www.elle.co.kr/article/84343</link>
             <guid>https://www.elle.co.kr/article/84343</guid>
             <pubDate>Mon, 19 Feb 2024 09:13:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/3f3e1fb4-6e0e-4703-af6b-236ef0e0950e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠데이아가 사이보그로 변신했다? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1149,21 +1148,18 @@
             <guid>https://www.elle.co.kr/article/84329</guid>
             <pubDate>Sun, 18 Feb 2024 17:10:41 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/e824b676-a0fe-4193-b100-630f9ad59b55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아저씨 누구세요...? 공개 앞둔 박찬욱 드라마 속 로다주의 다역 변신.jpg (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84322</link>
             <guid>https://www.elle.co.kr/article/84322</guid>
             <pubDate>Fri, 16 Feb 2024 12:21:17 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/138c4d95-a701-4ac1-9779-131bff4860e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['검은 사제들' 속편 '검은 수녀들', 워맨스 장인 송혜교는 누구와 만날까? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84321</link>
             <guid>https://www.elle.co.kr/article/84321</guid>
             <pubDate>Fri, 16 Feb 2024 11:10:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/95a5dbc7-cdfd-4e25-b371-3cd8d2d6958e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조커X할리퀸 투샷이 공개됐다 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1339,12 +1335,14 @@
             <guid>https://www.elle.co.kr/article/84275</guid>
             <pubDate>Fri, 16 Feb 2024 06:16:22 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/dd2b0add-79de-4841-b1ac-8d5ccab5ea21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 발렌타인데이 데이트 장소로 딱! 달콤 수제 초콜릿 카페 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84257</link>
             <guid>https://www.elle.co.kr/article/84257</guid>
             <pubDate>Fri, 16 Feb 2024 09:13:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/13/781d825f-477c-4600-a339-f014e4a4c7de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다음 연휴엔 휴양지로? 따뜻한 나라로 떠난 스타들 5 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1352,6 +1350,7 @@
             <guid>https://www.elle.co.kr/article/84238</guid>
             <pubDate>Wed, 14 Feb 2024 11:11:42 GMT</pubDate>
             <content:encoded><![CDATA[랜선 여행으로 여러분을 초대합니다. 발리, 하와이, 태국 등 지금 당장 비행기 티켓 끊고 싶게...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/11/35ff5cd1-c341-4096-be9b-2dca3edc1e3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낭만의 스케이트 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1359,6 +1358,7 @@
             <guid>https://www.elle.co.kr/article/84229</guid>
             <pubDate>Thu, 15 Feb 2024 11:11:54 GMT</pubDate>
             <content:encoded><![CDATA[겨울 도쿄 여행에서 맛집 투어, 쇼핑도 좋지만 조금 더 몽글몽글하고 따뜻한 기억을 남기고 싶...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/09/88652b49-4817-4dde-ab11-26b3b4beb05e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 기업 후려치기? '코리아 디스카운트'가 뭐길래 #돈쓸신잡 136 (엘르 코리아 ─ 소사이어티)]]></title>
