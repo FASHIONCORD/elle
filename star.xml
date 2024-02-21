@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-21T06:17:09.474Z</updated>
+    <updated>2024-02-21T07:13:06.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이젠 진짜 안녕, 푸바오의 중국 반환 일정]]></title>
+        <id>https://www.elle.co.kr/article/84380</id>
+        <link href="https://www.elle.co.kr/article/84380"/>
+        <updated>2024-02-21T07:11:58.740Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫 아들 품에 안은 손연재가 출산 후 한 일]]></title>
         <id>https://www.elle.co.kr/article/84377</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/84324</id>
         <link href="https://www.elle.co.kr/article/84324"/>
         <updated>2024-02-20T04:16:25.503Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검은 사제들' 속편 '검은 수녀들', 워맨스 장인 송혜교는 누구와 만날까?]]></title>
-        <id>https://www.elle.co.kr/article/84321</id>
-        <link href="https://www.elle.co.kr/article/84321"/>
-        <updated>2024-02-20T00:50:44.024Z</updated>
     </entry>
 </feed>
