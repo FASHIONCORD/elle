@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 06:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 07:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1357,6 +1357,13 @@
             <content:encoded><![CDATA[겨울 도쿄 여행에서 맛집 투어, 쇼핑도 좋지만 조금 더 몽글몽글하고 따뜻한 기억을 남기고 싶...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[길 위에서 할머니가 운 이유 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/84240</link>
+            <guid>https://www.elle.co.kr/article/84240</guid>
+            <pubDate>Thu, 22 Feb 2024 07:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[할머니는 길 위에서 펑펑 울었다. 그저 택시를 타고 싶었을 뿐인데. '스마트'한 세상이 바보처...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한국 기업 후려치기? '코리아 디스카운트'가 뭐길래 #돈쓸신잡 136 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84201</link>
             <guid>https://www.elle.co.kr/article/84201</guid>
@@ -1401,12 +1408,6 @@
             <guid>https://www.elle.co.kr/article/83950</guid>
             <pubDate>Mon, 05 Feb 2024 15:13:26 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 사람 나이로 아흔 살이 된 우리집 소리의 견생.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 그래도 미래를 향해 걸어야 한다면 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/83949</link>
-            <guid>https://www.elle.co.kr/article/83949</guid>
-            <pubDate>Sat, 03 Feb 2024 04:14:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
