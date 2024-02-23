@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-23T14:13:09.489Z</updated>
+    <updated>2024-02-23T15:14:51.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새콤달콤, 캔디 컬러 백]]></title>
+        <id>https://www.elle.co.kr/article/84378</id>
+        <link href="https://www.elle.co.kr/article/84378"/>
+        <updated>2024-02-23T15:13:14.413Z</updated>
+        <content type="html"><![CDATA[사르르 녹는 솜사탕처럼.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이불 밖은 위험'하다고 생각하다는 당신을 위한 트렌드.]]></title>
         <id>https://www.elle.co.kr/article/84366</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84329"/>
         <updated>2024-02-20T19:09:41.027Z</updated>
         <content type="html"><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤넬 그 자체인 시계]]></title>
-        <id>https://www.elle.co.kr/article/84302</id>
-        <link href="https://www.elle.co.kr/article/84302"/>
-        <updated>2024-02-20T11:11:17.638Z</updated>
-        <content type="html"><![CDATA[시간 안에 담은 클래식의 정수.]]></content>
     </entry>
 </feed>

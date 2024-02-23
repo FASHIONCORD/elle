@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 14:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 15:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새콤달콤, 캔디 컬러 백 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84378</link>
+            <guid>https://www.elle.co.kr/article/84378</guid>
+            <pubDate>Fri, 23 Feb 2024 15:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[사르르 녹는 솜사탕처럼.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['이불 밖은 위험'하다고 생각하다는 당신을 위한 트렌드. (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84366</link>
             <guid>https://www.elle.co.kr/article/84366</guid>
@@ -886,13 +893,6 @@
             <guid>https://www.elle.co.kr/article/84329</guid>
             <pubDate>Sun, 18 Feb 2024 17:10:41 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 그 자체인 시계 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84302</link>
-            <guid>https://www.elle.co.kr/article/84302</guid>
-            <pubDate>Tue, 20 Feb 2024 11:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[시간 안에 담은 클래식의 정수.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무심한 듯 쿨한 '톰보이' 헤어 스타일 어때? (엘르 코리아 ─ 뷰티)]]></title>
@@ -1305,6 +1305,7 @@
             <guid>https://www.elle.co.kr/article/84339</guid>
             <pubDate>Fri, 23 Feb 2024 13:14:21 GMT</pubDate>
             <content:encoded><![CDATA[지속 가능한 매장 3]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/e95b32f5-632e-4f63-aee2-10785241f1b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨이팅이 아깝지 않아! 스타도 다녀간 도쿄의 줄 서는 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1312,12 +1313,14 @@
             <guid>https://www.elle.co.kr/article/84326</guid>
             <pubDate>Fri, 23 Feb 2024 10:14:43 GMT</pubDate>
             <content:encoded><![CDATA[나만 알고 싶은 우니동 식당부터 200년 역사의 디저트 카페까지 맛과 멋이 가득한 도쿄 핫 플...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/18/00e0b52c-0b1f-4105-8a52-d8f6e9df24d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매콤한 찜부터 고소한 수육까지! 2월 제철 맞은 아귀 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84320</link>
             <guid>https://www.elle.co.kr/article/84320</guid>
             <pubDate>Fri, 23 Feb 2024 10:14:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/c57b7d05-d7e5-42ef-aead-0b923878bf90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 빈티지 잡지 읽고, 멕시칸 타코 먹고! 을지로 고수는 요즘 여길 간다고? #엘르동 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1325,6 +1328,7 @@
             <guid>https://www.elle.co.kr/article/84319</guid>
             <pubDate>Fri, 23 Feb 2024 00:51:46 GMT</pubDate>
             <content:encoded><![CDATA[사람만 한 스피커로 듣는 노래가 궁금하신가요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/e73293fc-bc4b-4c6d-9020-027caa73316b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마니아들의 심장을 두근거리게 할 캐릭터 숍 5 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1332,18 +1336,21 @@
             <guid>https://www.elle.co.kr/article/84318</guid>
             <pubDate>Tue, 20 Feb 2024 09:13:40 GMT</pubDate>
             <content:encoded><![CDATA[일본 여행의 묘미는 뭐니뭐니해도 캐릭터 아이템 쇼핑 아닐까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/85679e35-59b6-4e3f-b7c8-4d12e84a0196.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동물 보호소로 마실 갈 사람? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84309</link>
             <guid>https://www.elle.co.kr/article/84309</guid>
             <pubDate>Mon, 19 Feb 2024 06:17:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/15/fbdf7725-3d58-4241-b912-661820926582.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84308</link>
             <guid>https://www.elle.co.kr/article/84308</guid>
             <pubDate>Thu, 15 Feb 2024 11:11:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/78d23888-2c47-4010-8621-667b0f01095d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그리운 식사 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1351,6 +1358,7 @@
             <guid>https://www.elle.co.kr/article/84284</guid>
             <pubDate>Fri, 16 Feb 2024 11:11:06 GMT</pubDate>
             <content:encoded><![CDATA[아홉 명의 미식가가 말하는, 오랜 추억이 담긴 식당에 관한 이야기. 사라진 곳에는 경의를, 굳...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/27cfc6ac-7c73-4d73-bb6a-81dd77d7b27e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[길 위에서 할머니가 운 이유 (엘르 코리아 ─ 소사이어티)]]></title>
