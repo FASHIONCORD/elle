@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 12:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 13:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -949,6 +949,12 @@
             <content:encoded><![CDATA[단순한 행동도 꾸준하게 실천하는 것은 쉽지 않죠. 차예련은 모닝 루틴에 따라 미모를 관리하고...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA["로미야, 넌 지금 어디 있니": 한 쪽 눈 가린 20대 정우성을 극장서 보는 법 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84424</link>
+            <guid>https://www.elle.co.kr/article/84424</guid>
+            <pubDate>Thu, 22 Feb 2024 10:13:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[마음껏 먹어도 살 빠진다?! 설현이 효과 본 최애 운동 #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84423</link>
             <guid>https://www.elle.co.kr/article/84423</guid>
@@ -990,13 +996,6 @@
             <link>https://www.elle.co.kr/article/84391</link>
             <guid>https://www.elle.co.kr/article/84391</guid>
             <pubDate>Thu, 22 Feb 2024 10:12:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[직접 찾아와 사과한 이강인의 뉘우침에 손흥민이 보인 반응.txt (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84389</link>
-            <guid>https://www.elle.co.kr/article/84389</guid>
-            <pubDate>Thu, 22 Feb 2024 01:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[그릇 사이즈 레전드.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[종영 눈 앞에 둔 '내남결', 박민영과 송하윤X이이경이 맞을 결말은? #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1219,18 +1218,21 @@
             <guid>https://www.elle.co.kr/article/84329</guid>
             <pubDate>Sun, 18 Feb 2024 17:10:41 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/e824b676-a0fe-4193-b100-630f9ad59b55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84315</link>
             <guid>https://www.elle.co.kr/article/84315</guid>
             <pubDate>Fri, 16 Feb 2024 01:44:48 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/5418ffc8-47cf-4740-9ff2-b95992727ae2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84308</link>
             <guid>https://www.elle.co.kr/article/84308</guid>
             <pubDate>Thu, 15 Feb 2024 11:11:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/78d23888-2c47-4010-8621-667b0f01095d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이케아가 영감을 받았다는 그 아티스트 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1238,6 +1240,7 @@
             <guid>https://www.elle.co.kr/article/84258</guid>
             <pubDate>Tue, 13 Feb 2024 08:16:48 GMT</pubDate>
             <content:encoded><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/13/3ae0d9e7-e120-40d4-bf20-1d0b0420226b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 당신의 목표는? 보통과는 다른 새해 다짐별 선물 4 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1301,6 +1304,13 @@
             <content:encoded><![CDATA[어느 날 프리츠한센 헤리티지 팀이 발견한 1946년의 비밀스러운 사진 두 장.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘바나나 블루’를 아시나요? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/84339</link>
+            <guid>https://www.elle.co.kr/article/84339</guid>
+            <pubDate>Fri, 23 Feb 2024 13:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[지속 가능한 매장 3]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[웨이팅이 아깝지 않아! 스타도 다녀간 도쿄의 줄 서는 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84326</link>
             <guid>https://www.elle.co.kr/article/84326</guid>
@@ -1345,13 +1355,6 @@
             <guid>https://www.elle.co.kr/article/84284</guid>
             <pubDate>Fri, 16 Feb 2024 11:11:06 GMT</pubDate>
             <content:encoded><![CDATA[아홉 명의 미식가가 말하는, 오랜 추억이 담긴 식당에 관한 이야기. 사라진 곳에는 경의를, 굳...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿠킹 북 vs 앞치마, 나의 요리 세포를 깨우는 아이템은? #취향의발견_5 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/84275</link>
-            <guid>https://www.elle.co.kr/article/84275</guid>
-            <pubDate>Fri, 16 Feb 2024 06:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[길 위에서 할머니가 운 이유 (엘르 코리아 ─ 소사이어티)]]></title>
