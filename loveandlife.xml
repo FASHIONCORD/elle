@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-02-23T09:13:41.104Z</updated>
+    <updated>2024-02-23T10:14:54.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웨이팅이 아깝지 않아! 스타도 다녀간 도쿄의 줄 서는 맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/84326</id>
+        <link href="https://www.elle.co.kr/article/84326"/>
+        <updated>2024-02-23T10:14:43.890Z</updated>
+        <content type="html"><![CDATA[나만 알고 싶은 우니동 식당부터 200년 역사의 디저트 카페까지 맛과 멋이 가득한 도쿄 핫 플...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매콤한 찜부터 고소한 수육까지! 2월 제철 맞은 아귀 맛집 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84320</id>
+        <link href="https://www.elle.co.kr/article/84320"/>
+        <updated>2024-02-23T10:14:43.891Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 빈티지 잡지 읽고, 멕시칸 타코 먹고! 을지로 고수는 요즘 여길 간다고? #엘르동]]></title>
         <id>https://www.elle.co.kr/article/84319</id>
@@ -44,18 +57,5 @@
         <link href="https://www.elle.co.kr/article/84275"/>
         <updated>2024-02-16T10:15:07.381Z</updated>
         <content type="html"><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 발렌타인데이 데이트 장소로 딱! 달콤 수제 초콜릿 카페 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/84257</id>
-        <link href="https://www.elle.co.kr/article/84257"/>
-        <updated>2024-02-16T09:13:34.079Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다음 연휴엔 휴양지로? 따뜻한 나라로 떠난 스타들 5]]></title>
-        <id>https://www.elle.co.kr/article/84238</id>
-        <link href="https://www.elle.co.kr/article/84238"/>
-        <updated>2024-02-15T11:11:54.018Z</updated>
-        <content type="html"><![CDATA[랜선 여행으로 여러분을 초대합니다. 발리, 하와이, 태국 등 지금 당장 비행기 티켓 끊고 싶게...]]></content>
     </entry>
 </feed>
