@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-23T10:14:54.469Z</updated>
+    <updated>2024-02-23T11:11:57.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이불 밖은 위험'하다고 생각하다는 당신을 위한 트렌드.]]></title>
+        <id>https://www.elle.co.kr/article/84366</id>
+        <link href="https://www.elle.co.kr/article/84366"/>
+        <updated>2024-02-23T11:10:32.538Z</updated>
+        <content type="html"><![CDATA[파자마 차림으로 나서봐도 될 때?!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트렌디한 ‘긱시크’ 패션을 완성해 줄 아이웨어 5]]></title>
         <id>https://www.elle.co.kr/article/84386</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84302"/>
         <updated>2024-02-20T11:11:17.638Z</updated>
         <content type="html"><![CDATA[시간 안에 담은 클래식의 정수.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[각기 다른 매력의 새로운 얼굴들.]]></title>
-        <id>https://www.elle.co.kr/article/84301</id>
-        <link href="https://www.elle.co.kr/article/84301"/>
-        <updated>2024-02-19T19:10:26.355Z</updated>
-        <content type="html"><![CDATA[2024년에 주목해야할 모델들이 컴카드를 들고 찾아왔다.]]></content>
     </entry>
 </feed>
