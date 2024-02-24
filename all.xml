@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 22:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 23:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1325,6 +1325,7 @@
             <guid>https://www.elle.co.kr/article/84319</guid>
             <pubDate>Fri, 23 Feb 2024 00:51:46 GMT</pubDate>
             <content:encoded><![CDATA[사람만 한 스피커로 듣는 노래가 궁금하신가요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/e73293fc-bc4b-4c6d-9020-027caa73316b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마니아들의 심장을 두근거리게 할 캐릭터 숍 5 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1332,18 +1333,21 @@
             <guid>https://www.elle.co.kr/article/84318</guid>
             <pubDate>Tue, 20 Feb 2024 09:13:40 GMT</pubDate>
             <content:encoded><![CDATA[일본 여행의 묘미는 뭐니뭐니해도 캐릭터 아이템 쇼핑 아닐까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/85679e35-59b6-4e3f-b7c8-4d12e84a0196.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동물 보호소로 마실 갈 사람? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84309</link>
             <guid>https://www.elle.co.kr/article/84309</guid>
             <pubDate>Mon, 19 Feb 2024 06:17:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/15/fbdf7725-3d58-4241-b912-661820926582.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84308</link>
             <guid>https://www.elle.co.kr/article/84308</guid>
             <pubDate>Thu, 15 Feb 2024 11:11:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/78d23888-2c47-4010-8621-667b0f01095d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그리운 식사 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1351,6 +1355,7 @@
             <guid>https://www.elle.co.kr/article/84284</guid>
             <pubDate>Fri, 16 Feb 2024 11:11:06 GMT</pubDate>
             <content:encoded><![CDATA[아홉 명의 미식가가 말하는, 오랜 추억이 담긴 식당에 관한 이야기. 사라진 곳에는 경의를, 굳...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/27cfc6ac-7c73-4d73-bb6a-81dd77d7b27e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[길 위에서 할머니가 운 이유 (엘르 코리아 ─ 소사이어티)]]></title>
