@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 15:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 16:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1220,21 +1220,18 @@
             <guid>https://www.elle.co.kr/article/84329</guid>
             <pubDate>Sun, 18 Feb 2024 17:10:41 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/e824b676-a0fe-4193-b100-630f9ad59b55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84315</link>
             <guid>https://www.elle.co.kr/article/84315</guid>
             <pubDate>Fri, 16 Feb 2024 01:44:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/5418ffc8-47cf-4740-9ff2-b95992727ae2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84308</link>
             <guid>https://www.elle.co.kr/article/84308</guid>
             <pubDate>Thu, 15 Feb 2024 11:11:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/78d23888-2c47-4010-8621-667b0f01095d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이케아가 영감을 받았다는 그 아티스트 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1242,7 +1239,6 @@
             <guid>https://www.elle.co.kr/article/84258</guid>
             <pubDate>Tue, 13 Feb 2024 08:16:48 GMT</pubDate>
             <content:encoded><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/13/3ae0d9e7-e120-40d4-bf20-1d0b0420226b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 당신의 목표는? 보통과는 다른 새해 다짐별 선물 4 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
