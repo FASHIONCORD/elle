@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 13:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 14:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1358,12 +1358,14 @@
             <guid>https://www.elle.co.kr/article/84240</guid>
             <pubDate>Thu, 22 Feb 2024 07:13:18 GMT</pubDate>
             <content:encoded><![CDATA[할머니는 길 위에서 펑펑 울었다. 그저 택시를 타고 싶었을 뿐인데. '스마트'한 세상이 바보처...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/12/2d5dc9dc-44dc-4247-a095-84cc5e13352d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 기업 후려치기? '코리아 디스카운트'가 뭐길래 #돈쓸신잡 136 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84201</link>
             <guid>https://www.elle.co.kr/article/84201</guid>
             <pubDate>Sun, 18 Feb 2024 15:14:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/4e97efe1-882f-4280-b691-912744b0a8da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 21세기 밸런스 게임 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1371,6 +1373,7 @@
             <guid>https://www.elle.co.kr/article/84139</guid>
             <pubDate>Thu, 15 Feb 2024 11:12:03 GMT</pubDate>
             <content:encoded><![CDATA[상상하지 못했다고 해서 미래를 포기하지 말기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/22/bb369f25-d697-4ed0-a753-e3be29b44d5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숨, 그리고 연결. 나이키가 서울에서 이야기한 진짜 웰니스 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1378,6 +1381,7 @@
             <guid>https://www.elle.co.kr/article/84111</guid>
             <pubDate>Tue, 06 Feb 2024 15:12:09 GMT</pubDate>
             <content:encoded><![CDATA[나만의 느낌을 찾는 여정. 나이키 웰 콜렉티브와 함께한 하루]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/03/81a45438-f8a8-4b02-b1f7-eab005a67a83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부모님과 가족 여행할 때 먹어야 할 마음가짐 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1385,18 +1389,21 @@
             <guid>https://www.elle.co.kr/article/84102</guid>
             <pubDate>Tue, 13 Feb 2024 12:21:25 GMT</pubDate>
             <content:encoded><![CDATA[이 사랑은 결코 당연하지 않다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/487b1dd5-31e7-4980-b348-0660b5925ce4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아직도 연말정산이 헷갈리는 당신에게 #돈쓸신잡 135 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84068</link>
             <guid>https://www.elle.co.kr/article/84068</guid>
             <pubDate>Sun, 11 Feb 2024 15:13:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/0ada885b-32ed-444e-9c29-9662b2c2f492.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['틱톡 핫템' 스탠리 텀블러 대유행에 찬물? (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84052</link>
             <guid>https://www.elle.co.kr/article/84052</guid>
             <pubDate>Thu, 08 Feb 2024 03:14:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/cd850aec-7142-49c4-a6b6-5eae909d2337.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시골진도와 살고 있습니다 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1404,6 +1411,7 @@
             <guid>https://www.elle.co.kr/article/83950</guid>
             <pubDate>Mon, 05 Feb 2024 15:13:26 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 사람 나이로 아흔 살이 된 우리집 소리의 견생.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/722eb036-53f6-4aa7-98e6-5a413aff2dc4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
