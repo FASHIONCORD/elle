@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 11:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 12:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1002,6 +1002,19 @@
             <content:encoded><![CDATA[&lt;웨딩 임파서블&gt;로 돌아온 문상민·김도완의 강렬한 카리스마를 공개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[티모시와 젠데이아는 영등포에 무엇을 입고 왔을까? (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/84444</link>
+            <guid>https://www.elle.co.kr/article/84444</guid>
+            <pubDate>Fri, 23 Feb 2024 11:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[런던에서 사이보그 룩을 선보인 젠데이아, 서울에선 이것?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[예능 컴백한 제니와 굿판 벌인 김고은이 있는 2월 마지막주 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/84434</link>
+            <guid>https://www.elle.co.kr/article/84434</guid>
+            <pubDate>Fri, 23 Feb 2024 02:18:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA["로미야, 넌 지금 어디 있니": 한 쪽 눈 가린 20대 정우성을 극장서 보는 법 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84424</link>
             <guid>https://www.elle.co.kr/article/84424</guid>
@@ -1038,18 +1051,6 @@
             <link>https://www.elle.co.kr/article/84322</link>
             <guid>https://www.elle.co.kr/article/84322</guid>
             <pubDate>Fri, 16 Feb 2024 12:21:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['검은 사제들' 속편 '검은 수녀들', 워맨스 장인 송혜교는 누구와 만날까? (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/84321</link>
-            <guid>https://www.elle.co.kr/article/84321</guid>
-            <pubDate>Fri, 16 Feb 2024 11:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['내 발로는 안 나가' 일관하던 클린스만이 결국 잘렸다 (ft. 경질 스포) (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/84317</link>
-            <guid>https://www.elle.co.kr/article/84317</guid>
-            <pubDate>Mon, 19 Feb 2024 15:12:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[이거 공짜로 봐도 되나요? 차은우가 말아주는 '텐미닛'.mp4 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1140,6 +1141,7 @@
             <link>https://www.elle.co.kr/article/84473</link>
             <guid>https://www.elle.co.kr/article/84473</guid>
             <pubDate>Mon, 26 Feb 2024 08:16:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/7583f0b6-f621-4c36-98d5-18aadd5fb210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악마는 프라다가 아닌 ‘이 컬러’를 입는다? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1147,6 +1149,7 @@
             <guid>https://www.elle.co.kr/article/84459</guid>
             <pubDate>Sun, 25 Feb 2024 15:11:40 GMT</pubDate>
             <content:encoded><![CDATA[제30회 미국배우조합상 시상식에서 포착한 영화 &lt;악마는 프라다를 입는다&gt;의 사랑스러운 모먼트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/77444e6c-0b66-4007-a930-c1ede926b854.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티모시와 젠데이아는 영등포에 무엇을 입고 왔을까? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1154,12 +1157,14 @@
             <guid>https://www.elle.co.kr/article/84444</guid>
             <pubDate>Fri, 23 Feb 2024 11:11:30 GMT</pubDate>
             <content:encoded><![CDATA[런던에서 사이보그 룩을 선보인 젠데이아, 서울에선 이것?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/23/6407a402-24b1-461c-b8c9-3b9bca55422d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예능 컴백한 제니와 굿판 벌인 김고은이 있는 2월 마지막주 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84434</link>
             <guid>https://www.elle.co.kr/article/84434</guid>
             <pubDate>Fri, 23 Feb 2024 02:18:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/23/991c5e41-170e-4509-934d-62b0a211ff97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["로미야, 넌 지금 어디 있니": 한 쪽 눈 가린 20대 정우성을 극장서 보는 법 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
