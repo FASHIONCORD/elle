@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 23:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 00:53:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,13 +839,6 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[퍼렐의 새 가방 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84385</link>
-            <guid>https://www.elle.co.kr/article/84385</guid>
-            <pubDate>Sun, 25 Feb 2024 15:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[퍼렐이 루이비통에서 만는 첫 번째 가방!]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[티모시와 젠데이아는 영등포에 무엇을 입고 왔을까? (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84444</link>
             <guid>https://www.elle.co.kr/article/84444</guid>
@@ -892,6 +885,13 @@
             <guid>https://www.elle.co.kr/article/84386</guid>
             <pubDate>Fri, 23 Feb 2024 10:13:37 GMT</pubDate>
             <content:encoded><![CDATA[패션 센스 좋은 스타들이 너도나도 선택하는 힙템! 괴짜라서 더 시크한 너드미를 추가하고 싶다...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[책순이들의 시대가 왔다, 책장 트렌드 #BookshelfWealth (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84382</link>
+            <guid>https://www.elle.co.kr/article/84382</guid>
+            <pubDate>Mon, 26 Feb 2024 00:52:09 GMT</pubDate>
+            <content:encoded><![CDATA[돌고 돌아 다시 책.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오일로 목욕을 한다고?_선배’s 어드바이스 #208 (엘르 코리아 ─ 뷰티)]]></title>
@@ -949,6 +949,19 @@
             <content:encoded><![CDATA['요리 보고 조리 봐도' 하트다, 하트! 사랑으로 가득한 2월의 위시리스트.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[탕웨이가 아이유에게 직접 써 준 한글 버전 손편지.jpg (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84446</link>
+            <guid>https://www.elle.co.kr/article/84446</guid>
+            <pubDate>Mon, 26 Feb 2024 00:52:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[티모시와 젠데이아는 영등포에 무엇을 입고 왔을까? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84444</link>
+            <guid>https://www.elle.co.kr/article/84444</guid>
+            <pubDate>Fri, 23 Feb 2024 11:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[런던에서 사이보그 룩을 선보인 젠데이아, 서울에선 이것?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[예능 컴백한 제니와 굿판 벌인 김고은이 있는 2월 마지막주 #신작이OnAir (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84434</link>
             <guid>https://www.elle.co.kr/article/84434</guid>
@@ -985,19 +998,6 @@
             <link>https://www.elle.co.kr/article/84422</link>
             <guid>https://www.elle.co.kr/article/84422</guid>
             <pubDate>Fri, 23 Feb 2024 02:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌의 화려한 귀환! <슈퍼 엘르> 와의 멋진 조우 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84402</link>
-            <guid>https://www.elle.co.kr/article/84402</guid>
-            <pubDate>Fri, 23 Feb 2024 00:50:42 GMT</pubDate>
-            <content:encoded><![CDATA[퍼포먼스 끝판왕을 한번 더 입증한 르세라핌과 루이 비통의 근사한 시너지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4월에 바프 찍는 전현무, 이번에 도전한 이색 운동은? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84398</link>
-            <guid>https://www.elle.co.kr/article/84398</guid>
-            <pubDate>Fri, 23 Feb 2024 00:50:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[한국의 신들이 등장하는 두 권의 신간 (엘르 코리아 ─ 컬쳐)]]></title>
