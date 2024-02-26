@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 20:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 21:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1395,6 +1395,7 @@
             <guid>https://www.elle.co.kr/article/84111</guid>
             <pubDate>Tue, 06 Feb 2024 15:12:09 GMT</pubDate>
             <content:encoded><![CDATA[나만의 느낌을 찾는 여정. 나이키 웰 콜렉티브와 함께한 하루]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/03/81a45438-f8a8-4b02-b1f7-eab005a67a83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부모님과 가족 여행할 때 먹어야 할 마음가짐 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1402,12 +1403,14 @@
             <guid>https://www.elle.co.kr/article/84102</guid>
             <pubDate>Tue, 13 Feb 2024 12:21:25 GMT</pubDate>
             <content:encoded><![CDATA[이 사랑은 결코 당연하지 않다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/487b1dd5-31e7-4980-b348-0660b5925ce4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아직도 연말정산이 헷갈리는 당신에게 #돈쓸신잡 135 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84068</link>
             <guid>https://www.elle.co.kr/article/84068</guid>
             <pubDate>Sun, 11 Feb 2024 15:13:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/0ada885b-32ed-444e-9c29-9662b2c2f492.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
