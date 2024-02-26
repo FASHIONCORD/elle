@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-02-26T07:13:38.931Z</updated>
+    <updated>2024-02-26T08:17:24.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조정석X신세경 '혐관 로맨스' 결말은? 2회 남은 '세작' 관전포인트 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/84473</id>
+        <link href="https://www.elle.co.kr/article/84473"/>
+        <updated>2024-02-26T08:16:58.373Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[악마는 프라다가 아닌 ‘이 컬러’를 입는다?]]></title>
         <id>https://www.elle.co.kr/article/84459</id>
@@ -80,11 +86,5 @@
         <link href="https://www.elle.co.kr/article/84209"/>
         <updated>2024-02-08T10:13:55.284Z</updated>
         <content type="html"><![CDATA[이번 설에 직접 확인해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 상반기 넷플릭스, 새 시즌 컴백 드라마와 웹툰 원작 오리지널 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/84194</id>
-        <link href="https://www.elle.co.kr/article/84194"/>
-        <updated>2024-02-07T12:20:50.234Z</updated>
     </entry>
 </feed>
