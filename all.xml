@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 15:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 16:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1357,6 +1357,13 @@
             <pubDate>Thu, 15 Feb 2024 11:11:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스] 2024년형 발렌타인을 찾습니다 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/84260</link>
+            <guid>https://www.elle.co.kr/article/84260</guid>
+            <pubDate>Mon, 26 Feb 2024 16:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[밸런타인데이, 사랑을 표현하는 방식이 업그레이드되어야 할 때.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[고작 1.5도로? 이제 되돌릴 수 없을 지 모르는 기후 위기의 결정적 징후 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84259</link>
             <guid>https://www.elle.co.kr/article/84259</guid>
@@ -1401,12 +1408,6 @@
             <link>https://www.elle.co.kr/article/84068</link>
             <guid>https://www.elle.co.kr/article/84068</guid>
             <pubDate>Sun, 11 Feb 2024 15:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['틱톡 핫템' 스탠리 텀블러 대유행에 찬물? (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/84052</link>
-            <guid>https://www.elle.co.kr/article/84052</guid>
-            <pubDate>Thu, 08 Feb 2024 03:14:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
