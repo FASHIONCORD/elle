@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-27T14:12:14.052Z</updated>
+    <updated>2024-02-27T15:13:49.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SAG 어워즈의 베스트 드레서를 찾아라!]]></title>
+        <id>https://www.elle.co.kr/article/84467</id>
+        <link href="https://www.elle.co.kr/article/84467"/>
+        <updated>2024-02-27T15:12:20.270Z</updated>
+        <content type="html"><![CDATA[고혹적인 그레타 리부터 편견을 깬 빌리 아일리시까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사바토 드 사르노가 규칙을 어기는 법]]></title>
         <id>https://www.elle.co.kr/article/84466</id>
@@ -53,11 +60,5 @@
         <link href="https://www.elle.co.kr/article/84444"/>
         <updated>2024-02-25T15:10:47.898Z</updated>
         <content type="html"><![CDATA[런던에서 사이보그 룩을 선보인 젠데이아, 서울에선 이것?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1년에 한 번, 불태워지기 위해 건축되는 사원]]></title>
-        <id>https://www.elle.co.kr/article/84443</id>
-        <link href="https://www.elle.co.kr/article/84443"/>
-        <updated>2024-02-24T19:09:24.083Z</updated>
     </entry>
 </feed>

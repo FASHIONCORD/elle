@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 14:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 15:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SAG 어워즈의 베스트 드레서를 찾아라! (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84467</link>
+            <guid>https://www.elle.co.kr/article/84467</guid>
+            <pubDate>Tue, 27 Feb 2024 15:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[고혹적인 그레타 리부터 편견을 깬 빌리 아일리시까지.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[사바토 드 사르노가 규칙을 어기는 법 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84466</link>
             <guid>https://www.elle.co.kr/article/84466</guid>
@@ -886,12 +893,6 @@
             <guid>https://www.elle.co.kr/article/84444</guid>
             <pubDate>Fri, 23 Feb 2024 11:11:30 GMT</pubDate>
             <content:encoded><![CDATA[런던에서 사이보그 룩을 선보인 젠데이아, 서울에선 이것?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1년에 한 번, 불태워지기 위해 건축되는 사원 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84443</link>
-            <guid>https://www.elle.co.kr/article/84443</guid>
-            <pubDate>Sat, 24 Feb 2024 19:09:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[4월에 바프 찍는 전현무, 이번에 도전한 이색 운동은? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -948,6 +949,13 @@
             <content:encoded><![CDATA[한혜진의 가방 속 ‘찐템’을 모아모아!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[조정석의 전술 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84487</link>
+            <guid>https://www.elle.co.kr/article/84487</guid>
+            <pubDate>Tue, 27 Feb 2024 15:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[조정석이 삶과 연기를 완벽하게 주도하는 법. 그 유연하고 흥미로운 전술.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이거 공짜로 봐도 되나요? 차은우가 말아주는 '텐미닛'.mp4 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84484</link>
             <guid>https://www.elle.co.kr/article/84484</guid>
@@ -994,11 +1002,10 @@
             <content:encoded><![CDATA[최애 립밤부터 센스있는 꾸안꾸 룩을 위한 볼캡, 운동 전 챙겨 먹는 영양제 등 안소희가 직접...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[악마는 프라다가 아닌 ‘이 컬러’를 입는다? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84459</link>
-            <guid>https://www.elle.co.kr/article/84459</guid>
-            <pubDate>Sun, 25 Feb 2024 15:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[제30회 미국배우조합상 시상식에서 포착한 영화 &lt;악마는 프라다를 입는다&gt;의 사랑스러운 모먼트.]]></content:encoded>
+            <title><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/84477</link>
+            <guid>https://www.elle.co.kr/article/84477</guid>
+            <pubDate>Mon, 26 Feb 2024 10:14:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[조정석X신세경 '혐관 로맨스' 결말은? 2회 남은 '세작' 관전포인트 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1046,10 +1053,11 @@
             <pubDate>Sun, 25 Feb 2024 15:11:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[종영 눈 앞에 둔 '내남결', 박민영과 송하윤X이이경이 맞을 결말은? #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/84343</link>
-            <guid>https://www.elle.co.kr/article/84343</guid>
-            <pubDate>Mon, 19 Feb 2024 09:13:59 GMT</pubDate>
+            <title><![CDATA[이토록 '슈퍼'한 르세라핌 다섯 명이 확장시킨 소녀의 정의 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
+            <link>https://www.elle.co.kr/article/84512</link>
+            <guid>https://www.elle.co.kr/article/84512</guid>
+            <pubDate>Tue, 27 Feb 2024 15:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이거 공짜로 봐도 되나요? 차은우가 말아주는 '텐미닛'.mp4 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1127,13 +1135,6 @@
             <link>https://www.elle.co.kr/article/83364</link>
             <guid>https://www.elle.co.kr/article/83364</guid>
             <pubDate>Fri, 29 Dec 2023 14:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2023 MAMA 땡큐파티와 레드카펫 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
-            <link>https://www.elle.co.kr/article/83310</link>
-            <guid>https://www.elle.co.kr/article/83310</guid>
-            <pubDate>Tue, 26 Dec 2023 21:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023 MAMA AWARDS의 최전선을 &lt;엘르&gt;가 뒤좇았다. 도쿄 돔의 가장 뜨거운 공간부터 마지막에...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김수현X김지원 웨딩 사진.jpg (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
