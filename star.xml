@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-27T08:15:48.073Z</updated>
+    <updated>2024-02-27T09:13:31.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이거 공짜로 봐도 되나요? 차은우가 말아주는 '텐미닛'.mp4]]></title>
+        <id>https://www.elle.co.kr/article/84484</id>
+        <link href="https://www.elle.co.kr/article/84484"/>
+        <updated>2024-02-27T09:12:30.720Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뭉근하게 버티는 김세정 #ELLE_D에디션]]></title>
+        <id>https://www.elle.co.kr/article/84465</id>
+        <link href="https://www.elle.co.kr/article/84465"/>
+        <updated>2024-02-27T09:12:30.720Z</updated>
+        <content type="html"><![CDATA[꺼지지 않고 뭉근하게 버티는 불씨처럼 가늘고 오래도록 빛나는 세정의 순간들.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조정석X신세경 '혐관 로맨스' 결말은? 2회 남은 '세작' 관전포인트 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/84473</id>
@@ -44,18 +57,5 @@
         <link href="https://www.elle.co.kr/article/84459"/>
         <updated>2024-02-26T08:16:30.288Z</updated>
         <content type="html"><![CDATA[제30회 미국배우조합상 시상식에서 포착한 영화 &lt;악마는 프라다를 입는다&gt;의 사랑스러운 모먼트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<파묘> 감독, 장재현이 파헤친 이야기들에 대하여]]></title>
-        <id>https://www.elle.co.kr/article/84448</id>
-        <link href="https://www.elle.co.kr/article/84448"/>
-        <updated>2024-02-26T08:16:30.289Z</updated>
-        <content type="html"><![CDATA["영화관을 나와 집에 갔을 때, 이 영화가 전혀 생각나지 않았으면 좋겠어요" 장재현이기꺼이 파헤...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탕웨이가 아이유에게 직접 써 준 한글 버전 손편지.jpg]]></title>
-        <id>https://www.elle.co.kr/article/84446</id>
-        <link href="https://www.elle.co.kr/article/84446"/>
-        <updated>2024-02-26T00:52:26.569Z</updated>
     </entry>
 </feed>
