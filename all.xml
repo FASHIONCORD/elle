@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 15:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 16:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -949,12 +949,17 @@
             <content:encoded><![CDATA[시크한 포인트를 주고 싶다면 디올, 로에베 등 이번 시즌 빅쇼들의 런웨이 속 톰보이룩을 참고...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[장원영 친언니 장다아, 투표로 왕따 뽑는 게임에 참여한다고? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84529</link>
+            <guid>https://www.elle.co.kr/article/84529</guid>
+            <pubDate>Wed, 28 Feb 2024 16:16:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[배우 오윤아의 뷰티 노하우 대방출! (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84519</link>
             <guid>https://www.elle.co.kr/article/84519</guid>
             <pubDate>Wed, 28 Feb 2024 15:12:33 GMT</pubDate>
             <content:encoded><![CDATA[배우처럼 메이크업하는 법? 피부 자극을 줄이는 아침 세안법과 스킨케어, 자연스러운 혈색이 도...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/3e90905b-258c-4fc1-9b12-121667c6bf03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이토록 '슈퍼'한 르세라핌 다섯 명이 확장시킨 소녀의 정의 (엘르 코리아 ─ 스타)]]></title>
@@ -962,35 +967,30 @@
             <guid>https://www.elle.co.kr/article/84512</guid>
             <pubDate>Tue, 27 Feb 2024 15:12:57 GMT</pubDate>
             <content:encoded><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/72e35eaa-4743-4492-ae07-11f9bf9395c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김수현X김지원 웨딩 사진.jpg (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84505</link>
             <guid>https://www.elle.co.kr/article/84505</guid>
             <pubDate>Tue, 27 Feb 2024 09:12:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/5e5e298f-68b8-4b0e-9011-c29b6e200e19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 삼일절엔 션과 함께 기부 마라톤? 3·1절 기념 이색 캠페인 3 #가볼만한곳 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84504</link>
             <guid>https://www.elle.co.kr/article/84504</guid>
             <pubDate>Wed, 28 Feb 2024 09:12:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/238115d6-7b0d-4d12-8ee1-5cfe17c279ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공개 연애 시작한 이재욱과 에스파 카리나의 하트 시그널 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84498</link>
             <guid>https://www.elle.co.kr/article/84498</guid>
             <pubDate>Wed, 28 Feb 2024 09:12:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/2be5142a-695b-402f-9efe-868aa8bc5365.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[77세의 가황, 나훈아가 '마이크 내려 놓겠다'며 전한 심경.txt (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84493</link>
             <guid>https://www.elle.co.kr/article/84493</guid>
             <pubDate>Tue, 27 Feb 2024 19:10:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/e433fea9-0e7d-4d1d-b150-8ca862ee0d53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조정석의 전술 (엘르 코리아 ─ 스타)]]></title>
@@ -998,14 +998,6 @@
             <guid>https://www.elle.co.kr/article/84487</guid>
             <pubDate>Tue, 27 Feb 2024 15:12:39 GMT</pubDate>
             <content:encoded><![CDATA[조정석이 삶과 연기를 완벽하게 주도하는 법. 그 유연하고 흥미로운 전술.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/cde4a996-662b-4f46-970e-0de5e3604c35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 공짜로 봐도 되나요? 차은우가 말아주는 '텐미닛'.mp4 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84484</link>
-            <guid>https://www.elle.co.kr/article/84484</guid>
-            <pubDate>Mon, 26 Feb 2024 11:10:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/91053f11-7360-4d4c-b8cf-e1c0987cd35f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시 (엘르 코리아 ─ 컬쳐)]]></title>
