@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 08:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 09:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -895,6 +895,13 @@
             <content:encoded><![CDATA[구찌의 2024 F/W 컬렉션이 발표됐다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[내돈내산! 배다해가 셀프 케어를 위해 사용하는 뷰티 아이템은? (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84451</link>
+            <guid>https://www.elle.co.kr/article/84451</guid>
+            <pubDate>Wed, 28 Feb 2024 09:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[고수의 향기가 물씬 풍기는 배다해의 홈케어를 위한 뷰티 아이템을 소개합니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마음껏 먹어도 살 빠진다?! 설현이 효과 본 최애 운동 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/84423</link>
             <guid>https://www.elle.co.kr/article/84423</guid>
@@ -942,10 +949,22 @@
             <content:encoded><![CDATA[헬스장이 지겨워졌다면 발레에 도전해 보는 것은 어떨까요? 4년째 취미 발레를 즐기는 채정안이...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['천국의 계단'을 무려 1000개나? 손나은의 관리 비결 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/84307</link>
-            <guid>https://www.elle.co.kr/article/84307</guid>
-            <pubDate>Sun, 18 Feb 2024 17:10:18 GMT</pubDate>
+            <title><![CDATA[김수현X김지원 웨딩 사진.jpg (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84505</link>
+            <guid>https://www.elle.co.kr/article/84505</guid>
+            <pubDate>Tue, 27 Feb 2024 09:12:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[올해 삼일절엔 션과 함께 기부 마라톤? 3·1절 기념 이색 캠페인 3 #가볼만한곳 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84504</link>
+            <guid>https://www.elle.co.kr/article/84504</guid>
+            <pubDate>Wed, 28 Feb 2024 09:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[공개 연애 시작한 이재욱과 에스파 카리나의 하트 시그널 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84498</link>
+            <guid>https://www.elle.co.kr/article/84498</guid>
+            <pubDate>Wed, 28 Feb 2024 09:12:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[77세의 가황, 나훈아가 '마이크 내려 놓겠다'며 전한 심경.txt (엘르 코리아 ─ 스타)]]></title>
@@ -978,26 +997,6 @@
             <link>https://www.elle.co.kr/article/84473</link>
             <guid>https://www.elle.co.kr/article/84473</guid>
             <pubDate>Mon, 26 Feb 2024 08:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[강소라가 둘째 출산 3개월 만에 복귀한다 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84471</link>
-            <guid>https://www.elle.co.kr/article/84471</guid>
-            <pubDate>Tue, 27 Feb 2024 01:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[유부장의 반전 매력! (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84464</link>
-            <guid>https://www.elle.co.kr/article/84464</guid>
-            <pubDate>Tue, 27 Feb 2024 01:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[나인우의 강렬한 눈빛과 사랑스러운 미소 담은 &lt;엘르&gt; 화보.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김세정의 사랑스러운 순간 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84461</link>
-            <guid>https://www.elle.co.kr/article/84461</guid>
-            <pubDate>Mon, 26 Feb 2024 11:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[꺼지지 않고 뭉근하게 버티는 불씨처럼 가늘고 오래도록 빛나는 세정의 순간들.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1056,14 +1055,12 @@
             <guid>https://www.elle.co.kr/article/84512</guid>
             <pubDate>Tue, 27 Feb 2024 15:12:57 GMT</pubDate>
             <content:encoded><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/72e35eaa-4743-4492-ae07-11f9bf9395c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이거 공짜로 봐도 되나요? 차은우가 말아주는 '텐미닛'.mp4 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/84484</link>
             <guid>https://www.elle.co.kr/article/84484</guid>
             <pubDate>Mon, 26 Feb 2024 11:10:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/91053f11-7360-4d4c-b8cf-e1c0987cd35f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화려한 여정, <싱어게인3> Top7의 우리 어느 기쁜날 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1071,7 +1068,6 @@
             <guid>https://www.elle.co.kr/article/84026</guid>
             <pubDate>Wed, 31 Jan 2024 00:52:50 GMT</pubDate>
             <content:encoded><![CDATA[오직 노래를 향한 진심으로 함께 한 일곱 명이 엘르 카메라 앞에 모였다. 그 축제 같은 순간...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/ba99a043-2510-4ff3-b157-6417fbede34c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드레스의 정규 1집 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1079,7 +1075,6 @@
             <guid>https://www.elle.co.kr/article/83996</guid>
             <pubDate>Tue, 30 Jan 2024 15:12:44 GMT</pubDate>
             <content:encoded><![CDATA[드레스의 정규 1집 앨범에 담긴 연애 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/0f304903-5e5a-47d4-a544-e015c053ab26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차은우와 LA에서 데이트한 의외의 인물 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
