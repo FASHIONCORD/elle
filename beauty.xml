@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-28T14:12:18.949Z</updated>
+    <updated>2024-02-28T15:13:37.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안아줘]]></title>
+        <id>https://www.elle.co.kr/article/84450</id>
+        <link href="https://www.elle.co.kr/article/84450"/>
+        <updated>2024-02-28T15:12:22.702Z</updated>
+        <content type="html"><![CDATA[풍부한 향과 질감으로 살결을 포근하게 안아주는 퍼퓸드 보디 모이스처라이저 7.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내돈내산! 배다해가 셀프 케어를 위해 사용하는 뷰티 아이템은?]]></title>
         <id>https://www.elle.co.kr/article/84451</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84296"/>
         <updated>2024-02-22T10:12:44.342Z</updated>
         <content type="html"><![CDATA[시크한 포인트를 주고 싶다면 디올, 로에베 등 이번 시즌 빅쇼들의 런웨이 속 톰보이룩을 참고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발레 입문자를 위한 채정안의 잇템 6]]></title>
-        <id>https://www.elle.co.kr/article/84313</id>
-        <link href="https://www.elle.co.kr/article/84313"/>
-        <updated>2024-02-21T11:10:26.263Z</updated>
-        <content type="html"><![CDATA[헬스장이 지겨워졌다면 발레에 도전해 보는 것은 어떨까요? 4년째 취미 발레를 즐기는 채정안이...]]></content>
     </entry>
 </feed>
