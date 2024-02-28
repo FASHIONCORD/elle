@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 22:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 23:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,27 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뿌연 안개 속 빛바랜 블루 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84520</link>
+            <guid>https://www.elle.co.kr/article/84520</guid>
+            <pubDate>Wed, 28 Feb 2024 23:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[채도는 낮추고 실루엣은 과감해진 데님 트렌드.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보테가 베네타와 함께, 보물섬을 찾아서 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84513</link>
+            <guid>https://www.elle.co.kr/article/84513</guid>
+            <pubDate>Wed, 28 Feb 2024 23:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[익숙한 도시 속 낯선 여행길에서 길어올린 보물같은 선물들.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모노톤의 두 얼굴 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84456</link>
+            <guid>https://www.elle.co.kr/article/84456</guid>
+            <pubDate>Wed, 28 Feb 2024 23:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[고요한 모노톤 실루엣에 담아낸 파워플한 페미니티.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코코 크러쉬와 한옥의 신비로운 만남 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84517</link>
             <guid>https://www.elle.co.kr/article/84517</guid>
@@ -872,27 +893,6 @@
             <guid>https://www.elle.co.kr/article/84496</guid>
             <pubDate>Wed, 28 Feb 2024 01:44:45 GMT</pubDate>
             <content:encoded><![CDATA[간절기부터 올봄까지 활용하기 좋은 스타일링 팁을 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[올세인츠와의 특별한 재회 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84462</link>
-            <guid>https://www.elle.co.kr/article/84462</guid>
-            <pubDate>Wed, 28 Feb 2024 01:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[올세인츠 코리아가 론칭 10주년을 맞이했다. 서울을 다시 찾은 올세인츠 글로벌 CEO 피터 우드...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[재킷 안에 뭐 입지? #폴로셔츠 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84490</link>
-            <guid>https://www.elle.co.kr/article/84490</guid>
-            <pubDate>Tue, 27 Feb 2024 19:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[다가올 봄에는 칼라 장식의 폴로 셔츠 하나면 ‘멋잘알’ 될 수 있어요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SAG 어워즈의 베스트 드레서를 찾아라! (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84467</link>
-            <guid>https://www.elle.co.kr/article/84467</guid>
-            <pubDate>Tue, 27 Feb 2024 15:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[고혹적인 그레타 리부터 편견을 깬 빌리 아일리시까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안아줘 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1360,7 +1360,6 @@
             <link>https://www.elle.co.kr/article/84310</link>
             <guid>https://www.elle.co.kr/article/84310</guid>
             <pubDate>Tue, 27 Feb 2024 00:52:17 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/15/c2a926c9-ebda-4ec8-876f-879b965e274d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 2024년형 발렌타인을 찾습니다 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1368,14 +1367,12 @@
             <guid>https://www.elle.co.kr/article/84260</guid>
             <pubDate>Mon, 26 Feb 2024 16:16:36 GMT</pubDate>
             <content:encoded><![CDATA[밸런타인데이, 사랑을 표현하는 방식이 업그레이드되어야 할 때.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/7167146d-4b82-412d-b55e-f4b98fb5e600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고작 1.5도로? 이제 되돌릴 수 없을 지 모르는 기후 위기의 결정적 징후 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84259</link>
             <guid>https://www.elle.co.kr/article/84259</guid>
             <pubDate>Mon, 26 Feb 2024 08:17:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/13/b2c729f3-62d1-4fcf-aa9d-9c0dde502ba4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[길 위에서 할머니가 운 이유 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1383,14 +1380,12 @@
             <guid>https://www.elle.co.kr/article/84240</guid>
             <pubDate>Thu, 22 Feb 2024 07:13:18 GMT</pubDate>
             <content:encoded><![CDATA[할머니는 길 위에서 펑펑 울었다. 그저 택시를 타고 싶었을 뿐인데. '스마트'한 세상이 바보처...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/12/2d5dc9dc-44dc-4247-a095-84cc5e13352d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 기업 후려치기? '코리아 디스카운트'가 뭐길래 #돈쓸신잡 136 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84201</link>
             <guid>https://www.elle.co.kr/article/84201</guid>
             <pubDate>Sun, 18 Feb 2024 15:14:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/4e97efe1-882f-4280-b691-912744b0a8da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 21세기 밸런스 게임 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1398,7 +1393,6 @@
             <guid>https://www.elle.co.kr/article/84139</guid>
             <pubDate>Thu, 15 Feb 2024 11:12:03 GMT</pubDate>
             <content:encoded><![CDATA[상상하지 못했다고 해서 미래를 포기하지 말기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/22/bb369f25-d697-4ed0-a753-e3be29b44d5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숨, 그리고 연결. 나이키가 서울에서 이야기한 진짜 웰니스 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1406,7 +1400,6 @@
             <guid>https://www.elle.co.kr/article/84111</guid>
             <pubDate>Tue, 06 Feb 2024 15:12:09 GMT</pubDate>
             <content:encoded><![CDATA[나만의 느낌을 찾는 여정. 나이키 웰 콜렉티브와 함께한 하루]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/03/81a45438-f8a8-4b02-b1f7-eab005a67a83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부모님과 가족 여행할 때 먹어야 할 마음가짐 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1414,7 +1407,6 @@
             <guid>https://www.elle.co.kr/article/84102</guid>
             <pubDate>Tue, 13 Feb 2024 12:21:25 GMT</pubDate>
             <content:encoded><![CDATA[이 사랑은 결코 당연하지 않다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/487b1dd5-31e7-4980-b348-0660b5925ce4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
