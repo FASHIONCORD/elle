@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 12:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 13:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -895,6 +895,13 @@
             <content:encoded><![CDATA[개강 패션의 키 아이템으로 로퍼가 제격! 패션 센스 좋은 셀러브리티의 데일리 룩에서 발견한 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[안소희의 후회 없는 내돈내산 소비 목록.txt (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84460</link>
+            <guid>https://www.elle.co.kr/article/84460</guid>
+            <pubDate>Thu, 29 Feb 2024 13:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[최애 립밤부터 센스있는 꾸안꾸 룩을 위한 볼캡, 운동 전 챙겨 먹는 영양제 등 안소희가 직접...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[안아줘 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/84450</link>
             <guid>https://www.elle.co.kr/article/84450</guid>
@@ -942,11 +949,16 @@
             <content:encoded><![CDATA[이런게 바로 파스텔 메이크업의 매력! 다채로운 파스텔 컬러 플레이를 주목할 것.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무심한 듯 쿨한 '톰보이' 헤어 스타일 어때? (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/84296</link>
-            <guid>https://www.elle.co.kr/article/84296</guid>
-            <pubDate>Thu, 22 Feb 2024 10:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[시크한 포인트를 주고 싶다면 디올, 로에베 등 이번 시즌 빅쇼들의 런웨이 속 톰보이룩을 참고...]]></content:encoded>
+            <title><![CDATA[열애 3년차, 전종서가 직접 전한 이충현 감독과의 썸 스토리.txt (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84532</link>
+            <guid>https://www.elle.co.kr/article/84532</guid>
+            <pubDate>Thu, 29 Feb 2024 13:13:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[김고은이 '파묘'에서 신들린 칼춤 출 수 있던 비결  #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84531</link>
+            <guid>https://www.elle.co.kr/article/84531</guid>
+            <pubDate>Thu, 29 Feb 2024 13:13:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[운동 루틴부터 '프렌즈' 절친들과의 우정까지! 제니퍼 애니스톤 근황 모음.zip (엘르 코리아 ─ 스타)]]></title>
@@ -985,18 +997,6 @@
             <link>https://www.elle.co.kr/article/84504</link>
             <guid>https://www.elle.co.kr/article/84504</guid>
             <pubDate>Wed, 28 Feb 2024 09:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[공개 연애 시작한 이재욱과 에스파 카리나의 하트 시그널 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84498</link>
-            <guid>https://www.elle.co.kr/article/84498</guid>
-            <pubDate>Wed, 28 Feb 2024 09:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[77세의 가황, 나훈아가 '마이크 내려 놓겠다'며 전한 심경.txt (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84493</link>
-            <guid>https://www.elle.co.kr/article/84493</guid>
-            <pubDate>Tue, 27 Feb 2024 19:10:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[누가 여기 거인들을 풀어 놨어? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1048,6 +1048,7 @@
             <guid>https://www.elle.co.kr/article/84389</guid>
             <pubDate>Mon, 26 Feb 2024 08:16:38 GMT</pubDate>
             <content:encoded><![CDATA[그릇 사이즈 레전드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/21/0eaa5781-bbc9-47a8-b399-f232a1f3ab7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이토록 '슈퍼'한 르세라핌 다섯 명이 확장시킨 소녀의 정의 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1138,12 +1139,14 @@
             <link>https://www.elle.co.kr/article/84505</link>
             <guid>https://www.elle.co.kr/article/84505</guid>
             <pubDate>Tue, 27 Feb 2024 09:12:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/5e5e298f-68b8-4b0e-9011-c29b6e200e19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조정석X신세경 '혐관 로맨스' 결말은? 2회 남은 '세작' 관전포인트 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84473</link>
             <guid>https://www.elle.co.kr/article/84473</guid>
             <pubDate>Mon, 26 Feb 2024 08:16:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/7583f0b6-f621-4c36-98d5-18aadd5fb210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악마는 프라다가 아닌 ‘이 컬러’를 입는다? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1151,6 +1154,7 @@
             <guid>https://www.elle.co.kr/article/84459</guid>
             <pubDate>Sun, 25 Feb 2024 15:11:40 GMT</pubDate>
             <content:encoded><![CDATA[제30회 미국배우조합상 시상식에서 포착한 영화 &lt;악마는 프라다를 입는다&gt;의 사랑스러운 모먼트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/77444e6c-0b66-4007-a930-c1ede926b854.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티모시와 젠데이아는 영등포에 무엇을 입고 왔을까? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1158,6 +1162,7 @@
             <guid>https://www.elle.co.kr/article/84444</guid>
             <pubDate>Fri, 23 Feb 2024 11:11:30 GMT</pubDate>
             <content:encoded><![CDATA[런던에서 사이보그 룩을 선보인 젠데이아, 서울에선 이것?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/23/6407a402-24b1-461c-b8c9-3b9bca55422d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예능 컴백한 제니와 굿판 벌인 김고은이 있는 2월 마지막주 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
