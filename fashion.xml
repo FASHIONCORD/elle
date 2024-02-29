@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-29T01:44:19.363Z</updated>
+    <updated>2024-02-29T02:18:49.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달빛 아래 샤넬 립스틱]]></title>
+        <id>https://www.elle.co.kr/article/84523</id>
+        <link href="https://www.elle.co.kr/article/84523"/>
+        <updated>2024-02-29T02:17:00.022Z</updated>
+        <content type="html"><![CDATA[샤넬 루쥬 알뤼르 벨벳 NUIT BLANCHE를 바르고 하얗게 지새우는 봄밤.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뿌연 안개 속 빛바랜 블루]]></title>
         <id>https://www.elle.co.kr/article/84520</id>
@@ -48,17 +55,10 @@
         <content type="html"><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[루이비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시)]]></title>
+        <title type="html"><![CDATA[루이 비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시)]]></title>
         <id>https://www.elle.co.kr/article/84507</id>
         <link href="https://www.elle.co.kr/article/84507"/>
         <updated>2024-02-28T01:44:45.601Z</updated>
         <content type="html"><![CDATA[힌트: 리움미술관 개인전 주인공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#패잘알 스타일링의 귀재, 린드라 메딘이 머플러를 톱처럼 활용하는 법]]></title>
-        <id>https://www.elle.co.kr/article/84496</id>
-        <link href="https://www.elle.co.kr/article/84496"/>
-        <updated>2024-02-28T01:44:45.602Z</updated>
-        <content type="html"><![CDATA[간절기부터 올봄까지 활용하기 좋은 스타일링 팁을 소개합니다.]]></content>
     </entry>
 </feed>
