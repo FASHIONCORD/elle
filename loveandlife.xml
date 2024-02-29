@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-02-29T14:15:35.667Z</updated>
+    <updated>2024-02-29T15:13:48.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 정월대보름엔 커피와 함께 견과류 즐기기? 디저트 카페 추천 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84447</id>
+        <link href="https://www.elle.co.kr/article/84447"/>
+        <updated>2024-02-29T15:13:39.586Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1년에 한 번, 불태워지기 위해 건축되는 사원]]></title>
         <id>https://www.elle.co.kr/article/84443</id>
@@ -50,12 +56,5 @@
         <id>https://www.elle.co.kr/article/84320</id>
         <link href="https://www.elle.co.kr/article/84320"/>
         <updated>2024-02-23T10:14:43.891Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 빈티지 잡지 읽고, 멕시칸 타코 먹고! 을지로 고수는 요즘 여길 간다고? #엘르동]]></title>
-        <id>https://www.elle.co.kr/article/84319</id>
-        <link href="https://www.elle.co.kr/article/84319"/>
-        <updated>2024-02-23T00:51:46.796Z</updated>
-        <content type="html"><![CDATA[사람만 한 스피커로 듣는 노래가 궁금하신가요?]]></content>
     </entry>
 </feed>
