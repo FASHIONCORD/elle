@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 10:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 11:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1354,6 +1354,13 @@
             <content:encoded><![CDATA[사람만 한 스피커로 듣는 노래가 궁금하신가요?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스] 회피형, 네 머릿속을 열고 싶어 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/84299</link>
+            <guid>https://www.elle.co.kr/article/84299</guid>
+            <pubDate>Thu, 29 Feb 2024 11:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[상대방을 위해서, 나는 기꺼이 안정형이 될 수 있을까?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[취미에 얼마를 써야 할까? #돈쓸신잡 137 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84310</link>
             <guid>https://www.elle.co.kr/article/84310</guid>
@@ -1398,13 +1405,6 @@
             <guid>https://www.elle.co.kr/article/84111</guid>
             <pubDate>Tue, 06 Feb 2024 15:12:09 GMT</pubDate>
             <content:encoded><![CDATA[나만의 느낌을 찾는 여정. 나이키 웰 콜렉티브와 함께한 하루]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부모님과 가족 여행할 때 먹어야 할 마음가짐 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/84102</link>
-            <guid>https://www.elle.co.kr/article/84102</guid>
-            <pubDate>Tue, 13 Feb 2024 12:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[이 사랑은 결코 당연하지 않다.]]></content:encoded>
         </item>
     </channel>
 </rss>
