@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 05:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 06:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1139,18 +1139,21 @@
             <link>https://www.elle.co.kr/article/84571</link>
             <guid>https://www.elle.co.kr/article/84571</guid>
             <pubDate>Fri, 01 Mar 2024 02:23:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/01/3628c739-829b-4acc-a637-130e6985f78b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김수현X김지원 웨딩 사진.jpg (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84505</link>
             <guid>https://www.elle.co.kr/article/84505</guid>
             <pubDate>Tue, 27 Feb 2024 09:12:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/5e5e298f-68b8-4b0e-9011-c29b6e200e19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조정석X신세경 '혐관 로맨스' 결말은? 2회 남은 '세작' 관전포인트 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84473</link>
             <guid>https://www.elle.co.kr/article/84473</guid>
             <pubDate>Mon, 26 Feb 2024 08:16:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/7583f0b6-f621-4c36-98d5-18aadd5fb210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악마는 프라다가 아닌 ‘이 컬러’를 입는다? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1158,6 +1161,7 @@
             <guid>https://www.elle.co.kr/article/84459</guid>
             <pubDate>Sun, 25 Feb 2024 15:11:40 GMT</pubDate>
             <content:encoded><![CDATA[제30회 미국배우조합상 시상식에서 포착한 영화 &lt;악마는 프라다를 입는다&gt;의 사랑스러운 모먼트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/77444e6c-0b66-4007-a930-c1ede926b854.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티모시와 젠데이아는 영등포에 무엇을 입고 왔을까? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
