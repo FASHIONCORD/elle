@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 15:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 16:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -886,6 +886,7 @@
             <guid>https://www.elle.co.kr/article/84456</guid>
             <pubDate>Wed, 28 Feb 2024 23:13:38 GMT</pubDate>
             <content:encoded><![CDATA[고요한 모노톤 실루엣에 담아낸 파워플한 페미니티.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/c8ba7dbb-419b-450d-b612-e595ee8608ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코코 크러쉬와 한옥의 신비로운 만남 (엘르 코리아 ─ 패션)]]></title>
@@ -893,6 +894,7 @@
             <guid>https://www.elle.co.kr/article/84517</guid>
             <pubDate>Wed, 28 Feb 2024 19:11:16 GMT</pubDate>
             <content:encoded><![CDATA[발그레 물든 어느 봄날.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/86ca7a4a-10f8-41ec-a6da-1751c8a16fba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안소희의 후회 없는 내돈내산 소비 목록.txt (엘르 코리아 ─ 뷰티)]]></title>
@@ -954,7 +956,6 @@
             <guid>https://www.elle.co.kr/article/84535</guid>
             <pubDate>Fri, 01 Mar 2024 02:22:46 GMT</pubDate>
             <content:encoded><![CDATA["작품을 열심히 만들어 최선의 결과를 선보이는 것 말고 제가 할 수 있는 게 뭐가 있겠어요?"...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/3f45c017-42e6-4c03-8fd2-0c91594d62f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싱어게인 top7 이 다함께 노래를 부르던 바로 그 현장 (엘르 코리아 ─ 스타)]]></title>
@@ -962,35 +963,30 @@
             <guid>https://www.elle.co.kr/article/84534</guid>
             <pubDate>Thu, 29 Feb 2024 19:10:01 GMT</pubDate>
             <content:encoded><![CDATA[싱어게인3 비하인드와 인터뷰, 그 모든 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/f37b7108-6a1b-400a-a855-b45b93a89e60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열애 3년차, 전종서가 직접 전한 이충현 감독과의 썸 스토리.txt (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84532</link>
             <guid>https://www.elle.co.kr/article/84532</guid>
             <pubDate>Thu, 29 Feb 2024 13:13:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/22779204-dd05-4e54-a7fc-6ce1eccfe062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김고은이 '파묘'에서 신들린 칼춤 출 수 있던 비결  #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84531</link>
             <guid>https://www.elle.co.kr/article/84531</guid>
             <pubDate>Thu, 29 Feb 2024 13:13:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/ae0db9b8-7578-49d9-9492-4494280b7b92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[운동 루틴부터 '프렌즈' 절친들과의 우정까지! 제니퍼 애니스톤 근황 모음.zip (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84530</link>
             <guid>https://www.elle.co.kr/article/84530</guid>
             <pubDate>Thu, 29 Feb 2024 02:17:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/771dd173-f343-4e24-9ba3-fa50a5db480d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장원영 친언니 장다아, 투표로 왕따 뽑는 게임에 참여한다고? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84529</link>
             <guid>https://www.elle.co.kr/article/84529</guid>
             <pubDate>Wed, 28 Feb 2024 16:16:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/076115ae-f0b8-4a1a-ae51-dc3099f14c90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 오윤아의 뷰티 노하우 대방출! (엘르 코리아 ─ 스타)]]></title>
@@ -998,7 +994,6 @@
             <guid>https://www.elle.co.kr/article/84519</guid>
             <pubDate>Wed, 28 Feb 2024 15:12:33 GMT</pubDate>
             <content:encoded><![CDATA[배우처럼 메이크업하는 법? 피부 자극을 줄이는 아침 세안법과 스킨케어, 자연스러운 혈색이 도...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/3e90905b-258c-4fc1-9b12-121667c6bf03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이토록 '슈퍼'한 르세라핌 다섯 명이 확장시킨 소녀의 정의 (엘르 코리아 ─ 스타)]]></title>
@@ -1006,7 +1001,6 @@
             <guid>https://www.elle.co.kr/article/84512</guid>
             <pubDate>Tue, 27 Feb 2024 15:12:57 GMT</pubDate>
             <content:encoded><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/72e35eaa-4743-4492-ae07-11f9bf9395c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이거 공짜로 봐도 되나요? 차은우가 말아주는 '텐미닛'.mp4 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1229,21 +1223,18 @@
             <guid>https://www.elle.co.kr/article/84507</guid>
             <pubDate>Tue, 27 Feb 2024 10:15:05 GMT</pubDate>
             <content:encoded><![CDATA[힌트: 리움미술관 개인전 주인공]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/3a6fa157-aefd-4593-9fb1-69d4a918e690.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누가 여기 거인들을 풀어 놨어? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84483</link>
             <guid>https://www.elle.co.kr/article/84483</guid>
             <pubDate>Mon, 26 Feb 2024 11:10:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/78949b05-64a9-40a1-8752-3c77c5943ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84477</link>
             <guid>https://www.elle.co.kr/article/84477</guid>
             <pubDate>Mon, 26 Feb 2024 10:14:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/6011fded-deb8-4417-8f65-af905258de37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠데이아가 사이보그로 변신했다? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1251,7 +1242,6 @@
             <guid>https://www.elle.co.kr/article/84329</guid>
             <pubDate>Sun, 18 Feb 2024 17:10:41 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/e824b676-a0fe-4193-b100-630f9ad59b55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1312,6 +1302,292 @@
             <guid>https://www.elle.co.kr/article/83824</guid>
             <pubDate>Mon, 22 Jan 2024 17:13:47 GMT</pubDate>
             <content:encoded><![CDATA[일상 속 예술을 향한 열기로 '후끈' 달아오른 &lt;엘르 데코&gt; 전시 오프닝 현장.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[건축에 관한 지극히 사적인 기록 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83798</link>
+            <guid>https://www.elle.co.kr/article/83798</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83798">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/71d89539-07af-494f-a957-3a4254768e8d.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83798">
+                        건축에 관한 지극히 사적인 기록                    </a>
+                </em>
+                <p class="excerpt">건축 위에 성실하게 지어낸 세 권의 책. 그 목소리에 귀 기울여봤다. </p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아파트에서 타운하우스로 이사 간 갤러리 이목화랑 대표 부부의 4층 주택 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83729</link>
+            <guid>https://www.elle.co.kr/article/83729</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83729">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/61d36af4-dd40-422f-9a8c-96c73bf1995a.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83729">
+                        아파트에서 타운하우스로 이사 간 갤러리 이목화랑 대표 부부의 4층 주택 #홈터뷰                      </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프리츠한센의 첫 로킹 홀스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83715</link>
+            <guid>https://www.elle.co.kr/article/83715</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83715">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/60026085-b358-45b0-bf83-73a81da40354.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83715">
+                        프리츠한센의 첫 로킹 홀스                    </a>
+                </em>
+                <p class="excerpt">어느 날 프리츠한센 헤리티지 팀이 발견한 1946년의 비밀스러운 사진 두 장.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83684</link>
+            <guid>https://www.elle.co.kr/article/83684</guid>
+            <pubDate>Tue, 16 Jan 2024 02:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83684">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/d6543b20-b945-4109-8eae-d25350119eb4.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83684">
+                        한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것                    </a>
+                </em>
+                <p class="excerpt">전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[흔적으로 지은 덩어리: 정현 개인전 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83683</link>
+            <guid>https://www.elle.co.kr/article/83683</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83683">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/f0a730ca-d635-4714-a4f4-471ea3d29bb5.jpg" alt="정현 개인전 《덩어리》 전시 전경 사진 임장활, 제공: 서울시립미술관">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83683">
+                        흔적으로 지은 덩어리: 정현 개인전 #요즘전시                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소파가 된 몽클레르의 블랙 다운 재킷 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83572</link>
+            <guid>https://www.elle.co.kr/article/83572</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83572">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/b67a7dc5-453c-4bcf-87ce-a1f469426fd0.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83572">
+                        소파가 된 몽클레르의 블랙 다운 재킷                    </a>
+                </em>
+                <p class="excerpt">작가 연진영과 몽클레르가 함께 완성한, 순환하는 검은 거실.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영화를 사랑한다면? 겨울에는 파주로 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83605</link>
+            <guid>https://www.elle.co.kr/article/83605</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83605">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/11/87bee5ab-12a0-4e73-9b45-133900ecf089.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83605">
+                        영화를 사랑한다면? 겨울에는 파주로                    </a>
+                </em>
+                <p class="excerpt">한국영화계의 가장 든든한 이름, 명필름 아트센터의 변신</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가게가 예뻐야 지갑 열 맛이 난다면 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83583</link>
+            <guid>https://www.elle.co.kr/article/83583</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83583">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/07b5db42-7731-4d7e-bfb3-64e67da4dbb0.jpg" alt="헤더윅 스튜디오">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83583">
+                        가게가 예뻐야 지갑 열 맛이 난다면                    </a>
+                </em>
+                <p class="excerpt">헤더윅 스튜디오가 디자인한 중국의 쇼핑 명소.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[거실 너머, 삶의 레서피를 콜라주하는 주방의 등장 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83565</link>
+            <guid>https://www.elle.co.kr/article/83565</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83565">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/0f8e47ea-9c5f-4ab4-88df-9393e4aac848.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83565">
+                        거실 너머, 삶의 레서피를 콜라주하는 주방의 등장                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[믿을 수 없이 가깝고 엄청나게 소란스러운 거실의 여정, <데코·데코: 리빙룸 아케이드> (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83485</link>
+            <guid>https://www.elle.co.kr/article/83485</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83485">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/05/6198a731-c34b-41bf-8d2e-ccb8e13c8b64.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83485">
+                        믿을 수 없이 가깝고 엄청나게 소란스러운 거실의 여정, &lt;데코·데코: 리빙룸 아케이드&gt;                    </a>
+                </em>
+                <p class="excerpt">&lt;엘르 데코&gt;의 첫 디자인 전시 &lt;데코, 데코: 리빙룸 아케이드&gt;가 탐색한 지금 우리 시대의 거실...</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 전파하는 설치미술 작가 플로렌틴 호프만의 전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83459</link>
+            <guid>https://www.elle.co.kr/article/83459</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83459">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/04/f7dfedac-d13a-43a2-b1f8-1a13a1b52837.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83459">
+                        사랑을 전파하는 설치미술 작가 플로렌틴 호프만의 전시                    </a>
+                </em>
+                <p class="excerpt">전 세계에 행복과 평등, 사랑을 전파하는 설치미술 작가 플로렌틴 호프만. 그가 누구든 환영받는...</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소울메이트 디자이너 부부가 일궈낸 가평의 아시 하우스 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83447</link>
+            <guid>https://www.elle.co.kr/article/83447</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83447">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/b03878f8-1790-461d-be83-62dc6d73f1b4.jpg" alt="소울메이트 디자이너 부부가 일궈낸 가평의 아시 하우스 #홈터뷰">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83447">
+                        소울메이트 디자이너 부부가 일궈낸 가평의 아시 하우스 #홈터뷰                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['숲세권' 아파트의 삶을 담아내는 아륜홈의 새로운 시도, 세컨 하우스 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/83332</link>
+            <guid>https://www.elle.co.kr/article/83332</guid>
+            <pubDate>Fri, 01 Mar 2024 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/83332">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202312/28/5b92857f-e084-4081-ac84-4b1a5b1b3010.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/83332">
+                        '숲세권' 아파트의 삶을 담아내는 아륜홈의 새로운 시도, 세컨 하우스 #홈터뷰                     </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
