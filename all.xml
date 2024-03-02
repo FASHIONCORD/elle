@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 21:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 22:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -886,6 +886,7 @@
             <guid>https://www.elle.co.kr/article/84513</guid>
             <pubDate>Wed, 28 Feb 2024 23:13:38 GMT</pubDate>
             <content:encoded><![CDATA[익숙한 도시 속 낯선 여행길에서 길어올린 보물같은 선물들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/2e344ebf-5341-4900-af4a-f82597ba59ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모노톤의 두 얼굴 (엘르 코리아 ─ 패션)]]></title>
@@ -893,6 +894,7 @@
             <guid>https://www.elle.co.kr/article/84456</guid>
             <pubDate>Wed, 28 Feb 2024 23:13:38 GMT</pubDate>
             <content:encoded><![CDATA[고요한 모노톤 실루엣에 담아낸 파워플한 페미니티.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/c8ba7dbb-419b-450d-b612-e595ee8608ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안소희의 후회 없는 내돈내산 소비 목록.txt (엘르 코리아 ─ 뷰티)]]></title>
