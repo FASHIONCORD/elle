@@ -1,59 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-03T20:13:49.116Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['로얄로더'로 또 주연 맡은 이재욱의 탄탄한 피지컬과 넘치는 체력의 비결은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84569</id>
-        <link href="https://www.elle.co.kr/article/84569"/>
-        <updated>2024-03-03T19:09:24.519Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메의 가방엔 뭐가 들어있을까?]]></title>
-        <id>https://www.elle.co.kr/article/84568</id>
-        <link href="https://www.elle.co.kr/article/84568"/>
-        <updated>2024-03-03T15:12:10.616Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 숙소 소파 정보 좀요]]></title>
-        <id>https://www.elle.co.kr/article/84543</id>
-        <link href="https://www.elle.co.kr/article/84543"/>
-        <updated>2024-03-02T19:09:28.891Z</updated>
-        <content type="html"><![CDATA[거실에 놓인 가구 얼만데?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재의 하프타임]]></title>
-        <id>https://www.elle.co.kr/article/84535</id>
-        <link href="https://www.elle.co.kr/article/84535"/>
-        <updated>2024-03-01T02:22:46.852Z</updated>
-        <content type="html"><![CDATA["작품을 열심히 만들어 최선의 결과를 선보이는 것 말고 제가 할 수 있는 게 뭐가 있겠어요?"...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인 top7 이 다함께 노래를 부르던 바로 그 현장]]></title>
-        <id>https://www.elle.co.kr/article/84534</id>
-        <link href="https://www.elle.co.kr/article/84534"/>
-        <updated>2024-02-29T19:10:01.039Z</updated>
-        <content type="html"><![CDATA[싱어게인3 비하인드와 인터뷰, 그 모든 것!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열애 3년차, 전종서가 직접 전한 이충현 감독과의 썸 스토리.txt]]></title>
-        <id>https://www.elle.co.kr/article/84532</id>
-        <link href="https://www.elle.co.kr/article/84532"/>
-        <updated>2024-02-29T13:13:13.691Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김고은이 '파묘'에서 신들린 칼춤 출 수 있던 비결  #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84531</id>
-        <link href="https://www.elle.co.kr/article/84531"/>
-        <updated>2024-02-29T13:13:13.691Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운동 루틴부터 '프렌즈' 절친들과의 우정까지! 제니퍼 애니스톤 근황 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/84530</id>
-        <link href="https://www.elle.co.kr/article/84530"/>
-        <updated>2024-02-29T02:17:15.037Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 03 Mar 2024 21:12:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['로얄로더'로 또 주연 맡은 이재욱의 탄탄한 피지컬과 넘치는 체력의 비결은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/84569</link>
+            <guid>https://www.elle.co.kr/article/84569</guid>
+            <pubDate>Sun, 03 Mar 2024 19:09:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/68f77662-56e9-45d0-bbf6-7ba9fdd22150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티모시 샬라메의 가방엔 뭐가 들어있을까?]]></title>
+            <link>https://www.elle.co.kr/article/84568</link>
+            <guid>https://www.elle.co.kr/article/84568</guid>
+            <pubDate>Sun, 03 Mar 2024 15:12:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/b1880fab-03d1-4362-ac24-fa9342f78ffe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스 숙소 소파 정보 좀요]]></title>
+            <link>https://www.elle.co.kr/article/84543</link>
+            <guid>https://www.elle.co.kr/article/84543</guid>
+            <pubDate>Sat, 02 Mar 2024 19:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[거실에 놓인 가구 얼만데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/b4e1e057-0a5a-4a47-a69c-edec569db8e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재의 하프타임]]></title>
+            <link>https://www.elle.co.kr/article/84535</link>
+            <guid>https://www.elle.co.kr/article/84535</guid>
+            <pubDate>Fri, 01 Mar 2024 02:22:46 GMT</pubDate>
+            <content:encoded><![CDATA["작품을 열심히 만들어 최선의 결과를 선보이는 것 말고 제가 할 수 있는 게 뭐가 있겠어요?"...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/3f45c017-42e6-4c03-8fd2-0c91594d62f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어게인 top7 이 다함께 노래를 부르던 바로 그 현장]]></title>
+            <link>https://www.elle.co.kr/article/84534</link>
+            <guid>https://www.elle.co.kr/article/84534</guid>
+            <pubDate>Thu, 29 Feb 2024 19:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[싱어게인3 비하인드와 인터뷰, 그 모든 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/f37b7108-6a1b-400a-a855-b45b93a89e60.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열애 3년차, 전종서가 직접 전한 이충현 감독과의 썸 스토리.txt]]></title>
+            <link>https://www.elle.co.kr/article/84532</link>
+            <guid>https://www.elle.co.kr/article/84532</guid>
+            <pubDate>Thu, 29 Feb 2024 13:13:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/22779204-dd05-4e54-a7fc-6ce1eccfe062.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김고은이 '파묘'에서 신들린 칼춤 출 수 있던 비결  #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/84531</link>
+            <guid>https://www.elle.co.kr/article/84531</guid>
+            <pubDate>Thu, 29 Feb 2024 13:13:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/ae0db9b8-7578-49d9-9492-4494280b7b92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[운동 루틴부터 '프렌즈' 절친들과의 우정까지! 제니퍼 애니스톤 근황 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/84530</link>
+            <guid>https://www.elle.co.kr/article/84530</guid>
+            <pubDate>Thu, 29 Feb 2024 02:17:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/771dd173-f343-4e24-9ba3-fa50a5db480d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
