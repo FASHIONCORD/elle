@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-04T10:10:43.386Z</updated>
+    <updated>2024-03-04T12:01:13.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[귀티가 철철! 소이현 메이크업 HOW TO]]></title>
+        <id>https://www.elle.co.kr/article/84594</id>
+        <link href="https://www.elle.co.kr/article/84594"/>
+        <updated>2024-03-04T11:59:57.913Z</updated>
+        <content type="html"><![CDATA[드라마 &lt;나의 해피엔드&gt; 속 세련된 ‘악녀’ 권윤진의 메이크업이 궁금하다면? 소이현과 메이크업...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리한나가 공연비로 84억 원을 받은 행사의 정체는?]]></title>
         <id>https://www.elle.co.kr/article/84591</id>
         <link href="https://www.elle.co.kr/article/84591"/>
         <updated>2024-03-04T10:09:34.370Z</updated>
-        <content type="html"><![CDATA[빌 게이츠, 마크 저커버그, 밥 아이거까지 한달음에 달려왔다고.]]></content>
+        <content type="html"><![CDATA[빌 게이츠, 마크 저커버그, 이방카 트럼프까지 한달음에 달려왔다고.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최초 공개! 슬기의 랜선 집들이에 초대합니다]]></title>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/84543"/>
         <updated>2024-03-02T19:09:28.891Z</updated>
         <content type="html"><![CDATA[거실에 놓인 가구 얼만데?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재의 하프타임]]></title>
-        <id>https://www.elle.co.kr/article/84535</id>
-        <link href="https://www.elle.co.kr/article/84535"/>
-        <updated>2024-03-01T02:22:46.852Z</updated>
-        <content type="html"><![CDATA["작품을 열심히 만들어 최선의 결과를 선보이는 것 말고 제가 할 수 있는 게 뭐가 있겠어요?"...]]></content>
     </entry>
 </feed>
