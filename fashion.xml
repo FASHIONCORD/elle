@@ -1,64 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-04T21:13:26.957Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[부드럽고 온화한 펜디 레이디]]></title>
-        <id>https://www.elle.co.kr/article/84546</id>
-        <link href="https://www.elle.co.kr/article/84546"/>
-        <updated>2024-03-04T19:10:24.634Z</updated>
-        <content type="html"><![CDATA[고요하고 포근한 침대에서.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힙한 거울 셀피를 위해! 시선 강탈 폰 케이스 5]]></title>
-        <id>https://www.elle.co.kr/article/84583</id>
-        <link href="https://www.elle.co.kr/article/84583"/>
-        <updated>2024-03-04T11:59:35.446Z</updated>
-        <content type="html"><![CDATA[폰 케이스, 아무거나 하지 마세요~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끌로에와 지방시를 이끌던 클레어 웨이트 켈러, 유니클로를 만나다]]></title>
-        <id>https://www.elle.co.kr/article/84572</id>
-        <link href="https://www.elle.co.kr/article/84572"/>
-        <updated>2024-03-03T15:11:52.547Z</updated>
-        <content type="html"><![CDATA[단연 올봄을 지배할 산뜻함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY와 G-SHOCK이 제안하는 경쾌한 봄 워치 스타일링]]></title>
-        <id>https://www.elle.co.kr/article/84494</id>
-        <link href="https://www.elle.co.kr/article/84494"/>
-        <updated>2024-03-03T15:11:52.549Z</updated>
-        <content type="html"><![CDATA[강렬하고 생동감 넘치는 컬러, 스포티하면서 패셔너블한 무드를 가진 G-SHOCK의 뉴 아이템. IT...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤넬 루쥬 알뤼르 벨벳 NUIT BLANCHE로 연출한 봄밤 메이크업]]></title>
-        <id>https://www.elle.co.kr/article/84545</id>
-        <link href="https://www.elle.co.kr/article/84545"/>
-        <updated>2024-03-03T15:11:52.551Z</updated>
-        <content type="html"><![CDATA[달빛 아래 말갛게 빛나는 모델의 얼굴을 물들인 샤넬 뷰티 제품들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 숙소 소파 정보 좀요]]></title>
-        <id>https://www.elle.co.kr/article/84543</id>
-        <link href="https://www.elle.co.kr/article/84543"/>
-        <updated>2024-03-03T15:11:52.553Z</updated>
-        <content type="html"><![CDATA[거실에 놓인 가구 얼만데?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로로피아나의 조용한 속삭임]]></title>
-        <id>https://www.elle.co.kr/article/84541</id>
-        <link href="https://www.elle.co.kr/article/84541"/>
-        <updated>2024-03-01T19:10:23.261Z</updated>
-        <content type="html"><![CDATA[은은하고 조용하게 읊조리는 자연의 색과 감촉, 소리 그리고 우아함에 대한 경의.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발칙하거나, 우아하거나! 로스앤젤레스에 내려앉은 한 지붕 아래 두 호텔]]></title>
-        <id>https://www.elle.co.kr/article/84540</id>
-        <link href="https://www.elle.co.kr/article/84540"/>
-        <updated>2024-03-01T03:15:43.765Z</updated>
-        <content type="html"><![CDATA[모든 것이 일어나는 도시, 그중에서도 지금 이 순간 가장 역동적인 목시 다운타운 로스앤젤레스...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 04 Mar 2024 22:12:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부드럽고 온화한 펜디 레이디]]></title>
+            <link>https://www.elle.co.kr/article/84546</link>
+            <guid>https://www.elle.co.kr/article/84546</guid>
+            <pubDate>Mon, 04 Mar 2024 19:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[고요하고 포근한 침대에서.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[힙한 거울 셀피를 위해! 시선 강탈 폰 케이스 5]]></title>
+            <link>https://www.elle.co.kr/article/84583</link>
+            <guid>https://www.elle.co.kr/article/84583</guid>
+            <pubDate>Mon, 04 Mar 2024 11:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[폰 케이스, 아무거나 하지 마세요~]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[끌로에와 지방시를 이끌던 클레어 웨이트 켈러, 유니클로를 만나다]]></title>
+            <link>https://www.elle.co.kr/article/84572</link>
+            <guid>https://www.elle.co.kr/article/84572</guid>
+            <pubDate>Sun, 03 Mar 2024 15:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[단연 올봄을 지배할 산뜻함.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ITZY와 G-SHOCK이 제안하는 경쾌한 봄 워치 스타일링]]></title>
+            <link>https://www.elle.co.kr/article/84494</link>
+            <guid>https://www.elle.co.kr/article/84494</guid>
+            <pubDate>Sun, 03 Mar 2024 15:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[강렬하고 생동감 넘치는 컬러, 스포티하면서 패셔너블한 무드를 가진 G-SHOCK의 뉴 아이템. IT...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/53b2b3dd-e417-4ea2-9cb3-81843884ee56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤넬 루쥬 알뤼르 벨벳 NUIT BLANCHE로 연출한 봄밤 메이크업]]></title>
+            <link>https://www.elle.co.kr/article/84545</link>
+            <guid>https://www.elle.co.kr/article/84545</guid>
+            <pubDate>Sun, 03 Mar 2024 15:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[달빛 아래 말갛게 빛나는 모델의 얼굴을 물들인 샤넬 뷰티 제품들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/90ef72da-d4e2-4e10-957c-4d7a0b2172c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스 숙소 소파 정보 좀요]]></title>
+            <link>https://www.elle.co.kr/article/84543</link>
+            <guid>https://www.elle.co.kr/article/84543</guid>
+            <pubDate>Sun, 03 Mar 2024 15:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[거실에 놓인 가구 얼만데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/b4e1e057-0a5a-4a47-a69c-edec569db8e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로로피아나의 조용한 속삭임]]></title>
+            <link>https://www.elle.co.kr/article/84541</link>
+            <guid>https://www.elle.co.kr/article/84541</guid>
+            <pubDate>Fri, 01 Mar 2024 19:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[은은하고 조용하게 읊조리는 자연의 색과 감촉, 소리 그리고 우아함에 대한 경의.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/4552293c-c7be-4bb5-8a50-b80654f6fcc7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발칙하거나, 우아하거나! 로스앤젤레스에 내려앉은 한 지붕 아래 두 호텔]]></title>
+            <link>https://www.elle.co.kr/article/84540</link>
+            <guid>https://www.elle.co.kr/article/84540</guid>
+            <pubDate>Fri, 01 Mar 2024 03:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[모든 것이 일어나는 도시, 그중에서도 지금 이 순간 가장 역동적인 목시 다운타운 로스앤젤레스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/fc91943b-32f4-40fa-9cbd-90580d96000c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
