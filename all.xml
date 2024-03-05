@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 05:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 06:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1140,6 +1140,7 @@
             <link>https://www.elle.co.kr/article/84618</link>
             <guid>https://www.elle.co.kr/article/84618</guid>
             <pubDate>Mon, 04 Mar 2024 10:10:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/fa000249-df04-4907-a002-baaf39ec26cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1147,18 +1148,21 @@
             <guid>https://www.elle.co.kr/article/84595</guid>
             <pubDate>Sun, 03 Mar 2024 23:12:04 GMT</pubDate>
             <content:encoded><![CDATA[여자가 여자에게 반한다는 건, 가히 '빅뱅이론'과 맞먹을 만큼 큰 사건이다! 그간 내가 반한 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/f8d3662f-ddf7-4b9c-aac7-75f6ae7fba7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[완전히 달라진 티모시 샬라메X송중기X차은우!? 삼일절 연휴에 볼만한 3월 첫 주 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84571</link>
             <guid>https://www.elle.co.kr/article/84571</guid>
             <pubDate>Fri, 01 Mar 2024 02:23:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/01/3628c739-829b-4acc-a637-130e6985f78b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김수현X김지원 웨딩 사진.jpg (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84505</link>
             <guid>https://www.elle.co.kr/article/84505</guid>
             <pubDate>Tue, 27 Feb 2024 09:12:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/5e5e298f-68b8-4b0e-9011-c29b6e200e19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조정석X신세경 '혐관 로맨스' 결말은? 2회 남은 '세작' 관전포인트 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1355,6 +1359,12 @@
             <content:encoded><![CDATA[지속 가능한 매장 3]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['국제 북극곰의 날'이 사라질지도 모른다?! (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/84491</link>
+            <guid>https://www.elle.co.kr/article/84491</guid>
+            <pubDate>Tue, 05 Mar 2024 06:16:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스] 철학 공부하는 여자 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84489</link>
             <guid>https://www.elle.co.kr/article/84489</guid>
@@ -1397,13 +1407,6 @@
             <link>https://www.elle.co.kr/article/84259</link>
             <guid>https://www.elle.co.kr/article/84259</guid>
             <pubDate>Mon, 26 Feb 2024 08:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[길 위에서 할머니가 운 이유 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/84240</link>
-            <guid>https://www.elle.co.kr/article/84240</guid>
-            <pubDate>Thu, 22 Feb 2024 07:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[할머니는 길 위에서 펑펑 울었다. 그저 택시를 타고 싶었을 뿐인데. '스마트'한 세상이 바보처...]]></content:encoded>
         </item>
     </channel>
 </rss>
