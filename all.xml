@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 02:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 03:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1002,6 +1002,12 @@
             <content:encoded><![CDATA[거실에 놓인 가구 얼만데?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[완전히 달라진 티모시 샬라메X송중기X차은우!? 삼일절 연휴에 볼만한 3월 첫 주 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/84571</link>
+            <guid>https://www.elle.co.kr/article/84571</guid>
+            <pubDate>Fri, 01 Mar 2024 02:23:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[공원 옆 도서관 #도쿄핫플 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84563</link>
             <guid>https://www.elle.co.kr/article/84563</guid>
@@ -1045,12 +1051,6 @@
             <link>https://www.elle.co.kr/article/84477</link>
             <guid>https://www.elle.co.kr/article/84477</guid>
             <pubDate>Mon, 26 Feb 2024 10:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[조정석X신세경 '혐관 로맨스' 결말은? 2회 남은 '세작' 관전포인트 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/84473</link>
-            <guid>https://www.elle.co.kr/article/84473</guid>
-            <pubDate>Mon, 26 Feb 2024 08:16:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1219,23 +1219,34 @@
             <pubDate>Fri, 16 Feb 2024 11:10:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[프리즈 LA에 데뷔한 만 89세 한국 아티스트 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/84638</link>
+            <guid>https://www.elle.co.kr/article/84638</guid>
+            <pubDate>Tue, 05 Mar 2024 03:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/3e7d43eb-9b04-4340-88a8-a246bcb08bd2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[루이 비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시) (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84507</link>
             <guid>https://www.elle.co.kr/article/84507</guid>
             <pubDate>Tue, 27 Feb 2024 10:15:05 GMT</pubDate>
             <content:encoded><![CDATA[힌트: 리움미술관 개인전 주인공]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/3a6fa157-aefd-4593-9fb1-69d4a918e690.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누가 여기 거인들을 풀어 놨어? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84483</link>
             <guid>https://www.elle.co.kr/article/84483</guid>
             <pubDate>Mon, 26 Feb 2024 11:10:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/78949b05-64a9-40a1-8752-3c77c5943ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84477</link>
             <guid>https://www.elle.co.kr/article/84477</guid>
             <pubDate>Mon, 26 Feb 2024 10:14:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/6011fded-deb8-4417-8f65-af905258de37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠데이아가 사이보그로 변신했다? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1296,13 +1307,6 @@
             <link>https://www.elle.co.kr/article/83974</link>
             <guid>https://www.elle.co.kr/article/83974</guid>
             <pubDate>Mon, 29 Jan 2024 07:13:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[집과 예술을 사랑하는 모두가 한자리에! (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/83824</link>
-            <guid>https://www.elle.co.kr/article/83824</guid>
-            <pubDate>Mon, 22 Jan 2024 17:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[일상 속 예술을 향한 열기로 '후끈' 달아오른 &lt;엘르 데코&gt; 전시 오프닝 현장.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 삼일절엔 션과 함께 기부 마라톤? 3·1절 기념 이색 캠페인 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
