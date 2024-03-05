@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 14:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 15:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -949,6 +949,18 @@
             <content:encoded><![CDATA[샤워 오일부터 배스 오일, 바디 오일까지! 사막처럼 건조한 피부엔 오일 세례를.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[김신영 '전국노래자랑' 강제 하차에 제작진도 당황한 이유 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84621</link>
+            <guid>https://www.elle.co.kr/article/84621</guid>
+            <pubDate>Tue, 05 Mar 2024 15:12:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[조정석X신세경 케미 폭발! 엔딩 맛집 '세작' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84618</link>
+            <guid>https://www.elle.co.kr/article/84618</guid>
+            <pubDate>Mon, 04 Mar 2024 10:10:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[에릭X나혜미 아들 돌 잔치 사진.jpg (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84617</link>
             <guid>https://www.elle.co.kr/article/84617</guid>
@@ -987,18 +999,6 @@
             <guid>https://www.elle.co.kr/article/84570</guid>
             <pubDate>Mon, 04 Mar 2024 07:58:53 GMT</pubDate>
             <content:encoded><![CDATA[프랑스로 여행을 다녀 온 이청아가 소개하는 파리 최고의 쇼핑 스폿부터 채정안이 구매한 기념품...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['로얄로더'로 또 주연 맡은 이재욱의 탄탄한 피지컬과 넘치는 체력의 비결은? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84569</link>
-            <guid>https://www.elle.co.kr/article/84569</guid>
-            <pubDate>Sun, 03 Mar 2024 19:09:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메의 가방엔 뭐가 들어있을까? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84568</link>
-            <guid>https://www.elle.co.kr/article/84568</guid>
-            <pubDate>Sun, 03 Mar 2024 15:12:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[완전히 달라진 티모시 샬라메X송중기X차은우!? 삼일절 연휴에 볼만한 3월 첫 주 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1223,7 +1223,6 @@
             <guid>https://www.elle.co.kr/article/84638</guid>
             <pubDate>Tue, 05 Mar 2024 03:14:10 GMT</pubDate>
             <content:encoded><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/3e7d43eb-9b04-4340-88a8-a246bcb08bd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루이 비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시) (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1231,21 +1230,18 @@
             <guid>https://www.elle.co.kr/article/84507</guid>
             <pubDate>Tue, 27 Feb 2024 10:15:05 GMT</pubDate>
             <content:encoded><![CDATA[힌트: 리움미술관 개인전 주인공]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/3a6fa157-aefd-4593-9fb1-69d4a918e690.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누가 여기 거인들을 풀어 놨어? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84483</link>
             <guid>https://www.elle.co.kr/article/84483</guid>
             <pubDate>Mon, 26 Feb 2024 11:10:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/78949b05-64a9-40a1-8752-3c77c5943ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84477</link>
             <guid>https://www.elle.co.kr/article/84477</guid>
             <pubDate>Mon, 26 Feb 2024 10:14:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/6011fded-deb8-4417-8f65-af905258de37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠데이아가 사이보그로 변신했다? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
