@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 04:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 05:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1067,6 +1067,7 @@
             <link>https://www.elle.co.kr/article/84484</link>
             <guid>https://www.elle.co.kr/article/84484</guid>
             <pubDate>Mon, 26 Feb 2024 11:10:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/91053f11-7360-4d4c-b8cf-e1c0987cd35f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화려한 여정, <싱어게인3> Top7의 우리 어느 기쁜날 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1074,6 +1075,7 @@
             <guid>https://www.elle.co.kr/article/84026</guid>
             <pubDate>Wed, 31 Jan 2024 00:52:50 GMT</pubDate>
             <content:encoded><![CDATA[오직 노래를 향한 진심으로 함께 한 일곱 명이 엘르 카메라 앞에 모였다. 그 축제 같은 순간...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/ba99a043-2510-4ff3-b157-6417fbede34c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드레스의 정규 1집 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1138,7 +1140,6 @@
             <link>https://www.elle.co.kr/article/84656</link>
             <guid>https://www.elle.co.kr/article/84656</guid>
             <pubDate>Wed, 06 Mar 2024 00:52:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/dfc7e692-eb59-428e-a3e6-39a770cd4ac0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['패스트 라이브즈' 셀린 송 감독이 데뷔작에 '인연'의 정서를 담은 까닭 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1146,14 +1147,12 @@
             <guid>https://www.elle.co.kr/article/84654</guid>
             <pubDate>Tue, 05 Mar 2024 16:15:56 GMT</pubDate>
             <content:encoded><![CDATA[과거와의 인연으로 살지만, 미래로 나아가야 할 모두를 위한 작품.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/6ef009b0-fc3f-40b8-bc99-dd2827277328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조정석X신세경 케미 폭발! 엔딩 맛집 '세작' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84618</link>
             <guid>https://www.elle.co.kr/article/84618</guid>
             <pubDate>Mon, 04 Mar 2024 10:10:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/fa000249-df04-4907-a002-baaf39ec26cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1161,7 +1160,6 @@
             <guid>https://www.elle.co.kr/article/84595</guid>
             <pubDate>Sun, 03 Mar 2024 23:12:04 GMT</pubDate>
             <content:encoded><![CDATA[여자가 여자에게 반한다는 건, 가히 '빅뱅이론'과 맞먹을 만큼 큰 사건이다! 그간 내가 반한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/f8d3662f-ddf7-4b9c-aac7-75f6ae7fba7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[완전히 달라진 티모시 샬라메X송중기X차은우!? 삼일절 연휴에 볼만한 3월 첫 주 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
