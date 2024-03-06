@@ -1,69 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 09:14:15 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['스카이캐슬' 김보라 깜짝 결혼 발표! 남편 조바른 감독은 누구?]]></title>
-            <link>https://www.elle.co.kr/article/84639</link>
-            <guid>https://www.elle.co.kr/article/84639</guid>
-            <pubDate>Wed, 06 Mar 2024 02:17:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/f1248df7-9e44-499f-ba71-712c9e16b072.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트]]></title>
-            <link>https://www.elle.co.kr/article/84625</link>
-            <guid>https://www.elle.co.kr/article/84625</guid>
-            <pubDate>Wed, 06 Mar 2024 00:51:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/2f586016-81c3-4735-b555-75dba0a303da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야구 밖에 모르는 바보인 줄 알았던 오타니 쇼헤이의 결혼 상대]]></title>
-            <link>https://www.elle.co.kr/article/84623</link>
-            <guid>https://www.elle.co.kr/article/84623</guid>
-            <pubDate>Tue, 05 Mar 2024 16:15:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/e9dad114-7fc8-49ac-be4e-a92db23d1f11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김신영 '전국노래자랑' 강제 하차에 제작진도 당황한 이유]]></title>
-            <link>https://www.elle.co.kr/article/84621</link>
-            <guid>https://www.elle.co.kr/article/84621</guid>
-            <pubDate>Tue, 05 Mar 2024 15:12:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/e43b482f-629c-446e-b4eb-9f56288cf23a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조정석X신세경 케미 폭발! 엔딩 맛집 '세작' 명장면 총정리 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/84618</link>
-            <guid>https://www.elle.co.kr/article/84618</guid>
-            <pubDate>Tue, 05 Mar 2024 15:12:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/fa000249-df04-4907-a002-baaf39ec26cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에릭X나혜미 아들 돌 잔치 사진.jpg]]></title>
-            <link>https://www.elle.co.kr/article/84617</link>
-            <guid>https://www.elle.co.kr/article/84617</guid>
-            <pubDate>Tue, 05 Mar 2024 05:12:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/183d7f0e-e98c-4d0f-8be9-1d494e56dd8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀티가 철철! 소이현 메이크업 HOW TO]]></title>
-            <link>https://www.elle.co.kr/article/84594</link>
-            <guid>https://www.elle.co.kr/article/84594</guid>
-            <pubDate>Mon, 04 Mar 2024 11:59:57 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 &lt;나의 해피엔드&gt; 속 세련된 ‘악녀’ 권윤진의 메이크업이 궁금하다면? 소이현과 메이크업...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/ca639a4e-dc1c-4313-8479-aa9327b0fc44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리한나가 공연비로 84억 원을 받은 행사의 정체는?]]></title>
-            <link>https://www.elle.co.kr/article/84591</link>
-            <guid>https://www.elle.co.kr/article/84591</guid>
-            <pubDate>Mon, 04 Mar 2024 10:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[빌 게이츠, 마크 저커버그, 이방카 트럼프까지 한달음에 달려왔다고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/a0caa4ea-a7e5-441a-a0ae-953463984e8d.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2024-03-06T10:13:48.823Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['패스트 라이브즈' 셀린 송 감독이 데뷔작에 '인연'의 정서를 담은 까닭]]></title>
+        <id>https://www.elle.co.kr/article/84654</id>
+        <link href="https://www.elle.co.kr/article/84654"/>
+        <updated>2024-03-06T10:12:56.057Z</updated>
+        <content type="html"><![CDATA[과거와의 인연으로 살지만, 미래로 나아가야 할 모두를 위한 작품.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[굿 가이, 나인우!]]></title>
+        <id>https://www.elle.co.kr/article/84608</id>
+        <link href="https://www.elle.co.kr/article/84608"/>
+        <updated>2024-03-06T10:12:56.061Z</updated>
+        <content type="html"><![CDATA["시켜만 주세요!" 수더분한 몸짓과 허허실실 웃는 표정, 무엇이든 다 할 수 있다고 말하는 나인...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<웨딩 임파서블>의 두 남자, 문상민과 김도완]]></title>
+        <id>https://www.elle.co.kr/article/84604</id>
+        <link href="https://www.elle.co.kr/article/84604"/>
+        <updated>2024-03-06T10:12:56.068Z</updated>
+        <content type="html"><![CDATA[제대로 시동을 켠 김도완과 문상민. &lt; 웨딩 임파서블 &gt; 로 조우한 이들의 이야기.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스카이캐슬' 김보라 깜짝 결혼 발표! 남편 조바른 감독은 누구?]]></title>
+        <id>https://www.elle.co.kr/article/84639</id>
+        <link href="https://www.elle.co.kr/article/84639"/>
+        <updated>2024-03-06T02:17:48.768Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트]]></title>
+        <id>https://www.elle.co.kr/article/84625</id>
+        <link href="https://www.elle.co.kr/article/84625"/>
+        <updated>2024-03-06T00:51:36.234Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야구 밖에 모르는 바보인 줄 알았던 오타니 쇼헤이의 결혼 상대]]></title>
+        <id>https://www.elle.co.kr/article/84623</id>
+        <link href="https://www.elle.co.kr/article/84623"/>
+        <updated>2024-03-05T16:15:12.413Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김신영 '전국노래자랑' 강제 하차에 제작진도 당황한 이유]]></title>
+        <id>https://www.elle.co.kr/article/84621</id>
+        <link href="https://www.elle.co.kr/article/84621"/>
+        <updated>2024-03-05T15:12:15.861Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조정석X신세경 케미 폭발! 엔딩 맛집 '세작' 명장면 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/84618</id>
+        <link href="https://www.elle.co.kr/article/84618"/>
+        <updated>2024-03-05T15:12:15.868Z</updated>
+    </entry>
+</feed>
