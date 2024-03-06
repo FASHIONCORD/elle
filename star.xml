@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-06T01:45:08.581Z</updated>
+    <updated>2024-03-06T02:18:49.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스카이캐슬' 김보라 깜짝 결혼 발표! 남편 조바른 감독은 누구?]]></title>
+        <id>https://www.elle.co.kr/article/84639</id>
+        <link href="https://www.elle.co.kr/article/84639"/>
+        <updated>2024-03-06T02:17:48.768Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트]]></title>
         <id>https://www.elle.co.kr/article/84625</id>
@@ -48,12 +54,5 @@
         <link href="https://www.elle.co.kr/article/84591"/>
         <updated>2024-03-04T10:09:34.370Z</updated>
         <content type="html"><![CDATA[빌 게이츠, 마크 저커버그, 이방카 트럼프까지 한달음에 달려왔다고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최초 공개! 슬기의 랜선 집들이에 초대합니다]]></title>
-        <id>https://www.elle.co.kr/article/84587</id>
-        <link href="https://www.elle.co.kr/article/84587"/>
-        <updated>2024-03-04T10:09:34.372Z</updated>
-        <content type="html"><![CDATA[유튜브 채널을 오픈한 슬기가 최초 공개하는 홈, 스위트 홈!]]></content>
     </entry>
 </feed>
