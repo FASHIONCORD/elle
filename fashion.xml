@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-06T14:12:39.662Z</updated>
+    <updated>2024-03-06T15:16:20.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리한나가 공연비로 84억 원을 받은 행사의 정체는?]]></title>
+        <id>https://www.elle.co.kr/article/84591</id>
+        <link href="https://www.elle.co.kr/article/84591"/>
+        <updated>2024-03-06T15:14:39.542Z</updated>
+        <content type="html"><![CDATA[빌 게이츠, 마크 저커버그, 이방카 트럼프까지 한달음에 달려왔다고.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 피어난 샤넬]]></title>
         <id>https://www.elle.co.kr/article/84536</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84545"/>
         <updated>2024-03-03T15:11:52.551Z</updated>
         <content type="html"><![CDATA[달빛 아래 말갛게 빛나는 모델의 얼굴을 물들인 샤넬 뷰티 제품들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 숙소 소파 정보 좀요]]></title>
-        <id>https://www.elle.co.kr/article/84543</id>
-        <link href="https://www.elle.co.kr/article/84543"/>
-        <updated>2024-03-03T15:11:52.553Z</updated>
-        <content type="html"><![CDATA[거실에 놓인 가구 얼만데?]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 14:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 15:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리한나가 공연비로 84억 원을 받은 행사의 정체는? (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84591</link>
+            <guid>https://www.elle.co.kr/article/84591</guid>
+            <pubDate>Wed, 06 Mar 2024 15:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[빌 게이츠, 마크 저커버그, 이방카 트럼프까지 한달음에 달려왔다고.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[다시 피어난 샤넬 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84536</link>
             <guid>https://www.elle.co.kr/article/84536</guid>
@@ -886,13 +893,6 @@
             <guid>https://www.elle.co.kr/article/84545</guid>
             <pubDate>Sun, 03 Mar 2024 15:11:52 GMT</pubDate>
             <content:encoded><![CDATA[달빛 아래 말갛게 빛나는 모델의 얼굴을 물들인 샤넬 뷰티 제품들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 숙소 소파 정보 좀요 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84543</link>
-            <guid>https://www.elle.co.kr/article/84543</guid>
-            <pubDate>Sat, 02 Mar 2024 19:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[거실에 놓인 가구 얼만데?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['퍼프'도 레벨 업! (엘르 코리아 ─ 뷰티)]]></title>
@@ -949,6 +949,12 @@
             <pubDate>Tue, 27 Feb 2024 19:10:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['범죄도시4' 개봉일이 확정됐다 (ft. 4대 빌런) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84656</link>
+            <guid>https://www.elle.co.kr/article/84656</guid>
+            <pubDate>Wed, 06 Mar 2024 00:52:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['패스트 라이브즈' 셀린 송 감독이 데뷔작에 '인연'의 정서를 담은 까닭 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84654</link>
             <guid>https://www.elle.co.kr/article/84654</guid>
@@ -992,12 +998,6 @@
             <link>https://www.elle.co.kr/article/84621</link>
             <guid>https://www.elle.co.kr/article/84621</guid>
             <pubDate>Tue, 05 Mar 2024 15:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[조정석X신세경 케미 폭발! 엔딩 맛집 '세작' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84618</link>
-            <guid>https://www.elle.co.kr/article/84618</guid>
-            <pubDate>Mon, 04 Mar 2024 10:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[야구 밖에 모르는 바보인 줄 알았던 오타니 쇼헤이의 결혼 상대 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1223,6 +1223,7 @@
             <guid>https://www.elle.co.kr/article/84638</guid>
             <pubDate>Tue, 05 Mar 2024 03:14:10 GMT</pubDate>
             <content:encoded><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/3e7d43eb-9b04-4340-88a8-a246bcb08bd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루이 비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시) (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1230,18 +1231,21 @@
             <guid>https://www.elle.co.kr/article/84507</guid>
             <pubDate>Tue, 27 Feb 2024 10:15:05 GMT</pubDate>
             <content:encoded><![CDATA[힌트: 리움미술관 개인전 주인공]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/3a6fa157-aefd-4593-9fb1-69d4a918e690.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누가 여기 거인들을 풀어 놨어? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84483</link>
             <guid>https://www.elle.co.kr/article/84483</guid>
             <pubDate>Mon, 26 Feb 2024 11:10:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/78949b05-64a9-40a1-8752-3c77c5943ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84477</link>
             <guid>https://www.elle.co.kr/article/84477</guid>
             <pubDate>Mon, 26 Feb 2024 10:14:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/6011fded-deb8-4417-8f65-af905258de37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠데이아가 사이보그로 변신했다? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1354,6 +1358,12 @@
             <pubDate>Mon, 26 Feb 2024 10:14:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[자본주의 사회에서 바보 되는 법 #돈쓸신잡 139 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/84566</link>
+            <guid>https://www.elle.co.kr/article/84566</guid>
+            <pubDate>Wed, 06 Mar 2024 15:16:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['국제 북극곰의 날'이 사라질지도 모른다?! (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84491</link>
             <guid>https://www.elle.co.kr/article/84491</guid>
@@ -1396,12 +1406,6 @@
             <guid>https://www.elle.co.kr/article/84260</guid>
             <pubDate>Mon, 26 Feb 2024 16:16:36 GMT</pubDate>
             <content:encoded><![CDATA[밸런타인데이, 사랑을 표현하는 방식이 업그레이드되어야 할 때.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고작 1.5도로? 이제 되돌릴 수 없을 지 모르는 기후 위기의 결정적 징후 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/84259</link>
-            <guid>https://www.elle.co.kr/article/84259</guid>
-            <pubDate>Mon, 26 Feb 2024 08:17:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
