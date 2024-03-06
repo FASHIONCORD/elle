@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-05T23:13:06.278Z</updated>
+    <updated>2024-03-06T00:53:05.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트]]></title>
+        <id>https://www.elle.co.kr/article/84625</id>
+        <link href="https://www.elle.co.kr/article/84625"/>
+        <updated>2024-03-06T00:51:36.234Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[야구 밖에 모르는 바보인 줄 알았던 오타니 쇼헤이의 결혼 상대]]></title>
         <id>https://www.elle.co.kr/article/84623</id>
@@ -49,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/84587"/>
         <updated>2024-03-04T10:09:34.372Z</updated>
         <content type="html"><![CDATA[유튜브 채널을 오픈한 슬기가 최초 공개하는 홈, 스위트 홈!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완전히 달라진 티모시 샬라메X송중기X차은우!? 삼일절 연휴에 볼만한 3월 첫 주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/84571</id>
-        <link href="https://www.elle.co.kr/article/84571"/>
-        <updated>2024-03-04T10:09:34.374Z</updated>
     </entry>
 </feed>
