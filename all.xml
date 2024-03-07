@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 05:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 06:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1355,6 +1355,13 @@
             <content:encoded><![CDATA[맛있는 커피 한 잔과 함께 인생샷 100컷 가능한 카페 리스트를 공개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스] 참으로 바보같고 부질없다는 느낌 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/84581</link>
+            <guid>https://www.elle.co.kr/article/84581</guid>
+            <pubDate>Thu, 07 Mar 2024 06:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[하지만 모든 변화는 점진적으로 일어나기에 우리의 고민과 실천은 무엇도 부질없지 않다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[자본주의 사회에서 바보 되는 법 #돈쓸신잡 139 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84566</link>
             <guid>https://www.elle.co.kr/article/84566</guid>
@@ -1396,13 +1403,6 @@
             <link>https://www.elle.co.kr/article/84310</link>
             <guid>https://www.elle.co.kr/article/84310</guid>
             <pubDate>Tue, 27 Feb 2024 00:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 2024년형 발렌타인을 찾습니다 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/84260</link>
-            <guid>https://www.elle.co.kr/article/84260</guid>
-            <pubDate>Mon, 26 Feb 2024 16:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[밸런타인데이, 사랑을 표현하는 방식이 업그레이드되어야 할 때.]]></content:encoded>
         </item>
     </channel>
 </rss>
