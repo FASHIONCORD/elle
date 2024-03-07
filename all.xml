@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 18:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 19:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -949,6 +949,13 @@
             <content:encoded><![CDATA[풍부한 향과 질감으로 살결을 포근하게 안아주는 퍼퓸드 보디 모이스처라이저 7.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[보이넥스트도어는 여전히 출발선에 서 있다 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84616</link>
+            <guid>https://www.elle.co.kr/article/84616</guid>
+            <pubDate>Thu, 07 Mar 2024 19:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[보이넥스트도어가 이른 봄 햇살 앞에 기지개를 켰다. 금방 다시 달릴 준비를 마친 채.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[나란히 개봉한 오스카 후보작! '패스트 라이브즈' vs '가여운 것들' 관전포인트는? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84673</link>
             <guid>https://www.elle.co.kr/article/84673</guid>
@@ -991,13 +998,6 @@
             <guid>https://www.elle.co.kr/article/84608</guid>
             <pubDate>Wed, 06 Mar 2024 10:12:56 GMT</pubDate>
             <content:encoded><![CDATA["시켜만 주세요!" 수더분한 몸짓과 허허실실 웃는 표정, 무엇이든 다 할 수 있다고 말하는 나인...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<웨딩 임파서블>의 두 남자, 문상민과 김도완 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84604</link>
-            <guid>https://www.elle.co.kr/article/84604</guid>
-            <pubDate>Wed, 06 Mar 2024 10:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[제대로 시동을 켠 김도완과 문상민. &lt; 웨딩 임파서블 &gt; 로 조우한 이들의 이야기.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1152,6 +1152,7 @@
             <link>https://www.elle.co.kr/article/84656</link>
             <guid>https://www.elle.co.kr/article/84656</guid>
             <pubDate>Wed, 06 Mar 2024 00:52:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/dfc7e692-eb59-428e-a3e6-39a770cd4ac0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['패스트 라이브즈' 셀린 송 감독이 데뷔작에 '인연'의 정서를 담은 까닭 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1159,6 +1160,7 @@
             <guid>https://www.elle.co.kr/article/84654</guid>
             <pubDate>Tue, 05 Mar 2024 16:15:56 GMT</pubDate>
             <content:encoded><![CDATA[과거와의 인연으로 살지만, 미래로 나아가야 할 모두를 위한 작품.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/6ef009b0-fc3f-40b8-bc99-dd2827277328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조정석X신세경 케미 폭발! 엔딩 맛집 '세작' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -1304,6 +1306,13 @@
             <pubDate>Mon, 29 Jan 2024 07:13:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[쇼핑의 나라, 프랑스로 떠난 두 배우가 전한 쇼핑 tip (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/84570</link>
+            <guid>https://www.elle.co.kr/article/84570</guid>
+            <pubDate>Thu, 07 Mar 2024 19:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스로 여행을 다녀 온 이청아가 소개하는 파리 최고의 쇼핑 스폿부터 채정안이 구매한 기념품...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[하와이로 떠나는 모험 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84064</link>
             <guid>https://www.elle.co.kr/article/84064</guid>
@@ -1346,13 +1355,6 @@
             <link>https://www.elle.co.kr/article/84443</link>
             <guid>https://www.elle.co.kr/article/84443</guid>
             <pubDate>Thu, 29 Feb 2024 09:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[옛날 도쿄로 떠나는 여행 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/84442</link>
-            <guid>https://www.elle.co.kr/article/84442</guid>
-            <pubDate>Tue, 27 Feb 2024 10:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[도쿄의 진짜 얼굴을 볼 수 있는 동네 세 곳.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT (엘르 코리아 ─ 소사이어티)]]></title>
