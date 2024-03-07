@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 08:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 09:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[샤넬 프리미에르의 새로운 얼굴 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84665</link>
+            <guid>https://www.elle.co.kr/article/84665</guid>
+            <pubDate>Thu, 07 Mar 2024 09:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[시대를 초월한 샤넬 프리미에르 워치의 뮤즈, 제니와 함께한 2024 캠페인]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[탐나는 스타일링 공식! 팬츠 더하기 스커트 5 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84655</link>
             <guid>https://www.elle.co.kr/article/84655</guid>
@@ -886,13 +893,6 @@
             <guid>https://www.elle.co.kr/article/84546</guid>
             <pubDate>Mon, 04 Mar 2024 19:10:24 GMT</pubDate>
             <content:encoded><![CDATA[고요하고 포근한 침대에서.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[힙한 거울 셀피를 위해! 시선 강탈 폰 케이스 5 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84583</link>
-            <guid>https://www.elle.co.kr/article/84583</guid>
-            <pubDate>Mon, 04 Mar 2024 11:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[폰 케이스, 아무거나 하지 마세요~]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['퍼프'도 레벨 업! (엘르 코리아 ─ 뷰티)]]></title>
@@ -1304,6 +1304,13 @@
             <pubDate>Mon, 29 Jan 2024 07:13:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[하와이로 떠나는 모험 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/84064</link>
+            <guid>https://www.elle.co.kr/article/84064</guid>
+            <pubDate>Thu, 07 Mar 2024 09:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[압도적 자연경관과 액티비티로 가득한 섬, 하와이로의 초대.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[공원 옆 도서관 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84563</link>
             <guid>https://www.elle.co.kr/article/84563</guid>
@@ -1346,13 +1353,6 @@
             <guid>https://www.elle.co.kr/article/84442</guid>
             <pubDate>Tue, 27 Feb 2024 10:15:13 GMT</pubDate>
             <content:encoded><![CDATA[도쿄의 진짜 얼굴을 볼 수 있는 동네 세 곳.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SNS 업데이트 각! 한예슬, 기은세, 김성은이 인생샷 찍은 카페 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/84431</link>
-            <guid>https://www.elle.co.kr/article/84431</guid>
-            <pubDate>Tue, 27 Feb 2024 09:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[맛있는 커피 한 잔과 함께 인생샷 100컷 가능한 카페 리스트를 공개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 참으로 바보같고 부질없다는 느낌 (엘르 코리아 ─ 소사이어티)]]></title>
