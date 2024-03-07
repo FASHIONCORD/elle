@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-07T14:13:53.021Z</updated>
+    <updated>2024-03-07T15:13:59.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나란히 개봉한 오스카 후보작! '패스트 라이브즈' vs '가여운 것들' 관전포인트는?]]></title>
+        <id>https://www.elle.co.kr/article/84673</id>
+        <link href="https://www.elle.co.kr/article/84673"/>
+        <updated>2024-03-07T15:12:37.172Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[술 마시면서 살 뺀다고? '20kg 감량' 유지어터 박세미의 감량 노하우 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/84672</id>
@@ -49,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/84604"/>
         <updated>2024-03-06T10:12:56.068Z</updated>
         <content type="html"><![CDATA[제대로 시동을 켠 김도완과 문상민. &lt; 웨딩 임파서블 &gt; 로 조우한 이들의 이야기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스카이캐슬' 김보라 깜짝 결혼 발표! 남편 조바른 감독은 누구?]]></title>
-        <id>https://www.elle.co.kr/article/84639</id>
-        <link href="https://www.elle.co.kr/article/84639"/>
-        <updated>2024-03-06T02:17:48.768Z</updated>
     </entry>
 </feed>
