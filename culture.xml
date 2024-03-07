@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 13:13:49 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[야구 밖에 모르는 바보인 줄 알았던 오타니 쇼헤이의 결혼 상대]]></title>
-            <link>https://www.elle.co.kr/article/84623</link>
-            <guid>https://www.elle.co.kr/article/84623</guid>
-            <pubDate>Wed, 06 Mar 2024 10:13:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/e9dad114-7fc8-49ac-be4e-a92db23d1f11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조정석X신세경 케미 폭발! 엔딩 맛집 '세작' 명장면 총정리 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/84618</link>
-            <guid>https://www.elle.co.kr/article/84618</guid>
-            <pubDate>Wed, 06 Mar 2024 00:51:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/fa000249-df04-4907-a002-baaf39ec26cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT]]></title>
-            <link>https://www.elle.co.kr/article/84595</link>
-            <guid>https://www.elle.co.kr/article/84595</guid>
-            <pubDate>Tue, 05 Mar 2024 16:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[여자가 여자에게 반한다는 건, 가히 '빅뱅이론'과 맞먹을 만큼 큰 사건이다! 그간 내가 반한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/f8d3662f-ddf7-4b9c-aac7-75f6ae7fba7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완전히 달라진 티모시 샬라메X송중기X차은우!? 삼일절 연휴에 볼만한 3월 첫 주 #신작이OnAir]]></title>
-            <link>https://www.elle.co.kr/article/84571</link>
-            <guid>https://www.elle.co.kr/article/84571</guid>
-            <pubDate>Tue, 05 Mar 2024 03:13:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/01/3628c739-829b-4acc-a637-130e6985f78b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공원 옆 도서관 #도쿄핫플]]></title>
-            <link>https://www.elle.co.kr/article/84563</link>
-            <guid>https://www.elle.co.kr/article/84563</guid>
-            <pubDate>Mon, 04 Mar 2024 12:00:15 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 볼거리와 히스토리를 간직하고 있는 도쿄의 조금 특별한 도서관을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/01/e350e1db-6388-46b4-a909-fc62f6916e0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 '슈퍼'한 르세라핌 다섯 명이 확장시킨 소녀의 정의]]></title>
-            <link>https://www.elle.co.kr/article/84512</link>
-            <guid>https://www.elle.co.kr/article/84512</guid>
-            <pubDate>Mon, 04 Mar 2024 10:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/72e35eaa-4743-4492-ae07-11f9bf9395c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이 비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시)]]></title>
-            <link>https://www.elle.co.kr/article/84507</link>
-            <guid>https://www.elle.co.kr/article/84507</guid>
-            <pubDate>Mon, 04 Mar 2024 10:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[힌트: 리움미술관 개인전 주인공]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/3a6fa157-aefd-4593-9fb1-69d4a918e690.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김수현X김지원 웨딩 사진.jpg]]></title>
-            <link>https://www.elle.co.kr/article/84505</link>
-            <guid>https://www.elle.co.kr/article/84505</guid>
-            <pubDate>Sun, 03 Mar 2024 23:11:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/5e5e298f-68b8-4b0e-9011-c29b6e200e19.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2024-03-07T14:13:53.006Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트]]></title>
+        <id>https://www.elle.co.kr/article/84625</id>
+        <link href="https://www.elle.co.kr/article/84625"/>
+        <updated>2024-03-07T14:12:58.079Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야구 밖에 모르는 바보인 줄 알았던 오타니 쇼헤이의 결혼 상대]]></title>
+        <id>https://www.elle.co.kr/article/84623</id>
+        <link href="https://www.elle.co.kr/article/84623"/>
+        <updated>2024-03-06T10:13:05.166Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조정석X신세경 케미 폭발! 엔딩 맛집 '세작' 명장면 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/84618</id>
+        <link href="https://www.elle.co.kr/article/84618"/>
+        <updated>2024-03-06T00:51:46.140Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT]]></title>
+        <id>https://www.elle.co.kr/article/84595</id>
+        <link href="https://www.elle.co.kr/article/84595"/>
+        <updated>2024-03-05T16:15:37.218Z</updated>
+        <content type="html"><![CDATA[여자가 여자에게 반한다는 건, 가히 '빅뱅이론'과 맞먹을 만큼 큰 사건이다! 그간 내가 반한 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[완전히 달라진 티모시 샬라메X송중기X차은우!? 삼일절 연휴에 볼만한 3월 첫 주 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/84571</id>
+        <link href="https://www.elle.co.kr/article/84571"/>
+        <updated>2024-03-05T03:13:39.536Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공원 옆 도서관 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/84563</id>
+        <link href="https://www.elle.co.kr/article/84563"/>
+        <updated>2024-03-04T12:00:15.564Z</updated>
+        <content type="html"><![CDATA[다양한 볼거리와 히스토리를 간직하고 있는 도쿄의 조금 특별한 도서관을 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이토록 '슈퍼'한 르세라핌 다섯 명이 확장시킨 소녀의 정의]]></title>
+        <id>https://www.elle.co.kr/article/84512</id>
+        <link href="https://www.elle.co.kr/article/84512"/>
+        <updated>2024-03-04T10:09:42.428Z</updated>
+        <content type="html"><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루이 비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시)]]></title>
+        <id>https://www.elle.co.kr/article/84507</id>
+        <link href="https://www.elle.co.kr/article/84507"/>
+        <updated>2024-03-04T10:09:42.429Z</updated>
+        <content type="html"><![CDATA[힌트: 리움미술관 개인전 주인공]]></content>
+    </entry>
+</feed>
