@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 15:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 16:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -895,6 +895,13 @@
             <content:encoded><![CDATA[강인함과 우아함이 공존하는 디올의 결정적 순간.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[귀티가 철철! 소이현 메이크업 HOW TO (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84594</link>
+            <guid>https://www.elle.co.kr/article/84594</guid>
+            <pubDate>Thu, 07 Mar 2024 16:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 &lt;나의 해피엔드&gt; 속 세련된 ‘악녀’ 권윤진의 메이크업이 궁금하다면? 소이현과 메이크업...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['로얄로더'로 또 주연 맡은 이재욱의 탄탄한 피지컬과 넘치는 체력의 비결은? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/84569</link>
             <guid>https://www.elle.co.kr/article/84569</guid>
@@ -940,13 +947,6 @@
             <guid>https://www.elle.co.kr/article/84450</guid>
             <pubDate>Wed, 28 Feb 2024 15:12:22 GMT</pubDate>
             <content:encoded><![CDATA[풍부한 향과 질감으로 살결을 포근하게 안아주는 퍼퓸드 보디 모이스처라이저 7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내돈내산! 배다해가 셀프 케어를 위해 사용하는 뷰티 아이템은? (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/84451</link>
-            <guid>https://www.elle.co.kr/article/84451</guid>
-            <pubDate>Wed, 28 Feb 2024 09:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[고수의 향기가 물씬 풍기는 배다해의 홈케어를 위한 뷰티 아이템을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나란히 개봉한 오스카 후보작! '패스트 라이브즈' vs '가여운 것들' 관전포인트는? (엘르 코리아 ─ 스타)]]></title>
