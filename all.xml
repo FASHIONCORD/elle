@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 00:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 01:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1304,6 +1304,13 @@
             <pubDate>Mon, 29 Jan 2024 07:13:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[공원 옆 도서관 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/84563</link>
+            <guid>https://www.elle.co.kr/article/84563</guid>
+            <pubDate>Mon, 04 Mar 2024 12:00:15 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 볼거리와 히스토리를 간직하고 있는 도쿄의 조금 특별한 도서관을 소개합니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[런던 공간 디자이너 펠리지아가 사는 1920년대 아파트 #홈터뷰 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84506</link>
             <guid>https://www.elle.co.kr/article/84506</guid>
@@ -1346,12 +1353,6 @@
             <guid>https://www.elle.co.kr/article/84431</guid>
             <pubDate>Tue, 27 Feb 2024 09:13:23 GMT</pubDate>
             <content:encoded><![CDATA[맛있는 커피 한 잔과 함께 인생샷 100컷 가능한 카페 리스트를 공개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 정월 대보름에 찾아야 할 오곡밥 유명 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/84376</link>
-            <guid>https://www.elle.co.kr/article/84376</guid>
-            <pubDate>Mon, 26 Feb 2024 10:14:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[자본주의 사회에서 바보 되는 법 #돈쓸신잡 139 (엘르 코리아 ─ 소사이어티)]]></title>
