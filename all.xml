@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 23:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 00:52:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1355,6 +1355,13 @@
             <pubDate>Thu, 29 Feb 2024 09:13:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[23 마리의 개와 고양이 가족을 찾아보내며 깨닫게 된 것 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/84598</link>
+            <guid>https://www.elle.co.kr/article/84598</guid>
+            <pubDate>Fri, 08 Mar 2024 00:52:09 GMT</pubDate>
+            <content:encoded><![CDATA[일러스트레이터 홍조가 확실하게 깨달은 것. 모든 생명은 똑같이 소중하고 사랑스럽다는 사실!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84595</link>
             <guid>https://www.elle.co.kr/article/84595</guid>
@@ -1397,13 +1404,6 @@
             <link>https://www.elle.co.kr/article/84417</link>
             <guid>https://www.elle.co.kr/article/84417</guid>
             <pubDate>Sun, 03 Mar 2024 15:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 회피형, 네 머릿속을 열고 싶어 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/84299</link>
-            <guid>https://www.elle.co.kr/article/84299</guid>
-            <pubDate>Thu, 29 Feb 2024 11:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[상대방을 위해서, 나는 기꺼이 안정형이 될 수 있을까?]]></content:encoded>
         </item>
     </channel>
 </rss>
