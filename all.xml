@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 12:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 13:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1393,18 +1393,21 @@
             <link>https://www.elle.co.kr/article/84491</link>
             <guid>https://www.elle.co.kr/article/84491</guid>
             <pubDate>Tue, 05 Mar 2024 06:16:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/e262bafb-f21a-4c96-9171-f1fab69fd3d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 철학 공부하는 여자 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84489</link>
             <guid>https://www.elle.co.kr/article/84489</guid>
             <pubDate>Mon, 04 Mar 2024 15:14:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/a2a62d55-2ebc-4652-9e94-3052f852796f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흙탕물과 부유물을 마주하고 나면 생기는 힘 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84476</link>
             <guid>https://www.elle.co.kr/article/84476</guid>
             <pubDate>Sun, 03 Mar 2024 23:12:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/65fdaa08-37b5-4a6f-a6c1-b4c5093ad401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
