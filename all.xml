@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 07:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 08:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1304,6 +1304,13 @@
             <pubDate>Mon, 29 Jan 2024 07:13:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[마케팅 CEO가 AI 아티스트가 되자 벌어진 일 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/84613</link>
+            <guid>https://www.elle.co.kr/article/84613</guid>
+            <pubDate>Fri, 08 Mar 2024 08:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[설산 속 몽클레르, 일본 출신 디올, 섬 위 루이 비통의 공통점]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쇼핑의 나라, 프랑스로 떠난 두 배우가 전한 쇼핑 tip (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84570</link>
             <guid>https://www.elle.co.kr/article/84570</guid>
@@ -1347,12 +1354,6 @@
             <link>https://www.elle.co.kr/article/84447</link>
             <guid>https://www.elle.co.kr/article/84447</guid>
             <pubDate>Thu, 29 Feb 2024 15:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1년에 한 번, 불태워지기 위해 건축되는 사원 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/84443</link>
-            <guid>https://www.elle.co.kr/article/84443</guid>
-            <pubDate>Thu, 29 Feb 2024 09:13:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[23 마리의 개와 고양이 가족을 찾아보내며 깨닫게 된 것 (엘르 코리아 ─ 소사이어티)]]></title>
