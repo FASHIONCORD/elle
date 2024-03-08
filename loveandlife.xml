@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-08T08:16:26.354Z</updated>
+    <updated>2024-03-08T09:13:42.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산수유부터 매화까지! 꽃 피는 3월, 향기로운 봄꽃 축제 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84653</id>
+        <link href="https://www.elle.co.kr/article/84653"/>
+        <updated>2024-03-08T09:13:29.120Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마케팅 CEO가 AI 아티스트가 되자 벌어진 일]]></title>
         <id>https://www.elle.co.kr/article/84613</id>
@@ -50,11 +56,5 @@
         <id>https://www.elle.co.kr/article/84477</id>
         <link href="https://www.elle.co.kr/article/84477"/>
         <updated>2024-02-29T19:10:51.209Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 정월대보름엔 커피와 함께 견과류 즐기기? 디저트 카페 추천 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/84447</id>
-        <link href="https://www.elle.co.kr/article/84447"/>
-        <updated>2024-02-29T15:13:39.586Z</updated>
     </entry>
 </feed>

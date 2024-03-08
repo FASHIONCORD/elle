@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-03-08T08:16:26.355Z</updated>
+    <updated>2024-03-08T09:13:42.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프리즈 LA에 데뷔한 만 89세 한국 아티스트]]></title>
+        <id>https://www.elle.co.kr/article/84638</id>
+        <link href="https://www.elle.co.kr/article/84638"/>
+        <updated>2024-03-08T09:12:45.382Z</updated>
+        <content type="html"><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트]]></title>
         <id>https://www.elle.co.kr/article/84625</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/84512"/>
         <updated>2024-03-04T10:09:42.428Z</updated>
         <content type="html"><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루이 비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시)]]></title>
-        <id>https://www.elle.co.kr/article/84507</id>
-        <link href="https://www.elle.co.kr/article/84507"/>
-        <updated>2024-03-04T10:09:42.429Z</updated>
-        <content type="html"><![CDATA[힌트: 리움미술관 개인전 주인공]]></content>
     </entry>
 </feed>

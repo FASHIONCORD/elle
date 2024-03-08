@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2024-03-08T08:16:26.352Z</updated>
+    <updated>2024-03-08T09:13:42.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민예품의 재발견 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/84715</id>
+        <link href="https://www.elle.co.kr/article/84715"/>
+        <updated>2024-03-08T09:13:21.134Z</updated>
+        <content type="html"><![CDATA[민예품을 판매하는 도쿄의 가게 네 곳.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프리즈 LA에 데뷔한 만 89세 한국 아티스트]]></title>
         <id>https://www.elle.co.kr/article/84638</id>
@@ -84,11 +91,5 @@
         <link href="https://www.elle.co.kr/article/84076"/>
         <updated>2024-02-01T07:13:14.707Z</updated>
         <content type="html"><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 여성 화가 7인의 추상회화를 조명하다 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/83974</id>
-        <link href="https://www.elle.co.kr/article/83974"/>
-        <updated>2024-01-29T07:13:09.363Z</updated>
     </entry>
 </feed>
