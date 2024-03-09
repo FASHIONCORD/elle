@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-09T22:13:55.809Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[로에베가 전하는 조형적인 아름다움]]></title>
-        <id>https://www.elle.co.kr/article/84687</id>
-        <link href="https://www.elle.co.kr/article/84687"/>
-        <updated>2024-03-08T19:10:28.755Z</updated>
-        <content type="html"><![CDATA[강인하면서도 유연하게.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동아시아 무드로 만난 패션]]></title>
-        <id>https://www.elle.co.kr/article/84600</id>
-        <link href="https://www.elle.co.kr/article/84600"/>
-        <updated>2024-03-08T15:12:34.160Z</updated>
-        <content type="html"><![CDATA[격렬하면서도  고요한 움직임으로 담아낸 뉴 시즌의 정제된 키 룩 15.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 스커트 스타일링은 이렇게! #벌룬스커트]]></title>
-        <id>https://www.elle.co.kr/article/84684</id>
-        <link href="https://www.elle.co.kr/article/84684"/>
-        <updated>2024-03-08T15:12:34.167Z</updated>
-        <content type="html"><![CDATA[스커트 어울리는 계절을 위해 추천하는 벌룬 스커트! 풍성하고 통통할수록 예뻐요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루이비통의 그 시계]]></title>
-        <id>https://www.elle.co.kr/article/84657</id>
-        <link href="https://www.elle.co.kr/article/84657"/>
-        <updated>2024-03-07T15:12:17.246Z</updated>
-        <content type="html"><![CDATA[주목해야할 루이비통의 성장형 시계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤넬 프리미에르의 새로운 얼굴]]></title>
-        <id>https://www.elle.co.kr/article/84665</id>
-        <link href="https://www.elle.co.kr/article/84665"/>
-        <updated>2024-03-07T09:10:21.090Z</updated>
-        <content type="html"><![CDATA[시대를 초월한 샤넬 프리미에르 워치의 뮤즈, 제니와 함께한 2024 캠페인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탐나는 스타일링 공식! 팬츠 더하기 스커트 5]]></title>
-        <id>https://www.elle.co.kr/article/84655</id>
-        <link href="https://www.elle.co.kr/article/84655"/>
-        <updated>2024-03-07T05:10:37.024Z</updated>
-        <content type="html"><![CDATA[올봄 주목해야 할 레이어드 트렌드를 짚어드려요! 팬츠 위에 스커트를 더하는 레이어드 기술로 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사복 천재’ 스타들의 트렌치코트 패션 5]]></title>
-        <id>https://www.elle.co.kr/article/84627</id>
-        <link href="https://www.elle.co.kr/article/84627"/>
-        <updated>2024-03-07T04:14:44.339Z</updated>
-        <content type="html"><![CDATA[김나영, 정유미, 차정원 등 트렌치코트 입고 봄을 맞이한 스타들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알렉산더 맥퀸의 새 시대]]></title>
-        <id>https://www.elle.co.kr/article/84619</id>
-        <link href="https://www.elle.co.kr/article/84619"/>
-        <updated>2024-03-06T19:09:03.081Z</updated>
-        <content type="html"><![CDATA[션 맥기르가 알렉산더 맥퀸에 새로운 바람을 일으켰다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 09 Mar 2024 23:13:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로에베가 전하는 조형적인 아름다움]]></title>
+            <link>https://www.elle.co.kr/article/84687</link>
+            <guid>https://www.elle.co.kr/article/84687</guid>
+            <pubDate>Fri, 08 Mar 2024 19:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[강인하면서도 유연하게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/32295f5e-d727-49ac-abd4-a2adf3fa9729.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동아시아 무드로 만난 패션]]></title>
+            <link>https://www.elle.co.kr/article/84600</link>
+            <guid>https://www.elle.co.kr/article/84600</guid>
+            <pubDate>Fri, 08 Mar 2024 15:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[격렬하면서도  고요한 움직임으로 담아낸 뉴 시즌의 정제된 키 룩 15.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/f534bd54-e130-4799-8585-09bced17dc52.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 스커트 스타일링은 이렇게! #벌룬스커트]]></title>
+            <link>https://www.elle.co.kr/article/84684</link>
+            <guid>https://www.elle.co.kr/article/84684</guid>
+            <pubDate>Fri, 08 Mar 2024 15:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[스커트 어울리는 계절을 위해 추천하는 벌룬 스커트! 풍성하고 통통할수록 예뻐요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/7d59402e-0dc1-4887-8d6e-f09690103aa6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루이비통의 그 시계]]></title>
+            <link>https://www.elle.co.kr/article/84657</link>
+            <guid>https://www.elle.co.kr/article/84657</guid>
+            <pubDate>Thu, 07 Mar 2024 15:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[주목해야할 루이비통의 성장형 시계]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/20138bb1-6a04-4499-9ff1-4ef4e451bf82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤넬 프리미에르의 새로운 얼굴]]></title>
+            <link>https://www.elle.co.kr/article/84665</link>
+            <guid>https://www.elle.co.kr/article/84665</guid>
+            <pubDate>Thu, 07 Mar 2024 09:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[시대를 초월한 샤넬 프리미에르 워치의 뮤즈, 제니와 함께한 2024 캠페인]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/c6decf5e-5b05-4195-b5db-3559b5c05d4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탐나는 스타일링 공식! 팬츠 더하기 스커트 5]]></title>
+            <link>https://www.elle.co.kr/article/84655</link>
+            <guid>https://www.elle.co.kr/article/84655</guid>
+            <pubDate>Thu, 07 Mar 2024 05:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[올봄 주목해야 할 레이어드 트렌드를 짚어드려요! 팬츠 위에 스커트를 더하는 레이어드 기술로 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/ecd505ce-25da-4305-a179-67dea4bb149b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘사복 천재’ 스타들의 트렌치코트 패션 5]]></title>
+            <link>https://www.elle.co.kr/article/84627</link>
+            <guid>https://www.elle.co.kr/article/84627</guid>
+            <pubDate>Thu, 07 Mar 2024 04:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[김나영, 정유미, 차정원 등 트렌치코트 입고 봄을 맞이한 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/532351fe-b7f2-4184-aa7f-3b9a6c0fc751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알렉산더 맥퀸의 새 시대]]></title>
+            <link>https://www.elle.co.kr/article/84619</link>
+            <guid>https://www.elle.co.kr/article/84619</guid>
+            <pubDate>Wed, 06 Mar 2024 19:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[션 맥기르가 알렉산더 맥퀸에 새로운 바람을 일으켰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/54f914dd-4606-4a6a-b673-b6466700f6f5.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
