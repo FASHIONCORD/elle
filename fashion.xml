@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-10T15:11:29.203Z</updated>
+    <updated>2024-03-10T16:15:44.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타일리스트 정윤기가 전하는 소식]]></title>
+        <id>https://www.elle.co.kr/article/84702</id>
+        <link href="https://www.elle.co.kr/article/84702"/>
+        <updated>2024-03-10T16:14:17.556Z</updated>
+        <content type="html"><![CDATA[신상 백, 에르메스 오브제 프레젠테이션 그리고 마르니와의 협업 컬렉션까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설원 속 몽클레르 그레노블]]></title>
         <id>https://www.elle.co.kr/article/84693</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84655"/>
         <updated>2024-03-07T05:10:37.024Z</updated>
         <content type="html"><![CDATA[올봄 주목해야 할 레이어드 트렌드를 짚어드려요! 팬츠 위에 스커트를 더하는 레이어드 기술로 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사복 천재’ 스타들의 트렌치코트 패션 5]]></title>
-        <id>https://www.elle.co.kr/article/84627</id>
-        <link href="https://www.elle.co.kr/article/84627"/>
-        <updated>2024-03-07T04:14:44.339Z</updated>
-        <content type="html"><![CDATA[김나영, 정유미, 차정원 등 트렌치코트 입고 봄을 맞이한 스타들.]]></content>
     </entry>
 </feed>

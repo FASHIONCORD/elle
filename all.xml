@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 15:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 16:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스타일리스트 정윤기가 전하는 소식 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84702</link>
+            <guid>https://www.elle.co.kr/article/84702</guid>
+            <pubDate>Sun, 10 Mar 2024 16:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[신상 백, 에르메스 오브제 프레젠테이션 그리고 마르니와의 협업 컬렉션까지.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[설원 속 몽클레르 그레노블 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84693</link>
             <guid>https://www.elle.co.kr/article/84693</guid>
@@ -886,13 +893,6 @@
             <guid>https://www.elle.co.kr/article/84655</guid>
             <pubDate>Thu, 07 Mar 2024 05:10:37 GMT</pubDate>
             <content:encoded><![CDATA[올봄 주목해야 할 레이어드 트렌드를 짚어드려요! 팬츠 위에 스커트를 더하는 레이어드 기술로 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘사복 천재’ 스타들의 트렌치코트 패션 5 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84627</link>
-            <guid>https://www.elle.co.kr/article/84627</guid>
-            <pubDate>Thu, 07 Mar 2024 04:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[김나영, 정유미, 차정원 등 트렌치코트 입고 봄을 맞이한 스타들.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6개월 동안 '이것'만 먹으면서 -7kg? '김남주가 전한 감량 썰.txt #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1393,18 +1393,21 @@
             <guid>https://www.elle.co.kr/article/84581</guid>
             <pubDate>Thu, 07 Mar 2024 06:17:05 GMT</pubDate>
             <content:encoded><![CDATA[하지만 모든 변화는 점진적으로 일어나기에 우리의 고민과 실천은 무엇도 부질없지 않다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/eb2719e9-25d1-460c-b1d3-0fa4fecdda3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자본주의 사회에서 바보 되는 법 #돈쓸신잡 139 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84566</link>
             <guid>https://www.elle.co.kr/article/84566</guid>
             <pubDate>Wed, 06 Mar 2024 15:16:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/e19f184b-523b-4a90-b981-9363858d33a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['국제 북극곰의 날'이 사라질지도 모른다?! (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84491</link>
             <guid>https://www.elle.co.kr/article/84491</guid>
             <pubDate>Tue, 05 Mar 2024 06:16:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/e262bafb-f21a-4c96-9171-f1fab69fd3d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
