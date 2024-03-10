@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 17:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 18:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1233,6 +1233,7 @@
             <guid>https://www.elle.co.kr/article/84638</guid>
             <pubDate>Tue, 05 Mar 2024 03:14:10 GMT</pubDate>
             <content:encoded><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/3e7d43eb-9b04-4340-88a8-a246bcb08bd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루이 비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시) (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1240,6 +1241,7 @@
             <guid>https://www.elle.co.kr/article/84507</guid>
             <pubDate>Tue, 27 Feb 2024 10:15:05 GMT</pubDate>
             <content:encoded><![CDATA[힌트: 리움미술관 개인전 주인공]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/3a6fa157-aefd-4593-9fb1-69d4a918e690.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누가 여기 거인들을 풀어 놨어? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
