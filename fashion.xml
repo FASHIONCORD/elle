@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-11T18:16:06.803Z</updated>
+    <updated>2024-03-11T19:12:24.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙 박스]]></title>
+        <id>https://www.elle.co.kr/article/84736</id>
+        <link href="https://www.elle.co.kr/article/84736"/>
+        <updated>2024-03-11T19:11:02.642Z</updated>
+        <content type="html"><![CDATA[서랍일까? 가구 같은 블랙 박스 백!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매치스패션이 문을 닫는다]]></title>
         <id>https://www.elle.co.kr/article/84734</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84687"/>
         <updated>2024-03-08T19:10:28.755Z</updated>
         <content type="html"><![CDATA[강인하면서도 유연하게.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동아시아 무드로 만난 패션]]></title>
-        <id>https://www.elle.co.kr/article/84600</id>
-        <link href="https://www.elle.co.kr/article/84600"/>
-        <updated>2024-03-08T15:12:34.160Z</updated>
-        <content type="html"><![CDATA[격렬하면서도  고요한 움직임으로 담아낸 뉴 시즌의 정제된 키 룩 15.]]></content>
     </entry>
 </feed>
