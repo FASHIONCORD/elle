@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 19:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 20:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -895,6 +895,13 @@
             <content:encoded><![CDATA[강인하면서도 유연하게.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[풀 마라톤은 시작에 불과? 6일간 달리고 또 내달리는 10명의 울트라 마라토너. (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84708</link>
+            <guid>https://www.elle.co.kr/article/84708</guid>
+            <pubDate>Mon, 11 Mar 2024 20:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[인종과 체형, 나이, 직업은 다르지만 여성의 연대 아래 뭉친 10명의 룰루레몬 앰배서더입니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[감탄 주의! 제품력 '넘사'인 3월의 뷰티 신상 10. (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/84695</link>
             <guid>https://www.elle.co.kr/article/84695</guid>
@@ -940,18 +947,10 @@
             <pubDate>Thu, 07 Mar 2024 15:12:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['퍼프'도 레벨 업! (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/84525</link>
-            <guid>https://www.elle.co.kr/article/84525</guid>
-            <pubDate>Wed, 06 Mar 2024 10:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[촉감도 형태도 달라도 너무 다른 요즘 퍼프들. 내 피부 타입과 얼굴 굴곡에 맞게 골라 쓸 수...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[매진 또 매진! 기안84가 2년 동안 준비한 전시회의 놀라운 관람료 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84717</link>
             <guid>https://www.elle.co.kr/article/84717</guid>
             <pubDate>Mon, 11 Mar 2024 15:13:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/27dd52bc-10e1-449a-80f9-a402584e1526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핫플 of 핫플! 신당동 중앙시장 속 맛집 3 (엘르 코리아 ─ 스타)]]></title>
@@ -959,7 +958,6 @@
             <guid>https://www.elle.co.kr/article/84705</guid>
             <pubDate>Sun, 10 Mar 2024 15:11:22 GMT</pubDate>
             <content:encoded><![CDATA[힙당동에 방문한다면 고민 말고 무조건 이곳으로 향해보세요. 유이를 감동시킨 30년 전통의 이자...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/2ae51e7c-f6ad-4f67-a9bd-dcc571e3781f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꾸밈없는 모습 그대로 찬란한 방은진 (엘르 코리아 ─ 스타)]]></title>
@@ -967,28 +965,24 @@
             <guid>https://www.elle.co.kr/article/84703</guid>
             <pubDate>Mon, 11 Mar 2024 09:14:10 GMT</pubDate>
             <content:encoded><![CDATA[감독과 배우의 경계를 자유로이 넘나드는 그녀가 연극 &lt;비Bea&gt;의 캐서린으로 돌아왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/eba52bff-a5d5-426c-ae44-f1b8f3f77c94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['MZ무당 봉길' 이도현이 연기할 때 '화림 선생님'만 생각한 이유 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84700</link>
             <guid>https://www.elle.co.kr/article/84700</guid>
             <pubDate>Thu, 07 Mar 2024 14:13:17 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/619410a4-e979-42de-b21b-ce69219e940f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김연아 남편 고우림, 군 복무 중 근황 업데이트 모음.zip (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84699</link>
             <guid>https://www.elle.co.kr/article/84699</guid>
             <pubDate>Mon, 11 Mar 2024 03:15:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/b49ca012-1e8f-4197-80d8-df3e99baade7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6개월 동안 '이것'만 먹으면서 -7kg? '김남주가 전한 감량 썰.txt #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84698</link>
             <guid>https://www.elle.co.kr/article/84698</guid>
             <pubDate>Fri, 08 Mar 2024 10:14:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/211bc111-258b-4d62-8f00-19892d0e3166.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보이넥스트도어는 여전히 출발선에 서 있다 (엘르 코리아 ─ 스타)]]></title>
@@ -996,14 +990,12 @@
             <guid>https://www.elle.co.kr/article/84616</guid>
             <pubDate>Thu, 07 Mar 2024 19:09:47 GMT</pubDate>
             <content:encoded><![CDATA[보이넥스트도어가 이른 봄 햇살 앞에 기지개를 켰다. 금방 다시 달릴 준비를 마친 채.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/c7bb5cb1-7044-45a3-a592-e11d6905f3dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나란히 개봉한 오스카 후보작! '패스트 라이브즈' vs '가여운 것들' 관전포인트는? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84673</link>
             <guid>https://www.elle.co.kr/article/84673</guid>
             <pubDate>Wed, 06 Mar 2024 10:13:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/2f6e49a8-c324-4022-82ac-dde2dc95a549.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민예품의 재발견 #도쿄핫플 (엘르 코리아 ─ 컬쳐)]]></title>
