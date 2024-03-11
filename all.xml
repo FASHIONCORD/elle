@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 04:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 05:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빌드 업! (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84722</link>
+            <guid>https://www.elle.co.kr/article/84722</guid>
+            <pubDate>Mon, 11 Mar 2024 05:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[더할 수록 배가 되는 강렬함.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[조용한 아름다움의 방법 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84710</link>
             <guid>https://www.elle.co.kr/article/84710</guid>
@@ -886,13 +893,6 @@
             <guid>https://www.elle.co.kr/article/84657</guid>
             <pubDate>Thu, 07 Mar 2024 15:12:17 GMT</pubDate>
             <content:encoded><![CDATA[주목해야할 루이비통의 성장형 시계]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 프리미에르의 새로운 얼굴 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84665</link>
-            <guid>https://www.elle.co.kr/article/84665</guid>
-            <pubDate>Thu, 07 Mar 2024 09:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[시대를 초월한 샤넬 프리미에르 워치의 뮤즈, 제니와 함께한 2024 캠페인]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6개월 동안 '이것'만 먹으면서 -7kg? '김남주가 전한 감량 썰.txt #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
