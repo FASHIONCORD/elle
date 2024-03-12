@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 07:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 08:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[짜요짜요, 우븐 백 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84726</link>
+            <guid>https://www.elle.co.kr/article/84726</guid>
+            <pubDate>Tue, 12 Mar 2024 08:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[엮이고 엮인 관계.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘사이즈 업’ 해주세요! 오버사이즈 재킷 스타일링 5 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84739</link>
             <guid>https://www.elle.co.kr/article/84739</guid>
@@ -886,13 +893,6 @@
             <guid>https://www.elle.co.kr/article/84702</guid>
             <pubDate>Sun, 10 Mar 2024 16:14:17 GMT</pubDate>
             <content:encoded><![CDATA[신상 백, 에르메스 오브제 프레젠테이션 그리고 마르니와의 협업 컬렉션까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[설원 속 몽클레르 그레노블 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84693</link>
-            <guid>https://www.elle.co.kr/article/84693</guid>
-            <pubDate>Sun, 10 Mar 2024 15:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[시종일관 화려한 클라이맥스가 펼쳐진 몽클레르 그레노블의 설산.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[풀 마라톤은 시작에 불과? 6일간 달리고 또 내달리는 10명의 울트라 마라토너. (엘르 코리아 ─ 뷰티)]]></title>
@@ -947,6 +947,12 @@
             <pubDate>Thu, 07 Mar 2024 15:12:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[송지은X박위가 공개 열애 3개월 만에 발표한 깜짝 소식 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84751</link>
+            <guid>https://www.elle.co.kr/article/84751</guid>
+            <pubDate>Tue, 12 Mar 2024 08:14:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84742</link>
             <guid>https://www.elle.co.kr/article/84742</guid>
@@ -991,10 +997,11 @@
             <pubDate>Mon, 11 Mar 2024 03:15:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[6개월 동안 '이것'만 먹으면서 -7kg? '김남주가 전한 감량 썰.txt #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84698</link>
-            <guid>https://www.elle.co.kr/article/84698</guid>
-            <pubDate>Fri, 08 Mar 2024 10:14:48 GMT</pubDate>
+            <title><![CDATA[그림자 속의 빛나는 여성들 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/84723</link>
+            <guid>https://www.elle.co.kr/article/84723</guid>
+            <pubDate>Fri, 08 Mar 2024 15:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[기나긴 그림자, 그 안에서 고유한 세계를 구축한 세 명의 여성 아티스트.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[민예품의 재발견 #도쿄핫플 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1040,12 +1047,6 @@
             <link>https://www.elle.co.kr/article/84625</link>
             <guid>https://www.elle.co.kr/article/84625</guid>
             <pubDate>Mon, 04 Mar 2024 12:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[야구 밖에 모르는 바보인 줄 알았던 오타니 쇼헤이의 결혼 상대 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/84623</link>
-            <guid>https://www.elle.co.kr/article/84623</guid>
-            <pubDate>Tue, 05 Mar 2024 16:15:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1136,28 +1137,24 @@
             <link>https://www.elle.co.kr/article/84755</link>
             <guid>https://www.elle.co.kr/article/84755</guid>
             <pubDate>Mon, 11 Mar 2024 15:14:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/5277c019-6027-4341-abf2-88cd0512c65f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑꾼 로다주가 첫 오스카 남우조연상 받고 한 말 (ft. 아카데미 수상 내역) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84740</link>
             <guid>https://www.elle.co.kr/article/84740</guid>
             <pubDate>Mon, 11 Mar 2024 03:16:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/e239159c-e133-43e9-a883-c43a96e82d54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['MZ무당 봉길' 이도현이 연기할 때 '화림 선생님'만 생각한 이유 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84700</link>
             <guid>https://www.elle.co.kr/article/84700</guid>
             <pubDate>Thu, 07 Mar 2024 14:13:17 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/619410a4-e979-42de-b21b-ce69219e940f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나란히 개봉한 오스카 후보작! '패스트 라이브즈' vs '가여운 것들' 관전포인트는? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84673</link>
             <guid>https://www.elle.co.kr/article/84673</guid>
             <pubDate>Wed, 06 Mar 2024 10:13:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/2f6e49a8-c324-4022-82ac-dde2dc95a549.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['범죄도시4' 개봉일이 확정됐다 (ft. 4대 빌런) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
