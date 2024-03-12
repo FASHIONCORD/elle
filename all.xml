@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 05:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 06:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -947,6 +947,12 @@
             <pubDate>Thu, 07 Mar 2024 15:12:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84742</link>
+            <guid>https://www.elle.co.kr/article/84742</guid>
+            <pubDate>Mon, 11 Mar 2024 03:15:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[사랑꾼 로다주가 첫 오스카 남우조연상 받고 한 말 (ft. 아카데미 수상 내역) (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84740</link>
             <guid>https://www.elle.co.kr/article/84740</guid>
@@ -989,13 +995,6 @@
             <link>https://www.elle.co.kr/article/84698</link>
             <guid>https://www.elle.co.kr/article/84698</guid>
             <pubDate>Fri, 08 Mar 2024 10:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[보이넥스트도어는 여전히 출발선에 서 있다 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84616</link>
-            <guid>https://www.elle.co.kr/article/84616</guid>
-            <pubDate>Thu, 07 Mar 2024 19:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[보이넥스트도어가 이른 봄 햇살 앞에 기지개를 켰다. 금방 다시 달릴 준비를 마친 채.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[민예품의 재발견 #도쿄핫플 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1041,14 +1040,12 @@
             <link>https://www.elle.co.kr/article/84625</link>
             <guid>https://www.elle.co.kr/article/84625</guid>
             <pubDate>Mon, 04 Mar 2024 12:00:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/2f586016-81c3-4735-b555-75dba0a303da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야구 밖에 모르는 바보인 줄 알았던 오타니 쇼헤이의 결혼 상대 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84623</link>
             <guid>https://www.elle.co.kr/article/84623</guid>
             <pubDate>Tue, 05 Mar 2024 16:15:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/e9dad114-7fc8-49ac-be4e-a92db23d1f11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1406,6 +1403,7 @@
             <link>https://www.elle.co.kr/article/84491</link>
             <guid>https://www.elle.co.kr/article/84491</guid>
             <pubDate>Tue, 05 Mar 2024 06:16:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/e262bafb-f21a-4c96-9171-f1fab69fd3d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
