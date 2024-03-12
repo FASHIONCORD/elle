@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 01:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 02:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1345,6 +1345,7 @@
             <guid>https://www.elle.co.kr/article/84613</guid>
             <pubDate>Fri, 08 Mar 2024 08:16:18 GMT</pubDate>
             <content:encoded><![CDATA[설산 속 몽클레르, 일본 출신 디올, 섬 위 루이 비통의 공통점]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/523cac64-42fb-4a71-a0a5-f093ba4a1a4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑의 나라, 프랑스로 떠난 두 배우가 전한 쇼핑 tip (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1352,6 +1353,7 @@
             <guid>https://www.elle.co.kr/article/84570</guid>
             <pubDate>Thu, 07 Mar 2024 19:10:50 GMT</pubDate>
             <content:encoded><![CDATA[프랑스로 여행을 다녀 온 이청아가 소개하는 파리 최고의 쇼핑 스폿부터 채정안이 구매한 기념품...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/01/a4dab493-10df-45bb-aa1b-99cd35b870b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하루만 돈을 맡겨도 이자가 들어온다고요? #돈쓸신잡 140 (엘르 코리아 ─ 소사이어티)]]></title>
