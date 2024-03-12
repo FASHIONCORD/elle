@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-12T08:16:19.305Z</updated>
+    <updated>2024-03-12T09:17:02.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이애미에서 먼저 만난 핫한 시계]]></title>
+        <id>https://www.elle.co.kr/article/84752</id>
+        <link href="https://www.elle.co.kr/article/84752"/>
+        <updated>2024-03-12T09:15:37.908Z</updated>
+        <content type="html"><![CDATA[더욱 풍성한 라인업으로 찾아온 'LVMH 워치 워크 2024'에 다녀온 후기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[짜요짜요, 우븐 백]]></title>
         <id>https://www.elle.co.kr/article/84726</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84710"/>
         <updated>2024-03-11T01:44:10.566Z</updated>
         <content type="html"><![CDATA[과감한 색은 중립적인 색채로 변했고, 대담한 로고는 슬그머니 자취를 감췄다. 그러나 2024년의 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타일리스트 정윤기가 전하는 소식]]></title>
-        <id>https://www.elle.co.kr/article/84702</id>
-        <link href="https://www.elle.co.kr/article/84702"/>
-        <updated>2024-03-10T16:14:17.556Z</updated>
-        <content type="html"><![CDATA[신상 백, 에르메스 오브제 프레젠테이션 그리고 마르니와의 협업 컬렉션까지.]]></content>
     </entry>
 </feed>
