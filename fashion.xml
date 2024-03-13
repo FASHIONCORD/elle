@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-13T15:14:42.055Z</updated>
+    <updated>2024-03-13T16:15:52.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안락의자에서 백일몽을 꾸는 아티스트]]></title>
+        <id>https://www.elle.co.kr/article/84779</id>
+        <link href="https://www.elle.co.kr/article/84779"/>
+        <updated>2024-03-13T16:14:21.104Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치렁치렁 이어 커프를 한 소녀]]></title>
         <id>https://www.elle.co.kr/article/84767</id>
@@ -53,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/84739"/>
         <updated>2024-03-12T03:15:04.453Z</updated>
         <content type="html"><![CDATA[두아 리파, 예리, 금새록 등 스타들이 보여준 클 수록 좋은 이번 시즌 재킷 연출법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙 박스]]></title>
-        <id>https://www.elle.co.kr/article/84736</id>
-        <link href="https://www.elle.co.kr/article/84736"/>
-        <updated>2024-03-11T19:11:02.642Z</updated>
-        <content type="html"><![CDATA[서랍일까? 가구 같은 블랙 박스 백!]]></content>
     </entry>
 </feed>
