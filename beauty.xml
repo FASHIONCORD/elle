@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-03-13T18:15:42.427Z</updated>
+    <updated>2024-03-13T19:12:24.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문라이트 파워!]]></title>
+        <id>https://www.elle.co.kr/article/84729</id>
+        <link href="https://www.elle.co.kr/article/84729"/>
+        <updated>2024-03-13T19:10:57.646Z</updated>
+        <content type="html"><![CDATA[달빛을 드리운 피부.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힙하다 힙해! 선케어 브랜드 Te'(테) 디렉터는 여기에서 영감을 얻는다?]]></title>
         <id>https://www.elle.co.kr/article/84704</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/84607"/>
         <updated>2024-03-08T02:19:07.574Z</updated>
         <content type="html"><![CDATA[기온보다 먼저 치솟는다는 자외선량? 지금이야말로 더 막강해진 ‘자차’ 챙길 때!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀티가 철철! 소이현 메이크업 HOW TO]]></title>
-        <id>https://www.elle.co.kr/article/84594</id>
-        <link href="https://www.elle.co.kr/article/84594"/>
-        <updated>2024-03-07T16:14:11.020Z</updated>
-        <content type="html"><![CDATA[드라마 &lt;나의 해피엔드&gt; 속 세련된 ‘악녀’ 권윤진의 메이크업이 궁금하다면? 소이현과 메이크업...]]></content>
     </entry>
 </feed>
