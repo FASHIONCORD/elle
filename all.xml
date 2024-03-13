@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 21:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 22:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1344,12 +1344,14 @@
             <link>https://www.elle.co.kr/article/84685</link>
             <guid>https://www.elle.co.kr/article/84685</guid>
             <pubDate>Sat, 09 Mar 2024 15:11:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/250b787f-de08-4784-a31a-9cfaeb2e9801.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산수유부터 매화까지! 꽃 피는 3월, 향기로운 봄꽃 축제 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84653</link>
             <guid>https://www.elle.co.kr/article/84653</guid>
             <pubDate>Fri, 08 Mar 2024 09:13:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/5980aa8d-6883-4fc1-8889-32b923a55d72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하루만 돈을 맡겨도 이자가 들어온다고요? #돈쓸신잡 140 (엘르 코리아 ─ 소사이어티)]]></title>
