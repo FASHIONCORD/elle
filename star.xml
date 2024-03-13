@@ -1,69 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 10:14:45 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[안재홍X류승룡이 인생네컷으로 소환한 아이유X뷔]]></title>
-            <link>https://www.elle.co.kr/article/84756</link>
-            <guid>https://www.elle.co.kr/article/84756</guid>
-            <pubDate>Wed, 13 Mar 2024 10:13:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/d011605b-4203-4ae7-9bd6-0df273b1ed43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀주대첩으로 용두용미 엔딩 낸 '고려거란전쟁' 명장면 총정리 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/84755</link>
-            <guid>https://www.elle.co.kr/article/84755</guid>
-            <pubDate>Tue, 12 Mar 2024 15:12:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/5277c019-6027-4341-abf2-88cd0512c65f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송지은X박위가 공개 열애 3개월 만에 발표한 깜짝 소식]]></title>
-            <link>https://www.elle.co.kr/article/84751</link>
-            <guid>https://www.elle.co.kr/article/84751</guid>
-            <pubDate>Tue, 12 Mar 2024 08:14:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/f7a62b88-f467-4c31-aa11-f0ffa63a3f60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 콘서트에 박보검의 등장이라]]></title>
-            <link>https://www.elle.co.kr/article/84742</link>
-            <guid>https://www.elle.co.kr/article/84742</guid>
-            <pubDate>Tue, 12 Mar 2024 06:15:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/6829e05c-7770-49da-b05b-2b8a7f8cc7e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑꾼 로다주가 첫 오스카 남우조연상 받고 한 말 (ft. 아카데미 수상 내역)]]></title>
-            <link>https://www.elle.co.kr/article/84740</link>
-            <guid>https://www.elle.co.kr/article/84740</guid>
-            <pubDate>Tue, 12 Mar 2024 03:15:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/e239159c-e133-43e9-a883-c43a96e82d54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매진 또 매진! 기안84가 2년 동안 준비한 전시회의 놀라운 관람료]]></title>
-            <link>https://www.elle.co.kr/article/84717</link>
-            <guid>https://www.elle.co.kr/article/84717</guid>
-            <pubDate>Mon, 11 Mar 2024 15:13:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/27dd52bc-10e1-449a-80f9-a402584e1526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫플 of 핫플! 신당동 중앙시장 속 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/84705</link>
-            <guid>https://www.elle.co.kr/article/84705</guid>
-            <pubDate>Mon, 11 Mar 2024 15:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[힙당동에 방문한다면 고민 말고 무조건 이곳으로 향해보세요. 유이를 감동시킨 30년 전통의 이자...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/2ae51e7c-f6ad-4f67-a9bd-dcc571e3781f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꾸밈없는 모습 그대로 찬란한 방은진]]></title>
-            <link>https://www.elle.co.kr/article/84703</link>
-            <guid>https://www.elle.co.kr/article/84703</guid>
-            <pubDate>Mon, 11 Mar 2024 09:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[감독과 배우의 경계를 자유로이 넘나드는 그녀가 연극 &lt;비Bea&gt;의 캐서린으로 돌아왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/eba52bff-a5d5-426c-ae44-f1b8f3f77c94.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2024-03-13T11:14:15.563Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안재홍X류승룡이 인생네컷으로 소환한 아이유X뷔]]></title>
+        <id>https://www.elle.co.kr/article/84756</id>
+        <link href="https://www.elle.co.kr/article/84756"/>
+        <updated>2024-03-13T10:13:42.094Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀주대첩으로 용두용미 엔딩 낸 '고려거란전쟁' 명장면 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/84755</id>
+        <link href="https://www.elle.co.kr/article/84755"/>
+        <updated>2024-03-12T15:12:52.307Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송지은X박위가 공개 열애 3개월 만에 발표한 깜짝 소식]]></title>
+        <id>https://www.elle.co.kr/article/84751</id>
+        <link href="https://www.elle.co.kr/article/84751"/>
+        <updated>2024-03-12T08:14:52.773Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이유 콘서트에 박보검의 등장이라]]></title>
+        <id>https://www.elle.co.kr/article/84742</id>
+        <link href="https://www.elle.co.kr/article/84742"/>
+        <updated>2024-03-12T06:15:43.897Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑꾼 로다주가 첫 오스카 남우조연상 받고 한 말 (ft. 아카데미 수상 내역)]]></title>
+        <id>https://www.elle.co.kr/article/84740</id>
+        <link href="https://www.elle.co.kr/article/84740"/>
+        <updated>2024-03-12T03:15:21.661Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매진 또 매진! 기안84가 2년 동안 준비한 전시회의 놀라운 관람료]]></title>
+        <id>https://www.elle.co.kr/article/84717</id>
+        <link href="https://www.elle.co.kr/article/84717"/>
+        <updated>2024-03-11T15:13:36.740Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핫플 of 핫플! 신당동 중앙시장 속 맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/84705</id>
+        <link href="https://www.elle.co.kr/article/84705"/>
+        <updated>2024-03-11T15:13:36.742Z</updated>
+        <content type="html"><![CDATA[힙당동에 방문한다면 고민 말고 무조건 이곳으로 향해보세요. 유이를 감동시킨 30년 전통의 이자...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꾸밈없는 모습 그대로 찬란한 방은진]]></title>
+        <id>https://www.elle.co.kr/article/84703</id>
+        <link href="https://www.elle.co.kr/article/84703"/>
+        <updated>2024-03-11T09:14:10.324Z</updated>
+        <content type="html"><![CDATA[감독과 배우의 경계를 자유로이 넘나드는 그녀가 연극 &lt;비Bea&gt;의 캐서린으로 돌아왔다.]]></content>
+    </entry>
+</feed>
