@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 14:13:26 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[손끝에 피어난 봄, 네일 아트 아이디어 5]]></title>
-            <link>https://www.elle.co.kr/article/84759</link>
-            <guid>https://www.elle.co.kr/article/84759</guid>
-            <pubDate>Thu, 14 Mar 2024 06:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 계절, 새로운 네일! 아이유, 르세라핌 은채, 아이린 등 스타들이 선보인 네일 디자인을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/3293671a-4410-4f18-af46-9ef43bbb0279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄에는 파스텔 국룰! 싱그러운 파스텔 네일 5]]></title>
-            <link>https://www.elle.co.kr/article/84757</link>
-            <guid>https://www.elle.co.kr/article/84757</guid>
-            <pubDate>Thu, 14 Mar 2024 03:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[알록달록! 파스텔컬러가 선사하는 싱그러운 봄기운. 올봄엔 다채로운 파스텔 톤의 네일 래커로 손...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/a2b1d4c4-157c-4e34-a085-e96e9786efd3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 자요]]></title>
-            <link>https://www.elle.co.kr/article/84730</link>
-            <guid>https://www.elle.co.kr/article/84730</guid>
-            <pubDate>Thu, 14 Mar 2024 03:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[피부 컨디션 끌올하는 오버나이트 마스크 6]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/10/908540bf-c4c9-43d6-a2b0-cc8aabeb6e86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문라이트 파워!]]></title>
-            <link>https://www.elle.co.kr/article/84729</link>
-            <guid>https://www.elle.co.kr/article/84729</guid>
-            <pubDate>Wed, 13 Mar 2024 19:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[달빛을 드리운 피부.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/10/31fd4a0f-ac7f-41d3-b1c7-f95b867bccc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙하다 힙해! 선케어 브랜드 Te'(테) 디렉터는 여기에서 영감을 얻는다?]]></title>
-            <link>https://www.elle.co.kr/article/84704</link>
-            <guid>https://www.elle.co.kr/article/84704</guid>
-            <pubDate>Wed, 13 Mar 2024 12:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[트렌디한 감각으로 주목받는 K뷰티 브랜드를 파헤치는 &lt;엘르&gt;의 무드보드 칼럼! 이번에 &lt;엘르&gt;가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/09/52074370-2979-4e5c-b07d-6aaa3e63b620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풀 마라톤은 시작에 불과? 6일간 달리고 또 내달리는 10명의 울트라 마라토너.]]></title>
-            <link>https://www.elle.co.kr/article/84708</link>
-            <guid>https://www.elle.co.kr/article/84708</guid>
-            <pubDate>Mon, 11 Mar 2024 20:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[인종과 체형, 나이, 직업은 다르지만 여성의 연대 아래 뭉친 10명의 룰루레몬 앰배서더입니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/6189db59-e197-4293-b5e1-be0dd70020c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감탄 주의! 제품력 '넘사'인 3월의 뷰티 신상 10.]]></title>
-            <link>https://www.elle.co.kr/article/84695</link>
-            <guid>https://www.elle.co.kr/article/84695</guid>
-            <pubDate>Mon, 11 Mar 2024 18:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[감각적인 디자인과 남다른 제품력. 우리 두 눈과 피부에 황홀감을 선사해 줄 3월의 뷰티 신상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/6463a6e4-9fc6-4ff3-aa28-48a0192fc391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6개월 동안 '이것'만 먹으면서 -7kg? '김남주가 전한 감량 썰.txt #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/84698</link>
-            <guid>https://www.elle.co.kr/article/84698</guid>
-            <pubDate>Sat, 09 Mar 2024 15:10:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/211bc111-258b-4d62-8f00-19892d0e3166.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/beauty</id>
+    <title>엘르 코리아 ─ 뷰티</title>
+    <updated>2024-03-14T15:14:11.251Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손끝에 피어난 봄, 네일 아트 아이디어 5]]></title>
+        <id>https://www.elle.co.kr/article/84759</id>
+        <link href="https://www.elle.co.kr/article/84759"/>
+        <updated>2024-03-14T06:15:22.787Z</updated>
+        <content type="html"><![CDATA[새로운 계절, 새로운 네일! 아이유, 르세라핌 은채, 아이린 등 스타들이 선보인 네일 디자인을 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄에는 파스텔 국룰! 싱그러운 파스텔 네일 5]]></title>
+        <id>https://www.elle.co.kr/article/84757</id>
+        <link href="https://www.elle.co.kr/article/84757"/>
+        <updated>2024-03-14T03:13:40.119Z</updated>
+        <content type="html"><![CDATA[알록달록! 파스텔컬러가 선사하는 싱그러운 봄기운. 올봄엔 다채로운 파스텔 톤의 네일 래커로 손...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 자요]]></title>
+        <id>https://www.elle.co.kr/article/84730</id>
+        <link href="https://www.elle.co.kr/article/84730"/>
+        <updated>2024-03-14T03:13:40.121Z</updated>
+        <content type="html"><![CDATA[피부 컨디션 끌올하는 오버나이트 마스크 6]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문라이트 파워!]]></title>
+        <id>https://www.elle.co.kr/article/84729</id>
+        <link href="https://www.elle.co.kr/article/84729"/>
+        <updated>2024-03-13T19:10:57.646Z</updated>
+        <content type="html"><![CDATA[달빛을 드리운 피부.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힙하다 힙해! 선케어 브랜드 Te'(테) 디렉터는 여기에서 영감을 얻는다?]]></title>
+        <id>https://www.elle.co.kr/article/84704</id>
+        <link href="https://www.elle.co.kr/article/84704"/>
+        <updated>2024-03-13T12:21:53.380Z</updated>
+        <content type="html"><![CDATA[트렌디한 감각으로 주목받는 K뷰티 브랜드를 파헤치는 &lt;엘르&gt;의 무드보드 칼럼! 이번에 &lt;엘르&gt;가 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[풀 마라톤은 시작에 불과? 6일간 달리고 또 내달리는 10명의 울트라 마라토너.]]></title>
+        <id>https://www.elle.co.kr/article/84708</id>
+        <link href="https://www.elle.co.kr/article/84708"/>
+        <updated>2024-03-11T20:14:10.149Z</updated>
+        <content type="html"><![CDATA[인종과 체형, 나이, 직업은 다르지만 여성의 연대 아래 뭉친 10명의 룰루레몬 앰배서더입니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감탄 주의! 제품력 '넘사'인 3월의 뷰티 신상 10.]]></title>
+        <id>https://www.elle.co.kr/article/84695</id>
+        <link href="https://www.elle.co.kr/article/84695"/>
+        <updated>2024-03-11T18:14:48.664Z</updated>
+        <content type="html"><![CDATA[감각적인 디자인과 남다른 제품력. 우리 두 눈과 피부에 황홀감을 선사해 줄 3월의 뷰티 신상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6개월 동안 '이것'만 먹으면서 -7kg? '김남주가 전한 감량 썰.txt #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84698</id>
+        <link href="https://www.elle.co.kr/article/84698"/>
+        <updated>2024-03-09T15:10:56.846Z</updated>
+    </entry>
+</feed>
