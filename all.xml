@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 01:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 02:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -952,24 +952,28 @@
             <guid>https://www.elle.co.kr/article/84805</guid>
             <pubDate>Wed, 13 Mar 2024 23:12:47 GMT</pubDate>
             <content:encoded><![CDATA[한중 대표 미인의 만남이라니, 장관이네요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/13/78c0adce-e3ba-4bc6-9d72-245ba64a31c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지성X이보영 럽스타그램.jpg (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84785</link>
             <guid>https://www.elle.co.kr/article/84785</guid>
             <pubDate>Wed, 13 Mar 2024 19:11:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/ea1832aa-c1ca-4e7b-a016-d5812078e78b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공간을 그리는 아티스트가 추천하는 봄 산책 코스는? 반지수의 #취향일지도 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84768</link>
             <guid>https://www.elle.co.kr/article/84768</guid>
             <pubDate>Wed, 13 Mar 2024 12:22:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/67c1b0fa-1224-4263-b7c5-1aeb12b58dce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연인 정호연 이야기 안 하고 싶다는 이동휘에게 지석진이 날린 일침 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84762</link>
             <guid>https://www.elle.co.kr/article/84762</guid>
             <pubDate>Wed, 13 Mar 2024 12:22:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/95d25830-a4d9-4686-8086-dec4bca0df4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올봄을 지배할 단 하나의 클래식 슈즈_선배’s 어드바이스 #211 (엘르 코리아 ─ 스타)]]></title>
@@ -977,24 +981,28 @@
             <guid>https://www.elle.co.kr/article/84760</guid>
             <pubDate>Tue, 12 Mar 2024 19:12:18 GMT</pubDate>
             <content:encoded><![CDATA[발레코어에 이은 메리 제인 슈즈 열풍! 그 천의 얼굴은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/d57d1b74-bcde-41a8-a6ef-0efb21795a61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안재홍X류승룡이 인생네컷으로 소환한 아이유X뷔 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84756</link>
             <guid>https://www.elle.co.kr/article/84756</guid>
             <pubDate>Wed, 13 Mar 2024 10:13:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/d011605b-4203-4ae7-9bd6-0df273b1ed43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[귀주대첩으로 용두용미 엔딩 낸 '고려거란전쟁' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84755</link>
             <guid>https://www.elle.co.kr/article/84755</guid>
             <pubDate>Mon, 11 Mar 2024 15:14:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/5277c019-6027-4341-abf2-88cd0512c65f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송지은X박위가 공개 열애 3개월 만에 발표한 깜짝 소식 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84751</link>
             <guid>https://www.elle.co.kr/article/84751</guid>
             <pubDate>Tue, 12 Mar 2024 08:14:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/f7a62b88-f467-4c31-aa11-f0ffa63a3f60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑꾼 로다주가 첫 오스카 남우조연상 받고 한 말 (ft. 아카데미 수상 내역) (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1357,7 +1365,6 @@
             <link>https://www.elle.co.kr/article/84688</link>
             <guid>https://www.elle.co.kr/article/84688</guid>
             <pubDate>Sun, 10 Mar 2024 15:11:28 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/4570d572-cd87-429b-ab9f-8f32bed7e8f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘르보이스 작가 9명이 전하는 이토록 다채로운 삶의 스테이지 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1365,14 +1372,12 @@
             <guid>https://www.elle.co.kr/article/84609</guid>
             <pubDate>Sun, 10 Mar 2024 15:11:28 GMT</pubDate>
             <content:encoded><![CDATA[2019년 엘르보이스의 출발 이래, 누군가는 새로운 생명과 가족을 만났고 누군가는 일상을 지키기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/e96940b9-1372-404b-9b1c-d9d04a5d9eab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 진일보한 여성사: 프랑스가 최초로 헌법 상 낙태의 자유를 보장했다 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84640</link>
             <guid>https://www.elle.co.kr/article/84640</guid>
             <pubDate>Fri, 08 Mar 2024 10:15:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/5e11b586-7032-4151-9d21-73d867a4dc63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[23 마리의 개와 고양이 가족을 찾아보내며 깨닫게 된 것 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1380,7 +1385,6 @@
             <guid>https://www.elle.co.kr/article/84598</guid>
             <pubDate>Fri, 08 Mar 2024 00:52:09 GMT</pubDate>
             <content:encoded><![CDATA[일러스트레이터 홍조가 확실하게 깨달은 것. 모든 생명은 똑같이 소중하고 사랑스럽다는 사실!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/a337f519-5a88-488b-8abe-e33cb9233f8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1388,7 +1392,6 @@
             <guid>https://www.elle.co.kr/article/84595</guid>
             <pubDate>Sun, 03 Mar 2024 23:12:04 GMT</pubDate>
             <content:encoded><![CDATA[여자가 여자에게 반한다는 건, 가히 '빅뱅이론'과 맞먹을 만큼 큰 사건이다! 그간 내가 반한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/f8d3662f-ddf7-4b9c-aac7-75f6ae7fba7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 참으로 바보같고 부질없다는 느낌 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1396,21 +1399,18 @@
             <guid>https://www.elle.co.kr/article/84581</guid>
             <pubDate>Thu, 07 Mar 2024 06:17:05 GMT</pubDate>
             <content:encoded><![CDATA[하지만 모든 변화는 점진적으로 일어나기에 우리의 고민과 실천은 무엇도 부질없지 않다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/eb2719e9-25d1-460c-b1d3-0fa4fecdda3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자본주의 사회에서 바보 되는 법 #돈쓸신잡 139 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84566</link>
             <guid>https://www.elle.co.kr/article/84566</guid>
             <pubDate>Wed, 06 Mar 2024 15:16:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/e19f184b-523b-4a90-b981-9363858d33a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['국제 북극곰의 날'이 사라질지도 모른다?! (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84491</link>
             <guid>https://www.elle.co.kr/article/84491</guid>
             <pubDate>Tue, 05 Mar 2024 06:16:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/e262bafb-f21a-4c96-9171-f1fab69fd3d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
