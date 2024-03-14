@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-03-14T02:20:17.840Z</updated>
+    <updated>2024-03-14T03:14:41.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄에는 파스텔 국룰! 싱그러운 파스텔 네일 5]]></title>
+        <id>https://www.elle.co.kr/article/84757</id>
+        <link href="https://www.elle.co.kr/article/84757"/>
+        <updated>2024-03-14T03:13:40.119Z</updated>
+        <content type="html"><![CDATA[알록달록! 파스텔컬러가 선사하는 싱그러운 봄기운. 올봄엔 다채로운 파스텔 톤의 네일 래커로 손...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 자요]]></title>
+        <id>https://www.elle.co.kr/article/84730</id>
+        <link href="https://www.elle.co.kr/article/84730"/>
+        <updated>2024-03-14T03:13:40.121Z</updated>
+        <content type="html"><![CDATA[피부 컨디션 끌올하는 오버나이트 마스크 6]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문라이트 파워!]]></title>
         <id>https://www.elle.co.kr/article/84729</id>
@@ -44,18 +58,5 @@
         <id>https://www.elle.co.kr/article/84672</id>
         <link href="https://www.elle.co.kr/article/84672"/>
         <updated>2024-03-09T15:10:56.854Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 간단해진 규현의 두 번째 다이어트 식단, '양참덮밥' 만드는 법]]></title>
-        <id>https://www.elle.co.kr/article/84659</id>
-        <link href="https://www.elle.co.kr/article/84659"/>
-        <updated>2024-03-08T15:12:43.428Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 최신 버전! 자외선 차단제 총정리_선배’s 어드바이스 #210]]></title>
-        <id>https://www.elle.co.kr/article/84607</id>
-        <link href="https://www.elle.co.kr/article/84607"/>
-        <updated>2024-03-08T02:19:07.574Z</updated>
-        <content type="html"><![CDATA[기온보다 먼저 치솟는다는 자외선량? 지금이야말로 더 막강해진 ‘자차’ 챙길 때!]]></content>
     </entry>
 </feed>
