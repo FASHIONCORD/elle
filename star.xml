@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-15T12:21:43.716Z</updated>
+    <updated>2024-03-15T13:15:36.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 유아가 통통 볼살 쏙 뺀 비결은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84831</id>
+        <link href="https://www.elle.co.kr/article/84831"/>
+        <updated>2024-03-15T13:14:25.351Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청춘 그 자체! 엘르 4월호 커버스타 마크]]></title>
         <id>https://www.elle.co.kr/article/84813</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/84785</id>
         <link href="https://www.elle.co.kr/article/84785"/>
         <updated>2024-03-13T19:11:05.074Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공간을 그리는 아티스트가 추천하는 봄 산책 코스는? 반지수의 #취향일지도]]></title>
-        <id>https://www.elle.co.kr/article/84768</id>
-        <link href="https://www.elle.co.kr/article/84768"/>
-        <updated>2024-03-13T12:22:02.156Z</updated>
     </entry>
 </feed>
