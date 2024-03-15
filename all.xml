@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 18:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 19:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1004,48 +1004,56 @@
             <link>https://www.elle.co.kr/article/84826</link>
             <guid>https://www.elle.co.kr/article/84826</guid>
             <pubDate>Thu, 14 Mar 2024 07:14:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/5ca9e343-fce7-4581-b127-7c69bec11ed6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["은퇴 전 꼭 보여드릴 이야기": 김은희의 '시그널'이 돌아온다 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84823</link>
             <guid>https://www.elle.co.kr/article/84823</guid>
             <pubDate>Thu, 14 Mar 2024 07:14:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/a920d4ac-a9e1-4ff5-8402-9502d70d413c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[출연작 재개봉 소식부터 결별설까지, 티모시 샬라메 근황 업데이트 3 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84808</link>
             <guid>https://www.elle.co.kr/article/84808</guid>
             <pubDate>Wed, 13 Mar 2024 12:22:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/13/5874b817-ac0d-48e7-9dd9-2a037e917515.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공간을 그리는 아티스트가 추천하는 봄 산책 코스는? 반지수의 #취향일지도 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84768</link>
             <guid>https://www.elle.co.kr/article/84768</guid>
             <pubDate>Wed, 13 Mar 2024 12:22:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/67c1b0fa-1224-4263-b7c5-1aeb12b58dce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[귀주대첩으로 용두용미 엔딩 낸 '고려거란전쟁' 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84755</link>
             <guid>https://www.elle.co.kr/article/84755</guid>
             <pubDate>Mon, 11 Mar 2024 15:14:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/5277c019-6027-4341-abf2-88cd0512c65f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84742</link>
             <guid>https://www.elle.co.kr/article/84742</guid>
             <pubDate>Mon, 11 Mar 2024 03:15:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/6829e05c-7770-49da-b05b-2b8a7f8cc7e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나누고 기억하다, 국립중앙박물관 기증관 #요즘전시 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84741</link>
             <guid>https://www.elle.co.kr/article/84741</guid>
             <pubDate>Mon, 11 Mar 2024 03:16:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/42ddcaaf-9d12-45a1-b44c-e43da941c71d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑꾼 로다주가 첫 오스카 남우조연상 받고 한 말 (ft. 아카데미 수상 내역) (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84740</link>
             <guid>https://www.elle.co.kr/article/84740</guid>
             <pubDate>Mon, 11 Mar 2024 03:16:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/e239159c-e133-43e9-a883-c43a96e82d54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1297,6 +1305,13 @@
             <content:encoded><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[화이트데이니까 괜찮아! 사탕 vs 초콜릿, 무엇을 먹을까요? #취향의발견_9 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/84819</link>
+            <guid>https://www.elle.co.kr/article/84819</guid>
+            <pubDate>Fri, 15 Mar 2024 19:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[몰디브의 두 리조트가 알려준 것들 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84792</link>
             <guid>https://www.elle.co.kr/article/84792</guid>
@@ -1344,13 +1359,6 @@
             <content:encoded><![CDATA[고향을 떠나 먼 도시에 발을 디딘 사람들이 일궈낸 공간. 그 익숙하고 낯선 향취가 공존하는 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[민예품의 재발견 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/84715</link>
-            <guid>https://www.elle.co.kr/article/84715</guid>
-            <pubDate>Fri, 08 Mar 2024 09:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[민예품을 판매하는 도쿄의 가게 네 곳.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2024 세계 여성의 날 구호, '포용을 고취하라'의 의미 #InspireInclusion (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84706</link>
             <guid>https://www.elle.co.kr/article/84706</guid>
@@ -1381,7 +1389,6 @@
             <link>https://www.elle.co.kr/article/84640</link>
             <guid>https://www.elle.co.kr/article/84640</guid>
             <pubDate>Fri, 08 Mar 2024 10:15:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/5e11b586-7032-4151-9d21-73d867a4dc63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[23 마리의 개와 고양이 가족을 찾아보내며 깨닫게 된 것 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1389,7 +1396,6 @@
             <guid>https://www.elle.co.kr/article/84598</guid>
             <pubDate>Fri, 08 Mar 2024 00:52:09 GMT</pubDate>
             <content:encoded><![CDATA[일러스트레이터 홍조가 확실하게 깨달은 것. 모든 생명은 똑같이 소중하고 사랑스럽다는 사실!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/a337f519-5a88-488b-8abe-e33cb9233f8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1397,7 +1403,6 @@
             <guid>https://www.elle.co.kr/article/84595</guid>
             <pubDate>Sun, 03 Mar 2024 23:12:04 GMT</pubDate>
             <content:encoded><![CDATA[여자가 여자에게 반한다는 건, 가히 '빅뱅이론'과 맞먹을 만큼 큰 사건이다! 그간 내가 반한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/f8d3662f-ddf7-4b9c-aac7-75f6ae7fba7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 참으로 바보같고 부질없다는 느낌 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1405,7 +1410,6 @@
             <guid>https://www.elle.co.kr/article/84581</guid>
             <pubDate>Thu, 07 Mar 2024 06:17:05 GMT</pubDate>
             <content:encoded><![CDATA[하지만 모든 변화는 점진적으로 일어나기에 우리의 고민과 실천은 무엇도 부질없지 않다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/eb2719e9-25d1-460c-b1d3-0fa4fecdda3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
