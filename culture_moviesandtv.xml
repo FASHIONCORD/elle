@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-03-15T06:17:29.585Z</updated>
+    <updated>2024-03-15T07:13:23.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[닭강정 된 김유정과 귀신 전문 사진사 주원이 있는 3월 3주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/84845</id>
+        <link href="https://www.elle.co.kr/article/84845"/>
+        <updated>2024-03-15T07:12:56.171Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 5년 만의 신작 '미키17' 개봉 정보.txt]]></title>
         <id>https://www.elle.co.kr/article/84826</id>
@@ -78,11 +84,5 @@
         <id>https://www.elle.co.kr/article/84571</id>
         <link href="https://www.elle.co.kr/article/84571"/>
         <updated>2024-03-01T02:23:17.507Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현X김지원 웨딩 사진.jpg]]></title>
-        <id>https://www.elle.co.kr/article/84505</id>
-        <link href="https://www.elle.co.kr/article/84505"/>
-        <updated>2024-02-27T09:12:54.292Z</updated>
     </entry>
 </feed>
