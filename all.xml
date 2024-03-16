@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 18:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 19:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[봄 바람 따라온 비비드 컬러 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84795</link>
+            <guid>https://www.elle.co.kr/article/84795</guid>
+            <pubDate>Sat, 16 Mar 2024 19:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[무슨 색을 칠해볼까?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[루이 비통의 두 번째 '딥 타임' 컬렉션 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84793</link>
             <guid>https://www.elle.co.kr/article/84793</guid>
@@ -886,13 +893,6 @@
             <guid>https://www.elle.co.kr/article/84769</guid>
             <pubDate>Thu, 14 Mar 2024 05:12:05 GMT</pubDate>
             <content:encoded><![CDATA[새로운 행성에 첫발을 내디딘 듯 짜릿한 경험.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[멘즈 패션위크 살펴보기 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84773</link>
-            <guid>https://www.elle.co.kr/article/84773</guid>
-            <pubDate>Thu, 14 Mar 2024 03:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[밀란과 파리에서 열린 2024 맨즈 패션위크에서 생긴일.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[언제나 피부 성수기! 안소희의 동안 피부 비결은? (엘르 코리아 ─ 뷰티)]]></title>
