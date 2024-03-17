@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 14:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 15:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,19 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[거침없이 데님재킷 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84798</link>
+            <guid>https://www.elle.co.kr/article/84798</guid>
+            <pubDate>Sun, 17 Mar 2024 15:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[쿨하고, 자유롭게.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파리 올림픽 포스터가 유독 따뜻한 이유 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84843</link>
+            <guid>https://www.elle.co.kr/article/84843</guid>
+            <pubDate>Fri, 15 Mar 2024 07:13:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[봄 바람 따라온 비비드 컬러 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84795</link>
             <guid>https://www.elle.co.kr/article/84795</guid>
@@ -879,20 +892,6 @@
             <guid>https://www.elle.co.kr/article/84805</guid>
             <pubDate>Wed, 13 Mar 2024 23:12:47 GMT</pubDate>
             <content:encoded><![CDATA[한중 대표 미인의 만남이라니, 장관이네요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포근한 '이것'을 꺼내야 할 때! 올봄 당신이 주목해야 카디건 스타일 5 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84788</link>
-            <guid>https://www.elle.co.kr/article/84788</guid>
-            <pubDate>Thu, 14 Mar 2024 15:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[따라 입고 싶은 스프링 룩의 비법은? 비즈니스 코어에 활용하기 좋은 그레이 카디건부터 정겨운...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프레시 트랙! (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84769</link>
-            <guid>https://www.elle.co.kr/article/84769</guid>
-            <pubDate>Thu, 14 Mar 2024 05:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 행성에 첫발을 내디딘 듯 짜릿한 경험.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[언제나 피부 성수기! 안소희의 동안 피부 비결은? (엘르 코리아 ─ 뷰티)]]></title>
@@ -968,12 +967,14 @@
             <link>https://www.elle.co.kr/article/84832</link>
             <guid>https://www.elle.co.kr/article/84832</guid>
             <pubDate>Fri, 15 Mar 2024 14:12:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/b97af067-d629-4ab5-9272-ee2cf38c6497.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오마이걸 유아가 통통 볼살 쏙 뺀 비결은? #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84831</link>
             <guid>https://www.elle.co.kr/article/84831</guid>
             <pubDate>Fri, 15 Mar 2024 13:14:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/236c8f24-079a-49e1-b6dc-99c0820937e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청춘 그 자체! 엘르 4월호 커버스타 마크 (엘르 코리아 ─ 스타)]]></title>
@@ -981,6 +982,7 @@
             <guid>https://www.elle.co.kr/article/84813</guid>
             <pubDate>Fri, 15 Mar 2024 07:12:13 GMT</pubDate>
             <content:encoded><![CDATA[지금의 마크는 아무런 문제가 없다. 그 누구보다 성실하게 자신을 탐색해온 마크의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/3958a475-884a-476a-934f-be72ff439fad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언제나 피부 성수기! 안소희의 동안 피부 비결은? (엘르 코리아 ─ 스타)]]></title>
@@ -988,18 +990,21 @@
             <guid>https://www.elle.co.kr/article/84812</guid>
             <pubDate>Fri, 15 Mar 2024 04:15:13 GMT</pubDate>
             <content:encoded><![CDATA[피부의 시간을 되돌리고 싶다면? 안소희의 피부 관리법을 놓치지 마세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/04ee5429-2943-4efa-9cd2-115a9570322f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결혼 14년차 전혜진X이천희 럽스타그램.jpg (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84809</link>
             <guid>https://www.elle.co.kr/article/84809</guid>
             <pubDate>Thu, 14 Mar 2024 19:10:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/13/863a8662-c3b2-4ac9-8549-b7f77fc80d76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[출연작 재개봉 소식부터 결별설까지, 티모시 샬라메 근황 업데이트 3 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84808</link>
             <guid>https://www.elle.co.kr/article/84808</guid>
             <pubDate>Wed, 13 Mar 2024 12:22:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/13/5874b817-ac0d-48e7-9dd9-2a037e917515.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파리 올림픽 포스터가 유독 따뜻한 이유 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1404,7 +1409,6 @@
             <guid>https://www.elle.co.kr/article/84581</guid>
             <pubDate>Thu, 07 Mar 2024 06:17:05 GMT</pubDate>
             <content:encoded><![CDATA[하지만 모든 변화는 점진적으로 일어나기에 우리의 고민과 실천은 무엇도 부질없지 않다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/eb2719e9-25d1-460c-b1d3-0fa4fecdda3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
