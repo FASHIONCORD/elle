@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-20T05:13:36.492Z</updated>
+    <updated>2024-03-20T06:16:31.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘 전역하는 강태오의 차기작]]></title>
+        <id>https://www.elle.co.kr/article/84883</id>
+        <link href="https://www.elle.co.kr/article/84883"/>
+        <updated>2024-03-20T06:15:37.174Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파리에서 미모 폭발한 지젤, 이렇게 예뻤어?]]></title>
         <id>https://www.elle.co.kr/article/84882</id>
@@ -49,12 +55,5 @@
         <id>https://www.elle.co.kr/article/84867</id>
         <link href="https://www.elle.co.kr/article/84867"/>
         <updated>2024-03-18T15:12:13.987Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멋을 아는 언니, 엄정화의 뷰티 아이템 9]]></title>
-        <id>https://www.elle.co.kr/article/84864</id>
-        <link href="https://www.elle.co.kr/article/84864"/>
-        <updated>2024-03-18T09:12:49.969Z</updated>
-        <content type="html"><![CDATA[자기 전에 뿌리는 향수부터 도톰한 입술을 만들어 주는 플럼핑 립스틱까지, 엄정화의 취향이 느...]]></content>
     </entry>
 </feed>
