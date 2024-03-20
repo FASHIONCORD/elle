@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-20T01:45:26.382Z</updated>
+    <updated>2024-03-20T02:19:27.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파리에서 미모 폭발한 지젤, 이렇게 예뻤어?]]></title>
+        <id>https://www.elle.co.kr/article/84882</id>
+        <link href="https://www.elle.co.kr/article/84882"/>
+        <updated>2024-03-20T02:18:35.973Z</updated>
+        <content type="html"><![CDATA[흐트러뜨릴수록 더 화려하게 피어나는 있는 그대로의 지젤.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밀라노에서 마주한 로운]]></title>
         <id>https://www.elle.co.kr/article/84824</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/84864"/>
         <updated>2024-03-18T09:12:49.969Z</updated>
         <content type="html"><![CDATA[자기 전에 뿌리는 향수부터 도톰한 입술을 만들어 주는 플럼핑 립스틱까지, 엄정화의 취향이 느...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 찾은 오타니 쇼헤이, 그가 묵을 호텔은?]]></title>
-        <id>https://www.elle.co.kr/article/84863</id>
-        <link href="https://www.elle.co.kr/article/84863"/>
-        <updated>2024-03-18T08:15:14.115Z</updated>
-        <content type="html"><![CDATA[베일에 싸여있던 아내와의 첫 투샷까지!]]></content>
     </entry>
 </feed>

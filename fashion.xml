@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-20T01:45:26.377Z</updated>
+    <updated>2024-03-20T02:19:27.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IN BLOOM! 봄을 위한 '꽃' 모티프 메이크업]]></title>
+        <id>https://www.elle.co.kr/article/84820</id>
+        <link href="https://www.elle.co.kr/article/84820"/>
+        <updated>2024-03-20T02:18:14.866Z</updated>
+        <content type="html"><![CDATA[얼굴 위에 깃든 봄꽃의 향연.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데님이 빛날 때]]></title>
         <id>https://www.elle.co.kr/article/84821</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/84795"/>
         <updated>2024-03-16T19:10:22.269Z</updated>
         <content type="html"><![CDATA[무슨 색을 칠해볼까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루이 비통의 두 번째 '딥 타임' 컬렉션]]></title>
-        <id>https://www.elle.co.kr/article/84793</id>
-        <link href="https://www.elle.co.kr/article/84793"/>
-        <updated>2024-03-16T15:11:07.330Z</updated>
-        <content type="html"><![CDATA[아테네에서 방돔광장으로 이어진 루이 비통 하이 주얼리 '딥 타임' 컬렉션.]]></content>
     </entry>
 </feed>
