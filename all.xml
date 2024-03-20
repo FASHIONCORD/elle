@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 23:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 00:52:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -948,6 +948,13 @@
             <content:encoded><![CDATA[알록달록! 파스텔컬러가 선사하는 싱그러운 봄기운. 올봄엔 다채로운 파스텔 톤의 네일 래커로 손...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[밀라노에서 마주한 로운 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84824</link>
+            <guid>https://www.elle.co.kr/article/84824</guid>
+            <pubDate>Wed, 20 Mar 2024 00:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[이토록 다양한 로운의 면면.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[홍진호 결혼식에 서유리가 낸 축의금 액수 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84876</link>
             <guid>https://www.elle.co.kr/article/84876</guid>
@@ -991,13 +998,6 @@
             <guid>https://www.elle.co.kr/article/84863</guid>
             <pubDate>Mon, 18 Mar 2024 08:15:14 GMT</pubDate>
             <content:encoded><![CDATA[베일에 싸여있던 아내와의 첫 투샷까지!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이무생의 순정 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84827</link>
-            <guid>https://www.elle.co.kr/article/84827</guid>
-            <pubDate>Mon, 18 Mar 2024 08:15:14 GMT</pubDate>
-            <content:encoded><![CDATA["저를 찾고 싶어서 연기해요." 고요하고 담담한 얼굴로 늘 사랑 앞에 용감해지는 남자. 이무생이...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[추악함이라는 아름다움 (엘르 코리아 ─ 컬쳐)]]></title>
