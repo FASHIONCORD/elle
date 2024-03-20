@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 10:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 11:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -894,6 +894,13 @@
             <content:encoded><![CDATA[무슨 색을 칠해볼까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[핸드크림 쇼핑 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84796</link>
+            <guid>https://www.elle.co.kr/article/84796</guid>
+            <pubDate>Wed, 20 Mar 2024 11:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[봄맞이 핸드크림 쇼핑 위시리스트!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[오마이걸 유아가 통통 볼살 쏙 뺀 비결은? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/84831</link>
             <guid>https://www.elle.co.kr/article/84831</guid>
@@ -941,11 +948,10 @@
             <content:encoded><![CDATA[새로운 계절, 새로운 네일! 아이유, 르세라핌 은채, 아이린 등 스타들이 선보인 네일 디자인을 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[봄에는 파스텔 국룰! 싱그러운 파스텔 네일 5 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/84757</link>
-            <guid>https://www.elle.co.kr/article/84757</guid>
-            <pubDate>Thu, 14 Mar 2024 03:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[알록달록! 파스텔컬러가 선사하는 싱그러운 봄기운. 올봄엔 다채로운 파스텔 톤의 네일 래커로 손...]]></content:encoded>
+            <title><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84906</link>
+            <guid>https://www.elle.co.kr/article/84906</guid>
+            <pubDate>Tue, 19 Mar 2024 11:12:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[배우 아닌 인간 이혜리가 직접 알린 솔직한 심경 (엘르 코리아 ─ 스타)]]></title>
@@ -991,12 +997,6 @@
             <link>https://www.elle.co.kr/article/84873</link>
             <guid>https://www.elle.co.kr/article/84873</guid>
             <pubDate>Tue, 19 Mar 2024 00:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84872</link>
-            <guid>https://www.elle.co.kr/article/84872</guid>
-            <pubDate>Mon, 18 Mar 2024 08:15:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[서울 찾은 오타니 쇼헤이, 그가 묵을 호텔은? (엘르 코리아 ─ 컬쳐)]]></title>

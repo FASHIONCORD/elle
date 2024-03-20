@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-20T10:14:20.699Z</updated>
+    <updated>2024-03-20T11:12:14.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/84906</id>
+        <link href="https://www.elle.co.kr/article/84906"/>
+        <updated>2024-03-20T11:10:52.876Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 아닌 인간 이혜리가 직접 알린 솔직한 심경]]></title>
         <id>https://www.elle.co.kr/article/84890</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/84873</id>
         <link href="https://www.elle.co.kr/article/84873"/>
         <updated>2024-03-19T00:51:27.565Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/84872</id>
-        <link href="https://www.elle.co.kr/article/84872"/>
-        <updated>2024-03-19T00:51:27.579Z</updated>
     </entry>
 </feed>
