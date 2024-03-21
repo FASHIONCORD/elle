@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-21T02:21:35.192Z</updated>
+    <updated>2024-03-21T03:16:30.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에일리가 내년 결혼을 앞두고 공개 연애 시작하며 밝힌 소감]]></title>
+        <id>https://www.elle.co.kr/article/84918</id>
+        <link href="https://www.elle.co.kr/article/84918"/>
+        <updated>2024-03-21T03:14:57.829Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광채 축복이 끝이 없네, 신민아와 끌레드뽀 보떼]]></title>
         <id>https://www.elle.co.kr/article/84892</id>
@@ -50,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/84824"/>
         <updated>2024-03-20T00:51:33.635Z</updated>
         <content type="html"><![CDATA[이토록 다양한 로운의 면면.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍진호 결혼식에 서유리가 낸 축의금 액수]]></title>
-        <id>https://www.elle.co.kr/article/84876</id>
-        <link href="https://www.elle.co.kr/article/84876"/>
-        <updated>2024-03-19T11:11:25.639Z</updated>
-        <content type="html"><![CDATA[홍진호 결혼식에 서유리가 낸 축의금 액수]]></content>
     </entry>
 </feed>
