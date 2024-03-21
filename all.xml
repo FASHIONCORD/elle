@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 23:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 00:54:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -948,6 +948,20 @@
             <content:encoded><![CDATA[새로운 계절, 새로운 네일! 아이유, 르세라핌 은채, 아이린 등 스타들이 선보인 네일 디자인을 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[광채 축복이 끝이 없네, 신민아와 끌레드뽀 보떼 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84892</link>
+            <guid>https://www.elle.co.kr/article/84892</guid>
+            <pubDate>Thu, 21 Mar 2024 00:53:06 GMT</pubDate>
+            <content:encoded><![CDATA[끌레드뽀 보떼의 새로운 앰배서더로 선정된 신민아가 눈부시게 발하던, 영롱하고도 찬란한 광채! ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[끝을 향해 달리는 세 사람 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84903</link>
+            <guid>https://www.elle.co.kr/article/84903</guid>
+            <pubDate>Thu, 21 Mar 2024 00:53:06 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;로얄로더&gt; 이재욱, 이준영 그리고 홍수주의 절대적 케미스트리.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84906</link>
             <guid>https://www.elle.co.kr/article/84906</guid>
@@ -985,18 +999,6 @@
             <guid>https://www.elle.co.kr/article/84876</guid>
             <pubDate>Tue, 19 Mar 2024 11:11:25 GMT</pubDate>
             <content:encoded><![CDATA[홍진호 결혼식에 서유리가 낸 축의금 액수]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한예슬이 호스트로 나선 'SNL코리아' 방송은 언제? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84874</link>
-            <guid>https://www.elle.co.kr/article/84874</guid>
-            <pubDate>Tue, 19 Mar 2024 07:12:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[난임 고백했던 박수홍 부부가 임신 소식 전하며 한 말 (ft. 태명) (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84873</link>
-            <guid>https://www.elle.co.kr/article/84873</guid>
-            <pubDate>Tue, 19 Mar 2024 00:51:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[서울 찾은 오타니 쇼헤이, 그가 묵을 호텔은? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1137,24 +1139,28 @@
             <link>https://www.elle.co.kr/article/84913</link>
             <guid>https://www.elle.co.kr/article/84913</guid>
             <pubDate>Wed, 20 Mar 2024 03:14:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/20/a0b6b7de-26e0-4861-bbbc-a64597c8465a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84906</link>
             <guid>https://www.elle.co.kr/article/84906</guid>
             <pubDate>Tue, 19 Mar 2024 11:12:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/4bc4881e-f82e-4ada-ba81-c3270c92c2ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84872</link>
             <guid>https://www.elle.co.kr/article/84872</guid>
             <pubDate>Mon, 18 Mar 2024 08:15:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/96fa48c9-9efe-4b48-9ddc-42f014839b43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['세상에 이런 일이'가 26년 만에 사라질지도 모른다 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84854</link>
             <guid>https://www.elle.co.kr/article/84854</guid>
             <pubDate>Fri, 15 Mar 2024 14:13:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/8566a2cb-eb6b-469d-b8fb-494ccce654d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[닭강정 된 김유정과 귀신 전문 사진사 주원이 있는 3월 3주차 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
