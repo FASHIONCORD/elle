@@ -1,69 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 14:13:21 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[남 눈치 하나도 안 보는 아리아나 그란데 근황 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/84922</link>
-            <guid>https://www.elle.co.kr/article/84922</guid>
-            <pubDate>Thu, 21 Mar 2024 11:11:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/20/d9f12283-ccac-44a1-9ab5-2054fe72d56a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40kg 뺀 프로 다이어터&유지어터 권혁수의 최애 음식 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/84919</link>
-            <guid>https://www.elle.co.kr/article/84919</guid>
-            <pubDate>Thu, 21 Mar 2024 11:11:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/20/7a2c0b1c-d21c-42cb-84a0-830af31735ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에일리가 내년 결혼을 앞두고 공개 연애 시작하며 밝힌 소감]]></title>
-            <link>https://www.elle.co.kr/article/84918</link>
-            <guid>https://www.elle.co.kr/article/84918</guid>
-            <pubDate>Thu, 21 Mar 2024 03:14:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/20/087cf17f-8df0-4301-b718-d7936111ee52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광채 축복이 끝이 없네, 신민아와 끌레드뽀 보떼]]></title>
-            <link>https://www.elle.co.kr/article/84892</link>
-            <guid>https://www.elle.co.kr/article/84892</guid>
-            <pubDate>Thu, 21 Mar 2024 00:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[끌레드뽀 보떼의 새로운 앰배서더로 선정된 신민아가 눈부시게 발하던, 영롱하고도 찬란한 광채! ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/20/92857b06-b8d6-4986-9e28-bdf2a62e40ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝을 향해 달리는 세 사람]]></title>
-            <link>https://www.elle.co.kr/article/84903</link>
-            <guid>https://www.elle.co.kr/article/84903</guid>
-            <pubDate>Thu, 21 Mar 2024 00:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;로얄로더&gt; 이재욱, 이준영 그리고 홍수주의 절대적 케미스트리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/20/178dad2b-89a0-4183-86f8-be3bb1e71f28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/84906</link>
-            <guid>https://www.elle.co.kr/article/84906</guid>
-            <pubDate>Wed, 20 Mar 2024 11:10:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/4bc4881e-f82e-4ada-ba81-c3270c92c2ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 아닌 인간 이혜리가 직접 알린 솔직한 심경]]></title>
-            <link>https://www.elle.co.kr/article/84890</link>
-            <guid>https://www.elle.co.kr/article/84890</guid>
-            <pubDate>Wed, 20 Mar 2024 10:12:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/bf2e4892-d6f2-4bc3-a551-aae9be19e816.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 전역하는 강태오의 차기작]]></title>
-            <link>https://www.elle.co.kr/article/84883</link>
-            <guid>https://www.elle.co.kr/article/84883</guid>
-            <pubDate>Wed, 20 Mar 2024 06:15:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/60afb6a9-646e-4aee-a55b-7ad55378f310.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2024-03-21T15:14:16.339Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남 눈치 하나도 안 보는 아리아나 그란데 근황 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/84922</id>
+        <link href="https://www.elle.co.kr/article/84922"/>
+        <updated>2024-03-21T11:11:16.099Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40kg 뺀 프로 다이어터&유지어터 권혁수의 최애 음식 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84919</id>
+        <link href="https://www.elle.co.kr/article/84919"/>
+        <updated>2024-03-21T11:11:16.103Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에일리가 내년 결혼을 앞두고 공개 연애 시작하며 밝힌 소감]]></title>
+        <id>https://www.elle.co.kr/article/84918</id>
+        <link href="https://www.elle.co.kr/article/84918"/>
+        <updated>2024-03-21T03:14:57.829Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광채 축복이 끝이 없네, 신민아와 끌레드뽀 보떼]]></title>
+        <id>https://www.elle.co.kr/article/84892</id>
+        <link href="https://www.elle.co.kr/article/84892"/>
+        <updated>2024-03-21T00:53:06.965Z</updated>
+        <content type="html"><![CDATA[끌레드뽀 보떼의 새로운 앰배서더로 선정된 신민아가 눈부시게 발하던, 영롱하고도 찬란한 광채! ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끝을 향해 달리는 세 사람]]></title>
+        <id>https://www.elle.co.kr/article/84903</id>
+        <link href="https://www.elle.co.kr/article/84903"/>
+        <updated>2024-03-21T00:53:06.966Z</updated>
+        <content type="html"><![CDATA[&lt;로얄로더&gt; 이재욱, 이준영 그리고 홍수주의 절대적 케미스트리.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/84906</id>
+        <link href="https://www.elle.co.kr/article/84906"/>
+        <updated>2024-03-20T11:10:52.876Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 아닌 인간 이혜리가 직접 알린 솔직한 심경]]></title>
+        <id>https://www.elle.co.kr/article/84890</id>
+        <link href="https://www.elle.co.kr/article/84890"/>
+        <updated>2024-03-20T10:12:53.277Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 전역하는 강태오의 차기작]]></title>
+        <id>https://www.elle.co.kr/article/84883</id>
+        <link href="https://www.elle.co.kr/article/84883"/>
+        <updated>2024-03-20T06:15:37.174Z</updated>
+    </entry>
+</feed>
