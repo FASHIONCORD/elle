@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 17:12:54 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[멋을 아는 언니, 엄정화의 뷰티 아이템 9]]></title>
-            <link>https://www.elle.co.kr/article/84864</link>
-            <guid>https://www.elle.co.kr/article/84864</guid>
-            <pubDate>Thu, 21 Mar 2024 11:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[자기 전에 뿌리는 향수부터 도톰한 입술을 만들어 주는 플럼핑 립스틱까지, 엄정화의 취향이 느...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/eb48df80-68c0-4a9e-a371-7578c471bb07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핸드크림 쇼핑]]></title>
-            <link>https://www.elle.co.kr/article/84796</link>
-            <guid>https://www.elle.co.kr/article/84796</guid>
-            <pubDate>Wed, 20 Mar 2024 11:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[봄맞이 핸드크림 쇼핑 위시리스트!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/16/d9e6ac93-2e8d-4e94-a09f-d6c1481a6bfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸 유아가 통통 볼살 쏙 뺀 비결은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/84831</link>
-            <guid>https://www.elle.co.kr/article/84831</guid>
-            <pubDate>Tue, 19 Mar 2024 15:13:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/236c8f24-079a-49e1-b6dc-99c0820937e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 민지가 선택한, 어린 생기와 활력을 선사하는 세럼]]></title>
-            <link>https://www.elle.co.kr/article/84806</link>
-            <guid>https://www.elle.co.kr/article/84806</guid>
-            <pubDate>Mon, 18 Mar 2024 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[혹독한 환경 속에서 기어코 꽃을 피우는 레드 까멜리아처럼, 민지의 얼굴에 강인한 생명력이 움...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/16809438-7479-4d63-9f0a-38b92eaeae1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야, 너두 오버립 할 수 있어 (feat.로즈 립 펜슬)]]></title>
-            <link>https://www.elle.co.kr/article/84815</link>
-            <guid>https://www.elle.co.kr/article/84815</guid>
-            <pubDate>Mon, 18 Mar 2024 06:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[정교한 풀 립(Full Lip)부터 매력적인 오버립까지 이것만 있으면 '쌉가능!' 로즈 누드 톤의 립...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/ca8f7680-eb36-4981-8a89-67bf26938222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀린느 립스틱, 발색 여기서 보세요]]></title>
-            <link>https://www.elle.co.kr/article/84814</link>
-            <guid>https://www.elle.co.kr/article/84814</guid>
-            <pubDate>Sun, 17 Mar 2024 19:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[셀린느의 24 아크 드 트리옹프 컬렉션 영상을 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/d8ef8b07-2dae-490c-92bd-0167139369c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언제나 피부 성수기! 안소희의 동안 피부 비결은?]]></title>
-            <link>https://www.elle.co.kr/article/84812</link>
-            <guid>https://www.elle.co.kr/article/84812</guid>
-            <pubDate>Fri, 15 Mar 2024 15:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[피부의 시간을 되돌리고 싶다면? 안소희의 피부 관리법을 놓치지 마세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/04ee5429-2943-4efa-9cd2-115a9570322f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['체지방 9kg' 한혜진이 살 빼다 스트레스 받을 때 먹는 음식 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/84807</link>
-            <guid>https://www.elle.co.kr/article/84807</guid>
-            <pubDate>Thu, 14 Mar 2024 16:15:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/732dec6b-4d1e-451e-ab24-e2c250c3de71.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/beauty</id>
+    <title>엘르 코리아 ─ 뷰티</title>
+    <updated>2024-03-21T18:16:28.332Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멋을 아는 언니, 엄정화의 뷰티 아이템 9]]></title>
+        <id>https://www.elle.co.kr/article/84864</id>
+        <link href="https://www.elle.co.kr/article/84864"/>
+        <updated>2024-03-21T11:11:05.018Z</updated>
+        <content type="html"><![CDATA[자기 전에 뿌리는 향수부터 도톰한 입술을 만들어 주는 플럼핑 립스틱까지, 엄정화의 취향이 느...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핸드크림 쇼핑]]></title>
+        <id>https://www.elle.co.kr/article/84796</id>
+        <link href="https://www.elle.co.kr/article/84796"/>
+        <updated>2024-03-20T11:10:44.761Z</updated>
+        <content type="html"><![CDATA[봄맞이 핸드크림 쇼핑 위시리스트!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 유아가 통통 볼살 쏙 뺀 비결은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84831</id>
+        <link href="https://www.elle.co.kr/article/84831"/>
+        <updated>2024-03-19T15:13:49.088Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 민지가 선택한, 어린 생기와 활력을 선사하는 세럼]]></title>
+        <id>https://www.elle.co.kr/article/84806</id>
+        <link href="https://www.elle.co.kr/article/84806"/>
+        <updated>2024-03-18T09:12:39.988Z</updated>
+        <content type="html"><![CDATA[혹독한 환경 속에서 기어코 꽃을 피우는 레드 까멜리아처럼, 민지의 얼굴에 강인한 생명력이 움...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야, 너두 오버립 할 수 있어 (feat.로즈 립 펜슬)]]></title>
+        <id>https://www.elle.co.kr/article/84815</id>
+        <link href="https://www.elle.co.kr/article/84815"/>
+        <updated>2024-03-18T06:16:05.961Z</updated>
+        <content type="html"><![CDATA[정교한 풀 립(Full Lip)부터 매력적인 오버립까지 이것만 있으면 '쌉가능!' 로즈 누드 톤의 립...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셀린느 립스틱, 발색 여기서 보세요]]></title>
+        <id>https://www.elle.co.kr/article/84814</id>
+        <link href="https://www.elle.co.kr/article/84814"/>
+        <updated>2024-03-17T19:09:58.658Z</updated>
+        <content type="html"><![CDATA[셀린느의 24 아크 드 트리옹프 컬렉션 영상을 공개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언제나 피부 성수기! 안소희의 동안 피부 비결은?]]></title>
+        <id>https://www.elle.co.kr/article/84812</id>
+        <link href="https://www.elle.co.kr/article/84812"/>
+        <updated>2024-03-15T15:12:21.457Z</updated>
+        <content type="html"><![CDATA[피부의 시간을 되돌리고 싶다면? 안소희의 피부 관리법을 놓치지 마세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['체지방 9kg' 한혜진이 살 빼다 스트레스 받을 때 먹는 음식 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84807</id>
+        <link href="https://www.elle.co.kr/article/84807"/>
+        <updated>2024-03-14T16:15:27.161Z</updated>
+    </entry>
+</feed>
