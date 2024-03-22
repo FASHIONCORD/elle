@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 02:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 03:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1236,6 +1236,7 @@
             <link>https://www.elle.co.kr/article/84843</link>
             <guid>https://www.elle.co.kr/article/84843</guid>
             <pubDate>Fri, 15 Mar 2024 07:13:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/fd125014-6abb-4e76-b5e1-8cf14117cad9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나누고 기억하다, 국립중앙박물관 기증관 #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
