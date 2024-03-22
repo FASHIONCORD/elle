@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 18:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 19:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -840,6 +840,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[봄 기운 가득 머금은 '플로럴 패션' 모음.zip (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84924</link>
+            <guid>https://www.elle.co.kr/article/84924</guid>
+            <pubDate>Fri, 22 Mar 2024 19:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[지효의 코르사주부터 로제의 플로럴 패턴 드레스까지!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쿠튀르 쇼에선 무슨 일이? (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84848</link>
             <guid>https://www.elle.co.kr/article/84848</guid>
@@ -888,11 +895,10 @@
             <content:encoded><![CDATA[‘패스트 라이브즈’ 말고 현생부터.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[IN BLOOM! 봄을 위한 '꽃' 모티프 메이크업 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84820</link>
-            <guid>https://www.elle.co.kr/article/84820</guid>
-            <pubDate>Wed, 20 Mar 2024 02:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴 위에 깃든 봄꽃의 향연.]]></content:encoded>
+            <title><![CDATA[40kg 뺀 프로 다이어터&유지어터 권혁수의 최애 음식 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84919</link>
+            <guid>https://www.elle.co.kr/article/84919</guid>
+            <pubDate>Thu, 21 Mar 2024 11:11:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[뷰티 디바이스의 신세계(ver.2024) (엘르 코리아 ─ 뷰티)]]></title>
@@ -943,11 +949,11 @@
             <content:encoded><![CDATA[혹독한 환경 속에서 기어코 꽃을 피우는 레드 까멜리아처럼, 민지의 얼굴에 강인한 생명력이 움...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[야, 너두 오버립 할 수 있어 (feat.로즈 립 펜슬) (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/84815</link>
-            <guid>https://www.elle.co.kr/article/84815</guid>
-            <pubDate>Mon, 18 Mar 2024 06:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[정교한 풀 립(Full Lip)부터 매력적인 오버립까지 이것만 있으면 '쌉가능!' 로즈 누드 톤의 립...]]></content:encoded>
+            <title><![CDATA[윤혜진 픽! 양평 로컬 맛집 대방출 3 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84953</link>
+            <guid>https://www.elle.co.kr/article/84953</guid>
+            <pubDate>Fri, 22 Mar 2024 19:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[45년 전통을 자랑하는 떡볶이 맛집과 낭만 가득한 포차 횟집, K-디저트 카페 등 N차 방문을 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[멜로망스 김민석이 40장씩 챙겨 먹었더니 25kg 빠졌다는 음식  #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
@@ -991,12 +997,6 @@
             <link>https://www.elle.co.kr/article/84919</link>
             <guid>https://www.elle.co.kr/article/84919</guid>
             <pubDate>Thu, 21 Mar 2024 11:11:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[에일리가 내년 결혼을 앞두고 공개 연애 시작하며 밝힌 소감 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84918</link>
-            <guid>https://www.elle.co.kr/article/84918</guid>
-            <pubDate>Thu, 21 Mar 2024 03:14:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1137,24 +1137,28 @@
             <link>https://www.elle.co.kr/article/84954</link>
             <guid>https://www.elle.co.kr/article/84954</guid>
             <pubDate>Fri, 22 Mar 2024 02:19:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/22/1de0d38f-2af6-4c59-88cc-2530d22eadc2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[9년 만에 밝혀지는 퓨리오사의 과거, '매드맥스 사가' 개봉 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84913</link>
             <guid>https://www.elle.co.kr/article/84913</guid>
             <pubDate>Wed, 20 Mar 2024 03:14:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/20/a0b6b7de-26e0-4861-bbbc-a64597c8465a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84906</link>
             <guid>https://www.elle.co.kr/article/84906</guid>
             <pubDate>Tue, 19 Mar 2024 11:12:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/4bc4881e-f82e-4ada-ba81-c3270c92c2ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84872</link>
             <guid>https://www.elle.co.kr/article/84872</guid>
             <pubDate>Mon, 18 Mar 2024 08:15:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/96fa48c9-9efe-4b48-9ddc-42f014839b43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['세상에 이런 일이'가 26년 만에 사라질지도 모른다 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
