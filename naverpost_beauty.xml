@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 01:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 02:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맑고 건강한 배우 황민현의 
+빛나는 뷰티 화보]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37513270&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37513270&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 22 Mar 2024 02:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/image.nmv/post_2024_03_22_0/dbce0a1e-e7ee-11ee-8e34-80615f0bcbd0_05.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이유 있는 선택,
 2024 엘르 뷰티어워즈 
@@ -170,14 +179,6 @@
             <pubDate>Thu, 10 Aug 2023 06:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MTBfMTg1/MDAxNjkxNjQ0ODk2MDQ4.UorRuCJi5cwddauAlX7pu5cwYJiL0Clmaq-V5KXHIawg.d41PTSG-1uOHhEJKOodaVxZYSNOJCagxGJXEj6t6tZsg.JPEG/InRuf10YNNOnQ1ZSJabbJq61Ingg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름철, 소유의 꿀피부 유지비결? 물광 스킨케어 루틴 따라하기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36356054&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36356054&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Fri, 04 Aug 2023 03:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDRfMTI3/MDAxNjkxMTE0MjA3OTg0.Sd0W91Itwj46m0vrOV2gAgZyAjwQN0xnS1iOtXtz7W4g.Kii9haAoOU63yOpboybEYCJoTvDE3XEuYHd8R8SbP_kg.JPEG/I7Z8YzkzPH-1r1szuO5PRm7QM-ys.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
