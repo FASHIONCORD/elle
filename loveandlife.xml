@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-22T15:13:56.886Z</updated>
+    <updated>2024-03-22T16:17:01.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[행복을 찾아 떠난 부부의 집]]></title>
+        <id>https://www.elle.co.kr/article/84842</id>
+        <link href="https://www.elle.co.kr/article/84842"/>
+        <updated>2024-03-22T16:16:52.405Z</updated>
+        <content type="html"><![CDATA[샐러드&amp;샌드위치 가게, '샐러드 셀러'의 주인장 부부가 잘 먹고, 잘 쉬고, 잘 살기 위해 마련...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[춘분 맞이 기력 회복에 좋은 봄나물 맛집 추천 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/84905</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84819"/>
         <updated>2024-03-15T19:11:30.535Z</updated>
         <content type="html"><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몰디브의 두 리조트가 알려준 것들]]></title>
-        <id>https://www.elle.co.kr/article/84792</id>
-        <link href="https://www.elle.co.kr/article/84792"/>
-        <updated>2024-03-15T13:15:13.983Z</updated>
-        <content type="html"><![CDATA[세상에 같은 색의 바다는 없다. 그런 확신을 심어준 몰디브의 두 리조트와 그곳에서 깨우친 바...]]></content>
     </entry>
 </feed>
