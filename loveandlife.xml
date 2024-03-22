@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-22T14:14:33.336Z</updated>
+    <updated>2024-03-22T15:13:56.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[춘분 맞이 기력 회복에 좋은 봄나물 맛집 추천 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84905</id>
+        <link href="https://www.elle.co.kr/article/84905"/>
+        <updated>2024-03-22T15:13:48.338Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘밤 양갱’ 들으면서 ‘양갱’ 한 입!]]></title>
         <id>https://www.elle.co.kr/article/84858</id>
@@ -52,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/84792"/>
         <updated>2024-03-15T13:15:13.983Z</updated>
         <content type="html"><![CDATA[세상에 같은 색의 바다는 없다. 그런 확신을 심어준 몰디브의 두 리조트와 그곳에서 깨우친 바...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이트데이 선물 고민이라면? 비주얼 대박인 수제 사탕 전문점 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/84784</id>
-        <link href="https://www.elle.co.kr/article/84784"/>
-        <updated>2024-03-15T09:12:54.895Z</updated>
     </entry>
 </feed>
