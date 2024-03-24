@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 12:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 13:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1041,12 +1041,14 @@
             <link>https://www.elle.co.kr/article/84853</link>
             <guid>https://www.elle.co.kr/article/84853</guid>
             <pubDate>Mon, 18 Mar 2024 09:12:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/994519d0-2aac-4720-8570-5563216f93fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[닭강정 된 김유정과 귀신 전문 사진사 주원이 있는 3월 3주차 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84845</link>
             <guid>https://www.elle.co.kr/article/84845</guid>
             <pubDate>Fri, 15 Mar 2024 07:12:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/4781ec01-c059-4e6e-bb25-a80152588e56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
