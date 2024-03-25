@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 22:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 23:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1044,6 +1044,7 @@
             <link>https://www.elle.co.kr/article/84872</link>
             <guid>https://www.elle.co.kr/article/84872</guid>
             <pubDate>Mon, 18 Mar 2024 08:15:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/96fa48c9-9efe-4b48-9ddc-42f014839b43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 찾은 오타니 쇼헤이, 그가 묵을 호텔은? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1051,6 +1052,7 @@
             <guid>https://www.elle.co.kr/article/84863</guid>
             <pubDate>Wed, 20 Mar 2024 03:14:33 GMT</pubDate>
             <content:encoded><![CDATA[베일에 싸여있던 아내와의 첫 투샷까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/17/f3d18599-256b-49a5-999d-89e63e63038f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1141,28 +1143,24 @@
             <link>https://www.elle.co.kr/article/85009</link>
             <guid>https://www.elle.co.kr/article/85009</guid>
             <pubDate>Mon, 25 Mar 2024 13:14:41 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/25/33f71beb-f474-4587-8fb1-28bf8e61fa75.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["귀신 장르 어떻게 천만 하냐"고? '파묘'가 해냈다 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/85000</link>
             <guid>https://www.elle.co.kr/article/85000</guid>
             <pubDate>Mon, 25 Mar 2024 09:13:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/25/34a95254-639b-431a-b65e-aacf0f53eb31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부부 사이 괜찮은 거죠? 이보영X추자현X김하늘의 열연 돋보인 3월 4주차 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84954</link>
             <guid>https://www.elle.co.kr/article/84954</guid>
             <pubDate>Fri, 22 Mar 2024 02:19:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/22/1de0d38f-2af6-4c59-88cc-2530d22eadc2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[9년 만에 밝혀지는 퓨리오사의 과거, '매드맥스 사가' 개봉 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84913</link>
             <guid>https://www.elle.co.kr/article/84913</guid>
             <pubDate>Wed, 20 Mar 2024 03:14:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/20/a0b6b7de-26e0-4861-bbbc-a64597c8465a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
