@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 18:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 19:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1300,6 +1300,13 @@
             <content:encoded><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[윤혜진 픽! 양평 로컬 맛집 대방출 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/84953</link>
+            <guid>https://www.elle.co.kr/article/84953</guid>
+            <pubDate>Mon, 25 Mar 2024 19:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[45년 전통을 자랑하는 떡볶이 맛집과 낭만 가득한 포차 횟집, K-디저트 카페 등 N차 방문을 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[행복을 찾아 떠난 부부의 집 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84842</link>
             <guid>https://www.elle.co.kr/article/84842</guid>
@@ -1345,13 +1352,6 @@
             <guid>https://www.elle.co.kr/article/84794</guid>
             <pubDate>Tue, 19 Mar 2024 11:12:54 GMT</pubDate>
             <content:encoded><![CDATA[인공지능으로 구현한 멋진 인테리어와 건축이 현실세계에 존재할 수 있을까?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화이트데이니까 괜찮아! 사탕 vs 초콜릿, 무엇을 먹을까요? #취향의발견_9 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/84819</link>
-            <guid>https://www.elle.co.kr/article/84819</guid>
-            <pubDate>Fri, 15 Mar 2024 19:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[프리랜서가 내 일에 가격을 붙이는 법 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
