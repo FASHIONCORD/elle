@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 03:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 04:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -950,6 +950,13 @@
             <content:encoded><![CDATA[봄맞이 핸드크림 쇼핑 위시리스트!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[류승룡과 안재홍의 로드무비 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84961</link>
+            <guid>https://www.elle.co.kr/article/84961</guid>
+            <pubDate>Mon, 25 Mar 2024 04:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[류승룡과 안재홍이 그리 애타게 찾아 헤맨 건 무엇이었을까? &lt;닭강정&gt;의 그녀 혹은 또 다른 웃...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[지금 이보영은 어디든지 갈 수 있다 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84962</link>
             <guid>https://www.elle.co.kr/article/84962</guid>
@@ -995,12 +1002,6 @@
             <guid>https://www.elle.co.kr/article/84953</guid>
             <pubDate>Fri, 22 Mar 2024 19:11:45 GMT</pubDate>
             <content:encoded><![CDATA[45년 전통을 자랑하는 떡볶이 맛집과 낭만 가득한 포차 횟집, K-디저트 카페 등 N차 방문을 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[멜로망스 김민석이 40장씩 챙겨 먹었더니 25kg 빠졌다는 음식  #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84952</link>
-            <guid>https://www.elle.co.kr/article/84952</guid>
-            <pubDate>Fri, 22 Mar 2024 16:15:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1057,14 +1058,12 @@
             <link>https://www.elle.co.kr/article/84742</link>
             <guid>https://www.elle.co.kr/article/84742</guid>
             <pubDate>Mon, 11 Mar 2024 03:15:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/6829e05c-7770-49da-b05b-2b8a7f8cc7e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/84625</link>
             <guid>https://www.elle.co.kr/article/84625</guid>
             <pubDate>Mon, 04 Mar 2024 12:00:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/2f586016-81c3-4735-b555-75dba0a303da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이토록 '슈퍼'한 르세라핌 다섯 명이 확장시킨 소녀의 정의 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1072,14 +1071,12 @@
             <guid>https://www.elle.co.kr/article/84512</guid>
             <pubDate>Tue, 27 Feb 2024 15:12:57 GMT</pubDate>
             <content:encoded><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/72e35eaa-4743-4492-ae07-11f9bf9395c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이거 공짜로 봐도 되나요? 차은우가 말아주는 '텐미닛'.mp4 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/84484</link>
             <guid>https://www.elle.co.kr/article/84484</guid>
             <pubDate>Mon, 26 Feb 2024 11:10:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/91053f11-7360-4d4c-b8cf-e1c0987cd35f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화려한 여정, <싱어게인3> Top7의 우리 어느 기쁜날 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
