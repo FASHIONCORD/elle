@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 09:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 10:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1020,24 +1020,28 @@
             <link>https://www.elle.co.kr/article/84907</link>
             <guid>https://www.elle.co.kr/article/84907</guid>
             <pubDate>Tue, 19 Mar 2024 11:12:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/31ab998b-dcd2-40e5-954f-b4c5a23b63f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84906</link>
             <guid>https://www.elle.co.kr/article/84906</guid>
             <pubDate>Tue, 19 Mar 2024 11:12:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/4bc4881e-f82e-4ada-ba81-c3270c92c2ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽃 피기 전에 만나는 한국 작가들의 봄꽃 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84877</link>
             <guid>https://www.elle.co.kr/article/84877</guid>
             <pubDate>Mon, 18 Mar 2024 09:13:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/83eacce4-8166-4e2d-8e96-a58f96963114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84872</link>
             <guid>https://www.elle.co.kr/article/84872</guid>
             <pubDate>Mon, 18 Mar 2024 08:15:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/96fa48c9-9efe-4b48-9ddc-42f014839b43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 찾은 오타니 쇼헤이, 그가 묵을 호텔은? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1045,6 +1049,7 @@
             <guid>https://www.elle.co.kr/article/84863</guid>
             <pubDate>Wed, 20 Mar 2024 03:14:33 GMT</pubDate>
             <content:encoded><![CDATA[베일에 싸여있던 아내와의 첫 투샷까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/17/f3d18599-256b-49a5-999d-89e63e63038f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추악함이라는 아름다움 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1052,6 +1057,7 @@
             <guid>https://www.elle.co.kr/article/84856</guid>
             <pubDate>Fri, 15 Mar 2024 15:13:31 GMT</pubDate>
             <content:encoded><![CDATA[마릴린 민터가 아름다움을 말하는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/16/184b0a13-bf36-4d50-9a47-ab62182f1bfb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
