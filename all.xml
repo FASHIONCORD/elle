@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 15:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 16:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1360,18 +1360,21 @@
             <guid>https://www.elle.co.kr/article/84822</guid>
             <pubDate>Wed, 27 Mar 2024 03:15:08 GMT</pubDate>
             <content:encoded><![CDATA[다시 해가 뜬다. 지금 과테말라의 마야인 여성들이 함께 손잡고 이룩해 낸 눈부신 성취들 틈새...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/48e1b57d-bc74-4d6e-ad00-3d731d241a44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리랜서가 내 일에 가격을 붙이는 법 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84853</link>
             <guid>https://www.elle.co.kr/article/84853</guid>
             <pubDate>Mon, 25 Mar 2024 15:15:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/994519d0-2aac-4720-8570-5563216f93fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미친 물가 속에서 살아남는 법 #돈쓸신잡 141 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84816</link>
             <guid>https://www.elle.co.kr/article/84816</guid>
             <pubDate>Mon, 25 Mar 2024 08:18:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/dc1559fe-3329-4fc7-a0ae-7d73984406e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르 보이스] 요조숙녀 프로젝트 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1379,6 +1382,7 @@
             <guid>https://www.elle.co.kr/article/84725</guid>
             <pubDate>Thu, 21 Mar 2024 09:13:47 GMT</pubDate>
             <content:encoded><![CDATA[좋은 '여자' 말고 더 나은 내가 되기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/9d6bdd00-57ea-4410-8d90-a93fb83af17c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매치스패션이 문을 닫는다 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1386,18 +1390,21 @@
             <guid>https://www.elle.co.kr/article/84734</guid>
             <pubDate>Tue, 19 Mar 2024 03:14:19 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡의 파페치 인수에 이어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/3ae19a1c-6946-4e8c-a444-551bb4f05d7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전시부터 강연, 클래스까지! 세계 여성의 날 기념 행사 총정리 #가볼만한곳 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84718</link>
             <guid>https://www.elle.co.kr/article/84718</guid>
             <pubDate>Mon, 18 Mar 2024 15:13:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/19ebb910-486d-47e3-b2eb-7c82649dcf2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 세계 여성의 날 구호, '포용을 고취하라'의 의미 #InspireInclusion (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84706</link>
             <guid>https://www.elle.co.kr/article/84706</guid>
             <pubDate>Fri, 15 Mar 2024 14:14:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/b8c950e7-6da9-4cc4-b9b1-e1acc9108dae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르 보이스] 커뮤니티라는 소중한 방 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -1405,6 +1412,7 @@
             <guid>https://www.elle.co.kr/article/84696</guid>
             <pubDate>Thu, 14 Mar 2024 03:14:40 GMT</pubDate>
             <content:encoded><![CDATA[일하는 여성 커뮤니티 뉴그라운드 황효진 대표가 외롭지 않은 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/2ff908c3-2e5e-4861-bd73-b5ad49527134.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
