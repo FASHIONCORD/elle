@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 12:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 13:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1057,12 +1057,14 @@
             <link>https://www.elle.co.kr/article/84742</link>
             <guid>https://www.elle.co.kr/article/84742</guid>
             <pubDate>Mon, 11 Mar 2024 03:15:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/6829e05c-7770-49da-b05b-2b8a7f8cc7e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/84625</link>
             <guid>https://www.elle.co.kr/article/84625</guid>
             <pubDate>Mon, 04 Mar 2024 12:00:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/2f586016-81c3-4735-b555-75dba0a303da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이토록 '슈퍼'한 르세라핌 다섯 명이 확장시킨 소녀의 정의 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1070,12 +1072,14 @@
             <guid>https://www.elle.co.kr/article/84512</guid>
             <pubDate>Tue, 27 Feb 2024 15:12:57 GMT</pubDate>
             <content:encoded><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/72e35eaa-4743-4492-ae07-11f9bf9395c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이거 공짜로 봐도 되나요? 차은우가 말아주는 '텐미닛'.mp4 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/84484</link>
             <guid>https://www.elle.co.kr/article/84484</guid>
             <pubDate>Mon, 26 Feb 2024 11:10:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/91053f11-7360-4d4c-b8cf-e1c0987cd35f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화려한 여정, <싱어게인3> Top7의 우리 어느 기쁜날 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1221,21 +1225,18 @@
             <guid>https://www.elle.co.kr/article/84996</guid>
             <pubDate>Mon, 25 Mar 2024 07:13:21 GMT</pubDate>
             <content:encoded><![CDATA[예체능 천재 맞네요]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/25/0b20a9cf-d33f-439e-8e4a-6d39ee819867.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 옥션에서는 어떤 작품을 팔까? (feat. 권지용 그림) (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84907</link>
             <guid>https://www.elle.co.kr/article/84907</guid>
             <pubDate>Tue, 19 Mar 2024 11:12:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/31ab998b-dcd2-40e5-954f-b4c5a23b63f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽃 피기 전에 만나는 한국 작가들의 봄꽃 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84877</link>
             <guid>https://www.elle.co.kr/article/84877</guid>
             <pubDate>Mon, 18 Mar 2024 09:13:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/83eacce4-8166-4e2d-8e96-a58f96963114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추악함이라는 아름다움 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1243,7 +1244,6 @@
             <guid>https://www.elle.co.kr/article/84856</guid>
             <pubDate>Fri, 15 Mar 2024 15:13:31 GMT</pubDate>
             <content:encoded><![CDATA[마릴린 민터가 아름다움을 말하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/16/184b0a13-bf36-4d50-9a47-ab62182f1bfb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파리 올림픽 포스터가 유독 따뜻한 이유 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -1344,7 +1344,6 @@
             <guid>https://www.elle.co.kr/article/84953</guid>
             <pubDate>Mon, 25 Mar 2024 19:11:36 GMT</pubDate>
             <content:encoded><![CDATA[45년 전통을 자랑하는 떡볶이 맛집과 낭만 가득한 포차 횟집, K-디저트 카페 등 N차 방문을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/22/15c52bf2-d189-4f6a-9ef7-044161f7df14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복을 찾아 떠난 부부의 집 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -1352,14 +1351,12 @@
             <guid>https://www.elle.co.kr/article/84842</guid>
             <pubDate>Fri, 22 Mar 2024 16:16:52 GMT</pubDate>
             <content:encoded><![CDATA[샐러드&amp;샌드위치 가게, '샐러드 셀러'의 주인장 부부가 잘 먹고, 잘 쉬고, 잘 살기 위해 마련...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/21/0ecd816b-4cf1-4219-bee5-78a3aa2fd8ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[춘분 맞이 기력 회복에 좋은 봄나물 맛집 추천 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84905</link>
             <guid>https://www.elle.co.kr/article/84905</guid>
             <pubDate>Fri, 22 Mar 2024 15:13:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/e74b59f6-90ce-4830-9c47-fd7af0c5e92e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUNRISE, 마야 여성들이 이룩한 것들 (엘르 코리아 ─ 소사이어티)]]></title>
