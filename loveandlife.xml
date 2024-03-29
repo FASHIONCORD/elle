@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 20:14:40 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[‘요정재형’ 식탁 위 아이템의 출처를 찾아서]]></title>
-            <link>https://www.elle.co.kr/article/85011</link>
-            <guid>https://www.elle.co.kr/article/85011</guid>
-            <pubDate>Wed, 27 Mar 2024 12:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[정우성, 고현정, 조승우까지 엄청난 게스트로 화제인 정재형의 유튜브 채널! 스타들마저 궁금했던...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/26/eb24d953-3dae-400c-9d09-75577722bf0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제 강아지의 날 기념! 우리집 댕댕이와 추억 만들기 좋은 행사 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/84976</link>
-            <guid>https://www.elle.co.kr/article/84976</guid>
-            <pubDate>Wed, 27 Mar 2024 09:14:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/23/744c53b5-c870-40a5-9ab2-8ca441b1c817.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 김 시대]]></title>
-            <link>https://www.elle.co.kr/article/84844</link>
-            <guid>https://www.elle.co.kr/article/84844</guid>
-            <pubDate>Tue, 26 Mar 2024 15:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[김, 감태, 우뭇가사리, 매생이・・・. 해양 식재료들의 과감하고 발칙한 시도가 엿보이는 디저트 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/23/d99c1214-d33d-4db5-82da-9e760a41d855.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈으로 즐기는 벚꽃 디저트 #도쿄핫플]]></title>
-            <link>https://www.elle.co.kr/article/84973</link>
-            <guid>https://www.elle.co.kr/article/84973</guid>
-            <pubDate>Tue, 26 Mar 2024 10:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[프랜차이즈 음료점부터 호텔 베이커리까지 온통 핑크 빛으로 물든 도쿄의 디저트 코너를 소개합니...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/22/13877258-9749-4f5b-8326-1e7f24ad7c69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[25평 집에 수영장까지 있다고요?]]></title>
-            <link>https://www.elle.co.kr/article/84957</link>
-            <guid>https://www.elle.co.kr/article/84957</guid>
-            <pubDate>Tue, 26 Mar 2024 09:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[좁은 면적을 활용한 해외 집 3]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/22/fee87b0c-c8a5-425d-a3a8-a91ebedf4f2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤혜진 픽! 양평 로컬 맛집 대방출 3]]></title>
-            <link>https://www.elle.co.kr/article/84953</link>
-            <guid>https://www.elle.co.kr/article/84953</guid>
-            <pubDate>Mon, 25 Mar 2024 19:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[45년 전통을 자랑하는 떡볶이 맛집과 낭만 가득한 포차 횟집, K-디저트 카페 등 N차 방문을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/22/15c52bf2-d189-4f6a-9ef7-044161f7df14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복을 찾아 떠난 부부의 집]]></title>
-            <link>https://www.elle.co.kr/article/84842</link>
-            <guid>https://www.elle.co.kr/article/84842</guid>
-            <pubDate>Fri, 22 Mar 2024 16:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[샐러드&amp;샌드위치 가게, '샐러드 셀러'의 주인장 부부가 잘 먹고, 잘 쉬고, 잘 살기 위해 마련...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/21/0ecd816b-4cf1-4219-bee5-78a3aa2fd8ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춘분 맞이 기력 회복에 좋은 봄나물 맛집 추천 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/84905</link>
-            <guid>https://www.elle.co.kr/article/84905</guid>
-            <pubDate>Fri, 22 Mar 2024 15:13:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/e74b59f6-90ce-4830-9c47-fd7af0c5e92e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2024-03-29T21:12:18.741Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘요정재형’ 식탁 위 아이템의 출처를 찾아서]]></title>
+        <id>https://www.elle.co.kr/article/85011</id>
+        <link href="https://www.elle.co.kr/article/85011"/>
+        <updated>2024-03-27T12:23:24.724Z</updated>
+        <content type="html"><![CDATA[정우성, 고현정, 조승우까지 엄청난 게스트로 화제인 정재형의 유튜브 채널! 스타들마저 궁금했던...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국제 강아지의 날 기념! 우리집 댕댕이와 추억 만들기 좋은 행사 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84976</id>
+        <link href="https://www.elle.co.kr/article/84976"/>
+        <updated>2024-03-27T09:14:11.508Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새 김 시대]]></title>
+        <id>https://www.elle.co.kr/article/84844</id>
+        <link href="https://www.elle.co.kr/article/84844"/>
+        <updated>2024-03-26T15:12:54.714Z</updated>
+        <content type="html"><![CDATA[김, 감태, 우뭇가사리, 매생이・・・. 해양 식재료들의 과감하고 발칙한 시도가 엿보이는 디저트 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈으로 즐기는 벚꽃 디저트 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/84973</id>
+        <link href="https://www.elle.co.kr/article/84973"/>
+        <updated>2024-03-26T10:14:39.608Z</updated>
+        <content type="html"><![CDATA[프랜차이즈 음료점부터 호텔 베이커리까지 온통 핑크 빛으로 물든 도쿄의 디저트 코너를 소개합니...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25평 집에 수영장까지 있다고요?]]></title>
+        <id>https://www.elle.co.kr/article/84957</id>
+        <link href="https://www.elle.co.kr/article/84957"/>
+        <updated>2024-03-26T09:13:40.428Z</updated>
+        <content type="html"><![CDATA[좁은 면적을 활용한 해외 집 3]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤혜진 픽! 양평 로컬 맛집 대방출 3]]></title>
+        <id>https://www.elle.co.kr/article/84953</id>
+        <link href="https://www.elle.co.kr/article/84953"/>
+        <updated>2024-03-25T19:11:36.129Z</updated>
+        <content type="html"><![CDATA[45년 전통을 자랑하는 떡볶이 맛집과 낭만 가득한 포차 횟집, K-디저트 카페 등 N차 방문을 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[행복을 찾아 떠난 부부의 집]]></title>
+        <id>https://www.elle.co.kr/article/84842</id>
+        <link href="https://www.elle.co.kr/article/84842"/>
+        <updated>2024-03-22T16:16:52.405Z</updated>
+        <content type="html"><![CDATA[샐러드&amp;샌드위치 가게, '샐러드 셀러'의 주인장 부부가 잘 먹고, 잘 쉬고, 잘 살기 위해 마련...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[춘분 맞이 기력 회복에 좋은 봄나물 맛집 추천 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84905</id>
+        <link href="https://www.elle.co.kr/article/84905"/>
+        <updated>2024-03-22T15:13:48.338Z</updated>
+    </entry>
+</feed>
