@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-28T23:15:53.408Z</updated>
+    <updated>2024-03-29T00:53:35.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 안무팀장 제이홉의 춤 이야기와 김순옥표 막장 드라마가 있는 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/85038</id>
+        <link href="https://www.elle.co.kr/article/85038"/>
+        <updated>2024-03-29T00:52:16.708Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브래드 피트와 페넬로페 크루즈가 출연한 작품 개봉?]]></title>
         <id>https://www.elle.co.kr/article/85035</id>
@@ -50,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/84994"/>
         <updated>2024-03-27T00:51:58.509Z</updated>
         <content type="html"><![CDATA[아일릿 다섯 소녀들이 전해온 떨리는 데뷔 인사.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱과 이준영, 홍수주의 숲]]></title>
-        <id>https://www.elle.co.kr/article/84969</id>
-        <link href="https://www.elle.co.kr/article/84969"/>
-        <updated>2024-03-27T00:51:58.513Z</updated>
-        <content type="html"><![CDATA[어둠 속에서 아주 희미한 빛을 향해 파고드는 세 사람. &lt;로얄로더&gt;의 이재욱, 이준영 그리고 홍...]]></content>
     </entry>
 </feed>
