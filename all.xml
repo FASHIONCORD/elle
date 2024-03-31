@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 00:58:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 01:55:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -987,12 +987,14 @@
             <link>https://www.elle.co.kr/article/85019</link>
             <guid>https://www.elle.co.kr/article/85019</guid>
             <pubDate>Wed, 27 Mar 2024 08:16:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/26/6b83c21a-716b-42d9-9b7d-9998731de0fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벌써 고등학생 된 '아빠 어디가' 윤후X송지아 근황.jpg (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/85017</link>
             <guid>https://www.elle.co.kr/article/85017</guid>
             <pubDate>Wed, 27 Mar 2024 07:11:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/26/1351b333-d28d-4366-a9c4-5301a4c42d1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['하이브 막내딸' 아일릿, 슈퍼엘르 커버 장식 (엘르 코리아 ─ 스타)]]></title>
@@ -1000,6 +1002,7 @@
             <guid>https://www.elle.co.kr/article/84994</guid>
             <pubDate>Wed, 27 Mar 2024 00:51:58 GMT</pubDate>
             <content:encoded><![CDATA[아일릿 다섯 소녀들이 전해온 떨리는 데뷔 인사.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/26/39d65a70-7a2d-45a2-8f9f-6c1c2fe0f248.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안보현 인생 캐릭터 경신한 '재벌X형사' 종영 기념 명장면 총정리 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -1056,12 +1059,14 @@
             <link>https://www.elle.co.kr/article/84742</link>
             <guid>https://www.elle.co.kr/article/84742</guid>
             <pubDate>Mon, 11 Mar 2024 03:15:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/6829e05c-7770-49da-b05b-2b8a7f8cc7e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/84625</link>
             <guid>https://www.elle.co.kr/article/84625</guid>
             <pubDate>Mon, 04 Mar 2024 12:00:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/2f586016-81c3-4735-b555-75dba0a303da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이토록 '슈퍼'한 르세라핌 다섯 명이 확장시킨 소녀의 정의 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -1069,12 +1074,14 @@
             <guid>https://www.elle.co.kr/article/84512</guid>
             <pubDate>Tue, 27 Feb 2024 15:12:57 GMT</pubDate>
             <content:encoded><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/72e35eaa-4743-4492-ae07-11f9bf9395c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이거 공짜로 봐도 되나요? 차은우가 말아주는 '텐미닛'.mp4 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/84484</link>
             <guid>https://www.elle.co.kr/article/84484</guid>
             <pubDate>Mon, 26 Feb 2024 11:10:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/91053f11-7360-4d4c-b8cf-e1c0987cd35f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화려한 여정, <싱어게인3> Top7의 우리 어느 기쁜날 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
