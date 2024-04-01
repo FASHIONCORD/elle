@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ NOTICE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 07:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 08:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 엘르 스테이지 블라인드 티켓 오픈 (4/8, 한정수량 100매)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37576803&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37576803&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 01 Apr 2024 08:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDFfNDMg/MDAxNzExOTU3ODI2NjQ4.Qe47jB6gpWTupGPBcT-MG8a-scWv6TdSyWxhOz2Tjfgg.J6N54_fAYUyz1wFS_ol_9_w1UN6khaAzwpKqqdbye70g.JPEG/IpP1aUoCuP8MF7rmAfYLa6gAW-UQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이벤트] 내가 엘르 유튜브 담당자였다면?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36802116&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 Jan 2024 17:11:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjBfMTU0/MDAxNjYzNjQwNTU1NDY0.0-I7uh0Z051wmTBaz6bdtjnXLEYwbTqKn_5pzO96LyEg.EhHI_QM6vjLrfOE2pa1-tDaONEpbrX89opzsk5ZVCHUg.JPEG/IauYlJ8tnDCvZa7wyWKffnYwkYJs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘르 30주년 리커넥트 콘서트 FAQ - 자주 묻는 질문 모음!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34494197&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34494197&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 08 Jan 2024 17:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTg1/MDAxNjYzNTc3NjY4MTA5.AQqL040CFel5eDTJ-E_hw6tptpj4XK6BhJNOiKQ6dKEg.2p3NrpCvjQMXh1yH2-tw8kGhuw-r47mVfFqN-xoH2d4g.JPEG/I4rAl2gt6QETKq88nTAljoReTn_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
