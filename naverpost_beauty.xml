@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 05:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 06:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제로 콜라는 다이어트 음료일까?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38164797&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38164797&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 16 Jul 2024 06:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MTZfMjYw/MDAxNzIxMTA3MTAwMzE3.xuXJEcCux6IDDMyoLojzAfWEytfTbxI_UbqTTtWwqC0g.wCj0WqA9N2uYET2iREqXI03Km1FXOeU6434D4Whkl0Ug.JPEG/IKkpJ-LHsB9MAGyKxkTe-3vzHrww.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맑고 건강한 배우 황민현의 
 빛나는 뷰티 화보]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 14 Aug 2023 02:16:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MTRfMjM4/MDAxNjkxOTc2OTgwMDMy.wTJaUC7HICg8zcmXJ9XG1vmHuIa_fhTKIZWEjZ1foyQg.0Stzll7m7WI5fmUig7C6_R1xiEwN9ZPw7tkyCH2HFdYg.JPEG/IpYWUwOVTUdRitQXwOf1VOjtGaQ4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 메이크업의 킥! #주근깨메이크업]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36385741&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36385741&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Thu, 10 Aug 2023 06:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MTBfMTg1/MDAxNjkxNjQ0ODk2MDQ4.UorRuCJi5cwddauAlX7pu5cwYJiL0Clmaq-V5KXHIawg.d41PTSG-1uOHhEJKOodaVxZYSNOJCagxGJXEj6t6tZsg.JPEG/InRuf10YNNOnQ1ZSJabbJq61Ingg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
