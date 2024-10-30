@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 01:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 02:55:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니부터 신민아까지, 각자의 매력대로 레더 스타일링]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39920890&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39920890&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 30 Oct 2024 02:49:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMjlfMjQx/MDAxNzMwMTgyNDg4Njkw.-pjmXWe7BZgQCLuxMsUO6_mhvSfiKuUhgN0p1n6OfaQg.WmUgX1zt0LTQobqoIxxPdNxXUh71Z2TMmSkW5taSZVYg.JPEG/IxFulre4Ixe8dqPzm717wlGPM5To.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사복 천재들의 스타킹 활용 백서]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39799048&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 30 Aug 2024 01:02:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MzBfOTkg/MDAxNzI0OTc4NTkzMDQ5.pDnTxv8-9ye15tj4Sr7XjNveHNxRmBjXRAMaRYc2jJQg.jey268tgTcsZZdYLvenAmYxKxXFJoUK5eIjarMX7FU0g.JPEG/IUUrxFIPkZ4PrP5Lenpvj78-74VY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끄은적끈적한 여름엔 보기만 해도 쿨한 블랙 톱!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38176039&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38176039&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Thu, 18 Jul 2024 07:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MThfMyAg/MDAxNzIxMjg0NTIxNTc2.6hbGm3sbjGUZjgcuoiVWkO42-6W2W1HfTRlrME9h-uQg.DthRsQkRcy8stpQk63tSP0wafo3iBCIBxZbZm1e6Bbcg.JPEG/IG1q3p8r6O66RN7npKKo1YW5XI7c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
