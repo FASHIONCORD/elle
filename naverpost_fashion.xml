@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 01:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 03:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러블리하거나 쿨하게 입는 데님 재킷 활용법 5]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40003198&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=40003198&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 01 Nov 2024 02:57:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMzFfMjky/MDAxNzMwMzYwNTEyNDM5.5UE3bSPjYB1WiAKsRixJLOjmx1SRRmOWWnqjz07MMswg.2urLVx1yu1wQE7_AQOdVyp7PTFXKcY2-JvsyVU9HTIcg.JPEG/IdYaXf9EwT1lrRTvfqQMCgVxeX24.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니부터 신민아까지, 각자의 매력대로 레더 스타일링]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39920890&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 02 Sep 2024 05:14:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MDJfNTYg/MDAxNzI1MjU0MzgwMzIy.RQ3t36WvVFt9hYNNgKjMBomqH0ieuYlji4585-Nsd1wg.68JoBJJWdttS0hJAgGBdAyKHhlwavnUr5_F_LFmFQ7gg.JPEG/ISklMOtcyuINdEQY1xi1NN--njIw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 패션의 새 지평: 이수혁과 TIME HOMME의 특별한 만남]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38782668&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38782668&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Fri, 30 Aug 2024 01:02:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MzBfOTkg/MDAxNzI0OTc4NTkzMDQ5.pDnTxv8-9ye15tj4Sr7XjNveHNxRmBjXRAMaRYc2jJQg.jey268tgTcsZZdYLvenAmYxKxXFJoUK5eIjarMX7FU0g.JPEG/IUUrxFIPkZ4PrP5Lenpvj78-74VY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
