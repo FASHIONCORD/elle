@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ NOTICE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 08:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 09:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이징 스타 송건희, 
+엘르 웹 예능 '건희함' MC되다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40041707&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=40041707&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 01 Nov 2024 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMDFfMjUy/MDAxNzMwNDUwMzk4MjQ5.pZ5y2WoKdwnG1t5MR8mxDXuCMyCz2MowdgU8-g5gaUog.mOrgAkO64FznTyCH2botCoR1ssoEQ9QLNS_Sfzie-Lkg.JPEG/I3XEDGmD2PM9hPoymBsBvlqTeSno.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘르 스타일 어워즈 2024 유튜브 라이브 #이벤트]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39674352&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -159,14 +168,6 @@
             <pubDate>Tue, 15 Oct 2024 15:15:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjhfNTMg/MDAxNjY2OTM3ODExODk2.bt2fFE3It5XkTeuQ2hROhYR-dQ9sYz_CuUB5G5M9H2Ag.qtkqSTuGyruE2ZVJo-kRjCoxb4DNMEzcR25D2cZdblEg.JPEG/IzXvNHVdDZvYxNXEKLjICDETCLQg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘르런2022 이벤트 당첨자 발표]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34617580&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34617580&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 15 Oct 2024 15:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTNfNTAg/MDAxNjY1NjI4NjYwODAx.qQvZFw64eL63Cjp-YYjLrvwxJUIV1OzOLkGIp0LPGuIg.bDkqK4YpIUjrsNqh-63j8OQ10q5ZkQLP3FXF290955wg.JPEG/Iz5cgppvDYTqAb_c2p9w-9XT1dVQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
