@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 01:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 02:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 계절의 사랑을 독차지한 아가일 패턴]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40139248&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=40139248&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 05 Nov 2024 02:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMDRfMTM0/MDAxNzMwNzAxNzk0NzM0.RI42Vk_cMoWGxL-j0-NvQjx-FphG2r6Hqq0f97UXTK4g.-CTmEJNkbdiYw_JsfdASLNF_u2FmCrcpBblgEFgN9zYg.JPEG/I7SQcScbY4r9eYQQ4Fkr4zqQBqIE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러블리하거나 쿨하게 입는 데님 재킷 활용법 5]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40003198&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 03 Sep 2024 06:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MDNfMTcz/MDAxNzI1MzQyNTEyODgx.IdwgA19HK0SYFXnSMfbFEeeBp1AbzEM54ouIVan8VoUg.M-8HUfM0yKaxuRAzOB9g4RO5KFwDDwiZ-z3uVnyBvzkg.JPEG/IN1COvvSabPrhX0WzZM-46NABzMg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야구 직관갈 때 따라하고 싶은 차은우, 카리나의 시구 룩]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38836067&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38836067&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Sep 2024 05:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MDJfNTYg/MDAxNzI1MjU0MzgwMzIy.RQ3t36WvVFt9hYNNgKjMBomqH0ieuYlji4585-Nsd1wg.68JoBJJWdttS0hJAgGBdAyKHhlwavnUr5_F_LFmFQ7gg.JPEG/ISklMOtcyuINdEQY1xi1NN--njIw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
