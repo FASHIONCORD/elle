@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 05:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 06:28:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한파에도 코트와 함께 웃고 떠들고 행복하고 싶다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=41838883&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=41838883&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Tue, 03 Dec 2024 06:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDNfMTQ2/MDAxNzMzMjAzMTgwODgw.EArNCcXP5QXdtAPu9mu6mnY_bruYPsV1Y8xwnEUpqd0g.f9j-pdZXfo-50b_bnXIcFwltISnJ9EiLf1rdVndioPYg.JPEG/IPKKzwuxrE5QSjFOGxPB_jm3PHlo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울이면 사복 천재들은 이 스웨터를 꺼내 입는다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=41358206&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 Sep 2024 01:07:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjRfMTA5/MDAxNzI3MTM4NjMwNzM4.wNOa7V4kB_JsTDfZPjyhzwZdW86NsiIfsXRoakwRJTQg.x1JemEsaJs0ore3czWT6Npom5cvAEYXBJRgg3_i2X3Ag.JPEG/IytgTe9y-60IRIuhIgLDPwCHIisQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계절이 바뀌어도 식을 줄 모르는 '백꾸'의 인기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39157045&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39157045&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Fri, 20 Sep 2024 02:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjBfNTYg/MDAxNzI2Nzk1NTcwNzE5.B6fLgoq0_yB9r8HM23rTh34oHH1iLEWRGA2zbD5y4Ekg.j9SXSWEaKZETswaI6bNRKnlPLlTcaUJPqcrzOTQd2FIg.JPEG/IGn3HT3MGco7-qwDvsvOMqhkluBw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
