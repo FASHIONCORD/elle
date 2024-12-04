@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 23:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 01:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬의 로맨틱 홀리데이 기프트]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=41737920&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=41737920&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 04 Dec 2024 01:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDJfMTU4/MDAxNzMzMTAzMDYyNjM4.jT172aMeTkOdUyw_2bK1OB0oFJ2OBm4hoSYi73DnoBAg.tDdM-ESeEcI2rF9haPlUCycE38me5Tw90nIyk4rCYKgg.JPEG/IDTduKWbsbovmZBvY54IkhyQJN54.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성난 팔뚝 완성한 정해인이 최근 푹 빠진 운동 #스타다이어트]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39146023&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -171,14 +179,6 @@
             <pubDate>Thu, 24 Aug 2023 08:14:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjRfODkg/MDAxNjkyODYzMjE1NTAx.zzM7TDb4vIhl3EHDHfnLl46yCvcEC3QISmXacVj4Lgkg.irO-WfuQadxvisiWGAYl4mRmOVilZB39GqVndJqp8CIg.JPEG/ILJLQ5o5D5zzlv8BzX_PLt7RTVX0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엘르> 뷰티 팀 3인이 공유하는 여름 기억을 담은 향수]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36443748&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36443748&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 22 Aug 2023 03:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMjUx/MDAxNjkyNjcyMDI0ODI3.zCWmaxu5E0-8iB2GmKhgAoMvH3rdJRQpruH5d4dVt-wg.LNIKpI8jDIKz9Pz9eRBz7nB6ipTbLCxUP8UlXmK-00og.JPEG/IJdRKVMQZ7R7WYdQOW74h2ujckBA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
