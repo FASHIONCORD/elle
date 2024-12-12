@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ BEAUTY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 06:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 07:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잊지 못할 겨울의 향기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=42354300&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=42354300&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Thu, 12 Dec 2024 07:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDlfMzkg/MDAxNzMzNzExMzY5NTUw.f5JEL57YtVgTadtmq_VJTq4QONpvY7Eqj95hv8gZYAcg.RE6xfQ2CDyt1w3XBNCsZs_l7xX3LNLM3K1suELjVaAIg.JPEG/ImUfxd_hOSNVNwRXeD6BrmICGwiA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이솝의 영화같은 순간]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=42352747&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -164,15 +172,6 @@
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36994927&amp;memberNo=12504201&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36994927&amp;memberNo=12504201&amp;navigationType=push</guid>
             <pubDate>Wed, 06 Dec 2023 01:55:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어 케어 비결을 전하는 
-오리베의 달콤한 속삭임]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36985262&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36985262&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Mon, 04 Dec 2023 08:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
         </item>
