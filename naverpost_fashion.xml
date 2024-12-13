@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 23:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 01:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 12 Dec 2024 05:16:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDlfNjkg/MDAxNzMzNzIzMjkzNzY1.ZiaYgiQTrUoJ2vOzDKgtf_ma7cxvmfKiUXLX_b6Ge1wg.NifQyL0mdCoxid0-ZsH2iTokm5pAV5vYuZLDk_Vxkfsg.JPEG/IRmGTFs-narzyI22pjD4wzDYzGc0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파티의 클라이맥스는 너]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=42353949&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=42353949&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 13 Dec 2024 01:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDlfMTA3/MDAxNzMzNzExMDU4Mzcz.0L_DES8pHv4OAiA5fisR784or09G7PnUpVVXCjTvMwMg.ibSKTNGVQ-xb_pn-_XHeTkL08yPobDiGNykxcCgc-JYg.JPEG/I8G3UUwcuRbULy6dPHEqMdhkI2Yk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈꽃의 절정에 피어난 주얼리]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Nov 2024 02:44:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMDRfMTM0/MDAxNzMwNzAxNzk0NzM0.RI42Vk_cMoWGxL-j0-NvQjx-FphG2r6Hqq0f97UXTK4g.-CTmEJNkbdiYw_JsfdASLNF_u2FmCrcpBblgEFgN9zYg.JPEG/I7SQcScbY4r9eYQQ4Fkr4zqQBqIE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러블리하거나 쿨하게 입는 데님 재킷 활용법 5]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40003198&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=40003198&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Fri, 01 Nov 2024 02:57:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMzFfMjky/MDAxNzMwMzYwNTEyNDM5.5UE3bSPjYB1WiAKsRixJLOjmx1SRRmOWWnqjz07MMswg.2urLVx1yu1wQE7_AQOdVyp7PTFXKcY2-JvsyVU9HTIcg.JPEG/IdYaXf9EwT1lrRTvfqQMCgVxeX24.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
