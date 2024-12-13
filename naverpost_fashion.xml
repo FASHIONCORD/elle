@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ FASHION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 04:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 05:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['폭닥폭닥'한 겨울]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=42354991&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=42354991&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Fri, 13 Dec 2024 05:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDlfNSAg/MDAxNzMzNzExOTMxNTc2.7_ZDDy11VKm-cCO1juar_BEiDVyHZ2LKO1KWmXKVvXMg.sNEShspS6f4Cg2iiHJJF9r7aBKlLhtHbbN4rzIZDcL0g.JPEG/IpKEI_BFbVA_dBi3VDHSoGJKt1R4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[린드버그가 전하는 낭만적인 시선]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=42354587&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Nov 2024 02:42:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMTJfMjE3/MDAxNzMxMzc2NTk4Njkz.mOye6iie5Zu33y9hzkW4TfsVLEWbEbuyr4-uJid5I-sg.UcH2iWCrCg5JGlmXTlatxeGDwTL6eWxycHo_1D0yPYcg.JPEG/IsJBAOckmF2YewkpPu6Oky1qLX2w.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 계절의 사랑을 독차지한 아가일 패턴]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40139248&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=40139248&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Tue, 05 Nov 2024 02:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMDRfMTM0/MDAxNzMwNzAxNzk0NzM0.RI42Vk_cMoWGxL-j0-NvQjx-FphG2r6Hqq0f97UXTK4g.-CTmEJNkbdiYw_JsfdASLNF_u2FmCrcpBblgEFgN9zYg.JPEG/I7SQcScbY4r9eYQQ4Fkr4zqQBqIE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
