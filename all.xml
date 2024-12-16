@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 04:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 05:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMzFfNzcg/MDAxNjc1MTQyMzc0Mzky.yNLWMg7nwocCf36I0KeBY-pCs5_3-ptiQMM9H6z_tGsg.rxiht5vq0gRkoRbyYSea5pR5TP0tmqwBXlChimVDEawg.JPEG/IrTM0qNXvu3DVopUxS240lreU8cQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비햅의 마법 (네이버 포스트 ─ 엘르 코리아 ─ BEAUTY)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=42690256&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=42690256&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Mon, 16 Dec 2024 05:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMTJfMzEg/MDAxNzMzOTc5MDA3MzM1.pv6LXQYP1Gyad2MEIrUpFN4n5BJCa0-uSoHzKq13J9cg.21pUj5hQ9QRhtAmlj54BHXEWqI065lllnC_IkP4_6fkg.JPEG/IhhdKsu8JCOc9DSlREYuLgC-h0qo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[잊지 못할 겨울의 향기 (네이버 포스트 ─ 엘르 코리아 ─ BEAUTY)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=42354300&amp;memberNo=12504201&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=42354300&amp;memberNo=12504201&amp;navigationType=push</guid>
@@ -325,15 +333,6 @@
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37020189&amp;memberNo=12504201&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37020189&amp;memberNo=12504201&amp;navigationType=push</guid>
             <pubDate>Mon, 11 Dec 2023 06:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리케이의 마법같은 
-타임 리버스 크림 (네이버 포스트 ─ 엘르 코리아 ─ BEAUTY)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36994927&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36994927&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Wed, 06 Dec 2023 01:55:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMTdfMjYy/MDAxNTQ1MDEwMzk5NTEx.fEOHTk4pr9sKj804slfseQ3h00kWMyOIEksZo1iBgBYg.kOTwejlmgQKn9151R0F6G4Excv2R9KwQwmo7qwBUJGgg.JPEG/post_1472542383058685143.jpg?type=f40_40" length="0" type="image/jpg"/>
         </item>
