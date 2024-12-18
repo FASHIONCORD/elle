@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 엘르 코리아 ─ LOVE &amp; LIFE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 04:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 05:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홀리데이 홈카페]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=42823195&amp;memberNo=12504201&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=42823195&amp;memberNo=12504201&amp;navigationType=push</guid>
+            <pubDate>Wed, 18 Dec 2024 05:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMTNfOTIg/MDAxNzM0MDgyMjU1Mjg2.ANJ1RmbEg54Sig0wE6fJXjNQnbsOaiYorg0Tf330F4sg.90-dcxlxbLra3SVs--vPvYdN7YgVyWIa2rOVqh24s7Qg.JPEG/Iyqm9AQCgq6o3FQ0wh1666NEgnWk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프랭크버거, 파티를 부탁해!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=41929841&amp;memberNo=12504201&amp;navigationType=push</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 14 Jan 2024 06:15:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDJfMjEy/MDAxNjc1MzAyNzczNzQ5.ttB3xGBWrQXvkHQDmUYbXJJFED2VO7nPNOyOzJy5Jwog.BLdDn3C1pkhYgMVa4KA33Cihi9hIGYWyaNWtYrgIBwkg.JPEG/IUQT7QoqjQPeFSgX2spL84sj0bII.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 여행을 계획하고 있다면 주목! 스타가 떠난 휴양지 5]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35312008&amp;memberNo=12504201&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35312008&amp;memberNo=12504201&amp;navigationType=push</guid>
-            <pubDate>Sun, 14 Jan 2024 06:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">엘르 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMzFfNzcg/MDAxNjc1MTQyMzc0Mzky.yNLWMg7nwocCf36I0KeBY-pCs5_3-ptiQMM9H6z_tGsg.rxiht5vq0gRkoRbyYSea5pR5TP0tmqwBXlChimVDEawg.JPEG/IrTM0qNXvu3DVopUxS240lreU8cQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
